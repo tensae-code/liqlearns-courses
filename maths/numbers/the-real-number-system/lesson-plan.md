@@ -1,9 +1,11 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The Real Number System
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** The Real Number System
-**Place in the curriculum:** Level 55 of 136, inside Stage 1 — Numbers (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** The Real Number System
+**Place in the curriculum:** Level 55 of 136, inside Unit 1 — Numbers (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** all the numbers you know live in one system — naturals inside whole numbers inside integers inside rationals inside reals, with irrationals filling the rest of the line — and the real numbers obey named laws: closure, commutative, associative, distributive, identities and inverses.
-**This lesson's own level:** it stands on the Stage 1 number lessons (Counting, Place Value, Negative Numbers, Fractions, Decimals) — the learner has met every family before seeing the whole map. It needs nothing else.
+**This lesson's own level:** it stands on the Unit 1 number lessons (Counting, Place Value, Negative Numbers, Fractions, Decimals) — the learner has met every family before seeing the whole map. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Real Number System The Families of Numbers** — the family map N ⊂ W ⊂ Z ⊂ Q ⊂ R, placing numbers in their smallest family, and telling a rational from an irrational. (Was depth Level 1.)
+2. **The Real Number System The Laws on Whole Numbers, Fractions and Integers** — the commutative, associative and distributive laws checked on whole numbers, fractions and integers. (Was depth Level 2.)
+3. **The Real Number System The Laws for Rationals and for All Real Numbers** — the laws verified for rationals and stated for all real numbers, and additive and multiplicative inverses. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Negative Numbers (Stage 1) — the integers family is one ring of this lesson's map. Recommended, never forced.

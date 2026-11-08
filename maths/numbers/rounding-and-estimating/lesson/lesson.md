@@ -1,6 +1,6 @@
 # Rounding-and-estimating — the lesson
 
-Course: Maths · Stage: Stage 1 — Numbers · Lesson: Rounding-and-estimating
+Course: Maths · Unit: Unit 1 — Numbers · Lesson: Rounding-and-estimating
 Built from: Jordan, Grade 2 Student Book Term 1 — Vietnam, Toán 3 and Toán 4 — Armenia, Mathematics 3 Part 1 — Egypt, Grade 2 Term 1 (old Discover series) — South Africa, Grade 6 Book 1 — Greece, Grade 4
 
 ## Do it first
@@ -10,7 +10,7 @@ guess? A guess you check is an estimate. This lesson is about
 good guesses: numbers rounded to the nearest ten or hundred, and
 sums estimated before they are worked out.
 
-## Then the explanation
+## Sub lesson 1 — Rounding to the Nearest Ten
 **Nearest ten.** Jordan's Grade 2 book teaches rounding numbers
 as its own lesson (Student Book Term 1, L7, p.34). The rule: look
 at the ones digit. Five or more rounds up; four or less rounds
@@ -22,6 +22,7 @@ than 40. 43 rounds to 40 — the ones digit is 3, and 43 stands
 nearer 40. 45 sits halfway, and halfway rounds up: 45 rounds to
 50.
 
+## Sub lesson 2 — Rounding to the Nearest Hundred and Thousand
 **Nearest hundred.** Vietnam's Grade 3 book teaches rounding to
 tens and hundreds (Toán 3, Bài 48), and Armenia's Grade 3 book
 teaches rounding a natural number to a given place (§7, p.28).
@@ -39,6 +40,7 @@ The rule never changes — only the place does:
 4,736 rounds to 5,000 — the hundreds digit is 7. 4,281 rounds to
 4,000 — the hundreds digit is 2.
 
+## Sub lesson 3 — Estimating
 **Estimating.** Egypt's Grade 2 book teaches estimating before
 solving: estimate by place value, explicitly "Do not solve the
 problems" (Chapter 3, p.52), then estimate from tens digits,

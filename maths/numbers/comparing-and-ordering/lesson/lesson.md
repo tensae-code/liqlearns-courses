@@ -1,6 +1,6 @@
 # Comparing-and-ordering — the lesson
 
-Course: Maths · Stage: Stage 1 — Numbers · Lesson: Comparing-and-ordering
+Course: Maths · Unit: Unit 1 — Numbers · Lesson: Comparing-and-ordering
 Built from: Armenia, Grades 2–4 — Libya, Grade 1 — Egypt, Grade 2 Term 1 (old Discover series) — Kazakhstan, Grade 2 (Ospanov set) — Greece, Grade 4 — Jordan, Grade 4
 
 ## Do it first
@@ -9,7 +9,7 @@ count — just look. You can tell: the bigger pile takes up more
 room. Comparing starts with looking. Counting comes second, to
 check what your eyes already know.
 
-## Then the explanation
+## Sub lesson 1 — Comparing and Ordering Bigger, Smaller, Equal
 **Bigger, smaller, equal.** Libya's Grade 1 book teaches
 comparing right after counting to 20: bigger than and smaller
 than (Unit 8, p.85), then biggest and smallest (p.87) — and again
@@ -23,6 +23,7 @@ Tip — from us, not from the books: the sign is a mouth. The open
 end eats the bigger number; the sharp end points to the smaller
 number.
 
+## Sub lesson 2 — Comparing and Ordering The Biggest Place Decides
 **The biggest place decides.** Armenia's Grade 2 book teaches the
 rule plainly: compare tens first — "the stronger digit" — then
 ones (p.8). The sign's sharp end points to the smaller number.
@@ -48,6 +49,7 @@ place value within thousands (p.10), and Greece's Grade 4 book
 teaches names, comparison and ordering for numbers to 200,000
 (printed pp.92–93).
 
+## Sub lesson 3 — Comparing and Ordering The Number Line
 **The number line** shows comparing as position: bigger numbers
 live to the right, smaller numbers to the left. Armenia's Grade 2
 book teaches series of two-digit numbers on the number line, with

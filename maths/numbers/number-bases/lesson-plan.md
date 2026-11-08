@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Number Bases
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Number Bases
-**Place in the curriculum:** Level 53 of 136, inside Stage 1 — Numbers (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Number Bases
+**Place in the curriculum:** Level 53 of 136, inside Unit 1 — Numbers (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a number can be written in any base — base 2 uses only 0 and 1, base 10 uses 0–9 — and you can change a number from one base to another and do arithmetic inside a base.
 **This lesson's own level:** it stands on Place Value — the learner already knows that in base 10 each place is worth ten times the place before it. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Number Bases What a Base Is and Binary** — what a base is, which digits it allows, and changing small numbers between base 2 and base 10 both ways. (Was depth Level 1.)
+2. **Number Bases Other Bases and Converting Through Base 10** — changing numbers between base 10 and other bases, moving between two non-decimal bases through base 10, and comparing numbers in base 2. (Was depth Level 2.)
+3. **Number Bases Arithmetic in a Base, the Radix Point and the Computer Bases** — adding, subtracting, multiplying and dividing inside a base, the radix point, complements, the computer bases, and equations in bases. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Place Value (Stage 1) — a base is place value with a different bundle size. Recommended, never forced.

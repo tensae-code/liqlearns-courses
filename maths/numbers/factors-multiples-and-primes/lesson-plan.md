@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Factors-multiples-and-primes
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Factors-multiples-and-primes
-**Place in the curriculum:** Level 6, the fifth lesson of Stage 1 — the last lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Factors-multiples-and-primes
+**Place in the curriculum:** Level 6, the fifth lesson of Unit 1 — the last lesson of the stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** factors, multiples and prime numbers — what divides a number, what a number divides into, and the numbers with only two factors — with HCF and LCM.
 **This lesson's own level:** it stands on Counting (Level 2) and Multiplication is not needed yet — factors are found by dividing, and dividing here is sharing, which the learner already does with real things. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Factors and Multiples** — listing a number's factors in pairs, and its multiples in steps. (Was depth Level 1.)
+2. **Prime and Composite** — telling prime numbers from composite numbers, and testing a number for prime. (Was depth Level 2.)
+3. **HCF and LCM** — finding the HCF and the LCM of two numbers, and choosing the right one for a word problem. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting (same stage) — factors are found by counting in steps. Recommended, never forced.

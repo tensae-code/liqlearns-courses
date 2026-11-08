@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Numerals of the World
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Numerals of the World
-**Place in the curriculum:** Level 54 of 136, inside Stage 1 — Numbers (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Numerals of the World
+**Place in the curriculum:** Level 54 of 136, inside Unit 1 — Numbers (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the digits 0–9 are only one way of writing numbers — Roman, Ge'ez, Devanagari, Lao, Khmer, Hindi and ancient Egyptian numerals each write the same counts in their own signs, and South Asian naming groups large numbers in lakhs and crores.
 **This lesson's own level:** it stands on Counting and Place Value — the learner can already count and read ordinary Hindu-Arabic numbers. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Numerals of the World Roman Numerals** — reading and writing Roman numerals to 100, and spotting them in daily life. (Was depth Level 1.)
+2. **Numerals of the World The Digit Sets of the World** — recognising the digit sets of the world — Ge'ez, Devanagari, Lao, Khmer, Hindi and ancient Egyptian. (Was depth Level 2.)
+3. **Numerals of the World Lakh, Crore and the Big-Number Names** — reading and writing large numbers with South Asian grouping — lakh, crore and the big-number names. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting (Stage 1) — every system in this lesson writes the same counts you already know. Recommended, never forced.

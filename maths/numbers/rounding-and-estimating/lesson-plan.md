@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Rounding-and-estimating
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Rounding-and-estimating
-**Place in the curriculum:** Level 5, the fourth lesson of Stage 1 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Rounding-and-estimating
+**Place in the curriculum:** Level 5, the fourth lesson of Unit 1 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** rounding numbers to the nearest ten, hundred and thousand, and making sensible estimates before calculating.
 **This lesson's own level:** it stands on Comparing-and-ordering (Level 4) — the learner knows near and far on the number line. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Rounding to the Nearest Ten** — rounding a two-digit number to the nearest ten. (Was depth Level 1.)
+2. **Rounding to the Nearest Hundred and Thousand** — rounding three- and four-digit numbers to the nearest hundred and to the nearest thousand. (Was depth Level 2.)
+3. **Estimating** — estimating a sum or difference before working it out, and judging an exact answer against the estimate. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Comparing-and-ordering (same stage) — rounding is saying which ten or hundred a number is nearest to. Recommended, never forced.

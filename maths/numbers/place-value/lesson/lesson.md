@@ -1,6 +1,6 @@
 # Place-value — the lesson
 
-Course: Maths · Stage: Stage 1 — Numbers · Lesson: Place-value
+Course: Maths · Unit: Unit 1 — Numbers · Lesson: Place-value
 Built from: Egypt, Grade 2 Term 1 (old Discover series) and Grade 3 Term 1 (new SPRIX series) — Armenia, Grades 2–3 — Jordan, Grades 1–2 and 4 — Kazakhstan, Grade 2 (Ospanov set) — South Africa, Grades 2–3 Workbooks
 
 ## Do it first
@@ -10,7 +10,7 @@ How many sticks are left over? Seven. You have just done place
 value: 47 is 4 tens and 7 ones. The bundles are the tens; the
 leftovers are the ones.
 
-## Then the explanation
+## Sub lesson 1 — Place Value Tens and Ones
 **Tens and ones.** Every two-digit number is tens and ones.
 Armenia's Grade 2 book starts exactly here: two-digit numbers as
 tens + ones — 18 = 1 ten + 8 (Revision, pp.4–7) — then place
@@ -22,6 +22,7 @@ place-value components as its third lesson on two-digit numbers
 
 47 = 4 tens + 7 ones. 26 = 2 tens + 6 ones. 83 = 8 tens + 3 ones.
 
+## Sub lesson 2 — Place Value Hundreds
 **Hundreds.** Ten tens make a new place: the hundred. Egypt's
 Grade 2 book teaches ones, tens and hundreds as a whole chapter
 (old Discover series, Chapter 14, pp.26–43), and its Grade 3 book
@@ -40,6 +41,7 @@ still there. Egypt's Grade 2 book teaches zero in the tens place
 with 204 = two hundreds, 0 tens, 4 ones (Chapter 6, Part 2,
 pp.72–75). 204 is not 24: the zero holds the tens place open.
 
+## Sub lesson 3 — Place Value Thousands and Beyond
 **Thousands and beyond.** Ten hundreds make a thousand, and the
 places keep going in threes. Armenia's Grade 3 book teaches
 four-digit numbers (§1, p.7), five- and six-digit numbers (§2,

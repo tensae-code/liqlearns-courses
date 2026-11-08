@@ -1,6 +1,6 @@
 # Factors-multiples-and-primes — the lesson
 
-Course: Maths · Stage: Stage 1 — Numbers · Lesson: Factors-multiples-and-primes
+Course: Maths · Unit: Unit 1 — Numbers · Lesson: Factors-multiples-and-primes
 Built from: Egypt, Grade 4 Term 1 (Discovery Techbook) and Grade 5 Term 1 — Armenia, Mathematics 5 — Jordan, Grade 5 — Libya, Grade 7 — Kazakhstan, Grade 5 — Greece, Grade 6 — Vietnam, Toán 6 — South Africa, Grades 5–6
 
 ## Do it first
@@ -11,7 +11,7 @@ works. Twelve piles of 1 works. Five piles? 12 will not share
 into 5 equal piles. The pile sizes that work — 1, 2, 3, 4, 6, 12
 — are the factors of 12.
 
-## Then the explanation
+## Sub lesson 1 — Factors and Multiples
 **Factors.** A factor of a number divides it exactly — no
 leftover. Libya's Grade 7 book opens its numbers chapter with
 factors and multiples (opener p.9) and teaches prime factors
@@ -30,6 +30,7 @@ forever. Armenia's Grade 5 book teaches common multiples and the
 least common multiple (§5.3, p.121). Libya's Grade 7 book teaches
 multiples (p.33) and LCM (p.34).
 
+## Sub lesson 2 — Prime and Composite
 **Prime and composite.** A prime number has only two factors: 1
 and itself. 2, 3, 5, 7, 11, 13 are prime. A composite number has
 more than two factors: 4, 6, 8, 9, 10, 12 are composite. Armenia's
@@ -47,6 +48,7 @@ To test a number for prime, try dividing it by the primes up to
 its square root — if none divides it, it is prime. 29: not even,
 not a multiple of 3 (2 + 9 = 11), not a multiple of 5 — prime.
 
+## Sub lesson 3 — HCF and LCM
 **HCF.** The highest common factor is the biggest factor two
 numbers share. Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18:
 1, 2, 3, 6, 9, 18. Shared: 1, 2, 3, 6. Biggest: 6. So HCF(12, 18)

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Place-value
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Place-value
-**Place in the curriculum:** Level 3, the second lesson of Stage 1 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Place-value
+**Place in the curriculum:** Level 3, the second lesson of Unit 1 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** place value — what each digit in a number is worth: ones, tens, hundreds, thousands, and reading big numbers.
 **This lesson's own level:** it stands on Counting (Level 2) — the learner can count to 100 and count in tens. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Place Value Tens and Ones** — splitting a two-digit number into tens and ones, and building one back. (Was depth Level 1.)
+2. **Place Value Hundreds** — reading and writing three-digit numbers as hundreds, tens and ones, including a zero in a place. (Was depth Level 2.)
+3. **Place Value Thousands and Beyond** — reading big numbers by their places to millions, and writing a number in expanded form. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting (same stage) — place value is what the counted tens and ones are called. Recommended, never forced.

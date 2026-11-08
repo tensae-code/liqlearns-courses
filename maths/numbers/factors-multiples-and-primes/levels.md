@@ -1,15 +1,20 @@
-# Factors-multiples-and-primes — questions by level
+# Factors-multiples-and-primes — sub lessons and depth
 
-Practice by level, tied to the skill number. The questions live in
-the type files; this file is the by-level view. The levels are the
-depths inside this one thing — factors — factors and multiples first, then prime and composite, then HCF and LCM..
+This file is the lesson's depth record, re-expressed as its SUB
+LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub
+Lessons"). Practice is tied to the skill number, as before. The
+questions live in the type files; this file is the by-sub-lesson
+view. The sub lessons are the depths inside this one thing —
+factors — factors and multiples first, then prime and composite, then HCF and LCM.
 
+Mapping from the old depth layers: old Level 1 = Sub lesson 1;
+old Level 2 = Sub lesson 2; old Level 3 = Sub lesson 3.
 
-## Level 1 — factors and multiples
-Level 1 questions from the type files. Pass mark: list the factors of a number in pairs, and list the first five multiples of a number.
+## Sub lesson 1 — Factors and Multiples
+Sub lesson 1 questions from the type files. Pass mark: list the factors of a number in pairs, and list the first five multiples of a number.
 
-## Level 2 — prime and composite
-Level 2 questions from the type files. Pass mark: tell prime numbers from composite numbers, know that 1 is neither, and test a number for prime by its factors.
+## Sub lesson 2 — Prime and Composite
+Sub lesson 2 questions from the type files. Pass mark: tell prime numbers from composite numbers, know that 1 is neither, and test a number for prime by its factors.
 
-## Level 3 — HCF and LCM
-Level 3 questions from the type files. Pass mark: find the HCF and the LCM of two numbers, and choose the right one for a word problem.
+## Sub lesson 3 — HCF and LCM
+Sub lesson 3 questions from the type files. Pass mark: find the HCF and the LCM of two numbers, and choose the right one for a word problem.
