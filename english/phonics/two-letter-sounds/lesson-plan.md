@@ -25,7 +25,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 
 1. **The pairs set by set** — two letters team up and together say one new sound; Libya's sets across the year — ai · oa · ie · ee · or; ng and oo; ch · sh · th; qu · ou · oi · ue · er · ar — including the two two-job pairs, oo and th. (Was depth Level 1 — the basics.)
 2. **The pairs again** — Grade 2 re-teaches the pairs in a spiral — oa · ee · ue · oo (both) · th (both) · ch · sh come round again — and Egypt teaches its letter Qq as qu. (Was depth Level 2 — the spiral.)
-3. **The cover test** — cover one letter: if the sound that is left is not half the word's sound, the two letters were really saying one thing together. (Was part of depth Level 1 — the basics.)
+3. **More pairs: wh · ph · ck · kn · wr** — the five pairs the other books carry: wh (what, when, whale), ph saying f (phone, photo, graph), ck after a short vowel (clock, black), and the silent-letter pairs kn (knife) and wr (write). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — no old depth layer; the old text named ck only in its "Built from" line and taught none of the five.)
+4. **One sound, more spellings** — the long sounds spelled the other ways the books teach: ay beside ai, ea beside ee, igh and ie for long i, ow beside oa (with ow's two jobs sorted), ui beside ue, and ir/ur joining er in the r-controlled ladder. (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources.)
+5. **The cover test** — cover one letter: if the sound that is left is not half the word's sound, the two letters were really saying one thing together. (Was Sub lesson 3, part of depth Level 1 — the basics; renumbered 2026-11-08 when Sub lessons 3–4 were added ahead of it. It had no question items of its own, so no markers changed.)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -38,7 +40,11 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
    or · ng · oo · ch · sh · th · qu · ou · oi · ue · er · ar.
 2. Name the two two-job pairs (oo and th) and say both jobs of each,
    with the book's words (spoon/foot; mouth/father).
-3. Use the cover test to tell a two-letter sound from a blend.
+3. Say the sounds of wh, ph and ck, and name the silent letter in
+   kn and in wr.
+4. Read the long sounds in their other spellings — ay, ea, igh,
+   ie, ow, ui — and say the ir/ur sound; sort ow's two jobs.
+5. Use the cover test to tell a two-letter sound from a blend.
 
 ## What you need
 Paper and a pencil. A finger to cover letters with.

@@ -117,6 +117,24 @@ single letters.
 | The ee/ea spellings in Grade 2 Term 3's phonics (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
 | Vowel digraphs ou/ow, short/long oo, au/aw and oi/oy open Grade 3's Term 3 Phonics Practice (read directly) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Term 3 Phonics Practice, printed pp.114–121 |
 | The reading of **th** and **wh** systematised in the final unit's pronunciation exercises (filed there with the single letters c, g, s) | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 14, printed p.139 |
+**Sub lesson map (added 2026-11-08, whole-arc rule):** the
+rows above already stocked the full pair set; the text now
+teaches all of it. Sub lesson 3 (More pairs) is carried by
+the Jordan Grade 3 row (wh — what, when, wheel, whistle,
+whale; and ck — clock, black, backpack, truck), the Pakistan
+Grade 1 rows (ph at the start and at both ends of words),
+the Iraq Grade 4 Activity Book row (ph — phone, photo,
+elephant), the Armenia row (ck built as "SO+CK = sock"), the
+Sierra Leone row (kn in "The Knife"; wr in "Wiggle Your
+Fingers") and the Nepal Grade 2 row (the silent-kn set).
+Sub lesson 4 (One sound, more spellings) is carried by the
+Malaysia row (ay/ai side by side; ir/ur), the Iraq Grade 4
+row (ee/ea the same sound), the Ecuador row (long i as igh
+and ie; long u as ue and ui), the China Grade 5 row (the
+ow/ou split) and the China Grade 4 row (the r-controlled
+ladder er · ir/ur/er · ar · or). The cover test moved from
+Sub lesson 3 to Sub lesson 5; no existing row changed.
+
 **Acceptance count: taught in 27 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
