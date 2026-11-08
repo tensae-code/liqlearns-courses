@@ -28,7 +28,7 @@ language. The advice lines themselves — the target
 phrases — are never translated. You hear them in English,
 in an English voice, exactly as a friend would say them.
 
-## Then the explanation
+## Sub lesson 1 — Asking for advice, What should I do
 **Asking for advice.** The door into advice is a
 question: "What should I do?" Albania's doctor chapter
 builds its whole advice work on it — describe the
@@ -36,6 +36,7 @@ problem, then ask, then the advice comes back with
 should: "You should go to the doctor." (Akelius A2,
 Chapter 35.)
 
+## Sub lesson 2 — The gentle shapes, How about and Why don't you
 **The gentle shapes.** The softest advice arrives as a
 question wearing a smile: "How about…?" and "Why don't
 you…?" Nepal's Grade 7 book gathers the suggestion forms
@@ -46,6 +47,7 @@ from four problem situations with the same family: "you
 should…, How about…?, If I were in your shoes…"
 (Chapter 12, "Prudent Lifestyles," pp.137–149).
 
+## Sub lesson 3 — should, the middle rung
 **should — the middle rung.** "You should go to a
 dentist if your tooth hurts." Albania prints that very
 sentence inside its appointment chapter (Chapter 34) and
@@ -58,6 +60,7 @@ Semester 2, Unit 7) — Jordan is cited for should-advice
 only; no had better is recorded in Jordan's filing, and
 none is claimed from it.
 
+## Sub lesson 4 — If I were you, the shoes shape
 **If I were you — the shoes shape.** The kindest strong
 advice steps into the other person's place: "If I were
 you, I would…" — Nepal's form — or Malaysia's "If I were
@@ -66,6 +69,7 @@ expression). Libya builds two whole lessons on it:
 "If I were in your shoes…" and "If I were you, I wouldn't
 worry" (Grade 11, Unit 5, Lessons 5–6).
 
+## Sub lesson 5 — Libya's strength scale
 **Libya's strength scale.** Advice has a volume, and
 Libya's Grade 12 book prints the dial. Its "Giving
 advice" speaking lesson (Unit 3, Lesson 6, p.35) sets
@@ -79,6 +83,7 @@ middle; "It's a good idea to…" is the gentle offer; and
 gives. The same unit turns the scale into writing —
 leaflets giving advice (Lesson 7, p.36).
 
+## Sub lesson 6 — had better, advice with a warning inside
 **had better — advice with a warning inside.** One shape
 stands above should: had better. It says: do this — or
 something bad may follow. Libya's Grade 11 cooking

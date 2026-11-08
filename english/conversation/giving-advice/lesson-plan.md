@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Giving advice
 
 **Course:** English · **Title:** Conversation · **Lesson:** Giving advice
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** giving advice —
 helping words for a problem — at the right strength, from
@@ -11,6 +13,21 @@ the gentle "How about…?" to the strong "You'd better…".
 Why don't you…? / If I were you, I would…; climb Libya's
 advice strength scale on purpose; and use had better for
 the advice that carries a warning.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Asking for advice, What should I do** — the door into advice: describe the problem, then ask "What should I do?" (Was part of depth Level 1.)
+2. **The gentle shapes, How about and Why don't you** — the softest advice arrives as a question: "How about…?" and "Why don't you…?", gathered with the rest of Nepal's forms. (Was part of depth Level 1.)
+3. **should, the middle rung** — "You should…" — Albania's teaching point, and Jordan's rung. (Was part of depth Level 1.)
+4. **If I were you, the shoes shape** — the kindest strong advice steps into the other person's place: "If I were you, I would…" / "If I were in your shoes, I would…" (Was part of depth Level 2.)
+5. **Libya's strength scale** — advice has a volume: Libya's ladder from "It's a good idea to…" through should to "It's best to…" and the bare "Don't…" (Was part of depth Level 2.)
+6. **had better, advice with a warning inside** — "You'd better…" and "You'd better not…" — advice, order or threat, and only the voice tells which; Nepal's reporting of advice is pointed onward from here. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Soft hint only: How are you feeling work names the
