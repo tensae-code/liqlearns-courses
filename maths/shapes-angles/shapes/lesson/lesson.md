@@ -1,6 +1,6 @@
 # Shapes — the lesson
 
-Course: Maths · Stage 7, Shapes and Angles · Lesson: Shapes
+Course: Maths · Unit 7, Shapes and Angles · Lesson: Shapes
 Built from: Jordan, Grades 5, 6 and 8 (NCCD student books) —
 Egypt, Grades 3 and 5 (Discovery) — Greece, Grade 6 — Armenia,
 Geometry 7 and 8 — Kazakhstan, Grade 2 — Vietnam, Grades 3, 4
@@ -14,7 +14,7 @@ shapes with straight sides. Point at three of them. How many sides
 does each one have? Count them with your finger. That count is the
 whole lesson: a flat shape is named by its sides.
 
-## Then the explanation
+## Sub lesson 1 — Shapes Polygons by Their Sides
 **A polygon** is a flat shape with straight sides, closed all the
 way round — no gaps, no curves. The corners where two sides meet
 are called **vertices** (one corner is a **vertex**). A polygon is
@@ -30,6 +30,7 @@ the same number. A **regular polygon** has all its sides equal and
 all its angles equal — a regular triangle is the equilateral
 triangle below, a regular quadrilateral is the square.
 
+## Sub lesson 2 — Shapes Triangles Two Ways
 **Triangles, by their sides** — Jordan's Grade 5 sorting:
 
 - **Equilateral** — all three sides equal.
@@ -47,6 +48,7 @@ One triangle can be both sorts at once: a right-angled isosceles
 triangle has two equal sides AND a right angle. The two sortings
 never fight — they answer different questions.
 
+## Sub lesson 3 — Shapes The Quadrilateral Family
 **Quadrilaterals** — four-sided shapes, and the family inside
 them. The head of the family is the **parallelogram**: both pairs
 of opposite sides parallel, and opposite sides equal. From it:

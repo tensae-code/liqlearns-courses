@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Constructing triangles and quadrilaterals
 
-**Course:** Maths · **Stage:** Stage 7 — Shapes and Angles · **Lesson:** Constructing triangles and quadrilaterals
-**Place in the curriculum:** Level 61 of 136, Stage 7 — Shapes and Angles (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Constructing triangles and quadrilaterals
+**Place in the curriculum:** Level 61 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** building an exact triangle or quadrilateral from given sides and angles with ruler and compasses — SSS, SAS, ASA and RHS triangles, and the whole quadrilateral family.
 **This lesson's own level:** it stands on Constructions with ruler and compass (Level 60, same stage) — bisection and the special angles. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Constructing Triangles from Sides and Angles** — construct SSS, SAS and ASA triangles and say which givens each one needs. (Was depth Level 1.)
+2. **Constructing Quadrilaterals** — construct a square, rectangle, rhombus, parallelogram, trapezium and kite from the givens each one needs. (Was depth Level 2.)
+3. **Constructing Right-Angled Triangles and Centres** — construct an RHS triangle and the incentre and circumcentre of a triangle, and read a construction word problem into a build. (In the lesson text the RHS passage is placed with this sub lesson, after the quadrilaterals passage it was written before.) (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Constructions with ruler and compass (Level 60) — every figure here is built from those arcs. Recommended, never forced.

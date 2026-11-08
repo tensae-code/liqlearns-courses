@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Platonic solids and Euler's formula
 
-**Course:** Maths · **Stage:** Stage 7 — Shapes and Angles · **Lesson:** Platonic solids and Euler's formula
-**Place in the curriculum:** Level 63 of 136, Stage 7 — Shapes and Angles (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Platonic solids and Euler's formula
+**Place in the curriculum:** Level 63 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the five regular polyhedra — tetrahedron, cube, octahedron, dodecahedron, icosahedron — and the law that ties every such solid together: vertices + faces − edges = 2.
 **This lesson's own level:** it stands on Shapes (same stage) and on the solids work in Measuring — the learner can count faces, edges and vertices of a solid. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Platonic Solids The Five Solids** — name the five regular polyhedra, say what makes a polyhedron regular, and build one from a net. (Was depth Level 1.)
+2. **Platonic Solids Counting Faces, Vertices and Edges** — give the correct F, V and E for each of the five solids. (Was depth Level 2.)
+3. **Platonic Solids Euler's Formula** — verify V + F − E = 2 on the five solids and on prisms and pyramids, and explain why a sixth regular solid cannot exist. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Shapes (same stage) — a face of a solid is a polygon. Recommended, never forced.

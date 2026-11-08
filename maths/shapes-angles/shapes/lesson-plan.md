@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Shapes
 
-**Course:** Maths · **Stage:** 7, Shapes and Angles · **Lesson:** Shapes (lesson 1 of 4 in the stage)
-**Place in the curriculum:** Stage 7, "Shapes and Angles" — the first lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Shapes (lesson 1 of 4 in the stage)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the first lesson of the stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** naming flat shapes by their sides and corners, and sorting triangles and quadrilaterals into their kinds.
 **This lesson's own level:** it stands on counting and on measuring length (a side is a length). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Shapes Polygons by Their Sides** — name a triangle, a quadrilateral, a pentagon and a hexagon by counting sides; say what a side, a vertex and a regular polygon are. (Was depth Level 1.)
+2. **Shapes Triangles Two Ways** — sort a triangle by its sides (equilateral, isosceles, scalene) and by its angles (acute, right, obtuse) without mixing the two sortings. (Was depth Level 2.)
+3. **Shapes The Quadrilateral Family** — place any quadrilateral in the parallelogram family — parallelogram, rectangle, rhombus, square, trapezium, kite — and say why a square is both a rectangle and a rhombus. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: measuring length — a side is a length, and

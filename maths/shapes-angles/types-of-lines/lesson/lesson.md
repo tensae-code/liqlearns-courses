@@ -6,7 +6,9 @@ Look around you and find four straight edges: the top of a table, the side of a 
 
 Each of those edges is a line, and each line already has a name. This short lesson gives you every name Rwanda's Primary 2 book teaches, so you can name any line you are shown. (Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed pp. 209–212.)
 
-## Straight lines: four directions
+## Sub lesson 1 — Lines Straight in Four Directions
+
+### Straight lines: four directions
 
 A **straight line** never bends. It can run in four directions:
 
@@ -17,19 +19,23 @@ A **straight line** never bends. It can run in four directions:
 
 A slanting line is called **oblique**. To name one fully, say which way it leans: oblique towards the right, or oblique towards the left. (Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 209.)
 
-## Closed lines
+## Sub lesson 2 — Lines Closed and Open
+
+### Closed lines
 
 Follow a line with your finger. If you come back to the exact place you started, with no gap, the line is a **closed line**. The outline of a square is closed; so is a circle's edge; and a line that turns sharply again and again can still be closed, if its end meets its start — a **closed zigzag line**. (Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 210.)
 
-## Open lines
+### Open lines
 
 If a line does **not** come back to its start — its two ends stay apart — it is an **open line** (a non-closed line). A straight line on its own is open; so is a wavy line that stops before it joins up. Closed or open is decided by one question only: *does the end meet the start?* (Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 211.)
 
-## Curved lines and zigzag lines
+## Sub lesson 3 — Lines Curved, Zigzag and Naming Pictured Lines
+
+### Curved lines and zigzag lines
 
 A **curved line** bends smoothly, like the edge of a smile or the top of a hill — it has no straight part. A **zigzag line** is the opposite: it is made of short straight parts joined at sharp turns, like a row of mountain peaks. Either kind can be open or closed. (Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 212.)
 
-## Naming pictured lines
+### Naming pictured lines
 
 The book's application work is simply this: you are shown a pictured line, and you name it. Work through the checks in order:
 

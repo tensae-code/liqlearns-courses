@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Constructions with ruler and compass
 
-**Course:** Maths · **Stage:** Stage 7 — Shapes and Angles · **Lesson:** Constructions with ruler and compass
-**Place in the curriculum:** Level 60 of 136, Stage 7 — Shapes and Angles (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Constructions with ruler and compass
+**Place in the curriculum:** Level 60 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** drawing exact figures — bisected segments and angles, perpendiculars, parallels and the special angles — with only a ruler and a pair of compasses, and being able to say why each arc is drawn.
 **This lesson's own level:** it stands on Shapes and Angles (same stage) — the learner can name angles and lines. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Constructions Bisections** — bisecting a segment and an angle with compasses, the compass openings kept fixed, and checking the halves equal. (Was depth Level 1.)
+2. **Constructions The Special Angles** — constructing 90°, 60° and 120°, then making 45°, 30° and 15° by bisecting, and 75°, 105° and 150° by joining. (Was depth Level 2.)
+3. **Constructions Parallels, Copying and Reasons** — parallels and perpendiculars through a point, copying a segment and an angle, and the reason each arc is drawn. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Shapes and Angles (same stage) — a construction names the angle or line it makes. Recommended, never forced.

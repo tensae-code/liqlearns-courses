@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Symmetry
 
-**Course:** Maths · **Stage:** 7, Shapes and Angles · **Lesson:** Symmetry (lesson 4 of 4 in the stage)
-**Place in the curriculum:** Stage 7, "Shapes and Angles" — the fourth lesson of the stage (maths/CURRICULUM.md). The ladder allows this lesson to be folded into Shapes if its stock proves too thin; the stock proved rich (ten countries), so it stands on its own.
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Symmetry (lesson 4 of 4 in the stage)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the fourth lesson of the stage (maths/CURRICULUM.md). The ladder allows this lesson to be folded into Shapes if its stock proves too thin; the stock proved rich (ten countries), so it stands on its own.
 **The one thing this lesson teaches:** when a shape matches itself — folded over a line, or turned about a point.
 **This lesson's own level:** it stands on the shapes lesson (you cannot count a shape's symmetries until you can name it) and on the angles lesson (a turn is measured in degrees). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Symmetry Line Symmetry** — test a shape by folding, find its lines of symmetry, and say how many a square, a rectangle and an equilateral triangle have. (Was depth Level 1.)
+2. **Symmetry Rotational Symmetry** — test a shape by turning it, say its order, and know the order counts the matches in one full turn including the starting position come round again. (Was depth Level 2.)
+3. **Symmetry Both Kinds Together** — say for any shape whether it has line symmetry, rotational symmetry, both or neither — and give the counts, including the circle's endless lines and endless order. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Shapes, then Angles — symmetry is a shape

@@ -1,6 +1,6 @@
 # Angles — the lesson
 
-Course: Maths · Stage 7, Shapes and Angles · Lesson: Angles
+Course: Maths · Unit 7, Shapes and Angles · Lesson: Angles
 Built from: Jordan, Grades 3, 4, 5 and 7 (NCCD student books) —
 Egypt, Grade 7 (First Preparatory) — Greece, Grade 6 —
 Armenia, Mathematics 5 and Geometry 7 — Kazakhstan, Grade 2 —
@@ -15,7 +15,7 @@ square against the frame: that is the right angle, the corner every
 room is built on. Push it flat against the wall: the angle is a
 straight line now. The door never changed — only the angle did.
 
-## Then the explanation
+## Sub lesson 1 — Angles Kinds and Measuring
 **An angle** is the turn between two arms that meet at a point.
 The meeting point is the **vertex**; the two arms are its sides.
 Angles are measured in **degrees**, written °. A full turn is
@@ -40,6 +40,7 @@ that starts at 0° on the arm you laid the baseline on. Check
 yourself against the kind you see — an acute angle cannot read
 140°.
 
+## Sub lesson 2 — Angles on a Straight Line and Around a Point
 **Angles on a straight line add to 180°.** Stand on a straight
 line and turn to face the other way: you have turned 180°, however
 the line is split into angles. So if one angle on a straight line
@@ -67,6 +68,7 @@ cross, four angles appear, and the ones across from each other are
 equal: the angle opposite 70° is 70°, because each of them is
 supplementary to the same neighbour.
 
+## Sub lesson 3 — Angles in Shapes and Between Parallel Lines
 **Angles in a triangle add to 180°.** Tear the three corners off
 any triangle and lay them together: they make a straight line.
 So a triangle with angles 60° and 80° has a third angle of

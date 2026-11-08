@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Tessellations
 
-**Course:** Maths · **Stage:** Stage 7 — Shapes and Angles · **Lesson:** Tessellations
-**Place in the curriculum:** Level 62 of 136, Stage 7 — Shapes and Angles (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Tessellations
+**Place in the curriculum:** Level 62 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** covering a flat surface with repeated shapes that fit with no gaps and no overlaps — by sliding, flipping and turning the tile — and knowing which regular shapes can do it alone.
 **This lesson's own level:** it stands on Shapes (same stage) and on Symmetry (same stage) — the moves that carry a tile are translation, reflection and rotation. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Tessellations Tiling by Moves** — define a tessellation and tile a patch by translation, reflection and rotation. (The glide-reflection move is introduced inside this part's text; making a glide-reflection tiling is proved in Sub lesson 3.) (Was depth Level 1.)
+2. **Tessellations Which Shapes Tile Alone** — tessellate with triangles, squares, rectangles and regular hexagons, and use the 360° meeting-point rule to rule out regular pentagons. (Was depth Level 2.)
+3. **Tessellations Kinds of Tessellation** — sort tilings into regular, semi-regular and irregular, and make a glide-reflection tiling. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Shapes (same stage) — a tile is a polygon, named by its sides. Recommended, never forced.

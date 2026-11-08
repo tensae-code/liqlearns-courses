@@ -1,6 +1,6 @@
 # Circles — the lesson
 
-Course: Maths · Stage 7, Shapes and Angles · Lesson: Circles
+Course: Maths · Unit 7, Shapes and Angles · Lesson: Circles
 Built from: Jordan, Grades 6 and 7 (NCCD student books) —
 Egypt, Grade 9 (Preparatory 3) — Greece, Grades 8 and 11 —
 Armenia, Mathematics 5 and Geometry 9 — Kazakhstan, Grades 3,
@@ -17,7 +17,7 @@ diameter. Now run your finger all the way round the rim — that is
 the circumference. Three lines, one shape. You already know the
 circle by touch.
 
-## Then the explanation
+## Sub lesson 1 — Circles Parts of the Circle
 **The parts of a circle** — the names every book uses:
 
 - **Centre** — the point in the middle, the same distance from
@@ -41,6 +41,7 @@ The two straight measures are tied together:
 A circle of radius 5 cm has diameter 10 cm. A circle of diameter
 14 cm has radius 7 cm.
 
+## Sub lesson 2 — Circles Circumference
 **Pi and the circumference.** Measure the circumference of any
 circle and divide it by its diameter. The answer is always the
 same number, about 3.14 — for a coin, for a plate, for the Earth.
@@ -59,6 +60,7 @@ A circle of diameter 10 cm has circumference 3.14 × 10 =
 = 43.96 cm. The circumference is a length, so its unit is cm,
 or m — never cm².
 
+## Sub lesson 3 — Circles Area of the Disc
 **The area of a disc.** The area is how much flat space the
 circle covers. Cut a circle into thin slices and lay them out:
 they make a shape very like a rectangle, with one side the radius

@@ -1,6 +1,6 @@
 # Symmetry — the lesson
 
-Course: Maths · Stage 7, Shapes and Angles · Lesson: Symmetry
+Course: Maths · Unit 7, Shapes and Angles · Lesson: Symmetry
 Built from: Greece, Grades 1, 3, 6 and 7 — Kazakhstan, Grades 3,
 4 and 6 — Armenia, Grades 3 and 8 — Jordan, Grades 4, 7 and 8 —
 Libya, Grades 4 and 9 — Sierra Leone, JSS 2 Handbook — Egypt,
@@ -14,7 +14,7 @@ corner on a corner. Open it and fold it a different way: side to
 side. Again the halves match. That matching is symmetry, and you
 found it with your hands before any book named it.
 
-## Then the explanation
+## Sub lesson 1 — Symmetry Line Symmetry
 **Line symmetry.** A shape has **line symmetry** if it can be
 folded along a line so that the two halves land exactly on each
 other. The fold line is called the **line of symmetry**, or the
@@ -41,6 +41,7 @@ How many lines does each shape have?
   or rhombus) — 0 lines.** Some shapes have no line of symmetry
   at all, and that is a real answer: 0.
 
+## Sub lesson 2 — Symmetry Rotational Symmetry
 **Rotational symmetry.** A shape has **rotational symmetry** if
 turning it about its centre makes it look exactly the same again
 before it comes all the way round. The **order** of rotational
@@ -61,6 +62,7 @@ counts as one of the matches.
   all the way round to the start. Order 1 means no rotational
   symmetry worth the name.
 
+## Sub lesson 3 — Symmetry Both Kinds Together
 **Both kinds together.** Line symmetry and rotational symmetry
 are different tests, and a shape can pass one, both, or neither:
 

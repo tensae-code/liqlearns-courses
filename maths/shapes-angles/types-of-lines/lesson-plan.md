@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Types of Lines
 
 **One thing:** the names for the lines a young learner meets in pictures and in the world — straight lines in four directions (horizontal, vertical, oblique towards the right, oblique towards the left), closed lines, open lines, curved lines and zigzag lines — and naming a pictured line correctly.
 
-**Stage:** Shapes and Angles (Stage 7). **Level 145** (Rwanda merge, 2026-11-07).
+**Unit:** Shapes and Angles (Unit 7). **Level 145** (Rwanda merge, 2026-11-07).
 
 **Why this lesson exists:** Rwanda's Primary 2 pupil's book names types of lines inside its lines-and-angles unit, but the naming work itself — straight, closed, open, curved, zigzag — had no home: the angles lesson takes the angle half of that unit, and the shapes lesson works with whole shapes, not with the lines that draw them. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Lines Straight in Four Directions** — name a straight line's direction: horizontal, vertical, oblique towards the right, oblique towards the left. (Was depth Layer 1.)
+2. **Lines Closed and Open** — tell a closed line from an open line, including a closed zigzag, by checking whether the line comes back to its start. (Was depth Layer 2.)
+3. **Lines Curved, Zigzag and Naming Pictured Lines** — curved lines and zigzag lines, and giving the full name of any pictured line — straight with its direction, closed, open, curved or zigzag — without prompting. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

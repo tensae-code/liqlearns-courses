@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Circles
 
-**Course:** Maths · **Stage:** 7, Shapes and Angles · **Lesson:** Circles (lesson 3 of 4 in the stage)
-**Place in the curriculum:** Stage 7, "Shapes and Angles" — the third lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Circles (lesson 3 of 4 in the stage)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the third lesson of the stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the parts of a circle, and the two circle formulas — circumference and area — with pi.
 **This lesson's own level:** it stands on the angles lesson (the full turn, 360°, is the circle's own number) and on measuring length. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Circles Parts of the Circle** — the parts of a circle — centre, radius, diameter, chord, arc, circumference and disc — and d = 2r. (Was depth Level 1.)
+2. **Circles Circumference** — pi, the circumference with C = πd or C = 2πr, and finding a radius or diameter back from a circumference. (Was depth Level 2.)
+3. **Circles Area of the Disc** — the area with A = πr², a circumference told from an area by its units, and two-step problems. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Angles — a full turn is 360°, and the circle
