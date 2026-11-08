@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Inclusion–Exclusion and Venn Counting
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Inclusion–Exclusion and Venn Counting
-**Place in the curriculum:** Level 107 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Inclusion–Exclusion and Venn Counting
+**Place in the curriculum:** Level 107 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** counting things that belong to overlapping groups without counting anything twice — the Venn diagram method, n(A∪B) = n(A) + n(B) − n(A∩B), the three-set formula, "neither" and "only" counts, and counting onto functions by inclusion–exclusion.
 **This lesson's own level:** it stands on the sets lesson and on Counting Principles (Level 105) — the learner can already read a Venn diagram and use ⁿCᵣ. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Two Sets and the Venn Regions** — the Venn diagram and its regions, and the two-set formula n(A∪B) = n(A) + n(B) − n(A∩B). (Was depth Level 1.)
+2. **Three Sets, Neither and Only** — "only" and "neither" counts, and the three-set formula with the triple overlap added back exactly once. (Was depth Level 2.)
+3. **Survey Problems and Onto Functions** — survey problems with a missing region or a missing total, and counting onto functions by inclusion–exclusion. Its teaching text in the lesson is the closing onto-functions part; the survey work is practised across the earlier sub lessons as well. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the sets lesson — union, intersection and the Venn diagram itself. Recommended, never forced.

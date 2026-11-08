@@ -1,12 +1,15 @@
 # Latin squares — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: Latin squares
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: Latin squares
 Built from: Iran, Discrete Mathematics, Grade 12 (Mathematical Sciences branch) — the sole source for this lesson, as filed
 
 ## Do it first
 Take a 3×3 grid. Fill it with the letters A, B and C so that every row contains each letter exactly once, and every column contains each letter exactly once. It can be done — probably in more than one way. What you have built is a Latin square. This whole short lesson comes from one place: the long Latin-squares block in Iran's Grade 12 Discrete Mathematics book (pp.62–71), inside its combinatorics chapter — the book's most distinctive content, as filed. Nothing here is borrowed from any other country's book.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Rule and Building a Latin Square
+
 **The definition.** A **Latin square of order n** is an n×n grid filled with n symbols so that each symbol appears **exactly once in every row and exactly once in every column** (Iran, pp.62–71). The symbols can be letters, numbers, colours — anything. The rule is only about positions: no repeats along a row, no repeats down a column.
 
 **Building one: the shift method.** Write the symbols in order as the first row. For each next row, shift the row above by one step (the symbol that falls off the end comes back at the start). For order 4, with symbols 1, 2, 3, 4:
@@ -18,9 +21,13 @@ Take a 3×3 grid. Fill it with the letters A, B and C so that every row contains
 
 Every column also gets each symbol once — the shifting guarantees it. Iran's book builds its squares and then varies them (pp.62–71).
 
+## Sub lesson 2 — Permuting Symbols, Rows and Columns
+
 **Permuting the symbols.** If you rename the symbols everywhere — swap A and C, say — the result is still a Latin square: the once-in-each-row-and-column rule does not care what the symbols are called. Swapping two whole rows, or two whole columns, also keeps the rule true. Iran's book uses these moves — permuting symbols, rows and columns — to pass from one Latin square to others (pp.62–71).
 
 Tip — from us, not from the books. When you check a square, check it in a fixed order: rows top to bottom, then columns left to right, ticking the symbols off. A fixed order is what stops you checking the same row twice and a column never.
+
+## Sub lesson 3 — Orthogonal Latin Squares and Scheduling
 
 **Orthogonal Latin squares.** Take two Latin squares of the same order, in different symbol sets, and lay one on top of the other. Each cell now holds a **pair**. If all n² pairs are different — every possible pair appearing exactly once — the two squares are **orthogonal** (Iran, pp.62–71). Checking orthogonality is mechanical: write out all the pairs and look for a repeat; one repeated pair settles it — not orthogonal. Iran's book checks orthogonality this way and constructs a pair of orthogonal Latin squares of order 5 (pp.62–71).
 

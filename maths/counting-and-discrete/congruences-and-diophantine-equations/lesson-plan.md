@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Congruences and Diophantine equations
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Congruences and Diophantine equations
-**Place in the curriculum:** Level 109 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Congruences and Diophantine equations
+**Place in the curriculum:** Level 109 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** modular arithmetic and congruences — working with remainders; Euclid's algorithm for the greatest common divisor; and solving linear Diophantine equations ax + by = c in whole numbers.
 **This lesson's own level:** it stands on the division-with-remainder work of the numbers lessons — the learner can already divide and name a remainder. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Remainders and a Modulus** — remainders, the modulus, simplest form, and adding, subtracting and multiplying inside a modulus. (Was depth Level 1.)
+2. **Congruences, Tests and Euclid's Algorithm** — congruences and their rules (with the corrected cancellation rule), divisibility tests and the calendar, and Euclid's algorithm for the gcd. (Was depth Level 2.)
+3. **Linear Congruences and Diophantine Equations** — solving linear congruences, and Diophantine equations ax + by = c: when solutions exist, the general solution, and the non-negative solutions. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the factors-and-multiples work (gcd and lcm) in the numbers stage — this lesson's Euclid's algorithm is its fast engine. Recommended, never forced.

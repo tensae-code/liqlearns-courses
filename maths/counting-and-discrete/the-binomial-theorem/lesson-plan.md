@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The Binomial Theorem
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** The Binomial Theorem
-**Place in the curriculum:** Level 106 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** The Binomial Theorem
+**Place in the curriculum:** Level 106 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** expanding (a+b)ⁿ without multiplying it out — Pascal's triangle, the binomial theorem with combination coefficients, the general term, and, as the closing part, the binomial series for negative and fractional powers.
 **This lesson's own level:** it stands on Counting Principles (Level 105) — the learner can already compute ⁿCᵣ. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Pascal's Triangle** — building Pascal's triangle by addition, reading off the row for a given n, and how each entry is made from the two above it. (Was depth Level 1.)
+2. **The Theorem and Full Expansions** — the binomial theorem and full expansions, the signs in (a−b)ⁿ, coefficients matched to combination values, and the same theorem in Iraq's and Kazakhstan's books. (Was depth Level 2.)
+3. **The General Term and the Binomial Series** — the general term, for extracting a named term or coefficient without a full expansion, and the binomial series for negative and fractional powers, valid for |x| < 1. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting Principles (Level 105) — the coefficients of the expansion are the combination numbers ⁿCᵣ. Recommended, never forced.

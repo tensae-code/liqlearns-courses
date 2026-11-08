@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Graph theory
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Graph theory
-**Place in the curriculum:** Level 108 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Graph theory
+**Place in the curriculum:** Level 108 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** graphs — vertices, edges and degrees; Euler and Hamilton paths; shortest paths; dominating sets and the domination number; and bin-packing algorithms.
 **This lesson's own level:** it stands on the counting lessons of this stage — the learner can already count systematically. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Graphs, Vertices, Edges and Degrees** — what a graph is — vertices, edges, loops, order and size — degree, the complement and complete graphs, and the handshaking lemma. (Was depth Level 1.)
+2. **Paths, Euler Paths, Hamilton Paths and Shortest Paths** — paths and cycles and connected graphs, Euler paths, Hamilton paths, and shortest paths. (Was depth Level 2.)
+3. **Algorithms, Bin Packing and Dominating Sets** — algorithms and bin packing (first-fit and first-fit decreasing), and dominating sets and the domination number. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting principles (Level 105, this stage) — a graph problem is a counting-and-choosing problem. Recommended, never forced.

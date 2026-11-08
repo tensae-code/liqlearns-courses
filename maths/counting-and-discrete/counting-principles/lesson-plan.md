@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Counting Principles
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Counting Principles
-**Place in the curriculum:** Level 105 of 136, the first lesson of Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Counting Principles
+**Place in the curriculum:** Level 105 of 136, the first lesson of Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** counting choices without listing them all — the fundamental counting principle, factorials, permutations (order matters), combinations (order does not matter), arrangements with repeats, and circular permutations.
 **This lesson's own level:** it stands on the multiplication and factorial-notation work of the earlier stages — the learner can already multiply fluently and read n! as a product. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Fundamental Principle and Factorials** — the fundamental counting principle (steps in a row multiply, cases side by side add) and factorials. (Was depth Level 1.)
+2. **Permutations, Repeats and Restrictions** — permutations where order matters, arrangements with restrictions, repeats allowed, and objects not all different. (Was depth Level 2.)
+3. **Combinations and Circular Permutations** — circular permutations and combinations where order does not matter. The closing survey of the same climb in more countries and the check-by-listing part also stand in this sub lesson, where they stand in the lesson; they range over the whole lesson, not this sub lesson alone. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the multiplication lessons and the factorial notation met in the sequences work — counting choices is multiplication with a reason. Recommended, never forced.

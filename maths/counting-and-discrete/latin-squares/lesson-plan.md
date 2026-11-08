@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Latin squares
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Latin squares
-**Place in the curriculum:** Level 110 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Latin squares
+**Place in the curriculum:** Level 110 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** Latin squares — a square grid where every symbol appears exactly once in each row and each column — how to build them, how to rearrange them, and when two of them are orthogonal.
 **This lesson's own level:** it stands on the counting lessons of this stage — the learner can already arrange and count arrangements. It needs nothing else. This is a small lesson from a single source, and it stays small on purpose.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Rule and Building a Latin Square** — the Latin square rule — each symbol exactly once in every row and column — and building one by the shift method. (Was depth Level 1.)
+2. **Permuting Symbols, Rows and Columns** — making new Latin squares by renaming the symbols or swapping whole rows or columns, and why the rule still holds. (Was depth Level 2.)
+3. **Orthogonal Latin Squares and Scheduling** — orthogonal pairs and how to test them by their pairs, the work-scheduling use of an orthogonal pair, and Euler's reading note on orders 4k + 2. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting principles (Level 105, this stage) — a Latin square is an arrangement with a rule. Recommended, never forced.

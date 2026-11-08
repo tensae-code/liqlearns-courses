@@ -1,6 +1,6 @@
 # Counting Principles — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: Counting Principles
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: Counting Principles
 Built from: Pakistan, Class 11 Mathematics (PECTAA) — Kuwait, Grade 8 Term 2; Grade 10 Term 2; Grade 11 Term 2 — Yemen, Grade 12 Science; Grade 12 Literary — Vietnam, Grade 10 Volume 2 — Indonesia, Grade 12 — China, Grade 3 Volume 2 — Laos, Grade 11 — Armenia, Grade 12 teacher's guide (teacher evidence) — Mauritania, 3AS; 5AS-M; 5AS-D; 6AS-M; 6AS-C; 6AS-D; 6AS-LM; 7AS-LM — Iran, Mathematics (1) Grade 10; Discrete Mathematics Grade 12; Mathematics and Statistics (3) Grade 12 — Egypt, Pure Mathematics Grade 11 Term 2; General Mathematics Grade 11 Term 2 — Cambodia, Grade 10 Part 2; Grade 12 Probability booklet (PRIVATE) — Kazakhstan, Grade 9 Algebra (four books); Grade 6 option-tree books — Nicaragua, Grade 10; Grade 11 — Iraq, Grade 9; Grade 11 Scientific; Grade 12 Literary — Jordan, Grade 11 Term 1; Grade 8 Term 2 — Ethiopia, Grade 11 — South Sudan, Secondary 4
 
 ## Do it first
@@ -12,6 +12,9 @@ small count — 3 × 2 = 6 (Unit 1, pp.6–16). You have just used the
 biggest idea of this lesson. Now we name it and grow it.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Fundamental Principle and Factorials
+
 **The fundamental counting principle.** If one step can be done in
 m ways and the next step in n ways, the two steps together can be
 done in m × n ways — and the same for any number of steps.
@@ -34,6 +37,8 @@ and read "n factorial". Pakistan's Class 11 book fixes the
 notation, with 0! = 1 by definition (Unit 7, pp.123–132). So
 4! = 24 — Yemen's Grade 12 Literary book checks the same fact as
 P(4,4) = 24 (Unit 1, pp.6–16).
+
+## Sub lesson 2 — Permutations, Repeats and Restrictions
 
 **Permutations — order matters.** A permutation is an arrangement:
 who is first, who is second. Choosing and ordering r things from n
@@ -60,6 +65,8 @@ appears twice over-counts by the swaps of those identical letters,
 so you divide: arrangements of n things with repeats of p, q, …
 identical things are n! / (p! q! …). Pakistan's Class 11 book
 teaches this case in the same unit (pp.123–132).
+
+## Sub lesson 3 — Combinations and Circular Permutations
 
 **Circular permutations.** Around a round table, rotating everyone
 one seat changes nothing — the neighbours are the same. So one

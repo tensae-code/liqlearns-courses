@@ -1,17 +1,24 @@
 # Mathematical investigations — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: Mathematical investigations
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: Mathematical investigations
 Built from: China, Grade 5, second volume — China, Grade 6, second volume — the sole source country for this lesson, as filed
 
 ## Do it first
 Here are 9 coins. One is a fake — it is a little lighter than the others, but they all look the same. You have a balance: two pans, no weights, no numbers — it only tips or stays level. Find the fake in as few weighings as you can. Most people start by splitting 4 and 4 — and need 3 weighings. China's Grade 5 book (second volume, Maths corner — Finding the defective product, p.111) knows a better way, and it is the first investigation of this lesson. Every part of this lesson comes from China's primary books, as filed: investigations are where those books teach you to make a strategy, not just an answer.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Balance Search
+
 **The balance search: split in THREE.** Put 3 coins on the left pan, 3 on the right, and leave 3 aside. If a pan rises, the fake is in that light pile of 3. If the balance stays level, the fake is in the pile aside. Either way, ONE weighing cuts 9 suspects down to 3. Repeat on the pile of 3 — 1 against 1, 1 aside — and the second weighing names the fake. **Two weighings find one lighter product among 9.** The method works because a balance has three outcomes, so the suspects should be split into three groups, not two. China's book builds the guarantee table (p.111): the most products one search can handle in k weighings is 3ᵏ, so the guaranteed numbers are — **2–3 products: 1 weighing; 4–9: 2 weighings; 10–27: 3 weighings; 28–81: 4 weighings; 82–243: 5 weighings**. Read it both ways: 50 products need 4 weighings (27 is too few for 3), and 3 weighings can guarantee success up to 27 products.
+
+## Sub lesson 2 — The Phone-Call Tree
 
 **The phone-call tree: doubling.** China's Grade 5 book's Making phone calls lesson (p.102) asks for the fastest way to notify a whole team: one person is told first; each minute, everyone who already knows calls one person who does not. The numbers who know grow: after 1 minute, 2; after 2 minutes, 4; then 8, 16, 32… **After n minutes, 2ⁿ people know.** Drawn as a tree, each knower branches into a new knower — the tree doubles at every level. The investigation skill is the same as the balance's: draw the small cases, tabulate them, and let the pattern (here ×2, there ×3) state the rule.
 
 Tip — from us, not from the books. In every investigation here, the winning move is the same: shrink the problem until it is tiny, solve the tiny ones in a row, and write the answers in a table. The pattern in the table IS the solution to the big problem.
+
+## Sub lesson 3 — Painted Cubes and Counting Segments
 
 **Painted cubes.** China's Grade 5 Exploring figures activity (p.44) paints a big cube and cuts it into small cubes, then counts by how many faces are painted. For a 3×3×3 cube (27 small cubes): the **8 corner** cubes have **3 painted faces**; the **12 edge** cubes (not corners) have **2**; the **6 face-middle** cubes have **1**; and the **1 centre** cube has **0** — the paint never reached it. The counts are found by WHERE a small cube sat, not by painting and pulling apart every time: corners, edges, face middles, inside. The same homes give the 4×4×4 counts: 8 corners with 3 faces, 24 edge cubes with 2, 24 face middles with 1, and 8 inside cubes with 0.
 

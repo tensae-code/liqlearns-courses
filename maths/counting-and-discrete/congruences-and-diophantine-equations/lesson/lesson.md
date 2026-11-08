@@ -1,13 +1,18 @@
 # Congruences and Diophantine equations — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: Congruences and Diophantine equations
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: Congruences and Diophantine equations
 Built from: Iran, Discrete Mathematics, Grade 12 (Mathematical Sciences branch) — Greece, Mathematics, Grade 11 orientation book (W7) — Sierra Leone, SSS 1 Pupils' Handbook, Term 1 — Kazakhstan, Grade 6, Grade 8 and Grade 9 books
 
 ## Do it first
 Today is a Friday. What day of the week will it be in 100 days? Do not count day by day. Divide 100 by 7: 100 = 14 × 7 + 2. The 14 whole weeks bring you back to Friday; only the remainder, 2, moves you: Saturday, Sunday. In 100 days it will be a Sunday. You have just done modular arithmetic: only the remainder mattered. Sierra Leone's SSS 1 handbook introduces modular arithmetic exactly here — cyclic events, days and clocks (L21, p.59) — and Iran's Discrete Mathematics book uses congruences for the same calendar computation (p.24).
 
 ## Then the explanation
+
+## Sub lesson 1 — Remainders and a Modulus
+
 **Remainders and a modulus.** Fix a number m, the **modulus**. Every whole number leaves a remainder on division by m, and that remainder can be taken between 0 and m − 1: this is the number's **simplest form** in the modulus, the subject of Sierra Leone's L22 (p.62). Sierra Leone's L23 (p.65) then does addition, subtraction and multiplication inside a modulus: work out the ordinary answer, then reduce it. Its L24 (p.68) applies the same idea to real-life cyclic problems.
+
+## Sub lesson 2 — Congruences, Tests and Euclid's Algorithm
 
 **Congruences.** Two numbers are **congruent modulo m**, written a ≡ b (mod m), when they leave the same remainder on division by m — equivalently, when m divides a − b. Iran's book defines the congruence this way and builds it on the division theorem and residue classes (pp.15–18). Congruences behave almost like equations: you may add, subtract and multiply congruences with the same modulus. **Cancellation needs care**: from ca ≡ cb (mod m) you may only conclude a ≡ b (mod m / gcd(c, m)) — divide the modulus through by gcd(c, m) too. Iran's book flags the failure of plain cancellation by a counterexample and states the corrected rule without proof, in the book's own words "we accept this property without proof" (p.22).
 
@@ -16,6 +21,8 @@ Tip — from us, not from the books. When a modulus problem feels big, shrink ev
 **Tests and the calendar.** Because 10 ≡ 1 (mod 9), a number is congruent mod 9 to the sum of its digits — Iran derives this digit-sum divisibility test from congruences in full (p.23), the old "casting out nines" check. The same trick with mod 7 runs the day-of-the-week computation you did at the start (Iran, p.24).
 
 **Euclid's algorithm.** The greatest common divisor of two big numbers is slow to find by listing factors. **Euclid's algorithm** divides instead: gcd(a, b) = gcd(b, remainder of a ÷ b), repeated until the remainder is 0; the last non-zero remainder is the gcd. Kazakhstan's Grade 8 book teaches the algorithm in its starred additional-materials chapter on real numbers — positional systems, divisibility tests, primes, the fundamental theorem of arithmetic, gcd and lcm from prime factorisations (worked: GCD(680, 612) = 68), division with remainder, and Euclid's algorithm (§§6.1–6.5, pp.160–177). That chapter is starred OPTIONAL in its book, as filed — this lesson keeps it, marked the same way. Note the honest split between the books: Iran's Discrete book does NOT teach a Euclidean algorithm or a Bézout identity — its gcd work stays with definitions (p.13) — so this lesson takes the algorithm from Kazakhstan, as filed.
+
+## Sub lesson 3 — Linear Congruences and Diophantine Equations
 
 **Linear congruences.** Solving ax ≡ b (mod m) means finding every x with that property. Iran solves linear congruences and gives their general solutions (p.25): a solution exists exactly when gcd(a, m) divides b, and then the solutions repeat every m / gcd(a, m). Its exercise set includes congruences of the shape 423x ≡ 79 (mod 11) (p.30).
 

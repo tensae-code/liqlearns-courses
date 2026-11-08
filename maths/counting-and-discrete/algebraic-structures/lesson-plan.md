@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Algebraic structures
 
-**Course:** Maths · **Stage:** Stage 14 — Counting and Discrete Mathematics · **Lesson:** Algebraic structures
-**Place in the curriculum:** Level 111 of 136, Stage 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Algebraic structures
+**Place in the curriculum:** Level 111 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** algebraic structures — what a binary operation is, the properties it can have (closure, associativity, identity, inverses, commutativity), and the named structures built from them: groups, rings and fields.
 **This lesson's own level:** it stands on the sets and mappings lessons — the learner already knows what a set and a rule are. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Binary Operations, Tables and Properties** — what a binary operation is, reading and building its operation table, and checking closure, commutativity, associativity, identity and inverses. (Was depth Level 1.)
+2. **Systems and Groups** — the mathematical system, and the group: its axioms, identities and inverses, and deciding whether a small system is a group (and whether it is abelian). (Was depth Level 2.)
+3. **Rings and Fields** — what a ring is, (ℤ, +, ×) checked against the definition, and what a field adds — why ℝ is a field and ℤ is not. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the sets lesson and the relations lesson (Levels in the earlier stages; a structure is a set with an operation). Recommended, never forced.

@@ -1,6 +1,6 @@
 # Inclusion–Exclusion and Venn Counting — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: Inclusion–Exclusion and Venn Counting
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: Inclusion–Exclusion and Venn Counting
 Built from: Iran, Discrete Mathematics — Laos, Grade 10 — Nepal, Grade 8; Grade 9; Grade 10 — Sierra Leone, SSS1; SSS3 — Kazakhstan, Grade 5; Grade 9 — South Sudan, Secondary 2
 
 ## Do it first
@@ -15,6 +15,9 @@ who play either sport is 12 + 9 − 4 = 17. You have just used
 inclusion–exclusion. Now we build it properly.
 
 ## Then the explanation
+
+## Sub lesson 1 — Two Sets and the Venn Regions
+
 **The Venn diagram and its regions.** Two overlapping circles
 split the world into four regions: in A only, in B only, in both
 (the overlap, A∩B), and in neither. Every counting question in
@@ -38,6 +41,8 @@ their sets work; South Sudan's Secondary 2 book uses Venn
 counting in its sets unit.
 
 Tip — from us, not from the books. Fill the middle first, always. Almost every wrong Venn answer comes from writing a group total into a crescent that should hold only the "only" part.
+
+## Sub lesson 2 — Three Sets, Neither and Only
 
 **Only, both, neither.** From the regions come the three everyday
 questions. "Only A" = n(A) − n(A∩B): the group total with the
@@ -64,6 +69,8 @@ Sierra Leone's SSS1 course teaches three sets region by region
 (L64–70), and its SSS3 course states the formulae in this form
 (L121). The add–subtract–add-back rhythm is the whole method:
 each layer corrects the over-count of the layer before it.
+
+## Sub lesson 3 — Survey Problems and Onto Functions
 
 **Counting onto functions (the closing part).** Inclusion–
 exclusion also counts where no diagram is drawn. A function from

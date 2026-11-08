@@ -1,6 +1,6 @@
 # The Binomial Theorem — the lesson
 
-Course: Maths · Stage: Stage 14 — Counting and Discrete Mathematics · Lesson: The Binomial Theorem
+Course: Maths · Unit: Unit 14 — Counting and Discrete Mathematics · Lesson: The Binomial Theorem
 Built from: Pakistan, Class 11 Mathematics (PECTAA) — Indonesia, Grade 12 Revisi; Grade 8 K13 — Vietnam, Grade 10 Volume 2; Grade 10 study book — Yemen, Grade 12 Science — Kuwait, Grade 11 Term 2; Grade 11 Statistics Term 2 — Laos, Grade 11 — Cambodia, Grade 10 — Egypt, Pure Mathematics Grade 12 — Ethiopia, Grade 11 — Armenia, Grade 12 teacher's guide (teacher evidence) — Iraq, Grade 11 Scientific; Grade 12 Literary — Kazakhstan, Grade 9 Algebra (four books)
 
 ## Do it first
@@ -16,6 +16,9 @@ the sum of the two numbers above it in the row before (3 = 1 + 2).
 You have just found the pattern this whole lesson stands on.
 
 ## Then the explanation
+
+## Sub lesson 1 — Pascal's Triangle
+
 **Pascal's triangle.** Stack the coefficient rows, centred:
 
         1
@@ -34,6 +37,8 @@ used for this triangle: Indonesia's Grade 12 Merdeka (2022) book
 was checked and Pascal's triangle is NOT FOUND there, so it is
 cited nowhere in this lesson — the triangle rests on the Revisi
 and K13 books only.
+
+## Sub lesson 2 — The Theorem and Full Expansions
 
 **The binomial theorem.** Row n of the triangle gives the
 coefficients of (a+b)ⁿ, because each coefficient is a combination
@@ -91,6 +96,8 @@ properties of an expansion, the general term Tₖ₊₁ among them
 (Abylkasymova, §11, p.92); and a Pascal table carried to n = 9,
 used for approximate computation — (1.04)⁵ and (0.98)⁵ estimated
 from the expansion (Soltan, §11, p.82).
+
+## Sub lesson 3 — The General Term and the Binomial Series
 
 **The general term.** You often need one term, not all of them.
 The (k+1)-th term of (a+b)ⁿ is C(n,k) aⁿ⁻ᵏ bᵏ. To find, say, the
