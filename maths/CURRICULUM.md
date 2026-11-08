@@ -79,6 +79,7 @@ factors.*
 - the-real-number-system ✅ — the real number system and the laws of operations, stated and checked (Level 55, catch-up build)
 - laws-of-arithmetic-operations ✅ — the four laws themselves: identity, commutative, associative, distributive, and calculating cleverly with them (Level 137, Malaysia merge 2026-11-07)
 - even-and-odd-numbers ✅ — even and odd by the last digit, hunting them in a range, and the adding rules (Level 151, India merge 2026-11-07)
+- numbers-in-stories ✅ — numbers met in stories and poems: counting to 100 inside a story, the young Gauss pairing trick that adds 1 to 100, times tables carried in verse, and Roman numerals met in books (Level 163, Ecuador sweep merge 2026-11-08)
 
 ## Unit 2 — Addition and Subtraction
 *End of unit: the learner can add and subtract, in their head
@@ -310,7 +311,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 162 lessons across 18 units** — the first
+**LADDER TOTAL: 163 lessons across 18 units** — the first
 52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -327,7 +328,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:
