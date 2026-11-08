@@ -1,9 +1,23 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Double comparatives
 
 **Course:** English · **Title:** Sentence · **Lesson:** Double comparatives
-**Place in the curriculum:** Level 28, "Comparing More Deeply" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 28 — "Comparing More Deeply" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the two locked comparison shapes: the more…the more (two changes rising together — the more you read, the faster you learn) and comparative-and-comparative (bigger and bigger — one thing changing step by step).
 **What the learner can do at the end:** build the more…the more with adjectives, adverbs and noun phrases on both sides; build comparative-and-comparative for gradual change; keep the two shapes apart live; and correct the error form *very better* when it appears.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Double Comparatives — the Locked Pair** — the locked pair: the + comparative …, the + comparative … — two changes rising together, the lever first. (Was depth Level 1.)
+2. **Double Comparatives — Gradual Change** — gradual change: comparative-and-comparative — one thing changing step by step (bigger and bigger, more and more difficult). (Was depth Level 2.)
+3. **Double Comparatives — the Shape in Use** — a use witness, worded honestly: China's Grade 9 book carries the shape in its dialogues only — use-evidence, never taught there. (No separate old depth layer: this paragraph is the lesson's honesty note on its sources, standing between the gradual-change part and the error part.)
+4. **Double Comparatives — the Error to Correct** — the error to correct: a comparative never takes very — *very better* and its family are wrong; grade with much / far / a lot, or lock the comparison into one of the two shapes. (Was depth Level 3, with Sub lesson 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Stronger comparisons (the graders) and the basic comparatives. Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

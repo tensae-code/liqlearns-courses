@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Stative verbs
 
 **Course:** English · **Title:** Sentence · **Lesson:** Stative verbs
-**Place in the curriculum:** Level 30, "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 30 — "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** stative verbs — the verbs of thinking, feeling, owning and sensing (know, believe, love, own, seem) that name a state, not an action, and so refuse the continuous coat — plus the linking verbs (be, seem, look, feel) that join a subject to its description.
 **What the learner can do at the end:** sort stative from action verbs on sight and keep statives in the simple coat (I know, not *I am knowing); handle the honest border — have, see, think change coats when their meaning changes (state vs action); and build linking-verb sentences whole: subject + be/seem/look/feel + adjective.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Stative Verbs — the Rule and Its Families** — the rule and its families: stative verbs name a state, not an action, and are not used in the continuous form — sorted into thoughts/opinions, feelings/emotions, the senses, and possessions/measurements. Both paragraphs stand in this sub lesson. (Was depth Level 1; the simple-coat half of old Level 2's pass mark is also stated here.)
+2. **Stative Verbs — the Honest Border: Three Movers** — the honest border: have, see and think can be state or action by context — the meaning moves, and the coat follows the meaning. (Was depth Level 2.)
+3. **Linking Verbs — the Bridges** — linking verbs — the bridges: be, seem, look, feel, sound, taste, smell join the subject to a description, and the description is an adjective, never an adverb. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Present actions (the present continuous) and Describing words in a sentence. Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

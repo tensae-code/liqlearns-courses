@@ -25,6 +25,7 @@ like; the Conditionals lesson helps, but nothing here
 needs it first.
 
 ## Then the explanation
+## Sub lesson 1 — Mixed Conditionals
 **The rungs, in one breath.** Zero: If you heat ice, it
 melts. First: If it rains, we will stay home. Second:
 If I had wings, I would fly. Third: If I had left
@@ -57,6 +58,7 @@ of two clocks, a yesterday clock chained to a today
 clock] Point at each clock and say which half of your
 mixed sentence belongs to it.
 
+## Sub lesson 2 — Inverted Conditionals
 **Inverted conditionals — if steps away.** In careful,
 formal English the if-half can drop **if** and step its
 helper to the front: "If I had known" → "**Had I
@@ -75,6 +77,7 @@ and standing beside it, the door still open] The door
 still opens: rebuild any inversion with if, and check
 the meaning did not move.
 
+## Sub lesson 3 — Unless and Provided That
 **Unless and provided that — the gate-words.**
 **Unless** = if…not: "Unless you hurry, you will be
 late" = "If you don't hurry, you will be late."
@@ -87,6 +90,7 @@ Had — one unit, the whole advanced gate. [a picture of
 a gate with a small sign: ONLY IF YOU HURRY] Say the
 sign's warning both ways before reading on.
 
+## Sub lesson 4 — Subjunctive Were
 **Subjunctive were.** In unreal conditions the verb be
 wears one shape for every who: **were** — if I were
 you, if she were here, were it not for the rain. This

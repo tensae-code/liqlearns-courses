@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — More conditionals
 
 **Course:** English · **Title:** Sentence · **Lesson:** More conditionals
-**Place in the curriculum:** Level 25, "Wishing and Imagining" —
+**Place in the curriculum:** Unit 25 — "Wishing and Imagining" —
 the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the conditional
 machine's advanced gears — **mixed conditionals** (a past
@@ -17,6 +18,19 @@ purpose and say which time each half talks about; read
 and build the if-less inverted forms; swap if…not for
 unless and if for provided that; and use were for every
 who in unreal conditions.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Mixed Conditionals** — the conditional halves split their times — a past condition with a present result, and a present condition with a past result. The lesson's opening recap of the four rungs (zero, first, second, third) is kept in this sub lesson, before the mixed paragraph it introduces. (Was depth Level 1.)
+2. **Inverted Conditionals** — if steps away and the helper steps first — Had I…, Were I…, Should you… — in careful, formal English. (Was depth Level 2.)
+3. **Unless and Provided That** — the gate-words: unless = if…not, and provided that = if, said as a rule or a condition of permission. (Was the first half of depth Level 3.)
+4. **Subjunctive Were** — were for every who in unreal conditions and wishes — the subjunctive mood. The closing paragraph on the base the mixes are built from (Kuwait's third conditional) is kept in this sub lesson, after the were paragraph. (Was the second half of depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Conditionals (rungs 0–3) and Wish

@@ -25,6 +25,7 @@ modal. Start here if you like; the present ladder is
 restated as we go.
 
 ## Then the explanation
+## Sub lesson 1 — Modal Perfects — Deduction About the Past
 **The shape.** Modal + **have** + past participle:
 must **have eaten**, can't **have left**, should
 **have kept**. Have never changes — there is no "must
@@ -49,6 +50,7 @@ empty plate with crumbs, a chair pushed back, a door
 just closed] Deduce three things about the meal you
 did not see, one per rung.
 
+## Sub lesson 2 — Modal Perfects — Criticism and Regret
 **Criticism — should have / shouldn't have.** The
 same Egypt box adds a second past job and names it in
 capitals in the filing: **BLAME AND REGRET** —
@@ -67,6 +69,7 @@ standing in rain without a coat, an umbrella hanging
 unused at home] Say the criticism kindly, then say it
 about yourself — the shape does not change.
 
+## Sub lesson 3 — Could Have — the Open Door
 **Could have — the open door.** "We **could have
 won**." "She **could have caught** the early bus."
 Could have says the past held a real possibility that
@@ -79,6 +82,7 @@ interrogative — inside a lesson on free university
 education (guide pp.98–102). Malaysia's Form 4 book
 stocks the same modal-perfect set in Module 7.
 
+## Sub lesson 4 — Needn't Have — Done, But Not Needed
 **Needn't have — done, but not needed.** "You
 **needn't have carried** the bags — the bus was
 coming." The action WAS done; the need was not there.

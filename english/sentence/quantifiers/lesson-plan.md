@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Quantifiers
 
 **Course:** English · **Title:** Sentence · **Lesson:** Quantifiers
-**Place in the curriculum:** Level 27, "The Small Words
+**Place in the curriculum:** Unit 27 — "The Small Words
 That Point" — the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** saying HOW MUCH
 and HOW MANY without a number — **some/any**, **much/
@@ -21,6 +22,18 @@ choosing by countability and by sentence kind; praise
 with plenty of, complain with too much/many, judge with
 enough; compare with less/fewer; and shop with
 partitives.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Quantifiers — Some, Any, Much and Many** — the sorting shelf (countable against uncountable), some/any, and much/many. Overlap: the much/many paragraph also carries a few / a little — that part of the old Level 2 ground is taught inside this sub lesson's text, because the paragraph runs both in one breath and is never split mid-thought. (Was depth Level 1, with the a few / a little paragraph of Level 2 carried inside it.)
+2. **Quantifiers — Small Amounts, Plenty, Enough, Less and Fewer** — plenty of, too much/many, enough in both its seats, and less/fewer — with a few / a little (against bare few/little, the smile against the complaint) whose teaching paragraph stands in Sub lesson 1, as noted there. (Was depth Level 2.)
+3. **Quantifiers — Partitives and Containers** — partitives: a container or measure + of gives uncountable things a countable handle — a loaf of, a bottle of, a kilo of. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Articles. Recommended, never

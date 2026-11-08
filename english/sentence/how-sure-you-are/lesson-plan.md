@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — How sure you are
 
 **Course:** English · **Title:** Sentence · **Lesson:** How sure you are
-**Place in the curriculum:** Level 26, "How Sure Are You?" —
+**Place in the curriculum:** Unit 26 — "How Sure Are You?" —
 the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** deduction about
 NOW — reading the signs in front of you and saying how
@@ -16,6 +17,18 @@ Modal perfects, its past twin, inside this level.
 choose the right certainty word, and say the number of
 their sureness — and never use mustn't where can't be
 belongs.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **How Sure You Are — the Sure Ends** — deduction from a sign, and the two sure ends: must be (95–100% sure it is true) and can't be (95–100% sure it is NOT true) — never mustn't for a deduction. The opening paragraph on the job itself is kept in this sub lesson. (Was depth Level 1.)
+2. **How Sure You Are — the Possible Middle** — the possible middle: may be / could be at 50%, and might be one rung lower at 30%. (Was depth Level 2.)
+3. **How Sure You Are — the Whole Ladder Live** — the whole ladder at work in the books — Yemen's possibilities game, Cambodia's mysteries, Malaysia's and Nepal's sets — with Egypt's numbers held live on one scene. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the modal basics (must for rules,

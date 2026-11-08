@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Someone, anyone, no one
 
 **Course:** English · **Title:** Sentence · **Lesson:** Someone, anyone, no one
-**Place in the curriculum:** Level 27, "The Small Words
+**Place in the curriculum:** Unit 27 — "The Small Words
 That Point" — the third lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the indefinite
 pronouns as ONE grid — **some- / any- / no- / every-**
@@ -20,6 +21,18 @@ positive sentences and offers, any- in questions and
 negatives; say nobody/nothing/nowhere without a second
 negative; and answer with the short forms (No one.
 Nothing. Nowhere.).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Grid and the Some/Any Law** — the grid itself (some-/any-/no-/every- through people, things and places) and the some/any law: some- in positive sentences and offers, any- in questions and negatives. The grid paragraph is kept in this sub lesson, before the law paragraph. (Was depth Level 1.)
+2. **The No Row, Standing Alone** — the no- row: no one, nothing, nowhere carry their own no, so the verb stays positive — one no per sentence — and the row answers questions by itself. (Was depth Level 2.)
+3. **The Every Row and the Whole Grid** — the every- row: everyone, everything, everywhere mean all of them and take a singular verb — and the whole sixteen-word grid at work. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Quantifiers. Recommended, never

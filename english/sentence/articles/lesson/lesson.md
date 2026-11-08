@@ -24,6 +24,7 @@ doors, as one system. Start here if you like; nothing
 earlier is needed.
 
 ## Then the explanation
+## Sub lesson 1 — Articles — A and An
 **A/an — one, new, a member of a kind.** Use a/an when
 the hearer meets the thing for the first time, or when
 you mean one member of a kind, any member: "I saw
@@ -38,6 +39,7 @@ theme (Theme 3), and Nepal's Grade 6 book opens its
 whole named grammar syllabus with articles a/an/the
 (Unit 1).
 
+## Sub lesson 2 — Articles — The, and Zero for Kinds
 **The — the one we both know.** Use the when speaker
 and hearer both know which one: because it was just
 mentioned ("I bought **a** book. **The** book is on my
@@ -69,6 +71,7 @@ names: people, towns, single mountains, lakes, and
 most countries stand bare — Khartoum, Mount Kenya,
 Lake Victoria, Sudan.
 
+## Sub lesson 3 — Articles — the Map's Coats
 **The map's exceptions — names that take the.**
 Armenia's Grade 10 book teaches articles with
 geographical names as its own topic (Unit 4), and the

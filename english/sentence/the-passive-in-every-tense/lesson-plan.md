@@ -1,9 +1,25 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The passive in every tense
 
 **Course:** English · **Title:** Sentence · **Lesson:** The passive in every tense
-**Place in the curriculum:** Level 29, "The Passive in Every Tense" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 29 — "The Passive in Every Tense" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the passive carried past its basic present/past coats: the continuous passives (is being built), the perfect passives (has been built), modal and future passives, passives with gerunds and infinitives (being done, to be done), two-object passives, and the impersonal passive (It is said that… / He is said to…) — the basic present/past passive is NOT retaught here.
 **What the learner can do at the end:** build is being / was being + participle and has been / had been + participle on sight; build modal and future passives (must be done, will be finished); use being/to be passives after verbs; turn two-object actives into both their passives; and report rumours both ways — It is said that… and He is said to….
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Passive — Continuous: the Work Is Moving** — continuous passives: is being / was being + participle — the receiver mid-process, the work still moving. (Was the first half of depth Level 1.)
+2. **The Passive — Perfect: the Work Stands Finished** — perfect passives: has/have been / had been + participle — the work stands finished. (Was the second half of depth Level 1.)
+3. **The Passive — Modal and Future: Rules and Tomorrow** — modal and future passives: must / can / should be + participle for rules, and will be + participle for tomorrow. (Was the first half of depth Level 2.)
+4. **The Passive After Verbs — Being and To Be** — passives after verbs: being / to be / having been + participle after another verb — including should be allowed to, which rides in with this coat. (Was the second half of depth Level 2.)
+5. **Two-Object Passives** — two-object passives: verbs like give, send, teach and show carry two receivers, and either can take the front seat. (Was the first half of depth Level 3.)
+6. **The Impersonal Passive — No Owner** — the impersonal passive: It is said that… and He is said to… — the whisper with no owner, and the formal-writing coat. (Was the second half of depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The passive (the basic shape — be + participle, present and past) and The present perfect. Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule); the basic coats are named in one line each and not retaught.

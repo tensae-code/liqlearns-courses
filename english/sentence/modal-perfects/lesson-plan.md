@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Modal perfects
 
 **Course:** English · **Title:** Sentence · **Lesson:** Modal perfects
-**Place in the curriculum:** Level 26, "How Sure Are You?" —
+**Place in the curriculum:** Unit 26 — "How Sure Are You?" —
 the second lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the certainty
 ladder aimed at the PAST — modal + **have** + past
@@ -18,6 +19,19 @@ finished day with the right rung; criticise a past
 action — their own or another's — with should have;
 and say an effort was wasted with needn't have, without
 mixing it with didn't need to.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Modal Perfects — Deduction About the Past** — the shape (modal + have + past participle, have never changing) and deduction about the past: must have, can't have, may/might have at Egypt's prices. The shape paragraph is kept in this sub lesson, before the deduction paragraph. (Was depth Level 1.)
+2. **Modal Perfects — Criticism and Regret** — criticism and regret: should have for the right thing not done, shouldn't have for the wrong thing done — blame and regret, not deduction. (Was depth Level 2.)
+3. **Could Have — the Open Door** — could have: the past held a real possibility that nobody used. (Was the first half of depth Level 3.)
+4. **Needn't Have — Done, But Not Needed** — needn't have: the action was done, but it was not needed — held apart from didn't need to. (Was the second half of depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: How sure you are (the present

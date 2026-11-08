@@ -23,6 +23,7 @@ that lesson helps here, but start here if you like;
 everything is explained below.
 
 ## Then the explanation
+## Sub lesson 1 — Wishes About Now
 **The shape of a present wish.** For a wish about NOW,
 English uses **wish / if only + the past simple**: "I
 wish I **ate** more vegetables — but I don't." Bolivia's
@@ -42,6 +43,7 @@ read on: "I wish it weren't raining." Note **were**:
 in careful English, wishes take were for every who —
 I wish I **were** taller, if only it **were** Friday.
 
+## Sub lesson 2 — Wishes About a Finished Day
 **The shape of a past wish.** For a wish about a
 FINISHED day, the coat steps back once more: **wish /
 if only + the past perfect** — had + the participle.
@@ -57,6 +59,7 @@ coat. [a picture of an empty bus stop at night, one bus
 already far away, its lights small] Say it: "If only I
 had left earlier."
 
+## Sub lesson 3 — Wish + Would — a Wanted Change
 **The would wish — asking for a change.** When the
 wish wants the world to MOVE — something to happen, or
 somebody to start or stop doing something — English
@@ -71,6 +74,7 @@ past perfect (Module 8). [a picture of a sister
 borrowing a dress while its owner points at the clock]
 Say the owner's wish with would.
 
+## Sub lesson 4 — Wish + Could — a Missing Ability
 **The could wish — a missing ability.** **Wish +
 could** names a power you do not have: "I wish I
 **could** swim." "If only I **could** read faster."
@@ -79,6 +83,7 @@ the world; could points IN, at your own missing
 ability. Do not wish "I would swim" for a missing
 power — English does not say it that way.
 
+## Sub lesson 5 — If Only — the Same Wishes Said Stronger
 **If only.** If only is not a new shape. It is the same
 three wishes said STRONGER — the wish with its heart
 showing: "If only I knew!" "If only I had listened!"

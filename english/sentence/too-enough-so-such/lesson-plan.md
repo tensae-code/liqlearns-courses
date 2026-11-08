@@ -1,9 +1,24 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Too, enough, so, such
 
 **Course:** English · **Title:** Sentence · **Lesson:** Too, enough, so, such
-**Place in the curriculum:** Level 30, "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 30 — "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the four result-pushers: too + adjective + to-infinitive (more than is wanted — it blocks), adjective + enough + to-infinitive (as much as is needed — it opens), so + adjective/adverb + that (a result follows), and such (a/an) + noun + that — plus the wider intensifier set the books list around them (very, really, extremely, absolutely…).
 **What the learner can do at the end:** build too heavy to lift and strong enough to lift for the same object and hear the door close and open; run so…that for adjectives and adverbs and such…that for noun phrases, with a/an placed right; and choose the intensifier that fits the adjective's kind (very tired, absolutely perfect).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Too — the Door Closes** — too + adjective + to-infinitive: more than enough, not satisfactory — the door closes on the blocked action. (Was the first half of depth Level 1.)
+2. **Enough — the Door Opens** — adjective + enough + to-infinitive: as much as is needed — the door opens; enough is the one pusher that stands after its adjective. (Was the second half of depth Level 1.)
+3. **So…That — a Result After an Adjective or Adverb** — so + adjective/adverb + that + result — the Linkers of Result, for what follows an adjective or adverb alone. (Was the first half of depth Level 2.)
+4. **Such…That — a Result After a Noun Phrase** — such (a/an) + (adjective) + noun + that + result — a/an for countable singular nouns, none for plurals and uncountables. (Was the second half of depth Level 2.)
+5. **The Wider Intensifier Set** — the wider intensifier set around the four pushers — very, really, extremely for gradable adjectives; absolutely, completely, utterly for absolutes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Stronger comparisons and Gerunds and infinitives (the to-form after too/enough). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

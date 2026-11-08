@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Wish and if only
 
 **Course:** English · **Title:** Sentence · **Lesson:** Wish and if only
-**Place in the curriculum:** Level 25, "Wishing and Imagining" —
+**Place in the curriculum:** Unit 25 — "Wishing and Imagining" —
 the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** wishing about a world
 that is not real — **wish / if only + past simple** for a
@@ -17,6 +18,20 @@ were different NOW, what they wish had been different THEN,
 ask the world to change with would, and name a missing
 ability with could — and hear if only as the same wish,
 said stronger.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Wishes About Now** — wish / if only + past simple for a present regret — the past coat that means not real, with were for every who in careful English. (Was depth Level 1.)
+2. **Wishes About a Finished Day** — wish / if only + past perfect (had + participle) for a regret about a finished day that cannot change. (Was depth Level 2.)
+3. **Wish + Would — a Wanted Change** — wish + would for something to happen, or someone to start or stop doing something. (Was the first half of depth Level 3.)
+4. **Wish + Could — a Missing Ability** — wish + could for an ability you do not have — could points in at your own missing ability, never would. (Was the second half of depth Level 3.)
+5. **If Only — the Same Wishes Said Stronger** — if only is not a new shape — it is the same wishes above said stronger, taught with wish as one family. (No separate old depth layer: if only was carried inside every layer above as the stronger form of the same wish; this is its own paragraph in the lesson text, so it stands as its own sub lesson.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Conditionals (If I had wings, I would

@@ -1,9 +1,23 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Adjective order
 
 **Course:** English · **Title:** Sentence · **Lesson:** Adjective order
-**Place in the curriculum:** Level 30, "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 30 — "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the fixed order adjectives must stand in when they stack before a noun — quantity, quality/opinion, size, shape, age, colour, nationality/origin, material — and why a stack in the wrong order sounds broken even when every word is right.
 **What the learner can do at the end:** stack two, three and four adjectives in the book order without a swap (a small old brown bag; two bad small old red American plastic shoes in the books' own worked example); place quantity first and material last, just before the noun; and repair a scrambled stack live.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Adjective Order — the Line** — the line itself: quantity · quality · size · shape · age · colour · nationality · material, then the noun — Bolivia's full table and its worked stack, on Egypt's ground rule. (Was depth Level 1; the full worked stack that old Level 3's pass mark builds also stands in this sub lesson's text.)
+2. **Adjective Order by Discovery** — learning the line by discovery: Mongolia's examples — a small old brown bag, a pretty silk Japanese kimono — and its rule that opinion/quality adjectives go before description adjectives. (Was the first half of depth Level 2.)
+3. **Adjective Order — a Second Table Agrees** — a second table agrees: Sudan's order (opinion first, quantity not listed) and Cambodia's practice stacks — a big, modern TV; the big, square, yellow blanket. (Was the second half of depth Level 2.)
+4. **Using the Adjective Order** — how to use the line: build from the noun backwards, material nearest the noun; same-box adjectives are equals and can take a comma or and, different boxes never take and. Long stacks and repairs are practised on this ground. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Describing words in a sentence (the two homes of a describing word). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

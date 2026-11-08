@@ -21,6 +21,7 @@ building blocks; if not, start here anyway — the forms
 are built from scratch below.
 
 ## Then the explanation
+## Sub lesson 1 — Reflexive Pronouns — the Forms and the Returning Action
 **The eight forms.** Object pronoun + **self** (one
 person) or **selves** (more than one): **myself,
 yourself, himself, herself, itself, ourselves,
@@ -47,6 +48,7 @@ Unit 4, in the company of the modal set (may/must/
 should/ought to/needn't) — the pointing-back words
 learned beside the duty words.
 
+## Sub lesson 2 — Reflexive Pronouns — Emphasis and By + Reflexive
 **Job two — emphasis.** A reflexive can stand beside
 the doer, or at the sentence's end, just to say NO
 HELP, NO DOUBT: "I did it **myself**." "The head
@@ -67,6 +69,7 @@ tongue out in effort, a grown-up's hands held up beside
 her] Say the picture's sentence: "She did it by
 herself."
 
+## Sub lesson 3 — Reflexive or Each Other?
 **Each other / one another — the crossing arrows.**
 When the action goes BETWEEN people, English refuses
 the reflexive and uses **each other** (or **one

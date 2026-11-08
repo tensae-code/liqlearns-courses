@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Participle adjectives
 
 **Course:** English · **Title:** Sentence · **Lesson:** Participle adjectives
-**Place in the curriculum:** Level 30, "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
+**Place in the curriculum:** Unit 30 — "Dressing a Sentence" (CURRICULUM.md / CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the -ed / -ing adjective pair made from one verb — bored vs boring, tired vs tiring, interested vs interesting: -ed names the feeling in the person who feels it, -ing names the thing that causes the feeling.
 **What the learner can do at the end:** choose the right coat for any feeler/cause pair live (the film is boring, I am bored); build the pair from a new verb (surprise, excite, confuse, amaze); and repair the classic swap — *I am boring — on sight, saying who feels and what causes it.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Participle Adjectives — the Pair** — the pair: from one verb, -ed for the feeler and -ing for the cause — with the books' own contrast sets (Albania's three-sentence sets, Cambodia's feelings unit). Both paragraphs stand in this sub lesson. (Was depth Level 1.)
+2. **Participle Adjectives — the Pair at Work** — where the pair works: describing people, not a tense — both coats in both homes, before the noun and after be (Mongolia's objective; Egypt's review pair). (Was depth Level 2.)
+3. **Participle Adjectives — the Classic Swap** — the classic swap: *I am boring* and *I am interesting in football* — ask who feels it (-ed) and what causes it (-ing), and repair the swap live. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Describing words in a sentence and Adjective order (same level). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

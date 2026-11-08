@@ -25,6 +25,7 @@ second job: guessing, openly, with the odds printed.
 Start here if you like; the ladder is complete below.
 
 ## Then the explanation
+## Sub lesson 1 — How Sure You Are — the Sure Ends
 **The job — deduction.** A deduction is a guess built
 on a SIGN: something you can see, hear or prove, right
 now. The sign is wet; the deduction is about the rain.
@@ -53,6 +54,7 @@ picture of a boy in a thick coat, sweating, under a
 hot sun beside a sign reading 40°] Say why he can't
 be cold, and name the sign.
 
+## Sub lesson 2 — How Sure You Are — the Possible Middle
 **May be / could be — 50%.** A true coin-flip: the
 sign fits, and so does its opposite. "The sky is grey.
 It **may be** raining by noon." "That noise **could
@@ -68,6 +70,7 @@ with four rungs marked 100, 50, 30, 0] Climb it now:
 one must, one may, one might sentence about the same
 grey sky.
 
+## Sub lesson 3 — How Sure You Are — the Whole Ladder Live
 **The set at work in the books.** Yemen's Book 6 opens
 the topic as a game (Unit 5, "Possibilities", p.34):
 children deduce what a found object is from close-up

@@ -23,6 +23,7 @@ but start here if you like — countability is explained
 below, in full.
 
 ## Then the explanation
+## Sub lesson 1 — Quantifiers — Some, Any, Much and Many
 **Countable and uncountable — the sorting shelf.**
 Bolivia's Year 2 book tables the contrast whole (Theme
 4): countable nouns (dog, pencil, apple, child) take
@@ -64,6 +65,7 @@ spelling. [a picture of two bowls: one with three
 spoonfuls of rice left, one heaped high] Name each
 bowl: a little rice — plenty of rice.
 
+## Sub lesson 2 — Quantifiers — Small Amounts, Plenty, Enough, Less and Fewer
 **Plenty of, too much/many, enough, less/fewer.**
 **Plenty of** = more than enough, and happy about it
 (both shelves: plenty of rice, plenty of apples).
@@ -82,6 +84,7 @@ fewer mistakes. [a picture of a cup filled exactly to
 a line marked ENOUGH, beside a cup spilling over] Judge
 both cups in full sentences.
 
+## Sub lesson 3 — Quantifiers — Partitives and Containers
 **Partitives — handles for uncountable things.** Rice
 cannot be counted, but a BAG of it can. The partitive
 (a + container/measure + of) gives uncountable things

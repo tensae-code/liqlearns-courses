@@ -19,6 +19,7 @@ already own the grid's left edge (some/any); if not,
 start here — the law is restated in full below.
 
 ## Then the explanation
+## Sub lesson 1 — The Grid and the Some/Any Law
 **The grid.** Two axes. Down one side, the rows:
 **some-, any-, no-, every-**. Across the top, the
 doors: **-one/-body** for people, **-thing** for
@@ -50,6 +51,7 @@ questions and negative sentences: "Does anyone want…?"
 any rice — the rice grew into people, and the law did
 not blink.
 
+## Sub lesson 2 — The No Row, Standing Alone
 **The no- row stands alone.** No one, nothing and
 nowhere carry the NO inside themselves, so the verb
 stays POSITIVE: "**Nobody came**." (never "Nobody
@@ -66,6 +68,7 @@ anything, anyone, everybody) inside a serious reading
 unit on child exploitation (Unit 24, printed
 pp.129–134) — the grid doing real work in real text.
 
+## Sub lesson 3 — The Every Row and the Whole Grid
 **The every- row — the full set.** Everyone,
 everything, everywhere mean ALL of them — and, a small
 trap, they take a SINGULAR verb: "**Everyone is**

@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Articles
 
 **Course:** English · **Title:** Sentence · **Lesson:** Articles
-**Place in the curriculum:** Level 27, "The Small Words
+**Place in the curriculum:** Unit 27 — "The Small Words
 That Point" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** the articles as
 ONE system — **a/an** (one, new, a member of a kind),
@@ -16,6 +17,18 @@ the or nothing for a new noun, a known noun, a kind in
 general, and the map's names — rivers, seas, mountain
 ranges with the; single peaks, lakes, towns and most
 countries without.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Articles — A and An** — a/an for one, new, a member of a kind — a before a consonant sound, an before a vowel sound, chosen by ear, not by letter. (Was depth Level 1.)
+2. **Articles — The, and Zero for Kinds** — the for the one we both know (second mention, only one, fixed by place), and zero — no article — when a kind is spoken of in general, and for most names. Both paragraphs stand in this sub lesson. (Was depth Level 2.)
+3. **Articles — the Map's Coats** — the map's exceptions: rivers, seas, oceans and mountain ranges take the; single peaks, lakes, islands, towns and most countries stand bare. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Recommended,

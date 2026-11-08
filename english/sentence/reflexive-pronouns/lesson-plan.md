@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Reflexive pronouns
 
 **Course:** English · **Title:** Sentence · **Lesson:** Reflexive pronouns
-**Place in the curriculum:** Level 27, "The Small Words
+**Place in the curriculum:** Unit 27 — "The Small Words
 That Point" — the fourth and last lesson of the level
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the words that
@@ -21,6 +22,18 @@ our-selves, them-selves); use them after verbs whose
 action returns; add one for emphasis; say alone with
 by + reflexive; and split reflexive from each other
 without a miss.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reflexive Pronouns — the Forms and the Returning Action** — the eight forms (myself…themselves, -selves in the plurals) and job one: the action returns — doer and done-to are the same person. (Was depth Level 1.)
+2. **Reflexive Pronouns — Emphasis and By + Reflexive** — job two, emphasis (the reflexive as a spotlight beside the doer or at the sentence's end), and job three, by + reflexive for alone/unaided — the lesson text takes emphasis before by, and both stand in this sub lesson. (Was depth Level 2.)
+3. **Reflexive or Each Other?** — each other / one another for the action that goes between people — the crossing arrows, never a reflexive. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the personal pronouns (me, you,
