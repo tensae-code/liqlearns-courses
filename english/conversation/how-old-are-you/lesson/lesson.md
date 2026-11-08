@@ -43,6 +43,40 @@ Same question, same number in the middle — the full form just
 adds "years old" at the end. Learn the short shape first; the
 full form is this lesson's next layer, not a different lesson.
 
+## Sub lesson 3 — Birthdays: When is your birthday?
+An age grows on a birthday, so the books join the two
+questions. China's Grade 5 book asks the birthday question
+as its own exchange: "**When is your birthday? — My birthday
+is on April 4th**" (Volume 2, Unit 4, printed pp.41, 43),
+and its class asks it round a birthday role-play of the
+whole year. Ecuador's Grade 3 book opens its birthday unit
+with the two frames side by side — "When's your birthday? —
+It's September 16th" and "How old are you? — I'm eight" —
+with "Happy birthday!" beside them (Unit 5, printed p.86),
+and its "How old are you?" song carries birthdays on March
+21st, June 22nd, September 23rd and December 24th (printed
+p.88). Afghanistan's Grade 5 book makes it a class task: ask
+the ages and chart them together with the birthdays — "My
+birthday is the Eleventh of December" (Unit 4, printed
+p.42). The months and their order live in Days and months
+next door; here the date just rides inside the answer.
+
+## Sub lesson 4 — Asking about other people: How old is he?
+The question also turns to people who are not in the room.
+Nepal's Grade 1 book makes it the age unit's second frame:
+"How old are you? — I'm five/six" beside "**How old is
+he/Raju?**" (Unit 9, printed pp.57–61). Vietnam's Grade 2
+book turns it to the family: "**How old is your brother? —
+He's nineteen**," with the numbers to twenty in use (Unit
+14, printed p.62); its Grade 3 book practises the pair
+whole: "How old is he/she? — He's/She's … years old"
+(Volume 2, Unit 11, printed pp.6–11). Iran's Grade 7 book
+widens it to the whole family — "How old is your
+father/mother/brother/sister/uncle/aunt? — He's 38 / She's
+35 …" (Lesson 3, printed pp.16–21; Lesson 4, printed
+pp.22–25). The shape never changes: *you* becomes *he* or
+*she*, and "I'm" becomes "He's" or "She's."
+
 ## Say it to your companion
 Ask your companion the question, and answer it for yourself. Then
 explain: what is the one thing in the answer that changes every

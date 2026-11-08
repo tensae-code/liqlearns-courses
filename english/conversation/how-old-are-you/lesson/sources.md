@@ -72,6 +72,22 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The same exchange mapped in Grade 3's opener ("I'm (eleven) years old") — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 1 It's Nice to Meet You!, Syllabus-mapped |
 | “How old are you?” as its own numbered lesson, inside the unit that also teaches numbers 0–12 | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, Lesson 3, printed p.11 |
 | “How old are you?” as the lesson's own question — Lesson 9's plan outcomes run asking *how old?*, describing people and asking colours, over the body set and the describing words; the *Happy Birthday* lines are printed in the steps | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lesson 9, guide printed pp.56–61 |
+**Sub lesson map (added 2026-11-08, whole-arc rule):** the
+rows above already stocked the birthday exchange and the
+third-person age question; the text now teaches both. Sub
+lesson 3 (Birthdays) is carried by the China Grade 5 row
+("When is your birthday? — My birthday is on April 4th,"
+with the class birthday role-play), the Ecuador rows
+("When's your birthday? — It's September 16th"; the song
+with birthdays on March 21st, June 22nd, September 23rd and
+December 24th) and the Afghanistan row (ages charted with
+birthdays). Sub lesson 4 (Asking about other people) is
+carried by the Nepal Grade 1 row ("How old is he/Raju?"),
+the Vietnam rows ("How old is your brother? — He's
+nineteen," Grade 2; the Grade 3 third-person pair) and the
+Iran row (the age question widened to the whole family). No
+existing row changed.
+
 **Acceptance count: taught in 28 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the

@@ -28,6 +28,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 
 1. **The short answer, I'm plus the number** — the fixed question "How old are you?" and the short whole-sentence answer — "I'm 6", "I'm 7", "I'm 8" — where only the number grows each year. (Was depth Level 1, with depth Level 2's deeper pass on the same content.)
 2. **The full answer, I am 8 years old** — Egypt's full form of the same answer: "I am 8 years old!" — the layer the lesson text itself names as its next layer. (No old depth layer of its own.)
+3. **Birthdays: When is your birthday?** — the birthday exchange the books join to the age question: "When is your birthday? — My birthday is on April 4th" (China Grade 5), the birthday song with its dates (Ecuador), and the class birthday chart (Afghanistan). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the birthday exchange was stocked here and taught nowhere in this lesson.)
+4. **Asking about other people: How old is he?** — the question turned to family and others: "How old is he/Raju?" (Nepal), "How old is your brother? — He's nineteen" (Vietnam), the whole-family widening (Iran). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources.)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -41,6 +43,11 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Answer in the whole short sentence: "I'm ___."
 3. Say what changes in the answer every year (only the number) and
    write next year's sentence.
+4. Answer in the full form: "I am ___ years old."
+5. Ask and answer the birthday question: "When is your birthday? —
+   My birthday is on …"
+6. Ask about someone else: "How old is he/she?" and "How old is
+   your brother?" — and answer with He's/She's.
 
 ## What you need
 Someone it is polite to ask — a child or a friend — or the explain
