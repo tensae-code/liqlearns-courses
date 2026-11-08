@@ -26,7 +26,7 @@ phrases — are never translated. You hear them in English,
 in an English voice, exactly as a stranger would say them
 on the street.
 
-## Then the explanation
+## Sub lesson 1 — Asking the way
 **Asking the way.** Every route starts with a polite
 ask: "Excuse me. Where's the post office?" Saudi
 Arabia's town unit opens with exactly that (We Can! 3,
@@ -37,6 +37,7 @@ the bus stop is?" "Excuse me, where's the train station?"
 "Excuse me, where's the nearest restaurant?" (Grade 10,
 Unit 3, Lesson 7, p.39.)
 
+## Sub lesson 2 — The route verbs, go straight and turn
 **The route verbs — imperatives.** A route is a chain of
 small orders with no "you" in them: Go straight. Turn
 left. Turn right. Go along this street. Go past the
@@ -54,6 +55,7 @@ Mongolia's Grade 8 book works direction dialogues over a
 town map with the same core — right, past, cross,
 straight (English VIII, Unit 6, p.78).
 
+## Sub lesson 3 — Placing the end, opposite and next to
 **Placing the end.** A route must land somewhere exact:
 "It's on your left." "It's on the right." Then the place
 words set it among its neighbours — opposite, next to,
@@ -65,6 +67,7 @@ pp.42–43). Cambodia's town unit carries its own set:
 in front of, behind, opposite, in between (Grade 7,
 Unit 24).
 
+## Sub lesson 4 — How far, how long
 **How far, how long.** The asker always wants one more
 thing: the distance. Saudi Arabia stocks both ends of
 it: "It's far from here" and "It's just around the
@@ -77,6 +80,7 @@ Park Avenue, near the cinema. Go along this street and
 turn left on River Road. It's on the right, opposite the
 museum."
 
+## Sub lesson 5 — Holding the steps in order, first, then, next
 **Holding the steps in order.** Long routes need glue:
 first, then, next. Malaysia's Form 1 book models it —
 Airil directs Howard to the Proclamation of Independence
