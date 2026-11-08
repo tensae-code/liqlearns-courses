@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The-order-of-operations
 
-**Course:** Maths · **Stage:** Stage 3 — Multiplication and Division · **Lesson:** The-order-of-operations
-**Place in the curriculum:** Level 11, the third lesson of Stage 3 — the last lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 3 — Multiplication and Division · **Lesson:** The-order-of-operations
+**Place in the curriculum:** Level 11, the third lesson of Unit 3 — the last lesson of the stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the order of operations — brackets first, then multiply and divide, then add and subtract, left to right.
 **This lesson's own level:** it stands on Addition (Level 7), Subtraction (Level 8), Multiplication (Level 9) and Division (Level 10) — the learner can do all four operations. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Order of Operations Multiply and Divide First** — work out expressions with no brackets, doing multiply and divide before add and subtract. (Was depth Level 1.)
+2. **Order of Operations Brackets First** — work out expressions with brackets, doing the brackets first and then the same order inside and outside. (Was depth Level 2.)
+3. **Order of Operations Left to Right and the Full Order** — work left to right when operations are on the same level, and work out expressions with brackets and all four operations. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: all four operations (Stages 2–3) — this lesson only orders them, it does not teach them. Recommended, never forced.

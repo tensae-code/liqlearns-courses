@@ -1,6 +1,6 @@
 # The-order-of-operations — the lesson
 
-Course: Maths · Stage: Stage 3 — Multiplication and Division · Lesson: The-order-of-operations
+Course: Maths · Unit: Unit 3 — Multiplication and Division · Lesson: The-order-of-operations
 Built from: Egypt, Grade 4 Term 1 (Discovery Techbook) — Jordan, Grade 4 Term 1 and Grade 8 — Kazakhstan, Grades 1–4 — Armenia, Mathematics 4 — Vietnam, Toán 6 — Greece, Grade 5 — South Africa, Grade 6 Book 1
 
 ## Do it first
@@ -10,7 +10,7 @@ before addition: 3 × 4 = 12 first, then 2 + 12 = 14. The order
 of operations is the rule that decides which operation goes
 first — and it changes the answer.
 
-## Then the explanation
+## Sub lesson 1 — Order of Operations Multiply and Divide First
 **Multiply and divide first.** Kazakhstan's Grade 2 book teaches
 order of operations in expressions as its own lesson (Ospanov
 set, L84), and its Grade 2 Zhakupova set teaches order of
@@ -23,6 +23,7 @@ expressions with operations of different levels (§3, p.17).
 though it stands second in the line. 10 − 6 ÷ 2 = 10 − 3 = 7.
 8 + 12 ÷ 4 = 8 + 3 = 11.
 
+## Sub lesson 2 — Order of Operations Brackets First
 **Brackets first.** Kazakhstan's Grade 1 book teaches order of
 operations in expressions with brackets (p.13) — the youngest
 teaching of the rule in the set — and Armenia's Grade 4 book
@@ -38,6 +39,7 @@ inside the box first, then the rest. 10 − (4 + 2) = 10 − 6 = 4.
 (10 − 4) ÷ 2 = 6 ÷ 2 = 3 — but 10 − 4 ÷ 2 = 10 − 2 = 8. The
 brackets change the answer.
 
+## Sub lesson 3 — Order of Operations Left to Right and the Full Order
 **Left to right.** When two operations are on the same level,
 work left to right. 12 ÷ 3 × 2 = 4 × 2 = 8 — never 12 ÷ 6 = 2.
 20 − 8 + 3 = 12 + 3 = 15 — never 20 − 11 = 9. Vietnam's Grade 6

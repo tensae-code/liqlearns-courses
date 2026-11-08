@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Division
 
-**Course:** Maths · **Stage:** Stage 3 — Multiplication and Division · **Lesson:** Division
-**Place in the curriculum:** Level 10, the second lesson of Stage 3 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 3 — Multiplication and Division · **Lesson:** Division
+**Place in the curriculum:** Level 10, the second lesson of Unit 3 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** dividing — sharing into equal parts, remainders, and dividing in columns.
 **This lesson's own level:** it stands on Multiplication (Level 9) — the learner knows the tables, and division is their inverse. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Division Sharing and the Tables** — share a number into equal parts, and divide using the times tables. (Was depth Level 1.)
+2. **Division Remainders** — divide with a remainder, say what the remainder means, and know the remainder must be smaller than the divisor. (Was depth Level 2.)
+3. **Division In Columns and Checking** — divide two- and three-digit numbers by one digit in columns, and check every division by multiplying. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Multiplication (same stage) — every division is checked by its times table. Recommended, never forced.

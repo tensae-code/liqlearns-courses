@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Multiplication
 
-**Course:** Maths · **Stage:** Stage 3 — Multiplication and Division · **Lesson:** Multiplication
-**Place in the curriculum:** Level 9, the first lesson of Stage 3 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 3 — Multiplication and Division · **Lesson:** Multiplication
+**Place in the curriculum:** Level 9, the first lesson of Unit 3 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** multiplying — the times tables, multiplying in columns, and multiplying by tens and hundreds.
 **This lesson's own level:** it stands on Addition (Level 7) — multiplication is repeated adding. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Multiplication Equal Groups and the First Tables** — explain multiplication as equal groups, and know the tables for 2, 3, 4 and 5. (The tables part's opening paragraph runs on to the tables for 6 to 9 in one breath and is kept whole here; the 6s to 9s table lines stand in Sub lesson 2.) (Was depth Level 1.)
+2. **Multiplication The Tables to Nine and Columns** — know the tables for 6, 7, 8 and 9, and multiply two-digit numbers by one digit in columns. (The columns part's opening also names the three-digit work; its three-digit worked example stands in Sub lesson 3.) (Was depth Level 2.)
+3. **Multiplication Three Digits, Tens and Hundreds** — multiply three-digit numbers by one digit in columns, and multiply by tens and hundreds. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Addition (Stage 2) — multiplication is adding the same number again and again. Recommended, never forced.

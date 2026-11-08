@@ -1,6 +1,6 @@
 # Multiplication — the lesson
 
-Course: Maths · Stage: Stage 3 — Multiplication and Division · Lesson: Multiplication
+Course: Maths · Unit: Unit 3 — Multiplication and Division · Lesson: Multiplication
 Built from: Kazakhstan, Grades 2–3 — Egypt, Grade 3 Term 1 (old Discovery edition) — Greece, Grades 2–3 — Libya, Grade 3 — Jordan, Grade 3 — Armenia, Grade 4 — Vietnam, Grade 3
 
 ## Do it first
@@ -9,7 +9,7 @@ same number three times — 4 + 4 + 4 = 12. Multiplication is a
 short way of writing that: 3 × 4 = 12. The × sign means "groups
 of": 3 groups of 4.
 
-## Then the explanation
+## Sub lesson 1 — Multiplication Equal Groups and the First Tables
 **Equal groups.** Kazakhstan's Grade 2 book introduces
 multiplication as uniting sets with equal numbers of elements
 (Ospanov set, L71, p.16), then names the components of
@@ -34,6 +34,8 @@ tables for 2, 3, 4 and 5.
 3s: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30.
 4s: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40.
 5s: 5, 10, 15, 20, 25, 30, 35, 40, 45, 50.
+
+## Sub lesson 2 — Multiplication The Tables to Nine and Columns
 6s: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60.
 7s: 7, 14, 21, 28, 35, 42, 49, 56, 63, 70.
 8s: 8, 16, 24, 32, 40, 48, 56, 64, 72, 80.
@@ -54,6 +56,7 @@ regrouping ones and tens (p.68), then ones, tens and hundreds
 Ones: 3 × 4 = 12 — write 2, carry 1 ten. Tens: 2 × 4 = 8 tens,
 plus the carried ten = 9 tens. Answer 92.
 
+## Sub lesson 3 — Multiplication Three Digits, Tens and Hundreds
  132
 ×   3
 -----

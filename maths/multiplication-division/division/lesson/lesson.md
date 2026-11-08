@@ -1,6 +1,6 @@
 # Division — the lesson
 
-Course: Maths · Stage: Stage 3 — Multiplication and Division · Lesson: Division
+Course: Maths · Unit: Unit 3 — Multiplication and Division · Lesson: Division
 Built from: Egypt, Grade 3 Term 1 (old Discovery edition) and Grade 3 Term 2 — Jordan, Grades 3–4 — Vietnam, Toán 3 — Kazakhstan, Grades 2–3 — Armenia, Grades 4–5 — Greece, Grades 2–3
 
 ## Do it first
@@ -10,7 +10,7 @@ none are left. Each friend gets 4. That is division: 12 ÷ 3 = 4.
 The ÷ sign means "shared by"; the answer is called the
 quotient.
 
-## Then the explanation
+## Sub lesson 1 — Division Sharing and the Tables
 **Sharing.** Kazakhstan's Grade 2 book introduces division as
 dividing a set into equal parts (Ospanov set, L73, p.21) — the
 sign ":" is introduced with its readings: "6 : 3 is read as '6
@@ -33,6 +33,7 @@ teaches finding an unknown divisor from dividend and quotient
 
 42 ÷ 6 = 7, because 6 × 7 = 42. 81 ÷ 9 = 9, because 9 × 9 = 81.
 
+## Sub lesson 2 — Division Remainders
 **Remainders.** Sometimes the sharing does not come out even.
 Egypt's Grade 3 book teaches division with remainders as a named
 topic (Chapter 8, folios 82–91), and Vietnam's Grade 3 book
@@ -46,6 +47,7 @@ The remainder is always smaller than the divisor — if it were
 not, one more whole share would fit. Jordan's Grade 4 book
 teaches long division including zeros in the quotient.
 
+## Sub lesson 3 — Division In Columns and Checking
 **In columns.** Egypt's Grade 4 book teaches long division
 layout, and Jordan's Grade 4 book teaches long division including
 zeros in the quotient. The chant is divide, multiply, subtract,
