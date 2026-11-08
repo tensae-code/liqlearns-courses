@@ -12,7 +12,7 @@ lesson — you live in them. The books teach the English names
 the same way you just did: **listen and touch**. Say the name
 while your hand is on the part, and the word never leaves you.
 
-## Then the explanation
+## Sub lesson 1 — The Touched Seven
 Palestine's body unit gives the first seven, taught on the
 child's own body: **head, hand, finger, leg, face, nose,
 mouth**. Touch each one as you say it: head — the top, with
@@ -20,6 +20,7 @@ the face on its front. Face carries the nose and the mouth.
 Hand ends the arm; its five small parts are the fingers. Leg
 is what you stand on.
 
+## Sub lesson 2 — Parts at Work
 Egypt teaches the same body a second way — by what the parts
 DO. Its senses lesson pairs five parts with five doing words,
 in sentences you can say about yourself right now:
@@ -39,6 +40,7 @@ every part — "my eyes," "my nose," "my hands" — because the
 body is yours; the word rides along from the Pronouns lesson's
 own box.
 
+## Sub lesson 3 — The Whole Body Set
 Egypt's letter pages add three more parts the older learners
 meet there: **hair** (Hh), **neck** (Nn), **elbow** (Ee) — the
 bend in the middle of the arm. Ten core words, three more on

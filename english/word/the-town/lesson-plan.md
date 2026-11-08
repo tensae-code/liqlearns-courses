@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The town
 
 **Course:** English · **Title:** Word · **Lesson:** The town
-**Place in the curriculum:** Level 7, "Words for the World" — the second lesson of the level (CURRICULUM.md), after
+**Place in the curriculum:** Unit 7 — Words for the World — the second lesson of the unit (CURRICULUM.md), after
 The home.
 **The one thing this lesson teaches:** the words for the
 places in a town — and what each place is for.
@@ -20,6 +21,27 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Eight Town Words** — Egypt's eight — hospital, school,
+   shop, building, street, car, truck, bus — each with what it is
+   for. (Was depth Level 1.)
+2. **The Wider Town** — the wider set from the later books:
+   library, post office, supermarket, park, zoo, city. (Was depth
+   Level 2.)
+3. **The Town and the Village** — the town set against its pair,
+   city life and village life, and the places in whole dialog
+   sentences; the dialog that carries the sentences stands in Do
+   it first, outside the sub-lesson sections. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: The home. Recommended, never forced.

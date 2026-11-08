@@ -1,3 +1,4 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Working words
 
 **Course:** English · **Title:** Word · **Lesson:** Working words
@@ -8,8 +9,8 @@ hotels, offices and tourism — from Greece's vocational
 the other lessons of this level. Learners who work, or will
 work, in hotels, offices or tourism take it; other learners
 can pass it by and lose nothing from the general course.
-**Place in the curriculum:** Level 7, "Words for the World"
-— the specialist shelf of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World
+— the specialist shelf of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the working word
 sets of the hotel desk, the office and the tourist trade —
 reception, reservation, guest, key; letter, memo, account,
@@ -31,6 +32,27 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Hotel Desk** — a guest's road worked in the Hotel book's
+   own order — enquiry, reservation, deposit, checking in, key,
+   room. (Was depth Level 1.)
+2. **The Office** — a business letter's parts named in their
+   order, and the office set used in true sentences. (Was depth
+   Level 2.)
+3. **The Telephone and the Trade** — telephone messages taken and
+   left with the desk's phrases, and the tourism set used
+   correctly; the tourism words are first met on the hotel road in
+   Sub lesson 1. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: The town (Level 7) and Money and prices

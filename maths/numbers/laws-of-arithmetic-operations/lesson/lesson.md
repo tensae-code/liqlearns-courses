@@ -12,8 +12,7 @@ Now look at your work. The first sum made you add 87 + 29 = 116, then 116 + 71. 
 
 Here is the secret of this lesson: **you are allowed to move the numbers.** Four laws say exactly how. By the end you will do the first sum as 87 + 100, the second as 100 × 17, and the third as 700 − 7.
 
-## The four laws
-
+## Sub lesson 1 — Arithmetic Laws The Identity Law
 ### 1. The identity law
 
 Adding zero changes nothing, and multiplying by one changes nothing:
@@ -23,6 +22,7 @@ Adding zero changes nothing, and multiplying by one changes nothing:
 
 0 is the identity for addition; 1 is the identity for multiplication. (Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed p. 11.)
 
+## Sub lesson 2 — Arithmetic Laws The Commutative Law
 ### 2. The commutative law — you may swap
 
 - a + b = b + a
@@ -30,6 +30,7 @@ Adding zero changes nothing, and multiplying by one changes nothing:
 
 29 + 71 = 71 + 29. The answer does not care about the order. But be careful: **this law belongs to addition and multiplication only.** 9 − 4 is 5, but 4 − 9 is −5. 12 ÷ 3 is 4, but 3 ÷ 12 is a quarter. Swapping a subtraction or a division changes the answer.
 
+## Sub lesson 3 — Arithmetic Laws The Associative Law
 ### 3. The associative law — you may regroup
 
 - (a + b) + c = a + (b + c)
@@ -39,6 +40,7 @@ The brackets say which pair is done first — and for addition and multiplicatio
 
 Like the commutative law, this one does not hold for subtraction or division: (10 − 6) − 2 = 2, but 10 − (6 − 2) = 6.
 
+## Sub lesson 4 — Arithmetic Laws The Distributive Law
 ### 4. The distributive law — you may spread
 
 - a × (b + c) = a × b + a × c
@@ -50,8 +52,7 @@ Multiplication spreads over the parts inside the brackets. 99 × 7 = (100 − 1)
 
 The laws hold for whole numbers, integers, fractions and decimals alike — Malaysia's book applies them to all of them, and checks a claimed equality by working out both sides. (Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed pp. 11–12.)
 
-## Calculating cleverly
-
+## Sub lesson 5 — Arithmetic Laws Calculating Cleverly
 There is no new law here — just the habit of looking before you calculate:
 
 1. **Hunt for the round number.** Scan the sum for a pair that makes 10, 100 or 1000, and group that pair first (associative), swapping if needed (commutative).

@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The Laws of Arithmetic Operations
 
 **One thing:** the four laws that say when numbers may be swapped, regrouped and spread out — the identity law, the commutative law, the associative law and the distributive law — and how to use them to calculate cleverly instead of slowly.
 
-**Stage:** Numbers (Stage 1). **Level 137** (Malaysia merge, 2026-11-07).
+**Unit:** Numbers (Unit 1). **Level 137** (Malaysia merge, 2026-11-07).
 
 **Why this lesson exists:** Malaysia's Form 1 book names the four laws as a set and puts them to work choosing the fastest order for a calculation. No earlier lesson treats the laws themselves as the thing — the real-number-system lesson names them inside its climb, and the order-of-operations lesson teaches which operation comes first, which is a different question. Under the everything-goes-in ruling (2026-11-06), the laws get their own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Arithmetic Laws The Identity Law** — adding 0 or multiplying by 1 changes nothing: a + 0 = a, a × 1 = a. (Was depth Layers 1–2, split by law.)
+2. **Arithmetic Laws The Commutative Law** — order may be swapped in addition and multiplication: a + b = b + a, a × b = b × a; it fails for subtraction and division. (Was depth Layers 1–2, split by law.)
+3. **Arithmetic Laws The Associative Law** — grouping may be moved in addition and multiplication: (a + b) + c = a + (b + c), (a × b) × c = a × (b × c). (Was depth Layers 1–2, split by law.)
+4. **Arithmetic Laws The Distributive Law** — multiplication spreads over addition and subtraction: a × (b + c) = a × b + a × c. (Was depth Layers 1–2, split by law.)
+5. **Arithmetic Laws Calculating Cleverly** — choosing swaps and groupings that make round numbers, and splitting a factor like 99 into 100 − 1. (Was depth Layer 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

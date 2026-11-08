@@ -22,7 +22,7 @@ words you need when someone asks the kindest question in
 English — "How are you feeling?" Here are the words to
 answer it with.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Feelings
 Bolivia's book teaches **seventeen** feeling words in one
 list, and this lesson keeps its breadth: **bored, cold,
 hot, confused, disappointed, tired, hungry, thirsty,
@@ -40,6 +40,7 @@ sentences spell both right.)
 happy, angry, surprised. Name each feeling before you
 read on.]*
 
+## Sub lesson 2 — Saying How You Feel
 Mongolia teaches the first six **matched to faces**:
 **sleepy, sad, excited, happy, angry, surprised** — and
 then gives feelings their causes, in its make-me frame:
@@ -53,6 +54,7 @@ alone: it has a face, and it has a cause.
 face turning happy. Say "A clown makes me happy" as the
 face changes.]*
 
+## Sub lesson 3 — Causes, Pairs and the Past
 Two fine points ride at the top of the set. Albania's
 grammar focus is the **-ed/-ing pair**: **"I feel
 annoyed. My brother annoys me. He is annoying." "I feel

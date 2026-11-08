@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Health words
 
 **Course:** English · **Title:** Word · **Lesson:** Health words
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the words for feeling ill and getting better (CURRICULUM.md).
 **The one thing this lesson teaches:** the symptom words —
 headache, fever, cough, a cold, stomachache, sore throat,
@@ -22,6 +23,26 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Symptoms** — the symptom set — headache, fever, cough, a
+   cold, stomachache, sore throat, toothache — with "I have a …".
+   (Was depth Level 1.)
+2. **At the Doctor** — the books' doctor–patient dialogue played
+   whole: what is wrong, the illness named, rest and medicine.
+   (Was depth Level 2.)
+3. **Advice with Should** — the right advice with should /
+   shouldn't for a named problem, in the books' own shapes. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: The body (Level 7). Recommended, never

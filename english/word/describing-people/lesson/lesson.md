@@ -22,7 +22,7 @@ a person two ways, and English keeps those two ways apart
 with two different questions. This lesson teaches both sets
 of words, and the two questions that carry them.
 
-## Then the explanation
+## Sub lesson 1 — Appearance Words
 **Appearance — what the eyes see.** Rwanda's Primary 4 book
 gives the set: **tall, short, fat, thin, slim, overweight,
 attractive, handsome, beautiful, ugly**. Cambodia's unit
@@ -38,6 +38,7 @@ first-year frame, still carrying the set.
 > smiling — the student describes each person with two
 > appearance words.
 
+## Sub lesson 2 — Personality Words
 **Personality — what the heart knows.** The books' sets
 agree across four countries. Rwanda Primary 4: **confident,
 humble, friendly, fearful, funny, generous, honest,
@@ -52,6 +53,7 @@ hesitant, selfish, greedy, lazy, jealous — and matches six
 of them to their meanings: **reliable** = can be trusted,
 **generous** = gives freely, **hesitant** = slow to act.
 
+## Sub lesson 3 — The Two Questions
 **The two questions.** Cambodia's unit title IS the
 lesson: "**What does she look like?**" asks the eyes —
 answer with appearance. "**What is he like?**" asks the

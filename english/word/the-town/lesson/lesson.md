@@ -21,7 +21,7 @@ walk it the way Egypt's book does — with Sara and Ali:
 "Wow! And what's that big **building** over there?"
 "That's a **shop**. We can buy things there."
 
-## Then the explanation
+## Sub lesson 1 — The Eight Town Words
 The town's first set is Egypt's **eight words**, and the
 dialog above carries all of them: **hospital, school, shop,
 building, street, car, truck, bus**. Learn each place with
@@ -34,6 +34,7 @@ what it is FOR, and the name sticks to the job:
 - **building** — any big house of rooms; a school and a
   hospital and a shop are all buildings too.
 
+## Sub lesson 2 — The Wider Town
 The later books widen the town. Egypt's city unit adds
 **library** (borrow books), **post office** (send letters),
 **supermarket** (the big food shop), **club**, and **city**
@@ -43,6 +44,7 @@ Mongolia's Grade 8 book gives the same world a whole unit,
 "Around Town" — the set keeps growing the same way everywhere:
 a place, its name, its job.
 
+## Sub lesson 3 — The Town and the Village
 Bangladesh's book sets the town against its pair: Oyshi's
 **city** life in one lesson, Osman's **village** life in the
 lesson before it. Same words, two sizes of world — school,

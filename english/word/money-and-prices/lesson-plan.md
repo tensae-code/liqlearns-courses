@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Money and prices
 
 **Course:** English · **Title:** Word · **Lesson:** Money and prices
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the words for buying, selling and what things cost
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the money words —
@@ -23,6 +24,24 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Asking the Price** — asking and answering for one thing and
+   for many: "How much is a…?" "It costs 900 Riels." (Was depth
+   Level 1.)
+2. **Currencies and Near Prices** — the currencies named, and
+   prices softened with about/around. (Was depth Level 2.)
+3. **The Money Set** — Uzbekistan's set used in true sentences,
+   lend never swapped with borrow. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Numbers (Level 9). Recommended, never

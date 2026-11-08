@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Compound words
 
 **Course:** English · **Title:** Word · **Lesson:** Compound words
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the second building way: whole word + whole word
 (CURRICULUM.md).
 **The one thing this lesson teaches:** compound words —
@@ -25,6 +26,27 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Splitting Compound Words** — the books' compounds split into
+   their two whole words, each part passing the alone-test. (Was
+   depth Level 1.)
+2. **The Books' Sets and Formation** — words joined into true
+   compounds, the books' joined and hyphenated spellings, and the
+   formation types; the plural rule at its end is carried as Sub
+   lesson 3 depth. (Was depth Level 2.)
+3. **Reading by Parts** — a compound never seen before read by its
+   parts, and compound plurals formed by Vietnam's rules. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Word building (same level). Recommended,

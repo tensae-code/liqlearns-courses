@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Nature and the environment
 
 **Course:** English · **Title:** Word · **Lesson:** Nature and the environment
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the words for the natural world and for looking after it
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the nature words —
@@ -24,6 +25,25 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Nature Places** — the place set — forest, hill, mountain,
+   lake, river, stream, rock, sea, grass — named and pointed out.
+   (Was depth Level 1.)
+2. **Habitats** — where animals live, in whole sentences: "Bears
+   can live in the forest". (Was depth Level 2.)
+3. **Problems and Solutions** — the environment set sorted into
+   problems and solutions, with one sentence on each side. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Animals (Level 7). Recommended, never

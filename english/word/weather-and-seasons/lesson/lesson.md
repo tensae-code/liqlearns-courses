@@ -21,7 +21,7 @@ teach it early for exactly that reason. Now the English
 words, and the two questions the books drill: one for
 today, one for yesterday.
 
-## Then the explanation
+## Sub lesson 1 — Today's Weather
 The weather set. Cambodia's Grade 5 book opens its weather
 chapter with "What's the weather like today? It's cloudy
 and windy" — and the words gather around that question in
@@ -37,6 +37,7 @@ storm, thunder, rainbow, temperature**.
 sunny, rainy, snowy, windy. Name each weather before you
 read on.]*
 
+## Sub lesson 2 — The Four Seasons
 The four **seasons**: **spring, summer, autumn, winter**.
 Albania's guide names the fourth season **fall** — the
 American name for autumn; both names are in the books, and
@@ -53,6 +54,7 @@ colder than yesterday." "July is the hottest month."
 *[Slot: a picture of one tree changing through spring,
 summer, autumn, winter. Say each season as it changes.]*
 
+## Sub lesson 3 — Yesterday and Strong Weather
 Now the two questions. For **today**, the present:
 **"What's the weather like today?"** — "It's cloudy and
 windy." (Cambodia.) For **yesterday**, Rwanda's book sets

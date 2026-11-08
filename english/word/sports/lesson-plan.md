@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Sports
 
 **Course:** English · **Title:** Word · **Lesson:** Sports
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the sports words —
 football, basketball, swimming, running and their partners —
 with the set's own pattern, Mongolia's three-way split:
@@ -22,6 +23,24 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Sports** — the sports set named on pictures
+   without a miss. (Was depth Level 1.)
+2. **Sports in Action** — each sport matched to its action verbs,
+   and which sports you play, and how often. (Was depth Level 2.)
+3. **Play, Do and Go** — every sport sorted under its right
+   partner — play, do or go — and a favourite sportsperson talked
+   about. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Verbs (Level 6, Word Kinds).

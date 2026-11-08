@@ -21,7 +21,7 @@ doctor asks "What is wrong?" — and this lesson gives you the
 English words that go with the showing, so next time the
 words can do the work.
 
-## Then the explanation
+## Sub lesson 1 — The Symptoms
 **The symptoms.** Albania's doctor chapter teaches the set
 as one list, and every book in this lesson uses the same
 words:
@@ -47,6 +47,7 @@ I have **a** cold. I have **a** fever.
 > thermometer beside them — the student reads the two words
 > the picture is teaching: headache, fever.
 
+## Sub lesson 2 — At the Doctor
 **At the doctor.** Rwanda's health unit prints a
 doctor–patient dialogue — a boy, Magezi, ill with food
 poisoning — and then asks learners to play the same talk
@@ -67,6 +68,7 @@ illness. Bolivia's sick-day dialogue starts the same talk
 at home: Ana is sick with a stomachache, and her friend
 knows what to say.
 
+## Sub lesson 3 — Advice with Should
 **Advice — should and shouldn't.** Every book here gives
 health advice with the same two words. **Should** = it is
 good to do it. **Shouldn't** = it is bad to do it.

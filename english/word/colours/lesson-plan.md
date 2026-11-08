@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Colours
 
 **Course:** English · **Title:** Word · **Lesson:** Colours
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the colour words — red,
 green, blue, yellow, black, white, and the rainbow colours that
 grow out of them — each one asked and answered with the books'
@@ -21,6 +22,27 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The First Six Colours** — red, green, white, blue, black,
+   yellow, and the "What colour?" question, with colours first
+   riding on things in the book's colouring line. (Was depth Level
+   1.)
+2. **The Rainbow Seven and Colours on Things** — the rainbow seven
+   in order, and colour + thing the way the books say it, on
+   clothes too. (Was depth Level 2.)
+3. **Mixing Colours** — Mongolia's mixing chart, the primary
+   colours, and describing real things by colour in whole answers.
+   (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Nouns (Level 6, Word Kinds). Recommended,

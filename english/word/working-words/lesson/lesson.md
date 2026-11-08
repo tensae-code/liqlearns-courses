@@ -28,7 +28,7 @@ already know the WORK. This lesson gives you the work's
 English — the exact words and phrases the Greek trade
 books teach for the desk, the office and the tour.
 
-## Then the explanation
+## Sub lesson 1 — The Hotel Desk
 **The hotel — a guest's road.** The Hotel book teaches the
 trade in the order a guest lives it, and the word set
 follows the road:
@@ -58,6 +58,7 @@ follows the road:
 > the student names the three things the desk is doing:
 > registering, welcoming, handing over the key.
 
+## Sub lesson 2 — The Office
 **The office.** The Office Clerks book opens with the shape
 of the trade's writing, before any unit: the anatomy of a
 **business letter** — headed notepaper, the receiver's
@@ -71,6 +72,7 @@ acknowledgement, complaint** — each with its standard
 phrases. The office set: **letter, memo, inquiry, order,
 complaint, account, customer, firm**.
 
+## Sub lesson 3 — The Telephone and the Trade
 **The telephone.** Both trades live on the phone, and the
 Hotel book's reservation unit drills its language whole:
 answering, asking for a person, being **put through**, an

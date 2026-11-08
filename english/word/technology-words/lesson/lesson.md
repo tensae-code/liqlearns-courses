@@ -21,7 +21,7 @@ thing you do with the machine — turn it on, send a message,
 save a photo — has English words too. Those names and those
 doings are this lesson.
 
-## Then the explanation
+## Sub lesson 1 — The Computer Parts
 **The parts.** Bolivia's Year 2 book numbers the parts of a
 computer 1 to 6, with what each one does. Learn them as the
 book gives them:
@@ -45,6 +45,7 @@ document.
 > and a printer on it — the student names the four things
 > the picture shows, in English.
 
+## Sub lesson 2 — The Technology Actions
 **The doing words.** Bolivia's action set is four verbs:
 **plug in, turn on, turn off, connect**. Its Year 5 book
 goes onto the internet itself, and the activities list is
@@ -63,6 +64,7 @@ honest: describe the steps to **upload** a task to the
 Classroom platform — the steps go up, because the task
 leaves your hands.
 
+## Sub lesson 3 — Gadgets and the Newest Words
 **Gadgets.** Sudan's Grade 7 technology unit names the
 small machines: **sat-nav, headphones, camera, webcam,
 mobile** — and Sudan's senior book gives the whole field

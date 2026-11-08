@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Clothes
 
 **Course:** English · **Title:** Word · **Lesson:** Clothes
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the clothes words —
 shirt, trousers, dress, skirt, shoes and their partners —
 with the wearing pattern: what you usually wear against
@@ -21,6 +22,24 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Clothes** — the clothes set named on pictures
+   without a miss. (Was depth Level 1.)
+2. **Wearing Sentences and Colours** — what a person is wearing in
+   a whole sentence, with the colour, and usually wear against
+   wearing today. (Was depth Level 2.)
+3. **Materials** — the materials, and "What is it made of?" — made
+   of against made from. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Colours (this level). Recommended,

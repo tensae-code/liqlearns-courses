@@ -23,7 +23,7 @@ word. English builds thousands of its words this way, from
 parts — and once you can see the parts, long words stop
 being scary: they are small words with something added.
 
-## Then the explanation
+## Sub lesson 1 — The Three Parts of a Word
 **The three parts.** A built word can have three parts:
 
 - the **root** — the middle, carrying the main meaning.
@@ -41,6 +41,7 @@ being scary: they are small words with something added.
 > coloured blocks — UN | HAPPY | NESS — the student names
 > each part: prefix, root, suffix.
 
+## Sub lesson 2 — Building with the Sets
 **The building sets.** Cambodia's Grade 12 book teaches
 word formation as a build-a-word exercise, with two full
 toolboxes:
@@ -63,6 +64,7 @@ unit. A suffix often changes the word's KIND: teach (verb)
 happiness (noun). A prefix usually changes the MEANING,
 not the kind: happy and unhappy are both adjectives.
 
+## Sub lesson 3 — Syllables and New Words
 **Syllables — the beats.** Every word is also built of
 sound beats. Nepal's Grade 8 pronunciation work counts
 them: **tea-cher** — 2. **hap-py** — 2. **un-hap-pi-ness**

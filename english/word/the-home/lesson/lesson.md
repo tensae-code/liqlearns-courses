@@ -13,7 +13,7 @@ know every room's name, and you know what each room is FOR.
 Now we learn the English names — because a home is the first
 part of the world every learner can name whole.
 
-## Then the explanation
+## Sub lesson 1 — The Five Rooms
 Egypt's book teaches the home as **five rooms**, with a
 sentence for what you do in each one. Learn the five with
 their sentences, and you own the set:
@@ -30,6 +30,7 @@ Libya's Grade 1 book teaches three of the same rooms —
 one room is normal in English; this course keeps both, the way
 the books do.
 
+## Sub lesson 2 — The Things in the Rooms
 Now the things that live in the rooms. Egypt's house unit
 names them: **bed, closet, sink, toilet, fridge, oven, couch,
 TV, table, chairs**. Libya's house adds **wardrobe, shelf,
@@ -39,6 +40,7 @@ with their rooms: the **oven** is in the kitchen. The **bed**
 is in the bedroom. The **sink** and the **toilet** are in the
 bathroom. The **couch** and the **TV** are in the living room.
 
+## Sub lesson 3 — Rooms in Sentences
 And the question the books drill until it is easy: **"What do
 you do in the …?"** — "What do you do in the living room?" "I
 watch TV in the living room." "What do you do in the bedroom?"

@@ -1,12 +1,30 @@
-# Levels — The Laws of Arithmetic Operations
+# The Laws of Arithmetic Operations — sub lessons and depth
 
-One lesson, one level (Level 137). The depth layers inside it are ranks.
+This file is the lesson's depth record, re-expressed as its SUB
+LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub
+Lessons"). One lesson, one level (Level 137). Practice is tied to
+the skill number, as before. The questions live in the type files;
+this file is the by-sub-lesson view.
 
-## Depth layers
+Mapping from the old depth layers: old Layer 1 (name the law) and
+old Layer 2 (use one law at a time) both ran across all four laws
+together, so they split by law into Sub lessons 1–4; old Layer 3
+(calculate cleverly) = Sub lesson 5.
 
-- **Layer 1 — Name the law.** State each of the four laws and recognise which law a shown pair of equal calculations is using. Pass mark: 4 of 5.
-- **Layer 2 — Use one law at a time.** Swap, regroup or spread a calculation with one named law, for whole numbers, fractions and decimals, and say which operations the commutative and associative laws do NOT work for. Pass mark: 5 of 6.
-- **Layer 3 — Calculate cleverly.** Choose the order yourself: hunt the pair that makes a round number, split a factor like 99 into 100 − 1, and finish multi-step calculations with the fewest moves. Pass mark: 4 of 5.
+## Sub lesson 1 — Arithmetic Laws The Identity Law
+Sub lesson 1 questions from the type files. The old layers ran across the four laws together: old Layer 1 — name the law (pass mark: 4 of 5) — and old Layer 2 — use one law at a time (pass mark: 5 of 6). This sub lesson is the identity-law part of both layers, split by law..
+
+## Sub lesson 2 — Arithmetic Laws The Commutative Law
+Sub lesson 2 questions from the type files. The old layers ran across the four laws together: old Layer 1 — name the law (pass mark: 4 of 5) — and old Layer 2 — use one law at a time (pass mark: 5 of 6). This sub lesson is the commutative-law part of both layers, split by law..
+
+## Sub lesson 3 — Arithmetic Laws The Associative Law
+Sub lesson 3 questions from the type files. The old layers ran across the four laws together: old Layer 1 — name the law (pass mark: 4 of 5) — and old Layer 2 — use one law at a time (pass mark: 5 of 6). This sub lesson is the associative-law part of both layers, split by law..
+
+## Sub lesson 4 — Arithmetic Laws The Distributive Law
+Sub lesson 4 questions from the type files. The old layers ran across the four laws together: old Layer 1 — name the law (pass mark: 4 of 5) — and old Layer 2 — use one law at a time (pass mark: 5 of 6). This sub lesson is the distributive-law part of both layers, split by law..
+
+## Sub lesson 5 — Arithmetic Laws Calculating Cleverly
+Sub lesson 5 questions from the type files. Pass mark: 4 of 5. Choose the order yourself: hunt the pair that makes a round number, split a factor like 99 into 100 − 1, and finish multi-step calculations with the fewest moves.
 
 ## What "maxed" means here
 

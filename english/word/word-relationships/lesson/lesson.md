@@ -22,7 +22,7 @@ OPPOSITE — small. Words have partners and enemies, twins
 and trick twins. This lesson names the four ways words can
 stand toward each other, so you can use each one on purpose.
 
-## Then the explanation
+## Sub lesson 1 — Same and Opposite
 **Synonyms — the same meaning.** A synonym means the same
 or nearly the same as another word. Tanzania's Standard One
 reader teaches them inside its stories, and its filing
@@ -49,6 +49,7 @@ being asked.
 > and a moon key — the student says which door buy/purchase
 > goes through, and which door hot/cold goes through.
 
+## Sub lesson 2 — Same Sound
 **Homophones — the same sound.** Homophones SOUND the same
 but are different words, spelled differently, meaning
 differently. Tanzania's Unit One works with
@@ -59,6 +60,7 @@ Your ear cannot separate them — only the meaning can. Two
 is a number. To walks toward something. Too means also, or
 more than enough.
 
+## Sub lesson 3 — One Word, Many Meanings
 **Homonyms — one word, many meanings.** A homonym is ONE
 word carrying more than one meaning. South Africa's Grade 5
 Workbook 2 teaches homophones and homonyms together,

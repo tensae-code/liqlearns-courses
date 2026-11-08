@@ -14,7 +14,7 @@ in your own language. Every one of them has an English name,
 and the books teach them the same way everywhere: a small set
 first, with one true thing said about each.
 
-## Then the explanation
+## Sub lesson 1 — Farm and Home Animals
 Egypt's farm teaches the first four, and it teaches them with
 the first describing pair in the whole course — **big** and
 **small**:
@@ -30,12 +30,14 @@ rabbit, cat, kitten** (a baby cat), and **dog**; Egypt's farm
 circle-the-animal work sets **bird, cat, dog** just outside the
 farm gate, which is where they live: at home.
 
+## Sub lesson 2 — The Wild Set
 Then the wild set. Palestine adds **lion** and **zebra**;
 Libya's letter list carries **elephant, monkey, zebra, duck,
 insect**; and Bangladesh's food lesson needs **tiger, deer,
 parrot, crow** — because its animals arrive with two facts
 each:
 
+## Sub lesson 3 — Animals in Sentences
 **Where it lives** — "The monkey lives in a tree." "The crow
 lives in a **nest**." "The parrot lives in a tree."
 

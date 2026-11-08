@@ -6,8 +6,7 @@ Look at these three numbers: 156, 263, 410. Which of them are even, and which ar
 
 Try it with this hint: you do not need the whole number. One digit is enough.
 
-## The last-digit test
-
+## Sub lesson 1 — Even and Odd Numbers The Last-Digit Test
 Every whole number is one of two kinds: **even** or **odd**. And you can tell which kind by looking at **only the last digit**:
 
 - A number is **even** when its last digit is **0, 2, 4, 6 or 8**.
@@ -15,14 +14,12 @@ Every whole number is one of two kinds: **even** or **odd**. And you can tell wh
 
 India's Class 3 book teaches it on the 100 chart: run your eye down the chart and the even numbers are exactly the ones ending in 0, 2, 4, 6, 8. The hundreds and tens in front do not matter at all — 410 is even because it ends in 0, and 1,263 is odd because it ends in 3. (India, Math-Magic Class 3, Ch. 10, printed p. 151.)
 
-## Hunting in a range
-
+## Sub lesson 2 — Even and Odd Numbers Hunting in a Range
 Once the test is yours, you can hunt. The book asks for the **odd numbers between 400 and 410**: work through the last digits — 401, 403, 405, 407, 409. And the **even numbers between 155 and 165**: 156, 158, 160, 162, 164.
 
 Evens and odds also come in runs, stepping by 2. The book leaves a gap to fill: 96, 98, __, 102 — the missing even number is **100**. (India, Math-Magic Class 3, Ch. 10, printed pp. 151–152.)
 
-## What happens when you add
-
+## Sub lesson 3 — Even and Odd Numbers Adding Rules
 Adding 1 always flips the kind:
 
 - **odd + 1 = even** (7 + 1 = 8)

@@ -20,7 +20,7 @@ Water? The sky? You already have these words in your own
 language. Now we learn the English names — the words for
 the world that was there before us.
 
-## Then the explanation
+## Sub lesson 1 — The Nature Places
 **The places.** Albania's nature chapter teaches the set
 as one list, and it is the list every book here works with:
 
@@ -38,6 +38,7 @@ world by pointing: "Look! It's a snake. I love the
 > rising behind it — the student names the four things the
 > picture shows: mountain, lake, sun, sunrise.
 
+## Sub lesson 2 — Habitats
 **Habitats — where animals live.** A habitat is an animal's
 home place. Albania's sentence is the pattern: "**Bears can
 live in the forest and in the mountains.**" Mongolia's
@@ -49,6 +50,7 @@ pattern once: animal + can live in + place. A fish can live
 in a river. A camel can live in the desert. A bird can live
 in a tree.
 
+## Sub lesson 3 — Problems and Solutions
 **Problems and solutions.** Mongolia's Grade 8 unit "Saving
 the Earth" builds the environment words as phrases and
 sorts them into two boxes, and the sorting IS the lesson:

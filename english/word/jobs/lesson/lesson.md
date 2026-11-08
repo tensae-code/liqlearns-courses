@@ -23,7 +23,7 @@ never just a hat a person wears: it is the name of their
 doing. That is why every book in this lesson teaches each
 job with its action, in one breath.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Jobs
 Cambodia's Grade 4 book opens the set with the question
 itself: **"What do you do?" — "I'm a pupil"** — and then
 the grown-ups' jobs around the child: **seller, teacher,
@@ -35,6 +35,7 @@ seller?" "What do your parents do?"**
 a farmer and a seller at work. Point and name each job
 before you read on.]*
 
+## Sub lesson 2 — Asking About Other People
 The full set, as the countries build it: **teacher,
 doctor, nurse, farmer, seller, policeman** (Rwanda says
 **police officer**), **driver** (Rwanda: **taxi driver**),
@@ -43,6 +44,7 @@ actress**. Vietnam's first jobs book adds the question
 shape for he and she: **"What's his/her job? — He's/
 She's a…"**
 
+## Sub lesson 3 — Doings and Workplaces
 Now the set's own pattern — **the doing sentence**. A job
 word is a doing word wearing -er: teach → **teacher**,
 farm → **farmer**, drive → **driver**, sell → **seller**,

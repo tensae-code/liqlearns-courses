@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Food and fruit
 
 **Course:** English · **Title:** Word · **Lesson:** Food and fruit
-**Place in the curriculum:** Level 7, "Words for the World" — the third lesson of the level (CURRICULUM.md), after
+**Place in the curriculum:** Unit 7 — Words for the World — the third lesson of the unit (CURRICULUM.md), after
 The home and The town.
 **The one thing this lesson teaches:** the words for food —
 the three meals, the foods on the plate, and the fruits — with
@@ -21,6 +22,24 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Meals and First Foods** — the three meals and the breakfast-
+   plate foods. (Was depth Level 1.)
+2. **Fruits and Likes** — the fruit set with "What's this?" and
+   the "Do you like…?" exchange. (Was depth Level 2.)
+3. **Food in Whole Answers** — food in whole answers about your
+   real day, the wider set, and the Food Pyramid's floors. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: The home (the kitchen and dining room are

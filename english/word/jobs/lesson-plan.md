@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Jobs
 
 **Course:** English · **Title:** Word · **Lesson:** Jobs
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the job words —
 teacher, doctor, farmer, baker and their partners — each
 job with what the person does, in the books' own shape:
@@ -23,6 +24,25 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Jobs** — the job set named, with "What do you do?
+   — I'm a pupil"; the third-person question shapes met in its
+   text are Sub lesson 2's depth. (Was depth Level 1.)
+2. **Asking About Other People** — "What does she do?" for he and
+   she, and "What do your parents do?" (Was depth Level 2.)
+3. **Doings and Workplaces** — each job's doing sentence and its
+   workplace, and the future frame "What would you like to be?"
+   (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Nouns and Verbs (Level 6, Word

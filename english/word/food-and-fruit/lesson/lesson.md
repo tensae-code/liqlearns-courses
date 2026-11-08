@@ -15,7 +15,7 @@ your own language. English sorts a day's food the same way —
 into three meals — and every food you named has an English
 name waiting in this lesson.
 
-## Then the explanation
+## Sub lesson 1 — Meals and First Foods
 The three meals, from Egypt's book: **breakfast** (the
 morning meal), **lunch** (the middle meal), **dinner** (the
 evening meal) — with the two doing words that go with them,
@@ -29,6 +29,7 @@ adds **honey, fish, chicken, rice** — Bangladesh's food boxes
 hold fruits, vegetables, and egg / honey / fish / chicken /
 milk side by side.
 
+## Sub lesson 2 — Fruits and Likes
 Now the fruits. Palestine's book teaches the ones that grow
 in its own country: **orange, lemon, grape, apple, banana,
 fig, olive** — each with its question and answer: "What's
@@ -45,6 +46,7 @@ about YOU. Bangladesh's exchange, over the picture boxes:
 I don't. I like mango." Short, whole, and yours: like + the
 food word is all it takes.
 
+## Sub lesson 3 — Food in Whole Answers
 One step deeper, from Bangladesh's Class 5: the **Food
 Pyramid** sorts food into floors — grains at the wide base,
 then **fruits and vegetables** (which "have vitamins and help

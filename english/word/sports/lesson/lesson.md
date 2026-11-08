@@ -21,7 +21,7 @@ swim. Your body already knows these words. Now their
 English names, and the three little partners that carry
 them.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Sports
 Mexico's book gives the working set inside its health
 project: **running, cycling, swimming, skateboarding,
 volleyball, football, walking, yoga, dancing**.
@@ -35,6 +35,7 @@ badminton**, with "likes playing" riding on them.
 basketball and volleyball. Point and name each sport
 before you read on.]*
 
+## Sub lesson 2 — Sports in Action
 Every sport is a bundle of actions, and Mongolia names
 them on pictured sports: **throw, carry, kick, pass,
 dribble, tackle, pitch, bat, jump, swim, paddle, bounce,
@@ -42,6 +43,7 @@ block, catch**. A sportsperson is named from them too: a
 **lifter** lifts weights in the gym; a **snowboarder**; a
 **skier**.
 
+## Sub lesson 3 — Play, Do and Go
 Now the set's own pattern — the one this lesson exists
 for. Mongolia's discovery box sorts every sport under
 three partners:

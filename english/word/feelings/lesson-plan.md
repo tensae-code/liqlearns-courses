@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Feelings
 
 **Course:** English · **Title:** Word · **Lesson:** Feelings
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the feeling words —
 happy, sad, tired, hungry, afraid, excited and their
 partners — each one carried by the books' frame: "I am /
@@ -21,6 +22,25 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Feelings** — the feeling words named from faces
+   and from Bolivia's list of seventeen. (Was depth Level 1.)
+2. **Saying How You Feel** — "How are you feeling?" answered
+   whole, feelings matched to faces, and the make-me chain. (Was
+   depth Level 2.)
+3. **Causes, Pairs and the Past** — a feeling's cause with
+   because, Albania's -ed/-ing pair, and past feelings in Mexico's
+   frame. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: The body (this level) and Nouns /

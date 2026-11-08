@@ -20,7 +20,7 @@ English, gives the money words that answer it, and names
 the money itself — the coins and notes of different
 countries.
 
-## Then the explanation
+## Sub lesson 1 — Asking the Price
 **The price questions.** Cambodia's buying chapter builds
 prices step by step — hundreds first, then thousands — and
 drills two question shapes over its market stalls:
@@ -40,6 +40,7 @@ yours will fit the same sentences.
 > books, each with a price card — the student asks the price
 > question for each thing and answers from its card.
 
+## Sub lesson 2 — Currencies and Near Prices
 **The currencies.** Sudan's money unit opens with the names
 of the world's money: the **pound**, the **yen**, the
 **euro** — "used in 19 countries since 1999," its book says
@@ -51,6 +52,7 @@ and in British money in London — "**How much do** cabbages
 **cost**? They cost **40p each**." "It costs **£3.99 a
 kilo**."
 
+## Sub lesson 3 — The Money Set
 **The money set.** Uzbekistan's Grade 9 unit "Money
 Matters" teaches the grown-up set inside a history of
 money, and the set is the one banks and jobs run on:

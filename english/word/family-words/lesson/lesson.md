@@ -21,7 +21,7 @@ where they stand: the one who is your mother's mother, the
 one who is your father's brother. English keeps the same
 map. Here it is, drawn as the books draw it: a tree.
 
-## Then the explanation
+## Sub lesson 1 — Your Own Row and Your Parents
 Palestine's first-year book opens the set: **Mum, Dad,
 sister, brother, baby, me** — with its question **"Who's
 this?"** and its answers: "This is my brother / my mum /
@@ -31,6 +31,7 @@ the baby" (pp.42–44).
 grandfather, grandmother, father, mother, brother,
 sister. Point and name each person before you read on.]*
 
+## Sub lesson 2 — The Whole Tree
 North Macedonia's book teaches six words on one labelled
 family photograph: **father, grandfather, mother, sister,
 grandmother, brother** — and its model sentence names the
@@ -56,6 +57,7 @@ sister.
 by branch, grandparents at the top, children at the
 bottom. Name each word as its branch grows.]*
 
+## Sub lesson 3 — The Wide Tree
 The wide tree, at the top of the set. Your brother's or
 sister's son is your **nephew**; their daughter is your
 **niece**. The family you marry into brings **mother-in-

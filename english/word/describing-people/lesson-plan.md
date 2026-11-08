@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Describing people
 
 **Course:** English · **Title:** Word · **Lesson:** Describing people
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the words for what people look like and what they are like
 (CURRICULUM.md).
 **The one thing this lesson teaches:** describing a person
@@ -24,6 +25,24 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Appearance Words** — what a person looks like, described in
+   whole sentences. (Was depth Level 1.)
+2. **Personality Words** — what a person is like, sorted into good
+   and bad the way Bolivia's book does. (Was depth Level 2.)
+3. **The Two Questions** — "What does she look like?" and "What is
+   he like?" kept apart, each answered with its own set. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Adjectives (Level 6) and The body

@@ -23,7 +23,7 @@ of words exactly like this. This lesson teaches you to see
 the join, split any compound back into its words, and
 build your own.
 
-## Then the explanation
+## Sub lesson 1 — Splitting Compound Words
 **The rule, and the alone-test.** A **compound word** is
 two (or more) WHOLE words joined into one word with one
 new meaning. The test that separates a compound part from
@@ -42,6 +42,7 @@ tells what kind, or what it works with.
 > bulbs — the student splits the word aloud and says what
 > the thing does.
 
+## Sub lesson 2 — The Books' Sets and Formation
 **The books' sets.** Barbados's Class 1 syllabus prints its
 compounds hyphenated, the older way: **sea-side, to-day,
 cup-board** — the same words your books print today as
@@ -63,6 +64,7 @@ swimming). And the plural rule that follows the shape: the
 blackboards, swimming pools — because the plural belongs
 to the thing the compound names.
 
+## Sub lesson 3 — Reading by Parts
 **Reading by parts.** This is the skill the lesson is for.
 Meet a new compound and read it backwards: waterfall —
 fall is what water does; a waterfall is water that falls.

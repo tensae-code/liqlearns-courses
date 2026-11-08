@@ -1,6 +1,11 @@
 # Money and prices — matching
 
-**Set 1 (Level 2)** — currency and its home, from the
+Sub-lesson markers (2026-11-08 restructure): every set's marker names the
+sub lesson it belongs to. The files' old depth groups map onto the sub
+lessons as: (Level 2) -> Sub lesson 2 — Currencies and Near Prices · (Level
+3) -> Sub lesson 3 — The Money Set.
+
+**Set 1 (Sub lesson 2)** — currency and its home, from the
 books.
 1. riel — **Cambodia** (Grade 5 prices)
 2. soum — **Uzbekistan** (Fly High 6 market prices)
@@ -8,7 +13,7 @@ books.
 4. yen — **named in Sudan's currency lesson**
 5. pound — **British money; also Sudan's list**
 
-**Set 2 (Level 3)** — Uzbekistan's money set, word and
+**Set 2 (Sub lesson 3)** — Uzbekistan's money set, word and
 meaning (English Matters 9, Unit 4).
 1. lend — **money goes out of my hand to you**
 2. borrow — **money comes into my hand from you**

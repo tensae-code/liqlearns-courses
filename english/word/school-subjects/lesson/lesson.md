@@ -22,7 +22,7 @@ studied? Name the subjects in your own language. A
 timetable is a map of a week, and its place-names are
 the subject words. Here they are in English.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Subjects
 Mexico's identity project teaches **ten** as one set:
 **Spanish, History, Mathematics, Biology, Geography,
 Physical Education, Arts, Technology, Civics and
@@ -50,6 +50,7 @@ Geography and Foreign Language sit lower.
 subjects in coloured boxes. Point and name five subjects
 before you read on.]*
 
+## Sub lesson 2 — Likings with Reasons
 The set's own pattern is the **liking frame**, and
 Rwanda states it whole: **"I like… because it is…" /
 "I don't (doesn't) like… because it is…"** — with the
@@ -64,6 +65,7 @@ can say whether you like it, and why.
 Science book. Say "I like Science because it is
 interesting" as the face lights.]*
 
+## Sub lesson 3 — The Timetable
 And the subjects live on the **timetable** — Rwanda
 works it with quantity words (a lot, most, a few, some,
 many) and the counting frame: **"How many… are there?

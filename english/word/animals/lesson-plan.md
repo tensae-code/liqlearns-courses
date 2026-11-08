@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Animals
 
 **Course:** English · **Title:** Word · **Lesson:** Animals
-**Place in the curriculum:** Level 7, "Words for the World" — the fourth lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World — the fourth lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the words for animals —
 the farm and home animals first, then the wider set — each
 with the little the books say about it: big or small, where it
@@ -22,6 +23,26 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds, and animals move.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Farm and Home Animals** — the farm four with Egypt's size
+   sentences, and the home set around them. (Was depth Level 1.)
+2. **The Wild Set** — the wider set: lion, zebra, elephant,
+   monkey, tiger, deer, parrot, crow, insect, kitten. (Was depth
+   Level 2.)
+3. **Animals in Sentences** — where an animal lives and what it
+   eats, in whole sentences from Bangladesh's table; its closing
+   paragraph sums up all three facts — size, home, food. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Food and fruit (Bangladesh's animal

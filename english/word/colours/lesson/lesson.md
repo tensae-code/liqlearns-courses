@@ -19,7 +19,7 @@ names, because colour is one of the first things you will
 ever describe in English: "What colour?" is a question the
 books ask from the very first year.
 
-## Then the explanation
+## Sub lesson 1 — The First Six Colours
 Palestine's first-year book teaches **six colours**, with an
 umbrella as the word that carries them: **red, green, white,
 blue, black, yellow**.
@@ -35,6 +35,7 @@ yellow taxi, white van, red bus, black bike, green car"
 (p.21). Say them that way — colour first, then the thing:
 **a red bus, a blue car, a yellow taxi**.
 
+## Sub lesson 2 — The Rainbow Seven and Colours on Things
 Bolivia's Year 1 book meets the same words on clothes —
 clothes and colours taught together, because a colour is
 easiest to see on something you wear. Palestine's next unit
@@ -50,6 +51,7 @@ complete.
 red, orange, yellow, green, blue, indigo, violet. Say each
 colour as it appears.]*
 
+## Sub lesson 3 — Mixing Colours
 And this set's own pattern — **mixing**. Mongolia prints a
 colour mixing chart: **red + yellow = orange**,
 **yellow + blue = green**, **blue + red = violet**. Under

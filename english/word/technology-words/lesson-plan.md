@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Technology words
 
 **Course:** English · **Title:** Word · **Lesson:** Technology words
-**Place in the curriculum:** Level 7, "Words for the World" —
+**Place in the curriculum:** Unit 7 — Words for the World —
 the words for computers, phones and the internet
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the technology words —
@@ -24,6 +25,24 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Computer Parts** — Bolivia's six parts and what each one
+   does. (Was depth Level 1.)
+2. **The Technology Actions** — the doing words used in sentences,
+   upload told from download every time. (Was depth Level 2.)
+3. **Gadgets and the Newest Words** — Sudan's gadgets named, and
+   Vietnam's new set used in a sentence of your own. (Was depth
+   Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Verbs (Level 6). Recommended, never

@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The body
 
 **Course:** English · **Title:** Word · **Lesson:** The body
-**Place in the curriculum:** Level 7, "Words for the World" — the fifth and last lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World — the fifth and last lesson of the unit (CURRICULUM.md).
 Building it completes Level 7.
 **The one thing this lesson teaches:** the words for the parts
 of the body — learned the way the books teach them: by
@@ -21,6 +22,26 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds, and the body moves.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Touched Seven** — Palestine's seven — head, hand, finger,
+   leg, face, nose, mouth — touched and named. (Was depth Level
+   1.)
+2. **Parts at Work** — the five sense sentences, "I can see with
+   my eyes"; the pairs-and-singles counting in its last paragraph
+   is carried as Sub lesson 3 depth. (Was depth Level 2.)
+3. **The Whole Body Set** — the added parts (hair, neck, elbow),
+   the pairs and singles counted right, and swapped sense
+   sentences corrected on sight. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Animals (the books teach animal parts

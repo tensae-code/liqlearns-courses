@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — School subjects
 
 **Course:** English · **Title:** Word · **Lesson:** School subjects
-**Place in the curriculum:** Level 7, "Words for the World" (CURRICULUM.md).
+**Place in the curriculum:** Unit 7 — Words for the World (CURRICULUM.md).
 **The one thing this lesson teaches:** the school-subject
 words — Mathematics, Science, History, Geography, Art,
 Music, English and their partners — each with the books'
@@ -22,6 +23,24 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Subjects** — the subject set named on a timetable
+   without a miss. (Was depth Level 1.)
+2. **Likings with Reasons** — Rwanda's frame both ways — "I like…
+   because it is…" — with its reason adjectives. (Was depth Level
+   3.)
+3. **The Timetable** — a week's timetable read aloud, and "How
+   many… are there? There are…". (Was depth Level 2.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking
+is written in questions/, so the sub lesson's whole question set
+is the gate pool.
 
 ## Before this lesson
 - Recommended first: Days and months (this level) and

@@ -21,7 +21,7 @@ your own feet? Name them in your own language. Transport
 words are journey words, and you have been collecting
 journeys all your life. Now their English names.
 
-## Then the explanation
+## Sub lesson 1 — The Street Five
 Palestine's first-year book teaches **five**: **car, bus,
 bike, van, taxi** — with counting riding on them: **"How
 many taxis? Five taxis."** "How many taxis and bikes?"
@@ -31,6 +31,7 @@ The set grows by adding like a sum.
 a van and a taxi. Point and name each one before you read
 on.]*
 
+## Sub lesson 2 — The Full Set, Sorted
 The full street: **train, lorry, motorcycle, ambulance**
 join the five; Bolivia's chart and Rwanda's lists add
 **plane, helicopter, boat** and the oldest transport of
@@ -50,6 +51,7 @@ same map with four roads out: air, road, sea, railway —
 and its unusual-transport reading crosses the world on a
 toboggan, a bamboo train and an ice boat.
 
+## Sub lesson 3 — Travelling
 The set's own pattern is **travel by**: **"travel by
 bus," "travel by train," "travel by plane"** (Rwanda,
 p.110) — one shape for every vehicle, and one exception

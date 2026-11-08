@@ -18,7 +18,7 @@ everything you have on, in your own language — top to
 shoes. Now the English names, because clothes are the
 words you will use every single morning of your life.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Clothes
 The set, the way the books build it. On top: **shirt,
 T-shirt, sweater**. Below: **trousers, jeans, shorts,
 skirt**. Whole-body: **dress**. On the feet: **shoes,
@@ -33,6 +33,7 @@ clothes people really wear.
 shoes, with a scarf and a hat beside them. Point and name
 five clothes before you read on.]*
 
+## Sub lesson 2 — Wearing Sentences and Colours
 The set's own pattern is **wearing**. Cambodia's Grade 7
 unit — "What in the world are you wearing?" — is built on
 one contrast: what you **usually wear** against what you
@@ -48,6 +49,7 @@ Mongolia's clothes unit adds the describing words that
 ride with them: pretty, patterned, multicoloured, neat,
 loose, casual, smart, striped, tight, plain.
 
+## Sub lesson 3 — Materials
 At the top of the set, **materials** — what the clothes
 are made of. Mongolia lists them in two books: **cotton,
 linen, silk, nylon, satin, leather, lace, velvet**, and
