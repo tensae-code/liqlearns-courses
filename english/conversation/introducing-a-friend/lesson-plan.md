@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Introducing a friend
 
 **Course:** English · **Title:** Conversation · **Lesson:** Introducing
 a friend
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** bringing a new person into the
 talk — "Who's this?" → "This is my friend, ___." → the two new people
@@ -17,6 +19,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Asking who's this** — the question about the new person: "Who's this?" (Was part of depth Level 1.)
+2. **This is my friend** — the bridge sentence that brings the new person in: "This is my friend, ___." (Was part of depth Level 1.)
+3. **The new people say hello** — after the bridge, the two new people greet each other directly; the shape is told back here, with the lesson's aside on age and the fish, so this sub lesson overlaps Sub lessons 1–2. (Was part of depth Level 1.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Hello and your name: the greeting itself comes first — you cannot

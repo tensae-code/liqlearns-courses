@@ -13,13 +13,17 @@ companion and ask about their friend: "Who's this?"
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — Asking who's this
 So two people know each other, and a third person is new. Someone
 has to build the bridge. In Libya's book, Nadia does it. Her friend
 Sarah is new to Zeinah, so the talk goes like this:
 
 - Zeinah asks about the new person: **"Who's this?"**
+
+## Sub lesson 2 — This is my friend
 - Nadia builds the bridge: **"This is my friend, Sarah."**
+
+## Sub lesson 3 — The new people say hello
 - Now Sarah and Zeinah can greet each other directly:
   "Hello, Sarah." — "Hello, Zeinah."
 
