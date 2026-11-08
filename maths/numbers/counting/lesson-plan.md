@@ -108,6 +108,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
    ones fill in between the tens. (Was the second half of depth
    Level 3.)
 
+Gate pool: all questions of the sub lesson (no hardness ranking
+is written in this lesson's question files).
+
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — counting needs marks and fingers to count on. Recommended, never forced.
 - Counting is the base of the whole course: every later lesson counts on it. Nothing here is adding or taking away — that is Unit 2's home.
