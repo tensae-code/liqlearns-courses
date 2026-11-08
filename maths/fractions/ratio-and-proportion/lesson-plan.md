@@ -39,8 +39,8 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11) and the
   Percentages lesson (Level 15). Recommended, never forced.
-- This is the last lesson of Unit 4. Unit 5 (Geometry) comes
-  next.
+- This is the last lesson of Unit 4. Unit 5 (Negative Numbers,
+  Powers and Roots) comes next.
 
 ## What the learner can do when it ends
 1. Write a ratio, read it, and say why the order matters.
