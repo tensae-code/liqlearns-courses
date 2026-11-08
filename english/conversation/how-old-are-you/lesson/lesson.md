@@ -16,7 +16,7 @@ whole sentence: "I'm ___."
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — The short answer, I'm plus the number
 So every person has a number that grows once a year: their age.
 English asks for it with one fixed question:
 
@@ -36,6 +36,7 @@ sentence stays the same.
 Notice the shape of the answer in Libya's first books: the short
 whole sentence, "I'm 8." The number carries the age.
 
+## Sub lesson 2 — The full answer, I am 8 years old
 Then the same lesson grows one layer deeper. Egypt's Primary 3
 book says the answer in its FULL form: "**I am 8 years old!**"
 Same question, same number in the middle — the full form just

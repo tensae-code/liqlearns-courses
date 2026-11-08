@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — How old are you?
 
 **Course:** English · **Title:** Conversation · **Lesson:** How old are you?
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 — a Conversation lesson, taught inside the talk in the books
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking someone's age and
@@ -17,6 +19,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The short answer, I'm plus the number** — the fixed question "How old are you?" and the short whole-sentence answer — "I'm 6", "I'm 7", "I'm 8" — where only the number grows each year. (Was depth Level 1, with depth Level 2's deeper pass on the same content.)
+2. **The full answer, I am 8 years old** — Egypt's full form of the same answer: "I am 8 years old!" — the layer the lesson text itself names as its next layer. (No old depth layer of its own.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Hello and your name: the answer shape "I'm ___" is learned there
