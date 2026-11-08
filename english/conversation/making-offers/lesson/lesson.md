@@ -27,7 +27,7 @@ You just did the whole lesson. Now let's see how it works.
 offering one to a guest — point at the glass you would offer
 first, and say the offer out loud before you read on]
 
-## Then the explanation
+## Sub lesson 1 — Offering a thing with Would you like
 An **offer** is a gift in words. You give a thing, or your help,
 before the other person has to ask. English keeps three offer
 shapes, and the books teach them in this order.
@@ -42,6 +42,7 @@ Grade 10 dinner unit practises the same shape over food:
 **Would you like + the thing?** The short answers ride on
 *would*: Yes, I would. No, I wouldn't.
 
+## Sub lesson 2 — Offering help with Shall I
 **The offer of help — "Shall I…?"** When what you give is your
 hands, not a thing, English asks "Shall I…?" — "Shall I carry
 that?" "Shall I open the door?" Mongolia's Grade 7 book lists
@@ -50,12 +51,14 @@ intentions. Malaysia's Year 6 book pairs it with its longer
 twin: "Shall I…?" and "Would you like me to…?" — the two help
 offers taught together on its apologising-and-offers page.
 
+## Sub lesson 3 — The shop offer, Can I help you
 **The shop offer — "Can I help you?"** In a shop, the worker
 offers first. Cambodia's Grade 10 "Requests and offers" unit
 teaches you to tell the two apart — a request asks for
 something TO come to you; an offer sends something FROM you —
 and its model offer is the shop one: "Can I help you?"
 
+## Sub lesson 4 — Answering an offer, with thanks
 **The answers always carry thanks.** Accepting: "Yes, please."
 "Yes, I would." "Thank you." Refusing — and refusing is
 allowed: "No, thank you." "No, I wouldn't." Cambodia's unit

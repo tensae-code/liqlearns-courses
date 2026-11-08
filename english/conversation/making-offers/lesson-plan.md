@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Making offers
 
 **Course:** English · **Title:** Conversation · **Lesson:** Making offers
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** making an offer — giving
 someone a thing or your help before they have to ask — with
 "Would you like…?", "Shall I…?" and "Can I help you?", and the
@@ -10,6 +12,19 @@ polite answers that go with them.
 help with "Would you like…?" and "Shall I…?"; offer help in a
 shop or at a door with "Can I help you?"; and answer an offer
 politely — "Yes, please," "Yes, I would," or "No, thank you."
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Offering a thing with Would you like** — what an offer is, and the offer of a thing: "Would you like…?" with its would-answers. The opening paragraph previews all three offer shapes, so it overlaps Sub lessons 2–3. (Was depth Level 1.)
+2. **Offering help with Shall I** — the offer of help: "Shall I…?" and its longer twin "Would you like me to…?" (Was part of depth Level 2.)
+3. **The shop offer, Can I help you** — the shop worker's offer, "Can I help you?", and Cambodia's telling of offers from requests — the thing moves from you in an offer, to you in a request. (Was part of depth Level 2, with depth Level 3's telling-apart taught here.)
+4. **Answering an offer, with thanks** — accepting and refusing politely — "Yes, please", "Thank you", "No, thank you" — the thanks is never dropped. (Was the answering half of depth Levels 1–3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know How are you?, this will feel easier — offers often
