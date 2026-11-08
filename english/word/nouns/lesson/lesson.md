@@ -15,7 +15,7 @@ week. Every word you just used to name something is the kind of
 word this lesson is about. You were already using them. Now we
 give them their name.
 
-## Then the explanation
+## Sub lesson 1 — Nouns that name people
 A **noun** is a word that names a person, a place, or a thing.
 
 That is the whole thing, in one line — it is how Egypt's book
@@ -31,15 +31,18 @@ you can sort any noun you meet:
 Karim is the boy in Egypt's city story; Ahmed is a name in Libya's
 books. A word that names a person is a noun.
 
+## Sub lesson 2 — Nouns that name places
 **2. Names of places** — school, home, park, city. Egypt's city
 unit gives library, post office, supermarket, street. A word that
 names a place you can go to is a noun.
 
+## Sub lesson 3 — Nouns that name things
 **3. Names of things** — car, bicycle, plane (Egypt's own three
 examples), book, pencil, chair, door. A word that names a thing
 is a noun. Animals sit in this sort: cat, dog, camel are living
 things, and their names are nouns too.
 
+## Sub lesson 4 — Special names and capital letters
 Now one step deeper. Some names belong to **one only**. There are
 many boys, but only one Karim in the story. There are many
 rivers, but only one Nile. A name like that is a special name,
@@ -49,6 +52,7 @@ box on this: capital letters for the names of persons, places
 and things. When you write a person's or a place's own name,
 start it big.
 
+## Sub lesson 5 — The noun test, noun or verb
 And here is the test that keeps nouns apart from their neighbours.
 Ghana's curriculum runs it inside real sentences: "Ofori
 **danced**." Ask: **Who** danced? — Ofori. That answer is the

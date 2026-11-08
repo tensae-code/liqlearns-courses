@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Nouns
 
 **Course:** English · **Title:** Word · **Lesson:** Nouns
-**Place in the curriculum:** Level 6, "Word Kinds" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 6 — Word Kinds —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** a noun is a word that names
 a person, a place, or a thing.
 **This lesson's own level:** it stands on the Level 1 lessons —
@@ -19,6 +21,20 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving or popping — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Nouns that name people** — what a noun is — a word that names a person, a place, or a thing — and the first sort: names of people. The definition previews all three sorts, so it overlaps Sub lessons 2–3. (Was depth Levels 1–2, for this sort.)
+2. **Nouns that name places** — the second sort: names of places you can go to — school, library, park, city. (Was depth Levels 1–2, for this sort.)
+3. **Nouns that name things** — the third sort: names of things — and animals sit in this sort, as living things. (Was depth Levels 1–2, for this sort.)
+4. **Special names and capital letters** — names that belong to one only — Karim, Egypt, Tripoli, the Nile — wear a capital letter at their start. (Was depth Level 3.)
+5. **The noun test, noun or verb** — Ghana's test inside real sentences: "Who danced?" finds the noun; "What did Ofori do?" finds the doing word, which is not a noun. (Was depth Level 4.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the Level 1 lessons — the learner reads whole
