@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia
 
 Every part traces to its book and page.
 
@@ -62,6 +62,8 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 
 **Book 38:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 39:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 40:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 41:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -168,8 +170,13 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Barbados's Class 4 syllabus requires: line, point, ray and line segment — in the body: line segment, line, ray, angle, vertex defined (Scope 7.0.3) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 5 (PDF p. 13) |
 | Barbados's Class 4 syllabus requires: types of lines (horizontal, parallel, etc.) (Scope 7.0.4) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed p. 5 (PDF p. 13) |
 | geometry revision: rays (ray AB vs ray BA), line segments | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 263 |
+| Point; straight and curved lines | Armenia, Mathematics 1, Part 1, printed p. 34 |
+| The broken line (բեկյալ, polyline) | Armenia, Mathematics 1, Part 1, printed p. 62 |
+| Point, line, plane | Armenia, Geometry 7, §1.2, printed p. 8 |
+| Definition of parallel lines | Armenia, Geometry 7, §11.29, printed p. 82 |
+| The inclined line (թեք) to a plane/line | Armenia, Geometry 7, §16.40, printed p. 130 |
 
-**Acceptance count: taught in 13 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 14 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -191,3 +198,5 @@ Palestine enters through the pupil's books of its Ministry of Education (Curricu
 Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 1 syllabus requires identifying a line, a line segment, a point and a ray, and distinguishing horizontal and vertical lines; Class 2 adds drawing lines that are horizontal, vertical, parallel, perpendicular and intersecting; Classes 3 and 4 keep the line, point, ray and line segment and the types of lines in the scope and sequence — Class 4's body defines the line segment, line, ray, angle and vertex together. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
 
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: geometry revision of rays (ray AB against ray BA) and line segments.
+
+Armenia enters through its Mathematics 1, Part 1 (student textbook-notebook, 2025); Geometry 7. From its books: point; straight and curved lines; the broken line (բեկյալ, polyline); point, line, plane; definition of parallel lines; the inclined line (թեք) to a plane/line.

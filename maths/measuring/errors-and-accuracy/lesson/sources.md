@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ Every part traces to its book and page.
 **Book 13:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 14:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Algebra 8* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,8 +53,11 @@ Every part traces to its book and page.
 | Writing approximate values: a ± h notation, reliable digits | Tajikistan, Алгебра (Grade 8), printed p. 282 |
 | Adding and subtracting approximate values: error of a sum/difference bounded by sum of errors; rounding rule | Tajikistan, Алгебра (Grade 8), printed p. 286 |
 | Multiplying and dividing approximate values: rounding governed by relative error | Tajikistan, Алгебра (Grade 8), printed p. 288 |
+| Approximations of real numbers | Armenia, Algebra 8, Ch. 1 §4, printed p. 22 |
+| Rounding real numbers; multiplying and dividing rounded numbers | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.6, printed p. 10 (teacher evidence) |
+| Adding and subtracting rounded numbers | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.7, printed p. 11 (teacher evidence) |
 
-**Acceptance count: taught in 8 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 9 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 
@@ -64,3 +69,5 @@ Mongolia enters through its ministry textbook Математик IX (Grade 9): o
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : using the metre/ruler to measure accurately (to nearest mm/g) (plans 80–81). from Grade 9 (teacher's book): Greatest/least possible values; error intervals and percentage error intervals (worked bounds answers printed…. from Grade 10 (teacher's book): Units and accuracy; bounds of measurements. from Grade 11 (teacher's book): Accuracy of measurements (bounds) opening the trigonometry chapter.
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Approximate value of a quantity; Accuracy of measurement; from Grade 8: Writing approximate values: a ± h notation, reliable digits; Adding and subtracting approximate values: error of a sum/difference bounded by sum of…; Multiplying and dividing approximate values: rounding governed by relative error.
+
+Armenia enters through its Algebra 8 (Mikayelyan); the Algebra 8 methodological guide (teacher evidence; it companions a different, unheld Gogyan student book, not the held Mikayelyan book). From its books: approximations of real numbers; rounding real numbers; multiplying and dividing rounded numbers; adding and subtracting rounded numbers.

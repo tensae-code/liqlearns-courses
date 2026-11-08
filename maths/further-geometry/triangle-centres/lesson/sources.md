@@ -1,6 +1,6 @@
 # Sources — The special lines and centres of a triangle
 
-countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Palestine
+countries: Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Palestine, Armenia
 
 Every part traces to its book and page.
 
@@ -45,6 +45,10 @@ Every part traces to its book and page.
 
 **Book 30:** *Texto de Aprendizaje, 1er Año de Educación Secundaria Comunitaria Productiva (Grade 7) — Área Matemática section only* (student book) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia); the section file carries no cover, title page, imprint, year/edition or ISBN (none is printed anywhere in this set) — the ministry attribution and the book's identity are proved from the section divider (printed p. 52), the running heads and the bibliography's self-citation (printed p. 138); the section keeps the whole book's printed foliation, pp. 52–138 (Spanish). Filed in maths/books/bolivia.md (Grade 7 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 31:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part Two* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, second edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Geometry 9* — Armenia, Saribek Elibeki Hakobyan and Nare Arghuti Ghazaryan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -121,7 +125,11 @@ Every part traces to its book and page.
 | Altura y ortocentro: altitudes meet at the orthocentre; position inside/on the right-angle vertex/outside according to triangle type, with construction procedure | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 127 |
 | Bisectriz e incentro: angle bisectors meet at the incentre, centre of the inscribed circle (equidistant from the three sides), always inside | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 128 |
 | Triangle medians — the median (القطعة المتوسطة) joins a vertex to the midpoint of the opposite side; the medians of a triangle meet at one point | Palestine, Mathematics (Grade 10, Part Two), printed p. 65 |
-**Acceptance count: taught in 20 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Palestine).**
+| Medians, bisectors and altitudes of a triangle | Armenia, Geometry 7, §7.19, printed p. 48 |
+| Property of a triangle's medians | Armenia, Geometry 8, §14.31, printed p. 86 |
+| Notable points of a triangle | Armenia, Geometry 9, §6.4, printed p. 50 |
+| Triangle medians, bisectors, altitudes | Armenia, Geometry 10, §6.15, printed p. 51 |
+**Acceptance count: taught in 21 countries (Kuwait, Laos, Yemen, Cambodia, Egypt, Greece, Iraq, Jordan, Sierra Leone, Kazakhstan, Syria, Sudan, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Palestine, Armenia).**
 Kuwait carries the fullest treatment — a whole Grade 9 Term 2 unit walking the six topics in order: mid-segment, median to the hypotenuse, circumcentre, incentre, orthocentre, centroid — and its Grade 10 Term 2 book carries this lesson's one corrected error: the angle-bisector intersection printed as "Circum Center" on p. 23 is the Incenter, taught corrected everywhere in this lesson. Laos carries the notable lines whole in Grade 7, opened by the paper-triangle balancing experiment, with OA = OB = OC at the circumcentre. Yemen carries a proved triangle-theorem sequence in Grade 8 Part 2 — Thales and the bisectors in Unit 6, then mid-segment, hypotenuse-midpoint, the 30° side, medians and altitudes in Unit 7. Cambodia carries the full concurrence system in one Grade 8 lesson, with the centroid's AG = (2/3)AA′ proved via the midpoint theorem. Egypt carries the medians, their concurrency and the median-to-the-hypotenuse in Grade 8 Term 1. Greece carries the centroid and orthocentre among the notable lines in Euclidean Geometry Volume A. Iraq carries the medians and centroid with the 2:1 ratio in Grade 9. Jordan carries proportional parts, the mid-segment theorem, the bisectors' concurrency, medians and altitudes in Grade 9 Term 2. Sierra Leone carries the mid-point theorem and the angle bisector theorem in SSS 2. Kazakhstan carries the excircles — the part no other cited country teaches — in Geometry 8 §1.7 and Geometry 9 §20. North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Syria's triangle-centre theory is in Grade 8 Geometry — perpendicular bisectors, altitudes, medians and bisectors each proved concurrent — and is recalled in the Grade 9 diagnostic.
@@ -138,3 +146,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Rectas y puntos notables — medianas; Mediatriz y circuncentro; Altura y ortocentro; Bisectriz e incentro.
 
 Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 10 Part Two: triangle medians.
+
+Armenia enters through its Geometry 7; Geometry 8; Geometry 9; Geometry 10. From its books: medians, bisectors and altitudes of a triangle; property of a triangle's medians; notable points of a triangle; triangle medians, bisectors, altitudes.

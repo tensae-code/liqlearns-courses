@@ -310,6 +310,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 172:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 173:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 174:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 175:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -636,6 +637,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | angles formed where two rays meet; the degree as unit; naming an angle with the vertex letter in the middle (∠BAC) | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 265 |
 | types of angles: acute, right (with the small-square marker), obtuse, straight, reflex, full | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 267 |
 | constructing angles by estimation, drawing rays to an estimated size | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 270 |
+| Ray; angle | Armenia, Geometry 7, §3.6, printed p. 17 |
+| Comparing angles | Armenia, Geometry 7, §3.7, printed p. 19 |
+| Measuring angles | Armenia, Geometry 7, §3.8, printed p. 21 |
+| Units of angle measurement; measuring tools | Armenia, Geometry 7, §3.9, printed p. 22 |
+| Adjacent and vertical angles | Armenia, Geometry 7, §4.10, printed p. 25 |
+| Classifying angles; perpendicular lines | Armenia, Geometry 7, §4.12, printed p. 28 |
+| Exterior angle of a triangle | Armenia, Geometry 7, §6.15, printed p. 39 |
+| Criteria of parallelism of lines | Armenia, Geometry 7, §11.30, printed p. 85 |
+| Theorems on angles formed by two parallel lines and a transversal | Armenia, Geometry 7, §12.32, printed p. 97 |
+| Sum of a triangle's angles | Armenia, Geometry 10, §6.16, printed p. 53 |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
@@ -694,3 +705,5 @@ Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Sy
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 7: Angle bisector defined: a line, ray or segment dividing an angle into two equal angles; an angle's symmetry axis is its bisector.
 
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: angles formed where two rays meet, the degree as unit, an angle named with the vertex letter in the middle (∠BAC); the types — acute, right with its small-square marker, obtuse, straight, reflex, full; angles constructed by estimation only, with no protractor anywhere in the book.
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 7; Geometry 10: ray; angle; comparing angles; measuring angles; units of angle measurement; measuring tools; adjacent and vertical angles; classifying angles; perpendicular lines; exterior angle of a triangle; criteria of parallelism of lines; theorems on angles formed by two parallel lines and a transversal; sum of a triangle's angles.

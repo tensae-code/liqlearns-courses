@@ -203,6 +203,9 @@ Every part traces to its book and page.
 **Book 148:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 149:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 150:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 151:** *Mathematics 3, Part 1* (student) — Armenia, Samvel Harutyunyan, Astghik gratun, 2024. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 152:** *Mathematics 2, Part I* (student) — Armenia, Anahit Arnautyan and Gayane Bediryan, Edit Print, 2023, ISBN 978-9939-75-971-5. The held file holds Part I only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 153:** *Mathematics 5* (student) — Armenia, Smbat Gogyan and Narine Ravoyeva, 2023. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -598,6 +601,17 @@ Every part traces to its book and page.
 | 5-digit × 1- and 2-digit multiplication | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 60 |
 | multiplication with a multiplier up to three digits | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 63 |
 | multiplication word problems (crates × bottles per crate) | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 65 |
+| Multiplication by a one-digit number (first treatment) | Armenia, Mathematics 3, Part 1, Ch. II §4, printed p. 64 |
+| Multiplying by 10, 100, 1000 | Armenia, Mathematics 3, Part 1, Ch. II §5, printed p. 70 |
+| Multiplying and dividing round numbers | Armenia, Mathematics 3, Part 1, Ch. II §6, printed p. 75 |
+| Multiplying multi-digit numbers by a one-digit number | Armenia, Mathematics 3, Part 1, Ch. II §9, printed p. 86 |
+| Writing multiplication "in a column" | Armenia, Mathematics 3, Part 1, Ch. II §10, printed p. 91 |
+| Multiplying a multi-digit number by a two- and three-digit number | Armenia, Mathematics 4, Part I §10, printed p. 49 |
+| Multiplying one-digit numbers | Armenia, Mathematics 2, Part I, printed p. 53 |
+| Multiplying numbers | Armenia, Mathematics 2, Part I, printed p. 60 |
+| Multiplying two-digit and one-digit numbers | Armenia, Mathematics 2, Part I, printed p. 67 |
+| Multiplication of natural numbers; commutative and associative laws | Armenia, Mathematics 5, §2.5, printed p. 50 |
+| Column multiplication of multi-digit numbers | Armenia, Mathematics 5, §2.7, printed p. 57 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Saudi Arabia
@@ -644,3 +658,5 @@ Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Sy
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 7: Multiplication of integers built from repeated addition in a pattern table (air-conditioner buttons changing temperature by −2 °C); Sign rules for integer multiplication inferred by continuing the pattern to negative × negative.
 
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: products of whole numbers capped at six digits; up to 4-digit × up to 2-digit by place-value partial products, horizontal and vertical; 5-digit × 1- and 2-digit; multipliers up to three digits; word problems of crates × bottles per crate.
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Mathematics 3, Part 1 (student); Mathematics 4 (student); Mathematics 2, Part I (student); Mathematics 5 (student): multiplication by a one-digit number (first treatment); multiplying by 10, 100, 1000; multiplying and dividing round numbers; multiplying multi-digit numbers by a one-digit number; writing multiplication "in a column"; multiplying a multi-digit number by a two- and three-digit number; multiplying one-digit numbers; multiplying numbers; multiplying two-digit and one-digit numbers; multiplication of natural numbers; commutative and associative laws; column multiplication of multi-digit numbers.

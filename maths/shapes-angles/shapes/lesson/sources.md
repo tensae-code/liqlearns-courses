@@ -389,6 +389,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 230:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 231:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 232:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 233:** *Mathematics 5* (student) — Armenia, Smbat Gogyan and Narine Ravoyeva, 2023. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 234:** *Geometry 9* — Armenia, Saribek Elibeki Hakobyan and Nare Arghuti Ghazaryan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 235:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -902,6 +906,29 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | isosceles triangle: 2 equal sides, 2 equal base angles, 1 line of symmetry | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 276 |
 | equilateral triangle: all sides and angles equal, 3 lines of symmetry | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 277 |
 | obtuse-angled triangle: one angle greater than 90° (book error taught corrected: the book's further claim, p. 279, that all three sides and angles of an obtuse triangle are unequal and that it has no line of symmetry is false as stated — an isosceles obtuse triangle has two equal sides, two equal angles and exactly one line of symmetry) | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 278 |
+| Geometric figures: triangle, square, rectangle, circle, oval | Armenia, Mathematics 1, Part 1, printed p. 12 |
+| Comparing figures by shape (same shape / different shape) | Armenia, Mathematics 1, Part 1, printed p. 14 |
+| Geometric bodies: cube, pyramid, rectangular box | Armenia, Mathematics 1, Part 1, printed p. 16 |
+| Geometric bodies: sphere, cylinder, cone | Armenia, Mathematics 1, Part 1, printed p. 18 |
+| The segment (հատված) | Armenia, Mathematics 1, Part 1, printed p. 52 |
+| The triangle as a figure | Armenia, Mathematics 1, Part 1, printed p. 56 |
+| The polygon (բազմանկյուն) | Armenia, Mathematics 1, Part 1, printed p. 70 |
+| The polygon, continued | Armenia, Mathematics 1, Part 1, printed p. 74 |
+| Picturing the midpoint of a segment | Armenia, Mathematics 5, §3.5, printed p. 86 |
+| Broken line and polygon | Armenia, Mathematics 5, §4.2, printed p. 98 |
+| Undefined and basic concepts of geometry | Armenia, Geometry 7, §1.1, printed p. 7 |
+| Perpendicular to a line | Armenia, Geometry 7, §7.18, printed p. 46 |
+| The isosceles triangle | Armenia, Geometry 7, §8.20, printed p. 52 |
+| Some properties of the right triangle | Armenia, Geometry 7, §13.34, printed p. 112 |
+| Midline of a triangle | Armenia, Geometry 8, §4.9, printed p. 23 |
+| Trapezoid | Armenia, Geometry 8, §4.10, printed p. 24 |
+| Isosceles and right trapezoids | Armenia, Geometry 8, §5.11, printed p. 28 |
+| The concept of a regular polygon | Armenia, Geometry 9, §11.1, printed p. 100 |
+| Isosceles and equilateral triangles | Armenia, Geometry 10, §6.17, printed p. 55 |
+| Polygon | Armenia, Geometry 10, §7.19, printed p. 62 |
+| Parallelogram | Armenia, Geometry 10, §7.20, printed p. 64 |
+| Rectangle, rhombus | Armenia, Geometry 10, §7.21, printed p. 66 |
+| Trapezoid | Armenia, Geometry 10, §7.22, printed p. 68 |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
@@ -956,3 +983,5 @@ Palestine enters through the pupil's books of its Ministry of Education (Curricu
 Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 1 syllabus requires identifying, classifying and drawing two-dimensional shapes (square, rectangle, triangle, circle), identifying and classifying three-dimensional shapes (distinguishing cube from cuboid and cylinder from cone), and identifying open and closed curves; Class 2 adds constructing three-dimensional shapes and identifying the two-dimensional shapes forming their faces; Class 3 adds classifying triangles as equilateral, right-angled, isosceles or scalene; Class 4 adds classifying quadrilaterals as square, rectangle or parallelogram. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
 
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: triangles defined and typed: right-angled, isosceles, equilateral and obtuse-angled — the obtuse-angled type with the book's further symmetry claim (p. 279) taught corrected, since an isosceles obtuse triangle has two equal sides, two equal angles and one line of symmetry.
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Mathematics 1, Part 1 (student textbook-notebook, 2025); Mathematics 5 (student); Geometry 7; Geometry 8; Geometry 9; Geometry 10: geometric figures: triangle, square, rectangle, circle, oval; comparing figures by shape (same shape / different shape); geometric bodies: cube, pyramid, rectangular box; geometric bodies: sphere, cylinder, cone; the segment (հատված); the triangle as a figure; the polygon (բազմանկյուն); the polygon, continued; picturing the midpoint of a segment; broken line and polygon; undefined and basic concepts of geometry; perpendicular to a line; the isosceles triangle; some properties of the right triangle; midline of a triangle; trapezoid; isosceles and right trapezoids; the concept of a regular polygon; isosceles and equilateral triangles; polygon; parallelogram; rectangle, rhombus; trapezoid.

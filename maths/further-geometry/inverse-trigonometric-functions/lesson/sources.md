@@ -20,6 +20,7 @@ Every part traces to its book and page.
 **Book 10:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 11:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 12:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 2* (teacher guide) — Armenia, Limush, 2025. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,6 +48,8 @@ Every part traces to its book and page.
 | Derivatives of sin⁻¹x and tan⁻¹x (and the other inverse trig functions) derived "assuming it exists" via implicit differentiation | India, Mathematics Class 12 Part I, printed p. 168 |
 
 | Derivatives of arcsin, arccos, arctan, arccot | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 181–183 |
+| Arcsine and arccosine of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 3, printed p. 363 (teacher evidence) |
+| Arctangent and arccotangent of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 4, printed p. 383 (teacher evidence) |
 **Acceptance count: taught in 9 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
@@ -59,3 +62,5 @@ India enters inverse trigonometric functions from Mathematics Class 12: principa
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: derivatives of arcsin, arccos, arctan, arccot.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Elective course: funksionet e anasjellta trigonometrike (Inverse trig functions).
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its the Grade 10 advanced-programme teacher guide, Semester 2 (teacher evidence): arcsine and arccosine of a number; arctangent and arccotangent of a number.

@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia
 
 Every part traces to its book and page.
 
@@ -25,6 +25,7 @@ Every part traces to its book and page.
 **Book 16:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 17:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -118,8 +119,15 @@ Every part traces to its book and page.
 | Mutual position of a line and a plane | North Macedonia, Grade 12, Linear Algebra and Analytic Geometry, §3.4.3, printed p. 114 |
 
 | Coordinates of a point in 3D space; vectors in IR³; distance between two points in space | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 255–258 |
+| What a coordinate system is | Armenia, Geometry 11, §7.1, printed p. 80 |
+| Coordinates of a vector | Armenia, Geometry 11, §7.2, printed p. 83 |
+| Coordinates of vector sum, difference and scalar multiple | Armenia, Geometry 11, §8.1, printed p. 88 |
+| Computing the modulus of a vector | Armenia, Geometry 11, §8.2, printed p. 91 |
+| Scalar product in coordinates | Armenia, Geometry 11, §8.3, printed p. 94 |
+| Equation of a surface given in space | Armenia, Geometry 11, §9.3, printed p. 101 |
+| Applying the coordinate method | Armenia, Geometry 11, §9.4, printed p. 105 |
 
-**Acceptance count: taught in 12 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 13 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 
@@ -135,3 +143,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: coordinates of a point in 3D space; vectors in IR³; distance between two points in space.
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Sphere defined as the set of points at a fixed distance from a centre; Equation of a sphere derived from the distance formula: (x − a)² + (y − b)² + (z − c)² =…; Worked problem: recognising a sphere equation by completing squares; Exercise set: writing sphere equations from centre and radius; Point-to-plane distance formula stated and used in a worked problem: the plane y − z = 2…
+
+Armenia enters through its Geometry 11. From its books: what a coordinate system is; coordinates of a vector; coordinates of vector sum, difference and scalar multiple; computing the modulus of a vector; scalar product in coordinates; equation of a surface given in space; applying the coordinate method.

@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia
 
 Every part traces to its book and page.
 
@@ -202,6 +202,11 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Book 119:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 120:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part One* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, third edition 2020 CE / 1441 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
+**Book 121:** *Algebra 7* — Armenia, Smbat Gogyan and Vachagan Dilanyan, Qarakusi series. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 122:** *Algebra 9* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 123:** *Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream* — Armenia, Gegham Gevorgyan and Artur Sahakyan, student book, ISBN 978-9939-961-34-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 124:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 125:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 2* (teacher guide) — Armenia, Limush, 2025. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -546,8 +551,34 @@ CITATION CHECK PASSED 2026-11-05).
 | Sign of a quadratic function — sign of 1 − x² and of x² + 6x + 9 type quadratics between/outside roots | Palestine, Mathematics (Grade 10, Part One), printed p. 28 |
 | Sign and the discriminant — relation between the discriminant b² − 4ac and the sign of a quadratic; sign of a rational function via numerator/denominator sign charts | Palestine, Mathematics (Grade 10, Part One), printed p. 29 |
 | Sign of a rational function — exercises — sign charts for rational functions and mixed sign exercises | Palestine, Mathematics (Grade 10, Part One), printed p. 30 |
+| The idea of a function | Armenia, Algebra 7, §5.3, printed p. 127 |
+| The direct-proportionality function and its graph | Armenia, Algebra 7, §5.4, printed p. 130 |
+| Numerical functions and their representations | Armenia, Algebra 9, Ch. 1 §1, printed p. 5 |
+| Properties of numerical functions | Armenia, Algebra 9, Ch. 1 §2, printed p. 12 |
+| Transformations of function graphs | Armenia, Algebra 9, Ch. 1 §3, printed p. 20 |
+| The quadratic function | Armenia, Algebra 9, Ch. 1 §4, printed p. 28 |
+| Power function | Armenia, Algebra and Analysis 11 (natural-mathematics stream), Ch. 1.1, printed p. 3 |
+| The function f(x) = x^(1/n) and its properties | Armenia, Algebra and Analysis 11 (natural-mathematics stream), Ch. 1.2, printed p. 8 |
+| Variable quantities: the concept of a function | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §1.1, printed p. 51 |
+| Graph of a function | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §1.2, printed p. 56 |
+| Composite function | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §1.3, printed p. 58 |
+| Even and odd functions | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §2.1, printed p. 59 |
+| Concept of monotonicity of functions | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §2.2, printed p. 61 |
+| Maximums and minimums of a function | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §2.3, printed p. 64 |
+| Boundedness of a function | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 3 §2.4, printed p. 68 |
+| Numerical function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 1, printed p. 58 (teacher evidence) |
+| Graph of a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 2, printed p. 69 (teacher evidence) |
+| Operations with functions | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 3, printed p. 90 (teacher evidence) |
+| Transformations of a function's graph | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 4, printed p. 101 (teacher evidence) |
+| Fractional-linear functions | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 5, printed p. 130 (teacher evidence) |
+| Boundedness, greatest and smallest values of a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 6, printed p. 147 (teacher evidence) |
+| Periodicity of a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 7, printed p. 165 (teacher evidence) |
+| Even and odd functions | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 8, printed p. 184 (teacher evidence) |
+| Monotonicity intervals and extrema of a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 9, printed p. 206 (teacher evidence) |
+| Scheme of investigating a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 10, printed p. 238 (teacher evidence) |
+| Inverse function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 11, printed p. 249 (teacher evidence) |
 
-**Acceptance count: taught in 35 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine).**.** Egypt carries the
+**Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
@@ -600,3 +631,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Formulas as relations between variables; Dependence between variables; Calculating values of a function from a formula and a table; Linear dependence of the form y = kx + b that is not a direct proportionality.
 
 Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 10 Part One: even and odd functions — definition of a function; even functions; even functions — algebraic test; odd functions; even/odd/neither — exercises; vertical translation of graphs; graph transformations by completing the square; translation of graphs — exercises; reflection of graphs in the x-axis; reflection of graphs in the y-axis; sign of a constant function; sign of a linear function; sign of a linear function — worked example (TAUGHT CORRECTED: the book's verbal bullets and inequality symbols on this page are swapped; correct: 4 − 2x is positive on ]−∞, 2[ and negative on ]2, ∞[); sign of a quadratic function; sign of a quadratic function; sign and the discriminant; sign of a rational function — exercises.
+
+Armenia enters through its Algebra 7; Algebra 9; Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream; Algebra and Elements of Mathematical Analysis 10 (Arakelyan); the Grade 10 advanced-programme teacher guide, Semester 2 (teacher evidence). From its books: the idea of a function; the direct-proportionality function and its graph; numerical functions and their representations; properties of numerical functions; transformations of function graphs; the quadratic function; power function; the function f(x) = x^(1/n) and its properties; variable quantities: the concept of a function; graph of a function; composite function; even and odd functions; concept of monotonicity of functions; maximums and minimums of a function; boundedness of a function; numerical function; graph of a function; operations with functions; transformations of a function's graph; fractional-linear functions; boundedness, greatest and smallest values of a function; periodicity of a function; even and odd functions; monotonicity intervals and extrema of a function; scheme of investigating a function; inverse function.

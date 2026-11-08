@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia
 
 Every part traces to its book and page.
 
@@ -218,6 +218,9 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 126:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 127:** *İlkokul Matematik 3. Sınıf Ders Kitabı, 1. Kitap* (Primary School Mathematics, Grade 3 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9897-6; approved by the Talim ve Terbiye Kurulu, decision no. 164290654 dated 13/07/2026; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
+**Book 128:** *Algebra 9* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 129:** *Algebra and Elements of Mathematical Analysis 11, general and humanitarian stream* — Armenia, Gegham Gevorgyan and Artur Sahakyan, student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 130:** *Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream* — Armenia, Gegham Gevorgyan and Artur Sahakyan, student book, ISBN 978-9939-961-34-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -483,8 +486,14 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | shape patterns whose shape-counts form a number pattern: count shapes per step, state the step-to-step relation, continue patterns (30-25-20-… and 4-8-12-…) by colouring | Turkey, Matematik 3. Sınıf Ders Kitabı, 1. Kitap (Grade 3, Book 1), printed p. 70 |
 | state the rule and the per-step shape counts of given patterns; complete number patterns 9-16-23-…, 121-221-321-…, 98-90-82-…, 31-36-41-… | Turkey, Matematik 3. Sınıf Ders Kitabı, 1. Kitap (Grade 3, Book 1), printed p. 72 |
 | build the first six terms from a stated rule (start 12, +7; start 71, −5; start 53, −3); invent your own rule wording and build its pattern; turn a shape pattern into numbers | Turkey, Matematik 3. Sınıf Ders Kitabı, 1. Kitap (Grade 3, Book 1), printed p. 73 |
+| Numerical sequences | Armenia, Algebra 9, Ch. 6 §1, printed p. 131 |
+| Arithmetic progression | Armenia, Algebra 9, Ch. 6 §2, printed p. 135 |
+| Geometric progression | Armenia, Algebra 9, Ch. 6 §3, printed p. 142 |
+| Infinitely decreasing geometric progression | Armenia, Algebra 9, Ch. 6 §4, printed p. 148 |
+| Numerical sequence | Armenia, Algebra and Analysis 11 (general and humanitarian stream), Ch. 3.3, printed p. 48 |
+| Numerical sequence | Armenia, Algebra and Analysis 11 (natural-mathematics stream), Ch. 4.1, printed p. 81 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey).**.** Kazakhstan carries
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -533,3 +542,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 3 syllabus requires building number sequences in ascending and descending order (body); Class 4 requires building number sequences using whole numbers, fractions and decimals, ascending and descending. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
 
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 3: number patterns around a circle: find the 4th term and the rule of 18-16-14-…, 30-26-22-…, 3-7-11-…, 1-4-7-…, 22-28-34-…, 20-15-10-…; shape patterns whose shape-counts form a number pattern: count shapes per step, state the step-to-step relation, continue patterns (30-25-20-… and 4-8-12-…) by colouring; state the rule and the per-step shape counts of given patterns; complete number patterns 9-16-23-…, 121-221-321-…, 98-90-82-…, 31-36-41-…; build the first six terms from a stated rule (start 12, +7; start 71, −5; start 53, −3); invent your own rule wording and build its pattern; turn a shape pattern into numbers.
+
+Armenia enters through its Algebra 9; Algebra and Elements of Mathematical Analysis 11, general and humanitarian stream; Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream. From its books: numerical sequences; arithmetic progression; geometric progression; infinitely decreasing geometric progression; numerical sequence; numerical sequence.

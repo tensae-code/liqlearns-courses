@@ -405,6 +405,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 203:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 204:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 205:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -798,6 +799,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | area of a rectangle = length × width, incl. finding a missing side from the area | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 281 |
 | area of a square = length × length, incl. finding the side from the area | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 285 |
 | area of a triangle = ½ × base × height, incl. finding base or height from the area | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 290 |
+| The concept of a polygon's area | Armenia, Geometry 8, §6.13, printed p. 41 |
+| Area of a square | Armenia, Geometry 8, §6.14, printed p. 43 |
+| Area of a rectangle | Armenia, Geometry 8, §7.15, printed p. 47 |
+| Area of a parallelogram | Armenia, Geometry 8, §7.16, printed p. 48 |
+| Area of a triangle | Armenia, Geometry 8, §8.17, printed p. 52 |
+| Heron's formula | Armenia, Geometry 8, §8.18, printed p. 53 |
+| Area of a rhombus | Armenia, Geometry 8, §9.19, printed p. 56 |
+| Area of a trapezoid | Armenia, Geometry 8, §9.20, printed p. 57 |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
@@ -853,3 +862,5 @@ Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyri
 Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 1 syllabus requires measuring the perimeter of objects and shapes using standard units; Class 2 adds determining the area of regular and irregular shapes by counting squares and the area of the square, rectangle and triangle; Classes 3 and 4 require the perimeter of regular and irregular shapes and the area of regular and irregular shapes with their units — Class 4 adding the length of a rectangle found from its area or perimeter and the other dimension. A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
 
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: perimeter of rectangle, square and triangle revised; area as space covered, counted in equal square units; the areas of rectangle, square and triangle by formula, each also worked backwards to a missing side, base or height.
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 8: the concept of a polygon's area; area of a square; area of a rectangle; area of a parallelogram; area of a triangle; heron's formula; area of a rhombus; area of a trapezoid.

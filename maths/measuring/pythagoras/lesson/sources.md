@@ -160,6 +160,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 
 **Book 69:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part Two* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, second edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -294,6 +295,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Aplicaciones de Pitágoras: more leg/hypotenuse calculations (d = 3 from 5-4; c = 5 from 3-4; z = √28 ≈ 5,29); angle of depression defined in the sidebar | Bolivia, Texto de Aprendizaje, Grade 8 (2° de Secundaria), Área Matemática (student book), printed p. 126 |
 | Introducción a la trigonometría: right triangle and Pythagoras' theorem, finding missing sides (the angle result on p. 72 is a confirmed error: printed 40°36'4.32", correct 40°27'32.56") | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 2 (Grade 8) section, printed p. 71 |
 | Pythagoras in constructions — (BC)² = (AB)² − (AC)²-type rearrangements used inside construction proofs | Palestine, Mathematics (Grade 10, Part Two), printed p. 58 |
+| Proportional segments in a right triangle | Armenia, Geometry 8, §14.32, printed p. 87 |
+| Altitude from the right angle; distance to an inaccessible point | Armenia, Geometry 8, §14.33, printed p. 90 |
+| Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
 
 **Acceptance count: taught in 36 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
@@ -348,3 +352,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Worked problem: length of a tangent segment from a point 10 cm from the centre of a ball…; History of geometry, part 1: Pythagoras (564–473 BC), the theorem known long before him.
 
 Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 10 Part Two: pythagoras in constructions.
+
+Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 8; Geometry 10: proportional segments in a right triangle; altitude from the right angle; distance to an inaccessible point; pythagoras' theorem.

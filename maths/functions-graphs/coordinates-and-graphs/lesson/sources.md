@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Armenia
 
 Every part traces to its book and page.
 
@@ -234,6 +234,11 @@ textbook.
 **Book 143:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 144:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *Mathematics 5* (student) — Armenia, Smbat Gogyan and Narine Ravoyeva, 2023. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *Mathematics 6* (student) — Armenia, Smbat Gogyan, Varduhi Badalyan and Ashkhen Arakelyan, Qarakusi, 2024, ISBN 978-9939-1-1843-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 147:** *Algebra 7* — Armenia, Smbat Gogyan and Vachagan Dilanyan, Qarakusi series. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 148:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 149:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -464,8 +469,15 @@ textbook.
 | Laboratorio matemático: GeoGebra and Excel statistics graphs | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 170 |
 | Barbados's Class 3 syllabus requires: co-ordinate graphs for illustrating data (Attainment Target 50 and body) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed pp. 8, 16–17 (PDF pp. 16, 24–25) |
 | Barbados's Class 4 syllabus requires: plotting co-ordinates on a grid and locating places on a map (targets and body) | Barbados, Primary Mathematics Syllabus, Class 4 (curriculum evidence), printed pp. 8, 12–13 (PDF pp. 17, 21–22) |
+| The segment and the point on the coordinate ray | Armenia, Mathematics 5, §1.7, printed p. 29 |
+| The Cartesian plane | Armenia, Mathematics 6, §5.3, printed p. 137 |
+| The coordinate plane | Armenia, Algebra 7, §5.2, printed p. 122 |
+| Equation of a straight line; applications of the linear function | Armenia, Algebra 7, §5.5, printed p. 135 |
+| Rectangular coordinate system | Armenia, Geometry 8, §16.36, printed p. 102 |
+| The number line | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 1 §5.1, printed p. 26 |
+| Coordinates of a point on the plane: the coordinate plane | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 1 §5.3, printed p. 30 |
 
-**Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** South Africa carries the
+**Acceptance count: taught in 37 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -514,3 +526,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Coordinate (number) ray, unit segment, coordinate of a point; from Grade 6: Length of a segment on the coordinate line: from a to b is b − a (e.g. −3 to 8 is 11); Rectangular (Cartesian) coordinate system: origin, abscissa and ordinate axes, quadrants,…; Graphs: lines x = a and y = b, reading positions of points from a graph; from Grade 7: Graph of a function; Graph of a direct proportionality (ray/line through the origin); The function y = x^2 and its graph; The function y = x^3 and its graph; from Grade 8: The function y = √x: domain, range, properties and graph as the right branch of a parabola; Graphical method of solving equations: roots as abscissae of graph intersections,…; from Grade 11: History of geometry, part 4: Regiomontanus (1436–1476) applying algebra to geometry.
 
 Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Syllabus* (Classes 1–4) of its Ministry of Education and Human Resource Development — its Class 3 syllabus requires co-ordinate graphs for illustrating data (attainment target and body); Class 4 requires plotting co-ordinates on a grid and locating places on a map (targets and body). A syllabus states what is to be taught, in what order and to what depth; it teaches nothing itself. Barbados publishes no government pupil textbooks — primary mathematics books are commercial titles parents buy, and the syllabi's Suggested Texts appendices name them (*Caribbean Primary Mathematics* Levels 1–6; *Nelson Primary Maths for Caribbean Schools* 1–4; *Steps To Common Entrance Mathematics* 1–3) as named by the syllabus only: none is in hand and none is cited. Barbados is therefore named in this lesson's countries line and its syllabus requirements are cited in the table as curriculum evidence, but Barbados is not counted in the taught-in figure.
+
+Armenia enters through its Mathematics 5 (student); Mathematics 6 (student); Algebra 7; Geometry 8; Algebra and Elements of Mathematical Analysis 10 (Arakelyan). From its books: the segment and the point on the coordinate ray; the Cartesian plane; the coordinate plane; equation of a straight line; applications of the linear function; rectangular coordinate system; the number line; coordinates of a point on the plane: the coordinate plane.

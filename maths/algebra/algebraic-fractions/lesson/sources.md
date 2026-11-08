@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia
 
 Every part traces to its book and page.
 
@@ -27,6 +27,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 12:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 13:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Algebra 8* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 15:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -64,7 +66,14 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Simplify given fractions set inside the matrices tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 13 |
 | Operaciones algebraicas: simplifying a compound algebraic condition to (x+y)/(x−y)=5, giving the consecutive pair y=2, x=3; equality axioms and theorems listed (reflexive, symmetric, transitive; adding/multiplying equals) | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 133 |
 | Fracciones algebraicas y sus operaciones: algebraic fractions, simplification, addition, subtraction, multiplication and division | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 3 (Grade 9) section, printed p. 106 |
-**Acceptance count: taught in 9 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Rational fractions | Armenia, Algebra 8, Ch. 2 §1, printed p. 31 |
+| Sum and difference of rational fractions | Armenia, Algebra 8, Ch. 2 §2, printed p. 35 |
+| Product and division of rational fractions | Armenia, Algebra 8, Ch. 2 §3, printed p. 39 |
+| Algebraic fraction and rational expression | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 5.1, printed p. 26 (teacher evidence) |
+| Multiplying, dividing and reducing algebraic fractions | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 5.2, printed p. 26 (teacher evidence) |
+| Adding and subtracting algebraic fractions | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 5.5, printed p. 26 (teacher evidence) |
+| Transformations of rational expressions | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 5.6, printed p. 26 (teacher evidence) |
+**Acceptance count: taught in 10 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
@@ -76,3 +85,5 @@ Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Alban
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 12: Operaciones algebraicas; from the Compendium's Secundaria 3 section (Grade 9): Fracciones algebraicas y sus operaciones.
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Admissible values (domain) of an expression, e.g. x/(x-9) undefined at x = 9; from Grade 8: Rational fraction defined; Fundamental property of a fraction; Adding and subtracting fractions with the same denominator; Adding and subtracting fractions with different denominators via a common denominator; Multiplying rational fractions; Dividing rational fractions (multiply by the reciprocal); Identity transformations of rational expressions: reducing a compound expression to a…
+
+Armenia enters through its Algebra 8 (Mikayelyan); the Algebra 8 methodological guide (teacher evidence; it companions a different, unheld Gogyan student book, not the held Mikayelyan book). From its books: rational fractions; sum and difference of rational fractions; product and division of rational fractions; algebraic fraction and rational expression; multiplying, dividing and reducing algebraic fractions; adding and subtracting algebraic fractions; transformations of rational expressions.
