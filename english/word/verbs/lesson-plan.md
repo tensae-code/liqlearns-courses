@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Verbs
 
 **Course:** English · **Title:** Word · **Lesson:** Verbs
-**Place in the curriculum:** Level 6, "Word Kinds" —
-the second lesson of the level (CURRICULUM.md), right after Nouns.
+**Place in the curriculum:** Unit 6 — Word Kinds —
+the second lesson of the unit (CURRICULUM.md), right after Nouns.
 **The one thing this lesson teaches:** a verb is a doing word —
 it tells what a person or a thing does.
 **This lesson's own level:** it stands on the Nouns lesson (the
@@ -20,6 +22,19 @@ student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds, and a doing word is the
 most natural GIF in the course: the action itself, moving.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Doing words, what a verb is** — a verb is a doing word — it tells what a person or a thing does. (Was depth Level 1.)
+2. **The test, what did they do** — Ghana's test inside a real sentence: "What did Ofori do?" — the word that answers is the verb. (Was part of depth Level 2.)
+3. **The smallest sentence, name plus doing word** — the smallest whole sentence there is: (Name) + (Doing word) — "Yaa came." "Musa ate." (Was part of depth Level 2.)
+4. **He, she, it adds -s** — the one change this lesson makes to a verb: for he, she, or it, the verb puts on a little -s — "I ride, he rides"; the tenses pointer at the end is this lesson's closing note. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Nouns — the naming words. A verb is found by

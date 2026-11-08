@@ -16,7 +16,7 @@ your body just did: woke, ate, walked, ran. Every word that
 tells what you DID is the kind of word this lesson is about.
 You were already using them. Now we give them their name.
 
-## Then the explanation
+## Sub lesson 1 — Doing words, what a verb is
 A **verb** is a doing word. It tells what a person or a thing
 does.
 
@@ -25,6 +25,7 @@ is a word that expresses an action." Libya's books say it
 shortest of all: verbs tell you what things or people do —
 "go, didn't go" are their own examples.
 
+## Sub lesson 2 — The test, what did they do
 Here is the test that finds a verb anywhere. Ghana's curriculum
 runs it inside a real sentence: "Ofori **danced**." Ask:
 **What did Ofori do?** — danced. The word that answers that
@@ -34,6 +35,7 @@ Two questions, two word kinds, never mixed up again: the word
 that answers "who?" names; the word that answers "what did
 they do?" does.
 
+## Sub lesson 3 — The smallest sentence, name plus doing word
 With a name and a doing word you already have the smallest
 whole sentence there is. Ghana's curriculum names its shape:
 **(Name) + (Doing word)** — "Yaa came." "Musa ate." Two words,
@@ -41,6 +43,7 @@ and the thought is complete. Egypt's sports unit is full of
 doing words to fill that shape with: kick, hit, run, swim,
 jump. "Ali kicked." "Hana swam."
 
+## Sub lesson 4 — He, she, it adds -s
 One more thing, and it is the only change this lesson makes to
 a verb. When the doer is **he, she, or it** — one person or one
 thing, not you, not me, not a group — the verb puts on a little
