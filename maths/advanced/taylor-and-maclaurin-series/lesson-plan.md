@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Taylor and Maclaurin Series
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Taylor and Maclaurin Series
-**Place in the curriculum:** Level 96 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Taylor and Maclaurin Series
+**Place in the curriculum:** Level 96 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** Taylor and Maclaurin series — rebuilding a function as an endless polynomial around a point: the Maclaurin series of 1/(1+x), sin x, aˣ, eˣ and (1+x)ⁿ, Taylor series about a non-zero point, and using a few terms to compute numbers like sin 31°.
 **This lesson's own level:** it stands on the derivatives lesson (the coefficients are derivatives) and the sequences-and-series lesson (the series must converge). It needs nothing else. This lesson has ONE full source — Pakistan's Class 12 book, §2.17 — and it is built honestly at that size.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Maclaurin Template and eˣ** — the Maclaurin template, and the series for eˣ. (One paragraph in this text builds eˣ and aˣ together and is kept whole here; aˣ is Sub lesson 2's ground in the questions.) (Was depth Level 1.)
+2. **The Standard Maclaurin Series** — the standard Maclaurin series: sin x, aˣ, 1/(1+x) and (1+x)ⁿ, each with its range of x where the book requires one. (Was depth Level 2.)
+3. **Taylor Series and Computing Numbers** — Taylor series about a centre that is not 0, and computing numbers with them: ln(1+x) about x = 2, and sin 31° the book's way. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the derivatives lesson, including successive (higher-order) differentiation — every coefficient in the series is a derivative at one point. Recommended, never forced.

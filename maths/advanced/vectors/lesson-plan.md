@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Vectors
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 49 of 52
-**Place in the curriculum:** Stage 12, the fourth lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 49 of 52
+**Place in the curriculum:** Unit 12, the fourth lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** vectors — quantities with size and direction, in two and three dimensions, and how to add, subtract and multiply them
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Arrows: Size and Direction** — scalars and vectors: size and direction, drawing a vector, and its magnitude. (Was depth Level 1.)
+2. **Coordinates and the Dot Product** — vectors in coordinates, adding and subtracting them, and the dot product and the angle it gives. (Was depth Level 2.)
+3. **Vectors in Space** — vectors in space: 3-D coordinates, lines in space, and the cross product. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the coordinates-and-graphs lesson (vectors live on coordinates) and the matrices lesson (another object with its own arithmetic). Recommended, never forced.

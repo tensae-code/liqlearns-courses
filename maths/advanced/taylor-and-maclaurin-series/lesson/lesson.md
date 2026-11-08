@@ -1,12 +1,12 @@
 # Taylor and Maclaurin Series — the lesson
 
-Course: Maths · Stage: Stage 12 — Advanced Mathematics · Lesson: Taylor and Maclaurin Series
+Course: Maths · Unit: Unit 12 — Advanced Mathematics · Lesson: Taylor and Maclaurin Series
 Built from: Pakistan, Mathematics Class 12 (§2.17 — the sole full source for this lesson)
 
 ## Do it first
 Add these on a calculator, one at a time: 1, then +1, then +1/2, then +1/6, then +1/24, then +1/120. The running totals go 1, 2, 2.5, 2.667, 2.708, 2.717 — settling on 2.718…, the number e. A string of plain powers and factorials has rebuilt eˣ at x = 1. Pakistan's Class 12 book teaches exactly this rebuilding — a function copied by an endless polynomial — in §2.17 of its differentiation chapter (Ch.2, ch-pp.74–81). This lesson follows that one section, honestly and whole: it is the lesson's only full source.
 
-## Then the explanation
+## Sub lesson 1 — The Maclaurin Template and eˣ
 **The Maclaurin template.** A **Maclaurin series** writes a function as a polynomial centred at 0:
 
 f(x) = f(0) + x f′(0) + (x²/2!) f″(0) + (x³/3!) f‴(0) + …
@@ -19,6 +19,7 @@ eˣ = 1 + x + x²/2! + x³/3! + x⁴/4! + … for every x.
 
 Your Do it first was this series at x = 1. For aˣ the derivatives at 0 bring down powers of ln a, giving aˣ = 1 + x ln a + (x ln a)²/2! + (x ln a)³/3! + … — the eˣ series with x replaced by x ln a, which is exactly right, since aˣ = e^(x ln a). The book gives both expansions in the Maclaurin half of the section (ch-pp.74–78).
 
+## Sub lesson 2 — The Standard Maclaurin Series
 **sin x.** The derivatives of sin x cycle: sin, cos, −sin, −cos. At 0 they give 0, 1, 0, −1, so only odd powers survive, with alternating signs:
 
 sin x = x − x³/3! + x⁵/5! − x⁷/7! + … for every x (in radians).
@@ -33,6 +34,7 @@ at x = 2 the partial sums jump 1, −1, 3, −5 and never settle. The binomial e
 
 Tip — from us, not from the books. Before you use any series, ask two questions: what is the centre, and how far from it am I? A series is a local copy of its function — superb near its centre, and, outside its stated range, not a copy at all.
 
+## Sub lesson 3 — Taylor Series and Computing Numbers
 **Taylor series: a centre that is not 0.** A **Taylor series** is the same build about a general centre a: f(x) = f(a) + (x−a) f′(a) + (x−a)² f″(a)/2! + … (Maclaurin is the case a = 0.) The book — which prints the heading as "TAILOR SERIES", a misprint for Taylor — works ln(1+x) about x = 2 (ch-pp.78–81). Put u = x − 2, so 1 + x = 3 + u = 3(1 + u/3), and ln(1+x) = ln 3 + ln(1 + u/3): expanding the second logarithm gives
 
 ln(1+x) = ln 3 + (x−2)/3 − (x−2)²/18 + (x−2)³/81 − …

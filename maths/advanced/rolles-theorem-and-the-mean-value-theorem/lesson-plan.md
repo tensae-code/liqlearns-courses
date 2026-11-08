@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Rolle's theorem and the Mean Value Theorem
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Rolle's theorem and the Mean Value Theorem
-**Place in the curriculum:** Level 89 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Rolle's theorem and the Mean Value Theorem
+**Place in the curriculum:** Level 89 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** Rolle's theorem and the Mean Value Theorem — a flat tangent must occur between equal heights, and some point's tangent matches the whole journey's slope — with L'Hôpital's rule as the closing part.
 **This lesson's own level:** it stands on Continuity (Level 88) and the derivatives lesson — the learner can already test continuity and differentiate. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Rolle's Theorem** — Rolle's theorem: its three conditions, and finding the guaranteed point c. (Was depth Level 1.)
+2. **The Mean Value Theorem** — the Mean Value Theorem: its statement, its two conditions, and solving for c. (Was depth Level 2.)
+3. **Proofs and L'Hôpital's Rule** — the proofs — the Mean Value Theorem built from Rolle's theorem — using the theorems, and L'Hôpital's rule for 0/0 and ∞/∞ forms. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Continuity (Level 88, same stage) — both theorems need continuity on the closed interval. Recommended, never forced.
