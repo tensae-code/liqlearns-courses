@@ -27,7 +27,7 @@ You just did the whole lesson. Now let's see how it works.
 with three empty speech bubbles over their heads — fill one
 bubble out loud with your own suggestion before you read on]
 
-## Then the explanation
+## Sub lesson 1 — Let's, the shortest suggestion
 A **suggestion** is an offer whose gift is an idea. The books
 teach three shapes, and each shape carries its verb
 differently — that is the whole care this lesson needs.
@@ -38,6 +38,7 @@ go." "Let's swim." Cambodia's Grade 10 book fishes with it —
 lines. After Let's, the verb stays plain: never "Let's
 going," never "Let's to go."
 
+## Sub lesson 2 — Why don't we, the question-shaped suggestion
 **Why don't we…?** It wears a question's coat but asks
 nothing — it suggests. Syria's Starters 5 book puts it in its
 Study Box for planning a walk, beside Let's and "We/You
@@ -45,6 +46,7 @@ could…": the class reads a weather forecast, holds a compass,
 and suggests the walk into being. Cambodia's Grade 10 unit
 is named for this very shape: "Why don't we…?"
 
+## Sub lesson 3 — How about, the -ing suggestion
 **How about / What about + the -ing form.** Mongolia's Grade
 7 book lists the suggestion forms together on one page
 (p.26): "How about/What about + verb-ing; Let's + verb; Why
@@ -54,6 +56,7 @@ book carries the same exponents in its free-time unit —
 "Let's…; Why don't we…?" — as the language of suggesting,
 taught beside requests and apologies.
 
+## Sub lesson 4 — Answering a suggestion, glad or kind
 **The answers.** A suggestion deserves a true answer, and the
 books teach both. The glad yes: Cambodia's "That's a good
 idea"; Mongolia's "I think it sounds great," "It's perfect,"

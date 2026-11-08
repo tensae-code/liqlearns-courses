@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Making suggestions
 
 **Course:** English · **Title:** Conversation · **Lesson:** Making suggestions
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** making a suggestion —
 offering an IDEA for what to do together — with "Let's…",
 "Why don't we…?" and "How about…?", and answering one with
@@ -11,6 +13,19 @@ three ways; answer a suggestion with a yes that sounds glad
 ("That's a good idea / I'd love to") or a no that stays kind
 ("I don't feel like it / I don't think so"); and turn a bare
 plan ("the river") into a full suggestion.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Let's, the shortest suggestion** — what a suggestion is, and its shortest shape: "Let's + the plain verb". The opening paragraph previews all three shapes, so it overlaps Sub lessons 2–3. (Was depth Level 1.)
+2. **Why don't we, the question-shaped suggestion** — "Why don't we…?" — a suggestion in a question's coat, with Syria's third shape "We/You could…" standing beside it. (Was part of depth Level 2.)
+3. **How about, the -ing suggestion** — "How about / What about + the -ing form" — after How about, the verb changes its coat. (Was part of depth Level 2.)
+4. **Answering a suggestion, glad or kind** — the glad yes ("That's a good idea") and the kind no ("I don't feel like it", "I'd rather…") — a no that refuses the idea, never the person, often with a new suggestion of its own. (Was depth Level 3, with depth Level 1's glad answer banked here.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know Making offers, this will feel easier — a
