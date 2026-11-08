@@ -96,6 +96,14 @@ liqlearns-courses/
                                    (Also moved out of questions/ 2026-10-26.)
 ```
 
+**Naming pointer (2026-11-08):** the groupings this file's older
+sections call stages (Maths) or levels (the English path's big parts)
+are now called UNITS, and the parts inside a lesson — the depths this
+organization describes as levels inside the lesson — are now called
+SUB LESSONS. The decided design is recorded in full at the end of
+this file: "Units, Lessons and Sub Lessons (ruled 2026-11-08)".
+Older sections keep their original words; this pointer is the bridge.
+
 ## Rules (Tensae's design — do not change without his word)
 
 - The AI that builds these starts EMPTY. Everything it knows comes from the
@@ -696,3 +704,55 @@ His ruling, courses chat, 2026-11-04: when a learner opens a lesson, they want t
 - Every lesson must stand alone for a learner who lands on it directly: it teaches its one thing completely without requiring the earlier lessons first.
 - Prerequisites may be shown only as a soft hint at the top — in his shape: if you know this one, this course will be easier for you, so you might as well try this one first. A suggestion, never a gate, never a forced start.
 - This sharpens the standing prerequisite rule (recommended "start here instead" paths, never forced, 2026-10-11): the hint stays, the standalone lesson is the law.
+
+## Units, Lessons and Sub Lessons (ruled 2026-11-08)
+
+His ruling, courses chat, 2026-11-08 (building on his lesson-parts
+rulings of 2026-11-07): the lesson-parts model is now IMPLEMENTED in
+both courses, Maths and English. The naming, top to bottom:
+
+- A **course** (one per subject) is divided into **UNITS** — the big
+  groupings of the path. What the Maths curriculum called a **stage**
+  is now a **unit** (18 units; the lesson list and lesson numbering
+  are unchanged). What the English curriculum called its big
+  **levels** — the 44 groupings of the path — are now **units** too.
+- Inside the units stand the **LESSONS** — the usual list, one lesson
+  explaining one thing only, exactly as before.
+- Inside a lesson, its parts are **SUB LESSONS**. What a lesson used
+  to carry as its inside depths/ranks (its levels.md layers) are its
+  sub lessons now. Sub-lesson cuts follow the topic's natural jumps —
+  his example: Counting's sub lessons run by the size of the climb
+  (1–10, then the next band, then the next) — the numbers follow the
+  real content of each lesson, not a fixed formula.
+
+**The gate (his spec, decided):**
+
+- A learner opening a lesson **sees all of its sub lessons listed
+  from the start** — from the first sub lesson they can see the
+  later ones exist.
+- The sub lessons are **locked ahead and open in order**: a sub
+  lesson opens when the one before it is proved. There is no
+  skipping ahead inside a lesson.
+- To open a later sub lesson, the learner **proves the previous
+  one** by answering its questions: **at most 5 questions**, picked
+  as the **hardest** — hard-ranked as written — from the sub lesson
+  right before the wanted one, **mixed with earlier parts**: about
+  2 questions from the older sub lessons, one from each where they
+  exist.
+- On a **fail**: the learner reviews the questions and answers they
+  just did, then the system picks **another set — never the same
+  set** — and they try again.
+- **No relocks, ever**: once a sub lesson is opened, it stays open.
+- **Between lessons, direct entry stands** (the 2026-11-04 ruling
+  above): any lesson (title) can be entered freely at any time. The
+  order and the gate live INSIDE a lesson only.
+- **Search finds both**: a search must be able to find the lesson
+  and the sub lesson — the whole thing, title and part alike.
+
+This section is the decided design. The rollout follows it lesson by
+lesson: each lesson's plan lists its sub lessons in order (the list
+the app renders as the visible, locked-ahead list), its text is
+sectioned under the sub-lesson names, its levels.md becomes the
+sub-lesson depth record, and its questions carry which sub lesson
+they belong to. The first lesson restructured to this shape —
+Maths, Counting — is the template (see its lesson-plan.md).
