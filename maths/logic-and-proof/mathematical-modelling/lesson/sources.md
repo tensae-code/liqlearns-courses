@@ -1,6 +1,6 @@
 # Sources — Mathematical Modelling
 
-countries: Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh
+countries: Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh, Bolivia
 
 Every part traces to its book and page.
 
@@ -17,6 +17,8 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 **Book 6:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 7:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, prescribed for Class Nine from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 8:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination. TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -43,8 +45,9 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 | Lesson 25 calculator use: sin/cos/tg keys in DEG mode; trig tables in the appendix when there is no calculator | Uzbekistan, Geometriya, Grade 9 (Russian), printed p. 59 |
 | Lesson 36 traffic-police pursuit problem: sine rule decides whether the patrol reaches the crossing in time (42 s against 47 s) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 82–83 |
 | Lesson 37 measuring heights in the field: AH = a·tg α; two-station method AH = a·sin α·sin β/sin(α − β); distance to an inaccessible point by the sine rule; penalty-kick angle; Kalta Minor minaret, Khiva; Ak Saray palace, Shakhrisabz | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 84–85 |
+| The mathematics laboratories' software strand, set year by year beside the chess/sudoku laboratory: GeoGebra for integers/rationals and plane figures with scientific-calculator handling (Secundaria 1); a GeoGebra introduction (Secundaria 2); GeoGebra graphing of equations f(x) (Secundaria 3); GeoGebra/software graphs of trigonometric functions and statistics charts built in a spreadsheet (Secundaria 5); GeoGebra for loci — the relative position of a line and a circle, tangents to a parabola, parabola–ellipse intersections (Secundaria 6) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 81 (PDF p. 50); Secundaria 2 (Grade 8) section, printed pp. 78–79 (PDF pp. 93–94); Secundaria 3 (Grade 9) section, printed p. 122 (PDF p. 141); Secundaria 5 (Grade 11) section, printed pp. 170–171 (PDF pp. 245–246); Secundaria 6 (Grade 12) section, printed p. 172 (PDF p. 309) |
 
-**Acceptance count: taught in 6 countries (Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; Bangladesh's Class 9 book adds a supply-according-to-demand team project (modelling with equations); the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
+**Acceptance count: taught in 7 countries (Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh, Bolivia).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; Bangladesh's Class 9 book adds a supply-according-to-demand team project (modelling with equations); the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
 
 India enters mathematical modelling from Mathematics Class 10: what modelling is.
 
@@ -53,3 +56,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Mathematical model of a real situation (three stages: build, solve, interpret).
 
 Bangladesh enters through its NCTB course — *Mathematics, Class Nine* (National Curriculum 2022, academic year 2024) — stocked by the 2026-11-08 re-verification sweep. From its books: from Class 9: team project — supply according to demand, modelling a market with a pair of equations (Ch. 5, printed pp. 138–140).
+
+Bolivia enters through the Compendio para Maestras y Maestros 2023–2024, the Ministerio de Educación (Estado Plurinacional de Bolivia) teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12) — teacher-compilation evidence only, never cited as, or in place of, a pupil text — stocked by the 2026-11-08 re-verification sweep. From its books: from the Compendium's Secundaria 1, 2, 3, 5 and 6 sections: the mathematics laboratories' software strand (GeoGebra, scientific calculator and spreadsheet work).
