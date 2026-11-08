@@ -1,12 +1,13 @@
 # Time Series — the lesson
 
-Course: Maths · Stage: Stage 16 — Further Statistics and Probability · Lesson: Time Series
+Course: Maths · Unit: Unit 16 — Further Statistics and Probability · Lesson: Time Series
 Built from: Pakistan, Statistics Class 12 — Libya, Grade 12 Statistics (Humanities) — Greece, EPAL Business Statistics, Grade 11 — Jordan, Business Mathematics, Grade 12, Term 2 — Iran, Mathematics and Statistics (2), Grade 11 (filed "for study")
 
 ## Do it first
 Think of one price you know — bread, fuel, a bus fare. Was it the same five years ago? Ten years ago? Write down, from memory, roughly what it was at three different times. You have just made the start of a time series: the same thing, measured at different times, written in time order. Before any names: do your three numbers climb steadily, jump about, or both? Keep your answer — the lesson will give each part of that behaviour its name.
 
-## Then the explanation
+## Sub lesson 1 — The Series and Its Four Components
+
 **What a time series is.** A **time series** is a set of values of one variable recorded at successive times — days, months, years — and written in time order. Pakistan's Statistics Class 12 book writes the series as y = f(t) + e, a signal with noise on it, and draws it as a **historigram**: time along the axis, the value plotted against it (Ch. 16, p.241). Its opening example is the census populations of Pakistan from 1951 to 1998 — one country, counted again and again, the counts climbing. Libya's Grade 12 Humanities book opens the same way: definition first, then the graphical display (Ch. 3, pp.59–88). Greece's EPAL Business Statistics book teaches the same ground for business use — components, the linear trend, and the usefulness of time series in economic activity (Ch. VII, pp.205–233). Jordan's Grade 12 Business book gives time series its own lesson, with a follow-on lesson on variance in time series (Unit 4, L2 p.21; L3 p.31).
 
 **The four components.** Every wavy series line is four movements hiding in one. Pakistan names them **T, S, C, I** (Ch. 16, pp.242–243), and Libya names the same four (Ch. 3, pp.59–88):
@@ -18,11 +19,15 @@ Think of one price you know — bread, fuel, a bus fare. Was it the same five ye
 
 The books combine the four in two models (Pakistan, pp.243–244). In the **multiplicative model**, Y = T × S × C × I — the seasonal swing grows as the level grows. In the **additive model**, Y = T + S + C + I — the swings are added amounts, the same size at any level. The same pages introduce the **coded time variable**: instead of the raw years 2019, 2020, 2021…, number the times …, −2, −1, 0, 1, 2, … from a middle origin. Coding makes the sums in the trend formulas small — you will see why below.
 
+## Sub lesson 2 — The Trend by Freehand, Semi-Averages and Moving Averages
+
 **Trend by freehand.** The quickest method is the eye: plot the series, then draw one smooth line through the middle of the points, ignoring the jumps — the **free hand curve** (Pakistan, pp.245–246; Libya teaches the same freehand smoothing in Ch. 3). It costs nothing and shows the direction at a glance. Its weakness is plain: two people draw two different lines, and it gives no numbers to forecast with. It is a first look, not a measurement.
 
 **Trend by semi-averages.** Split the series into two equal halves. Find the mean of each half, and plot each mean over the *middle time* of its own half. The straight line through those two plotted points is the trend (Pakistan, pp.247–250, with its slope form b = 4(S₂ − S₁)/n² for the half-sums S₁, S₂ over n values). Try it on eight yearly values: 10, 12, 14, 16, 18, 20, 22, 24. First half mean = 13, plotted at time 2.5; second half mean = 21, plotted at time 6.5. The line joining (2.5, 13) and (6.5, 21) rises 8 over 4 years — a trend of +2 a year, which is exactly the step the series was built with. If the count of values is odd, the middle value is set aside so the halves stay equal, as the book directs.
 
 **Trend by moving averages.** Let a window of fixed length — 3 years, 4 quarters, 5 months — slide along the series, and at each stop write the mean of the values inside the window. The short waves average out and the trend shows through (Pakistan, pp.250–253). On 3, 5, 7, 9, 11, the 3-term moving averages are (3+5+7)/3 = 5, (5+7+9)/3 = 7, (7+9+11)/3 = 9 — a perfectly smooth line, because the steps were equal. Two honest costs, both in the book: there is no moving average for the first or last points, since the window cannot sit there; and when the period is **even** — 4 quarters, say — the averages fall *between* time points, so neighbouring averages are themselves averaged to **centre** them on a time point. Choose the window to match the wave you want to remove: a 4-quarter window removes the yearly seasonal wave, which is why moving averages are also the first step towards measuring seasonality.
+
+## Sub lesson 3 — Least-Squares Trend and Seasonal Indices
 
 **Trend by least squares.** The measured method: fit the line ŷ = a + bx that makes the squared errors smallest — the same least squares as in Correlation and Regression, with time as x. With coded time centred so that Σx = 0, the formulas shrink to **a = ȳ** and **b = Σxy/Σx²** (Pakistan, pp.253–261). Work it on five years, coded x = −2, −1, 0, 1, 2, with values y = 10, 12, 15, 17, 21. Then ȳ = 15, Σxy = (−2)(10) + (−1)(12) + 0(15) + 1(17) + 2(21) = −20 − 12 + 0 + 17 + 42 = 27, and Σx² = 4 + 1 + 0 + 1 + 4 = 10. So a = 15, b = 2.7, and the trend is **ŷ = 15 + 2.7x**. The next year, x = 3, forecasts ŷ = 23.1. The book also teaches **shifting the origin** — recentering the code when a series is extended — and the **second-degree parabolic trend**, a curve instead of a line, chosen over the straight line when it fits better, the comparison made by **Σe²**, the sum of squared errors: the smaller Σe², the better the fit (pp.253–261). Greece's business book fits the same linear trend for sales and economic series (Ch. VII, pp.205–233).
 

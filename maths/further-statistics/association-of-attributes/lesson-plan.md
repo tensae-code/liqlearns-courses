@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Association of Attributes
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Association of Attributes
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Association of Attributes
 **Place in the curriculum:** Level 123 of 136, the seventh lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** when the data are qualities, not measurements — literate or not, vaccinated or not — how to lay them in a 2×2 table, test whether the two attributes are independent, measure their association with Yule's Q, run the chi-square test of independence (with Yates' correction), and summarise a bigger table with the contingency coefficient.
 **This lesson's own level:** it stands on Collecting and Showing Data (Stage 11) — tables of counts — and on Hypothesis Testing (Level 121, same stage) for the test's shape: a claim, a statistic, a decision. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Attributes and the 2×2 Table** — sort by two attributes in the (A)/(α), (B)/(β) notation, build the 2×2 table with its totals, and tell class frequencies from ultimate frequencies. (Was depth Level 1.)
+2. **Independence and Yule's Q** — apply the independence criterion (AB) = (A)(B)/n, call an association positive, negative or complete, and compute and interpret Yule's Q. (Was depth Level 2.)
+3. **The Chi-Square Test and the Contingency Coefficient** — build expected frequencies for an r×c table, run the chi-square test with Yates' correction where it applies, compute the contingency coefficient C, and state the recorded boundary — the source book teaches no goodness-of-fit test. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Collecting and Showing Data (Stage 11) — an attribute table is a table of counts, and its row and column totals run everything that follows. Recommended, never forced.

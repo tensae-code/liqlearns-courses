@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Geometric and Experimental Probability
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Geometric and Experimental Probability
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Geometric and Experimental Probability
 **Place in the curriculum:** Level 129 of 136, the thirteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** two more ways a probability is born — from measure (a favourable length, area or volume over the whole: geometric probability) and from trials (a relative frequency that settles as trials multiply: experimental, or statistical, probability).
 **This lesson's own level:** it stands on Probability (Stage 11) — equally likely outcomes counted as m/n — and needs nothing else; area and length come from the measuring lessons it recommends.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Probability from Length and Area** — state geometric probability as favourable measure over whole measure and work a segment and a dartboard item. (Was depth Level 1.)
+2. **Regions, Meetings and the Broken Stick** — set up a region probability from a picture or an inequality, and explain the meeting problem and the broken-stick answer of 1/4. (Was depth Level 2.)
+3. **Probability from Frequency** — compute a relative frequency, say what "stabilising" means, and judge when a frequency is — and is not — a fair estimate of a probability; the closing part keeps the sources honest. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Probability (Stage 11) — geometric probability is the counting rule m/n with lengths and areas doing the counting. Recommended, never forced.

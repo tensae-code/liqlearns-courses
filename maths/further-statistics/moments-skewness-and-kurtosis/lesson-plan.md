@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Moments, Skewness and Kurtosis
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Moments, Skewness and Kurtosis
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Moments, Skewness and Kurtosis
 **Place in the curriculum:** Level 128 of 136, the twelfth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the moments of a distribution — averages of powers of the deviations — and the two shape judgements built from them: skewness (which way the distribution leans) and kurtosis (how peaked it is, by β₂).
 **This lesson's own level:** it stands on Mean Deviation and Variation (Level 127, same stage) — variance is the second moment in disguise — and on Quartiles, Percentiles and Box Plots (Level 126). It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Moments About the Mean, an Origin and Zero** — define the three moment families, state m₁ = 0 and m₂ = variance, convert a moment from an origin to the mean, and apply Sheppard's correction. (Was depth Level 1.)
+2. **Skewness by Eye, by Pearson and by Bowley** — name a skew from the tail, from the mean–median–mode order and from a box plot, and compute Pearson's and Bowley's coefficients. (Was depth Level 2.)
+3. **Moment Skewness and Kurtosis** — compute √β₁ and b₁ from moments, judge a distribution by β₂ with its Greek name, and catch the book's own slips. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Mean Deviation and Variation (Level 127, same stage) — the variance you met there is the second central moment, m₂. Recommended, never forced.

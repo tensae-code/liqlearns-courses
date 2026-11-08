@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Mean Deviation and Variation
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Mean Deviation and Variation
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Mean Deviation and Variation
 **Place in the curriculum:** Level 127 of 136, the eleventh lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring spread around the centre — mean deviation, quartile deviation, variance and standard deviation — and comparing spreads fairly with the coefficient of variation, with the two variance conventions (divide by n, divide by n − 1) shown side by side, each with its country's name on it.
 **This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Quartiles, Percentiles and Box Plots (Level 126, same stage) — the learner can already find a mean, a median and quartiles. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Range, Mean Deviation and Quartile Deviation** — say why the centre is not enough, and find a range, a mean deviation from the mean, and a quartile deviation with its coefficient. (Was depth Level 1.)
+2. **Variance, Standard Deviation and the Two Conventions** — find variance and standard deviation by the direct method, and say which denominator — n or n − 1 — a calculation used and which country's book uses it. (Was depth Level 2.)
+3. **The Coefficient of Variation and Judging Consistency** — compute a coefficient of variation, compare two sets with it, and defend the verdict — including when the raw standard deviations point the other way. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Averages and Spread (Stage 11) — every measure here is a distance from a mean or a median. Recommended, never forced.

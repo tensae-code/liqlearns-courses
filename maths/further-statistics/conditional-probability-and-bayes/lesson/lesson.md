@@ -1,21 +1,26 @@
 # Conditional Probability and Bayes' Theorem — the lesson
 
-Course: Maths · Stage: Stage 16 — Further Statistics and Probability · Lesson: Conditional Probability and Bayes' Theorem
+Course: Maths · Unit: Unit 16 — Further Statistics and Probability · Lesson: Conditional Probability and Bayes' Theorem
 Built from: Kuwait, Grades 10 and 11 — Egypt, Statistics Grade 12 — Cambodia, Grade 11 Basic, Grade 11 Advanced and the PRIVATE Probability booklet — Greece, Grade 12 EPAL — Kazakhstan, Shynybekov Algebra 9 — Nicaragua, Grade 11 — Iraq, Grades 9 and 11 Scientific — Sierra Leone, SSS 3 (tree diagrams only)
 
 ## Do it first
 Put 5 red counters and 5 blue counters in a bag. Draw one out and look at it. Do not put it back. Now, before you draw again: has the chance of red on the second draw changed? Say the new chance out loud, and say *why*. You have just met this whole lesson: a chance that depends on what already happened. The books call that chance **conditional** — the chance of one event *given* another.
 
-## Then the explanation
+## Sub lesson 1 — Reading "Given"
+
 **What "given" means.** P(A|B) is read "the probability of A given B". It means: B has happened — that is now known — and inside that smaller world, what is the chance of A? The bar is not division and it is not a fraction bar; it is the word *given*. Nicaragua's Grade 11 book introduces conditional probability this way, after independent events (p.139), and puts the formula in a box (p.142). Cambodia's Grade 11 Advanced book writes the same idea as P(B|A) and pairs it with P(A∩D) = P(A)·P(D|A) (p.129). Cambodia's Grade 11 Basic book introduces conditional probability inside its probability chapter (§3.1, the lesson at printed pp.197–218).
 
 **The formula.** Given shrinks the sample space to B, so the count becomes: P(A|B) = P(A∩B) / P(B) — the outcomes that are in both A and B, divided by the outcomes in B. Kazakhstan's Shynybekov Algebra 9 (§5.1.5, p.187) builds it from counts, writing the conditional probability as P_B(A), and proves P(A·B) = P(B)·P_B(A) from those counts. Egypt's Statistics book teaches conditional probability as its own lesson (3-2, p.68). Greece's Grade 12 EPAL book teaches conditional probability and independent events together (§3.4, in the probabilities chapter, pp.138–178). Kuwait's Grade 10 book works a pair that shows the two directions are different questions: in one worked example P(B|A) = 2/3 while P(A|B) = 1/3 (Ex (10), p.202), and in the next P(B|A) = 1/3 (Ex (11), p.202). Read the letter after the bar first — that letter is your new whole.
+
+## Sub lesson 2 — Independence, Dependence and Trees
 
 **Independent against dependent.** Two events are **independent** when one happening does not change the other's chance: then, and only then, P(A|B) = P(A), and P(A∩B) = P(A)·P(B). Egypt's Statistics book gives independent events their own lesson right after the conditional lesson (3-3, p.77). Iraq's Grade 9 book teaches independent and dependent compound events (lesson 6-5, p.155, after mutually exclusive events in 6-4, p.151), and its Grade 11 Scientific book states the independence rule P(A∩B) = P(A)·P(B) with the general addition rule P(A∪B) = P(A) + P(B) − P(A∩B) (pp.202–210). Kuwait's Grade 10 lesson 10-5 is built on exactly this split — independent and dependent events first, then conditional probability, then Bayes (pp.192–205). A draw *with* replacement is independent: the bag is restored. A draw *without* replacement is dependent: the bag has changed.
 
 **Tree diagrams — the dependent case drawn.** Sierra Leone's SSS 3 book teaches this ground through trees alone, as filed: lesson L105 (printed p.27) draws probability spaces with tree diagrams, and L106 (printed p.30) draws trees for conditional probability — probabilities that change between trials, counters drawn without replacement, and conditional branches such as oversleeping and then remembering homework. That book uses no P(A|B) notation, as filed — the tree carries the idea before the symbol does. The rule of the tree is the same everywhere: multiply along a branch, add across the ends that give the result you want. Kuwait's Grade 10 book works the without-replacement count directly too: the chance of two red balls drawn from its bag comes out 5/14 (Ex (9), p.200).
 
 **The multiplication rule, turned around.** Rearranging the formula gives the working form: P(A∩B) = P(A)·P(B|A) = P(B)·P(A|B). This is the form you use along a tree branch, and it is the form Cambodia's Grade 11 Advanced book prints (p.129). It also guards the complement work around it: Kuwait's Grade 10 book, in a worked example at printed p.197, is taught here corrected — with P(A∪B) = 0.9, the complement of the union is P((A∪B)̄) = 1 − P(A∪B) = 0.1, one minus the *union's* probability.
+
+## Sub lesson 3 — Total Probability and Bayes
 
 **Total probability — splitting by cases.** Often an event B can arrive by several different roads: through A₁, or through A₂, or through A₃, where the roads split the whole space and do not overlap. Then P(B) = P(A₁)·P(B|A₁) + P(A₂)·P(B|A₂) + P(A₃)·P(B|A₃) — each road's share, weighted by the chance of taking that road and then reaching B. Cambodia's PRIVATE Probability booklet (Khem Putthi — a private booklet, not a MoEYS book) teaches Bayes' theorem together with this total-probability formula in its Lesson 2 (pp.85–94), worked on machine-defect and orange-origin examples, all verified correct as filed.
 

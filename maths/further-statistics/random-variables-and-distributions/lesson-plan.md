@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Random Variables and Distributions
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Random Variables and Distributions
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Random Variables and Distributions
 **Place in the curriculum:** Level 118 of 136, the second lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a random variable — a number tied to each outcome — and the named distributions that say how likely each of its values is: binomial, hypergeometric, Poisson, uniform and normal, with expectation, variance and the CDF.
 **This lesson's own level:** it stands on Probability (Stage 11) and on Conditional Probability and Bayes' Theorem (Level 117, same stage) — events, chances that add to 1, and chances that change when the situation changes. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Variables, pmf and pdf** — say what a random variable is, split discrete from continuous, write a pmf table and check it sums to 1, and say what a pdf's total area means. (Was depth Level 1.)
+2. **Expectation, Variance and the CDF** — find E(X) and Var(X) from a table, and build the CDF F(x) = P(X ≤ x) step by step. (Was depth Level 2.)
+3. **The Named Distributions, Z-Scores and the Empirical Rule** — choose and work the right named distribution — binomial, hypergeometric, Poisson, uniform, geometric or normal — standardise with a z-score, and apply the empirical rule 68–95–99.7. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Probability (Stage 11) — a distribution is a probability list with a number attached to each outcome. Recommended, never forced.

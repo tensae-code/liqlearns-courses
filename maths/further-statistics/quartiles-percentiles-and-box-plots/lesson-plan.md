@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Quartiles, Percentiles and Box Plots
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Quartiles, Percentiles and Box Plots
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Quartiles, Percentiles and Box Plots
 **Place in the curriculum:** Level 126 of 136, the tenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** describing a set of values by where its quarters, tenths and hundredths fall — quartiles, deciles and percentiles, in raw and grouped data — summed up in the five-number summary, drawn as a box-and-whisker plot, and read back off a cumulative frequency curve.
 **This lesson's own level:** it stands on Averages and Spread (Stage 11), where the median, quartiles and cumulative frequency curves first appear — this lesson takes that ground in depth: deciles and percentiles, grouped interpolation, and reading percentiles from the ogive. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Quartiles, the Five-Number Summary and the Box Plot** — order data and find Q1, the median and Q3, state the five-number summary, draw and read a box-and-whisker plot, and find the interquartile range. (Was depth Level 1.)
+2. **Deciles, Percentiles, Grouped Interpolation and the Semi-Interquartile Range** — define and find deciles and percentiles in raw and grouped data by interpolation, find the semi-interquartile range, and read Ethiopia's teacher-evidence guide at its corrected values. (Was depth Level 2.)
+3. **Cumulative Frequency Curves and Comparing Plots** — draw an ogive, read the median, quartiles and any percentile off it, and compare two box plots on one scale by middle and spread. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Averages and Spread (Stage 11) — the median and the first quartiles live there; here they grow into deciles, percentiles and the full five-number summary. Recommended, never forced.

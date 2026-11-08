@@ -1,12 +1,13 @@
 # Mean Deviation and Variation — the lesson
 
-Course: Maths · Stage: Stage 16 — Further Statistics and Probability · Lesson: Mean Deviation and Variation
+Course: Maths · Unit: Unit 16 — Further Statistics and Probability · Lesson: Mean Deviation and Variation
 Built from: Bangladesh, Class 9 (Ch. 9, Measures of Dispersion) — Laos, Grade 9 (L44) — Pakistan, Statistics Class 11 (Ch. 4)
 
 ## Do it first
 Two cricket batsmen finish a season. Batsman A's scores: 30, 91, 0, 64, 42, 80, 30, 5, 117, 71. Batsman B's scores: 53, 46, 48, 50, 53, 53, 58, 60, 57, 52. Bangladesh's Class 9 book opens its dispersion chapter with exactly these two men (Ch. 9, pp.212–214) — and both have mean 53 and median 53. Before anyone names anything, answer this: if you could pick only one of them for tomorrow's match, which one, and why? You felt it at once: B is steady, A is a gamble. This lesson gives that feeling its measures.
 
-## Then the explanation
+## Sub lesson 1 — Range, Mean Deviation and Quartile Deviation
+
 **Why the centre is not enough.** A mean or a median tells you where the middle is; it says nothing about how far the values stray from it. The straying is called **dispersion**, or spread, and Bangladesh's chapter is built on the batsmen above: same centre, different spread, different decision (pp.212–214).
 
 **The range.** The quickest spread is the **range**: R = highest − lowest for single values, and R = upper limit of the top class − lower limit of the bottom class for grouped data (Bangladesh, p.215). Batsman A ranges over 117 − 0 = 117 runs; Batsman B over 60 − 46 = 14. The range is honest but fragile — one wild value moves it — and Bangladesh's book itself moves on quickly to surer measures, noting everyday uses such as weather highs and lows and share prices (p.216).
@@ -15,9 +16,13 @@ Two cricket batsmen finish a season. Batsman A's scores: 30, 91, 0, 64, 42, 80, 
 
 **Quartile deviation.** Spread can also be read off the quartiles, which is Pakistan's way in its dispersion chapter (Ch. 4, pp.86–102): the **quartile deviation** (also called the semi-interquartile range) is QD = (Q3 − Q1)/2 — half the stretch of the middle half of the data — and its relative form, the **coefficient of quartile deviation**, is (Q3 − Q1)/(Q3 + Q1). One honesty note, kept exactly as filed: Bangladesh's chapter opener *names* quartile deviation in its diagram (p.211) but never teaches it, so nothing about quartile deviation in this lesson is cited to Bangladesh — it stands on Pakistan.
 
+## Sub lesson 2 — Variance, Standard Deviation and the Two Conventions
+
 **Variance and standard deviation.** Square the distances instead of ignoring their signs, average the squares, and you have the **variance**, σ² = (1/n)Σ(xᵢ − x̄)²; its square root is the **standard deviation** σ, back in the data's own units (Bangladesh, pp.223–232). The same chapter gives the computing form σ² = (Σxᵢ²/n) − x̄² and works Batsman B's variance as **17.4** — small, as a steady player's should be (p.224). Its family-ages comparison is taught corrected: in the English version, p.225 claims Thomas's family has the much larger dispersion — that is backwards (and the Bangla original is correct): Aleya's family variance is 1750/6 ≈ **291.67** against Thomas's 2480/31 = **80**, so Aleya's is the larger spread. Bangladesh also teaches the assumed-mean, step-deviation method: eight students' weights with A = 59 give Σd = −24 and Σd² = 396, so σ = √40.5 ≈ **6.36** (pp.229–232); its grouped final-match table gives σ ≈ **5.33** (the book prints 5.32 — a rounding slip, taught corrected). And the history is taught corrected: the book's p.223 says Karl Pearson introduced the standard deviation in 1983 — the true year is **1893**.
 
 **The two denominator doors — a country's own way is content.** Here the library honestly splits, and this lesson keeps both doors labelled. **Pakistan's way:** its Statistics Class 11 book defines *both* the population variance σ² and the sample variance S² with denominator **n** (Ch. 4) — in that book, sample or population, you divide by the count. **Laos's way:** its Grade 9 book defines the **sample** variance as s² = Σ(x − x̄)²/(n − 1), dividing by one less than the count, and works grouped rainfall data to s² = **147.37** (L44, p.239). Neither book is wrong inside its own convention; what would be wrong is mixing them silently. So in this course, every variance answer names its door: "÷ n, Pakistan's convention" or "÷ (n − 1), Laos's sample convention."
+
+## Sub lesson 3 — The Coefficient of Variation and Judging Consistency
 
 **The coefficient of variation — comparing fairly.** A standard deviation of 5 means little until you know the mean it spreads around: 5 around a mean of 10 is wild; 5 around a mean of 500 is tight. Pakistan's chapter therefore closes the family with the **coefficient of variation**, CV = (σ/x̄) × 100% — spread as a percentage of the mean (Ch. 4). The smaller CV wins the consistency contest, whatever the units or the size of the numbers. Work it on the absent students: their squared distances from 9 total 148, so σ² = 148/8 = 18.5 (Pakistan's ÷ n door), σ ≈ 4.30, and CV ≈ 4.30/9 × 100% ≈ **47.8%** — a very uneven attendance pattern, said in one fair number.
 

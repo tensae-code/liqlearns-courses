@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Odds
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Odds
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Odds
 **Place in the curriculum:** Level 131 of 136, the fifteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** odds — probability said as a comparison, favourable against unfavourable — and how to turn odds into probability and probability back into odds, inside the weighting-and-fairness lesson where Kuwait's book teaches them.
 **This lesson's own level:** it stands on Probability (Stage 11) alone — favourable outcomes over all outcomes — and on nothing else. It is a small lesson because its source is one lesson of one book, and it stays small on purpose.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Stating Odds** — state the odds of a simple event as favourable : unfavourable, simplified, from the book's own die case. (Was depth Level 1.)
+2. **Odds ↔ Probability** — convert odds a : b to the probability a/(a + b) and a probability back to odds, landing on the book's own pairs; the pens box is worked whole here — its odds-of-blue case is also Sub lesson 1's stating ground. (Was depth Level 2.)
+3. **Odds and Fairness** — judge a two-sided game fair or unfair from the outcome counts, and defend the verdict in a whole sentence. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Probability (Stage 11) — odds are a probability wearing a comparison's clothes; the conversion needs the probability first. Recommended, never forced.

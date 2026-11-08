@@ -1,12 +1,13 @@
 # Association of Attributes — the lesson
 
-Course: Maths · Stage: Stage 16 — Further Statistics and Probability · Lesson: Association of Attributes
+Course: Maths · Unit: Unit 16 — Further Statistics and Probability · Lesson: Association of Attributes
 Built from: Pakistan, Statistics Class 12 (the sole full source) — Greece, Elements of Probability and Statistics C' Lykeiou (W11) (contingency tables, descriptive only)
 
 ## Do it first
 Think of 100 people. For each person you know two yes/no things: are they literate, and are they employed? You cannot average a yes. But you can count: 40 people are both literate and employed, 20 are literate and not employed, 10 are not literate and employed, and 30 are neither. Four counts, four boxes. Before any name is given, guess: if literacy and employment had *nothing* to do with each other, how many of the 100 would you expect in the both-box? Hold your guess. This lesson — built on one country's full treatment, Pakistan's Statistics Class 12, Ch. 15 (pp.215–240) — gives that guess a formula, the leaning of the table a measure, and the whole question a test.
 
-## Then the explanation
+## Sub lesson 1 — Attributes and the 2×2 Table
+
 **Attributes and dichotomy.** A measurement gives a number; an **attribute** gives a quality — present or absent, yes or no. Pakistan's chapter opens by classifying a population by attributes: call the attribute A (literate) and its absence α (not literate), a second attribute B (employed) and its absence β. Splitting by one attribute is a **dichotomy**; the counts carry their own notation: (A) is the number with A, (AB) the number with both A and B, and so on. Two distinctions run the whole chapter. A **class frequency** like (A) counts everyone in a class, including those shared with other classes; the four boxes (AB), (Aβ), (αB), (αβ) are the **ultimate class frequencies** — the smallest boxes, where every person sits in exactly one. With k attributes there are 3^k class frequencies (each attribute: present, absent, or ignored) and 2^k ultimate ones. And a table must be **consistent**: no box negative, and every class frequency at least as large as any box inside it — a table that fails this is wrong before any test touches it (Ch. 15, pp.215–216).
 
 **The 2×2 table.** Lay the four ultimate frequencies in a square:
@@ -19,6 +20,8 @@ Think of 100 people. For each person you know two yes/no things: are they litera
 
 The margins are the class frequencies; the boxes are the ultimate ones; everything in this lesson is arithmetic on these nine numbers.
 
+## Sub lesson 2 — Independence and Yule's Q
+
 **The independence criterion.** If A and B have nothing to do with each other, the share of B-holders should be the same inside A as in the whole population: (AB)/(A) = (B)/n, which rearranges to the chapter's exact test: **(AB) = (A)(B)/n**. For our table the independence number is 60 × 50/100 = **30** — but the real (AB) is 40. The both-box holds ten more people than independence predicts, so the attributes lean together (Ch. 15, pp.217–219).
 
 **Positive, negative and complete association — and Yule's Q.** Pakistan names the three cases (pp.219–220): **positive association** when (AB) > (A)(B)/n, as here; **negative association** when (AB) falls below it; **complete association** when one box empties the table's opposition — everyone with A also has B, or no one with A has B. The size of the leaning is **Yule's coefficient of association**:
@@ -26,6 +29,8 @@ The margins are the class frequencies; the boxes are the ultimate ones; everythi
 Q = ((AB)(αβ) − (Aβ)(αB)) / ((AB)(αβ) + (Aβ)(αB))
 
 For our table: Q = (40×30 − 20×10)/(40×30 + 20×10) = 1000/1400 ≈ **0.71** — a strong positive association. Q lives in [−1, 1]: Q = 1 or −1 is complete association, and Q = 0 is exactly independence. Note what Q uses: only the four boxes, never the margins directly — it measures the table's internal lean.
+
+## Sub lesson 3 — The Chi-Square Test and the Contingency Coefficient
 
 **Contingency tables.** Two attributes with more than two classes each — education level against income band, say — make an **r×c contingency table**: r rows, c columns, a count in every cell (Ch. 15, p.223). Greece's C' Lykeiou book teaches the same laying-out descriptively: contingency tables and bar charts (W11, Unit 2.5, pp.88–105), and comparing a quantitative characteristic across the categories of a qualitative one (Unit 2.6, pp.106–119). Greece's treatment stops there — descriptive only, no test, no Q, as filed — which is why the machinery that follows rests on Pakistan alone.
 

@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Sampling and Sampling Distributions
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Sampling and Sampling Distributions
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Sampling and Sampling Distributions
 **Place in the curriculum:** Level 119 of 136, Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sampling — populations and censuses, the sampling methods, sampling and non-sampling errors, bias, and sampling distributions up to the Central Limit Theorem — with the kinds of data, population statistics and randomised response as named parts.
 **This lesson's own level:** it stands on the random-variables-and-distributions lesson (Level 118) — the learner can already read a distribution and its mean and spread. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Populations, Censuses and Kinds of Data** — say what a population, a sample, a frame and a census are, choose census against sample for a given job, and sort data into discrete, continuous, nominal and ordinal. (Was depth Level 1.)
+2. **The Sampling Methods, Bad Samples and Errors** — draw simple random, stratified and systematic samples correctly, estimate a whole population from a sample, criticise an unrepresentative survey, and separate sampling from non-sampling errors, with bias as E(T) − θ. (Was depth Level 2.)
+3. **Sampling Distributions and the Central Limit Theorem** — enumerate a small sampling distribution whole, read its mean and standard error off it, state the Central Limit Theorem, and read population statistics (Libya's own way) and the randomised-response idea. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Random Variables and Distributions (Level 118, same stage) — a sampling distribution is a distribution of a statistic. Recommended, never forced.

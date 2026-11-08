@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Index Numbers
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Index Numbers
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Index Numbers
 **Place in the curriculum:** Level 125 of 136, the ninth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** an index number — one number that measures how a whole group of prices (or quantities) has changed against a base year — built unweighted and weighted (Laspeyres, Paasche, Fisher, Marshall–Edgeworth), carried through the consumer price index to purchasing power and inflation.
 **This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Fractions, Decimals and Percentages (Stage 4) — relatives are percentages, and the weighted indices are weighted means in disguise. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Simple Indices, Relatives and Chain Indices** — say what an index number measures, build the simple aggregative index and the average of relatives, and work link relatives into a chain index. (Was depth Level 1.)
+2. **The Weighted Indices** — build Laspeyres, Paasche, Fisher and Marshall–Edgeworth from one table, and say whose basket each uses. (Was depth Level 2.)
+3. **CPI, Purchasing Power, Changing the Base and Inflation** — describe how a CPI is built, find purchasing power as 1/CPI, rebase an index series, build Iran's basket index, and compute an inflation rate. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Averages and Spread (Stage 11) — the average of relatives and the weighted indices are means, plain and weighted. Recommended, never forced.

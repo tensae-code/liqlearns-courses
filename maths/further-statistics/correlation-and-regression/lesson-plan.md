@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Correlation and Regression
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Correlation and Regression
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Correlation and Regression
 **Place in the curriculum:** Level 122 of 136, the sixth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** when two quantities are measured together, how to see their link in a scatter diagram, measure it with Pearson's r and Spearman's rank coefficient, fit the least-squares regression line and use it to predict — and why a strong correlation still does not prove that one thing causes the other.
 **This lesson's own level:** it stands on Collecting and Showing Data and Averages and Spread (Stage 11) — paired data, means and standard deviations — and on Hypothesis Testing (Level 121, same stage) only for the closing ANOVA part's way of splitting variation. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Scatter Diagrams and the Mean Point** — plot paired data as a scatter diagram, find and plot the mean point, and describe the cloud's direction and strength. (Was depth Level 1.)
+2. **Pearson's r and Spearman's Rank Coefficient** — compute Pearson's r and place it in the strength bands, rank paired data with ties averaged, and compute Spearman's rank coefficient from Σd². (Was depth Level 2.)
+3. **The Regression Line, Determination, Causation and ANOVA** — fit the least-squares regression line and predict with it, use the coefficient of determination r², explain why correlation is not causation, and say what ANOVA compares. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Collecting and Showing Data (Stage 11) — a scatter diagram is a chart of paired measurements. Recommended, never forced.

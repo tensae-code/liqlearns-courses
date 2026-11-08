@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Estimation and Confidence Intervals
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Estimation and Confidence Intervals
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Estimation and Confidence Intervals
 **Place in the curriculum:** Level 120 of 136, Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** estimation — point against interval estimation, unbiasedness, and confidence intervals for means, proportions and differences — closing with the German tank problem.
 **This lesson's own level:** it stands on Sampling and Sampling Distributions (Level 119, same stage) — the learner can already build a sampling distribution and name its standard error. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Point Estimation and Unbiasedness** — separate estimator, estimate, point and interval estimation; judge unbiasedness by E(T) = θ; and keep the point estimation error apart from the standard error. (Was depth Level 1.)
+2. **Confidence Intervals for a Mean** — build a z interval with σ known and a t interval with σ unknown and small n, and say correctly what the confidence level means. (Was depth Level 2.)
+3. **Proportions, Differences and the German Tank Problem** — build intervals for a proportion and for differences of means and proportions, describe Iran's machinery-free estimation, and run the German tank estimate. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Sampling and Sampling Distributions (Level 119, same stage) — a confidence interval is a sampling distribution turned into a range. Recommended, never forced.

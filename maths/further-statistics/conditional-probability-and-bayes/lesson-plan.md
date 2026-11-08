@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Conditional Probability and Bayes' Theorem
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Conditional Probability and Bayes' Theorem
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Conditional Probability and Bayes' Theorem
 **Place in the curriculum:** Level 117 of 136, the first lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the chance of one event *given* that another has happened — P(A|B) — and how to turn a conditional probability around with Bayes' theorem.
 **This lesson's own level:** it stands on Probability (Stage 11) — sample spaces, events, P(A) = favourable / total, the addition and multiplication laws. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reading "Given"** — read P(A|B) in words and work P(A|B) = P(A∩B) / P(B) from counts or from given probabilities. (Was depth Level 1.)
+2. **Independence, Dependence and Trees** — test independence with P(A∩B) = P(A)·P(B), and draw and use a tree for two draws without replacement, with the second branches correctly changed; the multiplication rule turned around is the working form along a branch. (Was depth Level 2.)
+3. **Total Probability and Bayes** — split a probability by cases with the total-probability formula and turn a conditional probability around with Bayes' theorem. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Probability (Stage 11) — sample spaces, events and the two laws. Recommended, never forced.

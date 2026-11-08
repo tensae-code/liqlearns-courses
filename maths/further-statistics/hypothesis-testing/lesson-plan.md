@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Hypothesis Testing
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Hypothesis Testing
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Hypothesis Testing
 **Place in the curriculum:** Level 121 of 136, Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** hypothesis testing — H₀ and H₁, Type I and Type II errors, test statistics, and the Z, t, paired-t and proportion tests, run as an ordered procedure.
 **This lesson's own level:** it stands on Estimation and Confidence Intervals (Level 120, same stage) — the learner can already build an interval and name a standard error. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Hypotheses, Tails and the Two Errors** — state H₀ and H₁ for a claim, tell one-tailed from two-tailed and simple from composite, and name the Type I and Type II errors with α and β. (Was depth Level 1.)
+2. **The Procedure and Tests of a Mean** — run the nine-step procedure, choose Z or t correctly, and decide from the test statistic and the critical region — including Kuwait's two-sided-only cases with their recorded limits. (Was depth Level 2.)
+3. **Proportions, Differences and Paired Tests** — test a proportion, a difference of two means, a paired difference by the paired t, and a difference of two proportions; the closing part records who does NOT teach this. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Estimation and Confidence Intervals (Level 120, same stage) — a test and an interval are two readings of the same sampling distribution. Recommended, never forced.

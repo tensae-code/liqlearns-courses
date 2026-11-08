@@ -1,17 +1,20 @@
 # Index Numbers — the lesson
 
-Course: Maths · Stage: Stage 16 — Further Statistics and Probability · Lesson: Index Numbers
+Course: Maths · Unit: Unit 16 — Further Statistics and Probability · Lesson: Index Numbers
 Built from: Pakistan, Statistics Class 11 — Libya, Grade 12 Statistics (Humanities) — Iran, Mathematics and Statistics (2), Grade 11 — Iran, Statistics and Probability, Grade 11
 
 ## Do it first
 Price one small basket twice. Take bread, milk and soap. In a year you choose as your base, say their prices were 20, 30 and 50. Now they are 25, 36 and 60. Try, before any formula, to answer in *one number*: "prices rose by ___." Each item rose by a different share — 25%, 20%, 20% — so one honest number has to combine them. That combining is this lesson: the index number.
 
-## Then the explanation
+## Sub lesson 1 — Simple Indices, Relatives and Chain Indices
+
 **What an index number is.** An **index number** measures the change in a group of related values between a **base period** (set to 100) and a current period. Pakistan's Statistics Class 11 book builds the topic in full (Ch. 5, pp.128–158): simple index numbers with base = 100; the types — price, quantity and value indices, simple and composite; the uses, including the CPI, WPI and SPI; and the **construction steps**: state the purpose, choose the items, choose the base year, choose the weights, with weights W = V₀/ΣV₀ built from base-year values, and choose the average. Libya's Grade 12 Humanities book starts from the same place — the definition and importance of index numbers, worked on Libyan price data, including a basket of goods whose cost rises about 80% between two years (Ch. 2, pp.33–58). An index is always a comparison, never a price: 125 means "125% of the base", a rise of 25%.
 
 **The unweighted indices.** Two first methods ignore quantities entirely. The **simple aggregative index** adds the prices themselves: Σpₙ/Σp₀ × 100. On the opening basket: (25 + 36 + 60)/(20 + 30 + 50) × 100 = 121/100 × 100 = **121**. The **average of relatives** turns each price into a relative first — pₙ/p₀ × 100 — and then averages the relatives, by the **mean, the median or the geometric mean**, all three in Pakistan's chapter: (125 + 120 + 120)/3 ≈ **121.7** by the mean. The relatives method does not care what units the prices were in; the aggregative method does, which is its known weakness.
 
 **Link relatives and chain indices.** A **link relative** compares each year only with the year just before it. Multiply successive link relatives (as decimals) and you build a **chain index** against a fixed base. Pakistan's worked Example 5.6 (p.140) carries a book error, taught corrected here: in its link-relative table, the **potato** link relatives were misprinted, copied from the onion column. The correct values are **111.1** for 1981 (30/27 × 100) and **100.0** for 1982 (30/30 × 100) — not the printed 112.5 and 105.6. The book's totals, means and chain indices are correct once those two cells are corrected, as filed.
+
+## Sub lesson 2 — The Weighted Indices
 
 **The weighted indices — whose basket?** Real baskets have quantities, and the four named indices differ by which quantities do the weighing (Pakistan, Ch. 5; Libya, Ch. 2 — the weighted price relative index and the weighted aggregative price index, with Laspeyres, Paasche, Marshall–Edgeworth and Fisher all named in Libya's chapter):
 
@@ -21,6 +24,8 @@ Price one small basket twice. Take bread, milk and soap. In a year you choose as
 - **Marshall–Edgeworth** weighs with the **sum of both years'** quantities: ME = Σpₙ(q₀ + qₙ)/Σp₀(q₀ + qₙ) × 100 — neither year's basket, but the two added together (Libya, Ch. 2).
 
 Pakistan's Example 5.7 (p.143) is the lesson's worked set — taught corrected, never as printed. Two of its p₀qₙ cells are misprinted (B prints 140, correct 9 × 20 = 180; D prints 80, correct 10 × 5 = 50), so **Σp₀qₙ = 480, not the printed 470**. With that correction: **Paasche = 110.4, not the printed 112.8**, and **Fisher = 114.5, not the printed 115.8**. (One more cell, B's p₀q₀, prints 105 where 9 × 15 = 135 — but the column total 425 is right, so **Laspeyres 118.8 stands unaffected**.) Check Fisher for yourself: √(118.8 × 110.4) ≈ √13116 ≈ 114.5. Notice the order the corrected set makes sense of: Laspeyres highest, Paasche lowest, Fisher between them — the usual pattern, because the base basket holds more of what has risen most.
+
+## Sub lesson 3 — CPI, Purchasing Power, Changing the Base and Inflation
 
 **The CPI, and purchasing power.** The **consumer price index** is the index a country publishes for the cost of living; Pakistan's chapter names the family — **CPI** (consumer), **WPI** (wholesale), **SPI** (sensitive) — and describes the CPI as computed by Pakistan's Federal Bureau of Statistics from **464 items in 12 groups**, by the **family budget method, ΣIW/ΣW**: each group's index I weighted by its share W of family spending. Inflation rates are read off the CPI's changes. And the chapter's sharpest definition: the **purchasing power of money = 1/CPI**. With the CPI at 1.25 (index 125), purchasing power is 1/1.25 = 0.80 — today's money buys 80% of what base-year money bought. Libya's chapter adds the standard (base) basket idea and **changing the base**: to rebase a series, divide every index by the index of the new base year and multiply by 100. A series reading 120, 150, 180 on the old base, rebased to the middle year, reads 80, 100, 120.
 

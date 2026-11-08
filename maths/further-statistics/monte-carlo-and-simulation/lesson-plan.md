@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Monte Carlo and Simulation
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Monte Carlo and Simulation
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Monte Carlo and Simulation
 **Place in the curriculum:** Level 130 of 136, the fourteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** manufacturing chance on purpose — random numbers (from a printed table and from the linear congruential generator), simulation of real experiments with them, and the Monte Carlo idea: estimate a probability by the frequency in a long simulated run — closing with Mendel's pea ratios read as a probability model tested against real counts.
 **This lesson's own level:** it stands on Geometric and Experimental Probability (Level 129, same stage) — a simulation is an experimental probability with the trials manufactured instead of performed. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Random Numbers and Digits** — say what random digits are for, read a short run off a table under a fixed rule, and turn digits into coin tosses without changing the rule mid-run. (Was depth Level 1.)
+2. **The Congruential Generator and PPS Ranges** — run the linear congruential generator xₙ₊₁ = axₙ + b (mod m) from a seed and spot the cycle returning; Table 7.1 is worked here — its first half is Sub lesson 1's table-reading at work — and ranges are assigned in proportion to cumulative probabilities (PPS). (Was depth Level 2.)
+3. **Monte Carlo and Testing a Model** — state the Monte Carlo method, judge how long a run must be before its frequency can be trusted, and test the Mendel model's 0.25/0.5/0.25 against counts in the closing part. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Geometric and Experimental Probability (Level 129, same stage) — simulation spends its whole life estimating probabilities by frequencies. Recommended, never forced.

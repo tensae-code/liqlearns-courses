@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Time Series
 
-**Course:** Maths · **Stage:** Stage 16 — Further Statistics and Probability · **Lesson:** Time Series
+**Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Time Series
 **Place in the curriculum:** Level 124 of 136, the eighth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a time series — values recorded in time order — pulled apart into its four components (trend, seasonal, cyclical, irregular), with the trend measured four ways (freehand, semi-averages, moving averages, least squares) and seasonal indices found by simple averages.
 **This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Correlation and Regression (Level 122, same stage) — means, and the least-squares line, are already in the learner's hands. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Series and Its Four Components** — say what a time series is, draw its historigram, name the four components T, S, C, I, walk the business cycle in order, and state the additive and multiplicative models. (Was depth Level 1.)
+2. **The Trend by Freehand, Semi-Averages and Moving Averages** — draw a freehand trend and state its limits, work semi-averages from two half-means plotted at their midpoints, and compute moving averages, centred for an even period. (Was depth Level 2.)
+3. **Least-Squares Trend and Seasonal Indices** — fit a coded least-squares trend and use it to forecast, and find seasonal indices by simple averages that average to 100; the closing part reads a series Iran's way. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Averages and Spread (Stage 11) — semi-averages and moving averages are means of pieces of the series. Recommended, never forced.
