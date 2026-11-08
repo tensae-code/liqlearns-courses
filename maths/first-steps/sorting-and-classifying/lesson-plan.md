@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Sorting and Classifying
 
-**Course:** Maths · **Stage:** Stage 18 — First Steps · **Lesson:** Sorting and Classifying
-**Place in the curriculum:** Level 135 of 136, inside Stage 18 — First Steps (maths/CURRICULUM.md). Stage 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the first grouping in all of mathematics.
+**Course:** Maths · **Unit:** Unit 18 — First Steps · **Lesson:** Sorting and Classifying
+**Place in the curriculum:** Level 135 of 136, inside Unit 18 — First Steps (maths/CURRICULUM.md). Unit 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the first grouping in all of mathematics.
 **The one thing this lesson teaches:** sorting real things into groups — first by one likeness (all the red ones together), then by two likenesses at once — and saying the rule of each group out loud.
 **This lesson's own level:** it stands on looking and touching only. It needs no numbers and no reading. Pencil and Lines (Level 1, the shared course) is its companion for drawing the groups and their circles.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Sorting By One Attribute** — sort a mixed pile by one named attribute (size, shape, colour or use) and say the rule of each group. (Was depth Level 1.)
+2. **Sorting Re-Sorting and the Not Group** — sort the same set a second way, explain why the groups change, and use a "not" group so nothing is left homeless. (In the lesson text the "not" group passage is placed with this sub lesson, ahead of the two-attributes passage it was written after.) (Was depth Level 2.)
+3. **Sorting By Two Attributes and Sorting for Data** — sort by two attributes at once in two passes, name each group's two-part rule, and say why sorting opens data work. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — sorting is drawn as circles and groups on paper. Recommended, never forced.

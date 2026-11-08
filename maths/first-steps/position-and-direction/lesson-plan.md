@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Position and Direction
 
-**Course:** Maths · **Stage:** Stage 18 — First Steps · **Lesson:** Position and Direction
-**Place in the curriculum:** Level 134 of 136, the first lesson of Stage 18 — First Steps (maths/CURRICULUM.md). Stage 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the words for where things are.
+**Course:** Maths · **Unit:** Unit 18 — First Steps · **Lesson:** Position and Direction
+**Place in the curriculum:** Level 134 of 136, the first lesson of Unit 18 — First Steps (maths/CURRICULUM.md). Unit 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the words for where things are.
 **The one thing this lesson teaches:** the position words — in and out, above and below, over and under, in front and behind, left and right, far and near, before and after, between — the counting words for places in a line (first, second, third … tenth), and the eight points of the compass at primary level.
 **This lesson's own level:** it stands on nothing but the learner's own body and room. It needs no numbers at all. Pencil and Lines (Level 1, the shared course) is its companion for drawing the maps and lines this lesson plays with.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Position The Pairs for One Thing** — use in/out, above/below, over/under and inside/outside/between correctly for real things and pictures. (Was depth Level 1.)
+2. **Position Front, Back, Left, Right and Places in a Line** — use front/back, left/right, far/near and before/after correctly, and name places first to tenth from a named end of a line. (Was depth Level 2.)
+3. **Position The Compass Points and Routes** — name all eight compass points on a north-up map and follow or give a short route in steps. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — the learner draws the line of children and the little maps. Recommended, never forced.

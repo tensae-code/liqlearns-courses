@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Repeating Patterns
 
-**Course:** Maths · **Stage:** Stage 18 — First Steps · **Lesson:** Repeating Patterns
-**Place in the curriculum:** Level 136 of 136, the last lesson of Stage 18 — First Steps (maths/CURRICULUM.md). Stage 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the first pattern work in the course.
+**Course:** Maths · **Unit:** Unit 18 — First Steps · **Lesson:** Repeating Patterns
+**Place in the curriculum:** Level 136 of 136, the last lesson of Unit 18 — First Steps (maths/CURRICULUM.md). Unit 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the first pattern work in the course.
 **The one thing this lesson teaches:** repeating patterns — of shapes, colours, sounds and movements — how to find the part that repeats (the pattern rule), continue a pattern, fix a broken one, and meet growing and shrinking patterns.
 **This lesson's own level:** it stands on sorting (Level 135, same stage) — a pattern is a sorted row with a rule. It needs no counting beyond small numbers the learner can say. Pencil and Lines (Level 1, the shared course) is its companion for drawing pattern rows.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Patterns Continuing a Repeating Pattern** — continue a repeating pattern of shapes or colours and say what comes next, for repeats of two and of three. (Was depth Level 1.)
+2. **Patterns The Rule, Sounds and Movements, and Fixing Errors** — name the smallest part that repeats, continue a sound or movement pattern, and find and fix the wrong piece in a broken pattern. (Was depth Level 2.)
+3. **Patterns Growing and Shrinking** — continue a growing or shrinking pattern, say how much it changes by each step, and follow a halving chain. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Sorting and Classifying (Level 135, same stage) — a pattern row is built from sorted kinds. Recommended, never forced.
