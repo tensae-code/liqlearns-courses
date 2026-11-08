@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Projections and Views
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Projections and Views
-**Place in the curriculum:** Level 70 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Projections and Views
+**Place in the curriculum:** Level 70 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how a solid is drawn on flat paper — looking at it from the front, the top and the side (orthogonal views), drawing it as it appears (axonometric and perspective drawing), and reading shadows and nets as projections too.
 **This lesson's own level:** it stands on the solids work of Stage 8 (volume and surface area) and on nets. It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Projections and Views — the Three Views** — drawing and naming the front, top and side views of a simple solid, and explaining a shadow as a projection. (Was depth Level 1.)
+2. **Projections and Views — Drawings That Show Depth** — telling orthogonal, axonometric/isometric and perspective drawings apart, and unfolding a solid into its net and folding a net back. (Was depth Level 2.)
+3. **Projections and Views — Reading Drawings** — rebuilding a solid from its three views, reading a cross-section, and what technical drawing and descriptive geometry are for. (Was depth Level 3.)
+   In the lesson text, the nets-and-cross-sections part and the perspective part sit in this sub lesson (after technical drawing); their depth is split — nets and telling perspective apart are old Level 2, reading a cross-section and what technical drawing is for are old Level 3. The question markers follow the old levels, item by item.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Volume and Surface Area (Stage 8) — a learner who has handled the solids can picture them flat. Recommended, never forced.

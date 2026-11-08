@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Volume and Surface Area
 
-**Course:** Maths · **Stage:** 8, Measuring, Area and Volume · **Lesson:** Volume and Surface Area (lesson 3 of 4 in the stage)
-**Place in the curriculum:** Stage 8, "Measuring, Area and Volume" — the third lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 8, Measuring, Area and Volume · **Lesson:** Volume and Surface Area (lesson 3 of 4 in the unit)
+**Place in the curriculum:** Unit 8, "Measuring, Area and Volume" — the third lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how much a solid holds (volume) and how much skin it has (surface area), for cubes, cuboids, prisms and cylinders.
 **This lesson's own level:** it stands on the perimeter-and-area lesson (volume is area grown upward; surface area is area counted over faces) and on the measuring lesson (volume is measured in cubic units and litres). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Volume and Surface Area — Volume by Counting Cubes** — finding a volume by counting unit cubes in layers, what a cubic centimetre is, and converting between cm³ and litres. (Was depth Level 1.)
+2. **Volume and Surface Area — Cuboids, Cubes, Prisms and Cylinders** — volumes with V = l × w × h (cuboid), V = l³ (cube), V = cross-section × length (prism) and V = πr²h (cylinder), and finding a missing edge from a known volume. (Was depth Level 2.)
+3. **Volume and Surface Area — Surface Area from Nets** — surface areas from nets — a cube (6l²), a cuboid, a triangular prism and a cylinder (2πr² + 2πrh) — and telling a volume (cm³) from a surface area (cm²). (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Perimeter and Area, then Measuring — a

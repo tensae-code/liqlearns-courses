@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Equal Areas
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Equal Areas
-**Place in the curriculum:** Level 66 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Equal Areas
+**Place in the curriculum:** Level 66 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** shapes that look completely different can hold exactly the same area — Yemen's books call such shapes "equivalent" — and triangles or parallelograms that share a base with their top vertex (or side) on a line parallel to the base always do.
 **This lesson's own level:** it stands on Perimeter and Area (½ × base × height for a triangle; base × height for a parallelogram). It needs nothing else. It is built from one country's book only — Yemen's Grade 8 Part 2 — and is honestly the size that one source supports.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Equal Areas — What Equivalent Means** — two shapes are equivalent when their areas are equal, tested by counting unit squares on a grid, and why equivalent does not mean congruent. (Was depth Level 1.)
+2. **Equal Areas — Equivalent Triangles** — triangles on the same base with the third vertex on a line parallel to the base have equal area, and finding a second base–height pair with the same area. (Was depth Level 2.)
+3. **Equal Areas — Equivalent Parallelograms** — parallelograms sharing a base with the top side on a line parallel to the base have equal area, whatever their slant, and comparing mixed shapes by area. (Was depth Level 3.)
+   The lesson text's closing part, what equivalence is for, sits in this sub lesson.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Perimeter and Area (same stage) — equal areas are proved with the triangle and parallelogram area formulas. Recommended, never forced.

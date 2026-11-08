@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Perimeter and Area
 
-**Course:** Maths · **Stage:** 8, Measuring, Area and Volume · **Lesson:** Perimeter and Area (lesson 2 of 4 in the stage)
-**Place in the curriculum:** Stage 8, "Measuring, Area and Volume" — the second lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 8, Measuring, Area and Volume · **Lesson:** Perimeter and Area (lesson 2 of 4 in the unit)
+**Place in the curriculum:** Unit 8, "Measuring, Area and Volume" — the second lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the distance round a shape (perimeter) and the flat space it covers (area), for rectangles, triangles, parallelograms and trapeziums.
 **This lesson's own level:** it stands on the measuring lesson (a perimeter is a length; an area is counted in square units) and on the shapes lesson (the shapes whose perimeters and areas these are). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Perimeter and Area — Perimeter** — finding a perimeter by adding the sides, and by the short cuts for a square (4l), a rectangle (2l + 2w) and a triangle (a + b + c), in the right unit. (Was depth Level 1.)
+2. **Perimeter and Area — Areas of Rectangles, Squares and Triangles** — areas with A = l × w, A = l² and A = ½bh, finding a missing side from a known area, with the height perpendicular to the base. (Was depth Level 2.)
+3. **Perimeter and Area — Parallelograms, Trapeziums and Composite Shapes** — areas with A = base × height and A = ½(a + b)h, splitting a composite shape and adding its pieces, and why the same area can have different perimeters. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Measuring, then Shapes — perimeter is a

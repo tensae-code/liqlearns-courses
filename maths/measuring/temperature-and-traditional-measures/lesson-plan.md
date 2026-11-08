@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Temperature and Traditional Measures
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Temperature and Traditional Measures
-**Place in the curriculum:** Level 69 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Temperature and Traditional Measures
+**Place in the curriculum:** Level 69 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring heat in degrees Celsius and Fahrenheit and converting between them — and the measures people used before standard units: body units, land units and traditional weights, which the books of five countries still teach by name.
 **This lesson's own level:** it stands on Measuring (units and converting). It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Temperature and Traditional Measures — Temperature and the Thermometer** — reading a thermometer in degrees Celsius and placing the fixed points (0 °C ice, 100 °C boiling water, body temperature about 37 °C). (Was depth Level 1.)
+2. **Temperature and Traditional Measures — Converting Celsius and Fahrenheit** — converting both ways with the correct formulas, including the 32 offset, and checking a conversion by converting back. (Was depth Level 2.)
+3. **Temperature and Traditional Measures — the Traditional Measures** — measuring length in body units, Nepal's land units, the values Mauritania's book gives for the cubit, raṭl and ṣāʿ, and the traditional units of Nicaragua, Kazakhstan and Laos. (Was depth Level 3.)
+   The lesson text teaches body units at the head of this sub lesson, although the old Level 1 pass mark also named body-unit measuring; the body-unit question items sit in this sub lesson (see the question files' header).
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Measuring (Stage 8) — temperature is one more measure with its own units, and traditional measures are the non-standard units that lesson begins with. Recommended, never forced.

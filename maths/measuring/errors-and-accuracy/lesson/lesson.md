@@ -1,6 +1,6 @@
 # Errors and Accuracy — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Errors and Accuracy
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Errors and Accuracy
 Built from: Kazakhstan, Shynybekov Algebra 7 — Kazakhstan, Yelemessov Algebra 7 — Sierra Leone, SSS 2 Pupils' Handbook
 
 ## Do it first
@@ -13,6 +13,9 @@ with approximate numbers, and the errors they carry (Shynybekov,
 *Algebra 7*, §1.3, p.42; Yelemessov, *Algebra 7*, Ch. 1, p.62).
 
 ## Then the explanation
+
+## Sub lesson 1 — Errors and Accuracy — Absolute Error
+
 **Absolute error.** The absolute error is the size of the gap
 between the measured value and the true value:
 
@@ -26,6 +29,8 @@ as an exercise topic in their approximation chapter (Shynybekov,
 *Algebra 7*, §1.3, p.42) and teach approximation errors — absolute
 and relative — in the same chapter (Yelemessov, *Algebra 7*, Ch. 1,
 p.66).
+
+## Sub lesson 2 — Errors and Accuracy — Relative and Percentage Error
 
 **Relative error.** A gap of 1 kg is serious on a 2 kg bag of
 rice and nothing on a 1,000 kg load of grain. So the gap must be
@@ -51,6 +56,8 @@ The 1 kg gap on 50 kg is a 2% error. The 1 kg gap on 2 kg is a
 50% error. When a value has been rounded before it is used —
 a length rounded to 24 cm, used in an area — the percentage error
 tells you how much of the answer is rounding, not reality.
+
+## Sub lesson 3 — Errors and Accuracy — Degree of Accuracy
 
 **Degree of accuracy.** Every rounded value hides an error of at
 most half the last place kept. A length given as 24 cm (to the

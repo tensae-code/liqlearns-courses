@@ -1,6 +1,6 @@
 # Measuring — the lesson
 
-Course: Maths · Stage 8, Measuring, Area and Volume · Lesson: Measuring
+Course: Maths · Unit 8, Measuring, Area and Volume · Lesson: Measuring
 Built from: Jordan, Grades 2 and 3 (NCCD student books) —
 Egypt, Grade 2 (old and new series) — Kazakhstan, Grade 1 —
 Vietnam, Grades 1 and 3 — Libya, Grades 1, 2 and 3 —
@@ -18,6 +18,9 @@ for the hand, metres for the room. Measuring is choosing the
 right unit and then counting how many of it fit.
 
 ## Then the explanation
+
+## Sub lesson 1 — Measuring Length
+
 **Length.** Length is how long, how wide, how tall, how far.
 The metric units, smallest to biggest:
 
@@ -49,6 +52,8 @@ units too. Non-standard units teach what measuring IS — counting
 how many of one thing fit along another — and standard units
 make the answer the same for everyone.
 
+## Sub lesson 2 — Measuring Mass
+
 **Mass.** Mass is how heavy a thing is. The units:
 
 - **gram (g)** — an apple is about 150 g; a letter is about
@@ -63,6 +68,8 @@ So 4 kg 500 g is 4,500 g (South Africa's Grade 4 workbook shows
 it exactly that way), and 2,500 g is 2.5 kg. Libya's Grade 2 book
 measures mass first in kilograms, then in grams, then adds and
 subtracts masses — always in matching units.
+
+## Sub lesson 3 — Measuring Capacity
 
 **Capacity.** Capacity is how much a container holds. The units:
 

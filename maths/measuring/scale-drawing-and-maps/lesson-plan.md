@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Scale Drawing and Maps
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Scale Drawing and Maps
-**Place in the curriculum:** Level 64 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Scale Drawing and Maps
+**Place in the curriculum:** Level 64 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a drawing or map is the real thing shrunk (or grown) by one fixed ratio — the scale — and with that one ratio you can go both ways: real length to drawing length, and drawing length back to real length.
 **This lesson's own level:** it stands on ratio and proportion (a scale IS a ratio) and on measuring lengths. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Scale Drawing and Maps — What a Scale Is** — scale = drawing length ÷ real length in the same unit, and what 1:n means on simple scales like 1:100 and 1:10. (Was depth Level 1.)
+2. **Scale Drawing and Maps — the Two Directions and Bar Scales** — turning a real length into a drawing length and a drawing length back into a real length, and reading a bar scale. (Was depth Level 2.)
+3. **Scale Drawing and Maps — Drawing to Scale, Compass Points and Coordinates** — planning a drawing at a chosen scale, enlarging and reducing by a scale, the eight compass points on a map, and reading latitude and longitude. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Ratio and Proportion (Stage 4) — a scale is a ratio between the drawing and the real thing. Recommended, never forced.

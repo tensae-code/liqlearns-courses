@@ -1,6 +1,6 @@
 # Pythagoras — the lesson
 
-Course: Maths · Stage 8, Measuring, Area and Volume · Lesson: Pythagoras
+Course: Maths · Unit 8, Measuring, Area and Volume · Lesson: Pythagoras
 Built from: Egypt, Grade 8 (Second Preparatory) — Greece,
 Grades 8 and 11 — Armenia, Geometry 8 — Kazakhstan, Grade 8 —
 Vietnam, Grade 8 — Sierra Leone, JSS 3 Handbook — Libya,
@@ -18,6 +18,9 @@ each one. The square on the 3-side holds 9. The square on the
 right-angled triangle in the world.
 
 ## Then the explanation
+
+## Sub lesson 1 — Pythagoras — the Rule
+
 **The rule.** In a right-angled triangle — a triangle with one
 right angle, 90° — the sides have names. The two sides that form
 the right angle are the **legs** (or the shorter sides). The side
@@ -33,6 +36,8 @@ dissection — cutting the squares up and laying them over each
 other — and Greece's Grade 8 book teaches it inside its chapter
 on areas of plane figures, because the rule IS about areas: the
 areas of the two small squares add up to the area of the big one.
+
+## Sub lesson 2 — Pythagoras — Finding the Hypotenuse
 
 **Finding the hypotenuse.** Square the two legs, add them, and
 take the square root:
@@ -56,6 +61,8 @@ is the hypotenuse, the wall and the ground are the legs. A ladder
 whose foot is 5 m from the wall and whose top reaches 12 m has
 length √(25 + 144) = √169 = 13 m (Egypt's Grade 8 Get Ready: a
 13-foot ladder against a wall).
+
+## Sub lesson 3 — Pythagoras — Finding a Shorter Side and the Converse
 
 **Finding a shorter side.** Turn the rule around. If you know the
 hypotenuse and one leg, the other leg is:

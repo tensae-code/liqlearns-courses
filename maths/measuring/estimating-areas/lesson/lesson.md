@@ -1,6 +1,6 @@
 # Estimating Areas — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Estimating Areas
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Estimating Areas
 Built from: South Sudan, Secondary Mathematics — Student's Book 4, Unit 2 (printed pp.20–29) — the sole source
 
 ## Do it first
@@ -16,6 +16,9 @@ and answers it with three estimation methods. None of them is
 exact. All of them are honest.
 
 ## Then the explanation
+
+## Sub lesson 1 — Estimating Areas — Counting Squares
+
 **Counting squares.** Put the shape on grid paper, or draw it
 there by its scale. Count the whole squares inside it. Then
 deal with the part squares along the edge: join them up in
@@ -25,6 +28,8 @@ two middling parts make a whole between them. Whole squares
 plus joined parts, times the area of one grid square, is the
 estimate. South Sudan's book teaches this first, over four
 pages of grid work (printed pp.21–24).
+
+## Sub lesson 2 — Estimating Areas — the Mid-Ordinate Rule
 
 **The mid-ordinate rule.** Draw a straight baseline along the
 shape and split the shape's width into equal strips. In the
@@ -39,6 +44,8 @@ book teaches the rule at printed pp.25–26. Worked example: a
 plot 12 m wide is split into 6 strips of 2 m. The mid-ordinates
 measure 3 m, 5.5 m, 6.5 m, 6.5 m, 5 m and 2 m. Their sum is
 28.5 m, and the estimate is 2 × 28.5 = **57 m²**.
+
+## Sub lesson 3 — Estimating Areas — the Trapezium Rule
 
 **The trapezium rule.** Split the same width into the same
 equal strips, but this time measure the ordinate at every

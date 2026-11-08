@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Measuring
 
-**Course:** Maths · **Stage:** 8, Measuring, Area and Volume · **Lesson:** Measuring (lesson 1 of 4 in the stage)
-**Place in the curriculum:** Stage 8, "Measuring, Area and Volume" — the first lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 8, Measuring, Area and Volume · **Lesson:** Measuring (lesson 1 of 4 in the unit)
+**Place in the curriculum:** Unit 8, "Measuring, Area and Volume" — the first lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring length, mass and capacity in metric units, and converting between those units.
 **This lesson's own level:** it stands on counting and on place value (converting is multiplying and dividing by 10, 100 and 1,000). It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Measuring Length** — length in mm, cm, m and km, converting between them, and choosing the sensible length unit. (Was depth Level 1.)
+2. **Measuring Mass** — mass in g, kg and tonnes, converting between them, and choosing the sensible mass unit. (Was depth Level 2.)
+3. **Measuring Capacity** — capacity in mL and L, converting between them, and choosing the sensible capacity unit. (Was depth Level 3.)
+   The lesson text's closing part, choosing the right unit, sits in this sub lesson; it applies to length and mass as well.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: place value and multiplying by 10, 100 and

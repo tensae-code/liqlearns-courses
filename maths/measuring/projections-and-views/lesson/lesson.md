@@ -1,6 +1,6 @@
 # Projections and Views — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Projections and Views
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Projections and Views
 Built from: Vietnam, G11 study book — Laos, Grade 7 — North Macedonia, Grade 8 — China, Compulsory Volume 2 A edition (reading) — Jordan, Grade 8 (Grade 4 nets: teacher evidence) — South Africa, Grades 6 and 9 Workbooks (perspective, enrichment)
 
 ## Do it first
@@ -13,6 +13,9 @@ they tell the tin completely: its height, its width, its round
 top. A picture tells one look; projections tell the solid.
 
 ## Then the explanation
+
+## Sub lesson 1 — Projections and Views — the Three Views
+
 **Orthogonal projection — the three views.** A projection drops
 every point of a solid straight onto a flat plane, the way a
 shadow drops a shape onto the ground. When the dropping lines are
@@ -38,6 +41,8 @@ as nearly parallel projecting lines. Change the viewpoint and
 the view changes; that is why one view is never enough, and why
 the birdhouse must be walked around, not just faced.
 
+## Sub lesson 2 — Projections and Views — Drawings That Show Depth
+
 **Axonometric drawing — showing depth.** The three views are
 exact but depthless one by one. An **axonometric** drawing tilts
 the solid so three faces show at once, with edges kept parallel
@@ -46,6 +51,8 @@ the solid so three faces show at once, with edges kept parallel
 p.116) is the school form of the same idea, and South Africa's
 Grade 8 workbook has learners draw views of a building of cubes
 on isometric paper (Workbook 2, WS134).
+
+## Sub lesson 3 — Projections and Views — Reading Drawings
 
 **Technical drawing.** Put the views together, to scale, with
 the measurements written on, and you have a **technical drawing**

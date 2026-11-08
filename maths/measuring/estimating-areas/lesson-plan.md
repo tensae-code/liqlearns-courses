@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Estimating Areas
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Estimating Areas
-**Place in the curriculum:** Level 65 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Estimating Areas
+**Place in the curriculum:** Level 65 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the area of an irregular shape — one with a curved or wavy edge — can be estimated three ways: by counting squares, by the mid-ordinate rule, and by the trapezium rule.
 **This lesson's own level:** it stands on Perimeter and Area (areas of straight-sided shapes, counted in square units). It needs nothing else. It is built from one country's book only — South Sudan's Secondary 4 — and is honestly the size that one source supports.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Estimating Areas — Counting Squares** — estimating an irregular area on grid paper by counting whole squares and joining part squares into whole ones. (Was depth Level 1.)
+2. **Estimating Areas — the Mid-Ordinate Rule** — splitting a width into equal strips, measuring each strip's mid-ordinate, and applying area ≈ strip width × (sum of the mid-ordinates). (Was depth Level 2.)
+3. **Estimating Areas — the Trapezium Rule** — applying area ≈ (strip width ÷ 2) × [first + last + 2 × (middle ordinates)], and comparing the rules' answers. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Perimeter and Area (same stage) — an estimate is judged against the exact areas of rectangles and triangles. Recommended, never forced.

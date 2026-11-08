@@ -1,6 +1,6 @@
 # Equal Areas — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Equal Areas
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Equal Areas
 Built from: Yemen, Grade 8 Part 2 student book, Unit 7, lessons 7-7 and 7-8 (printed pp.87–94) — the sole source
 
 ## Do it first
@@ -15,6 +15,9 @@ angle — share their area completely. This lesson is about that
 sharing, and about the machine that produces it on purpose.
 
 ## Then the explanation
+
+## Sub lesson 1 — Equal Areas — What Equivalent Means
+
 **Equivalent means equal area.** Yemen's book gives the
 definition in a box: two shapes are **equivalent** (the book's
 word is takāfu') if they are equal in area (Grade 8 Part 2,
@@ -24,6 +27,8 @@ Congruent shapes match in everything — sides, angles, area.
 Equivalent shapes match in area alone, and may differ in
 everything else. The grid trio proves it before any formula
 appears: same count of squares, three different shapes.
+
+## Sub lesson 2 — Equal Areas — Equivalent Triangles
 
 **Equivalent triangles.** A triangle's area is ½ × base ×
 height. Fix the base. Now move the third vertex along a
@@ -40,6 +45,8 @@ all have area ½ × 8 × 5 = 20 cm². Equivalence can also come from
 different bases and heights that balance: base 10 cm, height
 4 cm gives 20 cm² too — the same area reached by a different
 pair.
+
+## Sub lesson 3 — Equal Areas — Equivalent Parallelograms
 
 **Equivalent parallelograms.** A parallelogram's area is base ×
 height. Fix the base, and let the top side slide along a line

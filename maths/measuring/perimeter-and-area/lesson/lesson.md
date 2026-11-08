@@ -1,6 +1,6 @@
 # Perimeter and Area — the lesson
 
-Course: Maths · Stage 8, Measuring, Area and Volume · Lesson: Perimeter and Area
+Course: Maths · Unit 8, Measuring, Area and Volume · Lesson: Perimeter and Area
 Built from: Jordan, Grades 3, 4, 5 and 6 (NCCD student books) —
 Egypt, Grades 3, 4, 5 and 6 (Discovery) — Kazakhstan, Grades 2,
 3 and 4 — Libya, Grades 3, 4 and 6 — Mauritania, Grades 4, 5
@@ -18,6 +18,9 @@ two different answers: the walk is a length, the covering is
 counted in squares.
 
 ## Then the explanation
+
+## Sub lesson 1 — Perimeter and Area — Perimeter
+
 **Perimeter** is the distance all the way round a shape. Add up
 the lengths of all its sides:
 
@@ -33,6 +36,8 @@ Perimeter is a length, so its unit is cm or m — never cm². And
 Jordan's Grade 4 book teaches estimating a perimeter too: round
 each side first, add, and check the real answer sits near the
 estimate.
+
+## Sub lesson 2 — Perimeter and Area — Areas of Rectangles, Squares and Triangles
 
 **Area** is how many unit squares cover a shape. The unit square
 is 1 cm by 1 cm, and its area is 1 cm². Count the squares, or use
@@ -67,6 +72,8 @@ A rectangle has area 24 cm² and length 6 cm: its width is
 height is (20 × 2) ÷ 8 = 5 cm. Sierra Leone's JSS 1 book sets
 exactly these: find a side from a known area, with perfect
 squares where the answer is whole.
+
+## Sub lesson 3 — Perimeter and Area — Parallelograms, Trapeziums and Composite Shapes
 
 **Composite shapes.** A shape made of pieces is split into its
 pieces, each piece is found, and the pieces are added. An

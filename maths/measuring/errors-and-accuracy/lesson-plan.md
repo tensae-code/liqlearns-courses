@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Errors and Accuracy
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Errors and Accuracy
-**Place in the curriculum:** Level 68 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Errors and Accuracy
+**Place in the curriculum:** Level 68 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** every measurement is approximate — how far off it can be (absolute error), how big that miss is next to the true value (relative and percentage error), and how to choose a sensible degree of accuracy.
 **This lesson's own level:** it stands on Measuring (measuring in units) and on rounding and percentages. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Errors and Accuracy — Absolute Error** — the absolute error as the size of the gap between a measured value and the true value, and the biggest possible error of a value rounded to a given place. (Was depth Level 1.)
+2. **Errors and Accuracy — Relative and Percentage Error** — the relative error against the true value, turned into a percentage error, and comparing two measures by their percentage errors. (Was depth Level 2.)
+3. **Errors and Accuracy — Degree of Accuracy** — choosing an appropriate degree of accuracy for a job, rounding to it, and bounding the error the rounding can hide. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Measuring (Stage 8) — a measurement must exist before its error can be talked about. Recommended, never forced.

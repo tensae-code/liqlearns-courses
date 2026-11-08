@@ -1,6 +1,6 @@
 # Temperature and Traditional Measures — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Temperature and Traditional Measures
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Temperature and Traditional Measures
 Built from: Nepal, Grades 4 and 9 — South Africa, Grades 5, 6 and 7 Workbooks — South Sudan, Pupil's Books 5 and 7 (student books) — Mauritania, 5AS-LO and 6AS-LO — Nicaragua, Grades 1 and 4 — Kazakhstan, Grade 5 — Laos, Grade 5
 
 ## Do it first
@@ -14,6 +14,9 @@ put a thermometer in ice water and in steam and watch where the
 line stops.
 
 ## Then the explanation
+
+## Sub lesson 1 — Temperature and Traditional Measures — Temperature and the Thermometer
+
 **Temperature and the thermometer.** Temperature is how hot a
 thing is, read on a thermometer. South Africa's workbooks teach
 temperature through the weather: reading thermometers and working
@@ -27,6 +30,8 @@ Fahrenheit — and gives body temperature as 36.5 °C / 98 °F
 student books give normal body temperature as 37 °C / 98.6 °F,
 with the freezing and boiling points of water (Pupil's Book 7,
 §2.6, pp.25–30).
+
+## Sub lesson 2 — Temperature and Traditional Measures — Converting Celsius and Fahrenheit
 
 **The two scales, and converting.** The Fahrenheit scale sets
 ice at **32 °F** and boiling water at **212 °F**. Because the
@@ -45,6 +50,8 @@ it gives 90 °F for 50 °C, which is wrong, and any book or guide
 that prints the formulas without the 32 is in error. Going to
 Fahrenheit: multiply, then add 32. Coming back: subtract 32
 first, then multiply.
+
+## Sub lesson 3 — Temperature and Traditional Measures — the Traditional Measures
 
 **Body units — Nicaragua's way.** Nicaragua's Grade 1 book begins
 length with the body units it names itself — the **jeme** (a

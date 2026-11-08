@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Pythagoras
 
-**Course:** Maths · **Stage:** 8, Measuring, Area and Volume · **Lesson:** Pythagoras (lesson 4 of 4 in the stage)
-**Place in the curriculum:** Stage 8, "Measuring, Area and Volume" — the fourth lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 8, Measuring, Area and Volume · **Lesson:** Pythagoras (lesson 4 of 4 in the unit)
+**Place in the curriculum:** Unit 8, "Measuring, Area and Volume" — the fourth lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the right-triangle rule — the square of the hypotenuse equals the sum of the squares of the other two sides — and how to use it to find a missing side.
 **This lesson's own level:** it stands on the angles lesson (a right angle is the rule's condition), on squares and square roots (Stage 5), and on the perimeter-and-area lesson (the rule is proved by areas). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Pythagoras — the Rule** — a² + b² = c² with c the hypotenuse, the side opposite the right angle and the longest side, and 3² + 4² = 5². (Was depth Level 1.)
+2. **Pythagoras — Finding the Hypotenuse** — finding a hypotenuse with c = √(a² + b²), used for the diagonal of a rectangle and for a ladder against a wall. (Was depth Level 2.)
+3. **Pythagoras — Finding a Shorter Side and the Converse** — finding a shorter side with a = √(c² − b²), and checking whether a triangle is right-angled by testing whether the squares add up. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Angles (the right angle), powers and roots

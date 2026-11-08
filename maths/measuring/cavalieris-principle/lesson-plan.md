@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Cavalieri's Principle
 
-**Course:** Maths · **Stage:** Stage 8 — Measuring, Area and Volume · **Lesson:** Cavalieri's Principle
-**Place in the curriculum:** Level 67 of 136, in Stage 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Cavalieri's Principle
+**Place in the curriculum:** Level 67 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** if two solids have the same height and their cross-sections at every height have equal areas, their volumes are equal — the principle China's books name for Zu Geng — and from it, the volume formulas V = Sh for prisms and cylinders and V = ⅓Sh for pyramids and cones.
 **This lesson's own level:** it stands on Volume and Surface Area (volumes of cuboids and prisms) and on Equal Areas (same base, area unchanged — the flat version of the same idea). It needs nothing else. It is built from one country's books only — China's A-edition and B-edition senior volumes — and is honestly the size that source supports.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Cavalieri's Principle — Equal Sections, Equal Volumes** — the principle itself: same height and equal cross-section areas at every height mean equal volumes, applied to a shifted stack or a leaning solid. (Was depth Level 1.)
+2. **Cavalieri's Principle — V = Sh for Prisms and Cylinders** — the volume of a prism or cylinder as base area × height, including an oblique one, and why the lean does not change it. (Was depth Level 2.)
+3. **Cavalieri's Principle — V = ⅓Sh for Pyramids and Cones** — the volume of a pyramid or cone as ⅓ × base area × height, and the three-pyramid split of a prism that explains the third. (Was depth Level 3.)
+   The lesson text's closing part, the one warning (equal sections at EVERY height), sits in this sub lesson; it is about the principle itself, Sub lesson 1's depth.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Volume and Surface Area (same stage) — the principle explains where the prism and cylinder formulas come from. Recommended, never forced.

@@ -1,6 +1,6 @@
 # Cavalieri's Principle — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Cavalieri's Principle
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Cavalieri's Principle
 Built from: China, Mathematics, Compulsory Volume 4, B edition, Ch. 11, §11.1.6 (printed p.82) — China, Mathematics, Compulsory Volume 2, A edition, Ch. 8, §8.3 (printed pp.121–123) — the sole sources
 
 ## Do it first
@@ -14,6 +14,9 @@ China's senior books teach it — one names it, the other builds
 the volume formulas out of it.
 
 ## Then the explanation
+
+## Sub lesson 1 — Cavalieri's Principle — Equal Sections, Equal Volumes
+
 **The principle.** Think of a solid as a stack of very thin
 slices, one at each height. China's B-edition book names the
 principle for the Chinese mathematician Zu Geng (祖暅原理):
@@ -30,6 +33,8 @@ cylinders, pyramids, cones and spheres on it (§11.1.6, printed
 p.82), and a reading in the same chapter tells the ancient
 Chinese story of the sphere's volume (printed p.86).
 
+## Sub lesson 2 — Cavalieri's Principle — V = Sh for Prisms and Cylinders
+
 **V = Sh: prisms and cylinders.** China's A-edition book meets
 the principle as an inquiry (Compulsory Volume 2, A edition,
 Ch. 8, §8.3, printed pp.121–123). Start from the cuboid, whose
@@ -43,6 +48,8 @@ oblique prism's slices are the same areas, shifted — the
 Equal Areas lesson's slide, stood up in three dimensions — so
 a leaning prism of base area 20 cm² and height 9 cm has volume
 20 × 9 = 180 cm³, exactly like the straight one.
+
+## Sub lesson 3 — Cavalieri's Principle — V = ⅓Sh for Pyramids and Cones
 
 **V = ⅓Sh: pyramids and cones.** The A-edition inquiry takes
 the second step on the same pages: a triangular prism can be

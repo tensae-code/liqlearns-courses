@@ -1,6 +1,6 @@
 # Volume and Surface Area — the lesson
 
-Course: Maths · Stage 8, Measuring, Area and Volume · Lesson: Volume and Surface Area
+Course: Maths · Unit 8, Measuring, Area and Volume · Lesson: Volume and Surface Area
 Built from: Jordan, Grades 5, 6, 7 and 8 (NCCD student books) —
 Egypt, Grades 5 and 6 (Discovery) — Kazakhstan, Grades 4 and 5 —
 Libya, Grades 2, 3, 4 and 8 — Mauritania, Grade 6 and 1AS —
@@ -18,6 +18,9 @@ rectangles added together are the surface area: how much skin the
 box has. One box, two numbers — what it holds, and what covers it.
 
 ## Then the explanation
+
+## Sub lesson 1 — Volume and Surface Area — Volume by Counting Cubes
+
 **Volume** is how much space a solid takes up, or how much it
 holds. It is counted in **cubic units**: a cube 1 cm by 1 cm by
 1 cm has volume 1 cm³. Volume is three lengths multiplied, so its
@@ -29,6 +32,8 @@ in one layer, count the layers, and multiply. A box 4 cm long, 3 cm
 wide and 2 cm high holds 4 × 3 = 12 cubes in one layer and 2
 layers: 24 cubes. Its volume is 24 cm³. Egypt's Grade 5 book
 starts exactly here, counting unit cubes before any formula.
+
+## Sub lesson 2 — Volume and Surface Area — Cuboids, Cubes, Prisms and Cylinders
 
 **Cuboid and cube.** The counting gives the formula:
 
@@ -66,6 +71,8 @@ prism and the cylinder together, and the pyramid and the cone
 after them: a pyramid's volume is one third of its prism's
 (⅓ × base area × height), and a cone's is one third of its
 cylinder's.
+
+## Sub lesson 3 — Volume and Surface Area — Surface Area from Nets
 
 **Surface area** is the area of the solid's skin — all its faces
 added together, counted in cm². The way to find it is the net:

@@ -1,24 +1,26 @@
 # Scale Drawing and Maps — short answer
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Scale Drawing and Maps — What a Scale Is · (Level 2) -> Sub lesson 2 — Scale Drawing and Maps — the Two Directions and Bar Scales · (Level 3) -> Sub lesson 3 — Scale Drawing and Maps — Drawing to Scale, Compass Points and Coordinates.
+
 Answer in a word or a short line.
 
-**1. (Level 1)** Write Laos's definition of scale as a formula.
+**1. (Sub lesson 1)** Write Laos's definition of scale as a formula.
 **Answer:** Scale = drawing length ÷ real length, both in the same unit (Grade 6, L21).
 
-**2. (Level 1)** Nepal's Grade 7 book gives a scale as "1 cm : 200 cm". Write it as a ratio 1:n.
+**2. (Sub lesson 1)** Nepal's Grade 7 book gives a scale as "1 cm : 200 cm". Write it as a ratio 1:n.
 **Answer:** 1:200 — the units are already the same (Nepal, Grade 7, Unit 10).
 
-**3. (Level 2)** A floor plan shows a real length of 660 cm as 5.5 cm. Find the scale. (Laos, Grade 6, L22.)
+**3. (Sub lesson 2)** A floor plan shows a real length of 660 cm as 5.5 cm. Find the scale. (Laos, Grade 6, L22.)
 **Answer:** 1:120 — 660 ÷ 5.5 = 120.
 
-**4. (Level 2)** A distance of 420 km is shown as 84 mm on a map. Find the scale. (Laos, Grade 6, L21.)
+**4. (Sub lesson 2)** A distance of 420 km is shown as 84 mm on a map. Find the scale. (Laos, Grade 6, L21.)
 **Answer:** 1:5,000,000 — 420 km = 420,000,000 mm, and 420,000,000 ÷ 84 = 5,000,000.
 
-**5. (Level 3)** A garden is 200 m × 140 m. It is drawn with the 200 m side as 5 cm. How long is the 140 m side on the drawing? (Laos, Grade 6, L21.)
+**5. (Sub lesson 3)** A garden is 200 m × 140 m. It is drawn with the 200 m side as 5 cm. How long is the 140 m side on the drawing? (Laos, Grade 6, L21.)
 **Answer:** 3.5 cm — the scale is 1:4000, and 14,000 cm ÷ 4000 = 3.5 cm.
 
-**6. (Level 3)** On Nepal's map work, a volleyball court is drawn 9 cm long at 1 cm : 2 m. How long is the real court? (Nepal, Grade 7, Unit 10.)
+**6. (Sub lesson 3)** On Nepal's map work, a volleyball court is drawn 9 cm long at 1 cm : 2 m. How long is the real court? (Nepal, Grade 7, Unit 10.)
 **Answer:** 18 m — 9 × 2 m.
 
-**7. (Level 2)** A plan is drawn with scale factor 1:200, in Indonesia's Grade 7 sense of the multiplier. A real wall of 8 m is how long on the plan? (Indonesia, Grade 7, Ch. 3, pp.83–122.)
+**7. (Sub lesson 2)** A plan is drawn with scale factor 1:200, in Indonesia's Grade 7 sense of the multiplier. A real wall of 8 m is how long on the plan? (Indonesia, Grade 7, Ch. 3, pp.83–122.)
 **Answer:** 4 cm — 800 cm × 1/200 = 4 cm.

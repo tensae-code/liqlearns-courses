@@ -1,6 +1,6 @@
 # Scale Drawing and Maps — the lesson
 
-Course: Maths · Stage: Stage 8 — Measuring, Area and Volume · Lesson: Scale Drawing and Maps
+Course: Maths · Unit: Unit 8 — Measuring, Area and Volume · Lesson: Scale Drawing and Maps
 Built from: Laos, Grade 5 student book (2009) — Laos, Grade 6 student book (2010) — Laos, Grade 7 student book (2011) — Laos, Grade 9 student book (2013) — Kuwait, Grade 10 Term 1 student book — Libya, Grade 8 student book, §2-8 — Vietnam, Grade 5 Volume 2, Bài 37 — Mauritania, Grade 6 student book — Yemen, Grade 6 Part 2 student book — South Africa, Grade 3 Workbook 2 and Grade 4 Book 2 — Nepal, Grade 7 student book — Greece, Grade 8 pupil book — Jordan, Grade 7 Term 2 student book — Indonesia, Grade 7 student book (Kurikulum Merdeka 2022)
 
 ## Do it first
@@ -12,6 +12,9 @@ everything by the same amount. That fixed shrink is the scale,
 and this lesson is how to read it, use it, and draw with it.
 
 ## Then the explanation
+
+## Sub lesson 1 — Scale Drawing and Maps — What a Scale Is
+
 **What a scale is.** Laos's Grade 6 book defines it plainly:
 **scale = drawing length ÷ real length**, with both lengths in
 the same unit (L21, printed pp.167–174). A plan of a room at
@@ -34,6 +37,8 @@ chapter (Ch. 3, printed pp.83–122), straight after equivalent
 ratios, so a scale is met as a ratio at work — the map scale
 and the plan scale are simply that chapter's main uses of
 ratio.
+
+## Sub lesson 2 — Scale Drawing and Maps — the Two Directions and Bar Scales
 
 **Real to drawing, drawing to real.** Laos's Grade 6 book
 states the two formulas (L22, printed pp.175–182):
@@ -66,6 +71,8 @@ ratio 1:40,000) and finds the scale when 420 km is shown as
 virtue: if the map is printed bigger or smaller, the bar grows
 or shrinks with it and stays true, while a printed ratio would
 lie.
+
+## Sub lesson 3 — Scale Drawing and Maps — Drawing to Scale, Compass Points and Coordinates
 
 **Enlarging and reducing.** A scale bigger than 1 grows the
 thing: Laos's Grade 6 book lists an enlargement of 5:1 beside
