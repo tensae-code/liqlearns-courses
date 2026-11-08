@@ -1,6 +1,6 @@
 # Subtraction — multiple choice
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking. Sub lesson 4 — Big Subtraction: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Pick the one right answer.
 
@@ -31,3 +31,11 @@ a) 38  b) 48  c) 58
 **7. (Sub lesson 3)** The check for 137 − 54 = 83 is ______.
 a) 137 − 83  b) 83 + 54  c) 54 − 83
 **Answer:** b) 83 + 54 — the difference plus what was taken away must give 137.
+
+**8. (Sub lesson 4)** 51,278 − 28,051 = ______.
+a) 23,227  b) 23,237  c) 33,227
+**Answer:** a) 23,227 — Ethiopia's Grade 4 worked example, subtracting to 1,000,000 with borrowing.
+
+**9. (Sub lesson 4)** To check 678,803 − 569,740 = 109,063, you add ______.
+a) 109,063 + 569,740  b) 678,803 + 109,063  c) 569,740 − 109,063
+**Answer:** a) 109,063 + 569,740 — the difference plus what was taken away must give the starting number.

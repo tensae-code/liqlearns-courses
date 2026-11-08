@@ -27,6 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 1. **Subtraction In the Head** — subtract small numbers in the head by counting back and by counting up. (Was depth Level 1.)
 2. **Subtraction In Columns with Borrowing** — subtract two-digit numbers in columns — the plain columns first, then borrowing from tens to ones — and say each step aloud. (Was depth Level 2.)
 3. **Subtraction Borrowing Across Zero and Checking** — subtract three-digit numbers in columns including borrowing across zero, and check every subtraction by adding. (Was depth Level 3.)
+4. **Big Subtraction: To a Million and Beyond** — the same columns on the books' full climb: to 100,000 (Indonesia Grade 5), to 1,000,000 with borrowing (Ethiopia Grade 4's worked 51,278 − 28,051; North Macedonia Grade 5), and beyond 1,000,000 with borrowing across periods (Rwanda Primary 6). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the old text taught the method whole but capped the worked size at three digits.)
 
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
@@ -39,6 +40,8 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 2. Subtract two-digit numbers in columns without borrowing, then with borrowing (137 − 54 = 83 — Egypt's worked example).
 3. Borrow across a zero (107 − 59 = 48) and subtract three-digit numbers in columns.
 4. Check a subtraction by adding: the difference plus what was taken away must give the starting number.
+5. Subtract numbers to 1,000,000 and beyond in columns,
+   borrowing inside and across periods, and check by adding.
 
 ## What you need
 Bundles of ten sticks and single sticks; squared paper.

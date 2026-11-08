@@ -1,6 +1,6 @@
 # Subtraction — true or false
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking. Sub lesson 4 — Big Subtraction: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Say true or false. If it is false, say why.
 
@@ -18,3 +18,9 @@ Say true or false. If it is false, say why.
 
 **5. (Sub lesson 3)** 83 + 54 = 137 checks 137 − 54 = 83.
 **Answer:** True — the difference plus what was taken away gives the starting number.
+
+**6. (Sub lesson 4)** Borrowing stops working when numbers pass a million.
+**Answer:** False — the same columns and the same borrowing work at any size (Rwanda, Primary 6).
+
+**7. (Sub lesson 4)** At any size, the difference plus what was taken away gives back the starting number.
+**Answer:** True — that is the check, for small numbers and for millions alike.

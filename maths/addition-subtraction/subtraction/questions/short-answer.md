@@ -1,6 +1,6 @@
 # Subtraction — short answer
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Subtraction In the Head · (Level 2) -> Sub lesson 2 — Subtraction In Columns with Borrowing · (Level 3) -> Sub lesson 3 — Subtraction Borrowing Across Zero and Checking. Sub lesson 4 — Big Subtraction: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Answer in a word or a short line.
 
@@ -18,3 +18,9 @@ Answer in a word or a short line.
 
 **5. (Sub lesson 3)** Subtract in columns: 503 − 268.
 **Answer:** 235 — ones borrow: 13 − 8 = 5; tens borrow across zero: 9 − 6 = 3; hundreds 4 − 2 = 2.
+
+**6. (Sub lesson 4)** Subtract 678,803 − 569,740, working period by period.
+**Answer:** Ones period: 803 − 740 = 63; thousands period: 678 − 569 = 109 — the difference is 109,063 (Ethiopia's teacher-guide example).
+
+**7. (Sub lesson 4)** Subtract 51,278 − 28,051 and check the answer by adding.
+**Answer:** 23,227 — check: 23,227 + 28,051 = 51,278, the starting number.

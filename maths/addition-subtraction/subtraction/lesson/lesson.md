@@ -84,6 +84,27 @@ Note, honestly: one worked answer in Ghana's Lower workbook
 prints "15 − 3 = 18". That is wrong — 15 − 3 = 12 — and it is
 never taught here.
 
+## Sub lesson 4 — Big Subtraction: To a Million and Beyond
+**Bigger numbers, same columns.** Borrowing works the same way
+however long the line gets. Indonesia's Grade 5 book works
+column subtraction to 100,000 (Ch. 1, printed pp.1–28).
+Ethiopia's Grade 4 book subtracts to 1,000,000 with borrowing
+(ch. 2, printed pp.29–50) — its own worked example is
+51,278 − 28,051 = 23,227 — and its teacher guide works
+678,803 − 569,740 = 109,063 (teacher evidence, printed
+pp.16–23), where the borrowing crosses zeros inside the
+thousands period. North Macedonia's Grade 5 book subtracts to
+1,000,000, first without regrouping (printed p.123), then with
+it (printed p.128). Rwanda's Primary 6 book takes column
+subtraction beyond 1,000,000, borrowing across the periods
+(Unit 1, printed pp.15–19).
+
+Work the big ones period by period, the way you worked
+addition: 51,278 − 28,051 — ones period: 278 − 51 = 227;
+thousands period: 51 − 28 = 23; the difference is 23,227.
+And the checking never changes: add the difference back —
+23,227 + 28,051 = 51,278, the number you started with.
+
 ## Say it to your companion
 Your companion calls two numbers: "13 take 5." Answer in your
 head: "8." They call "137 take 54": write it in columns and say
@@ -95,3 +116,5 @@ tens. 83." Trade five times, then check each answer by adding.
 2. Subtract in columns: 78 − 43; 54 − 37; 137 − 54; 92 − 46.
 3. Subtract in columns: 107 − 59; 503 − 268; 1,000 − 437.
 4. Check each column answer by adding.
+5. Subtract the big ones in columns: 51,278 − 28,051;
+   678,803 − 569,740. Check each by adding.
