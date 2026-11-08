@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Percentages
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Percentages
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Percentages
 **Place in the curriculum:** Level 15 of the ladder — the fifth
-lesson of Stage 4 (CURRICULUM.md). It stands on the Fractions
+lesson of Unit 4 (CURRICULUM.md). It stands on the Fractions
 lesson and the Decimals lesson.
 **The one thing this lesson teaches:** percentages — what a
 percent is, turning fractions and decimals into percents and
@@ -21,6 +23,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per square.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Percent Means Out of 100** — what a percent is, and turning fractions and decimals into percents and back. (Was depth Level 1.)
+2. **Percentage of a Number, and the Whole** — finding a percentage of a number, finding the whole, and finding what percentage one number is of another. (Was depth Level 2.)
+3. **Increase, Decrease, Discount, Tax, Tip** — increase and decrease, and money: discount, tax and tip. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11) and the

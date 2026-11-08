@@ -1,6 +1,6 @@
 # Multiplying and Dividing Fractions — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Multiplying and Dividing Fractions
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Multiplying and Dividing Fractions
 Built from: Kazakhstan, Grade 5 — Jordan, Grade 5 Term 1 and Grade 6
 Term 1 — Egypt, Grade 5 Term 2 and Grade 6 Term 2 — Greece, Grade 5
 and Grade 6 — Armenia, Grade 5 — Sierra Leone, Primary 4–5 lesson
@@ -21,7 +21,7 @@ a half gives a bigger answer than the number you started with —
 that surprises everyone the first time, and it is right: each
 whole holds two halves.
 
-## Then the explanation
+## Sub lesson 1 — A Fraction Times a Whole Number, and "Of"
 **1. A fraction times a whole number — repeated addition.**
 3 × 2/5 is 2/5 + 2/5 + 2/5, which is 6/5, or 1 1/5. Kazakhstan's
 Grade 5 book teaches fraction × natural number exactly this way:
@@ -35,6 +35,7 @@ teaches the product of a fraction by a whole number as its own
 lesson, and the fraction of a set beside it: 2/5 of 30 fruit is
 12 fruit.
 
+## Sub lesson 2 — A Fraction Times a Fraction, and Mixed Numbers
 **2. A fraction times a fraction — top times top, bottom times
 bottom.** 2/3 × 3/4: draw a rectangle, shade 2/3 one way and 3/4
 the other way, and the overlap is the answer — 6/12, which is
@@ -66,6 +67,7 @@ book multiplies mixed numbers through improper fractions too, and
 adds a warning the books repeat: a zero factor gives 0, and a
 fraction as a coefficient — 5/8 of x — behaves the same way.
 
+## Sub lesson 3 — Dividing Fractions
 **4. Dividing fractions — turn it round and multiply.** To divide
 by a fraction, you multiply by its reciprocal — the fraction
 flipped over. The reciprocal of 2/3 is 3/2. So 2/3 ÷ 1/6 is

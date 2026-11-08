@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Decimals
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Decimals
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Decimals
 **Place in the curriculum:** Level 14 of the ladder — the fourth
-lesson of Stage 4 (CURRICULUM.md). It stands on the Fractions
+lesson of Unit 4 (CURRICULUM.md). It stands on the Fractions
 lesson and on Adding and Subtracting Fractions.
 **The one thing this lesson teaches:** decimals — tenths,
 hundredths and thousandths, reading and writing them, turning
@@ -21,6 +23,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per move.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Decimals Tenths, Hundredths, Thousandths** — reading and writing decimals to thousandths, and turning fractions into decimals and back. (Was depth Level 1.)
+2. **Decimals Comparing, Ordering, Rounding, Adding, Subtracting** — comparing, ordering and rounding decimals, and adding and subtracting them with the point lined up. (Was depth Level 2.)
+3. **Decimals Multiplying, Dividing, and by 10, 100, 1000** — multiplying and dividing decimals, and moving the point for 10, 100 and 1000. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11). Recommended,

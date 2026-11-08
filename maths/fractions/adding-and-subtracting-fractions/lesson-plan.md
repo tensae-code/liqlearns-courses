@@ -1,9 +1,11 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Adding and Subtracting Fractions
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Adding and Subtracting Fractions
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Adding and Subtracting Fractions
 **Place in the curriculum:** Level 12 of the ladder — the second
-lesson of Stage 4 (CURRICULUM.md). It stands on the Fractions
-lesson (what a fraction is) and on Stage 3 (multiplication and
+lesson of Unit 4 (CURRICULUM.md). It stands on the Fractions
+lesson (what a fraction is) and on Unit 3 (multiplication and
 division, including the LCM work from factors).
 **The one thing this lesson teaches:** adding and subtracting
 fractions — with the same denominator, then with different
@@ -21,6 +23,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per piece.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Adding and Subtracting Fractions Same Denominators** — adding and subtracting fractions with the same denominator, and why the denominator stays. (Was depth Level 1.)
+2. **Adding and Subtracting Fractions Different Denominators Made the Same** — making different denominators the same with the LCM, then adding or subtracting and simplifying. (Was depth Level 2.)
+3. **Adding and Subtracting Fractions Mixed Numbers, Estimating, Stories** — adding and subtracting mixed numbers, checking by estimating, and story problems. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11). Recommended,

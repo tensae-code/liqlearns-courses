@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The Unitary Method
 
-**Course:** Maths · **Stage:** Stage 4 — Fractions, Decimals, Percentages, Ratio · **Lesson:** The Unitary Method
-**Place in the curriculum:** Level 56 of 136, inside Stage 4 — Fractions, Decimals, Percentages, Ratio (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 4 — Fractions, Decimals, Percentages, Ratio · **Lesson:** The Unitary Method
+**Place in the curriculum:** Level 56 of 136, inside Unit 4 — Fractions, Decimals, Percentages, Ratio (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the unitary method — go from many to ONE, then from one to as many as you need.
 **This lesson's own level:** it stands on multiplying and dividing, and on ratio and proportion — the learner can already share and scale simple amounts. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Unitary Method Many to One** — given the price or measure of many, finding the one by dividing. (Was depth Level 1.)
+2. **The Unitary Method One to Many, Direct Proportion** — passing through the one and multiplying up to any number, in direct proportion. (Was depth Level 2.)
+3. **The Unitary Method Inverse Proportion, and Choosing the Kind** — inverse proportion through the one, and choosing direct or inverse before calculating. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: ratio and proportion (Stage 4) — the unitary method is proportion worked one step at a time. Recommended, never forced.

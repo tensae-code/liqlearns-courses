@@ -1,6 +1,6 @@
 # Adding and Subtracting Fractions — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Adding and Subtracting Fractions
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Adding and Subtracting Fractions
 Built from: Kazakhstan, Grade 4 Part 3 and Grade 5 — Jordan, Grade 4
 Term 2, Grade 5 Term 1 and Grade 6 Term 1 — Egypt, Grade 3 Term 2 and
 Grade 5 Term 2 — Greece, Grade 5 and Grade 6 — Armenia, Grade 5 and
@@ -19,7 +19,7 @@ pieces of the same size. That is the whole lesson: pieces of the
 same size add and take away like ordinary counting. Pieces of
 different sizes must be made the same size first.
 
-## Then the explanation
+## Sub lesson 1 — Adding and Subtracting Fractions Same Denominators
 **1. Same denominators — add the tops, keep the bottom.** When
 two fractions have the same denominator, they are pieces of the
 same size. So you add the numerators and keep the denominator:
@@ -48,6 +48,7 @@ equivalent fractions the same way, with denominators up to 12,
 and South Africa's Grade 6 workbook practises adding and
 subtracting fractions from diagrams first, then as sums.
 
+## Sub lesson 2 — Adding and Subtracting Fractions Different Denominators Made the Same
 **3. Different denominators — make them the same first.** You
 cannot add halves and thirds as they stand, because the pieces
 are different sizes. So you rewrite both fractions with the same
@@ -68,6 +69,7 @@ different denominators as its own lesson, and its Grade 6 book
 teaches adding and subtracting fractions again, including
 negative fractions.
 
+## Sub lesson 3 — Adding and Subtracting Fractions Mixed Numbers, Estimating, Stories
 **4. Mixed numbers — wholes with wholes, parts with parts.**
 A mixed number is a whole number plus a fraction, so you add
 the wholes together and the fractions together: 2 1/4 + 1 1/4

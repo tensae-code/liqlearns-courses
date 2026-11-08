@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Ratio and Proportion
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Ratio and Proportion
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Ratio and Proportion
 **Place in the curriculum:** Level 16 of the ladder — the sixth
-and last lesson of Stage 4 (CURRICULUM.md). It stands on the
+and last lesson of Unit 4 (CURRICULUM.md). It stands on the
 Fractions lesson, the Decimals lesson and the Percentages lesson.
 **The one thing this lesson teaches:** ratio and proportion —
 what a ratio is, equivalent ratios, simplifying and sharing in
@@ -21,6 +23,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per pour.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Ratio Is, and Equivalent Ratios** — writing and reading a ratio, equivalent ratios, and simplifying a ratio. (Was depth Level 1.)
+Note: the lesson text's part "Simplifying ratios and sharing in a ratio" mixes the two bands — simplifying is this sub lesson's band and sharing is Sub lesson 2's. The part is kept whole here, in the earlier sub lesson, and is not split mid-thought.
+2. **Sharing in a Ratio, and Ratio with Fractions and Percent** — sharing a whole in a ratio, and turning a ratio into a fraction and a percent. (Was depth Level 2.)
+3. **Proportion, Unit Rate, Scale, Working Together** — proportion and the rule of three, unit rate and best buy, scale and maps, and working together. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11) and the

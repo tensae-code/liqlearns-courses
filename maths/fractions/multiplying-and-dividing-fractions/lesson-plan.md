@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Multiplying and Dividing Fractions
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Multiplying and Dividing Fractions
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Multiplying and Dividing Fractions
 **Place in the curriculum:** Level 13 of the ladder — the third
-lesson of Stage 4 (CURRICULUM.md). It stands on the Fractions
+lesson of Unit 4 (CURRICULUM.md). It stands on the Fractions
 lesson (what a fraction is) and on Adding and Subtracting
 Fractions.
 **The one thing this lesson teaches:** multiplying and dividing
@@ -21,6 +23,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per fold.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **A Fraction Times a Whole Number, and "Of"** — multiplying a fraction by a whole number, and finding a fraction of a number. (Was depth Level 1.)
+2. **A Fraction Times a Fraction, and Mixed Numbers** — multiplying a fraction by a fraction, cancelling first, and multiplying mixed numbers made improper. (Was depth Level 2.)
+3. **Dividing Fractions** — dividing fractions by the reciprocal, the easy divisions, and finding a number from its fraction. (Was depth Level 3.)
+Note: this sub lesson's last part revisits a fraction of a number (Sub lesson 1's "of") on its way to finding the whole from its fraction — the part is kept whole here, in the order the books run it.
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11) and Adding

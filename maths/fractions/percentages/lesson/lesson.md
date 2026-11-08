@@ -1,6 +1,6 @@
 # Percentages — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Percentages
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Percentages
 Built from: Kazakhstan, Grade 4 Part 3 and Grade 5 — Jordan, Grade 5
 Term 2 and Grade 6 Term 2 — Egypt, Grade 6 Term 2 — Greece, Grade 5
 and Grade 6 — Armenia, Grade 6 — Sierra Leone, Primary 5 lesson
@@ -17,7 +17,7 @@ is just a fraction with 100 underneath, given its own name and
 its own sign. Every percent question in this lesson is a question
 about a 100-grid.
 
-## Then the explanation
+## Sub lesson 1 — Percent Means Out of 100
 **1. Percent means "out of 100".** The word percent comes from
 "per hundred", and the sign % means /100. 1% is 1/100. 25% is
 25/100, which is 1/4. 50% is 1/2. 75% is 3/4. 100% is the whole.
@@ -56,6 +56,7 @@ teach the same conversions. South Africa's Grade 6 workbooks
 teach percentages with fractions and percentages with decimals
 side by side.
 
+## Sub lesson 2 — Percentage of a Number, and the Whole
 **3. Finding a percentage of a number.** Two ways, and they are
 the same way underneath: find 1% first, then multiply — or turn
 the percent into a fraction and multiply. 20% of 50 dinars is
@@ -87,6 +88,7 @@ from a percentage". Libya's Grade 6 book teaches a quantity as
 a percentage of another, including across units — centimetres
 against metres, millilitres against litres.
 
+## Sub lesson 3 — Increase, Decrease, Discount, Tax, Tip
 **5. Increase and decrease.** A price rises by 20%: the new price
 is 100% + 20% = 120% of the old one. A price falls by 15%: the
 new price is 85% of the old one. Sierra Leone's JSS 1 book

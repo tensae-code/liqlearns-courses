@@ -1,6 +1,6 @@
 # Decimals — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Decimals
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Decimals
 Built from: Kazakhstan, Grade 5 — Jordan, Grade 4 Term 2, Grade 5 Term
 2 and Grade 6 Term 1 — Egypt, Grade 5 Term 1 and Grade 6 Term 2 —
 Greece, Grade 3, Grade 4, Grade 5 and Grade 6 — Armenia, Grade 6 —
@@ -21,7 +21,7 @@ them with a comma — 0,5 instead of 0.5 — the same number, a
 different mark. When you see a comma in their books, read it as
 our point.
 
-## Then the explanation
+## Sub lesson 1 — Decimals Tenths, Hundredths, Thousandths
 **1. Tenths, hundredths, thousandths — the places after the
 point.** A decimal is a fraction with a denominator of 10, 100,
 1000, written without the denominator. The point separates the
@@ -56,6 +56,7 @@ as its own chapter. Ghana's B4 teacher manual teaches tenths on
 the number line — 5 tenths is 0.5 — and converting decimal
 fractions to common fractions and back.
 
+## Sub lesson 2 — Decimals Comparing, Ordering, Rounding, Adding, Subtracting
 **3. Comparing, ordering and rounding decimals.** Compare
 decimals place by place, from the highest place: whole parts
 first, then tenths, then hundredths. 0.4 is the same point as
@@ -91,6 +92,7 @@ Mauritania's Grade 5 book teaches addition and subtraction of
 decimals, and its Grade 6 book repeats them with multiplication
 and division beside them.
 
+## Sub lesson 3 — Decimals Multiplying, Dividing, and by 10, 100, 1000
 **5. Multiplying decimals — count the places.** Multiply ignoring
 the point, then put the point back: the answer has as many
 decimal places as the two factors together. 0.3 × 0.4 is 0.12 —

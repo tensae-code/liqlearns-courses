@@ -1,9 +1,11 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Fractions
 
-**Course:** Maths · **Stage:** 4, Fractions, Decimals and Percentages · **Lesson:** Fractions
+**Course:** Maths · **Unit:** 4, Fractions, Decimals and Percentages · **Lesson:** Fractions
 **Place in the curriculum:** Level 11 of the ladder — the first lesson of
-Stage 4 (CURRICULUM.md). It stands on Stage 1 (counting, place value,
-comparing) and Stage 3 (multiplication and division, including sharing).
+Unit 4 (CURRICULUM.md). It stands on Unit 1 (counting, place value,
+comparing) and Unit 3 (multiplication and division, including sharing).
 **The one thing this lesson teaches:** what a fraction is — a share of
 a whole or of a set, written numerator over denominator — how to read
 and write it, place it on a number line, compare it, find fractions
@@ -20,6 +22,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. GIFs come first where a thing must be shown
 changing — a GIF here is 1–2 seconds per fold.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Halves, Quarters, and What a Fraction Says** — splitting a whole into equal parts, naming a half and a quarter, and reading and writing a fraction. (Was depth Level 1.)
+2. **Fractions of Sets, the Number Line, Comparing** — finding a fraction of a set, placing fractions on a number line, and comparing two fractions. (Was depth Level 2.)
+3. **Equal Fractions, and Fractions Bigger Than One** — finding fractions equal to a given fraction, proper, improper and mixed forms, and a fraction of a number. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: counting and comparing (Stage 1), and sharing

@@ -1,6 +1,6 @@
 # Fractions — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Fractions
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Fractions
 Built from: Kazakhstan, Grade 3 Part 2 and Grade 4 Part 3 and Grade 5 —
 Jordan, Grade 1 Term 2, Grade 3 Term 2 and Grade 4 Term 2 — Egypt, Grade 3
 Term 2 — Greece, Grade 3 and Grade 5 — Armenia, Grade 4 and Grade 5 —
@@ -27,7 +27,7 @@ sweets does one child get? One child out of three children — one
 third of the sweets. That is the whole lesson in one move: a share
 of a whole, and a share of a set.
 
-## Then the explanation
+## Sub lesson 1 — Halves, Quarters, and What a Fraction Says
 **1. A share of a whole — the parts must be equal.** A fraction
 starts with a whole — one bread, one chocolate bar, one circle —
 split into equal parts. Kazakhstan's Grade 3 book opens the idea on
@@ -63,6 +63,7 @@ spends a whole chapter on unit fractions: exploring them, modelling
 them, comparing them with models, and saying one whole as unit
 fractions — 1/2 + 1/2, or 1/4 + 1/4 + 1/4 + 1/4.
 
+## Sub lesson 2 — Fractions of Sets, the Number Line, Comparing
 **3. A fraction of a set — the whole can be a group.** The whole
 does not have to be one thing. Jordan's Grade 1 book teaches the
 fraction as part of a set or group: 1/2 of 6 bottle tops is 3
@@ -100,6 +101,7 @@ pupils form and test a hypothesis about comparing, then check it
 on models and on the number line. Greece's Grade 5 book names
 comparison strategies outright and explains each one.
 
+## Sub lesson 3 — Equal Fractions, and Fractions Bigger Than One
 **6. Equivalent fractions — different writing, same amount.**
 1/2, 2/4, 3/6, 4/8 are the same amount written four ways.
 Egypt's Grade 3 book finds equivalent fractions of a half first,

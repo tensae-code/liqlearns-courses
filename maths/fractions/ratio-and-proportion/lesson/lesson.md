@@ -1,6 +1,6 @@
 # Ratio and Proportion — the lesson
 
-Course: Maths · Stage 4: Fractions, Decimals and Percentages · Lesson: Ratio and Proportion
+Course: Maths · Unit 4: Fractions, Decimals and Percentages · Lesson: Ratio and Proportion
 Built from: Armenia, Grade 6 — Jordan, Grade 6 Term 2 — Egypt,
 Grade 6 Term 2 — Greece, Grade 6 — Sierra Leone, JSS 1 Term 2 —
 Mauritania, Grade 5 and Grade 6 — Libya, Grade 5 and Grade 6 —
@@ -19,7 +19,7 @@ yellow to 6 of red. Is it the same colour? Yes — because 6:4 and
 written in numbers: it says how much of one thing goes with how
 much of another.
 
-## Then the explanation
+## Sub lesson 1 — What a Ratio Is, and Equivalent Ratios
 **1. What a ratio is.** A ratio compares two quantities of the
 same kind, and it is written with a colon: 2:1, 3:2, 5:7. It is
 read "two to one", "three to two", "five to seven". The order
@@ -68,6 +68,7 @@ shares. Libya's Grade 6 book teaches ratio with money in dinars,
 cement and sand mixes, fish counts and water volumes in the
 ratio 5:2.
 
+## Sub lesson 2 — Sharing in a Ratio, and Ratio with Fractions and Percent
 **4. Ratio, fractions and percent are the same comparison.** A
 ratio 2:3 means 2 out of 5 parts are the first thing — the
 fraction 2/5, which is 40%. Sierra Leone's JSS 1 book teaches
@@ -77,6 +78,7 @@ together. Ghana's B6 teacher manual teaches the relation of
 ratio to fractions and multiplication. South Africa's Grade 7
 workbooks teach ratio beside rate.
 
+## Sub lesson 3 — Proportion, Unit Rate, Scale, Working Together
 **5. Unit rate and best buy.** A unit rate is the value of one
 unit: Basma does 570 jumps in 6 minutes, so her rate is 570 ÷ 6
 = 95 jumps per minute. To find the best buy, work out the price

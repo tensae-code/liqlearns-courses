@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Variation
 
-**Course:** Maths · **Stage:** Stage 4 — Fractions, Decimals, Percentages, Ratio · **Lesson:** Variation
-**Place in the curriculum:** Level 57 of 136, inside Stage 4 — Fractions, Decimals, Percentages, Ratio (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 4 — Fractions, Decimals, Percentages, Ratio · **Lesson:** Variation
+**Place in the curriculum:** Level 57 of 136, inside Unit 4 — Fractions, Decimals, Percentages, Ratio (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** variation — how one quantity follows another: directly, inversely, jointly, and partly (part constant, part varying), each with its constant k.
 **This lesson's own level:** it stands on ratio and proportion and on the unitary method (Level 56) — the learner can already scale through the one. It needs nothing else.
 
@@ -15,6 +17,17 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Direct Variation** — recognising direct variation, writing y = kx and finding k from one pair. (Was depth Level 1.)
+2. **Inverse Variation** — recognising inverse variation, writing y = k/x with xy = k. (Was depth Level 2.)
+3. **Joint and Partial Variation** — joint variation as a product with one constant, partial variation split into its constant and varying parts, and Pakistan's extra proportion tools. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the unitary method (Level 56) — variation is the unitary idea written with letters: a fixed constant joins the pair. Recommended, never forced.
