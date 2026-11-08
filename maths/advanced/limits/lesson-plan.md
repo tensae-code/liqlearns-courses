@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Limits
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Limits
-**Place in the curriculum:** Level 87 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Limits
+**Place in the curriculum:** Level 87 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** limits — what a function or a sequence gets close to: limits of sequences and of functions, one-sided limits, limits at infinity, the sandwich theorem, and the ε-δ definition where the books teach it.
 **This lesson's own level:** it stands on the functions and sequences lessons — the learner can already read a function's values and a sequence's terms. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Limit Idea and One-Sided Limits** — the limit idea, estimated from tables and graphs, and one-sided limits. (Was depth Level 1.)
+2. **Computing Limits** — computing limits with the limit theorems, and removing a 0/0 form. (Was depth Level 2.)
+3. **Infinity, Sequences, the Sandwich Theorem and ε-δ** — limits at infinity and infinite limits, sequence limits, the sandwich theorem, and the ε-δ definition. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the functions lesson and the sequences lesson (a limit is about values getting close). Recommended, never forced.

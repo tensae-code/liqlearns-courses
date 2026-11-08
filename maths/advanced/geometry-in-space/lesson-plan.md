@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Geometry in Space
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Geometry in Space
-**Place in the curriculum:** Level 91 of 136, in Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Geometry in Space
+**Place in the curriculum:** Level 91 of 136, in Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the synthetic geometry of lines and planes in space — how a plane is fixed, the positions lines and planes can take, and the parallelism and perpendicularity theorem systems, with skew lines, the three-perpendiculars theorem and the dihedral angle.
 **This lesson's own level:** it stands on plane geometry — parallel and perpendicular lines in a plane, and the angle between two lines. It uses no coordinates and no vectors in space; those are the next lesson's home.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Basic Facts and Positions in Space** — the basic facts that fix a plane, and the positions of lines and planes in space, including skew lines. (Was depth Level 1.)
+2. **Parallelism in Space** — parallelism in space: the line–plane and plane–plane criteria and properties. (Was depth Level 2.)
+3. **Perpendicularity, Dihedral Angles and Distances** — perpendicularity and the three-perpendiculars theorem, dihedral angles, and distances in space. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: plane geometry of parallels and perpendiculars (every plane inside space obeys it — China's books state this as a basic fact), and angles (the angle between two lines in space is measured by moving to parallel lines). Recommended, never forced.

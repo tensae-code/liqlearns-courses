@@ -1,20 +1,22 @@
 # Limits — the lesson
 
-Course: Maths · Stage: Stage 12 — Advanced Mathematics · Lesson: Limits
+Course: Maths · Unit: Unit 12 — Advanced Mathematics · Lesson: Limits
 Built from: Greece, Grade 12 Analysis (W12) — Pakistan, Mathematics Classes 11 and 12 — Libya, Grade 11 Science — Vietnam, Toán 11 Tập Một — Armenia, Algebra and Analysis 11 — Iran, Hesaban (1) and Hesaban (2) — Egypt, Pure Mathematics Grade 11 — Cambodia, Grades 11–12 Basic and Advanced and the PRIVATE Limits and Continuity booklet (Khem Putthi) — Kuwait, Grade 12 Term 1 (scientific) — Laos, Grade 10 — South Sudan, Secondary Additional Mathematics 4 — Indonesia, Matematika Tingkat Lanjut Grade 12 — Mauritania, 6AS and 7AS streams (M, C, D, LM, LO) — Jordan, Grade 11 Term 1 Student Book and its companion Exercise Book, plus the separate orphan Grade 11 Term 1 Exercise Book (workbook evidence only, its companion student book is not in hand)
 
 ## Do it first
 Halve a number again and again: 16, 8, 4, 2, 1, 1/2, 1/4 … The terms get smaller and smaller, heading for 0 — they never arrive, but where they head is plain. Now try (x² − 1)/(x − 1) at x = 0.9, 0.99, 0.999: you get 1.9, 1.99, 1.999. At x = 1 the expression is 0/0 and cannot be used at all — yet the values are clearly heading for 2. That heading-for value is a **limit**, and every book in this lesson builds calculus on it: Greece opens a whole chapter on it (Grade 12 Analysis, Ch.1, pp.11–90).
 
-## Then the explanation
+## Sub lesson 1 — The Limit Idea and One-Sided Limits
 **The limit idea.** We write lim(x→a) f(x) = L when the values of f(x) get as close as we like to L as x gets close to a — from either side. The limit is about the journey, not the landing: f(a) itself may be different, or may not exist at all. South Sudan's Additional book builds the idea by estimating limits numerically from tables and graphically from graphs before any algebra (Secondary 4 Additional, Unit 1, pp.3–13), and Iran's Hesaban (1) introduces it the same way, with inscribed polygons closing on the area of a circle (Ch.5, pp.113–151).
 
 **One-sided limits.** Come from the left and you get the left-hand limit, lim(x→a⁻) f(x); come from the right and you get lim(x→a⁺) f(x). The two-sided limit exists exactly when both one-sided limits exist and are equal — Laos's Grade 10 book states this existence condition inside its limits lesson (Ch.VI L16, pp.166–175), and Libya's Grade 11 Science book teaches one-sided limits as their own part of the chapter (Ch.5, pp.111–138). Vietnam's Grade 11 book teaches limits of functions the same way, after limits of sequences (Toán 11 v1, Bài 16, p.111).
 
+## Sub lesson 2 — Computing Limits
 **The limit theorems.** Limits respect arithmetic: the limit of a sum is the sum of the limits, and the same for differences, products, quotients (when the bottom limit is not 0), powers and roots. Pakistan's Class 11 book states the limit theorems and the standard limits in Unit 12 (pp.218–236), so most limits fall to direct substitution: lim(x→2) (4x³ + x − 4) = 32 + 2 − 4 = 30 — try it: the answer is 30.
 
 **Removing 0/0.** When substitution gives 0/0, the form is called indeterminate — it is a signpost, not an answer. The books remove it two ways: factorise and cancel the common factor, as in (x² − 1)/(x − 1) = x + 1 for x ≠ 1, giving limit 2; or multiply top and bottom by the conjugate when square roots appear. Iran's Hesaban (1) teaches the 0/0 case of rational functions exactly this way (p.141), and Egypt's Pure Grade 11 book works limits algebraically by factorisation, rationalisation and standard forms (Unit 3, pp.88–118).
 
+## Sub lesson 3 — Infinity, Sequences, the Sandwich Theorem and ε-δ
 **Limits at infinity, and infinite limits.** As x → ∞ we watch where f(x) settles: lim(x→∞) 1/x = 0. The workhorse fact is lim(x→∞) 1/xⁿ = 0 for n > 0, which Iran's Mathematics (3) states for its compressed treatment (Ch.3, p.60). For a rational function, divide top and bottom by the highest power of x. An infinite limit is the opposite direction: f(x) itself runs away, like 1/x² → ∞ as x → 0. Iran's Hesaban (2) defines infinite limits, states eight theorems for them, and reads the asymptotes off them: a vertical asymptote where the function runs away, a horizontal asymptote where it settles at infinity (pp.46–67). One correction, taught corrected and never as printed: Pakistan's Grade 12 book prints a limit at infinity on p.25 as ∞; the correct value is **−∞**.
 
 Tip — from us, not from the books. For a rational function at infinity, only the highest powers matter: compare the top degree with the bottom degree. Top smaller → limit 0; degrees equal → the ratio of the leading coefficients; top bigger → the limit is infinite (or does not settle).

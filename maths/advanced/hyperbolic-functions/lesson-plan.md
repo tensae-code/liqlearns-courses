@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Hyperbolic Functions
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Hyperbolic Functions
-**Place in the curriculum:** Level 95 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Hyperbolic Functions
+**Place in the curriculum:** Level 95 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** hyperbolic functions and their inverses — sinh, cosh, tanh and their partners, built from eˣ and e⁻ˣ: their definitions, graphs, identities, derivatives, log forms and inverse functions.
 **This lesson's own level:** it stands on the logarithms-and-exponentials lesson and the derivatives lesson — the learner can already use eˣ, ln x and the basic derivative rules. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Definitions, Graphs and Identities** — the six hyperbolic functions built from eˣ: definitions, graphs, domains, ranges and identities. (Was depth Level 1.)
+2. **Derivatives and Log Forms** — the derivatives of the hyperbolic functions, and their log forms. (Was depth Level 2.)
+3. **Inverse Hyperbolic Functions** — the inverse hyperbolic functions: definitions, domains, log forms and derivatives. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the logarithms-and-exponentials lesson (every hyperbolic function is built from eˣ and e⁻ˣ). Recommended, never forced.

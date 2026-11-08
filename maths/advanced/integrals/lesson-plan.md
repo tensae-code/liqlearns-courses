@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Integrals
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 51 of 52
-**Place in the curriculum:** Stage 12, the sixth lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 51 of 52
+**Place in the curriculum:** Unit 12, the sixth lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** integrals — undoing differentiation, and using definite integrals for areas and volumes
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Antiderivatives** — antiderivatives and the indefinite integral, with its + C. (Was depth Level 1.)
+2. **Methods of Integration** — the methods of integration: substitution, partial fractions and parts. (Was depth Level 2.)
+3. **Definite Integrals, Areas and Volumes** — definite integrals by Newton–Leibniz, and using them for areas and volumes of revolution. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the derivatives lesson (an integral undoes a derivative) and the logarithms lesson (some integrals are logs). Recommended, never forced.
