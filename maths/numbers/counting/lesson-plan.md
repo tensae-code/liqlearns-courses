@@ -1,7 +1,82 @@
+<!--
+TEMPLATE — units/sub-lessons restructure (pilot, 2026-11-08)
+
+This lesson is the template for rolling the 2026-11-08 ruling
+(README: "Units, Lessons and Sub Lessons") out to every other
+lesson. A rollout agent repeats exactly these moves, without
+re-deciding anything:
+
+1. NAMES. Cut the lesson's parts at the topic's NATURAL JUMPS —
+   the places where the content itself steps up (here: the count
+   leaves single digits, then runs by tens, then passes 100).
+   Name each sub lesson plainly for the thing it covers, in the
+   shape "<Lesson thing> <the band/part>" (here: "Counting 1 to
+   10"). Never name a sub lesson after a book's unit, a story, or
+   a level number. The numbers in a name follow THIS lesson's
+   real content — do not copy another lesson's bands.
+2. THE LIST. lesson-plan.md carries a "## Sub lessons" section
+   listing the sub lessons IN ORDER, each with its name and one
+   line saying what it covers and which old depth layer it was.
+   This list is what the app renders: the learner sees ALL of
+   them from the start, locked ahead, opening in order (gate
+   spec in README).
+3. THE TEXT. lesson/lesson.md is sectioned under the sub-lesson
+   names, in order, as "## Sub lesson N — <name>" headings over
+   the part's existing text, moved VERBATIM — nothing dropped,
+   nothing rewritten, every book+page citation stays inside its
+   part. Lesson-level sections that are not a part (the opening
+   "Do it first", the closing companion work and "Do It
+   Yourself") stay OUTSIDE the sub-lesson sections, before the
+   first and after the last, unchanged.
+4. DEPTH. levels.md becomes the sub-lesson depth record: retitle
+   it, give one section per sub lesson IN ORDER, and carry the
+   old layer's pass mark / depth wording into its sub lesson's
+   section. Record the mapping (old layer -> sub lesson) in the
+   file's opening lines. If one old layer covers two sub
+   lessons, split its pass mark at the same natural jump and say
+   so. The old layer NUMBER survives only inside that mapping
+   note — everywhere else the sub lesson is the unit of depth.
+   (The learner skill number and the lesson's own level — the
+   lesson=level design — are NOT touched by this restructure.)
+5. QUESTIONS. Questions stay in questions/, one file per type.
+   Every item's marker names its sub lesson: "(Sub lesson N)".
+   Where a file already groups items by the old layers, map the
+   groups onto the sub lessons and SAY SO in a header line at
+   the top of the file, including any split (an old layer whose
+   items divide between two sub lessons is split item by item,
+   by what the item actually asks). Items never move between
+   type files, and no item's wording or answer changes.
+6. SOURCES. lesson/sources.md is not restructured: add nothing,
+   remove nothing. If a sources file names its parts, align the
+   part names to the sub-lesson names; if it does not (this
+   pilot's does not — its provenance table rows are per-country
+   content lines), leave it exactly as it is.
+7. GROUPING LABEL. The lesson's header lines that name its
+   course grouping follow the rename: "Stage" -> "Unit" (Maths)
+   in the plan and the lesson text. Nothing else in the headers
+   changes — the lesson's own level ("Place in the curriculum:
+   Level 2") is the lesson=level design and stays.
+8. WHEN PARTS DON'T CUT CLEANLY. If a part mixes two bands (an
+   explanation that runs 1–20 in one breath), keep the text in
+   the EARLIER sub lesson and note the overlap in the plan's
+   Sub lessons list — do not split a paragraph mid-thought and
+   do not invent a cut the content does not make. If a sub
+   lesson ends up with no questions of its own in some type
+   file, that is fine (a type file exists only for types the
+   sub lesson has); but if a NON-LAST sub lesson has no
+   questions in ANY file, say so plainly in the rollout report
+   — the gate draws its prove-it set from that sub lesson.
+9. GATE SANITY CHECK (run before committing): the Sub lessons
+   list is complete and in order; every sub lesson except the
+   last has questions of its own somewhere in questions/; the
+   question items' markers cover every item exactly once; any
+   hardness ranking the files carry is still present, untouched.
+-->
+
 # Lesson plan — Counting
 
-**Course:** Maths · **Stage:** Stage 1 — Numbers · **Lesson:** Counting
-**Place in the curriculum:** Level 2, the first lesson of Stage 1 — after Pencil and Lines (Level 1, the shared course) (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Counting
+**Place in the curriculum:** Level 2, the first lesson of Unit 1 — after Pencil and Lines (Level 1, the shared course) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** counting real things 1 to 100 and beyond — one number for each thing, in order, with the count told whole.
 **This lesson's own level:** it stands on Pencil and Lines (Level 1, the shared course) — the learner can already make marks and lines. It needs nothing else.
 
@@ -16,9 +91,26 @@ student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
 
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Counting 1 to 10** — one number for each thing, touching
+   each thing once, the count told whole. (Was depth Level 1.)
+2. **Counting 11 to 20** — the line keeps going one by one;
+   running it forward and back. (Was depth Level 2.)
+3. **Counting by Tens to 100** — the tens line in jumps, and
+   things grouped in tens: ten bundles of ten is one hundred.
+   (Was the first half of depth Level 3.)
+4. **Counting Past 100** — the same jumps keep going, and the
+   ones fill in between the tens. (Was the second half of depth
+   Level 3.)
+
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — counting needs marks and fingers to count on. Recommended, never forced.
-- Counting is the base of the whole course: every later lesson counts on it. Nothing here is adding or taking away — that is Stage 2's home.
+- Counting is the base of the whole course: every later lesson counts on it. Nothing here is adding or taking away — that is Unit 2's home.
 
 ## What the learner can do when it ends
 1. Count 1–10 on real things, touching each thing once, the way Libya's Grade 1 book starts (numbers 1 to 10, p.21).
@@ -55,7 +147,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Counts the things but loses the line → Libya's and Sierra Leone's method: touch each thing as you count it, and move it aside; a thing touched is a thing counted once.
 - Skips numbers in the teens → count the 1–20 line on the number line every day, forward and back, until the line is one piece.
 - Counts past 100 and gets lost → count in tens first (10, 20, 30 …), then fill in the ones between the tens.
-- This lesson's next door: Place-value (same stage) — the tens you counted become the tens place.
+- This lesson's next door: Place-value (same unit) — the tens you counted become the tens place.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Libya Grade 1; Greece Grade 1 Teuxos A; Sierra Leone Primary lesson plans — teacher evidence; Ghana DL teacher guides — teacher evidence; Kazakhstan Grade 1; South Africa Grade 1 Workbook 1). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

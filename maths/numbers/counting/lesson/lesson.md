@@ -1,6 +1,6 @@
 # Counting — the lesson
 
-Course: Maths · Stage: Stage 1 — Numbers · Lesson: Counting
+Course: Maths · Unit: Unit 1 — Numbers · Lesson: Counting
 Built from: Libya, Grade 1 pupil's book — Greece, Grade 1 Teuxos A — Sierra Leone, Primary lesson plans (teacher evidence) — Ghana, DL teacher guides (teacher evidence) — Kazakhstan, Grade 1 — South Africa, Grade 1 Workbook 1
 
 ## Do it first
@@ -11,7 +11,7 @@ library starts numbers the same way Libya does: with real things,
 a few at a time — **the numbers 1 to 10 first** (Grade 1, p.21),
 counted on objects and children, before any adding or taking away.
 
-## Then the explanation
+## Sub lesson 1 — Counting 1 to 10
 **1 to 10**, each number one thing at a time. Touch the thing,
 say the number, move the thing aside:
 
@@ -24,6 +24,7 @@ twice. Greece's Grade 1 book counts the same way, on numbers to
 20 with sums to 10 and coins beside them (Teuxos A, Unit 3,
 printed pp.47–62).
 
+## Sub lesson 2 — Counting 11 to 20
 **11 to 20** — the line keeps going the same way, one by one:
 
 11 · 12 · 13 · 14 · 15 · 16 · 17 · 18 · 19 · 20
@@ -33,6 +34,7 @@ pp.81–92): counting first (p.81), then bigger and smaller
 (p.85). Nothing changes in the method — only the line gets
 longer.
 
+## Sub lesson 3 — Counting by Tens to 100
 **The tens to 100** — counted by jumps:
 
 10 · 20 · 30 · 40 · 50 · 60 · 70 · 80 · 90 · 100
@@ -48,6 +50,7 @@ Grade 1 book counts in tens as part of forming two-digit numbers,
 and South Africa's Grade 1 Workbook 1 counts on beads — "circle
 only 20 beads" — the count checked against real things.
 
+## Sub lesson 4 — Counting Past 100
 **Past 100** — the same jumps keep going: 110, 120, 130 … and
 the ones fill in between the tens. Counting never changes its
 rule: one number for each thing, in order, and the last number
