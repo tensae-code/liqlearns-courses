@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Personal statements and proposals
 
 **Course:** English · **Title:** Essay · **Lesson:** Personal statements and proposals
-**Place in the curriculum:** Level 35, "Writing for a Job".
+**Place in the curriculum:** Unit 35 — "Writing for a Job".
 **The one thing this lesson teaches:** the two short
 formal pieces that present a person and a plan — the
 personal statement (who I am, in prose, for an
@@ -14,6 +15,28 @@ facts, need, plan, ask — at document length.
 **What the learner can do at the end:** write a personal
 statement from its model's moves and a short formal
 proposal in the books' section shape.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Personal statements and proposals — the personal statement** —
+   what a personal statement is, where it rides, and how it differs
+   from the CV. (Was depth Level 1.)
+
+2. **Personal statements and proposals — the proposal's shape** — a
+   formal proposal laid out — present situation, why change is
+   needed, what could be done — inside its taught length and
+   register. (Was depth Level 2.)
+
+3. **Personal statements and proposals — both judged whole** — both
+   pieces judged as formal pieces: a statement that merely repeats
+   its CV, and a proposal with no workable plan, repaired. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: CV and cover letter. Recommended,

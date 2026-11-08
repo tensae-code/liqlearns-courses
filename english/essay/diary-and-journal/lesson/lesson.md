@@ -35,6 +35,9 @@ the top, short lines running down the day. What you do:
 point at the date first, then read the day downwards.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Diary and journal — the parts
+
 **The four parts.** Egypt's Primary 4 book prints the diary
 entry in four parts: **date, greeting, details, closing** —
 inside a four-paragraph frame. Hold those four and every
@@ -43,6 +46,8 @@ first because the diary is filed by days; the greeting is
 the diary speaking to itself ("Dear Diary"); the details
 are the day; the closing is the writer talking back to the
 day — a thought, a wish, a plan.
+
+## Sub lesson 2 — Diary and journal — the day in order
 
 **The day, in its sections.** Egypt's Preparatory 8 book
 teaches a desert diary of 90–100 words with a Diary Entry
@@ -70,6 +75,8 @@ Diary", an opening line, a body of **events and feelings**,
 and a **closing thought or wish** — its task is a diary
 entry of five to six sentences about a traveller who
 received unexpected kindness.
+
+## Sub lesson 3 — Diary and journal — diary into journal
 
 **The journal — the diary widened.** Egypt's Secondary 10
 book defines the **personal journal** outright: a private,

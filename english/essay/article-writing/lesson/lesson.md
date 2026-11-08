@@ -22,6 +22,9 @@ reader who is free to leave. Articles are written for
 free readers. Here is how the books catch them.
 
 ## Then the explanation
+
+## Sub lesson 1 — Article writing — the shape
+
 **The kind defined.** Egypt's Preparatory 9 book (Term 2)
 defines the short article in its Helpful Hints: a piece
 of writing that gives information or ideas about a topic
@@ -38,6 +41,8 @@ music: where news says "Storm destroys school roof", the
 article may say "The Night the Sky Fell In" — but the
 topic must still be findable inside it.
 
+## Sub lesson 2 — Article writing — the hook
+
 **The hook.** Malaysia's Form 5 book (Unit 4, Writing,
 pp.52–53) teaches the article's opening by name: getting
 the readers' attention with a direct, less formal tone
@@ -48,6 +53,8 @@ the hook wearing the headline's coat). A surprising true
 fact and a promise are the hook's other two shapes. The
 hook's seat is the first two lines; a hook on line nine
 is a rescue, not an opening.
+
+## Sub lesson 3 — Article writing — the body and closing
 
 **The body — ordered points.** The article's body is
 paragraphs of points, in an order the reader can feel.
@@ -76,6 +83,8 @@ with a line that LANDS — the thought the reader carries
 out of the page. Summary closes the information; landing
 closes the experience. Aim for both in one sentence when
 you can.
+
+## Sub lesson 4 — Article writing — the fact file
 
 **The fact file.** Egypt's same book (Unit 9) defines the
 article's small factual brother in its Writing Tip: a

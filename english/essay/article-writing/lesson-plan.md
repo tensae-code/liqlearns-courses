@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Article writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Article writing
-**Place in the curriculum:** Level 37, "Writing Your View"
+**Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the magazine/newspaper article — a headline, a hook that pulls the reader in (a rhetorical question among its tools), and an ordered body that informs in a voice a stranger enjoys; with its small factual brother, the fact file.
 **This lesson's own level:** it stands on News writing (Level 36 — the article is news slowed down and given a voice) and on The essay. It is the third lesson of Level 37.
@@ -10,6 +11,31 @@
 - use a rhetorical question as a hook or a turn, and keep the article's tone direct and alive
 - analyse and imitate a model article paragraph by paragraph, the way the books teach it
 - build a fact file: title, headed sections, short notes, interesting facts, simple language, a picture
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Article writing — the shape** — the article defined, and its
+   headline carrying the topic with a reason to look. (Was depth
+   Level 1, minus its fact-file half.)
+
+2. **Article writing — the hook** — an opening that wins a stranger:
+   a rhetorical question or a surprising true sentence, in a direct
+   tone. (Was depth Level 2.)
+
+3. **Article writing — the body and closing** — points ordered one
+   per paragraph, the article's measure, and a closing line that
+   lands. (Was depth Level 3's whole piece, minus the fact file.)
+
+4. **Article writing — the fact file** — the article's small factual
+   brother: title, headed sections, short notes, interesting facts,
+   simple language, a picture. (Was the fact-file halves of depth
+   Levels 1 and 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: News writing; The essay. Recommended, never forced.

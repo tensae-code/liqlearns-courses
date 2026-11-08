@@ -36,6 +36,9 @@ blank letter with five empty paragraph blocks. What you
 do: match each block to the advert line it will answer.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Job application letters — the paragraph order
+
 **The paragraph order.** Cambodia's Grade 12 book coaches
 the covering letter paragraph by paragraph (Unit 30,
 "Applying for a job", printed pp.163–168), and India's
@@ -53,6 +56,8 @@ attend an interview. Uzbekistan's "Letters of
 application" lessons (English Matters 9, Unit 9, p.102)
 drill the same letter kind at school-leaving age.
 
+## Sub lesson 2 — Job application letters — matched to the advert
+
 **Matched, never generic.** India's unit prints the whole
 chain on the page: a sample advertisement, the CV format,
 and the model covering letter written TO that advert — the
@@ -60,6 +65,8 @@ letter's facts are the advert's asks, answered. Egypt's
 employment unit teaches the same law from the employer's
 side: personalised applications over generic resumes.
 Write the letter last, advert open beside you.
+
+## Sub lesson 3 — Job application letters — the letter judged whole
 
 **The email twin.** Egypt's Secondary 10 book teaches the
 application as a formal email too (Unit 4, Lesson 5): the

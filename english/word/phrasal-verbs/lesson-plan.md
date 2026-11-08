@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Phrasal verbs
 
 **Course:** English · **Title:** Word · **Lesson:** Phrasal verbs
-**Place in the curriculum:** Level 33, "Phrasal
+**Place in the curriculum:** Unit 33 — "Phrasal
 Verbs" — the level is this lesson (CURRICULUM.md).
 **The one thing this lesson teaches:** the phrasal
 verb system — a verb + particle whose meaning is its
@@ -21,6 +22,26 @@ verb around its object — and always around a pronoun;
 keep a non-separable one's object after the whole
 phrase; and carry three-word phrasal verbs (look
 forward to, put up with, keep up with) as single units.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Phrasal verbs — one meaning, in sets** — a verb + particle
+   whose meaning is its own, learned in the themed sets the books
+   file. (Was depth Level 1.)
+
+2. **Phrasal verbs — the splitting grammar** — transitive against
+   intransitive, separable verbs split around their objects, and
+   non-separable pairs kept whole. (Was depth Level 2.)
+
+3. **Phrasal verbs — three-word chains** — look forward to, put up
+   with, keep up with and their family, used as single units with
+   their objects after the chain. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the everyday verb lessons.

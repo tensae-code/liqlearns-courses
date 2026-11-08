@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Forms, minutes and questionnaires
 
 **Course:** English · **Title:** Essay · **Lesson:** Forms, minutes and questionnaires
-**Place in the curriculum:** Level 36, "Writing the Facts"
+**Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the short factual instruments — filling a form so every box tells the truth briefly, keeping minutes and an agenda so a meeting can be trusted later, and designing a questionnaire whose questions gather countable answers.
 **This lesson's own level:** it stands on Report writing (same level — a questionnaire feeds a survey report; minutes are a meeting's report). It is the fourth lesson of Level 36.
@@ -9,6 +10,26 @@
 - fill any form accurately: right facts, right boxes, block-clear, nothing invented
 - write an agenda before a meeting and minutes after it — who was there, what was decided, who does what by when
 - design a questionnaire of short, single, countable questions with answer boxes that tally themselves
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Forms, minutes and questionnaires — the form** — a form filled
+   completely and truthfully — every field in its box, nothing
+   invented, nothing chatty. (Was depth Level 1.)
+
+2. **Forms, minutes and questionnaires — agenda and minutes** — an
+   agenda that plans a meeting, and minutes that record its
+   decisions and actions with owners and times. (Was depth Level 2.)
+
+3. **Forms, minutes and questionnaires — the questionnaire** — a
+   questionnaire of focused, single, countable questions whose
+   answers tally straight into a survey report. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Report writing (a questionnaire exists to feed a report). Recommended, never forced.

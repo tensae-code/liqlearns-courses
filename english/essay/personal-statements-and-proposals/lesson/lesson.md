@@ -35,6 +35,9 @@ PLAN, ASK. What you do: deal the cards for one change you
 want at your school, one card at a time.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Personal statements and proposals — the personal statement
+
 **The personal statement.** Jordan's Grade 10 book
 teaches it whole (Unit 5, "The next step", Writing,
 pp.56–57): a personal statement as part of a university
@@ -50,6 +53,8 @@ lives: its six sections give the personal
 statement/objective 2–3 sentences (Unit 6, Lesson 5).
 The full statement is that seed grown to a page: same
 truths, joined with *because* and *so*.
+
+## Sub lesson 2 — Personal statements and proposals — the proposal's shape
 
 **The formal proposal.** Jordan's Grade 12 book teaches
 it with a full model (Semester 2, Unit 9, Lesson 6A,
@@ -67,6 +72,8 @@ the authority letter grown to document size: a decider
 must be able to say yes to a PLAN, not to a wish — so the
 plan is the longest section, and the ask is one sentence
 a busy reader can grant.
+
+## Sub lesson 3 — Personal statements and proposals — both judged whole
 
 **Register in both.** Formal, like every piece in this
 level: full sentences, no contractions, claims tied to

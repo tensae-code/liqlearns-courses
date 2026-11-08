@@ -34,6 +34,9 @@ What you do: say one fact both ways, "She was born in…"
 and "I was born in…".]
 
 ## Then the explanation
+
+## Sub lesson 1 — Biography writing — the pair and the person
+
 **The pair.** South Sudan's Primary 7 book gives a whole
 unit to the pair and defines them in one breath: a
 **biography** is a life **written by another person**; an
@@ -55,6 +58,8 @@ Its task is a biography of 90–100 words about your role
 model. Preparatory 7's three tips agree: say who and why
 you chose them; what they did, in the past simple; the
 qualities that make them known.
+
+## Sub lesson 2 — Biography writing — life order and key dates
 
 **The full structure.** Egypt's Secondary 12 book states
 the whole frame: the questions **who / when and where /

@@ -25,6 +25,9 @@ exactly that. It stands alone; the past simple is a
 soft hint, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Used to and would — the finished past
+
 **Used to: habits and states, both finished.** "I
 **used to** live in a village." "We **used to** walk to
 school." Egypt's Secondary 11 book states the double
@@ -57,6 +60,8 @@ Unit 4, printed pp.19–24). Where a book errs, the
 course corrects it and the sources say so: learn **Did
 you use to…?** and **I didn't use to…** with confidence.
 
+## Sub lesson 2 — Used to and would — would for repeated actions
+
 **Would: repeated actions in a set past scene.** Once
 a story's past is established, **would** + base verb
 replays its repeated actions: "Every summer we **would
@@ -71,6 +76,8 @@ on one page in its "Hobbies: Then and Now" lesson
 (Unit 6, Lesson 5, printed p.45): used to opens the
 past; would dances inside it. And **wouldn't** carries
 refusal: "We asked him to sing, but he **wouldn't**."
+
+## Sub lesson 3 — Used to and would — the accustomed family
 
 **The other family: be used to / get used to.** Do not
 mix them. **Be used to** + noun or -ing means

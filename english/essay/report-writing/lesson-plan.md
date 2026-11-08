@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Report writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Report writing
-**Place in the curriculum:** Level 36, "Writing the Facts"
+**Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the factual report — a piece that gives checked information under headings and ends in what should be done: the survey report (aims, method, numbers, conclusion) and the formal report (title, To/From, introduction, findings, recommendations, conclusion).
 **This lesson's own level:** it stands on The paragraph (each headed part is paragraphs with one job) and on The essay (a planned whole). It is the first lesson of Level 36, Writing the Facts.
@@ -10,6 +11,28 @@
 - run a small survey and report it: aim, method, numbers in words and a chart, conclusion
 - keep a report factual — full forms, no contractions, no opinions wearing fact's clothes
 - close a report the way the books close it: a conclusion that follows from the findings, and recommendations a reader can act on
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Report writing — the frame** — the formal report's parts in
+   order — Title, To/From, Introduction, Findings, Recommendations,
+   Conclusion — and each part's job, in formal language. (Was depth
+   Level 1.)
+
+2. **Report writing — the survey** — the survey report's run — aims,
+   method, statistics, conclusion — with counts turned into
+   majority/minority sentences and a chart. (Was depth Level 2.)
+
+3. **Report writing — the judgement** — the whole piece judged as a
+   reader meets it: opening and closing, the problem-solving report
+   and the small report — a report a stranger could act on. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph; The essay. Recommended, never forced.

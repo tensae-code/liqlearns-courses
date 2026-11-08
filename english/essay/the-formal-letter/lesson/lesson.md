@@ -34,6 +34,9 @@ labelled blocks — addresses, date, greeting, body, closing,
 signature. What you do: name each block as it lands.]
 
 ## Then the explanation
+
+## Sub lesson 1 — The formal letter — the layout
+
 **The layout — every part in its seat.** Greece's Office
 Clerks book opens with a two-page reference that takes the
 business letter apart before any unit begins. Its anatomy,
@@ -47,6 +50,8 @@ Language note that diagrams the letter part by part
 (p.14), so the learner sees the frame before writing inside
 it. Learn the seats once; every formal letter you ever
 write sits in them.
+
+## Sub lesson 2 — The formal letter — the pairs and the parts' jobs
 
 **The pairs — greeting and closing hold hands.** The same
 Greek reference shows how the form of address, the greeting
@@ -68,6 +73,8 @@ facts, one point per paragraph, in order; the last says
 what you ASK — one clear action, politely put ("I would be
 grateful if you could…"). Nothing else belongs: no news, no
 jokes, no second request hiding in the facts.
+
+## Sub lesson 3 — The formal letter — the register held whole
 
 **The register — formal is a word-choice, kept whole.**
 Uzbekistan's English Matters 9 gives a whole unit to

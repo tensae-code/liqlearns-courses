@@ -1,15 +1,17 @@
 # Cleft sentences — multiple choice
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Cleft sentences — the shape, except item 2, which is Sub lesson 2 — Cleft sentences — moving the light · (Level 2) -> Sub lesson 2 — Cleft sentences — moving the light · (Level 3) -> Sub lesson 3 — Cleft sentences — the emphasis family.
+
 Pick the one right answer.
 
-**1. (Level 1)** Light the PERSON: "Omar wrote the letter." a) It was the letter that Omar wrote. b) It was Omar who wrote the letter. c) It was yesterday that Omar wrote.
+**1. (Sub lesson 1)** Light the PERSON: "Omar wrote the letter." a) It was the letter that Omar wrote. b) It was Omar who wrote the letter. c) It was yesterday that Omar wrote.
 **Answer: b)** — the part between It was and who is the lit part — Omar (Vietnam, Grade 11, Unit 8).
 
-**2. (Level 1)** Which tail is right? "It was my sister ___ taught me to ride." a) which b) who c) what
+**2. (Sub lesson 2)** Which tail is right? "It was my sister ___ taught me to ride." a) which b) who c) what
 **Answer: b)** — a person in the light takes who.
 
-**3. (Level 2)** A past event: "___ in 2021 that we met." a) It is b) It was c) It has
+**3. (Sub lesson 2)** A past event: "___ in 2021 that we met." a) It is b) It was c) It has
 **Answer: b)** — a finished event takes was; is lights a present truth.
 
-**4. (Level 3)** "Never before had I seen the sea." This is: a) a cleft sentence b) negative inversion c) a fragment
+**4. (Sub lesson 3)** "Never before had I seen the sea." This is: a) a cleft sentence b) negative inversion c) a fragment
 **Answer: b)** — a negative word at the front with the helper flipped before the subject — Jordan's model shape (Grade 12, Unit 2, p.18).

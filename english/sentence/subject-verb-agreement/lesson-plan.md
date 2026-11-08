@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Subject-verb agreement
 
 **Course:** English · **Title:** Sentence · **Lesson:** Subject-verb agreement
-**Place in the curriculum:** Level 31, "Linking and
+**Place in the curriculum:** Unit 31 — "Linking and
 Fixing Sentences" — the second lesson of the level
 (CURRICULUM.md).
 **The one thing this lesson teaches:** concord — the
@@ -19,6 +20,29 @@ subject under every decoration; choose is/are, was/were,
 has/have and the -s form for one of, each, quantities,
 uncountables, police/people, news/maths subjects, and
 subjects joined by and, or and nor.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Subject-verb agreement — the base rule** — a singular subject
+   takes a singular verb, a plural subject a plural verb, with there
+   is/are and the -s form. (Was depth Level 1.)
+
+2. **Subject-verb agreement — the tricky subjects** — one of +
+   plural noun, quantities weighed as one lump, uncountables, and
+   police and people — the -s-ending singulars (news, maths) ride in
+   this sub lesson's Trap three and are re-checked in Sub lesson 3.
+   (Was depth Level 2.)
+
+3. **Subject-verb agreement — the traps** — of-phrases hiding the
+   true subject, or/nor and either…or answering to the nearer
+   subject, and -s-ending singulars kept apart from true plurals.
+   (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence and Nouns

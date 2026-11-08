@@ -20,6 +20,9 @@ with the writer out of the room — that is the whole test
 of this kind of writing. Here is how the books build it.
 
 ## Then the explanation
+
+## Sub lesson 1 — Process writing — the shape
+
 **The shape.** Indonesia's Grade 7 book teaches the
 procedure text in its food chapter (Chapter 2, "Culinary
 and Me") — recipes and craft procedures, an instant-
@@ -51,6 +54,8 @@ procedure lives in a standing present, true every time
 anyone does it. One step carries ONE action; where "and"
 joins two actions, the step splits.
 
+## Sub lesson 2 — Process writing — the hinges
+
 **The hinges.** Sequence words — first, then, next, after
 that, finally — mark the turns so the reader always knows
 where they stand. Malaysia's Year 6 book (Academy Stars,
@@ -72,6 +77,8 @@ kind in prose: directions written out — the way home to
 school, how to make a cake. Directions are a procedure
 whose steps are turns: the same law holds — order,
 completeness, nothing left to guessing.
+
+## Sub lesson 3 — Process writing — the four doors
 
 **The four doors — Indonesia's named genres.** Indonesia's
 books name their text kinds and teach each with its own

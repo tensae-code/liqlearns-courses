@@ -24,6 +24,9 @@ it stands alone, but if and/but still feel new, that
 lesson is a soft hint, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Connectors and clauses — the five jobs
+
 **The five jobs.** Vietnam's Grade 11 book tables its
 linking words by function (Unit 9): adding (Besides,
 Moreover, In addition), contrast (However, Although, In
@@ -34,6 +37,8 @@ the same territory as one connectives unit (Unit 15):
 because / because of, so that, in order to, although,
 however, therefore, in spite of. Learn the jobs first;
 the words are servants of the jobs.
+
+## Sub lesson 2 — Connectors and clauses — time, reason and purpose clauses
 
 **Time clauses.** Bolivia's Year 5 book gives the form
 lesson (Topic 4): an adverb clause of time is a
@@ -71,6 +76,8 @@ saved money **in order to** buy a book" (in order to +
 the base verb, same subject). Purpose answers "what
 for?" — it is a reason aimed at the future.
 
+## Sub lesson 3 — Connectors and clauses — contrast and concession
+
 **Contrast and concession: although, while, however.**
 Kuwait's Pearls 9B book devotes a grammar lesson to
 exactly four linkers of contrast — **while, although,
@@ -103,6 +110,8 @@ map with adverbial clauses of manner and result (Unit
 and comparison (Unit 8: if, provided that, until,
 unless; as … as) — those families are named here so you
 can recognise them; conditionals have their own lesson.
+
+## Sub lesson 4 — Connectors and clauses — result connectors
 
 **Result connectors stand alone.** Therefore,
 consequently, as a result and on the other hand belong

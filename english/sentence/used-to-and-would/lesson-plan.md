@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Used to and would
 
 **Course:** English · **Title:** Sentence · **Lesson:** Used to and would
-**Place in the curriculum:** Level 32, "Habits and
+**Place in the curriculum:** Unit 32 — "Habits and
 Orders" — the first lesson of the level (CURRICULUM.md).
 **The one thing this lesson teaches:** talking about
 the past that is finished — **used to** for past habits
@@ -21,6 +22,27 @@ to (accustomed, present) — including spotting the one
 book rule in the set that is wrong and must not be
 followed (Afghanistan's, corrected below and in the
 sources).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Used to and would — the finished past** — used to for past
+   habits and past states, both finished, in its three forms, with
+   use to bare after did. (Was depth Level 1.)
+
+2. **Used to and would — would for repeated actions** — would
+   brought in for repeated past actions once the past scene is set,
+   kept away from states, and refused with wouldn't. (Was depth
+   Level 2.)
+
+3. **Used to and would — the accustomed family** — be used to / get
+   used to + -ing for being accustomed now, kept apart from the
+   finished-past used to. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the past simple lessons.

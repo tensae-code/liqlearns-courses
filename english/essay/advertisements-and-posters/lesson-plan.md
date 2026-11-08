@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Advertisements and posters
 
 **Course:** English · **Title:** Essay · **Lesson:** Advertisements and posters
-**Place in the curriculum:** Level 37, "Writing Your View"
+**Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** short persuasive copy — an advertisement's claim, its benefit adjectives and its call to action, in the fewest words that can work; and its wall-sized family: posters, flyers and infographics.
 **This lesson's own level:** it stands on Review writing and Article writing in the same level — persuasion with the review's facts kept honest and the article's hook sharpened to a point. It closes Level 37.
@@ -10,6 +11,29 @@
 - name the advertising methods and audiences and choose between them (Cambodia's set)
 - build a poster or flyer that passes the wall test: readable at three steps, one message, a visual, contact or next step
 - turn facts into an infographic: few words, big numbers, honest pictures
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Advertisements and posters — the advert's anatomy** — an
+   advertisement's parts — target market first, then claim,
+   benefits, call to action — with its selling points for a named
+   market. (Was depth Level 1.)
+
+2. **Advertisements and posters — kinds and methods** — the
+   advertising kinds and methods, chosen by audience, and the advert
+   as a composition. (Was depth Level 2's methods half.)
+
+3. **Advertisements and posters — the poster, the flyer and the
+   infographic** — the wall family: a poster or flyer that passes
+   the three-step test, and facts turned into an infographic —
+   persuading hard and lying never. (Was depth Level 2's media half,
+   judged by depth Level 3's honesty.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Review writing; Article writing. Recommended, never forced.

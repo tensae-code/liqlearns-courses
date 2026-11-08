@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Job interviews
 
 **Course:** English · **Title:** Essay · **Lesson:** Job interviews
-**Place in the curriculum:** Level 35, "Writing for a Job" —
+**Place in the curriculum:** Unit 35 — "Writing for a Job" —
 the last lesson of the level.
 **The one thing this lesson teaches:** the job interview as
 a prepared performance — before (research, dress,
@@ -15,6 +16,28 @@ ordered, practised.
 **What the learner can do at the end:** prepare for a named
 interview, answer "Tell me about a time when…" in a full
 STAR shape, and survive a mock interview with a companion.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Job interviews — preparation** — the preparation moves: the
+   place researched, dress, early arrival, phone away, body
+   language, and the documents carried. (Was depth Level 1.)
+
+2. **Job interviews — the STAR answer** — any 'Tell me about a time
+   when…' answer built in the four parts — Situation, Task, Action,
+   Result — ending on a result with a number or a fact in it. (Was
+   depth Level 2.)
+
+3. **Job interviews — the mock survived** — a whole mock held —
+   experience answers, quality adjectives used truly, thinking-time
+   phrases — and the interviewer's questions retold afterwards as
+   reported questions. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: CV and cover letter. Recommended,

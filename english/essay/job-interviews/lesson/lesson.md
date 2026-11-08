@@ -35,6 +35,9 @@ S, T, A, R across a stream. What you do: cross aloud —
 one stone, one part of an answer of your own.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Job interviews — preparation
+
 **Preparation — the interview before the interview.**
 Cambodia's Grade 12 unit "At a job interview" (Unit 31,
 printed pp.169–174) opens with preparation advice — dress,
@@ -50,6 +53,8 @@ let me think…"). Prepare the outside (place known, clothes
 ready, road known, early arrival, phone silent) so the
 inside can think.
 
+## Sub lesson 2 — Job interviews — the STAR answer
+
 **STAR — the built answer.** Egypt's employment unit
 teaches the method by name (Unit 6, Lesson 2): the STAR
 Method for behavioural interview questions — the "Tell me
@@ -64,6 +69,8 @@ practice: talking about experience, the information
 interviewers ask for, and answering with quality
 adjectives — reliable, punctual, co-operative — each one
 a claim your STAR story must cash.
+
+## Sub lesson 3 — Job interviews — the mock survived
 
 **The other door — hearing the questions again.** Libya's
 Grade 12 interview lesson works the interview from behind:

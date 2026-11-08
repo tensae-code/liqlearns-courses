@@ -21,6 +21,9 @@ Reported statements is a soft hint for the last part,
 where the two shapes are told apart — never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Object clauses — that-clauses
+
 **The that-clause.** After verbs of saying, thinking
 and hoping — say, think, know, believe, hope — English
 puts a whole clause as the object: "I think **that the
@@ -55,6 +58,8 @@ certainty and probability" around the that-clause:
 adjective is still an object clause — it says WHAT you
 are sure of.
 
+## Sub lesson 2 — Object clauses — carrying questions
+
 **Carrying a yes/no question: if and whether.** A
 yes/no question can ride inside a sentence, carried by
 **if** or **whether**: "Tell me **if he is coming**."
@@ -74,6 +79,8 @@ builds its polite-requests unit on wh- object clauses
 — "Could you please tell me **where the restrooms
 are**?" (Unit 3, Grammar Focus, printed p.20). Same
 law: statement order, no flip, no do.
+
+## Sub lesson 3 — Object clauses — the boundary
 
 **Not reported speech — the two doors.** This shape is
 often confused with reported speech, and the books

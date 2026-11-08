@@ -20,6 +20,9 @@ copy is writing with everything cut away except the parts
 that MOVE people. Here is what those parts are.
 
 ## Then the explanation
+
+## Sub lesson 1 — Advertisements and posters — the advert's anatomy
+
 **The advertisement's anatomy.** Ghana's NaCCA programme
 (curriculum evidence, worded so) prints the checklist for
 advertisements: a TITLE, a BODY, a TARGET MARKET, and
@@ -42,6 +45,8 @@ And before all three: the TARGET MARKET — who this is
 for. An advert for children and an advert for drivers
 may sell the same bicycle in different languages of
 desire.
+
+## Sub lesson 2 — Advertisements and posters — kinds and methods
 
 **Kinds and methods.** Cambodia's Grade 12 book (Unit 17,
 "Advertising", printed pp.93–98) sorts the field: four
@@ -68,6 +73,8 @@ compassion devices, then sets an advert for volunteers
 at about 200–220 words: proof that the kind sells causes
 as well as things, and that its laws (claim, benefits,
 call) hold at essay length too.
+
+## Sub lesson 3 — Advertisements and posters — the poster, the flyer and the infographic
 
 **The poster.** Egypt's Secondary 10 book teaches the
 poster as a kind (Term 2, Lesson 5, "Prices and

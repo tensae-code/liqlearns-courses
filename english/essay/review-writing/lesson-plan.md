@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Review writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Review writing
-**Place in the curriculum:** Level 37, "Writing Your View"
+**Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the review — a piece that informs AND persuades: a fair summary of the thing, your judgements in order with reasons, and a recommendation a reader can trust.
 **This lesson's own level:** it stands on The essay and on Report writing — the review keeps the report's honesty and adds a judgement that must be earned. It opens Level 37, Writing Your View.
@@ -10,6 +11,27 @@
 - judge in order with reasons — every strong word paid for by a detail
 - review different things in the same honest shape: a film, a book, a restaurant, a place
 - describe richly without over-listing, and end with a recommendation a named reader can use
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Review writing — the four parts** — a review's parts in order —
+   introduction + overall impression, specific details, pros and
+   cons, conclusion + recommendation — and each part's job. (Was
+   depth Level 1.)
+
+2. **Review writing — judgement with reasons** — judgements ordered
+   so each strong word is paid for by a specific detail, across
+   film, book and restaurant reviews. (Was depth Level 2.)
+
+3. **Review writing — the trusted verdict** — the short review and
+   the judgement order: a whole review whose recommendation matches
+   its weighing, for a named reader. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The essay; Report writing. Recommended, never forced.

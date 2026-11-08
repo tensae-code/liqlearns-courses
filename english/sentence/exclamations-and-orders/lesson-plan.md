@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Exclamations and orders
 
 **Course:** English · **Title:** Sentence · **Lesson:** Exclamations and orders
-**Place in the curriculum:** Level 32, "Habits and
+**Place in the curriculum:** Unit 32 — "Habits and
 Orders" — the second and last lesson of the level
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the two
@@ -19,6 +20,27 @@ directions in imperatives, phrase safety rules with
 must/mustn't, and cry out feeling in the two exclamation
 shapes — What a + noun phrase! and How + adjective /
 adverb! — ending each with its mark.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Exclamations and orders — the order shape** — affirmative and
+   negative imperatives with the bare verb and no subject, softened
+   with please. (Was depth Level 1.)
+
+2. **Exclamations and orders — orders at work** — direction chains
+   in imperatives, and safety rules with must/mustn't beside Don't.
+   (Was depth Level 2.)
+
+3. **Exclamations and orders — the cry** — What a…! and How…!
+   exclamations on their right shapes, and the exclamation mark
+   placed for strong instructions and strong feelings. (Was depth
+   Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Recommended,

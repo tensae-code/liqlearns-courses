@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Object clauses
 
 **Course:** English · **Title:** Sentence · **Lesson:** Object clauses
-**Place in the curriculum:** Level 31, "Linking and
+**Place in the curriculum:** Unit 31 — "Linking and
 Fixing Sentences" — the fifth and last lesson of the
 level (CURRICULUM.md).
 **The one thing this lesson teaches:** the object
@@ -24,6 +25,26 @@ wh- question into a wh- clause, both in statement word
 order; and say plainly why "She said that she was
 tired" (reported) is a different animal from "I know
 that she is tired" (object clause).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Object clauses — that-clauses** — a whole clause doing the
+   object job after verbs of saying and thinking and after
+   sure/certain, and when that can drop. (Was depth Level 1.)
+
+2. **Object clauses — carrying questions** — yes/no questions
+   carried as if/whether clauses and wh- questions as wh- clauses,
+   both in statement word order. (Was depth Level 2.)
+
+3. **Object clauses — the boundary** — object clauses sorted from
+   reported speech, and certainty frames used at the right strength.
+   (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Reported

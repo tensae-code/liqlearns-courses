@@ -21,6 +21,9 @@ then sixteen — and it tells you MORE. News writing is the
 art of that second telling. Here is its shape.
 
 ## Then the explanation
+
+## Sub lesson 1 — News writing — headline and lead
+
 **The headline.** Cambodia's Grade 12 book opens its news
 unit (Unit 15, "In the news", printed pp.81–86) with
 headlines and news stories, and with the word order a
@@ -47,6 +50,8 @@ Cambodia's same unit drills the time and place expressions
 that carry the where and the when. Four answers in the
 lead is a full lead; the fifth joins when it is earned.
 
+## Sub lesson 2 — News writing — the body and tense choice
+
 **The body — biggest first.** After the lead, details come
 in the order the reader needs them: most important first,
 background last. News does NOT run in time order like a
@@ -68,6 +73,8 @@ news extracts. The working rule the extracts teach:
   these forms inside its news texts without naming the
   tense; the seat is learned from the news itself.)
 - The **headline** keeps its own short present, above.
+
+## Sub lesson 3 — News writing — the whole report
 
 **From notes to report.** Egypt's book writes its news
 report FROM NOTES — a bare list (15 teenagers, 10 hours,

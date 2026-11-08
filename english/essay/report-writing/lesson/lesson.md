@@ -21,6 +21,9 @@ second. That difference — a piece built to be USED, not
 just read — is a report. Here is how the books build one.
 
 ## Then the explanation
+
+## Sub lesson 1 — Report writing — the frame
+
 **What a report is.** Egypt's Tip Box defines it plainly:
 a formal report is a serious document giving information,
 usually with advice. Two laws live inside that sentence:
@@ -51,6 +54,8 @@ they need. Egypt's younger books teach the same kind at
 smaller size: a school report of 90–100 words with a
 Writing Tip of title, introduction and ordered parts.
 
+## Sub lesson 2 — Report writing — the survey
+
 **The survey report.** Sudan's SPINE 5 (Grade 11, Ch.3)
 builds a report on a questionnaire: Salma's survey report
 on women's work. Its run is the survey report's run
@@ -67,6 +72,8 @@ everywhere:
 Skip the method and the numbers are gossip. Skip the aims
 and the reader cannot tell whether the conclusion was
 earned.
+
+## Sub lesson 3 — Report writing — the judgement
 
 **Opening and closing.** Malaysia's Form 3 report lesson
 (Unit 11, "Lessons to Learn") teaches writing a report

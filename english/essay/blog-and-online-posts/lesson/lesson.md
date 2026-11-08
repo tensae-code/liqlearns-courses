@@ -20,6 +20,9 @@ one to the end and leaves a kind comment. Online writing
 wins or loses in its voice. Here is its shape.
 
 ## Then the explanation
+
+## Sub lesson 1 — Blog and online posts — the blog's shape
+
 **The blog's shape.** Egypt's books teach the blog post
 twice, at two ages, and the shape holds: a catchy
 title/hook, an introduction, body topics, a conclusion —
@@ -53,6 +56,8 @@ White space is not emptiness; it is the stairs the
 reader climbs. One idea per paragraph, as always; only
 the rooms are smaller.
 
+## Sub lesson 2 — Blog and online posts — the small rooms
+
 **The social-media post.** Egypt's Preparatory 8 book
 (Unit 5) sets a social-media post of 90–100 words — about
 a country you would like to visit — with a Social Media
@@ -71,6 +76,8 @@ and it signs its writer's manners. The course's rule for
 writing them: praise what is really there, answer ideas
 rather than people, and let a disagreement carry its
 reason without carrying a wound.
+
+## Sub lesson 3 — Blog and online posts — the hard messages
 
 **Giving bad news politely.** Greece's books teach
 reacting to good and bad news as a function — the spoken

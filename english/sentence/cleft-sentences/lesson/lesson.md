@@ -20,6 +20,9 @@ alone; Relative clauses is a soft hint for the
 that/who tail, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Cleft sentences — the shape
+
 **The shape.** A cleft sentence begins **It is** or
 **It was**, lifts the part you want to light, and lets
 the rest follow behind **that** or **who**: "It was
@@ -28,6 +31,8 @@ names the grammar in its box heading in exactly these
 terms: "Cleft sentences with It is/was … that/who …"
 (Unit 8, printed p.88), inside its "Becoming
 independent" unit (pp.86–95).
+
+## Sub lesson 2 — Cleft sentences — moving the light
 
 **Moving the light.** The event does not change; the
 light does. Plain: "Sara scored the goal in the final
@@ -45,6 +50,8 @@ that we met." "It was **the letter** that changed
 everything." Present truths take **is** — "It is
 **practice** that makes a master" — and finished events
 take **was**.
+
+## Sub lesson 3 — Cleft sentences — the emphasis family
 
 **Its unit-mate: negative inversion.** Jordan's High
 Note Grade 12 book teaches cleft sentences inside a

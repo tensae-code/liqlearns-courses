@@ -21,6 +21,9 @@ the second voice. A review earns trust by weighing, not
 by shouting. Here is how the books build one.
 
 ## Then the explanation
+
+## Sub lesson 1 — Review writing — the four parts
+
 **What a review does.** Egypt's REVIEW Tip Box (Secondary
 12 Term 1, Unit 6, Lesson 5, "Tell the World What You
 Saw!", pp.93–95) defines the kind: a review INFORMS and
@@ -49,6 +52,8 @@ review whose very title weighs it — a great-food,
 poor-service verdict: the praise and the blame share one
 title, which is the review's honesty in miniature.
 
+## Sub lesson 2 — Review writing — judgement with reasons
+
 **The film review.** Egypt's New Hello! book (Secondary
 11 Term 2, Unit 11) reads two film reviews first — one
 warmly positive, one praising the pictures while missing
@@ -75,6 +80,8 @@ finest skill by name: writing good descriptions that
 inform WITHOUT over-listing — choose the three details
 that carry the place, and let the rest go. A list is not
 a picture; a chosen detail is.
+
+## Sub lesson 3 — Review writing — the trusted verdict
 
 **The short review.** Yemen's Book 6 Workbook sets the
 kind at its smallest commission (Arts 6, exercise E,

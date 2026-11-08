@@ -35,6 +35,9 @@ chief's office. What you do: say what the letter asks at
 each door before you read on.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Letters that ask and advise — the primary five and the enquiry
+
 **The primary five — where asking letters begin.**
 Barbados's Language Arts Syllabi (syllabus evidence,
 worded as such) list the primary child's letter kinds:
@@ -54,6 +57,8 @@ addresses — and the enquiry obeys them all, adding only
 its list: number your questions, ask nothing the office
 cannot know, and close by thanking the answerer in
 advance.
+
+## Sub lesson 2 — Letters that ask and advise — the authority and the editor
 
 **The letter to an authority — ask someone with power.**
 Sierra Leone names its shape exactly: the features of an
@@ -77,6 +82,8 @@ in my view…, surely…?* The build: name the article and
 its date; your view in one sentence; two or three reasons,
 no more; a last line the town can repeat. You sign your
 real name and town — the editor's door is a public one.
+
+## Sub lesson 3 — Letters that ask and advise — the advice letter
 
 **The advice letter — counsel, not command.** A friend
 (or a problem page) asks what to do. The build: show you

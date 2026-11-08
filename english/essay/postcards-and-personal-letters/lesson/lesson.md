@@ -32,6 +32,9 @@ and a stamp on the back. What you do: count the lines the
 back can hold before you write a word.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Postcards and personal letters — the postcard's parts
+
 **The postcard, modelled whole.** Egypt's Primary 5 book
 models the postcard entire (Unit 5, p.89): a **greeting**,
 **past-tense holiday news** (with a piece of advice inside
@@ -58,6 +61,8 @@ lesson inside the lesson: on a card, adjectives do the
 work whole sentences do in a letter. One strong word for
 the food, one for the place — chosen, not spilled.
 
+## Sub lesson 2 — Postcards and personal letters — the space limit
+
 **The space limit is the form.** Malaysia's Form 3 book
 teaches the postcard as a writing lesson (Unit 8) with
 two named cares: **linking words and phrases**, and
@@ -67,6 +72,8 @@ reference kinds, each with a plan and useful phrases.
 Correct amount is the postcard's whole discipline: place,
 weather, food, one happening, one feeling, the closing —
 everything else is letter material.
+
+## Sub lesson 3 — Postcards and personal letters — the personal letter
 
 **The personal letter — the same warmth, room to stand.**
 Egypt's Primary 5 book prints the **friendly letter** as

@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — News writing
 
 **Course:** English · **Title:** Essay · **Lesson:** News writing
-**Place in the curriculum:** Level 36, "Writing the Facts"
+**Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the news report — a headline that carries the story in a few words, and a lead that answers who, what, where and when at once, with the tenses news uses: the short present of headlines, the past of finished events, the present perfect of fresh news.
 **This lesson's own level:** it stands on Report writing (same level — the same checked facts, told faster) and on the tense lessons (past actions; the present perfect). It is the second lesson of Level 36.
@@ -10,6 +11,27 @@
 - write a lead sentence answering who, what, where and when before anything else
 - choose news tenses on purpose: headline present, past simple for finished events, present perfect for news still warm
 - build a full news report from bare notes, the way Egypt's book builds one from its note list
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **News writing — headline and lead** — a headline in the
+   headline's short present, and a lead that answers who, what,
+   where and when at once. (Was depth Level 1.)
+
+2. **News writing — the body and tense choice** — the body ordered
+   biggest first, and headline present, past simple and present
+   perfect chosen on purpose, each in its seat. (Was depth Level 2;
+   the body's order was depth Level 3's.)
+
+3. **News writing — the whole report** — a complete news report
+   built from bare notes — facts only, and opinions wearing their
+   owners. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Report writing; Past actions; The present perfect. Recommended, never forced.

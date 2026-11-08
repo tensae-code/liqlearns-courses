@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Connectors and clauses
 
 **Course:** English · **Title:** Sentence · **Lesson:** Connectors and clauses
-**Place in the curriculum:** Level 31, "Linking and
+**Place in the curriculum:** Unit 31 — "Linking and
 Fixing Sentences" — the first lesson of the level
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the wider joining
@@ -22,6 +23,34 @@ because (clause) apart from because of (noun); keep
 although (clause) apart from in spite of (noun); and
 punctuate however, therefore and on the other hand as
 sentence connectors, not as glue inside a clause.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Connectors and clauses — the five jobs** — the five jobs a join
+   can do — time, reason, purpose, contrast, result — and the
+   connector families that serve them. (Was depth Level 1.)
+
+2. **Connectors and clauses — time, reason and purpose clauses** —
+   time clauses in both positions, because + clause against because
+   of + noun, and so that / in order to for purpose. (Was depth
+   Level 2's time and reason half; the fronted clause's comma was
+   depth Level 3's.)
+
+3. **Connectors and clauses — contrast and concession** — although
+   and while, however and on the other hand with their positions,
+   and although + clause against in spite of / despite + noun. (Was
+   depth Level 2's concession half and depth Level 3's however
+   half.)
+
+4. **Connectors and clauses — result connectors** — therefore,
+   consequently and as a result standing in their own sentence. (Was
+   depth Level 3's result half.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Joining with and and but (and adds,

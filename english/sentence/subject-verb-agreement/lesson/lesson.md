@@ -19,6 +19,9 @@ that pause is this lesson. It stands alone — Building a
 sentence is a soft hint only, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Subject-verb agreement — the base rule
+
 **The base rule.** Sierra Leone's handbooks state it
 the same way three years running: a singular subject
 takes a singular verb, a plural subject takes a plural
@@ -30,6 +33,8 @@ p.20). South Africa's workbooks drill it early: there
 p.28), is / are again at Grade 6 (Workbook 1, printed
 p.30). The matching is called **concord** — Nepal's
 Grade 7 book names the lesson with that word.
+
+## Sub lesson 2 — Subject-verb agreement — the tricky subjects
 
 **Nepal's tricky three.** Nepal's Grade 7 concord unit
 (Unit 14, pp.142–153 — a quantity and measurement unit)
@@ -63,6 +68,8 @@ bread, money itself — are singular bodies: "The
 furniture **was** cheap." A collective noun (team,
 family, class) is singular when the body acts as one:
 "My family **lives** in one house."
+
+## Sub lesson 3 — Subject-verb agreement — the traps
 
 **The curtain: of-phrases.** Sierra Leone's SSS2
 lessons (Lessons 77–78, pp.73 and 76) add the rule for

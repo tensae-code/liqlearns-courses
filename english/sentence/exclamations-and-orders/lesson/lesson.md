@@ -23,6 +23,9 @@ lesson teaches the four that act. It stands alone;
 Building a sentence is a soft hint, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Exclamations and orders — the order shape
+
 **The imperative: the bare verb, no subject.** An
 imperative gives a direct order, an invitation or
 advice. Bolivia's Year 1 compendium prints the formula
@@ -39,6 +42,8 @@ positive instructions, **don't** + base for negative.
 And Nicaragua adds the softener: **please** makes an
 imperative polite — "Sit down, please!" "Don't climb
 the tree, please!"
+
+## Sub lesson 2 — Exclamations and orders — orders at work
 
 **Imperatives at work: directions.** Kuwait's Skyline
 5B builds a whole grammar lesson on imperatives for
@@ -60,6 +65,8 @@ Primary 3 pairs the imperative with **must / mustn't**
 (printed p.14): "You must wash your hands." "You
 mustn't run in the corridor." The imperative speaks to
 the moment; must speaks for the rule-book behind it.
+
+## Sub lesson 3 — Exclamations and orders — the cry
 
 **The exclamation: the cry and its mark.** Egypt's
 Primary 3 book teaches the exclamation point with a

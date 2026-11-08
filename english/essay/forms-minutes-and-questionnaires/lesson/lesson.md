@@ -21,6 +21,9 @@ registered. The minutes make sure it happens. Short
 factual writings run the world quietly. Here they are.
 
 ## Then the explanation
+
+## Sub lesson 1 — Forms, minutes and questionnaires — the form
+
 **The form.** A form is questions wearing boxes. Greece's
 books work the kind from both sides: a hotel registration
 form filled from a guest's answers — name, nationality,
@@ -40,6 +43,8 @@ themselves. The laws of form-filling:
   empty; a guessed fact is a lie with a signature under
   it.
 
+## Sub lesson 2 — Forms, minutes and questionnaires — agenda and minutes
+
 **The agenda.** An agenda is the meeting written BEFORE
 it happens: the meeting's name and time, who is called,
 and the items numbered in the order they will be taken —
@@ -57,6 +62,8 @@ left unexplained. Minutes are not a recording of talk:
 the talking is gone; the decisions are what the future
 needs. A discussion that decided nothing earns one
 honest line — "Item 2: discussed; no decision taken."
+
+## Sub lesson 3 — Forms, minutes and questionnaires — the questionnaire
 
 **The questionnaire.** A questionnaire is a form asked of
 many people, built so the answers can be counted.

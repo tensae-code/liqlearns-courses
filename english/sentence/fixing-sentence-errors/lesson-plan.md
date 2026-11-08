@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Fixing sentence errors
 
 **Course:** English · **Title:** Sentence · **Lesson:** Fixing sentence errors
-**Place in the curriculum:** Level 31, "Linking and
+**Place in the curriculum:** Unit 31 — "Linking and
 Fixing Sentences" — the third lesson of the level
 (CURRICULUM.md).
 **The one thing this lesson teaches:** spotting and
@@ -18,6 +19,27 @@ in a broken sentence; complete a fragment; split or
 properly join a run-on; repair a comma splice four ways;
 re-seat a dangling modifier next to its true doer; and
 straighten a list into parallel shape.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Fixing sentence errors — the fragment** — a piece with no
+   subject, no verb, or a dependent clause standing alone, and its
+   repairs. (Was depth Level 1.)
+
+2. **Fixing sentence errors — run-ons and comma splices** — two
+   sentences crashed with nothing, or only a comma, between them —
+   and the four honest joints. (Was depth Level 2.)
+
+3. **Fixing sentence errors — dangling modifiers and parallelism** —
+   the opening description whose doer is missing, and list items out
+   of step — closing with the clinic habit of naming the break
+   before repairing it. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence and Connectors

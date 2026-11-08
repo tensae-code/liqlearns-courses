@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Blog and online posts
 
 **Course:** English · **Title:** Essay · **Lesson:** Blog and online posts
-**Place in the curriculum:** Level 37, "Writing Your View"
+**Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** writing online in your own voice — the blog post (a heading that catches, a dated personal voice, short paragraphs, a mind-map plan), the social-media post, and the manners of being online: commenting politely, and giving bad news politely.
 **This lesson's own level:** it stands on The paragraph (short paragraphs are the blog's rooms) and on Review writing in the same level — the blog is judgement and experience in a friendlier voice. It is the second lesson of Level 37.
@@ -10,6 +11,27 @@
 - write a social-media post that fits its small room: one point, warm, complete
 - comment online politely — answer the idea, praise specifically, disagree without wounding
 - give bad news politely online: cushion, fact, kindness, door left open
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Blog and online posts — the blog's shape** — a blog post's
+   parts — catchy heading, dated voice, short paragraphs, conclusion
+   — planned on a mind map. (Was depth Level 1.)
+
+2. **Blog and online posts — the small rooms** — a social-media post
+   complete in its small word count, and a comment that answers an
+   idea politely. (Was depth Level 2.)
+
+3. **Blog and online posts — the hard messages** — bad news given
+   politely in writing — cushion, fact, kindness, door left open —
+   and the blog's voice held across a whole post. (Was depth Level
+   3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph; Review writing. Recommended, never forced.

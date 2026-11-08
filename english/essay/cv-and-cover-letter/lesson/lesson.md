@@ -34,6 +34,9 @@ CV, COVER LETTER, INTERVIEW. What you do: walk the chain
 aloud and say what each card carries.]
 
 ## Then the explanation
+
+## Sub lesson 1 — CV and cover letter — the chain and the sections
+
 **The chain.** Cambodia's Grade 12 book teaches job
 seeking as one arc: job adverts (Unit 29), "Applying for
 a job" (Unit 30) and "At a job interview" (Unit 31). Hold
@@ -65,6 +68,8 @@ formatting rules and the proper order of sections, then
 critically reviews a sample student's CV — the order is
 checkable, and checked.
 
+## Sub lesson 2 — CV and cover letter — the CV's laws
+
 **The CV's laws.** Egypt states them plainly: keep it
 short (1–2 pages maximum), clear simple language, ONLY
 relevant information, easy to read, updated regularly —
@@ -80,6 +85,8 @@ date of birth, contact details, work experience,
 education, achievements, hobbies), a guide to writing
 one, and four missing items to find in a flawed CV —
 the CV is learned by repairing one.
+
+## Sub lesson 3 — CV and cover letter — the pair, matched
 
 **The cover letter, matched.** Cambodia coaches its
 Unit 30 cover letter paragraph by paragraph to a named

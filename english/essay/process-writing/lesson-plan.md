@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Process writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Process writing
-**Place in the curriculum:** Level 36, "Writing the Facts"
+**Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the procedure/process text — writing that makes something happen in the right order: a goal, the things needed, and steps in imperatives joined by sequence words; and a map of the text kinds it belongs to (procedure, descriptive, recount, report).
 **This lesson's own level:** it stands on ordering words (First/Then/Finally) and on Report writing in the same level — the report says what was found; the procedure says what to DO. It is the third lesson of Level 36.
@@ -10,6 +11,26 @@
 - write steps as imperatives a stranger can follow without you standing there
 - join steps with sequence words (first, then, next, after that, finally) and keep one action per step
 - name the four text kinds — procedure, descriptive, recount, report — and say what each one is FOR
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Process writing — the shape** — a procedure's parts in order —
+   goal, materials, steps — with steps written as bare imperatives.
+   (Was depth Level 1.)
+
+2. **Process writing — the hinges** — steps joined with sequence
+   words, one action per step, and instructions a stranger can
+   follow. (Was depth Level 2.)
+
+3. **Process writing — the four doors** — procedure, descriptive,
+   recount and report named, each with its job, and a procedure that
+   passes the stranger test. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: First, then, finally; Report writing. Recommended, never forced.

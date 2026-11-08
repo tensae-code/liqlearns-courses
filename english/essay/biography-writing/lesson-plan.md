@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Biography writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Biography writing
-**Place in the curriculum:** Level 40, "Writing Your Own Life" —
+**Place in the curriculum:** Unit 40 — "Writing Your Own Life" —
 the second lesson of the level.
 **The one thing this lesson teaches:** writing a life —
 the biography (another person's life, third person) and
@@ -15,6 +16,25 @@ biography in the books' order — who, when and where, early
 life, major achievements, later life, why they matter —
 and turn the same life into an autobiography by changing
 the person, not the facts.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Biography writing — the pair and the person** — biography
+   against autobiography — who writes the life — the person held
+   steady in the right voice, and the turn between the two. (Was
+   depth Level 1, with depth Level 3's turn, taught inside this sub
+   lesson's first part.)
+
+2. **Biography writing — life order and key dates** — a life run in
+   the books' order — introduction, early life, major achievements,
+   later life, conclusion — carried by key dates in the past tense.
+   (Was depth Level 2.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Diary and journal; Past actions.

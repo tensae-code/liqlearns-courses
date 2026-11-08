@@ -35,6 +35,9 @@ circled in red. What you do: turn each circled fault into
 one factual sentence — who, what, when.]
 
 ## Then the explanation
+
+## Sub lesson 1 — Complaint letters — the complaint's moves
+
 **The complaint's moves.** Greece's Hotel and Tourist
 Trade book gives a whole unit to complaints (Unit 6,
 pp.99–112): two guests complain at the desk — a noisy room,
@@ -51,6 +54,8 @@ ONE fix, named exactly (refund, repair, replacement), in
 the formal request dress: "I would be grateful if you
 could…".
 
+## Sub lesson 2 — Complaint letters — the reply's moves
+
 **The reply's moves.** The Greek manager's reply explains
 staff illness and untrained replacements — and that is
 its middle, not its whole. The reply's order: **(1)
@@ -62,6 +67,8 @@ the refund or repair named. The unit's spoken tables
 teach the same pair at the desk: apologising, and
 promising to take action. A reply missing any move
 leaves the complaint standing.
+
+## Sub lesson 3 — Complaint letters — tone under pressure
 
 **Tone — firm facts, formal dress, under pressure.**
 Uzbekistan's letters unit reads a formal letter of

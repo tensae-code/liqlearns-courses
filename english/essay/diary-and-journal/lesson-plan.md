@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Diary and journal
 
 **Course:** English · **Title:** Essay · **Lesson:** Diary and journal
-**Place in the curriculum:** Level 40, "Writing Your Own Life" —
+**Place in the curriculum:** Unit 40 — "Writing Your Own Life" —
 the first lesson of the level.
 **The one thing this lesson teaches:** the diary entry — the
 date at the top, the day told in the first person in the past,
@@ -13,6 +14,27 @@ Biography writing and Postcards and personal letters follow it.
 entry that runs greeting → the day in order → feelings → a
 closing thought, and keep a journal entry that adds what was
 learned or planned.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Diary and journal — the parts** — the diary's parts in order —
+   date, greeting, the day's details, closing — and its voice: first
+   person, past. (Was depth Level 1.)
+
+2. **Diary and journal — the day in order** — a day run through its
+   morning, daytime and evening sections with its feelings carried;
+   the diary's voice paragraph rides in this sub lesson. (Was depth
+   Level 2.)
+
+3. **Diary and journal — diary into journal** — a diary entry
+   widened into a journal entry — goals, lessons and reflection
+   added — and the travel journal's five steps. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions (the diary's tense-home).

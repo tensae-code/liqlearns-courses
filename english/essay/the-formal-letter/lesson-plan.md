@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The formal letter
 
 **Course:** English · **Title:** Essay · **Lesson:** The formal letter
-**Place in the curriculum:** Level 34, "Letters That Work" —
+**Place in the curriculum:** Unit 34 — "Letters That Work" —
 the first lesson of the level.
 **The one thing this lesson teaches:** the formal letter as a
 built object — where every part sits on the page, which
@@ -15,6 +16,27 @@ this same frame.
 letter from memory; pair Dear Sir/Madam with Yours faithfully
 and a named Dear Mr … with Yours sincerely; and keep the
 register formal from first line to last.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The formal letter — the layout** — every part of the formal
+   letter in its seat on the page, from the sender's address to the
+   signature. (Was depth Level 1.)
+
+2. **The formal letter — the pairs and the parts' jobs** — each
+   salutation paired with its true closing, the subject line placed,
+   and what the opening and closing paragraphs each do. (Was depth
+   Level 2.)
+
+3. **The formal letter — the register held whole** — a chatty draft
+   rewritten into formal register without losing a fact, and every
+   planted informality spotted. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph; The essay. Recommended,

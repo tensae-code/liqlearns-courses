@@ -21,6 +21,9 @@ stands alone; Connectors and clauses is a soft hint for
 the splice repairs, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Fixing sentence errors — the fragment
+
 **One — the fragment.** A fragment is a piece wearing a
 capital letter and a full stop it has not earned: it
 lacks a subject, lacks a full verb, or is a dependent
@@ -35,6 +38,8 @@ Sentences" — what makes a sentence complete, correcting
 fragments and run-on sentences (SSS2 Term 1, Lesson 40,
 p.100). The repairs: give the piece its missing part,
 or join it to the sentence it broke off from.
+
+## Sub lesson 2 — Fixing sentence errors — run-ons and comma splices
 
 **Two — the run-on.** Two or more sentences crashed
 together with no signal at all: "The market was crowded
@@ -60,6 +65,8 @@ level: punctuation is taught as identify, use, and
 correct errors in paragraphs (JHS curriculum evidence —
 Ghana holds no pupil textbook, and none is claimed
 here).
+
+## Sub lesson 3 — Fixing sentence errors — dangling modifiers and parallelism
 
 **Four — the dangling modifier.** An opening
 description whose doer never arrives, or arrives wrong:

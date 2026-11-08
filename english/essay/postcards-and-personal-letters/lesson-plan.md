@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Postcards and personal letters
 
 **Course:** English · **Title:** Essay · **Lesson:** Postcards and personal letters
-**Place in the curriculum:** Level 40, "Writing Your Own Life" —
+**Place in the curriculum:** Unit 40 — "Writing Your Own Life" —
 the third lesson of the level.
 **The one thing this lesson teaches:** writing to one known
 person — the postcard, short because its space is short
@@ -13,6 +14,29 @@ the diary kept the day for yourself; this writes it to someone.
 **What the learner can do at the end:** fit a whole holiday
 onto a postcard without spilling, and build a personal
 letter on the five-part friendly-letter frame.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Postcards and personal letters — the postcard's parts** — the
+   postcard's moves in order — greeting, the place and its news,
+   'Wish you were here!', closing and name — and what stands on its
+   other side. (Was depth Level 1.)
+
+2. **Postcards and personal letters — the space limit** — the
+   correct amount — place, weather, food, one happening, one feeling
+   — fitted inside a card's few lines, held together with linking
+   words. (Was depth Level 2.)
+
+3. **Postcards and personal letters — the personal letter** — a
+   personal letter built on the five-part frame — greeting, why I am
+   writing, body, polite closing, signature — in the postcard's warm
+   voice, at letter length. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Diary and journal (the postcard is a

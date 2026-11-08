@@ -21,6 +21,9 @@ lesson. It stands alone; the everyday-verb lessons are
 a soft hint, never a gate.
 
 ## Then the explanation
+
+## Sub lesson 1 — Phrasal verbs — one meaning, in sets
+
 **The idea: verb + particle = a new word.** A phrasal
 verb is a verb joined to a small word (a particle —
 up, on, off, out, down, after…) whose **together**
@@ -56,6 +59,8 @@ turn down, take off, keep on). Bolivia adds verb
 families of its own from Year 1 — the LOOK set (look
 for, look after, look forward to, look up, look out,
 look over…) and the GO and PUT sets.
+
+## Sub lesson 2 — Phrasal verbs — the splitting grammar
 
 **Transitive and intransitive.** Some phrasal verbs
 take an object (transitive): "Pick up the pen." Some
@@ -93,6 +98,8 @@ photo**." Bolivia is, to say it plainly, the ONLY book
 in this course's read set that teaches the
 separable / non-separable grammar at all; the other
 four countries witness the meaning sets.
+
+## Sub lesson 3 — Phrasal verbs — three-word chains
 
 **Three-word phrasal verbs: the final part.** The
 longest family chains verb + particle + particle:
