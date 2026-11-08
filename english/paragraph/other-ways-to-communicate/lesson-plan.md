@@ -1,10 +1,32 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Other ways to communicate
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Other ways to communicate
-**Place in the curriculum:** Level 44 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 44 — Tests, Translating, Other Ways (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** communication beyond the spoken and written word: sign language and finger spelling, Braille — the script read by touch — and the gestures and nonverbal signals every body speaks, whose meanings change across cultures.
 **What the learner can do at the end:** say what sign language is made of and finger-spell; name Braille and what it is for; read common nonverbal cues as a set, not a single signal; and name gestures whose meaning flips across cultures.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Sign Language and Braille** — the channels — sign language
+   (signs, gestures, finger spelling, facial expressions) and
+   Braille, the script read by touch. (Was depth Level 1.)
+2. **Reading Nonverbal Signals** — reading signals — a person's
+   nonverbal signals read as a whole set, never too much read into a
+   single gesture. (Was depth Level 2.)
+3. **Gestures Across Cultures** — across cultures — how one gesture
+   changes meaning at a border, with Ecuador's cross-cultural
+   gesture grids. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Conversation lessons earlier in this course teach spoken exchange — if you know them, this one will be easier. This lesson is about the channels that run beside speech, and it stands alone.

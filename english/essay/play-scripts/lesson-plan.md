@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Play scripts
 
 **Course:** English · **Title:** Essay · **Lesson:** Play scripts
-**Place in the curriculum:** Level 38, "Speeches and Shows".
+**Place in the curriculum:** Unit 38 — Speeches and Shows.
 **The one thing this lesson teaches:** the play script's
 form — speaker names, one dialogue line per turn, stage
 directions that tell bodies what words cannot — and how
@@ -13,6 +15,27 @@ LAYOUT that lets other people perform your words.
 page correctly, write stage directions in brackets, and
 convert a prose scene into a performable script without
 losing anything the scene means.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Play Script Layout** — the script's layout — speaker names at
+   the left, a colon, a new line for each speaker, directions in
+   brackets. (Was depth Level 1.)
+2. **Stage Directions** — stage directions — instructions an actor
+   can obey: entrances, movements, feelings shown by the body, kept
+   out of the spoken lines. (Was depth Level 2.)
+3. **Turning a Story into a Script** — the conversion — turning a
+   story scene into a script, and reading a whole play, losing
+   nothing: narration becomes direction or dialogue. (Was depth
+   Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: Speech marks (direct speech).

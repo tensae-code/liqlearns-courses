@@ -32,7 +32,7 @@ the audience's faces turned up to her. What you do: say
 who the audience is, and what your first line must call
 them.]
 
-## Then the explanation
+## Sub lesson 1 — Speech in Three Parts
 **The three parts.** Ghana's Basic 8 curriculum prints
 the rule every speech in this lesson obeys: "Tell what
 you are going to tell them (introduction). Tell them
@@ -46,6 +46,7 @@ is the speech's handshake: you name the people in front
 of you ("Teachers, parents, my friends — good morning")
 before you ask them for anything.
 
+## Sub lesson 2 — Ordered Points and the For/Against Speech
 **The points, ordered for the ear.** Two or three points,
 each in its own paragraph, each opened by its order word
 (First / Second / Third, or First of all / Next /
@@ -67,6 +68,7 @@ AGAINST points fairly; then take your side and answer
 the strongest point against you. A speech that hides the
 other side persuades nobody who has heard it.
 
+## Sub lesson 3 — Speech Rhetoric
 **Rhetoric — the tools that make it land.** Ghana's
 Basic 9 curriculum lists the speech devices outright:
 emotive adjectives ("wonderful, magnificent, fantastic —

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Note-making
 
 **Course:** English · **Title:** Essay · **Lesson:** Note-making
-**Place in the curriculum:** Level 39, "Essays and Shortening".
+**Place in the curriculum:** Unit 39 — Essays and Shortening.
 **The one thing this lesson teaches:** cutting a text
 down to NOTE FORM — phrases, not sentences; numbered and
 grouped points; standard abbreviations — and heading a
@@ -14,6 +16,27 @@ such notes, so the pair are taught in this order.
 through India's five steps, use the standard
 abbreviations (ASAP, N.B., V.I.P., RSVP, c/o, e.g.)
 without error, and divide a long text under sub-titles.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Cutting to Note Form** — the cutting — India's five steps and
+   cutting sentences to note form, phrases not sentences; the steps
+   also carry the numbering and grouping that the next sub lesson
+   sets out as a system. (Was depth Level 1.)
+2. **The Note-Making System** — the system — the numbering systems
+   (1 / (i) / (a), or decimal 1.1.1) and the standard abbreviations
+   (ASAP, N.B., V.I.P., RSVP, c/o, e.g.). (Was depth Level 2.)
+3. **Sub-Titling** — sub-titling — dividing a long text into
+   sections and heading each with a sub-title that states its main
+   idea at a glance. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: Finding the idea of a text.

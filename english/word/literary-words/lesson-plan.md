@@ -1,10 +1,33 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Literary words
 
 **Course:** English · **Title:** Word · **Lesson:** Literary words
-**Place in the curriculum:** Level 43 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 43 — Words About Words (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** the words for talking ABOUT stories and poems: the kinds of literature and genres, and the figures of speech — simile, metaphor, personification and their company — so a learner can name what a writer did.
 **What the learner can do at the end:** name the five kinds of literature Egypt's book teaches and common genres; spot and name simile, metaphor and personification in a line; and use the story-words — plot, setting, character, theme — about a real book.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Kinds of Literature** — the kinds of literature, the genres
+   inside them, and the story-words (plot, setting, characters,
+   theme) — the genres and story-words sit here in the text's order
+   and are used again in the last sub lesson. (Was depth Level 1.)
+2. **Figures of Speech** — figures of speech — simile, metaphor,
+   personification and their company, spotted by the like/as test.
+   (Was depth Level 2.)
+3. **Talking About Books** — talking about books — using the kinds,
+   genres, story-words and figure names about a real story or poem,
+   and loving the words themselves. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - The story and Telling a story back are earlier lessons — if you know them, this one will be easier. This lesson stocks the WORDS for that talk.

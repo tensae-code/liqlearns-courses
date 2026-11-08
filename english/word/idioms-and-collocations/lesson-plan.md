@@ -1,10 +1,35 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Idioms and collocations
 
 **Course:** English · **Title:** Word · **Lesson:** Idioms and collocations
-**Place in the curriculum:** Level 43 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 43 — Words About Words (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** words that travel in fixed company: idioms and proverbs, whose meaning lives in the WHOLE phrase, and collocations — the word partnerships (make a cake, do the washing-up, have a headache) that must be learned as wholes.
 **What the learner can do at the end:** recognise an idiom and say its whole-phrase meaning; explain a proverb in plain words; and sort everyday verb partnerships under make, do and have without translating word by word.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Idioms as Whole Phrases** — idioms as whole phrases, whose
+   meaning lives in the whole, not in the separate words — and
+   proverbs, the sayings with a lesson inside, which sit here in the
+   text's order between the idioms and the collocations. (Was depth
+   Level 1.)
+2. **Collocations and Their Partnerships** — collocations — the
+   partnerships words habitually keep, and the great sort under
+   make, do and have. (Was depth Level 2.)
+3. **Using Idioms and Collocations** — using them — the themed
+   money-idiom set, carried here in the text's order as the stock to
+   use, and idioms, proverbs and collocations used correctly in your
+   own sentences. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Word building and Word relationships are earlier lessons — if you know them, this one will be easier. Here the unit is bigger than one word: it is the fixed phrase.

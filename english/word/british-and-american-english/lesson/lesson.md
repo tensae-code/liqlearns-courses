@@ -6,13 +6,15 @@ Built from: Vietnam, Tiếng Anh 9 (Global Success), Unit 9 'World Englishes' (p
 ## Do it first
 A visitor walks into a classroom in Vietnam — Jack, an exchange student from New York — and talks about his "pants". His hosts picture something quite different from what Jack means: in Britain, *pants* are underwear; the garment Jack means is *trousers*. One word, two wardrobes, one embarrassed moment (Vietnam's Grade 9 book builds its 'World Englishes' unit on exactly this visit). This lesson hangs the two wardrobes side by side so you are never the embarrassed one.
 
-## Then the explanation
+## Sub lesson 1 — British and American Word Pairs
 **The word pairs.** Vietnam's Grade 9 book devotes Unit 9, "World Englishes", to the family: Jack from New York visits the class, American "pants" meets British "trousers", and a quiz matches British and American words (printed pp.92–101). The quiz set: **flat / apartment · holiday / vacation · jumper / sweater · chips / French fries · football / soccer**. Learn the set as pairs, both directions. The deepest trap is the food triangle: British **chips** are American **French fries**, while American **chips** are British **crisps** — the same word names different food on the two sides.
 
 Nepal's Grade 8 book carries the same lesson as one of its 'Extra bits': **British vs American vocabulary** closes Unit 6 (printed pp.64–78) — the paired words are a standing part of the course, not a curiosity.
 
+## Sub lesson 2 — British and American Spelling
 **The spelling pairs.** Nepal's next unit carries the spelling half as its Extra bit: **British/American spelling variations** (Unit 7, printed pp.79–89). The great families: **-re / -er** (centre/center, metre/meter), **-our / -or** (colour/color, favour/favor), **-ise / -ize** (organise/organize), and doubled letters where American spelling singles them (travelled/traveled). Nepal's own pages show the mixture live — its Sports Day list prints "50 Meters Race" with the American spelling beside "100 Metres Race" in the same list: real books mix, and the reader's job is to recognise, not to judge.
 
+## Sub lesson 3 — Reading the Wardrobe
 **Even pronunciation pairs off.** Nepal returns a third time at Unit 14 with **British vs American pronunciation pairs** (printed pp.172–188) — the same word can wear a different sound in the two houses. You do not need to CHANGE your sound; you need to RECOGNISE both.
 
 **The bigger picture — World Englishes.** Vietnam's unit does not stop at two countries: it teaches Braj Kachru's three-circles model of World Englishes — Inner, Outer and Expanding Circles — English belonging to the whole world that uses it. British and American are the two wardrobes this lesson hangs up because the books pair them; your own English, spoken clearly, is a wardrobe too.

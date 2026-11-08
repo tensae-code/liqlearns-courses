@@ -36,7 +36,7 @@ end of this lesson you will have built all three.
  with its long and short lines showing. What you do: point
  at each shape and say whose it is.]
 
-## Then the explanation
+## Sub lesson 1 — Poetry Terms and Writing Steps
 **The writer's terms.** South Sudan's Primary 7 book gives
 poetry a whole unit and opens it with a **glossary of
 poetic terms**: alliteration, assonance, consonance,
@@ -62,6 +62,7 @@ word**. Two countries, one machine: decide what the poem is
 for, fill it with sensed pictures, give it sound, keep the
 lines short, then revise.
 
+## Sub lesson 2 — The Named Poetry Shapes
 **The named shapes.** Barbados's syllabus — syllabus
 evidence only; Barbados holds syllabi, not pupil books —
 places the forms in its Scope and Sequence grid: **poetry
@@ -86,6 +87,7 @@ Basic 6**, meet African poems by their work in the world
 by Basic 8 compose poems **by type — sonnet, acrostic,
 haiku**. The shapes multiply; the machine stays the same.
 
+## Sub lesson 3 — The Poet's Choices
 **Rhyme or free verse — a choice, not a rule.** South
 Sudan's poetry unit sets **rhyme against free verse** and
 has pupils **write poems in both forms**, over poems of the

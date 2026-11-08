@@ -32,7 +32,7 @@ ONE picture and THREE words on it. What you do: say what
 the slide carries — and what the speaker's mouth must
 still carry.]
 
-## Then the explanation
+## Sub lesson 1 — Planning the Talk
 **The stages.** Indonesia's Grade 8 book gives the talk
 its skeleton in a Language Focus: the stages of a
 presentation and their expressions — starting (greeting,
@@ -43,6 +43,7 @@ text: what you can write as steps, you can present as
 stages. Every talk in this lesson wears those four
 stages, whatever its topic.
 
+## Sub lesson 2 — Giving the Talk
 **Syria's eight tips.** Syria's Grade 12 Workbook closes
 with appendixes, and Appendix IV — "How to Prepare a
 Presentation" — prints eight practical tips: organise
@@ -68,6 +69,7 @@ stages divided among speakers, each owning one stage and
 handing over cleanly: "Now Dara will show you the
 second step."
 
+## Sub lesson 3 — Handling the Questions
 **The questions — TRACT.** A talk is not finished when
 the slides end; it is finished when the questions are
 answered well. Indonesia's Grade 12 pupil's book prints

@@ -1,10 +1,34 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — British and American English
 
 **Course:** English · **Title:** Word · **Lesson:** British and American English
-**Place in the curriculum:** Level 43 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 43 — Words About Words (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** one language, two great wardrobes: the paired words (pants/trousers, flat/apartment, chips/French fries) and paired spellings (metre/meter, colour/color) of British and American English — so neither side ever tricks the learner.
 **What the learner can do at the end:** translate the common paired words both ways; read the common spelling pairs at sight; and say which side of the Atlantic a short text was dressed on.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **British and American Word Pairs** — the famous word pairs —
+   pants/trousers, flat/apartment, chips/French fries and their
+   company — from Vietnam's and Nepal's lessons. (Was depth Level
+   1.)
+2. **British and American Spelling** — spelling at sight — the
+   spelling families (-re/-er, -our/-or, -ise/-ize) that dress a
+   word British or American. (Was depth Level 2.)
+3. **Reading the Wardrobe** — reading the wardrobe — the
+   pronunciation pairs, carried here in the text's order before the
+   bigger picture, then naming which side a text was dressed on, and
+   Kachru's World Englishes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Using the dictionary is an earlier lesson — if you know it, this one will be easier: dictionaries label these pairs BrE and AmE. No earlier lesson is needed to start here.

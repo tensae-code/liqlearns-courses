@@ -8,7 +8,7 @@ A question asks: "State TWO reasons why hens scratch the ground." Answer A gives
 
 One honest word about this lesson's size: it is built from only TWO books — Rwanda's Pupil's Book 6 and Vietnam's Grade 12 book. That narrow base is stated here and in the sources, not hidden: these are the two books in the whole read set that teach examination technique itself.
 
-## Then the explanation
+## Sub lesson 1 — The Instruction Verbs
 **The instruction verbs — Rwanda's list.** Rwanda's P.6 book gives a whole unit to "Reading books, writing compositions and examinations" (Unit 6, printed pp.75–87), and its examination work names the instruction verbs outright (printed p.87): **list, state, identify, discuss, illustrate, draw, give, explain, classify, mention, evaluate, compare, differentiate, contrast, summarise, compose**. The eight that rule most papers:
 
 - **List** — the items, only the items. Number them. Sentences are wasted time.
@@ -20,8 +20,10 @@ One honest word about this lesson's size: it is built from only TWO books — Rw
 - **Summarise** — the same content, much shorter, in your own words: the main points only.
 - **Compose** — build a new piece of writing: Rwanda's unit teaches composition structure itself — introduction, main body, conclusion (printed pp.80–82).
 
+## Sub lesson 2 — Strategies by Question Type
 **Strategies by question type — Vietnam's appendix.** Vietnam's Grade 12 book ends with **Appendix 2: Exam Strategies** (printed pp.145–146): a two-page table of strategies BY QUESTION TYPE — pronunciation multiple-choice (sound and stress), vocabulary multiple-choice (closest and opposite in meaning), grammar error identification, cloze (grammar; vocabulary/grammar/comprehension), reading comprehension (main ideas, specific information, negative factual information, inferences, referents, vocabulary), and sentence transformation and combination. The exercises through the book carry printed badges — "A+ EXAM TIPS page 145" / "page 146" — sending the learner back to the right row. The lesson inside the table: there is no single 'exam skill'; each question type has its own road, and the first act of technique is recognising which type is in front of you.
 
+## Sub lesson 3 — Finding and Finishing Under Time
 **The book itself, under time.** Rwanda's same unit teaches the finding tools with the reading skills: skimming and scanning are explained (printed pp.76–77) and the **table of contents and index** are named among the reading-skills terms themselves — the contents tells you which part of the book holds a topic; the index tells you on which page a word or name is treated. Under time pressure these two pages are worth marks: every minute spent hunting leaf by leaf is a minute taken from answering.
 
 **The shape of the whole skill.** Read the verb. Name its delivery. Choose the strategy its type demands. Hunt with contents and index, never by wandering. Answer the size ordered — then move. Rwanda even sets its pupils to compose a simple examination paper themselves in the unit assessment (printed p.87): the fastest way to learn the orders is to give them.

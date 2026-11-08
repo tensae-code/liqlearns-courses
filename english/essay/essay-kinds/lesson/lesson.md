@@ -36,7 +36,7 @@ never miss it.
 one town square, each sign naming a kind of essay. What
 you do: read a task aloud and point at its road.]
 
-## Then the explanation
+## Sub lesson 1 — The Essay Kinds Map
 **The map — nine kinds, nine jobs.**
 - **Argumentative** — a question with two live sides;
   you argue one, fairly meeting the other. Bolivia's
@@ -85,6 +85,7 @@ Match them to the map: analytical ≈ argumentative with
 one side argued; hortatory ≈ persuasive; discussion ≈
 advantages-disadvantages grown into an essay.
 
+## Sub lesson 2 — Essay Introductions and Conclusions
 **Introductions and conclusions are skills, not
 places.** Malaysia's Form 5 book gives each its own
 writing unit. The introduction: state your opinion
@@ -95,6 +96,7 @@ closing comment — a final judgement, prediction or hope
 that the body has earned. Every kind on the map uses the
 same two skills; only the promise changes.
 
+## Sub lesson 3 — The Counter-Argument
 **The counter-argument.** The strongest paragraph in an
 arguing essay is the one that states the OTHER side at
 its best — and then answers it. Indonesia's discussion

@@ -1,10 +1,34 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Translating well
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Translating well
-**Place in the curriculum:** Level 44 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 44 — Tests, Translating, Other Ways (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** carrying MEANING across languages, not words: word-for-word translation is rarely applicable; the translator matches meaning and structure, respects different word order and grammatical categories, and takes idioms across as wholes.
 **What the learner can do at the end:** translate a short real text (a newspaper or magazine passage) meaning-first; spot and repair a word-for-word failure; and carry an idiom across by its whole meaning, not its words.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Law of Translation** — word-for-word rarely
+   works; the cargo that must cross is the meaning, with grammatical
+   categories and differing word order as the two cares. (Was depth
+   Level 1.)
+2. **The Translation Repair Shop** — word-for-word
+   failures rebuilt meaning-first, and idioms carried across as
+   wholes, or not at all. (Was depth Level 2.)
+3. **The Real Crossing** — the working method:
+   translating a whole short newspaper or magazine article both
+   ways, and reading it aloud as a text, not as a translation. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Idioms and collocations (Level 43) is the neighbour lesson — if you know it, this one will be easier, because idioms are where word-for-word dies first. This lesson stands alone: its whole law is stated here.

@@ -34,7 +34,7 @@ cup of gold points under the last sieve. What you do:
 name what each sieve removes — examples, details, then
 the writer's own words.]
 
-## Then the explanation
+## Sub lesson 1 — Selecting and Paraphrasing
 **The definition — selection + paraphrase.** India's
 Hornbill course defines summarising by its two moves:
 SELECT the main points, then PARAPHRASE them — expand
@@ -49,6 +49,7 @@ exists. Its worked text shows the shrinking in print: a
 summary (90 words), and a tighter summary (74 words),
 with the shrinking devices named as they are used.
 
+## Sub lesson 2 — Summarising to a Set Length
 **The length law.** India's rule of thumb: **a summary
 is usually one-third the length of the original.** Other
 books set the length outright, and hitting a SET length
@@ -70,6 +71,7 @@ all: summarise each paragraph of a factual article in a
 WORD OR PHRASE — the main point at label size, the
 selection muscle worked alone.
 
+## Sub lesson 3 — The Shrinking Ladder and the Story Frame
 **The shrinking ladder.** Put the filed lengths on one
 ladder and climb down it: 100 words → 50 → 30 → 20. (The
 ladder is this lesson's practice frame, built from the

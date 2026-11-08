@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Presentation skills
 
 **Course:** English · **Title:** Essay · **Lesson:** Presentation skills
-**Place in the curriculum:** Level 38, "Speeches and Shows".
+**Place in the curriculum:** Unit 38 — Speeches and Shows.
 **The one thing this lesson teaches:** planning and
 giving a talk — open strongly, walk ordered points,
 let slides support (never replace) you, deliver to time —
@@ -13,6 +15,27 @@ and shows, then faces questions.
 stages, build supporting slides and notes, keep to the
 clock, and run Thank–Repeat–Answer–Check–Thank on any
 question without panic.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Planning the Talk** — planning a talk — its stages (starting,
+   stating the goal, showing the steps, ending), with slides and
+   notes that support, not carry. (Was depth Level 1.)
+2. **Giving the Talk** — giving the talk — Syria's eight tips and
+   Bolivia's five steps, in the text's order; Bolivia's steps also
+   revisit preparation, and that overlap is noted rather than split.
+   (Was depth Level 2.)
+3. **Handling the Questions** — the questions after the talk — the
+   TRACT pattern: Thank, Repeat, Answer, Check, Thank. (Was depth
+   Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: Speech writing. Recommended, never

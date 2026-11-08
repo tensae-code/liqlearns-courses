@@ -1,10 +1,35 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Exam technique
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Exam technique
-**Place in the curriculum:** Level 44 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 44 — Tests, Translating, Other Ways (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** winning the marks a question actually offers: reading the instruction verb (list, state, identify, discuss, evaluate, compare, summarise, compose) and giving exactly what it demands, choosing a strategy for each question type, and using a book's contents and index under time.
 **What the learner can do at the end:** name what each instruction verb demands and refuse the extras it does not pay for; pick a strategy by question type from Vietnam's appendix; and find a topic in a book by contents and a word by index, against the clock.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Instruction Verbs** — Rwanda's verb list kept whole,
+   from list, state and identify to discuss, evaluate, compare and
+   compose — and the exact size of answer each one demands. (Was depth Levels 1 and 2 — the
+   first half and the full set of verbs are one list in the text.)
+2. **Strategies by Question Type** — Vietnam's Exam Strategies
+   appendix, a strategy picked for the
+   type of question in front of you. (Was the first part of depth
+   Level 3.)
+3. **Finding and Finishing Under Time** — the book itself under time
+   — finding a topic by contents and a word by index, and the shape
+   of the whole skill, against the clock. (Was the second part of
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Ways to read (skimming, scanning, SQ3R) is this level's neighbour — if you know it, this lesson will be easier. Nothing earlier is required: the verbs are taught here whole.

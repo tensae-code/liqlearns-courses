@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Summarising
 
 **Course:** English · **Title:** Essay · **Lesson:** Summarising
-**Place in the curriculum:** Level 39, "Essays and Shortening".
+**Place in the curriculum:** Unit 39 — Essays and Shortening.
 **The one thing this lesson teaches:** the summary — a
 text's main points, in YOUR OWN WORDS, rebuilt as full
 sentences, to a SET LENGTH: the one-third rule, a worked
@@ -14,6 +16,26 @@ for a reader — and on Finding the idea of a text.
 passage to a word limit without copying its sentences,
 shrink a summary down a ladder of lengths, and summarise
 a story on the five-beat frame.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Selecting and Paraphrasing** — the definition — selection plus
+   paraphrase: main points kept, written in your own words as full
+   sentences. (Was depth Level 1.)
+2. **Summarising to a Set Length** — the set length — the one-third
+   rule and the books' set lengths, hit without copying a sentence.
+   (Was depth Level 2.)
+3. **The Shrinking Ladder and the Story Frame** — the shrinking
+   ladder, run down keeping every main point, and the story frame
+   Someone–Wanted–So–But–Then. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: Note-making. Recommended, never

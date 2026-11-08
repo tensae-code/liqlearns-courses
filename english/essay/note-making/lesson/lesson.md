@@ -33,7 +33,7 @@ into a small numbered card, same meaning, a fifth of the
 words. What you do: point at one vanished word and say
 why the note does not miss it.]
 
-## Then the explanation
+## Sub lesson 1 — Cutting to Note Form
 **India's five steps.** India's Hornbill writing course
 works note-making on a real passage in five printed
 steps: **(1)** underline the load-bearing parts;
@@ -64,6 +64,7 @@ text messages decoded and written (THX, W8, L8R) — the
 note form at its fastest, and its danger shown too: cut
 only what THIS reader can rebuild.
 
+## Sub lesson 2 — The Note-Making System
 **The standard abbreviations.** Uzbekistan prints the
 set used in notes: **ASAP** (as soon as possible),
 **N.B.** (note well — look at this), **V.I.P.** (a very
@@ -74,6 +75,7 @@ in notes they are not shortened words but standard
 marks, spelled always the same way, capitals and stops
 included.
 
+## Sub lesson 3 — Sub-Titling
 **Sub-titling.** India's third writing unit heads the
 same craft from the reader's side: a sub-title is the
 main idea of a section, statable at a glance, and

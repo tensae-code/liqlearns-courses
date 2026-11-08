@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Story techniques
 
 **Course:** English · **Title:** Story · **Lesson:** Story techniques
-**Place in the curriculum:** Level 41, "Stories and Poems in
-Detail" — the first lesson of the level.
+**Place in the curriculum:** Unit 41 — Stories and Poems in Detail — the first lesson of the unit.
 **The one thing this lesson teaches:** the story's CRAFT —
 the moves a writer makes on top of the basic shape:
 flashback and foreshadowing (playing with time), suspense
@@ -16,6 +17,25 @@ teaches only the craft — the basics are not retaught here.
 and a foreshadowing hint, build suspense, lay a mystery's
 clues and red herring, show a character by STEAL, and close
 a story with a chosen ending and a coda.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Story Time Moves** — the time moves — backstory, flashback,
+   flash forward and foreshadowing. (Was depth Level 1.)
+2. **Suspense and the Mystery** — suspense, and the mystery built to
+   Egypt's Tip Box — a mystery, a detective, 2–3 real clues, 1 red
+   herring, and a solution that fits the clues. (Was depth Level 2.)
+3. **Character and Endings** — character by STEAL (Speech, Thoughts,
+   Effect, Actions, Looks), and structure, the coda and the choice
+   of endings. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: The story (the furniture this craft

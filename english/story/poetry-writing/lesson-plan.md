@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Poetry writing
 
 **Course:** English · **Title:** Story · **Lesson:** Poetry writing
-**Place in the curriculum:** Level 41, "Stories and Poems in
-Detail" — the second lesson of the level.
+**Place in the curriculum:** Unit 41 — Stories and Poems in Detail — the second lesson of the unit.
 **The one thing this lesson teaches:** writing poems to
 named shapes — the bio poem, the colour poem and the
 five-line limerick — with the writer's working terms
@@ -14,6 +15,26 @@ where that lesson crafted prose, this one crafts verse.
 and a colour poem to their frames, write a limerick whose
 five lines scan and rhyme AABBA, and choose rhyme or free
 verse on purpose, knowing the terms for what they did.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Poetry Terms and Writing Steps** — the writer's terms and how a
+   poem gets written — goal, theme, imagery, rhyme/rhythm, revise.
+   (Was depth Level 1.)
+2. **The Named Poetry Shapes** — the named shapes — the bio poem,
+   the colour poem and the five-line limerick rhyming AABBA. (Was
+   depth Level 2.)
+3. **The Poet's Choices** — the poet's choices — rhyme or free verse
+   chosen deliberately, and a refrain and a comparison placed where
+   they earn their keep. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: The story (poems are its kin in this

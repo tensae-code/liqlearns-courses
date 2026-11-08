@@ -1,10 +1,35 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Reading between the lines
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Reading between the lines
-**Place in the curriculum:** Level 42 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 42 — Reading Like a Detective (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** the detective moves BEYOND finding the main idea and answering from the text: inference, fact vs opinion, guessing a word from its context, and reading tone, the author's viewpoint and purpose, and mood.
 **What the learner can do at the end:** infer what a text means but does not say, and point at the clues; sort facts from opinions; guess an unknown word from the sentences around it; and name a text's tone, viewpoint, purpose and mood with evidence.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Inference and the Two Sorts** — working out what
+   the text does not say, from its clues — and the two sorts, fact
+   and opinion, told apart by the check test. (Was depth Level 1,
+   with the inference part of depth Level 2 — the lesson's text
+   teaches inference before the two sorts, so the text's order is
+   kept.)
+2. **Guessing Words from Context** — guessing an unknown word from
+   the sentences around it, showing the clue words. (Was the
+   guessing-words part of depth Level 2.)
+3. **The Writer's Weather** — tone, viewpoint
+   and purpose, and mood, the weather the text builds in the reader.
+   (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Finding the idea of a text and Answering from the text are already taught earlier in this course — if you know them, this lesson will be easier for you; you might try them first. This lesson starts where they stop: what the text does NOT say outright.

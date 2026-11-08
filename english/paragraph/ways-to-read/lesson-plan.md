@@ -1,10 +1,31 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Ways to read
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Ways to read
-**Place in the curriculum:** Level 42 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 42 — Reading Like a Detective (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** reading ON PURPOSE, with named systems: SQ3R and KWL as whole routines, and skimming and scanning as deliberate fast strategies — choosing HOW to read before reading.
 **What the learner can do at the end:** run SQ3R (Survey, Question, Read, Recite, Review) and KWL (Know, Want to know, Learned) on a real text; skim for the gist in minutes; and scan for one named fact without reading the rest.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Skimming and Scanning** — the two fast gears — skimming for the
+   gist and scanning to hunt one named thing. (Was depth Level 1.)
+2. **SQ3R and KWL** — the two systems — SQ3R (Survey, Question,
+   Read, Recite, Review) and KWL (Know, Want to know, Learned). (Was
+   depth Level 2.)
+3. **Choosing the Reading Road** — choosing the road — picking and
+   defending the right strategy for the job, including exam question
+   types, before touching the text. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Finding the idea of a text is already taught — if you know it, this lesson will be easier. This lesson is about the road you take THROUGH a text, not the idea you carry out of it.

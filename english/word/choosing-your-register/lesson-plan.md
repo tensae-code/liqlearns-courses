@@ -1,10 +1,32 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Choosing your register
 
 **Course:** English · **Title:** Word · **Lesson:** Choosing your register
-**Place in the curriculum:** Level 43 (CATCH-UP-PLAN.md,
-Levels 42–44 build list).
+**Place in the curriculum:** Unit 43 — Words About Words (CATCH-UP-PLAN.md,
+Units 42–44 build list).
 **The one thing this lesson teaches:** saying the same thing the way the moment demands: formal vs informal wording, home dialect vs standard English by place and circumstance, and the softening tools — hedging and vague language.
 **What the learner can do at the end:** re-dress one message formally and informally; say when home dialect and when standard English serves you, and switch; and hedge a claim or use vague language deliberately, for politeness or honesty.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Formal and Informal** — register and the two suits — formal and
+   informal wording and their pair words, for the way of speaking a
+   moment demands. (Was depth Level 1.)
+2. **Register for Place and Circumstance** — place and circumstance
+   — dialect or standard chosen as the place demands, and code-
+   switching between them. (Was depth Level 2.)
+3. **Hedging and Vague Language** — the soft tools — hedging,
+   marking how sure you are, and vague language, looseness used on
+   purpose. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - The formal letter and Letters that ask and advise are earlier lessons — if you know them, this one will be easier: it teaches the CHOICE underneath them. It stands alone: everything needed is here.

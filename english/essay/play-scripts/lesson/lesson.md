@@ -36,7 +36,7 @@ losing nothing — is this lesson's whole craft.
 scene written as a story paragraph. What you do: point
 at where each narrator sentence went in the script.]
 
-## Then the explanation
+## Sub lesson 1 — Play Script Layout
 **The layout.** Ghana's Basic 8 curriculum states the
 multi-speaker dialogue form outright, and it is the
 script's form too: the speaker's name at the left, a
@@ -51,6 +51,7 @@ with stage directions as the unit's writing work. The
 Year 6 Scheme of Work maps those same lessons — the
 mapped evidence and the pupil's-book read agree.
 
+## Sub lesson 2 — Stage Directions
 **Stage directions.** Directions are the script's
 instructions to bodies: who enters, who moves where,
 what is picked up, how a line is said — written in
@@ -68,6 +69,7 @@ must be speakable English, because real mouths must say
 it. That is the script's first test: read every line
 aloud. A line no mouth can say is not finished.
 
+## Sub lesson 3 — Turning a Story into a Script
 **Reading a play, writing a play.** India's Class 10
 book prints a whole one-act play — Chekhov's "The
 Proposal", a farce in which a marriage proposal keeps

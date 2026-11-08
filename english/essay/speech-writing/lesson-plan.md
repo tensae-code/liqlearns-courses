@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Speech writing
 
 **Course:** English · **Title:** Essay · **Lesson:** Speech writing
-**Place in the curriculum:** Level 38, "Speeches and Shows".
+**Place in the curriculum:** Unit 38 — Speeches and Shows.
 **The one thing this lesson teaches:** the speech — a piece
 of writing made to be HEARD: address the audience, walk
 your points in order, close with a line that stays; and
@@ -14,6 +16,27 @@ for/against speech its own shape.
 short speech with a vocative address, ordered points and
 a closing line; build a for/against speech; and use — and
 spot — tripling, repetition and the three appeals.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Speech in Three Parts** — the speech's three parts (Ghana's
+   rule), the vocative address and the closing line that returns to
+   the opening promise. (Was depth Level 1.)
+2. **Ordered Points and the For/Against Speech** — points ordered
+   for a listener hearing them once, and the for/against speech that
+   gives the other side fairly before answering it. (Was depth Level
+   2.)
+3. **Speech Rhetoric** — tripling / rule of three,
+   repetition, parallel structure, emotive words, inclusive "we",
+   and ethos / logos / pathos. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: The essay. Recommended, never forced.

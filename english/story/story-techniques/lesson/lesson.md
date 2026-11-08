@@ -37,7 +37,7 @@ jumping back along it, a faint sign showing far ahead.
 What you do: trace both moves and say which way each
 points in time.]
 
-## Then the explanation
+## Sub lesson 1 — Story Time Moves
 **Playing with time.** Ghana's Basic 9 curriculum —
 curriculum evidence only, Ghana holds no pupil textbook —
 names the set outright: **narrative techniques to
@@ -54,6 +54,7 @@ suspense, coincidence, flashback, and stories told through
 letters** (Unit 5, pp.62–74) — a reminder that a technique
 is also a kind of story you can choose on purpose.
 
+## Sub lesson 2 — Suspense and the Mystery
 **Suspense.** South Sudan names suspense as a style; its
 craft is simple to state and hard to hold: the reader
 knows something matters, fears how it may go, and is made
@@ -77,6 +78,7 @@ mislead, but the solution must be buildable from the real
 clues alone — a mystery whose answer arrives from nowhere
 is not clever, it is broken.
 
+## Sub lesson 3 — Character and Endings
 **Characterisation by STEAL.** Indonesia's Grade 11 book
 does its character work on a heard legend with the
 **STEAL steps: Speech, Thoughts, Effect (on others),

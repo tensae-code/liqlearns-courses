@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Essay kinds
 
 **Course:** English · **Title:** Essay · **Lesson:** Essay kinds
-**Place in the curriculum:** Level 39, "Essays and Shortening".
+**Place in the curriculum:** Unit 39 — Essays and Shortening.
 **The one thing this lesson teaches:** the kinds of essay
 as ONE MAP — argumentative, opinion, persuasive,
 descriptive, expository, compare-contrast, cause-effect,
@@ -15,6 +17,28 @@ map of what the shape can be aimed at.
 essay's kind from its task, choose the structure that
 kind demands, open and close it properly, and plant a
 counter-argument and answer it.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Essay Kinds Map** — the map of the kinds and their named
+   frames — what each kind is for, and Indonesia's analytical,
+   hortatory and discussion machines. (Was depth Level 1.)
+2. **Essay Introductions and Conclusions** — introductions and
+   conclusions as skills — stating a position without copying the
+   task, and summarising with a closing comment. (Was depth Level
+   2.)
+3. **The Counter-Argument** — the counter-argument — the other side
+   at its best, then answered — with India's four checks (Unity,
+   Coherence, Relevance, Proportion) riding over every kind. (Was
+   depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is
+written in questions/, so the sub lesson's whole question set is the
+gate pool.
 
 ## Before this lesson
 - Recommended first: The essay (the basic shape).

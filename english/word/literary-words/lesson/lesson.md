@@ -6,15 +6,17 @@ Built from: Egypt, Secondary 11 Term 1 (Unit 11 — Literature: 'The Many Kinds 
 ## Do it first
 Read three lines: (1) "Her voice was like honey." (2) "Her voice was honey." (3) "The moon watched us all the way home." Three different tricks were just played on you. In line 1 two things are compared openly. In line 2 one thing simply BECOMES the other. In line 3 a thing that cannot watch… watched. Writers use these tricks in every story and poem you will ever read — and readers who can NAME them can talk about books properly. This lesson stocks the names.
 
-## Then the explanation
+## Sub lesson 1 — The Kinds of Literature
 **The kinds of literature.** Egypt's Secondary 11 book gives literature a whole unit, opening with the lesson "The Many Kinds of Literature": the five kinds taken one by one — **novels, poetry, drama, folktales, essays** — literature's work being "to connect people through words"; it even stocks literature's own collocations (express ideas, argue a point, think deeply) (Unit 11, Lesson 1). The same year's book binds in a whole **novel** — studied chapter by chapter with its own Chapter Questions — so a novel is not just named but lived with for a year.
 
 **Genres — kinds inside kinds.** A **genre** is a family inside a kind, known by its promises: a thriller promises danger, a comedy laughter, a mystery a puzzle. Jordan's Grade 12 book teaches the film end of the same shelf — film genres named in its speaking lesson (biopic, courtroom drama, disaster movie, period drama, post-apocalyptic, animation…) (Semester 2, Unit 7, p.23). Genres tell the reader what to expect before page one.
 
 **The story-words.** Ghana's JHS curriculum analyses written literature by **PLOT, SETTING, CHARACTERS** — compared across texts — with themes analysed beside them (curriculum evidence: the NaCCA curriculum names the analysis set; Ghana's held set is its curricula). Plot: what happens, in order. Setting: where and when. Characters: who. Theme: what the work is really about, underneath the events. With four words you can open any story ever written.
 
+## Sub lesson 2 — Figures of Speech
 **Figures of speech — the writer's tricks, named.** A **simile** compares with a flag flying: *like* or *as* — "as busy as a bee", "her voice was like honey". A **metaphor** compares with no flag: the thing IS the other thing — "her voice was honey". Sierra Leone's Creative Writing lesson introduces the pair with exactly that test: metaphor compared with simile, metaphor not using "like/as" (L25). **Personification** gives human life to things: "the moon watched us", "the river smiles". Ghana's JHS curriculum stocks the device set for use: **metaphor, simile, personification, alliteration** (same opening sounds), **assonance** (same vowel sounds) and **consonance** (curriculum evidence). Sierra Leone's JSS3 book adds the second shelf: **irony, euphemism and repetition**, "after the earlier simile, metaphor and personification" (L98, p.98).
 
+## Sub lesson 3 — Talking About Books
 **Loving the words themselves.** Jordan's Grade 12 book sets a whole poem about this lesson's subject: Elinor Morton Wylie's "Pretty Words" — favourite words treated as pets, smooth words, tender words, shy words — with poetic devices and metaphor work around it (Semester 2, Unit 7, pp.20–21). Literary words are not school decoration: they are how readers tell each other precisely what a writer did — and why it worked.
 
 ## Media in this lesson
