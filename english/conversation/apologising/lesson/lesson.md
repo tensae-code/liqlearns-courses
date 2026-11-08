@@ -28,7 +28,7 @@ You just did the whole lesson. Now let's see how it works.
 game, looking at his friend — say the apology out loud, at
 the right strength, before you read on]
 
-## Then the explanation
+## Sub lesson 1 — The sorry at three strengths
 An **apology** has two halves: your sorry, and the other
 person's forgiveness. The books teach both halves, in that
 order.
@@ -42,6 +42,7 @@ among its free-time exponents; **I'm terribly sorry** for
 the biggest. Match the strength to the accident: a forgotten
 pencil does not need "terribly"; a broken game does.
 
+## Sub lesson 2 — Saying what happened, I'm afraid I
 **Say what happened.** A bare sorry is half an apology. The
 Study Box completes it with **I'm afraid I…**: "I'm afraid I
 broke… / left… / forgot… / lost…" Syria's pair role-cards
@@ -54,6 +55,7 @@ functional language, "I'm afraid I…", in its Unit 4 (Scheme
 of Work / mapped evidence, as filed — not a pupil's-book
 page).
 
+## Sub lesson 3 — The replies that forgive
 **The replies close it.** Syria's Study Box gives the
 forgiveness side its three answers: **"It doesn't matter."
 "It's all right." "Don't worry."** Nepal's Grade 9 speaking
@@ -61,6 +63,7 @@ work is exactly this pair of jobs — apologising and
 responding to apologies — drilled on small true accidents:
 eating chocolates, spilling a drink, stepping on a toe.
 
+## Sub lesson 4 — The apology at full length, in writing
 **The apology at full length.** Nepal's Grade 9 book opens
 its apology unit with a reading whose title asks why "I'm
 Sorry" doesn't always translate — sorry works differently

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Apologising
 
 **Course:** English · **Title:** Conversation · **Lesson:** Apologising
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** apologising — saying
 sorry well: "I'm sorry," made stronger with "terribly /
 really," completed with what happened ("I'm afraid I broke /
@@ -12,6 +14,19 @@ accident (a broken game, a lost pen, a forgotten book) with
 the full shape — sorry + what happened; answer an apology
 with a reassuring reply; and write the apology as a short
 letter or email, the way Nepal's books carry it.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The sorry at three strengths** — the apology's first half: "I'm sorry / I'm really sorry / I'm terribly sorry" — the strength matched to the accident. The opening paragraph names both halves, so it overlaps Sub lesson 3. (Was depth Level 1.)
+2. **Saying what happened, I'm afraid I** — the completed apology: "I'm afraid I broke / left / forgot / lost…" — a bare sorry is only half an apology. (Was part of depth Level 2.)
+3. **The replies that forgive** — the forgiveness side: "It doesn't matter." "It's all right." "Don't worry." (Was part of depth Level 2.)
+4. **The apology at full length, in writing** — the spoken shape grown into writing — Nepal's apology letter and email, Syria's letters matched to their replies. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know How are you?, this will feel easier — an
