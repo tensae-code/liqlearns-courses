@@ -28,7 +28,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 
 1. **Her name** — asking about a girl or a woman: "What's her name?" — and how this question differs from "What's your name?" (Was part of depth Level 1.)
 2. **His name** — asking about a boy or a man: "What's his name?"; the her/his contrast paragraph sits here and covers both words, so it overlaps Sub lesson 1. (Was part of depth Level 1.)
-3. **The answer is just the name** — the answer carries the person's name only — never "My name is" for someone else. (Was part of depth Level 1.)
+3. **The answer: the name, or the whole sentence** — the books answer two ways: the name alone (Libya; Iraq's opening unit) and the whole sentence "Her name is Nada" / "His name's…" (Iraq's later unit; Jordan's family-photo frame) — never "My name is" for someone else. (Was part of depth Level 1. Corrected 2026-11-08: this part previously stated the bare name as the only answer — that was Libya's version alone, corrected against the stocked full form.)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -40,8 +40,10 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Ask about a girl or woman: "What's her name?"
 2. Ask about a boy or man: "What's his name?"
-3. Answer with just the name — "Muna." / "Kareem." — and know why it
-   is not "My name is" (you cannot say "my" for someone else).
+3. Answer both ways — with just the name ("Muna." / "Kareem.") and
+   in the whole sentence ("Her name is Nada." / "His name's
+   Kareem.") — and know why it is never "My name is" (you cannot
+   say "my" for someone else).
 
 ## What you need
 People nearby to point at, or pictures of people. The companion.
@@ -55,15 +57,16 @@ People nearby to point at, or pictures of people. The companion.
      other, no names shown — the student points at each one and asks
      the question that fits them.
 2. **The explanation** — names have three doors; her goes with a
-   girl or woman, his with a boy or man; the answer is just the name
-   carried across (lesson/lesson.md).
+   girl or woman, his with a boy or man; the answer: the name
+   carried across, alone or in the whole sentence
+   (lesson/lesson.md).
    - ADD AUDIO: both pairs read aloud — "What's her name? — Muna."
      and "What's his name? — Kareem." — the student repeats each
      pair, then says which word did the pointing work (her / his).
    - ADD IMAGE under the answer: a picture of a name being carried —
      one child holding a name card and handing it across to the
-     asker — the student says why the card carries only the name,
-     not "My name is."
+     asker — the student answers twice: with the name alone, and
+     in the whole sentence "Her name is…"
 3. **Say it to your companion** — two people, a girl and a boy, real
    or in a picture: ask about each and answer, until her and his
    come without thinking.
@@ -84,7 +87,7 @@ People nearby to point at, or pictures of people. The companion.
 - AUDIO — both question-and-answer pairs read aloud → the student
   repeats them and names the pointing word.
 - IMAGE — a picture of a name card handed across → the student says
-  why the answer is just the name.
+  the answer both ways: the name alone, and the whole sentence.
 - VIDEO — the video-script filmed (made later) → the student asks
   both questions along with it.
 

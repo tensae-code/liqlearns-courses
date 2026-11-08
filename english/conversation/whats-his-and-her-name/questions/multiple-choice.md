@@ -1,6 +1,6 @@
 # What's his and her name? — multiple choice
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Her name · Sub lesson 2 — His name · Sub lesson 3 — The answer is just the name, one item per step, in order.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Her name · Sub lesson 2 — His name · Sub lesson 3 — The answer: the name, or the whole sentence (renamed and corrected 2026-11-08 — the name-only statement was one book's version, Libya's), one item per step, in order.
 
 Choice questions only. Answers at the bottom.
 
@@ -11,5 +11,8 @@ Choice questions only. Answers at the bottom.
 **3. (Sub lesson 3)** "What's her name?" — a right answer is:
    a) My name is Muna  b) Muna  c) I'm Muna's friend  d) Her is Muna
 
+**4. (Sub lesson 3)** "What's his name?" — a right answer in the WHOLE sentence is:
+   a) My name is Kareem  b) His name's Kareem  c) I am Kareem  d) He Kareem
+
 ## Answers
-1-b, 2-c, 3-b
+1-b, 2-c, 3-b, 4-b

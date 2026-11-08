@@ -1,6 +1,6 @@
 # What's his and her name? — true or false
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Her name · Sub lesson 2 — His name · Sub lesson 3 — The answer is just the name, split item by item by what each item turns on.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Her name · Sub lesson 2 — His name · Sub lesson 3 — The answer: the name, or the whole sentence (renamed and corrected 2026-11-08 — the name-only statement was one book's version, Libya's), split item by item by what each item turns on.
 
 True-or-false questions only. Answers at the bottom.
 
@@ -9,6 +9,9 @@ True-or-false questions only. Answers at the bottom.
 **3. (Sub lesson 3)** You answer "My name is" when someone asks about another
    person's name. (True / False)
 
+**4. (Sub lesson 3)** "Her name is Nada" is a right answer to
+   "What's her name?" (True / False)
+
 ## Answers
 1-False (her is for a girl or woman), 2-True,
-3-False (you give that person's name)
+3-False (you give that person's name), 4-True (Iraq, Grade 2, Unit 7 — the full form)

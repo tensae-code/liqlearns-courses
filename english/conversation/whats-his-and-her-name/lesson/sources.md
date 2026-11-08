@@ -39,6 +39,15 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | The family version — "Who's he? — He's my grandpa / Who's she? — She's my mother / Who are they? — They're my sisters" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.10 |
 | "What's his/her name?" in the school opener, with the possessives his/her | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
 
+**Correction note (2026-11-08, whole-arc audit):** the
+lesson text previously stated the answer "is just the name."
+That is one book's version — Libya's (and Iraq's opening
+unit). The stocked full form is now taught in Sub lesson 3
+beside it: Iraq Grade 2 Unit 7's "What's her name? — Her
+name is Nada" (printed pp.58–67) and Jordan Grade 2's
+"His name's… / Her name's…" frame (Unit 4, printed
+pp.32–39). No existing row changed.
+
 **Acceptance count: taught in 14 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming

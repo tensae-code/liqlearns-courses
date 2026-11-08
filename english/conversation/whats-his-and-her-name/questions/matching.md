@@ -10,5 +10,10 @@ Join each question to the person it points at.
 **2. (Sub lesson 2)** What's his name?   b) A girl across the room
 **3. (Sub lesson 1)** What's your name?  c) The person you are talking to
 
+Join each question to its whole-sentence answer.
+
+**4. (Sub lesson 3)** What's her name?  d) His name's Kareem
+**5. (Sub lesson 3)** What's his name?  e) Her name is Nada
+
 ## Answers
-1-b, 2-a, 3-c
+1-b, 2-a, 3-c, 4-e, 5-d

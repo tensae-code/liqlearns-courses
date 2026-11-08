@@ -14,5 +14,10 @@ Sub lesson 1 questions from the type files. Pass mark: pick "her" and ask "What'
 ## Sub lesson 2 — His name
 Sub lesson 2 questions from the type files. Pass mark: pick "his" and ask "What's his name?" for a boy or a man. (Split from old Level 1's pass mark.)
 
-## Sub lesson 3 — The answer is just the name
-Sub lesson 3 questions from the type files. Pass mark: answer with the name only — never "My name is" for another person. (Split from old Level 1's pass mark.)
+## Sub lesson 3 — The answer: the name, or the whole sentence
+Sub lesson 3 questions from the type files. Pass mark: answer
+with the name alone (Libya's shape) and in the whole sentence —
+"Her name is…" / "His name's…" (Iraq's and Jordan's shapes) —
+never "My name is" for another person. (Split from old Level 1's
+pass mark; corrected 2026-11-08 — the old pass mark's "name
+only" wording stated Libya's version as the rule.)
