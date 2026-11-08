@@ -69,6 +69,46 @@ division stays at sharing and the tables — so this lesson's
 column work stands on Egypt, Jordan, Vietnam, Kazakhstan and
 Armenia, not on Greece.
 
+## Sub lesson 4 — Long Division: Big Numbers, Two- and Three-Digit Divisors
+**The same chant, longer numbers.** Long division does not
+change when the dividend grows — divide, multiply, subtract,
+bring down, digit by digit. Ethiopia's Grade 4 book divides
+to 1,000,000 by 1-digit, 2-digit and larger numbers, with
+remainders (ch. 4, printed pp.83–106). Its biggest worked
+division runs the whole chant:
+
+564,923 ÷ 8: 56 ÷ 8 = 7; bring down the 4 — 4 ÷ 8 = 0 (the
+zero in the quotient is a real digit — never skip it); bring
+down the 9 — 49 ÷ 8 = 6, remainder 1; bring down the 2 —
+12 ÷ 8 = 1, remainder 4; bring down the 3 — 43 ÷ 8 = 5,
+remainder 3. Answer: **70,615 remainder 3**. The same book
+divides 300,000 ÷ 6 and 800,000 ÷ 9 = 88,888 remainder 8.
+
+**Two- and three-digit divisors.** Nepal's Grade 4 book
+divides 5-digit numbers by 2- and 3-digit divisors (printed
+pp.26–42), and Bangladesh's Class 5 book teaches long
+division with 2- and 3-digit divisors (Ch. 2, printed
+pp.7–11). The one new skill is judging the first step: how
+many times does the divisor fit? Work it from the tables you
+know, and take enough digits first — Rwanda's Primary 6
+teacher's guide shows a 7-digit number divided by the
+3-digit divisor 130, taking four digits first because 130 is
+bigger than the first three (Teacher's Guide, Unit 1,
+printed p.20):
+
+4,876 ÷ 23: 48 ÷ 23 = 2 (2 × 23 = 46, remainder 2); bring
+down the 7 — 27 ÷ 23 = 1 (remainder 4); bring down the 6 —
+46 ÷ 23 = 2. Answer: 212.
+
+Rwanda's Primary 6 book takes long division beyond
+1,000,000, by 2- and 3-digit divisors (Unit 1, printed
+pp.22–25), and Tanzania's Standard Five book works long
+division with dividends to 1,000,000 and divisors to three
+digits (printed p.69). **Checking** grows with the work, in
+Nepal's own form: quotient × divisor (+ remainder) =
+dividend — 70,615 × 8 + 3 = 564,923, the number you started
+with.
+
 ## Say it to your companion
 Your companion calls a sharing: "12 stones, 3 friends." Deal
 them in your head: "4 each." They call "17 ÷ 5": "3 remainder 2."
@@ -82,3 +122,5 @@ then check each answer by multiplying.
 3. With remainders: 17 ÷ 5; 23 ÷ 4; 31 ÷ 6; 29 ÷ 3.
 4. In columns: 96 ÷ 4; 84 ÷ 4; 96 ÷ 6; 132 ÷ 3.
 5. Check each column answer by multiplying.
+6. Long division: 564,923 ÷ 8; 800,000 ÷ 9; 4,876 ÷ 23.
+   Check each by quotient × divisor (+ remainder).

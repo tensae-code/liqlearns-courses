@@ -1,6 +1,6 @@
 # Division — multiple choice
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking. Sub lesson 4 — Long Division: Big Numbers, Two- and Three-Digit Divisors — was added 2026-11-08 under the whole-arc rule.
 
 Pick the one right answer.
 
@@ -35,3 +35,11 @@ a) 14  b) 16  c) 19
 **8. (Sub lesson 3)** The check for 96 ÷ 4 = 24 is ______.
 a) 96 − 24  b) 24 × 4  c) 96 + 4
 **Answer:** b) 24 × 4 — multiply the answer back: 96.
+
+**9. (Sub lesson 4)** 564,923 ÷ 8 = ______.
+a) 70,615 remainder 3  b) 70,615 remainder 5  c) 76,015 remainder 3
+**Answer:** a) 70,615 remainder 3 — Ethiopia's Grade 4 worked division, to 1,000,000.
+
+**10. (Sub lesson 4)** Nepal's check for a division with a remainder is ______.
+a) quotient + divisor = dividend  b) quotient × divisor + remainder = dividend  c) dividend × quotient = divisor
+**Answer:** b) quotient × divisor + remainder = dividend.

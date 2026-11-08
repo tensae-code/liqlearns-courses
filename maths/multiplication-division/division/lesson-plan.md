@@ -27,6 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 1. **Division Sharing and the Tables** — share a number into equal parts, and divide using the times tables. (Was depth Level 1.)
 2. **Division Remainders** — divide with a remainder, say what the remainder means, and know the remainder must be smaller than the divisor. (Was depth Level 2.)
 3. **Division In Columns and Checking** — divide two- and three-digit numbers by one digit in columns, and check every division by multiplying. (Was depth Level 3.)
+4. **Long Division: Big Numbers, Two- and Three-Digit Divisors** — the same chant on the books' full climb: Ethiopia Grade 4's divisions to 1,000,000 (564,923 ÷ 8 = 70,615 r3) by 1-digit, 2-digit and larger divisors; 5-digit dividends by 2- and 3-digit divisors with Nepal's check (quotient × divisor + remainder = dividend); long division beyond 1,000,000 by 2- and 3-digit divisors (Rwanda Primary 6), taking enough digits first (Rwanda's teacher-guide 130 example). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the old text stopped at introductory columns and checking.)
 
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
@@ -39,6 +40,9 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 2. Divide using the times tables (56 ÷ 7 = 8).
 3. Divide with a remainder and say what the remainder means (17 ÷ 5 = 3 remainder 2).
 4. Divide two- and three-digit numbers by one digit in columns, and check by multiplying.
+5. Divide numbers to 1,000,000 and beyond by 2- and 3-digit
+   divisors, and check by quotient × divisor (+ remainder) =
+   dividend (564,923 ÷ 8 = 70,615 r3; 4,876 ÷ 23 = 212).
 
 ## What you need
 Counters or stones; a multiplication table grid.

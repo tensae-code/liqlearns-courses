@@ -1,6 +1,6 @@
 # Division — true or false
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking. Sub lesson 4 — Long Division: Big Numbers, Two- and Three-Digit Divisors — was added 2026-11-08 under the whole-arc rule.
 
 Say true or false. If it is false, say why.
 
@@ -21,3 +21,9 @@ Say true or false. If it is false, say why.
 
 **6. (Sub lesson 3)** 132 ÷ 3 = 44.
 **Answer:** True — 13 ÷ 3 = 4 remainder 1, bring down 2: 12 ÷ 3 = 4.
+
+**7. (Sub lesson 4)** A remainder can be bigger than the divisor when the dividend is very big.
+**Answer:** False — the remainder must always be smaller than the divisor, at any size.
+
+**8. (Sub lesson 4)** Long division works the same with a 3-digit divisor — you just take enough digits of the dividend first.
+**Answer:** True — Rwanda's teacher's guide divides a 7-digit number by 130, taking four digits first.

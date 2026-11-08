@@ -1,6 +1,6 @@
 # Division — matching
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Division Sharing and the Tables · (Level 2) -> Sub lesson 2 — Division Remainders · (Level 3) -> Sub lesson 3 — Division In Columns and Checking. Sub lesson 4 — Long Division: Big Numbers, Two- and Three-Digit Divisors — was added 2026-11-08 under the whole-arc rule.
 
 Match each item on the left to its partner on the right.
 
@@ -15,3 +15,6 @@ Match each item on the left to its partner on the right.
 
 **4. (Sub lesson 3)** Match each division to its check: (a) 96 ÷ 4 = 24 (b) 17 ÷ 5 = 3 remainder 2 — 24 × 4 = 96, 3 × 5 + 2 = 17
 **Answer:** a) 24 × 4 = 96, b) 3 × 5 + 2 = 17.
+
+**5. (Sub lesson 4)** Match each long division to its answer: (a) 564,923 ÷ 8 (b) 800,000 ÷ 9 (c) 476 ÷ 3 — 70,615 r3; 88,888 r8; 158 r2
+**Answer:** a) 70,615 r3; b) 88,888 r8; c) 158 r2.
