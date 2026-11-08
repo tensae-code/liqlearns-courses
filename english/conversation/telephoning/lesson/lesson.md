@@ -25,7 +25,7 @@ language. The phone phrases themselves — the target lines
 — are never translated. You hear them in English, in an
 English voice, exactly as a caller would say them.
 
-## Then the explanation
+## Sub lesson 1 — Answering the call
 **Answering.** A call opens with hello and a name:
 "Hello, Athenian Hotel. … speaking." Greece's travel
 agent answers this way when he phones to book rooms for a
@@ -35,6 +35,7 @@ receiver, mouthpiece, earpiece, dial, wire, ringing —
 before the first expression is used (Unit 8, "It's for
 you!", p.86).
 
+## Sub lesson 2 — Asking for a person
 **Asking for a person.** "Can I speak to …?" is the plain
 ask. The polite ladder climbs: "Could I speak to …?",
 "I'd like to speak to …", "Is it possible to speak to
@@ -42,6 +43,7 @@ ask. The polite ladder climbs: "Could I speak to …?",
 "Could I…? / I'd like to… / Is it possible to…?"
 (Chapter 34).
 
+## Sub lesson 3 — Waiting, hold on and put through
 **Waiting.** The answerer's working lines are Greece's:
 "Hold on, please." — "I'll put you through." Greece's
 Unit 2 builds a whole telephone strand: answering, asking
@@ -50,6 +52,7 @@ and leaving messages, calling back — and the phrasal
 verbs that carry it: put through, get through, ring up,
 hold on, cut off, hang up, call back.
 
+## Sub lesson 4 — Taking and leaving messages
 **When the person is out — messages.** "He's not here.
 Can I take a message?" A good message holds three things:
 who called, the number, and what to do — "Please tell him
@@ -63,6 +66,7 @@ first speaking activities and telephone directories among
 the first real reading, because a directory only works if
 names and numbers are exact.
 
+## Sub lesson 5 — Making an appointment by phone
 **Making an appointment by phone.** Albania's Chapter 34
 teaches an appointment three ways — in person, by phone,
 or by text message — with the same polite phrases:
@@ -71,6 +75,7 @@ on Tuesday." "Is it possible to come earlier?" The other
 side confirms or changes it: "Yes, that's fine." / "I'm
 sorry, Tuesday is full. Wednesday at ten?"
 
+## Sub lesson 6 — Closing the call
 **Closing.** Every call ends clean: "Thank you for
 calling. Goodbye." If the line was engaged or you were
 cut off, the repair is one line: "Sorry — we were cut

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Telephoning
 
 **Course:** English · **Title:** Conversation · **Lesson:** Telephoning
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** a whole phone call in
 English — answering, asking for a person, waiting, taking
@@ -11,6 +13,21 @@ name; ask "Can I speak to …?"; say "Hold on, please" and
 "I'll put you through"; take a message with a name and a
 number; leave a message; fix a day and time; and close the
 call politely.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Answering the call** — a call opens with hello and a name — "Hello, … speaking" — and Uzbekistan's names for the telephone itself. (Was part of depth Level 1.)
+2. **Asking for a person** — "Can I speak to …?" and the polite ladder up: "Could I speak to …?", "I'd like to speak to …", "Is it possible to speak to …?" (Was part of depth Level 1.)
+3. **Waiting, hold on and put through** — the answerer's working lines — "Hold on, please." "I'll put you through." — and Greece's whole telephone strand with its phrasal verbs. (Was part of depth Level 1.)
+4. **Taking and leaving messages** — when the person is out: "Can I take a message?" — a good message holds who called, the number, and what to do; names spelled, numbers said slowly. (Was depth Level 2.)
+5. **Making an appointment by phone** — Albania's appointment by phone, with the same polite phrases, and the other side confirming or changing it. (Was part of depth Level 3.)
+6. **Closing the call** — every call ends clean — "Thank you for calling. Goodbye." — and the one-line repair for engaged lines and cut-off calls; the call's whole order is recapped here, so it overlaps Sub lessons 1–5. (Was part of depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Soft hint only: Hello and your name opens every call
