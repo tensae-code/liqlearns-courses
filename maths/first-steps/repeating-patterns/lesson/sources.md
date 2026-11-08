@@ -1,6 +1,6 @@
 # Sources — Repeating Patterns
 
-countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador
+countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine
 
 Every part traces to its book and page.
 
@@ -31,6 +31,7 @@ Every part traces to its book and page.
 **Book 21:** *Matemática, Grade 2 student book (2do EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-12-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 22:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *الرياضيات (Mathematics), Grade 1 pupil's book, Part Two* — Palestine, Ministry of Education and Higher Education (State of Palestine), Curriculum Centre, Ramallah, fourth edition 2020 CE / 1441 AH (Arabic). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -94,8 +95,10 @@ Every part traces to its book and page.
 | Complete picture series (next in the pattern) | Ecuador, Relaciones Lógico Matemáticas, Grade 1 student book, printed p. 12 |
 | What a pattern is: ordering of colours, shapes, gestures, sounds, images and numbers that repeats logically (Tema 2) | Ecuador, Matemática, Grade 2 student book, printed pp. 9–11 |
 | Diagnostic evaluation: continue object/figure sequences to their fifth element (Unidad 1 opener) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 9–10 |
+| Continue a colour pattern: colour the remaining beads of a necklace in the same pattern | Palestine, Mathematics (Grade 1, Part Two), printed p. 95 |
+| Unit review: continue a number pattern (balls in cups — the fourth cup) and a shape pattern | Palestine, Mathematics (Grade 1, Part Two), printed p. 102 |
 
-**Acceptance count: taught in 10 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 11 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria's repeating patterns open the Grade 1 Semester 1 book: AB and ABC patterns in colours, shapes and movements, completed, repaired and built by the pupil.
 
@@ -107,3 +110,5 @@ India carries repeating patterns through its NCERT ladder — Math-Magic Class 1
 Mongolia enters through its ministry textbooks Математик I, II (Grades 1, 2): sequences and neighbours; patterns and result changes.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5). From its books: from Grade 5: patterns — Two repeating bead patterns (1 peonía, 2 pepas…; blue–brown–green…) — finding a term (zamuro seeds for 22 peonías; colour of the 20th stone).
+
+Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 1 Part Two: continue a colour pattern: colour the remaining beads of a necklace in the same pattern; unit review: continue a number pattern (balls in cups — the fourth cup) and a shape pattern.

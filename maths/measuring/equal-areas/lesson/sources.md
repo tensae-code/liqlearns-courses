@@ -1,6 +1,6 @@
 # Sources — Equal Areas
 
-countries: Yemen, Sudan, India
+countries: Yemen, Sudan, India, Palestine
 
 Every part traces to its book and page.
 
@@ -8,6 +8,7 @@ Every part traces to its book and page.
 
 **Book 2:** *Mathematics, Grade 7 (First Year Intermediate)* — Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, first edition 2021, Arabic. No ISBN printed. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *Mathematics — Textbook for Class IX* — India, NCERT, New Delhi, first edition February 2006, 2020-21 printing, ISBN 81-7450-489-3. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks Appendix 1 (Proofs in Mathematics), Appendix 2 (Introduction to Mathematical Modelling) and Answers/Hints; nothing is cited from them.
+**Book 4:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part Two* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, second edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -22,8 +23,14 @@ Every part traces to its book and page.
 | Triangle areas — Theorem 9.2 proved: triangles on the same base and between the same parallels have equal areas | India, Mathematics Class 9, printed p. 160 |
 | Triangle areas converse — Theorem 9.3 proved: triangles on the same base with equal areas lie between the same parallels | India, Mathematics Class 9, printed p. 162 |
 | Medians and area — a median of a triangle divides it into two triangles of equal area (proved example) | India, Mathematics Class 9, printed p. 163 |
-**Acceptance count: taught in 3 countries (Yemen, Sudan, India).** Yemen carries this lesson alone: its Grade 8 Part 2 student book teaches area-equivalence (takāfu') in two consecutive Unit 7 lessons — equivalence of triangles (7-7, printed p.87, opened by a grid-counting activity and a definition box) and equivalence of parallelograms (7-8, printed p.94). The filing carries a checker correction that this lesson follows exactly: the book's "equivalence" is equal AREA, not congruence — Grade 8 Part 2 Unit 7 teaches area-equivalence, and the band's only congruence teaching is elsewhere (Grade 7). No other read country's filing teaches equal-area equivalence as its own topic; the lesson is built at the size this one source supports, and its numeric examples are the builder's own applications of the book's definition, not quotations from the book.
+| Equivalence of figures — definition — two geometric figures are equivalent (متكافئان) when they have equal areas; splitting a land plot equally between two brothers (Palestine land-registry context) | Palestine, Mathematics (Grade 10, Part Two), printed p. 73 |
+| Parallelograms on the same base and between the same parallels are equivalent (equal in area) | Palestine, Mathematics (Grade 10, Part Two), printed p. 75 |
+| Triangles on the same base — triangles between the same parallels on the same base are equivalent | Palestine, Mathematics (Grade 10, Part Two), printed p. 78 |
+| Equivalence — exercises — drawing three figures each of area 4 square units equivalent to a given figure; rectangle/median area problems; drawing quadrilaterals equivalent to a given square; five figures equivalent to a given triangle | Palestine, Mathematics (Grade 10, Part Two), printed p. 78 |
+**Acceptance count: taught in 4 countries (Yemen, Sudan, India, Palestine).** Yemen carries this lesson alone: its Grade 8 Part 2 student book teaches area-equivalence (takāfu') in two consecutive Unit 7 lessons — equivalence of triangles (7-7, printed p.87, opened by a grid-counting activity and a definition box) and equivalence of parallelograms (7-8, printed p.94). The filing carries a checker correction that this lesson follows exactly: the book's "equivalence" is equal AREA, not congruence — Grade 8 Part 2 Unit 7 teaches area-equivalence, and the band's only congruence teaching is elsewhere (Grade 7). No other read country's filing teaches equal-area equivalence as its own topic; the lesson is built at the size this one source supports, and its numeric examples are the builder's own applications of the book's definition, not quotations from the book.
 
 Sudan's Grade 7 equivalence unit is formal, proof-based geometry of a kind many systems postpone by years: equivalent figures defined by equal area, then three theorems — the diagonal halving a parallelogram, the parallelogram and rectangle on the same base between the same parallels (proved twice), and the triangle as half the parallelogram — with transitivity chained through the proofs.
 
 India enters equal areas from Mathematics Class 9: area axioms.
+
+Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 10 Part Two: equivalence of figures — definition; parallelograms on the same base; triangles on the same base; equivalence — exercises.

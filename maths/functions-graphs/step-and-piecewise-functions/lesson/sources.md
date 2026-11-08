@@ -1,6 +1,6 @@
 # Sources — Step and Piecewise Functions
 
-countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan
+countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan, Palestine
 
 Every part traces to its book and page.
 
@@ -25,6 +25,7 @@ Every part traces to its book and page.
 **Book 15:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 16:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 17:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part One* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, third edition 2020 CE / 1441 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -53,7 +54,16 @@ Every part traces to its book and page.
 
 | Piecewise-defined functions (in chapter exercises) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 145–146 |
 | §14–15 piecewise-defined functions in exercises (different formulas on x ≤ −1 / x > −1 etc.) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 79, 85 |
-**Acceptance count: taught in 13 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Piecewise functions — idea — a rule that changes with the input (group ticket pricing by party size) named a multi-rule (piecewise) function | Palestine, Mathematics (Grade 10, Part One), printed p. 34 |
+| Piecewise functions — graphing — examples of piecewise rules; graphing a two-branch rule with the break at x = 3 | Palestine, Mathematics (Grade 10, Part One), printed p. 35 |
+| Piecewise functions — graphing — graphing further piecewise rules; open/closed circle convention at the joining point | Palestine, Mathematics (Grade 10, Part One), printed p. 36 |
+| Piecewise functions — exercises — drawing given piecewise graphs; writing the rule from a shown graph | Palestine, Mathematics (Grade 10, Part One), printed p. 37 |
+| Greatest integer (floor) function — definition: [x] is the greatest integer ≤ x; notation and the inequality n ≤ x < n + 1 form | Palestine, Mathematics (Grade 10, Part One), printed p. 42 |
+| Greatest integer function — equations and graph — solving [2x] = 7 type equations; writing [x] as a piecewise function and drawing its step graph | Palestine, Mathematics (Grade 10, Part One), printed p. 43 |
+| Greatest integer function — variants — writing [2x] and [x/3 − ...] type rules as piecewise functions on stated intervals and graphing | Palestine, Mathematics (Grade 10, Part One), printed p. 44 |
+| Greatest integer function — reflection — graph of [−x] as the reflection of [x] in the y-axis | Palestine, Mathematics (Grade 10, Part One), printed p. 45 |
+| Greatest integer function — exercises — solving floor equations; graphing [10 − 5x]-type rules; testing false floor statements by numerical examples | Palestine, Mathematics (Grade 10, Part One), printed p. 46 |
+**Acceptance count: taught in 14 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan, Palestine).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Syria's floor function E(x) is defined and graphed in Grade 12 Part One, inside its functions unit.
 
@@ -66,3 +76,5 @@ India enters step and piecewise functions from Mathematics Class 11: modulus and
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: piecewise-defined functions (in chapter exercises).
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: A function given by several formulas on different intervals.
+
+Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 10 Part One: piecewise functions — idea; piecewise functions — graphing; piecewise functions — graphing; piecewise functions — exercises; greatest integer (floor) function; greatest integer function — equations and graph; greatest integer function — variants; greatest integer function — reflection; greatest integer function — exercises.

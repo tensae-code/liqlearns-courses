@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine
 
 Every part traces to its book and page.
 
@@ -52,6 +52,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 32:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 33:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *الرياضيات (Mathematics), Grade 1 pupil's book, Part Two* — Palestine, Ministry of Education and Higher Education (State of Palestine), Curriculum Centre, Ramallah, fourth edition 2020 CE / 1441 AH (Arabic). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -149,8 +150,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | La recta, semirrecta y segmento: ray and segment defined and named; relative positions of lines (parallel, perpendicular); measuring as comparison with a unit | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 65 |
 | Rectas paralelas y perpendiculares en el plano: parallel lines keep equal distances (d₁ = d₂), perpendicular lines form 90°; geographic location of Lake Titicaca (latitude 16° S, longitude 69° W) by intersecting lines on a map | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 78 |
 | Rectas en el plano: parallel (never meet), perpendicular (90°), secant (cuts two or more lines) | Bolivia, Texto de Aprendizaje, Grade 8 (2° de Secundaria), Área Matemática (student book), printed p. 134 |
+| Straightness and curvature: straight edge vs curved edge in real objects (dome, door, clothesline) | Palestine, Mathematics (Grade 1, Part Two), printed p. 86 |
+| The straight segment and the curve named; count straight pieces in a figure | Palestine, Mathematics (Grade 1, Part Two), printed p. 87 |
 
-**Acceptance count: taught in 11 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 12 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -166,3 +169,5 @@ Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Alban
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Nociones de geometría; La recta, semirrecta y segmento; Rectas paralelas y perpendiculares en el plano; from Grade 8: Rectas en el plano.
 
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Segment, its endpoints and length; Plane, straight line (one line through two points), ray and its origin; from Grade 6: Axioms linking point, line and plane; Perpendicular lines (⊥), constructing perpendiculars with the set square; Parallel lines: definition, constructions with ruler and set square, distance between…; Historical note: Thales, Euclid's Elements and the parallel postulate; from Grade 11: History of geometry, part 3: the medieval East; History of geometry, part 5: the fifth postulate.
+
+Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 1 Part Two: straightness and curvature: straight edge vs curved edge in real objects (dome, door, clothesline); the straight segment and the curve named; count straight pieces in a figure.

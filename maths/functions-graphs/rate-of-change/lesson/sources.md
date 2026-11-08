@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine
 
 Every part traces to its book and page.
 
@@ -23,6 +23,7 @@ Every part traces to its book and page.
 **Book 12:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 13:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *الرياضيات "التكنولوجي" (Mathematics "Technological"), Grade 12 pupil's book, Technological stream* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, first edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,8 +52,9 @@ Every part traces to its book and page.
 | Average rate of change; average velocity | Afghanistan, Mathematics Grade 12 (Dari), printed p. 46 |
 | §15 increasing and decreasing functions: formal definitions; y = x^r increases on x ≥ 0 for r > 0, decreases on x > 0 for r < 0 (proved) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 82–83 |
 | Growth intervals of y = x + 2 and of an inverse-type relation; fuel use 9 litres per 80 km | Ecuador, Matemática, Grade 10 student book, printed p. 21 |
+| Average rate of change — Δx and Δy defined; average rate of change = Δy/Δx = (f(x₂) − f(x₁))/(x₂ − x₁); Bisan's mass falling 80 → 78 kg in ten days; worked Δy = 6 for a linear rule from x = 1 to 4 (verified) | Palestine, Mathematics (Grade 12, Technological stream), printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
+**Acceptance count: taught in 9 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway.
 
 India enters rate of change from Mathematics Class 11–12: average and instantaneous rate; rate of change of a quantity y = f(x): dy/dx as (change in y)/(change in x); related-rates problems (area of circle, volume of cube, ripple circles, rectangle).
 
@@ -64,3 +66,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 12: average rate of change; average velocity.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 8 (teacher's book): .2 Gradient (koeficienti këndor) of a straight line (plan 74). from Grade 9 (teacher's book): Distance–time graphs; gradient as speed/rate of change; constant speed. from Grade 10 (teacher's book): Rate of change on graphs: distance–time and speed–time graphs. from Grade 12 (teacher's book): Funksionet rritëse dhe funksionet zbritëse (Increasing and decreasing functions); Elective course: shpejtësitë e ndryshimit (Rates of change).
+
+Palestine enters through the pupil's books of its Ministry of Education (Curriculum Centre, Ramallah), all in Arabic — Mathematics Grade 1 in two parts (both fourth edition, 2020), Grade 10 in two parts (Part One third edition, 2020; Part Two second edition, 2019 — the held parts are different editions and are cited as such), and the Grade 12 Technological-stream book (التكنولوجي, first edition, 2019 — the book's own name for its stream, never "Information Technology"). No ISBN is printed in any of the five books. From its books: from Grade 12 (Technological stream): average rate of change.
