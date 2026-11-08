@@ -15,7 +15,7 @@ Now say your own name like this: "My name is ___." Shake hands, and say:
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — Saying hello
 So a greeting is how we open the door between two people. Before the
 greeting, you are strangers standing next to each other. After it, you
 are two people talking.
@@ -24,6 +24,8 @@ It goes in small steps, like this — this is the talk in your book, between
 Maya and Hana:
 
 - One person starts: "Hello!"
+
+## Sub lesson 2 — Names in the middle
 - Then the question: "What's your name?"
 - Then the answer, as a full sentence: "My name is Maya."
 - The other one answers the same way: "I'm Hana!" — "I'm" is the short
@@ -31,6 +33,8 @@ Maya and Hana:
 - Then the warm part: "Nice to meet you." And the answer to that is the
   same words back, with one small word added: "Nice to meet you, too."
 - You can shake hands — hold out your hand, take theirs, one small shake.
+
+## Sub lesson 3 — Saying goodbye
 - And when it is time to go, the closing word is: "Goodbye!"
 
 See the shape of it? Hello opens it. The names go in the middle.
@@ -42,7 +46,7 @@ using complete sentences — not just "Maya," but the whole sentence:
 "My name is Maya." (What a sentence is, by itself, is the Sentence
 title's own lesson — here it is enough to use the whole shape.)
 
-## The same lesson, from another country
+## Sub lesson 4 — The same greeting in other countries
 Libya's next unit opens the same door as Egypt: "Hello.
 Goodbye." — and the name question, "What's your name?" answered with
 "I'm ___." Two countries, the same shape. That is what "taught in many

@@ -1,9 +1,11 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Hello and your name
 
 **Course:** English · **Title:** Conversation · **Lesson:** Hello and
 your name
-**Place in the curriculum:** Level 5, "Conversation" —
-the first lesson of that level (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation —
+the first lesson of that unit (CURRICULUM.md).
 **The one thing this lesson teaches:** how a greeting goes — hello
 opens it, names go in the middle, goodbye closes it.
 
@@ -19,6 +21,19 @@ website, the real image, GIF, or video is dropped into that slot,
 with the little explanation staying under it as the student's guide.
 Images follow the picture rule (a real photograph, or real art, with
 its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Saying hello** — what a greeting is, and the word that opens it: "Hello!" (Was part of depth Level 1.)
+2. **Names in the middle** — "What's your name?", the whole-sentence answer "My name is ___", "I'm" for "I am", and "Nice to meet you" answered back with "…, too", with the handshake. (Was part of depth Level 1.)
+3. **Saying goodbye** — "Goodbye!" closes the greeting; the whole shape is told back (open — names — close), and the lesson text states its whole-sentence point about the name answer here, after the shape. (Was part of depth Level 1; old depth Level 2 — the whole greeting used with a real person — is proved here, at the shape's end.)
+4. **The same greeting in other countries** — Libya opens the same door, and Nicaragua teaches the shape with two hands — right hand Hello, left hand Goodbye. The whole shape again, so this sub lesson overlaps Sub lessons 1–3. (Was part of depth Level 1 — the same basics, from other books.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the Pencil and Lines course (so the learner can
