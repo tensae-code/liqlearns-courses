@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Probability
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Lesson 45 of 52
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 45 of 52
 **Place in the curriculum:** Stage 11, the fourth and last lesson of the stage (CURRICULUM.md).
 **The one thing this lesson teaches:** probability — how likely things are, for one event and for events combined
 
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **One Event** — name the sample space and the event, and find a theoretical probability and an experimental probability as a fraction, decimal or percentage. (Was depth Level 1.)
+2. **Combining Events** — use the complement, the addition law and the multiplication law, and list outcomes with tables, trees and Venn diagrams, counting with permutations and combinations. The conditional-probability working inside the combining part is Sub lesson 3's ground, kept whole in this earlier sub lesson — the paragraph is not split. (Was depth Level 2.)
+3. **Conditional Probability and Distributions** — work conditional probability without replacement and Bayes' shape (its working sits in Sub lesson 2's combining part, above), and name the random variables and the binomial, geometric and normal distributions. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the sets lesson (sample spaces are sets) and the averages lesson (experiments give data). Recommended, never forced.

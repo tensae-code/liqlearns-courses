@@ -6,25 +6,25 @@ A poster in a school corridor announces: "Our school's favourite lesson is mathe
 
 Hold your answers. Turkey's Grade 7 textbook spends the second half of its research theme on exactly this: taking other people's research apart.
 
-## The audit
+## Sub lesson 1 — The Audit
 
 A finished study is examined **step by step against the same four steps it should have followed**: (1) determine the research question, (2) collect the data and prepare it, (3) analyse — visualise and summarise, (4) interpret and decide. The examiner walks the study through the steps and finds the step where it breaks. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed pp. 190, 195–196.)
 
-## Question, population, sample — the three must match
+## Sub lesson 2 — Question, Population and Sample
 
 The book dissects a favourite-lesson survey. Its stated **population** is the whole school; its **sample** is one class; its **research question** is about that class. The three do not match, so no school-wide claim can stand — the study answers a question about one class while speaking about a school. The same dissection checks the study's **pie chart against its own counts**: a chart that disagrees with the data it was drawn from fails the audit on its own page. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed p. 190.)
 
-## Trace the source
+## Sub lesson 3 — Tracing the Source
 
 Data worth trusting can be followed home. The book traces ice-sheet data to a **named reliable source**, the NSIDC, and teaches that correct, reliable information is reached from **edu, gov and org domains** and named bodies. Against that standard it sets a **source-less social-media health claim** and interrogates it: no source, no author, no data — the claim cannot be examined, so it cannot be believed as research. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed pp. 191–192.)
 
-## Personal data and privacy
+## Sub lesson 4 — Personal Data and Privacy
 
 Research collects from people, and some of what it asks is private. In the book's data-collection step, a warning box names the rule: **health, identity, bank, address and income questions are personal data** — they need protection when survey questions are written and when answers are kept. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed p. 170.)
 
 The examining half of the theme itemises one student's **privacy failures**: a public profile, a visible birth date, a named school, and **a friend's photograph shared without permission**. And when a survey's respondents refuse its personal questions, the audit notes both sides of it: their privacy is their right, **and** the refusal changes what the study's results can claim. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed pp. 192, 195–196.)
 
-## Consent and the law
+## Sub lesson 5 — Consent and the Law
 
 Consent is part of the audit. The book looks at **consent boxes ticked without reading** — "I accept all permissions" — and at consumer privacy, and states Turkey's personal-data law, the **KVKK**, in an information box as the frame for research ethics: data about a person is collected with that person's informed consent, for a stated purpose, and protected. (Turkey, *Matematik 7. Sınıf Ders Kitabı, 1. Kitap*, printed p. 193.)
 

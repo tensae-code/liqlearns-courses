@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Relations
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Relations
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Relations
 **Place in the curriculum:** Level 85 of 136, inside Stage 11 — Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a relation is a chosen set of ordered pairs — built from the Cartesian product of two sets — with its domain, its range, its inverse, and the special equivalence relations that sort a set into classes.
 **This lesson's own level:** it stands on sets — the learner already knows what a set is, how to list one, and union and intersection. It needs nothing else.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Ordered Pairs and the Cartesian Product** — write and compare ordered pairs, build A × B for small sets, and count its pairs as |A| × |B|. (Was depth Level 1.)
+2. **Relations, Domain, Range and Inverse** — state a relation as a set of pairs, read off its domain and range, and write its inverse relation. (Was depth Level 2.)
+3. **Transitive and Equivalence Relations** — test reflexivity, symmetry and transitivity on a small relation, declare equivalence only when all three hold, and list the equivalence classes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: sets — a relation is a set of pairs, so set language comes first. Recommended, never forced.

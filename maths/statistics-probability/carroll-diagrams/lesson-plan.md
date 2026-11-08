@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Carroll Diagrams
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Carroll Diagrams
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Carroll Diagrams
 **Place in the curriculum:** Level 86 of 136, inside Stage 11 — Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sorting things into a Carroll diagram — a table whose rows and columns are a property and its opposite (red / not red, fish / not a fish), so every thing lands in exactly one of the four boxes.
 **This lesson's own level:** it stands on sets at their youngest — grouping things by one criterion. It needs nothing else. The stock for this lesson is small (three countries, one of them a single lesson), so the lesson is short and its question set is honestly sized, about two dozen questions — never padded.
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Carroll Table** — what the table is: each direction carries one property and its "not" twin, the table has four boxes, and every thing lands in exactly one box. (Was depth Level 1, with old Level 3's label ground.)
+2. **Carroll Beside Venn** — the two sortings side by side: in a Venn diagram the neither-things sit outside the loops; in a Carroll diagram the "not, not" box is drawn, labelled and counted. (Was depth Level 3.)
+3. **Reading and Placing in a Box** — the youngest learners' meeting (place everything, then read the boxes), and reading a box by joining its two labels with "and", checking that the four box counts count everything once each. (Was depth Levels 1 and 2.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: sets — a Carroll diagram is grouping by criteria, drawn as a table instead of loops. Recommended, never forced.

@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Averages and Spread
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Lesson 44 of 52
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 44 of 52
 **Place in the curriculum:** Stage 11, the third lesson of the stage (CURRICULUM.md).
 **The one thing this lesson teaches:** averages and spread — the mean, median and mode, and how spread out the numbers are
 
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Mean, Median, Mode** — find the mean, median and mode of a list, and say which one fits. (Was depth Level 1.)
+2. **Quartiles and the Box Plot** — find the quartiles and the interquartile range, and read a box-and-whisker plot. (Was depth Level 2.)
+3. **Spread: Deviation, Variance, Standard Deviation** — find the range, mean deviation, variance and standard deviation, for grouped and ungrouped data; the closing part — choosing the average — is Sub lesson 1's "say which one fits" judgement, kept whole here at the end and not split. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the collecting-and-showing-data lesson — averages are taken from the tables you build there. Recommended, never forced.

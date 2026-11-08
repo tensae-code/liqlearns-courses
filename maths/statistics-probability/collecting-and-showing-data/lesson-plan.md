@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Collecting and Showing Data
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Lesson 43 of 52
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 43 of 52
 **Place in the curriculum:** Stage 11, the second lesson of the stage (CURRICULUM.md).
 **The one thing this lesson teaches:** collecting data and showing it — tables, pictograms, bar charts, pie charts and histograms, and choosing the right display
 
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Collecting and Tabling** — collect data by a survey, tally it, and build a frequency table. (Was depth Level 1.)
+2. **Picture Displays** — draw and read pictograms, bar charts, line graphs and pie charts, with the sector-angle rule. (Was depth Level 2.)
+3. **Histograms and Choosing** — draw a histogram, tell it from a bar chart, and choose the right display for a set of data. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the sets lesson — data is counted in groups, and the groups are sets. Recommended, never forced.

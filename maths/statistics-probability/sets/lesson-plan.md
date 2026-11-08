@@ -1,6 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Sets
 
-**Course:** Maths · **Stage:** Stage 11 — Statistics and Probability · **Lesson:** Lesson 42 of 52
+**Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 42 of 52
 **Place in the curriculum:** Stage 11, the first lesson of the stage (CURRICULUM.md).
 **The one thing this lesson teaches:** sets — what a set is, and how sets join, meet and complement each other, shown on Venn diagrams
 
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming a Set** — write a set by listing and by a rule, name its elements, and tell finite from infinite from empty. (Was depth Level 1.)
+2. **Union and Intersection** — find a union and an intersection, draw both on a Venn diagram, and find a subset. (Was depth Level 2.)
+3. **Complement, Laws and Counting** — find complements and differences, use De Morgan's laws, and count a union with the n(A ∪ B) formula. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the numbers lessons (counting, and the number line) — sets are groups of things you can already count. Recommended, never forced.
