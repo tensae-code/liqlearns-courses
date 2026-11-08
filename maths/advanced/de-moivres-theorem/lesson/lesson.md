@@ -1,20 +1,22 @@
 # De Moivre's Theorem — the lesson
 
-Course: Maths · Stage: Stage 12 — Advanced Mathematics · Lesson: De Moivre's Theorem (Level 94 of 136)
+Course: Maths · Unit: Unit 12 — Advanced Mathematics · Lesson: De Moivre's Theorem (Level 94 of 136)
 Built from: South Sudan, Secondary Additional Mathematics Student's Book 4 — Laos, Grade 12 — Kuwait, Grade 11 Term 2
 
 ## Do it first
 Plot 1 + i on squared paper: one across, one up. Measure its distance from zero: √2. Measure its angle from the across-axis: 45°. Now forget "one across, one up" and keep only the two measurements: distance √2, angle 45°. You have just written 1 + i a second way — the way this whole lesson uses. Check it rebuilds the point: √2 cos 45° = 1 and √2 sin 45° = 1. South Sudan's Additional Mathematics book builds the polar form exactly this way, from x = r cos θ and y = r sin θ (Unit 6, printed pp.182–184).
 
-## Then the explanation
+## Sub lesson 1 — The Trigonometric (Polar) Form
 **The trigonometric (polar) form.** Every complex number z = a + bi can be written z = r(cos θ + i sin θ), where r = |z| = √(a² + b²) is the **modulus** and θ is the **argument**, the angle from the positive real axis. Worked: 1 + i = √2(cos 45° + i sin 45°), and √3 + i = 2(cos 30° + i sin 30°). South Sudan's book teaches polar form after the Argand diagram (Unit 6, printed pp.178–184), Laos's Grade 12 book teaches the trigonometric form in Lesson 13 (Chapter 4, p.134), and Kuwait's Grade 11 Term 2 book teaches polar coordinates and the trigonometric form in Lesson 7-2 (printed pp.25–32), insisting a proper trig form has r ≥ 0 and an argument in [0, 2π).
 
+## Sub lesson 2 — Multiplication, Division and De Moivre Powers
 **Multiplication and division in trig form.** Multiply two numbers in trig form and a clean pattern appears: **the moduli multiply and the arguments add**. Divide them: **the moduli divide and the arguments subtract**. Worked division, in Kuwait's book's own territory: 6(cos 60° + i sin 60°) ÷ 2(cos 20° + i sin 20°) = 3(cos 40° + i sin 40°) (Kuwait, Lesson 7-2, printed pp.25–32). South Sudan's book uses the same multiply rule to build De Moivre's theorem (Unit 6, printed pp.185–189).
 
 **De Moivre's theorem.** Multiply a number by itself n times and the pattern becomes the theorem: [r(cos θ + i sin θ)]ⁿ = rⁿ(cos nθ + i sin nθ). The modulus goes to the power n; the argument is multiplied by n. South Sudan's book derives De Moivre's theorem from the binomial expansion and uses it at once (Unit 6, printed pp.185–189), Laos's book states it as De Moivre's formula in the same lesson as the trig form (Lesson 13, p.134), and the formula sits on Laos's Grade 12 cover: zⁿ = rⁿ(cos nφ + i sin nφ). Worked: (cos 30° + i sin 30°)³ = cos 90° + i sin 90° = i; and (1 + i)⁸ = (√2)⁸(cos(8·45°) + i sin(8·45°)) = 16(cos 360° + i sin 360°) = 16.
 
 **What De Moivre gives back: the multiple-angle identities.** Put r = 1 and n = 3, then expand (cos θ + i sin θ)³ by ordinary algebra and match the real and imaginary parts: cos 3θ = 4cos³θ − 3cosθ and sin 3θ = 3 sin θ − 4 sin³θ. South Sudan's book derives trigonometric identities this way (printed pp.185–189; the cos 3θ result is cited, not its printed working, which carries an error in one term — see sources). The sin 3θ identity is taught corrected here: a South Sudan guide line prints it with wrong signs; the correct identity is sin 3θ = 3 sin θ − 4 sin³θ.
 
+## Sub lesson 3 — Nth Roots
 **Nth roots.** Run De Moivre backward. A number with modulus r and argument θ has exactly **n nth roots**: each has modulus ⁿ√r, and the arguments are (θ + 2kπ)/n for k = 0, 1, …, n−1 — so the n roots stand evenly spaced around a circle, 2π/n apart. South Sudan's book teaches De Moivre's theorem and roots of complex numbers, including the exponential form z = re^(iθ) (Unit 6, printed pp.190–195), and Laos's book teaches nth roots in the same Lesson 13 (p.134). Worked: the fourth roots of 16 are 2, 2i, −2 and −2i — modulus 2, angles 0°, 90°, 180°, 270°.
 
 **The cube roots of 8 — taught corrected.** The cube roots of 8 have modulus 2 and arguments 0°, 120° and 240°, giving 2, −1 + i√3 and −1 − i√3. South Sudan's Additional book prints the cube roots of 8 wrong on printed p.194; this lesson teaches the corrected values, 2, −1 + i√3, −1 − i√3, never the printed ones. Check the middle one: −1 + i√3 has modulus 2 and argument 120°; cubing triples the angle to 360° and cubes the modulus to 8, so (−1 + i√3)³ = 8. The cube roots of 1 are the same picture at modulus 1: 1 and the two roots at 120° and 240°.

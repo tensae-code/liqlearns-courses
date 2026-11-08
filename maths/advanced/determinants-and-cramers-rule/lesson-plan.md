@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Determinants and Cramer's Rule
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Determinants and Cramer's Rule
-**Place in the curriculum:** Level 93 of 136, in Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Determinants and Cramer's Rule
+**Place in the curriculum:** Level 93 of 136, in Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** determinants of order 2×2 and 3×3, and the three ways they solve linear systems — Cramer's rule, the inverse-matrix method AX = B ⇒ X = A⁻¹B, and the determinant tests for no solution and dependent systems — closing with matrices used for codes.
 **This lesson's own level:** it stands on the matrices lesson — the learner can already add and multiply matrices and knows what a system of linear equations is. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The 2×2 Determinant** — the 2×2 determinant, when it is zero, and a triangle's area from a determinant. (Was depth Level 1.)
+2. **The 3×3 Determinant and Two-Unknown Systems** — the 3×3 determinant by Sarrus' rule and by cofactors, and two-unknown systems by Cramer's rule and the inverse matrix. (Was depth Level 2.)
+3. **Three-Unknown Systems, the D = 0 Cases and Codes** — three-unknown systems by Cramer's rule, the D = 0 cases, X = A⁻¹B, and matrices used for codes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the matrices lesson (a determinant belongs to a square matrix, and Cramer's rule divides one determinant by another), and solving simultaneous equations (Cramer's rule is a new way to do an old job). Recommended, never forced.

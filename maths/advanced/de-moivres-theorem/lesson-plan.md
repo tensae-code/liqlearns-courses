@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — De Moivre's Theorem
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** De Moivre's Theorem
-**Place in the curriculum:** Level 94 of 136, in Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** De Moivre's Theorem
+**Place in the curriculum:** Level 94 of 136, in Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the trigonometric (polar) form of a complex number, multiplication and division in that form, De Moivre's theorem for powers, and the nth roots of a complex number.
 **This lesson's own level:** it stands on the complex-numbers lesson — the learner can already work with a + bi, the modulus and the conjugate — and on trigonometric functions. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Trigonometric (Polar) Form** — the trigonometric (polar) form: modulus, argument, and writing z = r(cos θ + i sin θ). (Was depth Level 1.)
+2. **Multiplication, Division and De Moivre Powers** — multiplication and division in trig form, De Moivre's theorem for powers, and the multiple-angle identities. (Was depth Level 2.)
+3. **Nth Roots** — nth roots of a complex number, the cube roots of 8 taught corrected, and the roots' spacing on a circle. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the complex-numbers lesson (modulus and argument are this lesson's raw materials), and trigonometric functions (the form is built from cos and sin). Recommended, never forced.

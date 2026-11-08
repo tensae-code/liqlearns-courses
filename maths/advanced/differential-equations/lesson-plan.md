@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Differential Equations
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 52 of 52
-**Place in the curriculum:** Stage 12, the seventh and last lesson of the stage — and the last lesson of the 52-lesson ladder (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 52 of 52
+**Place in the curriculum:** Unit 12, the seventh and last lesson of the unit — and the last lesson of the 52-lesson ladder (CURRICULUM.md).
 **The one thing this lesson teaches:** differential equations — first-order equations in separable form, and how to solve them
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Differential Equation Is** — what a differential equation is, its order, and recognising a separable first-order equation. (Was depth Level 1.)
+2. **Separating and Integrating** — separating the variables and solving by integrating both sides, with the + C. (Was depth Level 2.)
+3. **Initial Conditions and Checking** — initial conditions picking out the particular solution, and checking a solution by differentiating it back. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the derivatives lesson (an equation that holds a derivative) and the integrals lesson (solving means integrating). Recommended, never forced.

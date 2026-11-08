@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Continuity
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Continuity
-**Place in the curriculum:** Level 88 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Continuity
+**Place in the curriculum:** Level 88 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** continuity — when a function's graph can be drawn without lifting the pen: the three conditions at a point, removable and jump discontinuities, and continuity on an interval.
 **This lesson's own level:** it stands on Limits (Level 87) — the learner can already find one-sided and two-sided limits. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Three Conditions** — the three conditions for continuity at a point, and running the full test. (Was depth Level 1.)
+2. **Removable and Jump Discontinuities** — removable and jump discontinuities, told apart by the one-sided limits, and repairing a removable break. (Was depth Level 2.)
+3. **Continuity on an Interval and the Theorems** — continuity on an interval, the continuity theorems, and the Intermediate Value Theorem. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Limits (Level 87, same stage) — continuity is a limit meeting the function's own value. Recommended, never forced.
