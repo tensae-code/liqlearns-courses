@@ -27,7 +27,7 @@ themselves — the target phrases — are never translated.
 You hear them in English, in an English voice, exactly as
 a friend would say them.
 
-## Then the explanation
+## Sub lesson 1 — Congratulations, the three shapes
 **Congratulations — the three shapes.** Mauritania's
 Grade 12 book gives congratulating a whole unit — Unit
 Seven, "congratulating and wishing." Its exam lesson
@@ -38,6 +38,7 @@ shapes on Omar, who passes with distinction:
 Congratulations on your exam!
 "I congratulate you on …" — the full, formal shape.
 
+## Sub lesson 2 — The wishes bank
 **The wishes bank.** The same book's birthday lesson
 (Lesson 18, "Happy Birthday to You!", p.55 — Fatou's
 birthday, with flowers, and an exam passed too) banks
@@ -47,6 +48,7 @@ Happy …! Good luck!" Two of them have directions:
 Well done looks BACK at a finished win. Good luck looks
 FORWARD, to the exam still to come.
 
+## Sub lesson 3 — Cards and messages
 **Cards and messages.** Mongolia's Grade 8 book sorts
 greeting cards into their kinds — Birthday, Valentine's,
 Christmas, Thank-you, Appreciation, and Graduation
@@ -64,6 +66,7 @@ pp.42–48; the guide is a draft guide for an older
 textbook generation, as filed, and is cited as guide
 evidence).
 
+## Sub lesson 4 — Sympathy, the bad-news half
 **The bad-news half — sympathy.** News is not always
 good, and English keeps a kind set for the other half.
 Libya's Grade 11 book names the lesson for it: "Positive
@@ -82,6 +85,7 @@ the sympathy side in a hang-gliding accident dialogue,
 pp.9–15). One rule holds both halves together: bad news
 never takes "Congratulations."
 
+## Sub lesson 5 — Answering with thanks
 **Answering.** A congratulation is answered with thanks:
 "Thank you!" For a kind word in a hard moment, Libya's
 full answer is the warmer one: "Thank you for your kind
