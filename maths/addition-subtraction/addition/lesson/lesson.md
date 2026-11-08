@@ -1,6 +1,6 @@
 # Addition — the lesson
 
-Course: Maths · Stage: Stage 2 — Addition and Subtraction · Lesson: Addition
+Course: Maths · Unit: Unit 2 — Addition and Subtraction · Lesson: Addition
 Built from: Egypt, Grade 2 Term 1 (old Discover series) — Jordan, Grades 1–2 — Libya, Grades 1–3 — Kazakhstan, Grade 2 (Zhakupova set) — Greece, Grade 1 Teuxos B — Armenia, Grade 2 — Vietnam, Grades 1–2 — Mauritania, Grade 1
 
 ## Do it first
@@ -9,7 +9,7 @@ together. Count the pile: 13. That is adding — putting two
 numbers together and counting what you get. 8 + 5 = 13. The +
 sign means "put together"; the = sign means "is".
 
-## Then the explanation
+## Sub lesson 1 — Addition In the Head
 **In the head.** The fastest way to add small numbers is to make
 ten. 8 + 5: 8 needs 2 to make 10, and 5 gives 2 and leaves 3 —
 10 + 3 = 13. Jordan's Grade 1 book teaches adding by doubles and
@@ -22,6 +22,7 @@ addition table across the ten (L14).
 27 + 5: 27 needs 3 to make 30, and 5 gives 3 and leaves 2 —
 30 + 2 = 32.
 
+## Sub lesson 2 — Addition In Columns with Carrying
 **In columns, without carrying.** Line the numbers up by place
 value — ones under ones, tens under tens — and add each column,
 starting from the ones. Libya's Grade 1 book teaches adding ones,
@@ -61,6 +62,7 @@ teaches addition with carrying (p.23).
 Ones: 4 + 3 = 7. Tens: 7 + 6 = 13 tens — write 3 in the tens
 place and carry 1 into the hundreds. Answer 137.
 
+## Sub lesson 3 — Addition Three Digits and Checking
 **Three digits.** The same columns, one more place. Egypt's Grade
 2 book works 658 + 24 = 682 (Chapter 8, Part 6), aligning place
 values and starting from the ones place. Libya's Grade 3 book

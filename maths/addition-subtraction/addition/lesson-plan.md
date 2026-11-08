@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Addition
 
-**Course:** Maths · **Stage:** Stage 2 — Addition and Subtraction · **Lesson:** Addition
-**Place in the curriculum:** Level 7, the first lesson of Stage 2 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 2 — Addition and Subtraction · **Lesson:** Addition
+**Place in the curriculum:** Level 7, the first lesson of Unit 2 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** adding — in the head and in columns, with carrying — and checking the answer.
 **This lesson's own level:** it stands on Counting (Level 2) and Place-value (Level 3) — the learner counts and reads numbers by their places. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Addition In the Head** — add one- and two-digit numbers in the head by counting on and making ten. (Was depth Level 1.)
+2. **Addition In Columns with Carrying** — add two-digit numbers in columns — the plain columns first, then carrying from ones to tens — and say each step aloud. (Was depth Level 2.)
+3. **Addition Three Digits and Checking** — add three-digit numbers in columns with carrying, and check an answer by adding the other way round and by estimating. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting and Place-value (Stage 1) — adding is counting on, and carrying is regrouping tens. Recommended, never forced.

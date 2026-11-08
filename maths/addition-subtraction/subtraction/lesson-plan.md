@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Subtraction
 
-**Course:** Maths · **Stage:** Stage 2 — Addition and Subtraction · **Lesson:** Subtraction
-**Place in the curriculum:** Level 8, the second lesson of Stage 2 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 2 — Addition and Subtraction · **Lesson:** Subtraction
+**Place in the curriculum:** Level 8, the second lesson of Unit 2 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** taking away — in the head and in columns, with borrowing — and checking the answer by adding.
 **This lesson's own level:** it stands on Addition (Level 7) — the learner adds in columns with carrying, and subtraction is its inverse. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Subtraction In the Head** — subtract small numbers in the head by counting back and by counting up. (Was depth Level 1.)
+2. **Subtraction In Columns with Borrowing** — subtract two-digit numbers in columns — the plain columns first, then borrowing from tens to ones — and say each step aloud. (Was depth Level 2.)
+3. **Subtraction Borrowing Across Zero and Checking** — subtract three-digit numbers in columns including borrowing across zero, and check every subtraction by adding. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Addition (same stage) — subtraction undoes addition, and adding checks every subtraction. Recommended, never forced.
