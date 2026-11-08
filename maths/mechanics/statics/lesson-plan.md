@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the trigonometry lessons — resolving a force uses sine and cosine at every step. Recommended, never forced.
-- Recommended first: the vectors work in the earlier stages — a force is treated in this lesson as a quantity with size and direction. Recommended, never forced.
+- Recommended first: the vectors work in the earlier units — a force is treated in this lesson as a quantity with size and direction. Recommended, never forced.
 - This lesson is the first half of mechanics as Egypt's books build it: statics is balance, dynamics (Level 133) is motion. Nothing here moves — that is the point of the lesson.
 
 ## What the learner can do when it ends
@@ -83,7 +83,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks friction is always at its biggest → friction only grows as big as it needs to be, up to its limit; it reaches that limit only at limiting equilibrium (lesson 1-5, printed p.43).
 - Forgets the distance in a moment → a moment is a force times its perpendicular distance from the point; the same force turns more the farther out it acts (Grade 12, lesson 1-1, printed p.10).
 - Thinks a couple moves a body forward → a couple's two forces cancel as pushes; what is left is pure turning (Grade 12, lesson 3-1, printed p.42).
-- This lesson's next door: Dynamics (Level 133, same stage) — what happens when the forces do not balance.
+- This lesson's next door: Dynamics (Level 133, same unit) — what happens when the forces do not balance.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt — Applied Mathematics, Grade 11 Term 1, statics unit only, and Applied Mathematics (Mechanics), Grade 12, Part 1 Statics only; Egypt is the sole source country for this lesson among the read countries). The Grade 11 book's contents spell "coplanar" as "caplanar" in lesson 1-3 — a spelling slip in the contents only, taught corrected here as coplanar. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

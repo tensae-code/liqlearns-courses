@@ -2,8 +2,8 @@
 
 # Lesson plan — Circles
 
-**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Circles (lesson 3 of 4 in the stage)
-**Place in the curriculum:** Unit 7, "Shapes and Angles" — the third lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Circles (lesson 3 of 4 in the unit)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the third lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the parts of a circle, and the two circle formulas — circumference and area — with pi.
 **This lesson's own level:** it stands on the angles lesson (the full turn, 360°, is the circle's own number) and on measuring length. It needs nothing else.
 
@@ -34,7 +34,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 - Recommended first: Angles — a full turn is 360°, and the circle
   is the shape of a full turn. Recommended, never forced.
 - The circle theorems (angles inside circles, chords and tangents)
-  belong to Stage 9; this lesson teaches the circle itself — its
+  belong to Unit 9; this lesson teaches the circle itself — its
   parts, its round edge, and its area — and no theorems.
 
 ## What the learner can do when it ends
@@ -100,7 +100,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   found: if your answer is in cm², it is an area.
 - Forgets to square the radius → r² means r × r, not r × 2. A
   circle of radius 3 has r² = 9, not 6.
-- This lesson's next door: Symmetry (same stage) — a circle has
+- This lesson's next door: Symmetry (same unit) — a circle has
   more lines of symmetry than any polygon.
 
 ## Teacher note

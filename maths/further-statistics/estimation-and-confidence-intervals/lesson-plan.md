@@ -3,9 +3,9 @@
 # Lesson plan — Estimation and Confidence Intervals
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Estimation and Confidence Intervals
-**Place in the curriculum:** Level 120 of 136, Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 120 of 136, Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** estimation — point against interval estimation, unbiasedness, and confidence intervals for means, proportions and differences — closing with the German tank problem.
-**This lesson's own level:** it stands on Sampling and Sampling Distributions (Level 119, same stage) — the learner can already build a sampling distribution and name its standard error. It needs nothing else.
+**This lesson's own level:** it stands on Sampling and Sampling Distributions (Level 119, same unit) — the learner can already build a sampling distribution and name its standard error. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Sampling and Sampling Distributions (Level 119, same stage) — a confidence interval is a sampling distribution turned into a range. Recommended, never forced.
-- Recommended first: Random Variables and Distributions (Level 118, same stage) — the z and t values come from those distributions. Recommended, never forced.
+- Recommended first: Sampling and Sampling Distributions (Level 119, same unit) — a confidence interval is a sampling distribution turned into a range. Recommended, never forced.
+- Recommended first: Random Variables and Distributions (Level 118, same unit) — the z and t values come from those distributions. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what an estimator, an estimate, a point estimate and an interval estimate are, the way Pakistan's Class 12 Statistics book opens its estimation chapter (Ch. 12, p.73).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Calls |x̄ − μ| the standard error → that is Kuwait's printed slip on p.171, taught corrected here: |x̄ − μ| is the point estimation ERROR — one realised difference; the standard error is σ/√n, a property of the method.
 - Uses z when σ is unknown and n is small → switch to t with ν = n − 1 degrees of freedom (Kuwait, 4-1, pp.168–176; Pakistan, Ch. 12, pp.82–90).
 - Reads 95% as a probability about this one interval → the 95% is about the METHOD: in the long run, 95% of intervals built this way catch the parameter (Pakistan, Ch. 12, pp.81–82).
-- This lesson's next door: Hypothesis Testing (Level 121, same stage) — the interval becomes a decision.
+- This lesson's next door: Hypothesis Testing (Level 121, same unit) — the interval becomes a decision.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 12; Jordan Grade 12 Business Mathematics Term 2; Kuwait Grade 12 Term 1; Egypt Statistics Grade 12; Libya Grade 12 Foundations of Statistics (Science); Laos Grade 12; Iran Grade 11 Statistics and Probability; China A-edition Compulsory Volume 2 reading). One printed error is taught corrected and never as fact: Kuwait's p.171 label — |x̄ − μ| is the point estimation error, and the standard error is σ/√n. Iran is cited for estimation only: its book teaches estimation without z-machinery and does NOT teach hypothesis testing, so Iran appears nowhere in Lesson 121. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

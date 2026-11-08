@@ -32,9 +32,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting (Stage 1) — the clock is a counting circle, in 5s for the minutes. Recommended, never forced.
-- Recommended first: Adding and subtracting (Stage 2) — durations and time arithmetic are adding and subtracting with a carry of 60, not 10. Recommended, never forced.
-- Recommended first: Money (Level 113, same stage) — the other everyday-measures lesson; the two share the "join between units" idea. Recommended, never forced.
+- Recommended first: Counting (Unit 1) — the clock is a counting circle, in 5s for the minutes. Recommended, never forced.
+- Recommended first: Adding and subtracting (Unit 2) — durations and time arithmetic are adding and subtracting with a carry of 60, not 10. Recommended, never forced.
+- Recommended first: Money (Level 113, same unit) — the other everyday-measures lesson; the two share the "join between units" idea. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Read analogue and digital clocks — o'clock and half past first (Egypt, Grade 1, Ch. 8, pp.86–87), then to the minute (Cambodia, Grade 3, Ch. 8, pp.55–60 — 6:10, 11:45, 10:38, 8:07).
@@ -79,7 +79,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds times with a carry of 100 → write the carry rule on the work: 60 minutes make the hour, so 75 minutes is 1 hour 15; Nepal's corrected example (6h 15m + 3h 10m = 9h 25m) is the model.
 - Cannot find a duration across noon → build it in parts on a timeline, the Jordan way: to noon first, then the rest (Grade 5, p.108).
 - Mixes the calendars up → one fact per system, said whole: "The Hijri year is a lunar year; Ramadan is its 9th month." "Ethiopia's calendar is taught from its own month names." Never merge the systems into one list.
-- This lesson's next door: Speed, distance and time (Level 116, same stage) — durations learned here become the time in v = distance ÷ time.
+- This lesson's next door: Speed, distance and time (Level 116, same unit) — durations learned here become the time in v = distance ÷ time.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Three book errors are taught corrected and never as fact: Cambodia's Grade 5 end-of-day clock is taught as 24:00, not the printed 12:00; Nepal's Grade 3 addition is taught as 6h 15m + 3h 10m = 9h 25m, not the printed "3h 5m"; Kuwait's Grade 1 November calendar on p.76 is the 2025 layout — for November 2026, 1 November is a Sunday and 30 November a Monday. Two stocks are teacher evidence and are worded as such: Ghana's time rows (JICA teacher manuals B3 and B4) and Ethiopia's Ethiopian-time-reckoning row, which comes from its Grade 1 teacher guide (Ch. 11, pp.78–81) — Ethiopia's student books themselves carry the Ethiopian months and the simple calendar. Sierra Leone's Primary time rows are likewise teacher evidence; its JSS 2 pupils' handbook rows are pupil-book rows. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

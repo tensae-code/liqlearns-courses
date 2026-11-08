@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Congruence and similarity (same stage) — a fractal is similarity repeated without end — and a first meeting with complex numbers helps for the Julia/Mandelbrot part. Recommended, never forced.
+- Recommended first: Congruence and similarity (same unit) — a fractal is similarity repeated without end — and a first meeting with complex numbers helps for the Julia/Mandelbrot part. Recommended, never forced.
 - Squared paper, a ruler and a pencil are needed; a computer or phone that can show the Mandelbrot set helps but is not required.
 
 ## What the learner can do when it ends
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks the Koch perimeter must settle down → count with them: segments multiply by 4 while each is 1/3 as long, so the total grows by 4/3 every step, forever. A bounded shape with an endless perimeter is the surprise this reading exists to give.
 - Loses the iteration arithmetic → write the orbit as a chain with arrows, z₀ → z₁ → z₂ …, squaring first, then adding c, one step per line. Small c values only: 0, 1, −1.
 - Asks "where is the rest of the theory?" → there is none in the stock, and that is the honest answer: both sources are readings. This lesson is the reading, taught whole — the learner who wants more has met the doorway, not a dead end.
-- This lesson's next door: De Moivre's theorem and the complex-number lessons in the Advanced stage grow directly out of the z → z² + c iteration used here.
+- This lesson's next door: De Moivre's theorem and the complex-number lessons in the Advanced unit grow directly out of the z → z² + c iteration used here.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (China, Grade 9 Volume 2 reading, printed pp. 45–46; China, Compulsory Volume 4 B edition, Chapter 10 extended reading, printed pp. 40–41). Both sources are readings/enrichment as filed — not main-text teaching — and the lesson and its sources say so wherever they are cited. The lesson is deliberately built at the size the stock supports (23 questions); it is not padded to the size of a main-text lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

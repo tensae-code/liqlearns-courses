@@ -4,13 +4,13 @@
 
 **Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Sine and cosine rules
 **Place in the curriculum:** Unit 9, the fourth lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving triangles that
 are not right-angled — the sine rule, the cosine rule, the
 area formula ½ab·sin C, and choosing between the rules.
 **This lesson's own level:** it stands on right-triangle
-trigonometry (Stage 9, third lesson) and on Pythagoras
-(Stage 8). It needs nothing else.
+trigonometry (Unit 9, third lesson) and on Pythagoras
+(Unit 8). It needs nothing else.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees

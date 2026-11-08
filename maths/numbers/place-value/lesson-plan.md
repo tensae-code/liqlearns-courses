@@ -30,8 +30,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting (same stage) — place value is what the counted tens and ones are called. Recommended, never forced.
-- A soft hint only: nothing here is adding or taking away — that is Stage 2's home.
+- Recommended first: Counting (same unit) — place value is what the counted tens and ones are called. Recommended, never forced.
+- A soft hint only: nothing here is adding or taking away — that is Unit 2's home.
 
 ## What the learner can do when it ends
 1. Split any two-digit number into tens and ones (47 = 4 tens + 7 ones), the way Armenia's Grade 2 book teaches it (18 = 1 ten + 8).
@@ -68,7 +68,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Reads 47 as "four seven" → the bundles fix it: 4 bundles of ten is forty, then 7 ones — "forty-seven".
 - Mixes up 305 and 350 → the zero holds a place: 305 is 3 hundreds, 0 tens, 5 ones; 350 is 3 hundreds, 5 tens, 0 ones. Egypt's Grade 2 book teaches zero in the tens place with 204.
 - Loses the place in big numbers → read in groups of three from the right: thousands, then the rest. Armenia's number classes do exactly this.
-- This lesson's next door: Comparing-and-ordering (same stage) — the biggest place decides which number is bigger.
+- This lesson's next door: Comparing-and-ordering (same unit) — the biggest place decides which number is bigger.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grades 2–3; Armenia Grades 2–3; Jordan Grades 1–2 and 4; Kazakhstan Grade 2; South Africa Grades 2–3). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

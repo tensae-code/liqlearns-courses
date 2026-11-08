@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** 8, Measuring, Area and Volume · **Lesson:** Pythagoras (lesson 4 of 4 in the unit)
 **Place in the curriculum:** Unit 8, "Measuring, Area and Volume" — the fourth lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the right-triangle rule — the square of the hypotenuse equals the sum of the squares of the other two sides — and how to use it to find a missing side.
-**This lesson's own level:** it stands on the angles lesson (a right angle is the rule's condition), on squares and square roots (Stage 5), and on the perimeter-and-area lesson (the rule is proved by areas). It needs nothing else.
+**This lesson's own level:** it stands on the angles lesson (a right angle is the rule's condition), on squares and square roots (Unit 5), and on the perimeter-and-area lesson (the rule is proved by areas). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -34,7 +34,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 - Recommended first: Angles (the right angle), powers and roots
   (squares and square roots), and Perimeter and Area (the rule is
   proved by areas). Recommended, never forced.
-- Trigonometry belongs to Stage 9; this lesson finds sides with
+- Trigonometry belongs to Unit 9; this lesson finds sides with
   squares and square roots only, and never uses sine, cosine or
   tangent.
 
@@ -107,7 +107,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   opposite the right angle, and it is always the longest side.
   If your "hypotenuse" is shorter than another side, you picked
   the wrong one.
-- This lesson's next door: Right-Triangle Trigonometry (Stage 9)
+- This lesson's next door: Right-Triangle Trigonometry (Unit 9)
   — the same right triangle, now with ratios as well as squares.
 
 ## Teacher note

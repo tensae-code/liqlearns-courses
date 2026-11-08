@@ -109,7 +109,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Counts a face twice in a surface area → unfold the net and
   number the faces 1 to 6 as you add them. A cuboid has three
   pairs of equal faces: front/back, top/bottom, left/right.
-- This lesson's next door: Pythagoras (same stage) — the diagonal
+- This lesson's next door: Pythagoras (same unit) — the diagonal
   of a cuboid's face is a right-triangle problem, and this lesson
   hands it over.
 

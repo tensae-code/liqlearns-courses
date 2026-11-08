@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Trigonometric identities (Level 72, same stage) — most equations are opened up with an identity before they can be solved. Recommended, never forced.
-- Recommended first: Radian measure (Level 71, same stage) — solutions are given in radians, on an interval like 0 ≤ x < 2π. Recommended, never forced.
+- Recommended first: Trigonometric identities (Level 72, same unit) — most equations are opened up with an identity before they can be solved. Recommended, never forced.
+- Recommended first: Radian measure (Level 71, same unit) — solutions are given in radians, on an interval like 0 ≤ x < 2π. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Solve sin x = a, cos x = a and tan x = a on [0, 2π) by reading the unit circle, and say when there is no solution (Cambodia, Grade 11 Basic, Ch. 3 Lesson 3, printed pp. 98–112; Vietnam, Grade 11 Volume 1, Bài 4, printed p. 31).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gives only one solution → on one turn of the circle, sine and cosine almost always give two angles; draw the line cutting the circle and count the cuts (Cambodia, Grade 11 Basic, printed pp. 98–112).
 - Loses solutions after using an identity → write everything in one ratio first, the way Nicaragua's module teaches (Unit IV, printed pp. 177–180), and never divide by a ratio that could be zero — factor instead.
 - Cannot start an inequality → solve the matching equation first to find the boundary angles, then read the arc off the circle, the order Laos uses (Grade 11, Ch. 8 L31–L32, printed pp. 237, 244).
-- This lesson's next door: Inverse trigonometric functions (Level 74, same stage) — the arcsine, arccosine and arctangent this lesson already meets as notation.
+- This lesson's next door: Inverse trigonometric functions (Level 74, same unit) — the arcsine, arccosine and arctangent this lesson already meets as notation.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Nicaragua Grade 10 student book and module; Laos Grade 11 Ch. 8; Armenia Grade 10 Ch. 4; Libya Grades 11–12 Science; Yemen Grade 11 Science Part 2; Kuwait Grades 10–11 Term 2; Cambodia Grade 11 Basic and Advanced; Vietnam Grade 11 Bài 4; South Sudan Secondary 4 Additional Mathematics; China Compulsory Volume 3 (B edition) §7.3.5). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

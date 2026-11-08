@@ -3,7 +3,7 @@
 # Lesson plan — Probability
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 45 of 52
-**Place in the curriculum:** Stage 11, the fourth and last lesson of the stage (CURRICULUM.md).
+**Place in the curriculum:** Unit 11, the fourth and last lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** probability — how likely things are, for one event and for events combined
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -65,7 +65,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Says a probability is bigger than 1 → a probability is always between 0 and 1: 0 is impossible, 1 is certain. Bigger than 1 is not a probability.
 - Adds probabilities that are not exclusive → the addition law adds only when the events cannot happen together; when they can overlap, take the overlap away.
 - Treats two draws without replacement as independent → after the first draw the bag has changed: the second probability is conditional on the first.
-- This lesson's next door: logarithms and exponentials (Stage 12) — the next stage starts with the functions that model growth and decay.
+- This lesson's next door: logarithms and exponentials (Unit 12) — the next unit starts with the functions that model growth and decay.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

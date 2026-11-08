@@ -3,7 +3,7 @@
 # Lesson plan — Carroll Diagrams
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Carroll Diagrams
-**Place in the curriculum:** Level 86 of 136, inside Stage 11 — Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 86 of 136, inside Unit 11 — Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sorting things into a Carroll diagram — a table whose rows and columns are a property and its opposite (red / not red, fish / not a fish), so every thing lands in exactly one of the four boxes.
 **This lesson's own level:** it stands on sets at their youngest — grouping things by one criterion. It needs nothing else. The stock for this lesson is small (three countries, one of them a single lesson), so the lesson is short and its question set is honestly sized, about two dozen questions — never padded.
 

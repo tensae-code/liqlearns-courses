@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Expressions
 **Place in the curriculum:** Level 21 of the maths course — the first lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** algebraic expressions — letters standing for numbers, terms and coefficients, simplifying, expanding brackets, and factorising.
-**This lesson's own level:** it stands on the four operations (Stages 2–3) and on negative-numbers (Level 17), which decides the signs when brackets open. It needs nothing else.
+**This lesson's own level:** it stands on the four operations (Units 2–3) and on negative-numbers (Level 17), which decides the signs when brackets open. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Expands 2(x + 3) as 2x + 3 → the 2 multiplies EVERY term inside: 2x + 6. Draw the rectangle and count both pieces.
 - Opens a − (b − c) as a − b − c → a minus before the brackets flips every sign inside: a − b + c. Say it: minus a bracket, change every sign.
 - Factorises x² + 5x + 6 as (x + 2)(x + 3) without checking → check by expanding back: (x + 2)(x + 3) = x² + 5x + 6. Expanding back is the proof.
-- This lesson's next door: equations (same stage) — an expression with an equals sign, solved by balancing.
+- This lesson's next door: equations (same unit) — an expression with an equals sign, solved by balancing.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

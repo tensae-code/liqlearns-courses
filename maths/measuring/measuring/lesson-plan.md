@@ -105,7 +105,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Picks kilometres for a pencil → ask "how many of this unit
   would it take?" A pencil is about 15 cm, not 15 km and not
   15 mm. The sensible unit gives a small sensible number.
-- This lesson's next door: Perimeter and Area (same stage) — a
+- This lesson's next door: Perimeter and Area (same unit) — a
   perimeter is a length, and it is measured in exactly these
   units.
 

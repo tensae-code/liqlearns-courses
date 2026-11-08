@@ -76,7 +76,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gets 0/0 and stops → 0/0 is not an answer, it is a signpost: factorise and cancel, or multiply top and bottom by the conjugate, the way Iran's Hesaban (1) does (p.141).
 - Mixes up the two sides → always write lim(x→a⁻) and lim(x→a⁺) separately first; the two-sided limit exists only when both agree, as Laos's Grade 10 book states (pp.166–175).
 - Confuses a limit at infinity with an infinite limit → at infinity, x runs away and we watch f(x); an infinite limit is f(x) itself running away at one x.
-- This lesson's next door: Continuity (Level 88, same stage) — a limit that meets the function's own value.
+- This lesson's next door: Continuity (Level 88, same unit) — a limit that meets the function's own value.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Greece Grade 12 Analysis; Pakistan Classes 11–12; Libya Grade 11 Science; Vietnam Grade 11 v1; Armenia Grade 11; Iran Hesaban (1) and (2); Egypt Pure Grade 11; Cambodia Grades 11–12 and the PRIVATE Khem Putthi Limits and Continuity booklet; Kuwait Grade 12 Term 1; Laos Grade 10; South Sudan Secondary 4 Additional; Indonesia Grade 12 Tingkat Lanjut). Two printed errors are taught corrected and never as fact: Kuwait's p.47 tables and Pakistan's Grade 12 p.25 limit at infinity. Cambodia's Grade 12 Advanced teacher guide's six sequence-limit answers are unverified and are cited nowhere in this lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

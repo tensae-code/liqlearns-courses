@@ -3,9 +3,9 @@
 # Lesson plan — Moments, Skewness and Kurtosis
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Moments, Skewness and Kurtosis
-**Place in the curriculum:** Level 128 of 136, the twelfth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 128 of 136, the twelfth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the moments of a distribution — averages of powers of the deviations — and the two shape judgements built from them: skewness (which way the distribution leans) and kurtosis (how peaked it is, by β₂).
-**This lesson's own level:** it stands on Mean Deviation and Variation (Level 127, same stage) — variance is the second moment in disguise — and on Quartiles, Percentiles and Box Plots (Level 126). It needs nothing else.
+**This lesson's own level:** it stands on Mean Deviation and Variation (Level 127, same unit) — variance is the second moment in disguise — and on Quartiles, Percentiles and Box Plots (Level 126). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Mean Deviation and Variation (Level 127, same stage) — the variance you met there is the second central moment, m₂. Recommended, never forced.
-- Recommended first: Quartiles, Percentiles and Box Plots (Level 126, same stage) — Bowley's skewness is read off Q1, the median and Q3. Recommended, never forced.
+- Recommended first: Mean Deviation and Variation (Level 127, same unit) — the variance you met there is the second central moment, m₂. Recommended, never forced.
+- Recommended first: Quartiles, Percentiles and Box Plots (Level 126, same unit) — Bowley's skewness is read off Q1, the median and Q3. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Define moments about the mean, about an arbitrary origin and about zero, and convert between them (Pakistan, Statistics Class 11, Ch. 4, pp.104–120 — this lesson's sole moments source).
@@ -74,7 +74,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Confuses moments about zero with moments about the mean → moments about zero use the raw values xʳ; moments about the mean use (x − x̄)ʳ. Pakistan's chapter keeps the three families — mean, arbitrary origin, zero — in one run for exactly this contrast (pp.104–120).
 - Reads a skew backwards → follow the tail: the long tail points the way the skew is named. Kuwait's book drills it against mean, median, mode and the box plot (pp.19–22): tail right, mean pulled right, positive skew.
 - Copies Pakistan's slips → Q1 in Example 4.7 is 40.51 (the book transposes it to 40.15 mid-working; its own final answers agree with 40.51), and the quartile-deviation coefficient divides by (Q3 + Q1). Both are taught corrected here.
-- This lesson's next door: Geometric and Experimental Probability (Level 129, same stage) — from describing data to chances read off areas and counts.
+- This lesson's next door: Geometric and Experimental Probability (Level 129, same unit) — from describing data to chances read off areas and counts.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 11, Ch. 4 — the sole moments source, with its p.91 transposition and p.102 denominator taught corrected; Kuwait Grade 11 Statistics Term 2 — skewness as student-book stock, against centre and box plot; Cambodia Grade 11 Basic — its guide's skewness value −0.05 as teacher evidence only, the student book's own Lesson 3 being the ground it answers). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

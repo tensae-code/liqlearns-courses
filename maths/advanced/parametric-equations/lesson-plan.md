@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Eliminates the parameter and loses the curve's extent → eliminating gives the path's shape, but the t-interval still says which part is travelled: x = t, y = t² with t ≥ 0 is only the right half of y = x².
 - Uses the guide's v₀ = 45 for the projectile → teach 48: the student book's v₀ = 48 cm/s is the value its own equations require — with g = 32 cm/s², y = −x²/72 + x follows from 48, not from 45 (Cambodia, Grade 12 Advanced, §9.1, printed p.236).
 - Differentiates y with respect to x directly → go through t: dy/dx = (dy/dt) ÷ (dx/dt), provided dx/dt ≠ 0.
-- This lesson's next door: Barycentres (Level 98, same stage) — points weighted and balanced.
+- This lesson's next door: Barycentres (Level 98, same unit) — points weighted and balanced.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Cambodia Grade 12 Advanced and its teacher guide; Mauritania 7AS-C). One printed error is taught corrected and never as fact: the Cambodia Grade 12 Advanced teacher guide prints the projectile's v₀ as 45 cm/s; the student book's 48 cm/s is correct and is what this lesson teaches. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

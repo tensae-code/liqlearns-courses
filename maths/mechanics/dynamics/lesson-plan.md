@@ -33,7 +33,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Statics (Level 132, same stage) — dynamics uses the same forces, unbalanced. Recommended, never forced.
+- Recommended first: Statics (Level 132, same unit) — dynamics uses the same forces, unbalanced. Recommended, never forced.
 - Recommended first: the differentiation and integration lessons — the Grade 12 part of this lesson differentiates and integrates position with respect to time. Recommended, never forced.
 - Recommended first: Speed, distance and time (Level 116) — this lesson sharpens plain speed into velocity and acceleration along a straight line. Recommended, never forced.
 
@@ -91,7 +91,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks a big force is needed to keep a body moving → Newton's first law says the opposite: with no resultant force a body keeps its velocity; force is needed to change velocity, not to keep it (lesson 2-2, printed p.46).
 - Confuses impulse with momentum → momentum is what a moving body has, mv; impulse is what a force delivers over time, Ft, and it equals the change of momentum (Grade 12, lesson 2-3, printed p.112).
 - Confuses work with power → work is force times distance, in joules; power is how fast the work is done, work divided by time, in watts (Grade 12, lessons 3-1 and 3-3, printed pp.124, 150).
-- This lesson's next door: this is the last mechanics lesson; the course's remaining lessons are Stage 18 — First Steps.
+- This lesson's next door: this is the last mechanics lesson; the course's remaining lessons are Unit 18 — First Steps.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt — Applied Mathematics, Grade 11 Term 2, the whole book, and Applied Mathematics (Mechanics), Grade 12, Part 2 Dynamics, printed pp.72–150; Egypt is the sole source country for this lesson among the read countries). One book slip is taught corrected: the Grade 12 English contents number the Power lesson "3-2", duplicating Energy's number; the lesson's own running head correctly reads "Power 3-3", and this lesson cites it as 3-3. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

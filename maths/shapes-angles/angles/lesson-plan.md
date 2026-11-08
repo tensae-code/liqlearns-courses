@@ -2,8 +2,8 @@
 
 # Lesson plan — Angles
 
-**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Angles (lesson 2 of 4 in the stage)
-**Place in the curriculum:** Unit 7, "Shapes and Angles" — the second lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Angles (lesson 2 of 4 in the unit)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the second lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** what an angle is, how to measure it, and the angle facts that never change — on a straight line, around a point, in a triangle, and between parallel lines.
 **This lesson's own level:** it stands on the shapes lesson (a corner is where an angle lives). It needs nothing else.
 
@@ -105,7 +105,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   CORNER (90°, like the corner of a page); supplementary makes a
   STRAIGHT line (180°). Sierra Leone's own words: complementary
   is the corner, supplementary is the straight.
-- This lesson's next door: Circles (same stage) — the full turn,
+- This lesson's next door: Circles (same unit) — the full turn,
   360°, is the circle's own number.
 
 ## Teacher note

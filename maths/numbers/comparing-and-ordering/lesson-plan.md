@@ -30,7 +30,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Place-value (same stage) — the biggest place decides which number is bigger. Recommended, never forced.
+- Recommended first: Place-value (same unit) — the biggest place decides which number is bigger. Recommended, never forced.
 - A soft hint only: the number line itself is a counting tool from the Counting lesson.
 
 ## What the learner can do when it ends
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Writes the sign backwards → the mouth always eats the bigger number: the open end faces the bigger number, the sharp end points to the smaller. Armenia's Grade 2 book says the same: the sign's sharp end points to the smaller number.
 - Compares 98 and 102 by the first digit only → count the places first: 102 has three places, 98 has two — the longer number is bigger when the places differ.
 - Orders 29, 31, 27 by the ones digit → compare the tens first: 27, 29, 31 — the tens are 2, 2, 3, then the ones split the tie.
-- This lesson's next door: Rounding-and-estimating (same stage) — a rounded number is a near number, and near needs comparing.
+- This lesson's next door: Rounding-and-estimating (same unit) — a rounded number is a near number, and near needs comparing.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Armenia Grades 2–4; Libya Grade 1; Egypt Grade 2; Kazakhstan Grade 2; Greece Grade 4; Jordan Grade 4). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

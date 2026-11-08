@@ -45,7 +45,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 5. Use partial fractions inside integration, for distinct linear factors (Kuwait, Grade 12 Term 2, §5-6, pp.42–49; Jordan, Grade 12, p.23 and its integration use, p.45), and recombine pieces into a single fraction (South Sudan, Unit 4, pp.147–148).
 
 ## What you need
-Paper and a pencil. The factorising and division skills from Levels 58 and the algebra stage, ready to use.
+Paper and a pencil. The factorising and division skills from Levels 58 and the algebra unit, ready to use.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner adds 1/(x + 1) + 2/(x − 1) into one fraction, then is asked the reverse question: can (3x + 1)/(x² − 1) be split back into pieces? (lesson/lesson.md).

@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gives one parallel line for the fixed-distance locus → the rule does not choose a side: points on BOTH sides of the line qualify, so the locus is a pair of parallels.
 - Gives one bisector for the equidistant-from-two-lines locus → two crossing lines make two bisectors, at right angles to each other; both are the locus.
 - Confuses "equidistant from two points" with "equidistant from two lines" → points give the perpendicular bisector of the JOIN; lines give the bisectors of the ANGLES between them. Say which object the rule names before drawing.
-- This lesson's next door: the conic sections in the Advanced stage are loci too — Iran's catalogue in this lesson is their doorway (the ellipse and parabola are built as loci there).
+- This lesson's next door: the conic sections in the Advanced unit are loci too — Iran's catalogue in this lesson is their doorway (the ellipse and parabola are built as loci there).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Sierra Leone SSS 2 Term 2; Kazakhstan Smirnov & Tuyakov Geometry 7 and Turapbekov et al. Geometry Grade 7; Iran Geometry (3), Grade 12). Sierra Leone's five lessons are pupil-handbook lessons, not teacher evidence. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

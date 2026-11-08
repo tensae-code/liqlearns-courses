@@ -30,7 +30,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Place Value (Stage 1) — a base is place value with a different bundle size. Recommended, never forced.
+- Recommended first: Place Value (Unit 1) — a base is place value with a different bundle size. Recommended, never forced.
 - Recommended first: Counting and the four operations in base 10 — conversion checks use ordinary adding and multiplying. Recommended, never forced.
 
 ## What the learner can do when it ends

@@ -31,7 +31,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the unitary method (Level 56) — variation is the unitary idea written with letters: a fixed constant joins the pair. Recommended, never forced.
-- Recommended first: ratio and proportion (Stage 4) — direct and inverse proportion are the base forms. Recommended, never forced.
+- Recommended first: ratio and proportion (Unit 4) — direct and inverse proportion are the base forms. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Write direct variation as y = kx, find k from one pair of values, and use it for any other pair (Sierra Leone, SSS 2 Term 1, L17 Direct Variation, p.45; Jordan, Grade 7 Term 2, L4 Direct variation, p.23).

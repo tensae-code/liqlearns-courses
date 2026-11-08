@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: the factors-and-multiples work (gcd and lcm) in the numbers stage — this lesson's Euclid's algorithm is its fast engine. Recommended, never forced.
-- Recommended first: Graph theory (Level 108, same stage) — the stage's other discrete topic. Recommended, never forced.
+- Recommended first: the factors-and-multiples work (gcd and lcm) in the numbers unit — this lesson's Euclid's algorithm is its fast engine. Recommended, never forced.
+- Recommended first: Graph theory (Level 108, same unit) — the unit's other discrete topic. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Reduce a number to its simplest form in a given modulus and do addition, subtraction and multiplication in a modulus, the way Sierra Leone's SSS 1 handbook teaches it (L22–L23, pp.62–67).
@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Cancels a factor in a congruence freely → Iran's warning: plain cancellation can fail; divide through by gcd(c, m) as well as by c (p.22, stated without proof in the book, as filed).
 - Diophantine equation "has no answer" → first check gcd(a, b) divides c; if it does not, there truly is no whole-number answer — that check IS the answer (Greece, Ch.4).
 - Finds one solution but not all → step x by b/gcd and y by −a/gcd to walk through every solution (Iran, pp.26–29).
-- This lesson's next door: Latin squares (Level 110, same stage).
+- This lesson's next door: Latin squares (Level 110, same unit).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran, Discrete Mathematics, Grade 12; Greece, Mathematics Grade 11 orientation book, W7; Sierra Leone, SSS 1 Pupils' Handbook, Term 1; Kazakhstan, Grade 6 and Grade 8/9 books — the Grade 8 Euclid's-algorithm row is starred OPTIONAL in its book, as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

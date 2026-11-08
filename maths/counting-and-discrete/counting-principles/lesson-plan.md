@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Counting Principles
 **Place in the curriculum:** Level 105 of 136, the first lesson of Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** counting choices without listing them all — the fundamental counting principle, factorials, permutations (order matters), combinations (order does not matter), arrangements with repeats, and circular permutations.
-**This lesson's own level:** it stands on the multiplication and factorial-notation work of the earlier stages — the learner can already multiply fluently and read n! as a product. It needs nothing else.
+**This lesson's own level:** it stands on the multiplication and factorial-notation work of the earlier units — the learner can already multiply fluently and read n! as a product. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an

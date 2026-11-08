@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Multiplication (same stage) — every division is checked by its times table. Recommended, never forced.
+- Recommended first: Multiplication (same unit) — every division is checked by its times table. Recommended, never forced.
 - A soft hint only: the division sign is ÷ or : ; the answer is called the quotient, and what is left over is the remainder.
 
 ## What the learner can do when it ends
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Says 12 ÷ 3 = 3 → share it out: deal the stones one at a time into 3 piles — each pile gets 4. Dealing beats guessing.
 - Forgets the remainder must be smaller than the divisor → if the remainder is 5 and you divided by 5, one more whole share fits: 17 ÷ 5 is 3 remainder 2, never 2 remainder 7.
 - Loses the place in long division → the chant is divide, multiply, subtract, bring down — say it at every step, and check the final answer by multiplying.
-- This lesson's next door: The-order-of-operations (same stage) — the last lesson of the stage, where division meets the other operations.
+- This lesson's next door: The-order-of-operations (same unit) — the last lesson of the unit, where division meets the other operations.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grades 3–4; Jordan Grades 3–4; Vietnam Grade 3; Kazakhstan Grades 2–3; Armenia Grades 4–5; Greece Grades 2–3). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

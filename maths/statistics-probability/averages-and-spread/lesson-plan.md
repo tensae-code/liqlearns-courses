@@ -3,7 +3,7 @@
 # Lesson plan — Averages and Spread
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 44 of 52
-**Place in the curriculum:** Stage 11, the third lesson of the stage (CURRICULUM.md).
+**Place in the curriculum:** Unit 11, the third lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** averages and spread — the mean, median and mode, and how spread out the numbers are
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -62,7 +62,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds the numbers but forgets to divide → the mean is a fair share: total first, then share it out by how many there are.
 - Picks the median from an unordered list → order the numbers first, smallest to biggest; the middle only exists in order.
 - Thinks the mode must exist → some sets have no mode at all, and some have two; both answers are honest.
-- This lesson's next door: probability (same stage) — averages describe the data, probability says what happens next.
+- This lesson's next door: probability (same unit) — averages describe the data, probability says what happens next.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

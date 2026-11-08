@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Tessellations
 **Place in the curriculum:** Level 62 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** covering a flat surface with repeated shapes that fit with no gaps and no overlaps — by sliding, flipping and turning the tile — and knowing which regular shapes can do it alone.
-**This lesson's own level:** it stands on Shapes (same stage) and on Symmetry (same stage) — the moves that carry a tile are translation, reflection and rotation. It needs nothing else.
+**This lesson's own level:** it stands on Shapes (same unit) and on Symmetry (same unit) — the moves that carry a tile are translation, reflection and rotation. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Shapes (same stage) — a tile is a polygon, named by its sides. Recommended, never forced.
-- Recommended first: Symmetry (same stage) — reflection and rotation are symmetry moves before they are tiling moves. Recommended, never forced.
+- Recommended first: Shapes (same unit) — a tile is a polygon, named by its sides. Recommended, never forced.
+- Recommended first: Symmetry (same unit) — reflection and rotation are symmetry moves before they are tiling moves. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a tessellation is: a covering with no gaps and no overlaps (Pakistan, Grade 7, p.163).
@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Tiles keep leaving gaps → check the meeting point: the angles around any point where tiles meet must add to exactly 360°. Pentagon corners (108°) cannot do that: three give 324°, four give 432°.
 - A flipped tile will not fit → a reflection is not a rotation for a non-symmetric tile: cut a second tile flipped over, the way Laos's translation-with-reflection patterns do (Grade 5, L49).
 - The pattern drifts off the page edge → work from the middle outward in rings, and finish whole tiles at the edge last.
-- This lesson's next door: Platonic solids and Euler's formula (same stage, Level 63) — the flat tilings fold up into solids.
+- This lesson's next door: Platonic solids and Euler's formula (same unit, Level 63) — the flat tilings fold up into solids.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grade 5; Pakistan Grade 7; Libya Grades 8 and 9; Nepal Grades 6 and 7 student books — the Grade 8 guide is a mismatch guide and is not cited; South Africa workbooks; Iraq Grade 6). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

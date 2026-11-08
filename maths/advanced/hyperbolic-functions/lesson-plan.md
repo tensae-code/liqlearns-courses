@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks cosh can be negative → cosh x is half the sum of two positive numbers, eˣ and e⁻ˣ, so it is always positive — in fact always at least 1 (Laos, Grade 12, L21, p.217).
 - Loses the minus signs in the derivatives of sech and cosech → those two rules carry a minus, taught corrected here: Pakistan's printed summary drops them (Ch.2, ch-p.62); the quotient-rule working gives the negative.
 - Tries cosh⁻¹ of 0 → cosh⁻¹ is defined only for x ≥ 1, because cosh itself never goes below 1 (Laos, Grade 12, L25, p.243).
-- This lesson's next door: Taylor and Maclaurin Series (Level 96, same stage) — functions rebuilt as endless polynomials.
+- This lesson's next door: Taylor and Maclaurin Series (Level 96, same unit) — functions rebuilt as endless polynomials.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grade 12; Pakistan Class 12). One printed error is taught corrected and never as fact: Pakistan's Class 12 Ch.2 p.62 summary drops the minus signs in d/dx cosech x and d/dx sech x. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

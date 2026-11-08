@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Negative Numbers
 **Place in the curriculum:** Level 17 of the maths course — the first lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** numbers below zero — reading them, placing them on the number line, and adding, subtracting, multiplying and dividing them.
-**This lesson's own level:** it stands on comparing-and-ordering (Stage 1) and on addition, subtraction, multiplication and division (Stages 2–3). It needs nothing else.
+**This lesson's own level:** it stands on comparing-and-ordering (Unit 1) and on addition, subtraction, multiplication and division (Units 2–3). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds −3 + (−4) and gets 1 → the books' picture: two debts make a bigger debt. Add the sizes, keep the minus: −3 + (−4) = −7.
 - Turns subtracting a negative into subtracting more → say it in words first: taking away a debt of 4 is the same as gaining 4. 5 − (−4) = 5 + 4 = 9.
 - Forgets the sign in multiplication → sign first, then size. Count the minus signs: an odd count of negatives gives a minus answer, an even count gives a plus.
-- This lesson's next door: powers-and-indices (same stage) — powers of negative numbers, where the sign rule decides (−2)² against −2².
+- This lesson's next door: powers-and-indices (same unit) — powers of negative numbers, where the sign rule decides (−2)² against −2².
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

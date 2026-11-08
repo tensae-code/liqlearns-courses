@@ -3,7 +3,7 @@
 # Lesson plan — Sampling and Sampling Distributions
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Sampling and Sampling Distributions
-**Place in the curriculum:** Level 119 of 136, Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 119 of 136, Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sampling — populations and censuses, the sampling methods, sampling and non-sampling errors, bias, and sampling distributions up to the Central Limit Theorem — with the kinds of data, population statistics and randomised response as named parts.
 **This lesson's own level:** it stands on the random-variables-and-distributions lesson (Level 118) — the learner can already read a distribution and its mean and spread. It needs nothing else.
 
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Random Variables and Distributions (Level 118, same stage) — a sampling distribution is a distribution of a statistic. Recommended, never forced.
-- Recommended first: the collecting-and-showing-data lesson (Stage 11) — populations and samples start from real collected data. Recommended, never forced.
+- Recommended first: Random Variables and Distributions (Level 118, same unit) — a sampling distribution is a distribution of a statistic. Recommended, never forced.
+- Recommended first: the collecting-and-showing-data lesson (Unit 11) — populations and samples start from real collected data. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a population, a sample, a sampling frame and a census are, and choose between a census and a sample survey, the way Pakistan's Class 12 Statistics book opens its sampling chapter (Ch. 11, pp.27–29) and Kuwait's Grade 11 Statistics book teaches census against sampling (Unit 2, pp.36–53).
@@ -74,7 +74,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Picks names "at random" by eye → that is not random. Kuwait's book picks with the printed random-number table (Unit 2, pp.45–46); every unit needs the same known chance of being picked.
 - Mixes sampling error with mistakes → sampling error exists even when everything is done right, because a sample is only a part; non-sampling errors are the mistakes — wrong questions, wrong records, people not answering (Pakistan, pp.32–33).
 - Thinks the Central Limit Theorem says the population becomes normal → no: the population keeps its shape; it is the distribution of the sample MEAN that closes on normal as n grows.
-- This lesson's next door: Estimation and Confidence Intervals (Level 120, same stage) — the sampling distribution becomes a margin of error.
+- This lesson's next door: Estimation and Confidence Intervals (Level 120, same unit) — the sampling distribution becomes a margin of error.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 12; Kuwait Grade 11 Statistics Term 1 and the Grade 11 Term 1 exercise workbook — workbook evidence; Indonesia Grade 9; Libya Grades 12 Science and Humanities; Mauritania 6AS streams; North Macedonia Grade 8 (2010); Iraq Grade 9; Kazakhstan Grade 8 NIS; Nicaragua Grade 9; Ghana JICA B6 teacher manual — teacher evidence; China A-edition Compulsory Volume 2 reading). Kuwait's workbook rows are exercises only and are cited as workbook evidence; Ghana's data-types row is teacher evidence, since Ghana's set holds teacher manuals, not a pupil book for this part. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

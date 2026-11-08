@@ -39,7 +39,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 ## Before this lesson
 - Recommended first: the Fractions lesson (Level 11) and the
   Percentages lesson (Level 15). Recommended, never forced.
-- This is the last lesson of Stage 4. Stage 5 (Geometry) comes
+- This is the last lesson of Unit 4. Unit 5 (Geometry) comes
   next.
 
 ## What the learner can do when it ends

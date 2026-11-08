@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Mathematical Induction
 **Place in the curriculum:** Level 102 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** proof by mathematical induction — the principle, its three steps (base case, induction hypothesis, induction step), and its use for series formulas, divisibility and inequalities, including extended induction — together with the warning that checking cases is not proving: Euler's polynomial n² − n + 41 gives primes for n = 1 to 40 and fails at n = 41.
-**This lesson's own level:** it stands on Proof Methods (Level 101, same stage) and the sequences and series lessons — the learner can already prove a single statement and read Σ notation. It needs nothing else.
+**This lesson's own level:** it stands on Proof Methods (Level 101, same unit) and the sequences and series lessons — the learner can already prove a single statement and read Σ notation. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Proof Methods (Level 101, same stage) — induction is one proof method among the ones taught there. Recommended, never forced.
+- Recommended first: Proof Methods (Level 101, same unit) — induction is one proof method among the ones taught there. Recommended, never forced.
 - Recommended first: the sequences and series lessons — most first induction proofs are series formulas. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Skips the base case → without n = 1 the staircase has no first stair: the step alone can "prove" false statements, as Kazakhstan's Shynybekov book shows by dissecting a false proof (Algebra 9, §3.2*, p.72).
 - Thinks induction means checking many cases → that is exactly the trap of Euler's polynomial: 40 true cases, false claim (Pakistan, Class 11, Unit 8, pp.140–150).
 - Loses the algebra in the step → write the target for k + 1 first, then split off the k-sum and replace it by the hypothesis — the shape of Cambodia's n² proof (Grade 11 Advanced, pp.24–34).
-- This lesson's next door: The Pigeonhole Principle (Level 103, same stage) — another small principle with outsized power.
+- This lesson's next door: The Pigeonhole Principle (Level 103, same unit) — another small principle with outsized power.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Class 11; Armenia Grade 11, both streams; Vietnam Grade 10 study book; Greece Grade 11 orientation book; Cambodia Grade 11 Advanced; Kazakhstan Grade 9 Algebra books; Laos Grade 11; Iraq Grade 12 Scientific — filed "for information only" and worded as such wherever it appears). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

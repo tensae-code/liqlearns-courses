@@ -31,9 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Continuity (Level 88, same stage) — both theorems need continuity on the closed interval. Recommended, never forced.
-- Recommended first: the derivatives lesson (same stage) — both theorems need differentiability on the open interval, and L'Hôpital's rule is differentiation at work. Recommended, never forced.
-- Recommended first: Limits (Level 87, same stage) — L'Hôpital's rule is a rule about limits. Recommended, never forced.
+- Recommended first: Continuity (Level 88, same unit) — both theorems need continuity on the closed interval. Recommended, never forced.
+- Recommended first: the derivatives lesson (same unit) — both theorems need differentiability on the open interval, and L'Hôpital's rule is differentiation at work. Recommended, never forced.
+- Recommended first: Limits (Level 87, same unit) — L'Hôpital's rule is a rule about limits. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. State Rolle's theorem with its three conditions and find the point c it guarantees, as Greece's Grade 12 Analysis book teaches it (W12, Ch.2, pp.91–184).
@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Forgets a condition → recite the pair: continuous on the closed interval, differentiable on the open one; then Rolle adds equal endpoint values.
 - Solves for c and finds it outside the interval → the theorem guarantees c strictly inside (a, b); a root outside is a wrong root or an arithmetic slip.
 - Uses L'Hôpital on a limit that is not 0/0 or ∞/∞ → check the form first; the rule is only for those two forms, and other forms must be turned into quotients first (Cambodia, PRIVATE Derivatives booklet, pp.53–54).
-- This lesson's next door: integrals (same stage) — the theorems here are the bridge the fundamental theorem stands on.
+- This lesson's next door: integrals (same unit) — the theorems here are the bridge the fundamental theorem stands on.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Greece Grade 12 Analysis; Cambodia's PRIVATE Khem Putthi Derivatives booklet; Yemen Grade 12 Science). Iraq's Grade 12 Scientific lesson [3-2] on these theorems is unverified and is cited nowhere in this lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

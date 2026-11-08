@@ -3,7 +3,7 @@
 # Lesson plan — Relations
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Relations
-**Place in the curriculum:** Level 85 of 136, inside Stage 11 — Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 85 of 136, inside Unit 11 — Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a relation is a chosen set of ordered pairs — built from the Cartesian product of two sets — with its domain, its range, its inverse, and the special equivalence relations that sort a set into classes.
 **This lesson's own level:** it stands on sets — the learner already knows what a set is, how to list one, and union and intersection. It needs nothing else.
 

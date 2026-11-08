@@ -30,7 +30,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: ratio and proportion (Stage 4) — the unitary method is proportion worked one step at a time. Recommended, never forced.
+- Recommended first: ratio and proportion (Unit 4) — the unitary method is proportion worked one step at a time. Recommended, never forced.
 - Recommended first: multiplying and dividing whole numbers and money amounts. Recommended, never forced.
 
 ## What the learner can do when it ends

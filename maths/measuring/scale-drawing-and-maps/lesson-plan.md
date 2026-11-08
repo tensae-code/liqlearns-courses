@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Ratio and Proportion (Stage 4) — a scale is a ratio between the drawing and the real thing. Recommended, never forced.
-- Recommended first: Perimeter and Area (same stage) — a scale drawing keeps the shape and changes every length by the same ratio. Recommended, never forced.
+- Recommended first: Ratio and Proportion (Unit 4) — a scale is a ratio between the drawing and the real thing. Recommended, never forced.
+- Recommended first: Perimeter and Area (same unit) — a scale drawing keeps the shape and changes every length by the same ratio. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a scale is — scale = drawing length ÷ real length, in the same unit — and read scales like 1:100 and 1:500,000 (Laos, Grade 6 student book, L21, printed pp.167–174).
@@ -71,8 +71,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes the two lengths up → the scale is always drawing ÷ real, and both lengths must be in the SAME unit first. Laos's books convert before they divide: 1 cm = 5 km becomes 1 cm = 500,000 cm before it becomes 1:500,000.
 - Reads 1:500,000 as "1 cm is 500,000 km" → the second number is in the same unit as the first: 1 cm on the map is 500,000 cm in real life, and 500,000 cm is 5 km.
 - Thinks a bigger second number means a bigger drawing → it is the other way: 1:500,000 shrinks far more than 1:100. An enlargement flips the ratio the other way — Laos's 5:1 makes the drawing five times the real thing.
-- Calls Nepal's compass points "bearings" → Nepal's Grade 7 book teaches the eight compass points (N, NE, E, …) and the angles between them (N–E is 90°, N–NE is 45°). Three-figure bearings are a different lesson (Bearings, Stage 9) — do not rename the points.
-- This lesson's next door: Estimating Areas (same stage) — once a map can be read for lengths, its irregular shapes can be read for areas.
+- Calls Nepal's compass points "bearings" → Nepal's Grade 7 book teaches the eight compass points (N, NE, E, …) and the angles between them (N–E is 90°, N–NE is 45°). Three-figure bearings are a different lesson (Bearings, Unit 9) — do not rename the points.
+- This lesson's next door: Estimating Areas (same unit) — once a map can be read for lengths, its irregular shapes can be read for areas.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grades 5, 6, 7 and 9; Kuwait Grade 10 Term 1; Libya Grade 8; Vietnam Grade 5 Volume 2; Mauritania Grade 6; Yemen Grade 6 Part 2; South Africa Grades 3 and 4 workbooks; Nepal Grade 7; Greece Grade 8; Jordan Grade 7 Term 2; Indonesia Grade 7). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

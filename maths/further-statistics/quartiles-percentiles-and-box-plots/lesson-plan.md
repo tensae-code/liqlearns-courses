@@ -3,9 +3,9 @@
 # Lesson plan — Quartiles, Percentiles and Box Plots
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Quartiles, Percentiles and Box Plots
-**Place in the curriculum:** Level 126 of 136, the tenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 126 of 136, the tenth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** describing a set of values by where its quarters, tenths and hundredths fall — quartiles, deciles and percentiles, in raw and grouped data — summed up in the five-number summary, drawn as a box-and-whisker plot, and read back off a cumulative frequency curve.
-**This lesson's own level:** it stands on Averages and Spread (Stage 11), where the median, quartiles and cumulative frequency curves first appear — this lesson takes that ground in depth: deciles and percentiles, grouped interpolation, and reading percentiles from the ogive. It needs nothing else.
+**This lesson's own level:** it stands on Averages and Spread (Unit 11), where the median, quartiles and cumulative frequency curves first appear — this lesson takes that ground in depth: deciles and percentiles, grouped interpolation, and reading percentiles from the ogive. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Averages and Spread (Stage 11) — the median and the first quartiles live there; here they grow into deciles, percentiles and the full five-number summary. Recommended, never forced.
-- Recommended first: Collecting and Showing Data (Stage 11) — grouped tables and cumulative frequency are the raw material of the ogive work. Recommended, never forced.
+- Recommended first: Averages and Spread (Unit 11) — the median and the first quartiles live there; here they grow into deciles, percentiles and the full five-number summary. Recommended, never forced.
+- Recommended first: Collecting and Showing Data (Unit 11) — grouped tables and cumulative frequency are the raw material of the ogive work. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Find Q1, the median and Q3 in ordered raw data, and the interquartile range and semi-interquartile range (Kuwait's Grade 11 Statistics book, lesson 4-3, p.23 — its worked set 2, 4, 5, 6, 6, 7, 7, 7, 8, 8 gives Q1 = 5, Q3 = 7, semi-interquartile range = 1; Jordan's Grade 8 book, p.144 — quartiles, IQR and outliers).
@@ -80,7 +80,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Interpolates grouped data with the raw-rank method → inside a class, spread the class's frequency evenly across the class width: value = lower limit + ((rank − cf before) ÷ class frequency) × class width (Kuwait Grade 11 Statistics, pp.15–18).
 - Copies Ethiopia's guide D3 = 21.5 or Q1 = 33 → those are the guide's own arithmetic slips, taught corrected here: D3 = 20.15, Q1 = 34, and its table's cumulative frequency is 92, not "9" (guide evidence, corrected as filed).
 - Cites Cambodia's decile answers as the student book's → they are the teacher guide's answers (guide printed p.222) — teacher evidence, worded as such.
-- This lesson's next door: Mean Deviation and Variation (Level 127, same stage) — the spread measures this lesson's quartiles begin, carried further.
+- This lesson's next door: Mean Deviation and Variation (Level 127, same unit) — the spread measures this lesson's quartiles begin, carried further.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grade 9 Term 1, Grade 10 Term 2 and Grade 11 Statistics Term 2; Cambodia Grade 11 Basic student book for the teaching, with its decile answers cited from the teacher guide as teacher evidence only; Ethiopia Grade 11 teacher guide as teacher evidence only, with D3, Q1 and the cumulative frequency taught at their corrected values 20.15, 34 and 92; Jordan Grade 8 Term 2; Kazakhstan NIS Grade 8; Nepal Grade 9 and Grade 10 Optional; Iraq Grade 10 Literary; South Sudan S2; Sierra Leone SSS3). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

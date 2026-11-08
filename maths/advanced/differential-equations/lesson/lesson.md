@@ -3,7 +3,7 @@
 Course: Maths · Unit 12 — Advanced Mathematics · Lesson 52 of 52
 Built from: Jordan, Grade 12 Term 2 — Greece, Grade 12 Analysis — Mauritania, 7AS-C and 7AS-D.
 
-This is the thinnest lesson in the advanced stage, and the lesson says so plainly: three countries teach first-order differential equations, each in one lesson or one short section, and the lesson is built from exactly that much — no more. What the books teach is the separable first-order equation, solved by integrating both sides. Nothing beyond it is claimed.
+This is the thinnest lesson in the advanced unit, and the lesson says so plainly: three countries teach first-order differential equations, each in one lesson or one short section, and the lesson is built from exactly that much — no more. What the books teach is the separable first-order equation, solved by integrating both sides. Nothing beyond it is claimed.
 
 ## Do it first
 You are told a rate, and asked for the thing itself. A population grows by 10% a year: that is a rate of change, a derivative. What is the population after some years? You know the derivative; you must find the function. That backwards step — from a rate to the thing itself — is what a differential equation asks for.

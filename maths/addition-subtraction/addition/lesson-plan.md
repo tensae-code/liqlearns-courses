@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting and Place-value (Stage 1) — adding is counting on, and carrying is regrouping tens. Recommended, never forced.
+- Recommended first: Counting and Place-value (Unit 1) — adding is counting on, and carrying is regrouping tens. Recommended, never forced.
 - A soft hint only: the inverse check (subtract to check an addition) is taught in the Subtraction lesson next door.
 
 ## What the learner can do when it ends
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds 8 + 5 by counting all the fingers again → make ten: 8 needs 2 to make 10, and 5 gives 2 and leaves 3 — 10 + 3 = 13. Jordan's Grade 1 book teaches doubles and make-ten.
 - Forgets the carried 1 → write it small above the next column, and say it aloud before adding the column: "7 tens and 6 tens, plus the carried ten."
 - Lines the numbers up wrong (47 under 386) → line up by place value, ones under ones, starting from the ones place — Egypt's Grade 2 rule.
-- This lesson's next door: Subtraction (same stage) — taking away is adding's inverse, and it checks every addition.
+- This lesson's next door: Subtraction (same unit) — taking away is adding's inverse, and it checks every addition.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grade 2; Jordan Grades 1–2; Libya Grades 1–3; Kazakhstan Grade 2; Greece Grade 1 Teuxos B; Armenia Grade 2; Vietnam Grades 1–2; Mauritania Grade 1). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

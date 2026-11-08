@@ -3,9 +3,9 @@
 # Lesson plan — Random Variables and Distributions
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Random Variables and Distributions
-**Place in the curriculum:** Level 118 of 136, the second lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 118 of 136, the second lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a random variable — a number tied to each outcome — and the named distributions that say how likely each of its values is: binomial, hypergeometric, Poisson, uniform and normal, with expectation, variance and the CDF.
-**This lesson's own level:** it stands on Probability (Stage 11) and on Conditional Probability and Bayes' Theorem (Level 117, same stage) — events, chances that add to 1, and chances that change when the situation changes. It needs nothing else.
+**This lesson's own level:** it stands on Probability (Unit 11) and on Conditional Probability and Bayes' Theorem (Level 117, same unit) — events, chances that add to 1, and chances that change when the situation changes. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,9 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Probability (Stage 11) — a distribution is a probability list with a number attached to each outcome. Recommended, never forced.
-- Recommended first: Conditional Probability and Bayes' Theorem (Level 117, same stage) — sampling without replacement, which the hypergeometric distribution counts, is dependent-draw ground. Recommended, never forced.
-- Recommended first: Averages and Spread (Stage 11) — expectation is a mean, variance is a spread. Recommended, never forced.
+- Recommended first: Probability (Unit 11) — a distribution is a probability list with a number attached to each outcome. Recommended, never forced.
+- Recommended first: Conditional Probability and Bayes' Theorem (Level 117, same unit) — sampling without replacement, which the hypergeometric distribution counts, is dependent-draw ground. Recommended, never forced.
+- Recommended first: Averages and Spread (Unit 11) — expectation is a mean, variance is a spread. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a random variable is, and split variables into discrete and continuous (Indonesia's Grade 12 TL Revisi book, Definisi 4.1, p.227; discrete p.232, continuous p.239; Pakistan's Statistics Class 11, Ch. 7, pp.193–194).
@@ -78,7 +78,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Uses the binomial for a without-replacement draw → no replacement means the chances change, so the count is hypergeometric, not binomial. Pakistan teaches the two in the same chapter (Ch. 9) so the contrast is visible.
 - Reads a Kuwait CDF interval straight off the p.169 summary → that summary is false for discrete variables; use the corrected forms in the lesson (for discrete X, P(a ≤ X ≤ b) = F(b) − F(a) + P(X = a)).
 - Looks for the uniform distribution in Indonesia's Revisi book → it is not there; the uniform distribution in this lesson rests on the 2022 TL book (Bab 5, pp.169–196) and on Kuwait and Pakistan.
-- This lesson's next door: Sampling and Sampling Distributions (Level 119, same stage) — what happens to a mean when the experiment is a whole sample.
+- This lesson's next door: Sampling and Sampling Distributions (Level 119, same unit) — what happens to a mean when the experiment is a whole sample.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Classes 11 and 12 — with its p.206 and p.245 errors taught corrected, and its appendix tables at printed pp.301–306 cited nowhere; Indonesia Grade 12 TL 2022 and TL Revisi 2025 — with Definisi 4.6 taught corrected, and the uniform distribution resting on the 2022 book only; Kuwait Grade 12 Term 2, Grade 12 Statistics Term 2, Grade 11 Statistics Term 2 and the Grade 11 Term 1 workbook — workbook evidence only for the z-score rows, the student book not being in hand, and its p.169 CDF summary and p.171 binomial table taught corrected; Egypt Statistics Grade 12; Jordan Grades 11 and 12 and Grade 12 Business; Libya Grade 12 Foundations of Statistics — its Grade 11 Statistics books teach no distributions and are cited nowhere here; Vietnam's Grade 12 study book — discrete variables and binomial only, no continuous distributions anywhere in Vietnam, as filed; Yemen Grade 12 Science; Armenia Grade 10 and its Grade 12 guide as teacher evidence; Cambodia Grade 12 Advanced, Grade 11 Basic and the PRIVATE Probability booklet; Laos Grades 11 and 12; Iran Grade 10 — a descriptive bell curve only, whose "96 of 100" wording is loose, not exact, and never cited as an exact figure). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

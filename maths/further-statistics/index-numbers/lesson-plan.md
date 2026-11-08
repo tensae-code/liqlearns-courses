@@ -3,9 +3,9 @@
 # Lesson plan — Index Numbers
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Index Numbers
-**Place in the curriculum:** Level 125 of 136, the ninth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 125 of 136, the ninth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** an index number — one number that measures how a whole group of prices (or quantities) has changed against a base year — built unweighted and weighted (Laspeyres, Paasche, Fisher, Marshall–Edgeworth), carried through the consumer price index to purchasing power and inflation.
-**This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Fractions, Decimals and Percentages (Stage 4) — relatives are percentages, and the weighted indices are weighted means in disguise. It needs nothing else.
+**This lesson's own level:** it stands on Averages and Spread (Unit 11) and on Fractions, Decimals and Percentages (Unit 4) — relatives are percentages, and the weighted indices are weighted means in disguise. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,9 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Averages and Spread (Stage 11) — the average of relatives and the weighted indices are means, plain and weighted. Recommended, never forced.
-- Recommended first: Percentages (Stage 4) — a price relative is a percentage of the base price, and an index of 100 is the base itself. Recommended, never forced.
-- Recommended first: Time Series (Level 124, same stage) — an index is a series measured against its own base year instead of against a trend. Recommended, never forced.
+- Recommended first: Averages and Spread (Unit 11) — the average of relatives and the weighted indices are means, plain and weighted. Recommended, never forced.
+- Recommended first: Percentages (Unit 4) — a price relative is a percentage of the base price, and an index of 100 is the base itself. Recommended, never forced.
+- Recommended first: Time Series (Level 124, same unit) — an index is a series measured against its own base year instead of against a trend. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what an index number is, name the price, quantity and value types, and state the construction steps — purpose, items, base year, weights (Pakistan's Statistics Class 11 book, Ch. 5, pp.128–158).
@@ -80,7 +80,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Copies Pakistan's printed p.143 answers → those are the book's errors, taught corrected here: Σp₀qₙ = 480, Paasche = 110.4, Fisher = 114.5. The printed 470, 112.8 and 115.8 are never used.
 - Reads an index of 140.5 as "prices rose 140.5%" → the index includes the base's own 100; the rise is 140.5 − 100 = 40.5% (Iran's example, p.59).
 - Repeats Iran's "14%" inflation as exact → 4/28 × 100 = 14.2857…%, so ≈ 14.3%; the book prints a rounded value with an equals sign, corrected here.
-- This lesson's next door: Quartiles, Percentiles and Box Plots (Level 126, same stage) — from comparing values across time back to describing one set of values in depth.
+- This lesson's next door: Quartiles, Percentiles and Box Plots (Level 126, same unit) — from comparing values across time back to describing one set of values in depth.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 11, Ch. 5 — with Example 5.6's potato link relatives taught corrected as 111.1 and 100.0 and Example 5.7 taught corrected as Σp₀qₙ = 480, Paasche 110.4, Fisher 114.5; Libya Grade 12 Statistics, Humanities — Marshall–Edgeworth and changing the base; Iran Mathematics and Statistics (2), Grade 11 — the basket price index ≈ 140.5 and inflation as the change of the index; Iran Statistics and Probability, Grade 11 — the inflation-rate box taught corrected as ≈ 14.3%, not 14%). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

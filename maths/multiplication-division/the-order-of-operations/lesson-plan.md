@@ -3,7 +3,7 @@
 # Lesson plan — The-order-of-operations
 
 **Course:** Maths · **Unit:** Unit 3 — Multiplication and Division · **Lesson:** The-order-of-operations
-**Place in the curriculum:** Level 11, the third lesson of Unit 3 — the last lesson of the stage (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 11, the third lesson of Unit 3 — the last lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the order of operations — brackets first, then multiply and divide, then add and subtract, left to right.
 **This lesson's own level:** it stands on Addition (Level 7), Subtraction (Level 8), Multiplication (Level 9) and Division (Level 10) — the learner can do all four operations. It needs nothing else.
 
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: all four operations (Stages 2–3) — this lesson only orders them, it does not teach them. Recommended, never forced.
+- Recommended first: all four operations (Units 2–3) — this lesson only orders them, it does not teach them. Recommended, never forced.
 - A soft hint only: South Africa calls the rule BODMAS; the books here say the same order in words.
 
 ## What the learner can do when it ends
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Works 2 + 3 × 4 left to right and gets 20 → multiply and divide come before add and subtract: 3 × 4 = 12 first, then 2 + 12 = 14. Kazakhstan's Grade 2 book teaches it with brackets first, then the same order inside.
 - Forgets the brackets in (2 + 3) × 4 → brackets are a box: do what is inside the box first, then the rest. (2 + 3) × 4 = 5 × 4 = 20.
 - Works 12 ÷ 3 × 2 right to left and gets 2 → same-level operations go left to right: 12 ÷ 3 = 4, then 4 × 2 = 8.
-- This lesson's next door: Fractions (Stage 4) — the next stage starts with parts of a whole, and the order of operations follows every fraction sum.
+- This lesson's next door: Fractions (Unit 4) — the next unit starts with parts of a whole, and the order of operations follows every fraction sum.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grade 4; Jordan Grades 4 and 8; Kazakhstan Grades 1–4; Armenia Grade 4; Vietnam Grade 6; Greece Grade 5; South Africa Grade 6). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

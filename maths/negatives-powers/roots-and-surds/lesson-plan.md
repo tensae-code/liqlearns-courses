@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Roots and Surds
 **Place in the curriculum:** Level 19 of the maths course — the third lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** square roots and cube roots, and surds — roots left exact, simplified to basic form and operated on without a calculator.
-**This lesson's own level:** it stands on powers-and-indices (Level 18) — a root undoes a power — and on factorising numbers into primes (Stage 1). It needs nothing else.
+**This lesson's own level:** it stands on powers-and-indices (Level 18) — a root undoes a power — and on factorising numbers into primes (Unit 1). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds √2 + √3 and writes √5 → roots add only when they match, like terms: √2 + √2 = 2√2. Different roots stay separate.
 - Writes √32 = 8 → pull out the biggest perfect square inside: 32 = 16 × 2, so √32 = 4√2. Check: 4² × 2 = 32.
 - Leaves 1/√2 as an answer → rationalise: multiply top and bottom by √2 to get √2/2. A root may not sit in the denominator.
-- This lesson's next door: standard-form (same stage) — very big and very small numbers written with powers of ten.
+- This lesson's next door: standard-form (same unit) — very big and very small numbers written with powers of ten.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

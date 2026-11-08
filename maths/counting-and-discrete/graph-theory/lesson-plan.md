@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Graph theory
 **Place in the curriculum:** Level 108 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** graphs — vertices, edges and degrees; Euler and Hamilton paths; shortest paths; dominating sets and the domination number; and bin-packing algorithms.
-**This lesson's own level:** it stands on the counting lessons of this stage — the learner can already count systematically. It needs nothing else.
+**This lesson's own level:** it stands on the counting lessons of this unit — the learner can already count systematically. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting principles (Level 105, this stage) — a graph problem is a counting-and-choosing problem. Recommended, never forced.
+- Recommended first: Counting principles (Level 105, this unit) — a graph problem is a counting-and-choosing problem. Recommended, never forced.
 - Recommended first: the pigeonhole principle (Level 103) for the domination bound's covering argument. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Counts a loop's degree wrong → Iran's book counts a loop twice in the degree, because it joins the vertex to itself at both ends (pp.34–37).
 - Thinks a dominating set must cover only the other vertices → a chosen vertex covers ITSELF and its neighbours; that is the whole point of Iran's ATM-and-guards pictures (pp.43–48).
 - Finds a dominating set but not the smallest → try the bound first: γ(G) ≥ ⌈n/(Δ+1)⌉ (Iran, p.49); if your set meets the bound, it is minimum and you can stop.
-- This lesson's next door: Congruences and Diophantine equations (Level 109, same stage).
+- This lesson's next door: Congruences and Diophantine equations (Level 109, same unit).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran, Discrete Mathematics, Grade 12; Vietnam, Grade 11 study book; Jordan, Business Mathematics Grade 12 Term 1; China, Grade 6 second volume — the Königsberg box, enrichment as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

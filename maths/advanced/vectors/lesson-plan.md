@@ -62,7 +62,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds vectors like numbers → vectors add head-to-tail: the direction matters as much as the size; draw the arrows first.
 - Forgets the dot product is a number → the dot product is a scalar, not an arrow: a·b = |a||b|cos θ is one number.
 - Thinks two vectors are equal when they are the same length → equal vectors need the same size AND the same direction.
-- This lesson's next door: derivatives (same stage) — the next lesson asks how fast a moving point's position vector changes.
+- This lesson's next door: derivatives (same unit) — the next lesson asks how fast a moving point's position vector changes.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

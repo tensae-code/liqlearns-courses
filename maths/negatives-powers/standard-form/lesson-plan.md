@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Standard Form
 **Place in the curriculum:** Level 20 of the maths course — the fourth lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** standard form — writing very big and very small numbers as a number between 1 and 10 times a power of ten.
-**This lesson's own level:** it stands on powers-and-indices (Level 18) and on place value (Stage 1). It needs nothing else.
+**This lesson's own level:** it stands on powers-and-indices (Level 18) and on place value (Unit 1). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Writes 0.004 as 4 × 10³ → small numbers take negative powers: 4 × 10⁻³. The point moved three places the other way.
 - Writes 10 × 10⁵ as standard form → 10 is not allowed as the first number (it must be under 10): 10 × 10⁵ = 1 × 10⁶.
 - Compares 3 × 10⁵ and 2 × 10⁶ by the first numbers only → the power decides first: 10⁶ beats 10⁵ whatever the first number is. Compare powers, then first numbers.
-- This lesson's next door: expressions (Stage 6) — letters take the place of numbers, and the same short writing starts to carry algebra.
+- This lesson's next door: expressions (Unit 6) — letters take the place of numbers, and the same short writing starts to carry algebra.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

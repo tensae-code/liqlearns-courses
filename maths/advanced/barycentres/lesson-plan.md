@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Averages the coordinates without the weights → the formula weights each coordinate first: (αA + βB)/(α + β); plain averaging is only the equal-weights case (Laos, Grade 11, L34, p.254).
 - Loses track in a system → group: merge two points into their barycentre with their weights added, then merge that point with the next (Laos, Grade 11, L34, p.254).
 - Weights summing to zero → if α + β = 0 (and α ≠ 0) there is no barycentre: the vector condition cannot be met by any point. Keep to ordinary positive weights in this lesson.
-- This lesson's next door: Quaternions (Level 99, same stage) — an extended reading that stretches the number system once more.
+- This lesson's next door: Quaternions (Level 99, same unit) — an extended reading that stretches the number system once more.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Mauritania 5AS-M, 5AS-D, 6AS-M and 6AS-C; Laos Grade 11). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

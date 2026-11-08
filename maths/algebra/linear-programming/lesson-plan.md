@@ -5,7 +5,7 @@
 
 **Unit:** Algebra (Unit 6). **Level 139** (Malaysia merge, 2026-11-07).
 
-**Why this lesson exists:** Malaysia's Additional Mathematics Form 5 closes its inequalities chapter with linear programming as a named topic — constraints, the feasible region, the objective function, and maximum/minimum problems. Single inequalities are already a lesson (inequalities, Stage 6); the optimisation method built on a system of them had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+**Why this lesson exists:** Malaysia's Additional Mathematics Form 5 closes its inequalities chapter with linear programming as a named topic — constraints, the feasible region, the objective function, and maximum/minimum problems. Single inequalities are already a lesson (inequalities, Unit 6); the optimisation method built on a system of them had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees

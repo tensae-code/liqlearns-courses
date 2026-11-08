@@ -32,8 +32,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting (Stage 1) — money is counting with values on the pieces. Recommended, never forced.
-- Recommended first: Adding and subtracting (Stage 2) — change is a taking-away, and a total is an adding. Recommended, never forced.
+- Recommended first: Counting (Unit 1) — money is counting with values on the pieces. Recommended, never forced.
+- Recommended first: Adding and subtracting (Unit 2) — change is a taking-away, and a total is an adding. Recommended, never forced.
 - This lesson does not do business mathematics — interest, profit as a system, tax and partnership are the next lesson, Business mathematics (Level 114). A single buying-and-selling price appears here only as paying and change.
 
 ## What the learner can do when it ends
@@ -78,7 +78,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Makes an amount one way only → exchange one piece: break a big note into smaller pieces of the same value, as Cambodia's Grade 2 book breaks 1000 riel into two 500s (pp.85–88), then make the amount again.
 - Change comes out wrong → count up from the price to the payment, piece by piece, instead of subtracting at once; then check: price + change must equal what was paid.
 - Adds rupees and paisa in separate piles and loses them → write the amount the Nepal way, Rs 52.25, and add the decimal form (Nepal, Grade 3, pp.70–72).
-- This lesson's next door: Business mathematics (Level 114, same stage) — the paying and change learned here grow into interest, profit, tax and bills.
+- This lesson's next door: Business mathematics (Level 114, same unit) — the paying and change learned here grow into interest, profit, tax and bills.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Two flags a teacher must keep: Ghana's money rows are all teacher evidence (the JICA teacher manuals and the DL workbook — there is no Ghana pupil textbook in the set), and Sierra Leone's rows are teacher evidence from lesson plans written before the Leone was redenominated, so the lesson re-bases its Sierra Leone-style examples to small present-day amounts and words them as teacher evidence as filed. One book error is taught corrected and never as a valid question: Kuwait's Grade 3 Term 2 item on printed p.147 offers coin/note groups totalling 8, 11 and 11 dinars for a 10-dinar note — no group matches, so the lesson teaches the totalling skill and never sets that item. Iraq is an explicit negative: money is never a topic in Iraq's books, so Iraq is not a source for this lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

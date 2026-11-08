@@ -63,7 +63,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Tries to add matrices of different orders → addition needs the same shape: same rows, same columns, or it is not defined.
 - Multiplies in the wrong order → AB is usually not BA: rows of the first meet columns of the second, and the order matters.
 - Forgets the determinant's minus sign → for a 2 × 2, it is ad − bc: the main diagonal minus the other one.
-- This lesson's next door: vectors (same stage) — another object with its own addition and multiplication.
+- This lesson's next door: vectors (same unit) — another object with its own addition and multiplication.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

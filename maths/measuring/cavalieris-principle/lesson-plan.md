@@ -32,8 +32,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Volume and Surface Area (same stage) — the principle explains where the prism and cylinder formulas come from. Recommended, never forced.
-- Recommended first: Equal Areas (same stage) — sliding a shape without changing its area, grown into sliding slices without changing volume. Recommended, never forced.
+- Recommended first: Volume and Surface Area (same unit) — the principle explains where the prism and cylinder formulas come from. Recommended, never forced.
+- Recommended first: Equal Areas (same unit) — sliding a shape without changing its area, grown into sliding slices without changing volume. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. State the principle: two solids of the same height whose cross-sections at every height have equal areas have equal volumes — named in China's B-edition book as Zu Geng's principle (China, Compulsory Volume 4, B edition, Ch. 11, §11.1.6, printed p.82).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks the leaning stack holds more because it looks bigger → count the coins. Nothing was added; every slice (coin) is the same coin, only shifted. Volume counts the slices, not the silhouette.
 - Checks the cross-sections at one height only → the principle demands equal section areas at EVERY height. One matching slice proves nothing; a cone and a cylinder of the same base and height match at the base and nowhere else — which is why their volumes differ.
 - Forgets the third in V = ⅓Sh → rebuild the prism split: three pyramids, equal volumes, filling one prism exactly. The pyramid is one of three, so its volume is one third of Sh.
-- This lesson's next door: Errors and Accuracy (same stage) — from volumes known by principle to measurements known only approximately.
+- This lesson's next door: Errors and Accuracy (same unit) — from volumes known by principle to measurements known only approximately.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (China, Compulsory Volume 4, B edition, Ch. 11, §11.1.6, printed p.82; China, Compulsory Volume 2, A edition, Ch. 8, §8.3, printed pp.121–123 — the sole sources). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

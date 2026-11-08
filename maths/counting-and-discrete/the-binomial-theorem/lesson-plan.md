@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: Counting Principles (Level 105) — the coefficients of the expansion are the combination numbers ⁿCᵣ. Recommended, never forced.
-- Recommended first: the indices (powers) work of the earlier stages — the expansion is built from powers of a and b. Recommended, never forced.
+- Recommended first: the indices (powers) work of the earlier units — the expansion is built from powers of a and b. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Build Pascal's triangle row by row, each entry the sum of the two above it, the way Indonesia's Grade 8 K13 book teaches the triangle as a number pattern (Bab 1, pp.1–40) and Indonesia's Grade 12 Revisi book prints it in the body of its binomial lesson (pp.113–118).

@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Addition (Stage 2) — multiplication is adding the same number again and again. Recommended, never forced.
+- Recommended first: Addition (Unit 2) — multiplication is adding the same number again and again. Recommended, never forced.
 - A soft hint only: the tables are learned by heart a little at a time — 2s, 3s, 4s, 5s first, the way Kazakhstan's Grade 2 book orders them.
 
 ## What the learner can do when it ends
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Counts 3 × 4 as 3 + 4 → multiplication is equal groups: 3 groups of 4, not 3 and 4. Count the groups: 4, 8, 12.
 - Forgets the carried ten in 23 × 4 → multiply the ones first (3 × 4 = 12: write 2, carry 1 ten), then the tens (2 × 4 = 8 tens, plus the carried ten = 9 tens).
 - Mixes up 6 × 7 and 7 × 6 → they are the same: multiplication works in either order. 6 × 7 = 7 × 6 = 42.
-- This lesson's next door: Division (same stage) — sharing undoes multiplying, and the tables check every division.
+- This lesson's next door: Division (same unit) — sharing undoes multiplying, and the tables check every division.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kazakhstan Grades 2–3; Egypt Grade 3; Greece Grades 2–3; Libya Grade 3; Jordan Grade 3; Armenia Grade 4; Vietnam Grade 3). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

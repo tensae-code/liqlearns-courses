@@ -30,8 +30,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting (Stage 1) — every system in this lesson writes the same counts you already know. Recommended, never forced.
-- Recommended first: Place Value (Stage 1) — the lakh/crore part regroups the places you already know. Recommended, never forced.
+- Recommended first: Counting (Unit 1) — every system in this lesson writes the same counts you already know. Recommended, never forced.
+- Recommended first: Place Value (Unit 1) — the lakh/crore part regroups the places you already know. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Read and write Roman numerals using I, V, X, L, C, D, M with the repetition and subtraction rules, converting both ways up to MMMCMXCIX in the exercises (Laos, Grade 6 student book (2010), L1, printed pp.1–9).

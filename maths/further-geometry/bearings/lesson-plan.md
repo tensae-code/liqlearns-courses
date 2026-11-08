@@ -70,7 +70,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Writes 45° instead of 045° → bearings are always three figures; pad with zeros at the front.
 - Adds 180° and passes 360° → wrap around: subtract 360° (equivalently, subtract 180° when the bearing is already past 180°).
 - Cannot start a travel problem → draw it before calculating: north arrow at each point, legs in order, closing line last. The drawing chooses the rule.
-- This lesson's next door: Three-dimensional trigonometry (same stage) — Jordan teaches the two inside one unit, bearings first.
+- This lesson's next door: Three-dimensional trigonometry (same unit) — Jordan teaches the two inside one unit, bearings first.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Sierra Leone SSS 2 Term 3; Libya Grade 11 Science; Nepal Grade 8 student book; Jordan Grade 10 Term 1; South Sudan Secondary 1). Nepal is cited from its Grade 8 STUDENT book only (Unit 9, printed pp. 77–82): Nepal's Grade 8 guide is a mismatch guide and is cited nowhere in this lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -2,8 +2,8 @@
 
 # Lesson plan — Symmetry
 
-**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Symmetry (lesson 4 of 4 in the stage)
-**Place in the curriculum:** Unit 7, "Shapes and Angles" — the fourth lesson of the stage (maths/CURRICULUM.md). The ladder allows this lesson to be folded into Shapes if its stock proves too thin; the stock proved rich (ten countries), so it stands on its own.
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Symmetry (lesson 4 of 4 in the unit)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the fourth lesson of the unit (maths/CURRICULUM.md). The ladder allows this lesson to be folded into Shapes if its stock proves too thin; the stock proved rich (ten countries), so it stands on its own.
 **The one thing this lesson teaches:** when a shape matches itself — folded over a line, or turned about a point.
 **This lesson's own level:** it stands on the shapes lesson (you cannot count a shape's symmetries until you can name it) and on the angles lesson (a turn is measured in degrees). It needs nothing else.
 
@@ -33,7 +33,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 ## Before this lesson
 - Recommended first: Shapes, then Angles — symmetry is a shape
   matching itself by folding or turning. Recommended, never forced.
-- Reflection and rotation as transformations belong to Stage 9;
+- Reflection and rotation as transformations belong to Unit 9;
   this lesson teaches symmetry itself — the fold test and the turn
   test — and no transformation rules.
 
@@ -106,7 +106,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   → a shape can have rotational symmetry without line symmetry:
   a parallelogram has rotational symmetry of order 2 and no lines
   of symmetry at all.
-- This lesson's next door: Measuring (Stage 8) — the fold test
+- This lesson's next door: Measuring (Unit 8) — the fold test
   needs no measuring, but the turn test is measured in degrees.
 
 ## Teacher note

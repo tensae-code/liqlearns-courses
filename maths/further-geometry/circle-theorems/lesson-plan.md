@@ -4,14 +4,14 @@
 
 **Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Circle theorems
 **Place in the curriculum:** Unit 9, the fifth lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the angles, chords and
 tangents of a circle — the inscribed-angle theorem, the angle
 in a semicircle, the tangent–chord angle, the chord and
 secant products, and cyclic quadrilaterals.
-**This lesson's own level:** it stands on the Stage 7 circles
+**This lesson's own level:** it stands on the Unit 7 circles
 lesson (radius, diameter, circumference, area) and on
-similarity (Stage 9, first lesson: the segment products are
+similarity (Unit 9, first lesson: the segment products are
 proved from similar triangles). It needs nothing else.
 
 ## Sub lessons
@@ -27,7 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: circles (Stage 7), similarity, and the
+- Recommended first: circles (Unit 7), similarity, and the
   sine and cosine rules (the 2R in the sine rule is a circle's
   radius). Recommended, never forced.
 
@@ -91,7 +91,7 @@ A pair of compasses, a ruler, a protractor, paper.
 - Mixes the segment products → inside the circle, chord ×
   chord; outside, whole secant × outside part; tangent
   squared is the tangent's own product.
-- This lesson's next door: coordinates and graphs (Stage 10 —
+- This lesson's next door: coordinates and graphs (Unit 10 —
   the circle gets an equation there in later books, but this
   lesson does not need it).
 

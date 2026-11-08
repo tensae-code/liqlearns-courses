@@ -35,7 +35,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
   length walked round a shape you can name. Recommended, never
   forced.
 - Circle perimeter and area (circumference, πr²) belong to the
-  circles lesson in Stage 7; this lesson works the straight-sided
+  circles lesson in Unit 7; this lesson works the straight-sided
   shapes, and the circles lesson is the companion, not a repeat.
 
 ## What the learner can do when it ends
@@ -105,7 +105,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Forgets the half in the triangle → cut the rectangle in half:
   a triangle is half of its rectangle, so its area is half of
   length × width. The half is the whole point.
-- This lesson's next door: Volume and Surface Area (same stage) —
+- This lesson's next door: Volume and Surface Area (same unit) —
   area grows up into volume, and surface area is area counted
   over a solid's faces.
 

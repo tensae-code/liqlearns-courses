@@ -4,13 +4,13 @@
 
 **Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Transformations
 **Place in the curriculum:** Unit 9, the second lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the four moves that make a
 new shape from an old one — reflection, translation, rotation
 and enlargement (dilation) — written with coordinates, and what
 two moves in a row are worth.
-**This lesson's own level:** it stands on the Stage 7 shapes
-lesson and on coordinates (Stage 10's first lesson is its
+**This lesson's own level:** it stands on the Unit 7 shapes
+lesson and on coordinates (Unit 10's first lesson is its
 near neighbour, but this lesson teaches every coordinate rule
 it needs). It needs nothing else.
 
@@ -27,8 +27,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: shapes and angles (Stage 7), and
-  congruence and similarity (Stage 9, first lesson) — the
+- Recommended first: shapes and angles (Unit 7), and
+  congruence and similarity (Unit 9, first lesson) — the
   moves in this lesson are what make congruent copies and
   similar enlargements. Recommended, never forced.
 

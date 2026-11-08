@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Step and Piecewise Functions
 **Place in the curriculum:** Level 81 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** functions that jump or change their rule — the floor (greatest-integer) function [x], the fractional part {x}, the sign function sgn, step functions, piecewise definitions, and the absolute-value function and its graph.
-**This lesson's own level:** it stands on functions (Stage 10) — what a function is, domain and range, reading a graph — and on the number line work of the earlier stages. It needs nothing else.
+**This lesson's own level:** it stands on functions (Unit 10) — what a function is, domain and range, reading a graph — and on the number line work of the earlier units. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -30,8 +30,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: functions (Stage 10) — domain, range and reading values off a graph are used here without re-teaching. Recommended, never forced.
-- Recommended first: inequalities (Stage 6) — a piecewise rule is chosen by an inequality on x. Recommended, never forced.
+- Recommended first: functions (Unit 10) — domain, range and reading values off a graph are used here without re-teaching. Recommended, never forced.
+- Recommended first: inequalities (Unit 6) — a piecewise rule is chosen by an inequality on x. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Work out [x], the greatest integer not bigger than x, for positive and negative numbers, the way Iran's Grade 11 books teach the floor function (Mathematics and Statistics (2), printed pp.34–44).
@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks {x} can be negative → {x} = x − [x], and [x] never passes x, so {x} is never below 0 and never reaches 1.
 - Uses the wrong rule of a piecewise function → read the break first: which side of the break is the input on? Only that side's rule runs.
 - Flips the absolute-value V the wrong way → the vertex is where the inside is zero; the V opens upward for f(x) = |ax + b| + c as Kuwait teaches it, and the range starts at the vertex height (printed pp.16–32).
-- This lesson's next door: trigonometric functions (same stage) — another family whose graphs repeat, this time smoothly instead of in jumps.
+- This lesson's next door: trigonometric functions (same unit) — another family whose graphs repeat, this time smoothly instead of in jumps.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran Grade 11 — three branch books; Nicaragua Grade 10 student book and self-learning module; Kazakhstan Algebra 9; Laos Grade 10; Kuwait Grade 10 Term 1 for the absolute-value function, with its p.30 caption taught corrected). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the division lesson (a pigeonhole count is a division with a remainder: 7 ÷ 3 = 2 remainder 1). Recommended, never forced.
-- Recommended first: Mathematical logic (Level 100, same stage) and Proof methods (Level 101, same stage) — this principle is a proof tool. Recommended, never forced.
+- Recommended first: Mathematical logic (Level 100, same unit) and Proof methods (Level 101, same unit) — this principle is a proof tool. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. State the plain principle and use it: more things than boxes means some box holds at least two, the way China's Grade 6 book teaches the drawer principle (Unit 5, pp.68–71).
@@ -70,7 +70,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Tries to share unevenly to beat it → share as evenly as you possibly can, on purpose: even the fairest sharing still leaves the remainder with nowhere to go. That is the whole proof.
 - Loses the remainder → write the division out in full, as China does: 7 ÷ 3 = 2 remainder 1. The 2 is what every box can hold; the remainder 1 is the thing that breaks it.
 - Confuses "at least" with "exactly" → the principle gives a floor, not a count: some box holds at least 3 can mean 3, 4 or all 7.
-- This lesson's next door: Problem-solving strategies (Level 104, same stage) — the pigeonhole principle at work as one strategy among many.
+- This lesson's next door: Problem-solving strategies (Level 104, same unit) — the pigeonhole principle at work as one strategy among many.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran, Discrete Mathematics, Grade 12; China, Grade 6 Volume 2; North Macedonia, Grade 8, 2010 edition; Kazakhstan, Grade 8 Algebra — starred, optional additional material as filed). The stock for this lesson is small — four books — and the lesson is built honestly at that size, with no padding. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Constructing triangles and quadrilaterals
 **Place in the curriculum:** Level 61 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** building an exact triangle or quadrilateral from given sides and angles with ruler and compasses — SSS, SAS, ASA and RHS triangles, and the whole quadrilateral family.
-**This lesson's own level:** it stands on Constructions with ruler and compass (Level 60, same stage) — bisection and the special angles. It needs nothing else.
+**This lesson's own level:** it stands on Constructions with ruler and compass (Level 60, same unit) — bisection and the special angles. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: Constructions with ruler and compass (Level 60) — every figure here is built from those arcs. Recommended, never forced.
-- Recommended first: Shapes (same stage) — the learner should already know what makes a rhombus a rhombus before constructing one. Recommended, never forced.
+- Recommended first: Shapes (same unit) — the learner should already know what makes a rhombus a rhombus before constructing one. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Construct a triangle from three sides (SSS) (Sierra Leone, SSS 2, L84, p.103).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - The two arcs for the third corner of an SSS triangle do not meet → the two given sides together are shorter than the base: no triangle exists with those lengths. Check the three lengths first.
 - An SAS triangle comes out the wrong shape → the angle must be the INCLUDED angle, the one between the two given sides (Yemen's five steps put it there, Grade 5 Part 2, p.145).
 - A rhombus construction gives a square instead → a square is the special case: if the given angle is 90° the rhombus is a square. Use a non-right angle for a slanted rhombus.
-- This lesson's next door: Tessellations (same stage, Level 62) — constructed regular shapes are the tiles that fit without gaps.
+- This lesson's next door: Tessellations (same unit, Level 62) — constructed regular shapes are the tiles that fit without gaps.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Grades 7 and 8; Bangladesh Class 8; Yemen Grades 4 and 5; Sierra Leone SSS 2). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

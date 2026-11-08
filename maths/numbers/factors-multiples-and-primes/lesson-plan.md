@@ -3,7 +3,7 @@
 # Lesson plan — Factors-multiples-and-primes
 
 **Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Factors-multiples-and-primes
-**Place in the curriculum:** Level 6, the fifth lesson of Unit 1 — the last lesson of the stage (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 6, the fifth lesson of Unit 1 — the last lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** factors, multiples and prime numbers — what divides a number, what a number divides into, and the numbers with only two factors — with HCF and LCM.
 **This lesson's own level:** it stands on Counting (Level 2) and Multiplication is not needed yet — factors are found by dividing, and dividing here is sharing, which the learner already does with real things. It needs nothing else.
 
@@ -30,8 +30,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting (same stage) — factors are found by counting in steps. Recommended, never forced.
-- A soft hint only: the multiplication tables (Stage 3) make factors faster, but this lesson finds them by sharing and listing.
+- Recommended first: Counting (same unit) — factors are found by counting in steps. Recommended, never forced.
+- A soft hint only: the multiplication tables (Unit 3) make factors faster, but this lesson finds them by sharing and listing.
 
 ## What the learner can do when it ends
 1. List the factors of a number (the factors of 12 are 1, 2, 3, 4, 6, 12).
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Misses a factor of 12 → list factor pairs, not single factors: 1 × 12, 2 × 6, 3 × 4 — each pair gives two factors, and the pairs stop when they meet.
 - Calls 1 prime → 1 has only one factor (itself), so it is neither prime nor composite. Egypt's Grade 5 book says it plainly: 1 is neither.
 - Mixes up HCF and LCM → HCF is the biggest factor they share (it divides both); LCM is the smallest multiple they share (both divide it). Egypt's Grade 5 book teaches choosing between them in word problems.
-- This lesson's next door: Addition (Stage 2) — the next stage starts with adding, and factors return whenever fractions need a common denominator.
+- This lesson's next door: Addition (Unit 2) — the next unit starts with adding, and factors return whenever fractions need a common denominator.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grade 4 and Grade 5; Armenia Grade 5; Jordan Grade 5; Libya Grade 7; Kazakhstan Grade 5; Greece Grade 6; Vietnam Grade 6; South Africa Grades 5–6). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -3,9 +3,9 @@
 # Lesson plan — Monte Carlo and Simulation
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Monte Carlo and Simulation
-**Place in the curriculum:** Level 130 of 136, the fourteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 130 of 136, the fourteenth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** manufacturing chance on purpose — random numbers (from a printed table and from the linear congruential generator), simulation of real experiments with them, and the Monte Carlo idea: estimate a probability by the frequency in a long simulated run — closing with Mendel's pea ratios read as a probability model tested against real counts.
-**This lesson's own level:** it stands on Geometric and Experimental Probability (Level 129, same stage) — a simulation is an experimental probability with the trials manufactured instead of performed. It needs nothing else.
+**This lesson's own level:** it stands on Geometric and Experimental Probability (Level 129, same unit) — a simulation is an experimental probability with the trials manufactured instead of performed. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Geometric and Experimental Probability (Level 129, same stage) — simulation spends its whole life estimating probabilities by frequencies. Recommended, never forced.
-- Recommended first: Probability (Stage 11) — a simulation must copy an experiment's true chances, or it answers a question nobody asked. Recommended, never forced.
+- Recommended first: Geometric and Experimental Probability (Level 129, same unit) — simulation spends its whole life estimating probabilities by frequencies. Recommended, never forced.
+- Recommended first: Probability (Unit 11) — a simulation must copy an experiment's true chances, or it answers a question nobody asked. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a random number and a random digit are for: standing in for the outcomes of a real experiment (Pakistan, Statistics Class 11, Ch. 7, pp.186–196).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Reads the table in clumps that suit the answer → fix the reading rule before starting: direction, grouping, and what each digit means. A rule chosen after seeing the digits is not a simulation, it is a wish.
 - Simulates once and trusts it → one short run is one frequency, with all the wobble of Lesson 129. Monte Carlo earns its name only in long runs.
 - Treats the Mendel reading as a taught theorem → it is filed as a reading: a model (0.25, 0.5, 0.25) held up against real counts. Report it as a reading, exactly as filed.
-- This lesson's next door: Odds (Level 131, same stage) — probability said the bookmaker's way.
+- This lesson's next door: Odds (Level 131, same unit) — probability said the bookmaker's way.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 11, Ch. 7 — random numbers, the congruential generator, Table 7.1 and the PPS ranges; China A edition Compulsory Volume 2 — Monte Carlo at §10.3.2, p.255, and the Mendel reading at pp.259–260, worded as a reading as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

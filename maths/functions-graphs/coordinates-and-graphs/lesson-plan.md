@@ -3,12 +3,12 @@
 
 **Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Coordinates and graphs
 **Place in the curriculum:** Unit 10, the first lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** plotting points on the
 coordinate plane, and straight-line graphs — gradient,
 intercepts, and the equation y = mx + c.
-**This lesson's own level:** it stands on the Stage 7 angles
-lesson and on equations (Stage 6). It needs nothing else.
+**This lesson's own level:** it stands on the Unit 7 angles
+lesson and on equations (Unit 6). It needs nothing else.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees
@@ -25,7 +25,7 @@ Overlap note: the text's gradient part also teaches the parallel and perpendicul
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: equations (Stage 6) — a line's equation
+- Recommended first: equations (Unit 6) — a line's equation
   is an equation in x and y. Recommended, never forced.
 
 ## What the learner can do when it ends

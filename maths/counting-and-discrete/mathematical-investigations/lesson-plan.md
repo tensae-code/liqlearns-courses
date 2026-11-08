@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Mathematical investigations
 **Place in the curriculum:** Level 112 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how to investigate a maths question whose answer is a strategy, not a number — finding a defective product with a balance, spreading a message by a phone-call tree, counting the painted faces of small cubes, and counting the segments on a line of points — each solved by splitting, tabulating and finding the pattern.
-**This lesson's own level:** it stands on the counting lessons of this stage — the learner can already list systematically and count without repeats or omissions. It needs nothing else.
+**This lesson's own level:** it stands on the counting lessons of this unit — the learner can already list systematically and count without repeats or omissions. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting principles (Level 105, this stage) — every investigation here ends in a count done by a pattern. Recommended, never forced.
+- Recommended first: Counting principles (Level 105, this unit) — every investigation here ends in a count done by a pattern. Recommended, never forced.
 - Recommended first: the sequences lessons — the phone tree and the segment counts both grow by a rule the learner must spot. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Loses the phone tree → draw the tree minute by minute and write the totals 1, 2, 4, 8…; the doubling is visible before it is a formula (p.102).
 - Painted-cube counts feel random → sort the small cubes by WHERE they sat: corners, edges, face middles, the very centre; each home has its own paint count (p.44).
 - Segment counting double-counts → fix one endpoint and count from it: from the first point n−1 segments, from the next n−2 new ones, and so on down to 1 (Grade 6 review, pp.100–104).
-- This is the last lesson of Stage 14: the next stage is Stage 15 — Money, Time and Everyday Mathematics.
+- This is the last lesson of Unit 14: the next unit is Unit 15 — Money, Time and Everyday Mathematics.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (China only: Grade 5 second volume and Grade 6 second volume, People's Education Press — the sole source country for this lesson, as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

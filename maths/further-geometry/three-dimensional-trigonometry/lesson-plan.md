@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Cannot see any triangle → put a real stick inside a real box corner. The stick, its shadow on the base, and the vertical edge ARE the triangle. Draw exactly those three.
 - Mixes the two steps → always the same order: length first (Pythagoras on a face), angle second (a ratio in the new triangle). Never reach for a ratio before the triangle exists on paper.
 - Finds an angle to the wrong face → the angle to a face is measured to the line's SHADOW on that face, never to an edge of the solid.
-- This lesson's next door: Bearings (same stage) — Jordan teaches the two side by side, bearings first in the same unit.
+- This lesson's next door: Bearings (same unit) — Jordan teaches the two side by side, bearings first in the same unit.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Jordan Grade 10 Term 1 only — the sole full source for 3-D trigonometry in the read stock). The lesson is deliberately the size the stock supports: one country's one lesson, taught whole, with no invented second source. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

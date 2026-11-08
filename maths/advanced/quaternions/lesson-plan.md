@@ -68,7 +68,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Assumes pq = qp → test it on units: ij = k but ji = −k. Order matters; check every product's order before swapping (China, B-edition Vol. 4, extended reading, pp.47–48).
 - Loses a sign in the table → travel the cycle i → j → k → i for positive products (ij = k, jk = i, ki = j); travel it backwards for the negatives.
 - Expects a bigger theory → there is none in the source: this topic is an extended reading of two pages, filed as an extended reading, and the lesson honestly ends where the reading ends.
-- This lesson's next door: Mathematical Logic (Level 100, Stage 13) — a new stage begins.
+- This lesson's next door: Mathematical Logic (Level 100, Unit 13) — a new unit begins.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (China, B-edition Compulsory Volume 4, Ch.10 extended reading, printed pp.47–48 — the lesson's only source, worded as an extended reading as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

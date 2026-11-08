@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 14 — Counting and Discrete Mathematics · **Lesson:** Latin squares
 **Place in the curriculum:** Level 110 of 136, Unit 14 — Counting and Discrete Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** Latin squares — a square grid where every symbol appears exactly once in each row and each column — how to build them, how to rearrange them, and when two of them are orthogonal.
-**This lesson's own level:** it stands on the counting lessons of this stage — the learner can already arrange and count arrangements. It needs nothing else. This is a small lesson from a single source, and it stays small on purpose.
+**This lesson's own level:** it stands on the counting lessons of this unit — the learner can already arrange and count arrangements. It needs nothing else. This is a small lesson from a single source, and it stays small on purpose.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Counting principles (Level 105, this stage) — a Latin square is an arrangement with a rule. Recommended, never forced.
+- Recommended first: Counting principles (Level 105, this unit) — a Latin square is an arrangement with a rule. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a Latin square is and check a given grid against the rule — each symbol once in every row and every column — the way Iran's Discrete Mathematics book defines it (pp.62–71).
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - A row works but a column repeats → use the shift method exactly: every row is the row above shifted by one, so the columns take care of themselves (Iran, pp.62–71).
 - Confuses "different squares" with "renamed squares" → renaming the symbols (permuting them) does not change the square's pattern; Iran counts it as the same arrangement in a new dress (pp.62–71).
 - Orthogonality check feels messy → write the pairs in a list and sort it; a repeated pair is easy to spot in a sorted list.
-- This lesson's next door: Algebraic structures (Level 111, same stage).
+- This lesson's next door: Algebraic structures (Level 111, same unit).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran, Discrete Mathematics, Grade 12, pp.62–71 — the SOLE source for this lesson, as filed). The lesson is deliberately small: about ten printed pages of one book carry it, and nothing has been padded in from anywhere else. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

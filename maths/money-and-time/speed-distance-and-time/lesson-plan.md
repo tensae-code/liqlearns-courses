@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the ratio-and-proportion lesson and the graphs lesson (a speed is a ratio, and a travel graph is read off axes). Recommended, never forced.
-- Recommended first: Time and Calendars (Level 115, same stage), for hours, minutes and seconds and changing between them. Recommended, never forced.
+- Recommended first: Time and Calendars (Level 115, same unit), for hours, minutes and seconds and changing between them. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Find speed from v = d ÷ t, the way Cambodia's Grade 6 book opens (L14 Speed, pp.95–98: a ship's 120 km in 3 h is 40 km/h).
@@ -75,7 +75,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Averages two speeds → Kazakhstan's rule: add the distances, add the times, then divide once (Grade 6, §47, p.118). The average of the speeds is right only when the two times are equal.
 - Loses the units → write the unit into every line: a speed is never just "40", it is 40 km/h — Cambodia's Grade 8 book treats the compound unit itself as the teaching point (L4, pp.48–49).
 - Reads a flat graph part as "going slowly" → flat means the distance is not changing at all: the traveller is stopped. Laos's Grade 5 graphs (L41–L42) drill exactly this reading.
-- This lesson's next door: Further Statistics (Stage 16) — rates return there as rates of change in data.
+- This lesson's next door: Further Statistics (Unit 16) — rates return there as rates of change in data.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. South Sudan's Primary 8 guide key to Exercise 10 is wrong in 6 of 10 answers and is cited nowhere — this lesson uses the P8 student book only. Cambodia Grade 8's density line is taught corrected: d² = (2×10⁻³ m)² = 4×10⁻⁶ m². Cambodia's population-density row is teacher evidence (its Grade 8 guide adds it; the student book does not carry it) and is worded as such. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

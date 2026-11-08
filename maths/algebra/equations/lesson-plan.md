@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Equations
 **Place in the curriculum:** Level 22 of the maths course — the second lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving equations in one variable — balancing both sides until the unknown stands alone.
-**This lesson's own level:** it stands on expressions (Level 21) and on the four operations (Stages 2–3). It needs nothing else.
+**This lesson's own level:** it stands on expressions (Level 21) and on the four operations (Units 2–3). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Moves 3x across and keeps it +3x → crossing the equals sign changes the sign. +3x on the left becomes −3x on the right. Kazakhstan calls this transposition; South Africa calls it balancing — same move.
 - Solves 0x = 4 and writes x = 4 → 0 times anything is 0, never 4: no root, the solution set is empty. And 0x = 0 has every number as a root.
 - Forgets to check a fraction equation → multiply through first (clear the fractions), then solve, then substitute back. South Africa's worked example: (2x − 1)/4 = 1 gives x = 2½.
-- This lesson's next door: inequalities (same stage) — the same moves, but the sign flips when you multiply or divide by a negative.
+- This lesson's next door: inequalities (same unit) — the same moves, but the sign flips when you multiply or divide by a negative.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

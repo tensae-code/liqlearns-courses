@@ -34,7 +34,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the percentages lesson and the ratio-and-proportion lesson (almost every part of this lesson is a percentage or a sharing in a ratio). Recommended, never forced.
-- Recommended first: the money lesson, Level 113, same stage (notes, coins, paying and change). Recommended, never forced.
+- Recommended first: the money lesson, Level 113, same unit (notes, coins, paying and change). Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Find profit, loss and their percentages from cost price and selling price, the way South Sudan's Primary 4 book starts (Pupil's Book 4, §2.4, pp.51–56) and Sierra Leone's JSS 2 handbook teaches percentage profit and loss (JSS 2 Term 1, L36–L38, pp.93–99).
@@ -85,7 +85,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Finds a percentage of the wrong amount → profit and loss percentages are always on the COST price, as Sierra Leone's JSS 2 handbook states them (L37, p.96); VAT is on the price before VAT, as Nepal's Grade 8 book works it (Unit 16, pp.129–135).
 - Grows compound interest like simple interest → work Cambodia's Grade 8 year-by-year table first (pp.37–38): each new year starts from the grown amount, never from the first principal alone.
 - Cannot rearrange I = PRT/100 → Laos's Grade 9 book and Bangladesh's Class 8 book both drill one unknown at a time; cover the unknown with a finger and read the triangle off.
-- This lesson's next door: Time and Calendars (Level 115, same stage) — the other half of everyday mathematics.
+- This lesson's next door: Time and Calendars (Level 115, same unit) — the other half of everyday mathematics.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. Printed errors are taught corrected and never as fact: Bangladesh Class 8 English p.76 principal 15,000 tk; Nicaragua Grade 10 module compound factor (1.005)¹²⁰; Nepal Grade 3 fruit bill Rs 90; South Sudan Primary 7 bill SSP 1,750 and its other corrected commercial values; Iraq Grade 11 Literary log 0.0253 (its annuity 59,875,000 is log-table rounding, not an error). Ethiopia Grade 12 Unit 5's examples at pp.330 and 380 are unverified by check and are cited nowhere in this lesson. South Sudan Secondary 1 discount and commission are teacher evidence (guide only) and are worded as such. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

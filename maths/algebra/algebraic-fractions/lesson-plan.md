@@ -5,7 +5,7 @@
 
 **Unit:** Algebra (Unit 6). **Level 138** (Malaysia merge, 2026-11-07).
 
-**Why this lesson exists:** Malaysia's Form 2 book teaches algebraic fractions as the closing section of its factorisation chapter: LCM of algebraic terms first, then the fractions. Fractions with numbers are already a lesson (fractions, Stage 4) and partial fractions is a different, later thing (splitting a fraction apart); combining letter-fractions into one fraction had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+**Why this lesson exists:** Malaysia's Form 2 book teaches algebraic fractions as the closing section of its factorisation chapter: LCM of algebraic terms first, then the fractions. Fractions with numbers are already a lesson (fractions, Unit 4) and partial fractions is a different, later thing (splitting a fraction apart); combining letter-fractions into one fraction had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
 
 ## Sub lessons
 The parts of this lesson, in order — the list the learner sees

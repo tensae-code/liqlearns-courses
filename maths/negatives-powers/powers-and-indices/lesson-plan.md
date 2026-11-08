@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Powers and Indices
 **Place in the curriculum:** Level 18 of the maths course — the second lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** powers — writing repeated multiplication short, and the index laws for multiplying, dividing and raising powers, including zero and negative powers.
-**This lesson's own level:** it stands on multiplication (Stage 3) and on negative-numbers (Level 17), which decides the sign of a power of a negative. It needs nothing else.
+**This lesson's own level:** it stands on multiplication (Unit 3) and on negative-numbers (Level 17), which decides the sign of a power of a negative. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Adds indices when multiplying different bases (2³ × 3² = 6⁵) → the laws only join powers with the SAME base. Different bases stay separate.
 - Says 2⁰ = 0 → count down: 2³ = 8, 2² = 4, 2¹ = 2, so 2⁰ = 1. Anything to the power zero is 1.
 - Reads (−2)² as −4 → brackets matter: (−2)² = (−2) × (−2) = 4, but −2² = −(2 × 2) = −4. The minus outside the brackets is not squared.
-- This lesson's next door: roots-and-surds (same stage) — the square root as the undoing of squaring, and the fractional power.
+- This lesson's next door: roots-and-surds (same unit) — the square root as the undoing of squaring, and the fractional power.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

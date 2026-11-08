@@ -3,13 +3,13 @@
 
 **Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Functions
 **Place in the curriculum:** Unit 10, the second lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** functions — what makes a
 relation a function, domain and range, the families (constant,
 linear, quadratic), composite functions, inverse functions and
 piecewise functions.
 **This lesson's own level:** it stands on coordinates and graphs
-(Stage 10, first lesson) and on equations (Stage 6). It needs
+(Unit 10, first lesson) and on equations (Unit 6). It needs
 nothing else.
 
 ## Sub lessons

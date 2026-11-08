@@ -3,9 +3,9 @@
 # Lesson plan — Association of Attributes
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Association of Attributes
-**Place in the curriculum:** Level 123 of 136, the seventh lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 123 of 136, the seventh lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** when the data are qualities, not measurements — literate or not, vaccinated or not — how to lay them in a 2×2 table, test whether the two attributes are independent, measure their association with Yule's Q, run the chi-square test of independence (with Yates' correction), and summarise a bigger table with the contingency coefficient.
-**This lesson's own level:** it stands on Collecting and Showing Data (Stage 11) — tables of counts — and on Hypothesis Testing (Level 121, same stage) for the test's shape: a claim, a statistic, a decision. It needs nothing else.
+**This lesson's own level:** it stands on Collecting and Showing Data (Unit 11) — tables of counts — and on Hypothesis Testing (Level 121, same unit) for the test's shape: a claim, a statistic, a decision. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,9 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Collecting and Showing Data (Stage 11) — an attribute table is a table of counts, and its row and column totals run everything that follows. Recommended, never forced.
-- Recommended first: Hypothesis Testing (Level 121, same stage) — the chi-square test of independence is a hypothesis test: independence is the claim being tested. Recommended, never forced.
-- Recommended first: Correlation and Regression (Level 122, same stage) — the same "are these linked?" question, there for measurements, here for qualities. Recommended, never forced.
+- Recommended first: Collecting and Showing Data (Unit 11) — an attribute table is a table of counts, and its row and column totals run everything that follows. Recommended, never forced.
+- Recommended first: Hypothesis Testing (Level 121, same unit) — the chi-square test of independence is a hypothesis test: independence is the claim being tested. Recommended, never forced.
+- Recommended first: Correlation and Regression (Level 122, same unit) — the same "are these linked?" question, there for measurements, here for qualities. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Sort a population by two attributes into the (A)/(α), (B)/(β) notation and build the 2×2 table, with class frequencies and ultimate frequencies kept apart (Pakistan Statistics Class 12, Ch. 15, pp.215–216).
@@ -78,7 +78,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Uses the test when an expected frequency is tiny → the rule is expected ≥ 5; pool small rows or columns together before computing, or the statistic cannot be trusted (pp.224–232).
 - Asks for the goodness-of-fit test → it is not in this lesson because it is not in the source: Pakistan's Ch. 15 uses χ² only for independence, and the filing records the goodness-of-fit test as absent. Say so plainly rather than borrowing it from elsewhere.
 - Looks for a second full source → there is none: Greece's W11 teaches contingency tables descriptively only (Units 2.5–2.6), with no test and no Q. This lesson is honest about standing on one full source.
-- This lesson's next door: Time Series (Level 124, same stage) — from "are these linked?" to "how does this change over time?"
+- This lesson's next door: Time Series (Level 124, same unit) — from "are these linked?" to "how does this change over time?"
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 12, Ch. 15 — the sole full source: attributes and the 2×2 table, the independence criterion, Yule's Q, the chi-square test of independence with the ≥ 5 rule and Yates' correction, and the contingency coefficient; Greece W11, Units 2.5–2.6 — contingency tables and comparing characteristics across categories, descriptive only, no inference of any kind as filed). One recorded boundary is part of the lesson itself: Pakistan's book teaches no chi-square goodness-of-fit test, and none is claimed anywhere in this lesson. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

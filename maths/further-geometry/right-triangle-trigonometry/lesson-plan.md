@@ -4,13 +4,13 @@
 
 **Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Right-triangle trigonometry
 **Place in the curriculum:** Unit 9, the third lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sine, cosine and tangent
 in a right triangle — naming the sides, using the three ratios
 to find missing sides and angles, the special angles, and
 angles of elevation and depression.
-**This lesson's own level:** it stands on Pythagoras (Stage 8)
-and on similarity (Stage 9, first lesson: the ratios are fixed
+**This lesson's own level:** it stands on Pythagoras (Unit 8)
+and on similarity (Unit 9, first lesson: the ratios are fixed
 because the triangles are similar). It needs nothing else.
 
 ## Sub lessons

@@ -30,8 +30,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Negative Numbers (Stage 1) — the integers family is one ring of this lesson's map. Recommended, never forced.
-- Recommended first: Fractions and Decimals (Stage 1 / Stage 4) — rationals are the family built from fractions. Recommended, never forced.
+- Recommended first: Negative Numbers (Unit 1) — the integers family is one ring of this lesson's map. Recommended, never forced.
+- Recommended first: Fractions and Decimals (Unit 1 / Unit 4) — rationals are the family built from fractions. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Draw the nesting N ⊂ W ⊂ Z ⊂ Q ⊂ R and place any given number in its smallest family (Pakistan, Grade 8, Unit 1, printed pp.1–3).
@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks π = 22/7 exactly → the book stresses π ≈ 22/7 only: 22/7 is a rational close to π, it is not π (Grade 8, Unit 1, pp.1–3).
 - Mixes up the identities → additive identity 0 (adding it changes nothing), multiplicative identity 1 (multiplying changes nothing) — Pakistan's Grade 6 books verify them separately for integers (pp.32–33, 38–39).
 - Assumes every law holds for subtraction too → test it the Grade 6 way: 7 − 3 ≠ 3 − 7, so subtraction is not commutative (Grade 6, pp.32–33).
-- This lesson's next door: the laws become the working tools of Expressions and Equations in Stage 6 — every rearrangement there is one of these laws, named here first.
+- This lesson's next door: the laws become the working tools of Expressions and Equations in Unit 6 — every rearrangement there is one of these laws, named here first.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan (Punjab) Grades 5, 6, 7 and 8 — this lesson's whole filed stock is Pakistan's, as the catch-up plan's source rows give it). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

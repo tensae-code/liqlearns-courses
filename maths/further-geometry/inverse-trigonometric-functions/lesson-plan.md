@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gives an angle outside the range → the inverse always answers with ONE angle, inside its range. Check the answer against the range first, before any working.
 - Thinks arcsin(sin x) is always x → it is x only when x already sits inside the restricted domain; outside it, the answer folds back into the range. Nicaragua's book stresses exactly this point (printed pp. 133–141).
 - Cannot start cos(arcsin x) → draw the triangle: hypotenuse 1, opposite x, third side by Pythagoras. The picture does the work.
-- This lesson's next door: Trigonometric equations (same stage) — the inverses are how its answers are written down.
+- This lesson's next door: Trigonometric equations (same unit) — the inverses are how its answers are written down.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Nicaragua Grade 10; Armenia Grade 10; Laos Grade 12; Cambodia Grade 12 Advanced). Cambodia's part is worded exactly as filed: its §3.2 (printed p. 54) is filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book — so this lesson claims no detail from Cambodia beyond the placement itself. Book correction carried here: Nicaragua's Grade 10 exercise "y = 2 sen⁻¹(x + 4)" (printed p. 141) is impossible as printed — arcsine needs an argument in [−1, 1] — and is taught corrected as y = 2 sen⁻¹ x + 4. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

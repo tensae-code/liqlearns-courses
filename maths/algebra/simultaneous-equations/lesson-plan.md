@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Substitutes and gets a mess → express the easy variable first — the one alone, or with coefficient 1. Kazakhstan's example expresses x = 7 − 5y for exactly this reason.
 - Eliminates and loses a sign → when you subtract equations, every sign in the subtracted equation flips. Add when the terms are opposites; subtract when they are the same.
 - Gets 0 = 5 → the system has no solution: the lines are parallel and never meet. Gets 0 = 0 → infinitely many solutions: the two equations are the same line.
-- This lesson's next door: quadratic-equations (same stage) — where one of the equations can be a curve, and the pair still has to fit both.
+- This lesson's next door: quadratic-equations (same unit) — where one of the equations can be a curve, and the pair still has to fit both.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

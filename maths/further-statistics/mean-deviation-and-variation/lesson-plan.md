@@ -3,9 +3,9 @@
 # Lesson plan — Mean Deviation and Variation
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Mean Deviation and Variation
-**Place in the curriculum:** Level 127 of 136, the eleventh lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 127 of 136, the eleventh lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring spread around the centre — mean deviation, quartile deviation, variance and standard deviation — and comparing spreads fairly with the coefficient of variation, with the two variance conventions (divide by n, divide by n − 1) shown side by side, each with its country's name on it.
-**This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Quartiles, Percentiles and Box Plots (Level 126, same stage) — the learner can already find a mean, a median and quartiles. It needs nothing else.
+**This lesson's own level:** it stands on Averages and Spread (Unit 11) and on Quartiles, Percentiles and Box Plots (Level 126, same unit) — the learner can already find a mean, a median and quartiles. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Averages and Spread (Stage 11) — every measure here is a distance from a mean or a median. Recommended, never forced.
-- Recommended first: Quartiles, Percentiles and Box Plots (Level 126, same stage) — quartile deviation is built from Q1 and Q3. Recommended, never forced.
+- Recommended first: Averages and Spread (Unit 11) — every measure here is a distance from a mean or a median. Recommended, never forced.
+- Recommended first: Quartiles, Percentiles and Box Plots (Level 126, same unit) — quartile deviation is built from Q1 and Q3. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say why the same mean can hide very different spreads, the way Bangladesh's Class 9 book opens the topic: two batsmen both average 53, yet their scores spread very differently (Bangladesh, Class 9, Ch. 9, pp.212–214).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Divides a sample by the wrong number → ask first: "Whose rule am I following?" Pakistan's book divides by n both times; Laos's book divides a sample by n − 1. Neither is a mistake — they are two countries' conventions, and the lesson keeps both names attached.
 - Compares standard deviations of sets with very different means → that is what the coefficient of variation is for: spread as a percentage of the mean.
 - Repeats the book's 1983 → Pearson's year is 1893, taught corrected; the printed 1983 is a book error.
-- This lesson's next door: Moments, Skewness and Kurtosis (Level 128, same stage) — spread measured to higher powers.
+- This lesson's next door: Moments, Skewness and Kurtosis (Level 128, same unit) — spread measured to higher powers.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Bangladesh Class 9 — with its p.223 year taught corrected as 1893, its English-only p.225 dispersion claim taught corrected, and quartile deviation never cited to it because the book only names it on p.211; Laos Grade 9 — the sample-variance n − 1 convention; Pakistan Statistics Class 11 — quartile deviation, the coefficients, and its own divide-by-n convention for both population and sample variance). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Platonic solids and Euler's formula
 **Place in the curriculum:** Level 63 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the five regular polyhedra — tetrahedron, cube, octahedron, dodecahedron, icosahedron — and the law that ties every such solid together: vertices + faces − edges = 2.
-**This lesson's own level:** it stands on Shapes (same stage) and on the solids work in Measuring — the learner can count faces, edges and vertices of a solid. It needs nothing else.
+**This lesson's own level:** it stands on Shapes (same unit) and on the solids work in Measuring — the learner can count faces, edges and vertices of a solid. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Shapes (same stage) — a face of a solid is a polygon. Recommended, never forced.
+- Recommended first: Shapes (same unit) — a face of a solid is a polygon. Recommended, never forced.
 - Recommended first: Tessellations (Level 62) — the regular faces here are the shapes that tiled the plane there. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - The counts will not give 2 → an edge where two faces meet has been counted twice or a hidden vertex missed. Turn the solid slowly and mark each edge with a pencil dot as you count it.
 - A net will not fold into the solid → two faces overlap in the net: move one flap to a different edge of its neighbour — the books' nets put flaps on different edges for this reason.
 - The learner finds a 'sixth' regular solid → test it: its faces must all be the same regular polygon AND the same number must meet at every vertex, with face angles summing to less than 360° at each vertex. The candidate always fails one test.
-- This lesson ends Stage 7's new lessons; its next door is Stage 8 — Measuring (Level 64, Scale drawing and maps).
+- This lesson ends Unit 7's new lessons; its next door is Unit 8 — Measuring (Level 64, Scale drawing and maps).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Nicaragua Grade 10; China A and B editions; Armenia Geometry 10; Greece Chapter 13; South Africa Grade 8 and Grade 9 workbooks). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

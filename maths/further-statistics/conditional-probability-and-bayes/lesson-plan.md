@@ -3,9 +3,9 @@
 # Lesson plan — Conditional Probability and Bayes' Theorem
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Conditional Probability and Bayes' Theorem
-**Place in the curriculum:** Level 117 of 136, the first lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 117 of 136, the first lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the chance of one event *given* that another has happened — P(A|B) — and how to turn a conditional probability around with Bayes' theorem.
-**This lesson's own level:** it stands on Probability (Stage 11) — sample spaces, events, P(A) = favourable / total, the addition and multiplication laws. It needs nothing else.
+**This lesson's own level:** it stands on Probability (Unit 11) — sample spaces, events, P(A) = favourable / total, the addition and multiplication laws. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Probability (Stage 11) — sample spaces, events and the two laws. Recommended, never forced.
-- Recommended first: the sets lesson (Stage 11) — A∩B and A∪B are set language. Recommended, never forced.
+- Recommended first: Probability (Unit 11) — sample spaces, events and the two laws. Recommended, never forced.
+- Recommended first: the sets lesson (Unit 11) — A∩B and A∪B are set language. Recommended, never forced.
 - Nothing here needs a distribution — that is the next lesson's home (Level 118).
 
 ## What the learner can do when it ends
@@ -75,7 +75,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks the second draw has the same chance as the first → the bag has changed. Sierra Leone's tree lessons (L105–L106) exist for exactly this: draw the tree and make the second fractions different numbers.
 - Mixes up P(A|B) and P(B|A) → they are different questions. Kuwait's Grade 10 book works a pair side by side: P(B|A) = 2/3 while P(A|B) = 1/3 (Ex (10), p.202). Bayes' theorem is the machine that swaps them — never swap them by hand.
 - Adds where it should multiply along a branch → along one branch of a tree you multiply; across the ends that give the same final result you add. That one sentence is the whole of total probability.
-- This lesson's next door: Random Variables and Distributions (Level 118, same stage) — a number tied to each outcome, and the named distributions.
+- This lesson's next door: Random Variables and Distributions (Level 118, same unit) — a number tied to each outcome, and the named distributions.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grades 10 and 11; Egypt Statistics Grade 12; Cambodia Grade 11 Basic, Grade 11 Advanced and the PRIVATE Khem Putthi Probability booklet — PRIVATE, not MoEYS, labelled wherever cited; Greece Grade 12 EPAL; Kazakhstan Shynybekov Algebra 9; Nicaragua Grade 11; Iraq Grades 9 and 11 Scientific; Sierra Leone SSS 3 — tree diagrams only, no P(A|B) notation there, as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

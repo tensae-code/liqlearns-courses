@@ -2,8 +2,8 @@
 
 # Lesson plan — Shapes
 
-**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Shapes (lesson 1 of 4 in the stage)
-**Place in the curriculum:** Unit 7, "Shapes and Angles" — the first lesson of the stage (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** 7, Shapes and Angles · **Lesson:** Shapes (lesson 1 of 4 in the unit)
+**Place in the curriculum:** Unit 7, "Shapes and Angles" — the first lesson of the unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** naming flat shapes by their sides and corners, and sorting triangles and quadrilaterals into their kinds.
 **This lesson's own level:** it stands on counting and on measuring length (a side is a length). It needs nothing else.
 
@@ -107,7 +107,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes rhombus and square → a rhombus has four equal sides but
   its angles are not right angles; a square is a rhombus with
   right angles. The square sits in both families.
-- This lesson's next door: Angles (same stage) — the corner
+- This lesson's next door: Angles (same unit) — the corner
   measure every shape name leans on.
 
 ## Teacher note

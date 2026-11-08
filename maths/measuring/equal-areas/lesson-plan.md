@@ -32,8 +32,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Perimeter and Area (same stage) — equal areas are proved with the triangle and parallelogram area formulas. Recommended, never forced.
-- Recommended first: Estimating Areas (same stage) — there the areas were close but estimated; here they are exactly equal. Recommended, never forced.
+- Recommended first: Perimeter and Area (same unit) — equal areas are proved with the triangle and parallelogram area formulas. Recommended, never forced.
+- Recommended first: Estimating Areas (same unit) — there the areas were close but estimated; here they are exactly equal. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what "equivalent" means in Yemen's Grade 8 book: two shapes are equivalent if they have EQUAL AREA — tested first by counting unit squares on a grid (Yemen, Grade 8 Part 2 student book, Unit 7, lesson 7-7, printed p.87).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Reads "equivalent" as "congruent" or "identical" → Yemen's checker-corrected point: in these lessons equivalent means EQUAL AREA only. A long thin triangle and a fat one can be equivalent while sharing not one equal side.
 - Slides the vertex off the parallel line → the height changes the moment the vertex leaves the line through it parallel to the base. The line is the whole machine: on it, height is fixed; off it, nothing is promised.
 - Uses the slant side as a parallelogram's height → the height is the perpendicular distance between the base and the parallel line, never the slant. Slant grows as the shape leans; the area does not.
-- This lesson's next door: Cavalieri's Principle (same stage) — the same idea grown into three dimensions: equal slices, equal volumes.
+- This lesson's next door: Cavalieri's Principle (same unit) — the same idea grown into three dimensions: equal slices, equal volumes.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Yemen, Grade 8 Part 2 student book, Unit 7, lessons 7-7 and 7-8, printed pp.87–94 — the sole source; "equivalent" is taught there as equal area, NOT congruence). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

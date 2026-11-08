@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Perimeter and Area (same stage) — an estimate is judged against the exact areas of rectangles and triangles. Recommended, never forced.
-- Recommended first: Scale Drawing and Maps (same stage) — the shapes whose areas are estimated are usually met on maps and plans first. Recommended, never forced.
+- Recommended first: Perimeter and Area (same unit) — an estimate is judged against the exact areas of rectangles and triangles. Recommended, never forced.
+- Recommended first: Scale Drawing and Maps (same unit) — the shapes whose areas are estimated are usually met on maps and plans first. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Estimate an irregular area by counting squares on grid paper, counting whole squares and joining part squares into whole ones (South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.21–24).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Uses uneven strips in the rules → both rules demand EQUAL strip widths. Measure the whole width, choose the number of strips, and divide evenly before any ordinate is measured.
 - Doubles the first and last ordinates in the trapezium rule → the ends are counted ONCE; only the middle ordinates are doubled. The ends are the two sides the trapeziums share with nothing.
 - Expects the three methods to agree exactly → they will not, and they should not: each is an estimate of a curved edge by straight pieces. Close answers that agree roughly are the sign the work is right.
-- This lesson's next door: Equal Areas (same stage) — from estimating areas to proving two different shapes hold exactly the same area.
+- This lesson's next door: Equal Areas (same unit) — from estimating areas to proving two different shapes hold exactly the same area.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (South Sudan, Secondary Mathematics Student's Book 4, Unit 2, printed pp.20–29 — the sole source; the S4 Additional book does not teach area estimation). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

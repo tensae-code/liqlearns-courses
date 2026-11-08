@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks "or" always shuts the other one out → the books keep two ors apart: ∨ allows both, and the exclusive or is its own connective (Laos, Ch.I L1, pp.1–13).
 - Gets p⇒q wrong → it is false in exactly one row: p true and q false. Every other row is true (Iraq, Ch.1 §1-2, pp.4–20; Laos, Ch.I L1).
 - Negates "all" as "none" → the negation of ∀ is ∃ with the inside negated: "not all" means "there is one that is not" (Laos, Ch.I L3, p.20; Iran, Statistics and Probability, Ch.1, p.13).
-- This lesson's next door: Proof Methods (Level 101, same stage) — valid arguments built from these connectives.
+- This lesson's next door: Proof Methods (Level 101, same unit) — valid arguments built from these connectives.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Laos Grade 10; Armenia Grades 11–12; Iraq Grade 10 Scientific; Greece Grade 10; Cambodia Grade 10 Part 1; Yemen Grade 10 Part 1; Sierra Leone SSS 2 Term 1; Iran Grade 11 Statistics and Probability and Mathematics and Statistics (2); Vietnam Grade 10 Volume 1; Kazakhstan Grade 1). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

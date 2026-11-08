@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Coordinate Geometry
 **Place in the curriculum:** Level 80 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** coordinate geometry past plotting — the section formula for a point dividing a segment inside or outside, the shortest distance from a point to a line, proving shapes with coordinates, and the equation of a circle.
-**This lesson's own level:** it stands on coordinates and graphs (Stage 10) — plotting points, distance between two points, midpoint and slope — and on the circle work of the geometry stages. It needs nothing else.
+**This lesson's own level:** it stands on coordinates and graphs (Unit 10) — plotting points, distance between two points, midpoint and slope — and on the circle work of the geometry units. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -33,8 +33,8 @@ Old depth Level 3 splits across the text: its external-division part is Sub less
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: coordinates and graphs (Stage 10) — distance, midpoint and slope are used here without re-teaching. Recommended, never forced.
-- Recommended first: Pythagoras (Stage 8) — the distance formula and the point-to-line distance both rest on it. Recommended, never forced.
+- Recommended first: coordinates and graphs (Unit 10) — distance, midpoint and slope are used here without re-teaching. Recommended, never forced.
+- Recommended first: Pythagoras (Unit 8) — the distance formula and the point-to-line distance both rest on it. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Find the point that divides a segment internally in a given ratio, the way Kuwait's Grade 10 Term 2 book teaches internal division (Unit 9, section 9-2, printed pp.124–130).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gets a negative length for a distance → a distance is the size of the answer, never its sign: take the value without the minus sign, as Jordan's lesson does.
 - Tries to prove a rectangle with slopes alone → a coordinate proof needs the right test for the right claim: equal diagonals for a rectangle, equal sides for a rhombus, both for a square (Jordan, Grade 9, printed p.177).
 - Cannot read a centre from x² + y² + 6x − 4y + 4 = 0 → complete the square on x and on y separately, the way South Sudan's book does (printed pp.30–40); the centre hides in the two brackets.
-- This lesson's next door: conic sections (Stage 12) — the circle here is the first conic; the parabola, ellipse and hyperbola wait there.
+- This lesson's next door: conic sections (Unit 12) — the circle here is the first conic; the parabola, ellipse and hyperbola wait there.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Jordan Grade 9 Term 1 and Grade 10 Term 1; Kuwait Grade 10 Term 2; Ethiopia Grade 10 student book — its Grade 10 guide does NOT cover §7.5, so the circle rests on the student book only; South Sudan Secondary 4; Laos Grade 9; Iran Geometry (3) and Mathematics (3)). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

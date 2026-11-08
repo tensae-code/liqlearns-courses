@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Measuring (Stage 8) — a measurement must exist before its error can be talked about. Recommended, never forced.
+- Recommended first: Measuring (Unit 8) — a measurement must exist before its error can be talked about. Recommended, never forced.
 - Recommended first: rounding and percentages — percentage error is a percentage, and degree of accuracy is rounding with a reason. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -68,7 +68,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gives a negative error → an error is a size of a gap; it is never negative. Take the gap, not the direction.
 - Divides by the measured value instead of the true value → relative error is measured against the true value: the true value is the standard the measure is judged by.
 - Thinks a rounded value is exact → a value rounded to the nearest cm can be up to half a cm out. The last place kept sets the biggest possible error: half of that place.
-- This lesson's next door: Temperature and Traditional Measures (same stage) — measuring heat, and the measures people used before standard units.
+- This lesson's next door: Temperature and Traditional Measures (same unit) — measuring heat, and the measures people used before standard units.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kazakhstan, Shynybekov Algebra 7 and Yelemessov Algebra 7; Sierra Leone, SSS 2 Pupils' Handbook). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

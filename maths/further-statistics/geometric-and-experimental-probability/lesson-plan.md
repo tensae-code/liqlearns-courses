@@ -3,9 +3,9 @@
 # Lesson plan — Geometric and Experimental Probability
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Geometric and Experimental Probability
-**Place in the curriculum:** Level 129 of 136, the thirteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 129 of 136, the thirteenth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** two more ways a probability is born — from measure (a favourable length, area or volume over the whole: geometric probability) and from trials (a relative frequency that settles as trials multiply: experimental, or statistical, probability).
-**This lesson's own level:** it stands on Probability (Stage 11) — equally likely outcomes counted as m/n — and needs nothing else; area and length come from the measuring lessons it recommends.
+**This lesson's own level:** it stands on Probability (Unit 11) — equally likely outcomes counted as m/n — and needs nothing else; area and length come from the measuring lessons it recommends.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Probability (Stage 11) — geometric probability is the counting rule m/n with lengths and areas doing the counting. Recommended, never forced.
-- Recommended first: Perimeter and Area (Stage 8) — the favourable part and the whole must both be measured before they can be divided. Recommended, never forced.
+- Recommended first: Probability (Unit 11) — geometric probability is the counting rule m/n with lengths and areas doing the counting. Recommended, never forced.
+- Recommended first: Perimeter and Area (Unit 8) — the favourable part and the whole must both be measured before they can be divided. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. State geometric probability in all three measures — length, area and volume — as favourable measure ÷ whole measure (Kazakhstan, Abylkasymova et al., Algebra 9, §32, p.113).
@@ -75,7 +75,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Divides areas the wrong way up → the probability can never pass 1; if your answer does, the favourable part is sitting on top. Turn it over.
 - Expects a frequency to equal the probability after twenty tosses → frequencies settle, they do not snap. Soltan's coin series is still moving at 100 tosses (0.49) and only steadies by 250 (0.508) — that wobble is the lesson, not an error.
 - Cites Yelemessov for the frequency definition → that book has none, as filed; the frequency definition here stands on Shynybekov, Abylkasymova, Soltan and Nicaragua.
-- This lesson's next door: Monte Carlo and Simulation (Level 130, same stage) — frequencies manufactured on purpose, by random numbers.
+- This lesson's next door: Monte Carlo and Simulation (Level 130, same unit) — frequencies manufactured on purpose, by random numbers.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kazakhstan's four Grade 9 algebra books — Yelemessov for geometric probability only, its lack of a statistical definition recorded; Shynybekov, Abylkasymova and Soltan for both kinds; Jordan Grade 9 Term 2; Nicaragua Grade 10). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -3,9 +3,9 @@
 # Lesson plan — Time Series
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Time Series
-**Place in the curriculum:** Level 124 of 136, the eighth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 124 of 136, the eighth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a time series — values recorded in time order — pulled apart into its four components (trend, seasonal, cyclical, irregular), with the trend measured four ways (freehand, semi-averages, moving averages, least squares) and seasonal indices found by simple averages.
-**This lesson's own level:** it stands on Averages and Spread (Stage 11) and on Correlation and Regression (Level 122, same stage) — means, and the least-squares line, are already in the learner's hands. It needs nothing else.
+**This lesson's own level:** it stands on Averages and Spread (Unit 11) and on Correlation and Regression (Level 122, same unit) — means, and the least-squares line, are already in the learner's hands. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,9 +31,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Averages and Spread (Stage 11) — semi-averages and moving averages are means of pieces of the series. Recommended, never forced.
-- Recommended first: Correlation and Regression (Level 122, same stage) — the least-squares trend is the regression line with time as x. Recommended, never forced.
-- Recommended first: Collecting and Showing Data (Stage 11) — a time series is first of all a graph against time, Pakistan's historigram. Recommended, never forced.
+- Recommended first: Averages and Spread (Unit 11) — semi-averages and moving averages are means of pieces of the series. Recommended, never forced.
+- Recommended first: Correlation and Regression (Level 122, same unit) — the least-squares trend is the regression line with time as x. Recommended, never forced.
+- Recommended first: Collecting and Showing Data (Unit 11) — a time series is first of all a graph against time, Pakistan's historigram. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a time series is and draw its graph, the historigram, the way Pakistan's Statistics Class 12 book opens with the census populations of Pakistan, 1951–1998 (Ch. 16, p.241).
@@ -80,7 +80,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Loses the ends with moving averages → that is the method, not a mistake: a 3-term moving average has no value at the first or last point, and an even period must be centred before it lines up with a time point (Pakistan, pp.250–253).
 - Fits least squares with the raw years → code the time first: with the middle year as 0, Σx = 0 and the formulas shrink to a = ȳ, b = Σxy/Σx² (Pakistan, pp.253–261).
 - Looks for a seasonal index in Pakistan's chapter → it is not there: Pakistan measures trend only, as filed. The seasonal indices in this lesson are Libya's (Ch. 3, pp.59–88).
-- This lesson's next door: Index Numbers (Level 125, same stage) — another way of comparing values across time, against a base year.
+- This lesson's next door: Index Numbers (Level 125, same unit) — another way of comparing values across time, against a base year.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Statistics Class 12, Ch. 16 — trend only, no seasonal index computed there, as filed; Libya Grade 12 Statistics, Humanities — the seasonal indices by simple averages; Greece EPAL Business Statistics, Grade 11 — components and the linear trend for business use; Jordan Grade 12 Business Mathematics, Term 2 — time series and variance in time series; Iran Mathematics and Statistics (2), Grade 11 — the time-series lesson filed "for study", worded as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

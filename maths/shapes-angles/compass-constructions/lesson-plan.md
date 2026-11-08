@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 7 — Shapes and Angles · **Lesson:** Constructions with ruler and compass
 **Place in the curriculum:** Level 60 of 136, Unit 7 — Shapes and Angles (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** drawing exact figures — bisected segments and angles, perpendiculars, parallels and the special angles — with only a ruler and a pair of compasses, and being able to say why each arc is drawn.
-**This lesson's own level:** it stands on Shapes and Angles (same stage) — the learner can name angles and lines. It needs nothing else.
+**This lesson's own level:** it stands on Shapes and Angles (same unit) — the learner can name angles and lines. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Shapes and Angles (same stage) — a construction names the angle or line it makes. Recommended, never forced.
+- Recommended first: Shapes and Angles (same unit) — a construction names the angle or line it makes. Recommended, never forced.
 - A protractor may check a finished construction, the way Sierra Leone's book checks a bisected angle — it never replaces the compass steps.
 
 ## What the learner can do when it ends
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - The arcs do not cross → the compass opening was smaller than half the segment. Sierra Leone's rule in practice: open the compass to MORE than half, keep that opening for both arcs.
 - The two halves of a bisected angle measure differently → the first arc must cut BOTH sides at the same opening, and the two inner arcs must use one equal opening. Start again and keep the openings fixed.
 - The construction looks right but the reason is missing → go back to Armenia's stages (Geometry 7, Ch.II §10, §17): say what is given, what is to be made, then the steps, then why it works.
-- This lesson's next door: Constructing triangles and quadrilaterals (same stage, Level 61) — these same arcs build whole figures.
+- This lesson's next door: Constructing triangles and quadrilaterals (same unit, Level 61) — these same arcs build whole figures.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Sierra Leone SSS 2; Laos Grade 6; Iran Geometry (1); Armenia Geometry 7; Pakistan Grade 6; Bangladesh Class 7; Kuwait Grade 7 Term 2). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

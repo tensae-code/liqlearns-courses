@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Trigonometric Functions
 **Place in the curriculum:** Level 82 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the trigonometric functions of any angle — sine, cosine, tangent and their partners cotangent, secant and cosecant as functions: their signs by quadrant, their graphs, period, amplitude and phase, and sinusoidal models of things that rise and fall.
-**This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) — sine, cosine and tangent of an acute angle — and on functions (Stage 10) and radian measure. It needs nothing else.
+**This lesson's own level:** it stands on right-triangle trigonometry (Unit 9) — sine, cosine and tangent of an acute angle — and on functions (Unit 10) and radian measure. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -30,9 +30,9 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: right-triangle trigonometry (Stage 9) — the ratios in a right-angled triangle become functions of any angle here. Recommended, never forced.
-- Recommended first: radian measure (Stage 9) — the books graph these functions in radians. Recommended, never forced.
-- Recommended first: functions (Stage 10) — domain, range and reading a graph are used here without re-teaching. Recommended, never forced.
+- Recommended first: right-triangle trigonometry (Unit 9) — the ratios in a right-angled triangle become functions of any angle here. Recommended, never forced.
+- Recommended first: radian measure (Unit 9) — the books graph these functions in radians. Recommended, never forced.
+- Recommended first: functions (Unit 10) — domain, range and reading a graph are used here without re-teaching. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Give the sine, cosine and tangent of an angle of any size, and name the sign of each function in each quadrant, the way Iraq's Grade 11 Scientific book organises the circular functions (Chapter 4, printed pp.54–103).
@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes up which functions are positive in a quadrant → one picture holds it: in each quadrant name the one family that is positive there and let the other two be negative (Iraq's signs-by-quadrant table).
 - Reads the period of sin(2x) as 2π → the c inside squeezes the wave: the period is 2π/c, so sin(2x) finishes its wave in π (Pakistan, Unit 11).
 - Looks for a value of tan(π/2) → there is none: the tangent's graph runs off to its asymptote there — Ethiopia's book marks the asymptotes at odd multiples of π/2 (Unit 4).
-- This lesson's next door: trigonometric identities and trigonometric equations (Stage 9's later lessons, built as catch-up) — the functions here get their formulas and their solving there.
+- This lesson's next door: trigonometric identities and trigonometric equations (Unit 9's later lessons, built as catch-up) — the functions here get their formulas and their solving there.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (China B-edition Compulsory Volume 3, with its teacher guide as teacher evidence; Pakistan Class 11; Iraq Grade 10 and Grade 11 Scientific; Greece Algebra B' Lykeiou; Iran Hesaban (2); Vietnam Toán 11 Volume 1; Ethiopia Grade 10; South Sudan Secondary 4 — with Iraq's Grade 10 calculator value taught corrected). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -3,14 +3,14 @@
 
 **Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Sequences and series
 **Place in the curriculum:** Unit 10, the third lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sequences — arithmetic
 (add the same) and geometric (multiply by the same) — their
 nth terms, and series: the sums, including the infinite
 geometric sum.
-**This lesson's own level:** it stands on functions (Stage 10,
+**This lesson's own level:** it stands on functions (Unit 10,
 second lesson: a sequence is a function of position) and on
-powers (Stage 5: the geometric term uses powers). It needs
+powers (Unit 5: the geometric term uses powers). It needs
 nothing else.
 
 ## Sub lessons
@@ -86,7 +86,7 @@ Paper, a pencil, a calculator for the powers.
 - Thinks an infinite sum must be infinite → if the terms
   shrink fast enough (|r| < 1), the sum settles; 1/2 + 1/4 +
   1/8 + … never passes 1.
-- This lesson's next door: Stage 11, statistics and
+- This lesson's next door: Unit 11, statistics and
   probability — sequences return there as patterns in data.
 
 ## Teacher note

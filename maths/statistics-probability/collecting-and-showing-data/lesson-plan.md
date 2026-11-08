@@ -3,7 +3,7 @@
 # Lesson plan — Collecting and Showing Data
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 43 of 52
-**Place in the curriculum:** Stage 11, the second lesson of the stage (CURRICULUM.md).
+**Place in the curriculum:** Unit 11, the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** collecting data and showing it — tables, pictograms, bar charts, pie charts and histograms, and choosing the right display
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -64,7 +64,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Draws a bar chart for continuous numbers → bars that touch are a histogram; bars with gaps are for separate categories. Ask: are the groups separate things, or slices of one line?
 - Forgets the pie must add to 360° → the sectors are shares of one whole: each sector angle is its fraction of the whole times 360°.
 - Reads a chart without its key → a pictogram's key says what one picture stands for; without the key the picture counts nothing.
-- This lesson's next door: averages and spread (same stage) — the tables you build here are what the averages are taken from.
+- This lesson's next door: averages and spread (same unit) — the tables you build here are what the averages are taken from.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

@@ -62,7 +62,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Forgets the + C → an indefinite integral is a family of functions, all the same up to a constant: the + C is part of the answer.
 - Mixes the bounds in a definite integral → the definite integral is F(upper) − F(lower): upper first, lower taken away.
 - Picks the wrong method → substitution when you can see the inner derivative; parts when you see a product; partial fractions when you see a fraction that splits.
-- This lesson's next door: differential equations (same stage) — the last lesson uses integrals to solve equations that hold a derivative.
+- This lesson's next door: differential equations (same unit) — the last lesson uses integrals to solve equations that hold a derivative.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

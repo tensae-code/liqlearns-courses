@@ -63,7 +63,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes the average rate with the instantaneous rate → the average rate is over an interval; the instantaneous rate is at one point, when the interval shrinks to nothing.
 - Forgets the chain rule's inner derivative → differentiate the outside, then multiply by the derivative of the inside; the inside is never left undifferentiated.
 - Sets the derivative to zero and stops → a zero derivative is a candidate for a maximum or a minimum, not the answer: check what happens on each side.
-- This lesson's next door: integrals (same stage) — the next lesson runs differentiation backwards.
+- This lesson's next door: integrals (same unit) — the next lesson runs differentiation backwards.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

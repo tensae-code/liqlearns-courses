@@ -63,7 +63,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Reads log as a number to multiply by → the log is a POWER: log₂ 8 = 3 because 2³ = 8. Always ask "2 to what power is 8?"
 - Adds logs instead of multiplying inside → log(ab) = log a + log b: the plus outside is a times inside. Say it as "plus outside, times inside".
 - Forgets a log needs a positive number inside → you cannot take the log of zero or a negative number; the books never do.
-- This lesson's next door: complex numbers (same stage) — the next lesson asks what happens when even logs and powers cannot solve an equation.
+- This lesson's next door: complex numbers (same unit) — the next lesson asks what happens when even logs and powers cannot solve an equation.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

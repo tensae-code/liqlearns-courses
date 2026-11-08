@@ -32,8 +32,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Measuring (Stage 8) — temperature is one more measure with its own units, and traditional measures are the non-standard units that lesson begins with. Recommended, never forced.
-- Errors and Accuracy (Level 68, same stage) is a helpful neighbour — body measures differ from person to person, which is exactly an accuracy problem. Recommended, never forced.
+- Recommended first: Measuring (Unit 8) — temperature is one more measure with its own units, and traditional measures are the non-standard units that lesson begins with. Recommended, never forced.
+- Errors and Accuracy (Level 68, same unit) is a helpful neighbour — body measures differ from person to person, which is exactly an accuracy problem. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Read a thermometer in degrees Celsius and say what the reading means against the fixed points — ice melting at 0 °C, water boiling at 100 °C (South Africa, Grade 5 Workbook 2, WS94–95; Grade 6 Workbook 2, WS85–86).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Gets a Fahrenheit answer below the Celsius one for a warm day → above −40 the Fahrenheit number is always the bigger one for warm temperatures; 50 °C is 122 °F, never 90 °F.
 - Counts body units and expects everyone to agree → that disagreement is the lesson: your span is yours alone. Standard units exist so the answer is the same for everyone.
 - Mixes the two Nepali land systems → ropani/aana/paisa/daam belong together; katha/dhur belong together. Do not cross them.
-- This lesson's next door: Projections and Views (same stage) — from measuring things to drawing them.
+- This lesson's next door: Projections and Views (same unit) — from measuring things to drawing them.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Nepal, Grades 4 and 9; South Africa, Grades 5–7 workbooks; South Sudan, Pupil's Books 5 and 7 — student books only; Mauritania, 5AS-LO and 6AS-LO; Nicaragua, Grades 1 and 4; Kazakhstan, Grade 5; Laos, Grade 5). The conversion formulas are taught as the South Sudan student books print them — correctly, with the 32. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

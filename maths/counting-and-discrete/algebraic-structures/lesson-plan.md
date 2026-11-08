@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: the sets lesson and the relations lesson (Levels in the earlier stages; a structure is a set with an operation). Recommended, never forced.
-- Recommended first: Congruences and Diophantine equations (Level 109, same stage) — whole numbers mod m give this lesson one of its smallest honest groups. Recommended, never forced.
+- Recommended first: the sets lesson and the relations lesson (Levels in the earlier units; a structure is a set with an operation). Recommended, never forced.
+- Recommended first: Congruences and Diophantine equations (Level 109, same unit) — whole numbers mod m give this lesson one of its smallest honest groups. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a binary operation on a set is and read or build its operation table, the way Yemen's Grade 10 book opens the unit (Unit 5, 5-1, p.96).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Identity vs inverse confused → Yemen's order helps: find the identity e first (e * a = a for all a); only then ask, for each a, which element undoes it back to e (5-4, p.110).
 - Rings feel like "groups with extra" → use Yemen's own statement: a ring needs TWO operations; the first must be an abelian group, the second only associative, and the second must distribute over the first (1-2, p.14).
 - Why is ℤ not a field → 2 has no multiplicative inverse inside ℤ; a field demands one for every non-zero element (1-3, p.21).
-- This lesson's next door: Mathematical investigations (Level 112, same stage).
+- This lesson's next door: Mathematical investigations (Level 112, same unit).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Yemen only: Grade 10 Part 1, Unit 5, and Grade 11 Science Part 1, Unit 1 — the sole source country for this lesson, as filed). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

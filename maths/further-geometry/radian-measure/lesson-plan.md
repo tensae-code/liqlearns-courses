@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Radian measure
 **Place in the curriculum:** Level 71 of 136, Unit 9 — Further Geometry, after right-triangle trigonometry and before trigonometric identities (Level 72) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring angles three ways — degrees with minutes and seconds (DMS), radians, and gradians — changing between them, and using s = rθ to find an arc length.
-**This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) — the learner can already name sine, cosine and tangent in a right triangle — and on circles (circumference 2πr). It needs nothing else.
+**This lesson's own level:** it stands on right-triangle trigonometry (Unit 9) — the learner can already name sine, cosine and tangent in a right triangle — and on circles (circumference 2πr). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Right-triangle trigonometry (Stage 9) — radians measure the same angles whose ratios you already know. Recommended, never forced.
-- Recommended first: Circles (Stage 7) — the radian is defined by an arc of a circle, and s = rθ grows out of the circumference. Recommended, never forced.
+- Recommended first: Right-triangle trigonometry (Unit 9) — radians measure the same angles whose ratios you already know. Recommended, never forced.
+- Recommended first: Circles (Unit 7) — the radian is defined by an arc of a circle, and s = rθ grows out of the circumference. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Say what a degree, a minute and a second are, and change a DMS angle to decimal degrees and back (Pakistan, Class 10, Unit 7, printed pp. 145–152; Bangladesh, Class Nine, Ch. 7, printed pp. 158–160).
@@ -69,7 +69,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Converts the wrong way → remember the anchor: 180° = π. Degrees to radians multiply by π/180; radians to degrees multiply by 180/π. Check against the anchor every time.
 - Uses s = rθ with θ in degrees → s = rθ only works in radians. Change the angle to radians first, the way Bangladesh's door problem does (Class Nine, Ch. 7, printed pp. 175–177).
 - Loses minutes and seconds → 1° = 60′ and 1′ = 60″, so 1° = 3600″ — the same ladder Nicaragua's module prints (Unit IV, printed pp. 130–133).
-- This lesson's next door: Trigonometric identities (Level 72, same stage) — the formulas there are written in the angles this lesson measures.
+- This lesson's next door: Trigonometric identities (Level 72, same unit) — the formulas there are written in the angles this lesson measures.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Bangladesh Class Nine Ch. 7; Laos Grade 10 Ch. IX; Nicaragua Grade 10 student book and module; Nepal Optional Mathematics Grade 9 §2.1; Jordan Grade 11 Term 2 Unit 4; Pakistan Class 10 Unit 7; Ethiopia Grade 10 Ch. 4). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

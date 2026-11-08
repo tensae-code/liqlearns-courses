@@ -3,7 +3,7 @@
 # Lesson plan — Sets
 
 **Course:** Maths · **Unit:** Unit 11 — Statistics and Probability · **Lesson:** Lesson 42 of 52
-**Place in the curriculum:** Stage 11, the first lesson of the stage (CURRICULUM.md).
+**Place in the curriculum:** Unit 11, the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** sets — what a set is, and how sets join, meet and complement each other, shown on Venn diagrams
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -62,7 +62,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes union and intersection → the books' own words: union is EITHER (everything in one or the other), intersection is BOTH (only what sits in the two at once). Say "either" and "both" aloud every time.
 - Forgets the empty set → the empty set is a real set with nothing in it, and it sits inside every set; it is not "no set at all".
 - Counts the overlap twice in a union → count the overlap once: add both sets, then take the overlap away once.
-- This lesson's next door: collecting and showing data (same stage) — sets become the groups the data is counted in.
+- This lesson's next door: collecting and showing data (same unit) — sets become the groups the data is counted in.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

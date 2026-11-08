@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Trigonometric identities
 **Place in the curriculum:** Level 72 of 136, Unit 9 — Further Geometry, after radian measure (Level 71) and before trigonometric equations (Level 73) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the identity chain — the basic identities, the addition formulas proved from cos(α − β), and the double, half and triple formulas that follow — and how to prove an identity.
-**This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) and on radian measure (Level 71) — the learner knows the six ratios and can measure an angle either way. It needs nothing else.
+**This lesson's own level:** it stands on right-triangle trigonometry (Unit 9) and on radian measure (Level 71) — the learner knows the six ratios and can measure an angle either way. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,8 +31,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Right-triangle trigonometry (Stage 9) — the identities are statements about the ratios you already know. Recommended, never forced.
-- Recommended first: Radian measure (Level 71, same stage) — half-angle and allied-angle work is cleaner in radians. Recommended, never forced.
+- Recommended first: Right-triangle trigonometry (Unit 9) — the identities are statements about the ratios you already know. Recommended, never forced.
+- Recommended first: Radian measure (Level 71, same unit) — half-angle and allied-angle work is cleaner in radians. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Use the basic identities — sin²θ + cos²θ = 1, tan θ = sin θ/cos θ, and the reciprocal and Pythagorean partners — to find one ratio from another (Kuwait, Grade 10 Term 2, printed pp. 107–113; Nicaragua, Grade 10 student book, Unit 2, printed pp. 68–71; Egypt, Grade 10 Term 2, Unit 5 lesson 5-1, English contents printed p. 106; Iran, Mathematics (1), Grade 10, printed pp. 42–46; Kazakhstan, Soltan Algebra 9, §24, printed p. 181).
@@ -70,7 +70,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Treats an identity like an equation to solve → an identity is true for every allowed angle; you prove it by rewriting, you never "find θ" (Nicaragua, Grade 10 student book, Unit 3, printed pp. 148–155).
 - Forgets which addition formula is which → go back to the one proved formula, cos(α − β) = cos α cos β + sin α sin β, and rebuild the others from it, the way Pakistan and Laos do.
 - Sign errors on allied angles → draw the unit circle and check the quadrant first; that is also how the corrected value cot(−225°) = −1 is found (see the lesson).
-- This lesson's next door: Trigonometric equations (Level 73, same stage) — there the same formulas become tools for finding angles.
+- This lesson's next door: Trigonometric equations (Level 73, same unit) — there the same formulas become tools for finding angles.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Class 11 Unit 10; Libya Grade 12 Science Ch. 2; Yemen Grade 11 Science Part 2 Unit 9; Laos Grade 10 Ch. IX; China Compulsory Volume 3 (B edition) §8.2; Armenia Grade 10 Ch. 4; Kuwait Grades 10–11 Term 2; Vietnam Grade 11 Bài 2; Cambodia Grade 11 Basic Ch. 3; Indonesia Grade 11 Tingkat Lanjut Revisi; Ethiopia Grade 10 Ch. 4; Nicaragua Grade 10; Kazakhstan Grade 9, four Algebra 9 books; Egypt Grade 10 Term 2 and Pure Mathematics Grade 11 Term 2; Jordan Grade 12 Term 1 Unit 2; Iran Mathematics (1), Calculus (1), Mathematics (2), Calculus (2) and Mathematics (3)). One book error is taught corrected: Pakistan Class 11, printed p. 184 — cot(−225°) = −1, not the printed 1. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

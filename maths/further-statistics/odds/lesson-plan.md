@@ -3,9 +3,9 @@
 # Lesson plan — Odds
 
 **Course:** Maths · **Unit:** Unit 16 — Further Statistics and Probability · **Lesson:** Odds
-**Place in the curriculum:** Level 131 of 136, the fifteenth lesson of Stage 16 — Further Statistics and Probability (maths/CURRICULUM.md).
+**Place in the curriculum:** Level 131 of 136, the fifteenth lesson of Unit 16 — Further Statistics and Probability (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** odds — probability said as a comparison, favourable against unfavourable — and how to turn odds into probability and probability back into odds, inside the weighting-and-fairness lesson where Kuwait's book teaches them.
-**This lesson's own level:** it stands on Probability (Stage 11) alone — favourable outcomes over all outcomes — and on nothing else. It is a small lesson because its source is one lesson of one book, and it stays small on purpose.
+**This lesson's own level:** it stands on Probability (Unit 11) alone — favourable outcomes over all outcomes — and on nothing else. It is a small lesson because its source is one lesson of one book, and it stays small on purpose.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Probability (Stage 11) — odds are a probability wearing a comparison's clothes; the conversion needs the probability first. Recommended, never forced.
+- Recommended first: Probability (Unit 11) — odds are a probability wearing a comparison's clothes; the conversion needs the probability first. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Define the odds of an event as favourable outcomes : unfavourable outcomes (Kuwait, Grade 9 Term 1, lesson 4-6, pp.204–210 — this lesson's sole source).
@@ -68,7 +68,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Simplifies the wrong way → odds simplify like a ratio: the pens give 4:10 for blue, and the book's own answer is the simplified 2:5.
 - Calls the two-dice game fair because both sides can win → fairness is about the counts: doubles have 6 outcomes, different numbers have 30, so Omar's side holds the better chance (Kuwait, 4-6).
 - Hunts for more odds material in other books → there is none in this library, as filed: this lesson is Kuwait's, honestly and only.
-- This lesson's next door: Statics (Level 132, Stage 17 — Mechanics) — a new stage begins.
+- This lesson's next door: Statics (Level 132, Unit 17 — Mechanics) — a new unit begins.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grade 9 Term 1, lesson 4-6 only — the sole odds source in the library, kept small and unpadded on purpose). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

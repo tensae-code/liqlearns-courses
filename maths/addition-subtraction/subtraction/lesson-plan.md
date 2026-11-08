@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Addition (same stage) — subtraction undoes addition, and adding checks every subtraction. Recommended, never forced.
+- Recommended first: Addition (same unit) — subtraction undoes addition, and adding checks every subtraction. Recommended, never forced.
 - A soft hint only: the minus sign means "take away"; the answer is called the difference.
 
 ## What the learner can do when it ends
@@ -67,7 +67,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Takes the smaller digit from the bigger one in each column (54 − 37 = 23) → never swap digits in a column: borrow from the next place instead. 54 − 37 = 17.
 - Forgets the borrowed ten → cross out the digit you borrowed from and write its new value small above it, before you subtract.
 - Borrowing across zero feels impossible → borrow from the hundreds first: 107 becomes 0 hundreds, 10 tens, 7 ones — then borrow one ten for the ones: 9 tens, 17 ones. Egypt's worked example: 107 − 59 = 48.
-- This lesson's next door: Multiplication (Stage 3) — the next stage starts with repeated adding.
+- This lesson's next door: Multiplication (Unit 3) — the next unit starts with repeated adding.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Egypt Grade 2; Jordan Grades 1–2; Libya Grades 1–3; Kazakhstan Grade 2; Greece Grade 1 Teuxos B; Armenia Grade 2; Vietnam Grades 1–2; Ghana DL workbook — teacher evidence; Mauritania Grades 1–2). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Uses the Maclaurin series of 1/(1+x) at x = 2 → that series needs |x| < 1; outside its range it does not settle on the function at all (Pakistan, Class 12, §2.17, ch-pp.74–78).
 - Expands sin 31° about 0° and needs endless terms → move the centre: Taylor about 30°, where sin and cos are known exactly, and the step is only 1° (Pakistan, Class 12, §2.17, ch-pp.78–81).
 - Mixes degrees and radians → series work in radians: 1° = π/180 ≈ 0.01745 before any term is computed.
-- This lesson's next door: Parametric Equations (Level 97, same stage) — curves given by a travelling parameter.
+- This lesson's next door: Parametric Equations (Level 97, same unit) — curves given by a travelling parameter.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Pakistan Class 12, Ch.2 §2.17 only — the sole full source for this lesson, as filed). The book prints the section heading as "TAILOR SERIES"; the lesson uses the mathematician's name, Taylor. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

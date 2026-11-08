@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Solves x² = 25 as x = 5 only → a square has two roots: x = 5 or x = −5. The equation x² = a has two answers whenever a is positive.
 - Completes the square and forgets to subtract what was added → x² + 6x = (x + 3)² − 9, not (x + 3)². The added 9 must be taken away again.
 - Uses the formula with the wrong sign on b → write a, b and c down first, with their signs, then put them in: x = (−b ± √(b² − 4ac)) / 2a. Check the discriminant first: it says how many roots there are.
-- This lesson's next door: Stage 7, shapes and angles — where quadratics meet geometry, and the formula's roots become lengths.
+- This lesson's next door: Unit 7, shapes and angles — where quadratics meet geometry, and the formula's roots become lengths.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — the learner draws the line of children and the little maps. Recommended, never forced.
-- Recommended alongside: Counting (Stage 1) — the ordinals name places in a counted line. Recommended, never forced.
+- Recommended alongside: Counting (Unit 1) — the ordinals name places in a counted line. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Use over/under, above/below and right/left for real things, the way Kuwait's Grade 1 book opens its numbers-and-position unit (lesson 1-1, printed p. 17).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Says "up there" instead of the pair word → give the two words as a choice — "Is the bird above the tree or below the tree?" — and let the learner pick; the pair is learned as a pair, the way North Macedonia's book prints them in pairs (printed p. 10).
 - Counts a place from the wrong end → Bangladesh's line work: always name the end first — "third from the front" — and walk the line from that end, touching each child (Class 2, printed pp. 34–39).
 - Compass points spin → fix north first, the way China's maps do: north at the top of the page, then the other points are built from it (Grade 3, Unit 1, printed p. 2).
-- This lesson's next door: Sorting and Classifying (Level 135, same stage) — things found by their places are next grouped by their likenesses.
+- This lesson's next door: Sorting and Classifying (Level 135, same unit) — things found by their places are next grouped by their likenesses.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grades 1–2; Bangladesh Class 2; Laos Grade 1; North Macedonia Grade 1; Pakistan Primer and Grade 1; Yemen Grade 1 Part 1; Indonesia Grade 2; China Grade 3 Volume 2; Ghana JICA B5 and B6 teacher manuals — teacher evidence only: Ghana's set holds no pupil textbook, so its routes come as what the teacher manuals script, worded as teacher evidence wherever they are used). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

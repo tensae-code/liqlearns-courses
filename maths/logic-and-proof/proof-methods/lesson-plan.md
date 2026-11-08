@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Proof Methods
 **Place in the curriculum:** Level 101 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how mathematicians prove things — the deductive method from definitions and axioms, the shape of a proof (givens, what is required, the chain of reasons), direct proof, the two-column layout, proof by contradiction and by contrapositive, proving and refuting "for all" and "there exists" statements, and necessary and sufficient conditions.
-**This lesson's own level:** it stands on Mathematical Logic (Level 100, same stage) — the learner can already read connectives, build truth tables and negate quantified statements. It needs nothing else.
+**This lesson's own level:** it stands on Mathematical Logic (Level 100, same unit) — the learner can already read connectives, build truth tables and negate quantified statements. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Mathematical Logic (Level 100, same stage) — validity, modus ponens and the contrapositive are this lesson's tools. Recommended, never forced.
+- Recommended first: Mathematical Logic (Level 100, same unit) — validity, modus ponens and the contrapositive are this lesson's tools. Recommended, never forced.
 - Recommended first: the triangles lesson — the books' first full proofs are triangle proofs. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -74,7 +74,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Writes a proof as one long paragraph and loses the thread → split it the Kuwait way: write the givens, write what is required, then the chain (Unit 7, pp.135–199); or the Nicaragua way: one step per row, reason beside it.
 - Assumes what must be proved → that is the flaw Iran's Grade 9 book prints on purpose at p.37: a step used Ĉ₁ = Ĉ₂ before anything gave it. Every step needs a reason that is already earned.
 - Reaches a contradiction and stops without concluding → the contradiction is not the end; the end is the sentence "so the assumption is false, and the statement is true" (Turapbekov, Geometry 7, §3, p.36).
-- This lesson's next door: Mathematical Induction (Level 102, same stage) — the one proof method built for statements about all natural numbers.
+- This lesson's next door: Mathematical Induction (Level 102, same unit) — the one proof method built for statements about all natural numbers.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kazakhstan Geometry 7 books; Iran Discrete Mathematics, Grade 9 and Geometry (1); Armenia Grade 11, Grade 12 logic book and Geometry 7; Greece Euclidean Geometry Volume A; Egypt Grade 7 Term 1; Nicaragua Grades 8–9; Kuwait Grade 9 Term 2; Laos Grade 10; China Grade 6 Volume 2). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

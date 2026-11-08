@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: Pencil and Lines (Level 1, the shared course) — sorting is drawn as circles and groups on paper. Recommended, never forced.
-- Recommended first: Position and Direction (Level 134, same stage) — a sorted group is first gathered into one place. Recommended, never forced.
+- Recommended first: Position and Direction (Level 134, same unit) — a sorted group is first gathered into one place. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Sort a mixed pile by one attribute — small things to the small bag, big things to the big bag — the way Yemen's Grade 1 book opens its whole course (lesson 1-1, printed p. 8).
@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - One thing fits no group → every sort needs a home for leftovers: make the "not" group (not red, not round) — a group is still a group when its rule is a *not*.
 - Two-attribute sorting tangles → do it in two passes, China's way with one rule at a time: first split by the first attribute, then split each pile by the second (China, Grade 1, Unit 3, printed p. 27; Yemen, Grade 1 Part 1, printed p. 12).
 - Counts a thing twice → Kazakhstan's set rule: a thing belongs to its set once; when it moves to a new sort, it leaves the old group (Grade 2 Part 1, Lessons 56–57).
-- This lesson's next door: Repeating Patterns (Level 136, same stage) — a sorted row with a rule becomes a pattern.
+- This lesson's next door: Repeating Patterns (Level 136, same unit) — a sorted row with a rule becomes a pattern.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Yemen Grade 1 Part 1 and Grade 2 Part 2; Indonesia Grade 1; Kazakhstan Grade 2 (Ospanov) Part 1; China Grade 1 Volume 2; Nicaragua Grade 1 teacher guide — teacher evidence only: the guide companions the old Grade 1 student book, which is not in this set, so its grouping talk is worded as teacher evidence wherever it is used). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

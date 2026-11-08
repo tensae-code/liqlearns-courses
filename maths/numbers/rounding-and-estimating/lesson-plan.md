@@ -30,7 +30,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Comparing-and-ordering (same stage) — rounding is saying which ten or hundred a number is nearest to. Recommended, never forced.
+- Recommended first: Comparing-and-ordering (same unit) — rounding is saying which ten or hundred a number is nearest to. Recommended, never forced.
 - A soft hint only: estimating is not guessing — it is a rough answer you can check against.
 
 ## What the learner can do when it ends
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Rounds 45 to 40 → five or more rounds up: 45 sits halfway, and the rule the books teach is that halfway rounds up — 45 rounds to 50.
 - Rounds 382 to 300 → look at the tens digit, not the ones: 382 is nearer 400 than 300, because 82 is more than 50.
 - Estimates by working out the exact answer first → estimate first, on rounded numbers: 247 + 45 is about 250 + 50 = 300, Jordan's own printed estimate.
-- This lesson's next door: Factors-multiples-and-primes (same stage) — the last lesson of Stage 1, splitting numbers apart.
+- This lesson's next door: Factors-multiples-and-primes (same unit) — the last lesson of Unit 1, splitting numbers apart.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Jordan Grade 2; Vietnam Grades 3–4; Armenia Grade 3; Egypt Grade 2; South Africa Grade 6; Greece Grade 4). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

@@ -4,7 +4,7 @@
 **Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Inequalities
 **Place in the curriculum:** Level 23 of the maths course — the third lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** inequalities — saying less than and greater than, solving them like equations, and showing the answer on a number line.
-**This lesson's own level:** it stands on equations (Level 22) — the same moves, with one new rule — and on comparing-and-ordering (Stage 1). It needs nothing else.
+**This lesson's own level:** it stands on equations (Level 22) — the same moves, with one new rule — and on comparing-and-ordering (Unit 1). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -66,7 +66,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Draws a closed circle for x > 2 → open means not included, closed means included. x > 2 leaves 2 out; x ≥ 2 keeps it in.
 - Multiplies by −2 and keeps the sign → the flip is the rule: multiplying or dividing by a negative reverses the symbol. Test with numbers: 2 < 3, but −4 > −6.
 - Solves 0x > 9 and writes x > 9 → 0x is 0, and 0 is never more than 9: no solutions. And 0x > −9 is true for every number.
-- This lesson's next door: simultaneous-equations (same stage) — two equations at once, where inequalities become regions on a graph.
+- This lesson's next door: simultaneous-equations (same unit) — two equations at once, where inequalities become regions on a graph.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

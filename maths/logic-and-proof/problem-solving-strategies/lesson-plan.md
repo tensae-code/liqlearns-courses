@@ -32,7 +32,7 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 
 ## Before this lesson
 - Recommended first: the four operations and simple equations (the symbolic strategy turns a story into an equation). Recommended, never forced.
-- Recommended first: The pigeonhole principle (Level 103, same stage) — one more named way of attacking a problem. Recommended, never forced.
+- Recommended first: The pigeonhole principle (Level 103, same unit) — one more named way of attacking a problem. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Run the shared frame on any problem: Iran's Grade 7 book sets four steps — understand, choose a strategy, solve, look back (Ch.1, pp.1–2) — and Greece's Grade 5 book sets five, splitting the start into read-and-distinguish and ending with answer and reflect (Ch.3, pp.11–12).
@@ -75,7 +75,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Guesses wildly in guess-and-check → guess, check, and use the miss: too big or too small tells you which way to move the next guess. That steering is the strategy.
 - Drowns in a big problem → sub-problems (Iran, Grade 7, p.7): answer the small questions hiding inside it, in order, the way Iran's Grade 1 book splits a pencil problem into three numbered sub-questions (Grade 1, p.163).
 - Ends with a number and stops → look back, Iran's fourth step: does the answer fit the story? Iraq's plan lessons build the same check into every chapter.
-- This lesson's next door: Counting principles (Level 105, Stage 14) — systematic listing grown up into the counting rules.
+- This lesson's next door: Counting principles (Level 105, Unit 14) — systematic listing grown up into the counting rules.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Iran, Grades 1–4 and 7; Greece, Grades 2 and 5; Iraq, Grade 1; China, Grades 2, 3, 4 and 6). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

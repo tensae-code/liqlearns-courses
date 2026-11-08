@@ -63,7 +63,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Forgets i² = −1 when multiplying → write i² out as −1 every time until it is automatic: (a + bi)(c + di) always ends with a −bd.
 - Divides by a complex number directly → multiply top and bottom by the conjugate; the bottom becomes a real number.
 - Mixes modulus and argument → modulus is the DISTANCE from zero; argument is the ANGLE from the real axis. Distance and angle, two different things.
-- This lesson's next door: matrices (same stage) — another new kind of number-like object with its own arithmetic.
+- This lesson's next door: matrices (same unit) — another new kind of number-like object with its own arithmetic.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

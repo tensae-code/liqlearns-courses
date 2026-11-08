@@ -35,8 +35,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: counting and comparing (Stage 1), and sharing
-  into equal groups (Stage 3, division). Recommended, never forced.
+- Recommended first: counting and comparing (Unit 1), and sharing
+  into equal groups (Unit 3, division). Recommended, never forced.
 - Adding, subtracting, multiplying and dividing fractions are the
   next two lessons — this lesson only says what a fraction IS.
 

@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 8 — Measuring, Area and Volume · **Lesson:** Projections and Views
 **Place in the curriculum:** Level 70 of 136, in Unit 8 — Measuring, Area and Volume (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how a solid is drawn on flat paper — looking at it from the front, the top and the side (orthogonal views), drawing it as it appears (axonometric and perspective drawing), and reading shadows and nets as projections too.
-**This lesson's own level:** it stands on the solids work of Stage 8 (volume and surface area) and on nets. It needs nothing else.
+**This lesson's own level:** it stands on the solids work of Unit 8 (volume and surface area) and on nets. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -32,8 +32,8 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Volume and Surface Area (Stage 8) — a learner who has handled the solids can picture them flat. Recommended, never forced.
-- Recommended first: Perimeter and Area (Stage 8) — every view of a solid is a flat shape with an area. Recommended, never forced.
+- Recommended first: Volume and Surface Area (Unit 8) — a learner who has handled the solids can picture them flat. Recommended, never forced.
+- Recommended first: Perimeter and Area (Unit 8) — every view of a solid is a flat shape with an area. Recommended, never forced.
 
 ## What the learner can do when it ends
 1. Draw the front, top and side views of a simple solid — the orthogonal projection (Vietnam, G11 study book, Bài 11, p.52; North Macedonia, Grade 8, Theme 4, p.168).
@@ -73,7 +73,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes up the top view and the front view → the top view is what the bird sees; the front view is what a person standing before it sees. Label every drawing with its viewpoint before you start.
 - Cannot rebuild the solid from views → use all three views together: the front gives height and width, the top gives width and depth, the side gives depth and height. No single view is enough — that is why technical drawing uses three.
 - Loses a face in a net → count before folding: a cube's net must show six squares, joined edge to edge, with no square having neighbours on all four sides.
-- This lesson's next door: Radian Measure (Stage 9) — from drawing solids to a new way of measuring angles.
+- This lesson's next door: Radian Measure (Unit 9) — from drawing solids to a new way of measuring angles.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Vietnam, G11 study book; Laos, Grade 7; North Macedonia, Grade 8; China, Compulsory Volume 2 A edition — reading as filed; Jordan, Grade 8 and Grade 4 nets as teacher evidence; South Africa, Grades 6 and 9 workbooks — perspective as enrichment). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

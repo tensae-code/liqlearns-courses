@@ -4,15 +4,15 @@
 
 **Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Congruence and similarity
 **Place in the curriculum:** Unit 9, the first lesson of the
-stage (maths/CURRICULUM.md).
+unit (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** telling whether two shapes
 are the same shape and size (congruent) or the same shape in a
 different size (similar), proving it with the triangle checks,
 and using the scale factor — including what it does to area
 (k²) and volume (k³).
 **This lesson's own level:** it stands on shapes and angles
-(Stage 7: triangles, angles, measuring) and on ratio and
-proportion (Stage 4). It needs nothing else.
+(Unit 7: triangles, angles, measuring) and on ratio and
+proportion (Unit 4). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -33,7 +33,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: the Stage 7 shapes and angles lessons
+- Recommended first: the Unit 7 shapes and angles lessons
   (triangles and their angles), and ratio and proportion.
   Recommended, never forced.
 - Pythagoras is NOT needed here — Libya teaches this whole

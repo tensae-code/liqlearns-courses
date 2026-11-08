@@ -62,7 +62,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Cannot see how to separate → get all the y's (with dy) on one side and all the x's (with dx) on the other; if a term holds both, it is not separable this way.
 - Forgets the constant after integrating → integrating gives a + C, and the constant is what the initial condition finds; without it there is a family, not one answer.
 - Does not check the answer → differentiate your answer and put it back in the equation: if it fits, the answer is right.
-- This lesson's next door: the ladder ends here — the next stage will be built when new countries' books are read.
+- This lesson's next door: the ladder ends here — the next unit will be built when new countries' books are read.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

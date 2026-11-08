@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Limits (Level 87, same stage) — continuity is a limit meeting the function's own value. Recommended, never forced.
+- Recommended first: Limits (Level 87, same unit) — continuity is a limit meeting the function's own value. Recommended, never forced.
 - Recommended first: the functions lesson (you need f(a) itself, not just values near a). Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -74,7 +74,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Calls every break a jump → compare the sides: if both one-sided limits agree, the break is a hole — removable; if they disagree, it is a jump and no single point can repair it.
 - Thinks continuity on an interval means checking the endpoints only → every interior point needs the two-sided test; the endpoints take the matching one-sided test, as Kuwait's book sets it out (pp.61–71).
 - Nepal's worked warning: for f(x) = (x² + x − 6)/(x + 3), the limit as x → −3 is −5 but f(−3) is undefined, so the function is discontinuous there (Nepal, Grade 10 Optional, Lesson 12, pp.275–293).
-- This lesson's next door: Rolle's theorem and the Mean Value Theorem (Level 89, same stage) — continuity is one of their two entry conditions.
+- This lesson's next door: Rolle's theorem and the Mean Value Theorem (Level 89, same unit) — continuity is one of their two entry conditions.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grade 12 Term 1; Laos Grade 10; Armenia Grade 11; Vietnam Grade 11 v1; Libya Grade 11 Science; Pakistan Classes 11–12; Yemen Grades 11–12 Science; Indonesia Grade 12 Tingkat Lanjut Revisi; Nepal Grade 10 Optional; Egypt Pure Grade 11; Cambodia Grade 12 Basic and the PRIVATE Khem Putthi Limits and Continuity booklet). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

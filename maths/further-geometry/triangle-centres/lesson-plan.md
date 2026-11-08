@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Constructions with ruler and compass (Level 60), Constructing triangles and quadrilaterals (Level 61), and Circle theorems (same stage). Recommended, never forced.
+- Recommended first: Constructions with ruler and compass (Level 60), Constructing triangles and quadrilaterals (Level 61), and Circle theorems (same unit). Recommended, never forced.
 - A paper triangle, a pin, a ruler, compasses and a protractor are needed for the balancing and drawing work.
 
 ## What the learner can do when it ends
@@ -71,7 +71,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Splits the median the wrong way → the long part is at the VERTEX: the centroid is twice as far from the vertex as from the side, 2:1.
 - Draws an altitude outside the triangle and thinks it is wrong → in an obtuse triangle the altitudes' lines must be extended; the orthocentre then sits outside, and that is correct.
 - Cannot see the mid-segment → mark the two midpoints first, then join them; measure: parallel to the third side and half as long, every time.
-- This lesson's next door: Loci (same stage) — every centre here is found again there as the meeting of two loci.
+- This lesson's next door: Loci (same unit) — every centre here is found again there as the meeting of two loci.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grade 9 Term 2 and Grade 10 Term 2; Laos Grade 7; Yemen Grade 8 Part 2; Cambodia Grade 8; Egypt Grade 8 Term 1; Greece Euclidean Geometry Volume A; Iraq Grade 9; Jordan Grade 9 Term 2; Sierra Leone SSS 2; Kazakhstan Geometry 8 and Geometry 9). One book error is taught corrected and named as corrected wherever it appears: Kuwait Grade 10 Term 2, printed p. 23, labels the angle-bisector intersection "Circum Center" — the correct label is Incenter. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

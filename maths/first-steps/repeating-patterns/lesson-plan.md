@@ -5,7 +5,7 @@
 **Course:** Maths · **Unit:** Unit 18 — First Steps · **Lesson:** Repeating Patterns
 **Place in the curriculum:** Level 136 of 136, the last lesson of Unit 18 — First Steps (maths/CURRICULUM.md). Unit 18 stands last by numbering, but its lessons are for the youngest learners: this one teaches the first pattern work in the course.
 **The one thing this lesson teaches:** repeating patterns — of shapes, colours, sounds and movements — how to find the part that repeats (the pattern rule), continue a pattern, fix a broken one, and meet growing and shrinking patterns.
-**This lesson's own level:** it stands on sorting (Level 135, same stage) — a pattern is a sorted row with a rule. It needs no counting beyond small numbers the learner can say. Pencil and Lines (Level 1, the shared course) is its companion for drawing pattern rows.
+**This lesson's own level:** it stands on sorting (Level 135, same unit) — a pattern is a sorted row with a rule. It needs no counting beyond small numbers the learner can say. Pencil and Lines (Level 1, the shared course) is its companion for drawing pattern rows.
 
 A lesson plan also says **what goes on top of the lesson**: at the
 exact places marked below, the lesson page carries an add-on — an
@@ -31,7 +31,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
-- Recommended first: Sorting and Classifying (Level 135, same stage) — a pattern row is built from sorted kinds. Recommended, never forced.
+- Recommended first: Sorting and Classifying (Level 135, same unit) — a pattern row is built from sorted kinds. Recommended, never forced.
 - Recommended first: Pencil and Lines (Level 1, the shared course) — patterns are drawn as rows of shapes. Recommended, never forced.
 
 ## What the learner can do when it ends
@@ -72,7 +72,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Loses the place in a long pattern → Ghana's rule-finding way (teacher evidence): bracket the smallest part that repeats, say it as one word — "red-blue is the rule" — and rebuild the row from copies of that part (JICA B3, Lessons 77–79).
 - Cannot spot the wrong piece → walk the row in repeats, one bracket at a time; the bracket that does not match the rule is where the error hides — Ghana's manuals practise exactly this as correcting pattern errors (teacher evidence: JICA B3, Lessons 77–79).
 - Growing patterns jump too fast → build only the next step, with real things, and count the change out loud (+2 each time) before predicting further (Indonesia, Grade 4, printed pp. 85–102).
-- This lesson is the last of Stage 18: its next door is the whole course — counting (Stage 1) counts the repeats, and sequences (Stage 10) is where growing patterns grow up.
+- This lesson is the last of Unit 18: its next door is the whole course — counting (Unit 1) counts the repeats, and sequences (Unit 10) is where growing patterns grow up.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Kuwait Grades 1–2; Yemen Grade 1 Part 1; Indonesia Grades 2, 4 and 8; Ghana JICA B3 and B5 teacher manuals — teacher evidence only: Ghana's set holds no pupil textbook, so its pattern rules come as what the teacher manuals script, worded as teacher evidence wherever they are used). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
