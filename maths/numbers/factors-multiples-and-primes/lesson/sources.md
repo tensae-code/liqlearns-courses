@@ -419,6 +419,7 @@ Every part traces to its book and page.
 | Barbados's Class 2 syllabus requires: identify composite numbers | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 18 |
 | Barbados's Class 2 syllabus requires: calculate the Highest Common Factor (HCF) | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 18 |
 | Barbados's Class 2 syllabus requires: determine the multiples of numbers; calculate the Lowest Common Multiple (LCM) | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed pp. 18–19 |
+| Barbados's Class 2 syllabus requires: identify and use factors and prime factors (Attainment Target 10) | Barbados, Primary Mathematics Syllabus, Class 2 (curriculum evidence), printed p. 13 |
 | Barbados's Class 3 syllabus requires: prime and composite numbers (Scope 2.0.12) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 2 (PDF p. 10) |
 | Barbados's Class 3 syllabus requires: factors (Scope 2.0.13) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 2 (PDF p. 10) |
 | Barbados's Class 3 syllabus requires: multiples (Scope 2.0.14) | Barbados, Primary Mathematics Syllabus, Class 3 (curriculum evidence), printed p. 2 (PDF p. 10) |
