@@ -27,7 +27,7 @@ You just did the whole lesson. Now let's see how it works.
 same bowl of soup — say your own like, and give the echo
 for your companion's, before you read on]
 
-## Then the explanation
+## Sub lesson 1 — So do I, the yes-world echo
 Agreeing has two sizes: the **echo**, for likes and habits,
 and the **argument**, for views. The books teach the echo
 first.
@@ -40,6 +40,7 @@ unit as "So do I / Nor do I ('me too')." Cambodia's Grade 10
 leisure unit teaches the same agreement over free-time
 likes: "So do I," "Neither do I," "I don't."
 
+## Sub lesson 2 — Neither do I, the no-world echo
 **The echo in a no-world — "Neither do I."** "I don't like
 tea." — "Neither do I." (Mongolia writes it "Nor do I" —
 same echo, second dress.) And when your truth differs, say
@@ -50,6 +51,7 @@ book teaches "So / Neither + auxiliary" as its confirming
 grammar (Unit 16): the echo carries the sentence's own
 helper — So do I, Neither did she, So has he.
 
+## Sub lesson 3 — Stating a view, I think and In my opinion
 **Stating a view — the frame.** For bigger things than
 likes, English frames the view: **"I think…" "In my
 opinion…"** Cambodia's debate unit ("There are always two
@@ -59,6 +61,7 @@ frame box: claim ("In my view / I think…") → 2–3 reasons
 ("First… Second… Finally…") → conclusion — and its writing
 task then argues the OTHER side.
 
+## Sub lesson 4 — Agreeing and disagreeing with a view
 **Agreeing and disagreeing with a view.** Full agreement:
 **"I agree." "You're right."** Agreement with a door open:
 **"I agree, but…"** — Cambodia's debate set holds it beside

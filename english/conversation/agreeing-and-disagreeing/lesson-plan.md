@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Agreeing and disagreeing
 
 **Course:** English · **Title:** Conversation · **Lesson:** Agreeing and disagreeing
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** agreeing and
 disagreeing — saying your view ("I think… / In my
 opinion…"), agreeing in full ("I agree / You're right"),
@@ -15,6 +17,19 @@ Neither do I for a no-world, I don't when your truth
 differs); state an opinion with its frame; and disagree
 with a person while staying their friend — claim, reasons,
 kind words.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **So do I, the yes-world echo** — the echo for likes and habits in a yes-world: "So do I." The opening paragraph names both sizes of agreeing, so it overlaps Sub lesson 4. (Was part of depth Level 1.)
+2. **Neither do I, the no-world echo** — "Neither do I" (Mongolia's "Nor do I") for a no-world, the differing truth said plainly ("I don't"), and Nepal's helper-carrying echo. (Was part of depth Level 1.)
+3. **Stating a view, I think and In my opinion** — the opinion frames — "I think…", "In my opinion…" — and Mauritania's full argument skeleton: claim, reasons (First… Second… Finally…), conclusion. (Was part of depth Level 2; the frame's steps are what depth Level 3 builds on.)
+4. **Agreeing and disagreeing with a view** — "I agree." "You're right." — "I agree, but…" — "I don't agree. I disagree.": full agreement, agreement with a door open, and honest disagreement with reasons. (Was part of depth Level 2, with depth Level 3's friendly argument landing here.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know Making suggestions, this will feel easier —
