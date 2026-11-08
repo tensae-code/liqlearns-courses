@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Standard Form
 
-**Course:** Maths · **Stage:** Stage 5 — Negative Numbers, Powers and Roots · **Lesson:** Standard Form
-**Place in the curriculum:** Level 20 of the maths course — the fourth lesson of Stage 5 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Standard Form
+**Place in the curriculum:** Level 20 of the maths course — the fourth lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** standard form — writing very big and very small numbers as a number between 1 and 10 times a power of ten.
 **This lesson's own level:** it stands on powers-and-indices (Level 18) and on place value (Stage 1). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Standard Form Big Numbers** — write any big number as a × 10ⁿ with 1 ≤ a < 10, and read standard form back as an ordinary number. (Was depth Level 1.)
+2. **Standard Form Small Numbers** — write any small number with a negative power of ten, and read it back. (Was depth Level 2.)
+3. **Standard Form Converting, Comparing and Choosing** — convert both ways without error, order numbers in standard form by power first, and say when standard form is worth using. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: powers-and-indices — powers of ten. Recommended, never forced.

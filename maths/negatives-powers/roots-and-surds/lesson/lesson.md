@@ -1,6 +1,6 @@
 # Roots and Surds — the lesson
 
-Course: Maths · Stage 5 · Lesson: Roots and Surds
+Course: Maths · Unit 5 · Lesson: Roots and Surds
 Built from: Kazakhstan, Grade 8 Algebra (Atamura 2018) — Jordan, Grade 9 Term 2 — Egypt, Grade 7 Term 2 and Grade 8 Term 1 — Greece, Grade 8 — South Africa, Grade 8 Book 1 and Grade 9 Book 1 — Sierra Leone, SSS 1 — Libya, Grade 10 Part 1 — Armenia, Grade 9 — Vietnam, Grade 9
 
 ## Do it first
@@ -9,7 +9,7 @@ side? Twelve. Now take 729 small cubes and build one big cube. How
 many along each edge? Nine. You have just found a square root and a
 cube root with your hands, before any symbol appears.
 
-## Then the explanation
+## Sub lesson 1 — Roots Square and Cube Roots
 **Square roots and cube roots.** A square root undoes squaring:
 √144 = 12 because 12² = 144. A cube root undoes cubing: ∛729 = 9
 because 9³ = 729. Egypt's Grade 7 book builds both from arrays —
@@ -31,6 +31,7 @@ root of a positive number. South Africa's Grade 9 book practises
 estimating: if 3² = 9, what is 3.5²? About 12 — so √12 sits near
 3.5. Estimate first, calculate second.
 
+## Sub lesson 2 — Surds In Basic Form
 **Basic form.** A surd can often be tidied by pulling out the
 biggest perfect square inside it. √32 = √(16 × 2) = √16 × √2 =
 4√2. That is the whole method: split, root the square part, leave
@@ -42,6 +43,7 @@ freer: √2 × √3 = √6, and √2 × √2 = 2. Jordan's Grade 9 book
 teaches the same operations on radical expressions, and Libya's
 Grade 10 book states the laws of surds with them.
 
+## Sub lesson 3 — Surds Operating and Rationalising
 **Rationalising.** A root may not sit in the denominator of a
 fraction. 1/√2 is tidied by multiplying top and bottom by √2:
 √2/2. Sierra Leone's handbook gives this two whole lessons, and

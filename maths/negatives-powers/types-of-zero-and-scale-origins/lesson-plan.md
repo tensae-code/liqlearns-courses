@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Types of Zero and Scale Origins
 
 **One thing:** zero is not always the same starting point — some quantities have a natural zero that means "none of it" (mass, length), and others carry a zero people chose (the Celsius degree, the timeline's year zero), below which negative numbers live; and temperature has one absolute zero, Kelvin's, below which nothing can go.
 
-**Stage:** Negative Numbers, Powers and Roots (Stage 5). **Level 162** (Turkey merge, 2026-11-07).
+**Unit:** Negative Numbers, Powers and Roots (Unit 5). **Level 162** (Turkey merge, 2026-11-07).
 
 **Why this lesson exists:** Turkey's Grade 7 book opens its integers theme by asking "Does every 0 show the same start?" (printed p. 15) — 0 on a history timeline, 0 MB of data left, a scale reading 0 kg, 0 °C — and has pupils sort quantities by whether they have a natural starting point (printed p. 16), then returns to the idea in a performance task on absolute versus relative zero, Celsius against Kelvin (printed p. 34). No existing lesson can home it: negative-numbers teaches working below zero and carries an "agreed zero" part about sign conventions, but no read book classifies scales by the *kind* of zero they carry, and the Celsius/Kelvin absolute-zero contrast is taught by no other country in the course. So under the everything-goes-in ruling (2026-11-06) it gets its own lesson. It stands alone: any learner who has met a thermometer and a ruler can start here; the negative-numbers lesson is a soft hint, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Zeros The Question of the Four Zeros** — say why the four zeros of the book's opener — timeline, data left, scale, thermometer — are not the same starting point. (This sub lesson's text is the lesson's opening block, which stands under its own "You do it first" heading inside this sub lesson.) (Was depth Layer 1.)
+2. **Zeros Natural — Zero Means None of It** — identify quantities whose zero means "none of it" (mass, length, a count of what is left) and say why nothing lies below them. (Was depth Layer 2.)
+3. **Zeros Chosen — A Mark People Picked** — identify quantities whose zero people chose (Celsius degrees, the timeline, sea level) and explain why negative values live below a chosen zero. (Was depth Layer 3.)
+4. **Zeros Absolute Against Relative** — state the Celsius/Kelvin contrast: Celsius's zero is relative and chosen; Kelvin's zero is absolute, and no temperature lies below it. (Was depth Layer 4.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

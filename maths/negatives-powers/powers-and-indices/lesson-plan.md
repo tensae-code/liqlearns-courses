@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Powers and Indices
 
-**Course:** Maths · **Stage:** Stage 5 — Negative Numbers, Powers and Roots · **Lesson:** Powers and Indices
-**Place in the curriculum:** Level 18 of the maths course — the second lesson of Stage 5 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Powers and Indices
+**Place in the curriculum:** Level 18 of the maths course — the second lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** powers — writing repeated multiplication short, and the index laws for multiplying, dividing and raising powers, including zero and negative powers.
 **This lesson's own level:** it stands on multiplication (Stage 3) and on negative-numbers (Level 17), which decides the sign of a power of a negative. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Powers As Repeated Multiplication** — write any repeated multiplication as a power, give its value for small bases, and read the base and the index apart. (Was depth Level 1.)
+2. **Powers The Multiply and Divide Laws** — add indices when multiplying same-base powers, subtract when dividing, and refuse to join different bases. (Was depth Level 2.)
+3. **Powers Power of a Power, Zero and Negative Powers** — multiply indices for a power of a power, give any zero power as 1, turn a negative index into a reciprocal, and decide the sign of a power. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: negative-numbers — the sign of a power of a negative number. Recommended, never forced.

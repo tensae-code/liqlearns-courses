@@ -1,6 +1,6 @@
 # Standard Form — the lesson
 
-Course: Maths · Stage 5 · Lesson: Standard Form
+Course: Maths · Unit 5 · Lesson: Standard Form
 Built from: Kazakhstan, Grade 7 Algebra (Mektep 2017 and Atamura 2017) — Egypt, Grade 7 Term 2 — Greece, Grade 7 — South Africa, Grade 8 Book 1 — Sierra Leone, JSS 3 — Libya, Grade 8
 
 ## Do it first
@@ -10,7 +10,7 @@ hydrogen atom in full, or the Sun's core temperature. Long numbers
 are easy to miscount and tedious to write. The books solve this with
 one short form.
 
-## Then the explanation
+## Sub lesson 1 — Standard Form Big Numbers
 **Big numbers.** Standard form writes a number as **a × 10ⁿ**, where
 **a** sits between 1 and 10 (1 ≤ a < 10) and **n** counts how many
 places the decimal point moved. The Earth–Sun distance, Egypt's
@@ -22,6 +22,7 @@ and sums and differences in standard form. The rule is one line: the
 first number must be between 1 and 10. 25 × 10³ is not standard form;
 2.5 × 10⁴ is.
 
+## Sub lesson 2 — Standard Form Small Numbers
 **Small numbers.** A small number takes a negative power. 0.004 =
 4 × 10⁻³: the point moved three places right, so the power is −3.
 Egypt's book gives a hydrogen atom's mass as its small-number
@@ -31,6 +32,7 @@ numbers first and then of large **and** small numbers together, in
 its negatives chapter — because small numbers need the negative
 powers the chapter has just taught.
 
+## Sub lesson 3 — Standard Form Converting, Comparing and Choosing
 **Converting both ways.** To read standard form back, move the point
 the other way: 1.496 × 10⁸ means move the point eight places right
 (149,600,000); 4 × 10⁻³ means move it three places left (0.004).

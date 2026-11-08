@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Roots and Surds
 
-**Course:** Maths · **Stage:** Stage 5 — Negative Numbers, Powers and Roots · **Lesson:** Roots and Surds
-**Place in the curriculum:** Level 19 of the maths course — the third lesson of Stage 5 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Roots and Surds
+**Place in the curriculum:** Level 19 of the maths course — the third lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** square roots and cube roots, and surds — roots left exact, simplified to basic form and operated on without a calculator.
 **This lesson's own level:** it stands on powers-and-indices (Level 18) — a root undoes a power — and on factorising numbers into primes (Stage 1). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Roots Square and Cube Roots** — give square and cube roots of perfect powers, name both roots of a perfect square, and estimate a root that is not exact — the part where the surd is met. (Was depth Level 1.)
+2. **Surds In Basic Form** — pull the biggest perfect square (or cube) out of a surd and write it in basic form, checking by squaring back. (This part's text runs on into adding, subtracting and multiplying surds; that operating work is proved in Sub lesson 3.) (Was depth Level 2.)
+3. **Surds Operating and Rationalising** — add, subtract and multiply surds exactly, and rationalise a denominator. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: powers-and-indices — a square is a number to the power 2. Recommended, never forced.

@@ -1,6 +1,6 @@
 # Powers and Indices — the lesson
 
-Course: Maths · Stage 5 · Lesson: Powers and Indices
+Course: Maths · Unit 5 · Lesson: Powers and Indices
 Built from: Kazakhstan, Grade 7 Algebra (Mektep 2017) — Jordan, Grade 7 Term 1 — Armenia, Grade 7 — Egypt, Grade 7 Term 2 — Greece, Grade 7 — South Africa, Grade 8 Book 1 and Grade 9 Books 1–2 — Libya, Grade 10 Part 1 — Sierra Leone, JSS 3
 
 ## Do it first
@@ -9,7 +9,7 @@ Now write 3 × 3 × 3 × 3. Tedious, yes? Every book in the library
 starts powers exactly here: repeated multiplication is long to write,
 so we write it short. The short way is a **power**.
 
-## Then the explanation
+## Sub lesson 1 — Powers As Repeated Multiplication
 **What a power is.** 2³ means 2 × 2 × 2: three twos multiplied.
 The big number is the **base**; the small raised number is the
 **index** (also called the exponent or power). 2³ = 8. The value is
@@ -20,6 +20,7 @@ three twos multiplied, which is 8. Armenia's Grade 7 book starts the
 same way — raising a natural number to a power — and then uses powers
 to write large numbers short.
 
+## Sub lesson 2 — Powers The Multiply and Divide Laws
 **Multiplying and dividing powers with the same base.** Open them
 out and the law shows itself: 2³ × 2² = (2 × 2 × 2) × (2 × 2) =
 2⁵. Three twos and two more twos make five twos. So when the bases
@@ -30,6 +31,7 @@ Libya's Grade 10 book lists all six index laws together, including
 negative and fractional indices. The laws only join powers with the
 **same** base: 2³ × 3² stays 2³ × 3². Different bases do not combine.
 
+## Sub lesson 3 — Powers Power of a Power, Zero and Negative Powers
 **Power of a power, and powers of products.** (2³)² means 2³ × 2³,
 which is 2⁶ — **multiply the indices**: (aᵐ)ⁿ = aᵐⁿ. A product to a
 power splits over the factors: (2 × 3)² = 2² × 3² = 4 × 9 = 36. A

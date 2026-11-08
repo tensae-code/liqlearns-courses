@@ -1,6 +1,6 @@
 # Negative Numbers — the lesson
 
-Course: Maths · Stage 5 · Lesson: Negative Numbers
+Course: Maths · Unit 5 · Lesson: Negative Numbers
 Built from: Kazakhstan, Grade 6 (Atamura 2018) — Jordan, Grade 5 Term 1 and Grade 6 Term 1 — Libya, Grade 7 — South Africa, Grade 7 Book 2 — Greece, Grade 7 — Armenia, Grade 6 (Qarakusi 2024) — Vietnam, Grade 6 — Ghana, JICA Basic 5 teacher manual (teacher evidence only)
 
 ## Do it first
@@ -11,7 +11,7 @@ give that below-ness a sign: **−**. Minus 5 degrees. Minus 4 coins.
 Minus 3 metres. Say three below-zero things from your own day before
 you read on.
 
-## Then the explanation
+## Sub lesson 1 — Negative Numbers Below Zero and the Line
 **Below zero.** Every book starts the same way Kazakhstan does: pick
 an agreed zero — ice melting at 0 °C, sea level at 0 m — and put a
 **+** above it and a **−** below it. Talgar peak stands at +4,973 m;
@@ -31,6 +31,7 @@ introduce integers at all, and motivates them the same way — with
 temperature and money columns, positive and negative side by side —
 before any rules are given.
 
+## Sub lesson 2 — Negative Numbers Adding and Subtracting
 **Adding and subtracting.** Kazakhstan's rule, worked first on the
 line with a thermometer problem: −3 + (−4) = −7. Add the sizes
 (3 + 4 = 7) and keep the minus sign: the sum of two negatives is
@@ -44,6 +45,7 @@ sign rule for dropping brackets, which Kazakhstan prints as a table:
 +(+) stays +, +(−) turns −, −(+) turns −, −(−) turns +. So
 5 + (−3) = 5 − 3 = 2, and 5 − (−3) = 5 + 3 = 8.
 
+## Sub lesson 3 — Negative Numbers Multiplying and Dividing
 **Multiplying and dividing.** Sign first, then size. Unlike signs
 give a minus: (−4) × 3 = (−4) + (−4) + (−4) = −12. Two negatives
 give a plus — Kazakhstan justifies it through Euler: since

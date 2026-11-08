@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Negative Numbers
 
-**Course:** Maths · **Stage:** Stage 5 — Negative Numbers, Powers and Roots · **Lesson:** Negative Numbers
-**Place in the curriculum:** Level 17 of the maths course — the first lesson of Stage 5 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 5 — Negative Numbers, Powers and Roots · **Lesson:** Negative Numbers
+**Place in the curriculum:** Level 17 of the maths course — the first lesson of Unit 5 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** numbers below zero — reading them, placing them on the number line, and adding, subtracting, multiplying and dividing them.
 **This lesson's own level:** it stands on comparing-and-ordering (Stage 1) and on addition, subtraction, multiplication and division (Stages 2–3). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Negative Numbers Below Zero and the Line** — read negatives aloud, place them on the line, and say which of two negatives is bigger every time. (Was depth Level 1.)
+2. **Negative Numbers Adding and Subtracting** — add and subtract negatives, including subtracting a negative, and check each answer on the line. (Was depth Level 2.)
+3. **Negative Numbers Multiplying and Dividing** — give the sign first and the size second, and explain a long product's sign by counting its negative factors. (The closing spot-the-mistake box stands at the end of this part; the mistake it corrects is an adding one, from Sub lesson 2's work.) (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: comparing-and-ordering — the number line, bigger and smaller. Recommended, never forced.
