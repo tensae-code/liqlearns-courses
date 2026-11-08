@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Adverbs
 
 **Course:** English · **Title:** Word · **Lesson:** Adverbs
-**Place in the curriculum:** Level 6, "Word Kinds" —
-the fourth lesson of the level (CURRICULUM.md), after Nouns,
+**Place in the curriculum:** Unit 6 — Word Kinds —
+the fourth lesson of the unit (CURRICULUM.md), after Nouns,
 Verbs, and Adjectives.
 **The one thing this lesson teaches:** an adverb is a word that
 describes a verb — first of all it tells HOW an action is done.
@@ -22,6 +24,20 @@ student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds, and an adverb is a word
 about moving, so this lesson's GIF carries the teaching itself.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **How-words, adverbs that tell how** — an adverb is a word that describes a verb — first of all it tells how an action is done: run quickly, write carefully, sing loudly. (Was depth Level 1.)
+2. **Making adverbs, add -ly** — most how-words are made from adjectives — add -ly; when the adjective ends in y, the y changes to i: happy → happily. (Was part of depth Level 2.)
+3. **The two rebels, fast and well** — fast does not change, and good becomes a different word: well. (Was part of depth Level 2.)
+4. **The test, how did they do it** — find the verb, then ask "How did they do it?" — the word that answers is the adverb. (Was the test inside depth Level 1.)
+5. **How often, the frequency ladder** — adverbs also answer "How often?" — Egypt's frequency ladder: always, usually, sometimes, never. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Verbs and Adjectives. The adverb describes

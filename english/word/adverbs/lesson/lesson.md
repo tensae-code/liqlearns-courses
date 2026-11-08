@@ -16,7 +16,7 @@ What changed? Not the action — the HOW. The words that changed
 your walk — slowly, quickly — are the kind of word this lesson
 is about.
 
-## Then the explanation
+## Sub lesson 1 — How-words, adverbs that tell how
 An **adverb** is a word that describes a verb. First of all,
 it tells **how** an action is done.
 
@@ -29,6 +29,7 @@ run **quickly**, write **carefully**, sing **loudly**, draw
 curriculum opens adverbs with exactly these: "He walked
 **quickly** to the church." "She danced **beautifully**."
 
+## Sub lesson 2 — Making adverbs, add -ly
 Most how-words are **made from adjectives** — you met those in
 the last lesson. The making rule, from Egypt's book: add
 **-ly** to the adjective. Quick → **quickly**. Loud →
@@ -41,16 +42,19 @@ sang **beautifully**. The fox laughed **loudly**. He shouted
 paints the doing. Same root, two jobs — that is the difference
 between the last lesson and this one.
 
+## Sub lesson 3 — The two rebels, fast and well
 Two rebels, and the books name them honestly. **Fast** does not
 change: "He has a fast car. He drives **fast**." And **good**
 becomes a different word: "She is a good singer. She sings
 **well**." Learn those two as they are; everything else takes
 its -ly.
 
+## Sub lesson 4 — The test, how did they do it
 The test that finds an adverb: find the verb, then ask
 **"How did they do it?"** She danced — how? Beautifully. He
 walked — how? Quickly. The word that answers is the adverb.
 
+## Sub lesson 5 — How often, the frequency ladder
 One step deeper. Adverbs also answer **"How often?"** — the
 frequency ladder Egypt's book draws with numbers: **always**
 (all the time), **usually**, **sometimes**, **never** (not
