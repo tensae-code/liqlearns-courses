@@ -14,13 +14,15 @@ or to your explain companion.
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — Saying good morning
 So "Hello" works all day. But English also has greetings that know
 what time it is — Libya's Grade 1 book teaches them in its second
 lesson, right inside the alphabet unit:
 
 - In the **morning** — from when you wake up until midday — you say:
   **"Good morning."**
+
+## Sub lesson 2 — Saying good afternoon
 - In the **afternoon** — after midday, while the day is still
   bright — you say: **"Good afternoon."**
 

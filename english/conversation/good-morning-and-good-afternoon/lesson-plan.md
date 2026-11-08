@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Good morning and good afternoon
 
 **Course:** English · **Title:** Conversation · **Lesson:** Good morning
 and good afternoon
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the greeting changes with the
 time of day — "Good morning" before midday, "Good afternoon" after.
@@ -16,6 +18,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Saying good morning** — the greeting for the morning — from when you wake up until midday: "Good morning", with Egypt's picture story of it. (Was part of depth Level 1.)
+2. **Saying good afternoon** — the greeting for the afternoon — after midday, while the day is still bright: "Good afternoon"; the closing line sums up both greetings (the time of day chooses), so it overlaps Sub lesson 1. (Was part of depth Level 1.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Hello and your name: plain "Hello" works all day; this lesson adds
