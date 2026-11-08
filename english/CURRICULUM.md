@@ -35,22 +35,22 @@ Tips are ours; the lessons are the books'.
 
 The plan is built from the books actually read so far and GROWS as
 each next closed country's books are read — a new book's material is
-slotted into the level it belongs to, in order, and a new block the
-size of a former unit becomes its own next level rather than being
-stuffed into an old one. (Each book's stocking notes — which level its
+slotted into the unit it belongs to, in order, and a new block the
+size of a former unit becomes its own next unit rather than being
+stuffed into an old one. (Each book's stocking notes — which unit its
 basics feed — are kept with the book's own map, in EGYPT-BOOK-MAP.md
 and books/<country>.md, not in this plan.) Lessons already built are
 marked ✅.
 
-## Level 1 — Pencil and Lines
-*The hand first, because words are written. End of level: the learner
+## Unit 1 — Pencil and Lines
+*The hand first, because words are written. End of unit: the learner
 can hold a pencil and draw and understand lines.*
 - holding a pencil ✅ · drawing lines ✅
-- This level is also the standalone Pencil and Lines course, shared as
+- This unit is also the standalone Pencil and Lines course, shared as
   the recommended prerequisite before every language course.
 
-## Level 2 — The Alphabet
-*End of level: the learner knows the letters, their shapes and
+## Unit 2 — The Alphabet
+*End of unit: the learner knows the letters, their shapes and
 sounds.*
 - the-alphabet ✅ — Egypt KG1/KG2 teach 13 letters + 13 letters;
   Primary 1 re-teaches all 26 in sounds order.
@@ -58,20 +58,20 @@ sounds.*
   joins, from the Barbados syllabi and Bangladesh; Kuwait's
   handwriting book stocks the copy-the-model routine)
 
-## Level 3 — Sounds Together
-*End of level: the learner can put sounds together to read a word.*
+## Unit 3 — Sounds Together
+*End of unit: the learner can put sounds together to read a word.*
 - blending-sounds ✅ · two-letter-sounds ✅
 - silent-letters ✅ · the-three-sounds-of-ed ✅ ·
   stress-and-intonation ✅ (catch-up additions 2026-11-07 —
   the pronunciation work the read books teach beyond blending)
 
-## Level 4 — First Words
-*End of level: the learner can read whole little words.*
+## Unit 4 — First Words
+*End of unit: the learner can read whole little words.*
 - blends ✅ · word-families ✅ — the -at, -an, -ig families and their
   kin
 
-## Level 5 — Conversation
-*End of level: the learner can open a talk, say who they are, ask
+## Unit 5 — Conversation
+*End of unit: the learner can open a talk, say who they are, ask
 about the other person, and close the talk.*
 - hello-and-your-name ✅ · how-are-you ✅ ·
   good-morning-and-good-afternoon ✅ · introducing-a-friend ✅ ·
@@ -81,19 +81,19 @@ about the other person, and close the talk.*
   making-suggestions ✅ · apologising ✅ · inviting ✅ ·
   asking-politely ✅ · agreeing-and-disagreeing ✅ · telephoning ✅ ·
   shopping ✅ · congratulating-and-wishing ✅ · giving-advice ✅ ·
-  giving-directions ✅ (11 lessons, 206 question items; the level
+  giving-directions ✅ (11 lessons, 206 question items; the unit
   now also ends with the learner able to offer, suggest, apologise,
   invite, ask politely, agree and disagree, use the phone, shop,
   congratulate, advise, and give directions)
 
-## Level 6 — Word Kinds
-*End of level: the learner knows what each kind of word does.*
+## Unit 6 — Word Kinds
+*End of unit: the learner knows what each kind of word does.*
 - nouns ✅ · verbs ✅ · adjectives ✅ · adverbs ✅ · pronouns ✅
   (each one lesson, one thing — pronouns carries its own depth:
   I/you/he/she/it/we/they and their forms)
 
-## Level 7 — Words for the World
-*End of level: the learner has words for the world around them.*
+## Unit 7 — Words for the World
+*End of unit: the learner has words for the world around them.*
 - the home and its rooms ✅ · the town (hospital, school, shop) ✅ ·
   food and fruit ✅ · animals ✅ · the body ✅ — from Egypt P1 Term 2's
   sets and Libya's early grades
@@ -107,8 +107,8 @@ about the other person, and close the talk.*
   (specialist: hotels/offices/tourism, Greece) — 18 lessons, 520
   question items
 
-## Level 8 — Using the Dictionary
-*End of level: the learner can find a word and understand what its
+## Unit 8 — Using the Dictionary
+*End of unit: the learner can find a word and understand what its
 definition says.*
 - using-the-dictionary ✅: what a dictionary is · finding a word by
   its first letters · what the words in a definition mean
@@ -118,68 +118,68 @@ definition says.*
   2026-10-27 — not a right-now project; filed in DICTIONARY.md): a
   searchable side list that shows a word — or a sentence — in the
   language of the country the learner picks, in that language's own
-  letters. This level teaches the dictionary skill the tool runs on.
+  letters. This unit teaches the dictionary skill the tool runs on.
 
-## Level 9 — Numbers, Days, and Time
-*End of level: the learner can count, name the days and months, and
+## Unit 9 — Numbers, Days, and Time
+*End of unit: the learner can count, name the days and months, and
 tell the time.*
 - numbers ✅ · days-and-months ✅ · telling-the-time ✅
 
-## Level 10 — Building a Sentence
-*End of level: the learner can build a whole sentence and end it
+## Unit 10 — Building a Sentence
+*End of unit: the learner can build a whole sentence and end it
 properly.*
 - building-a-sentence ✅ · capital-and-full-stop ✅
 
-## Level 11 — Questions
-*End of level: the learner can ask yes/no questions and wh-
+## Unit 11 — Questions
+*End of unit: the learner can ask yes/no questions and wh-
 questions, and answer in whole sentences.*
 - asking-yes-no-questions ✅ · asking-with-question-words ✅
 
-## Level 12 — Now, Before, Later
-*End of level: the learner can talk about the present, the past, and
+## Unit 12 — Now, Before, Later
+*End of unit: the learner can talk about the present, the past, and
 planned later.*
 - present-actions ✅ · past-actions ✅ · going-to-later ✅ — from
   Libya's middle-grade spine
 
-## Level 13 — Joining and Describing
-*End of level: the learner can join sentences and put describing
+## Unit 13 — Joining and Describing
+*End of unit: the learner can join sentences and put describing
 words and belonging in their right places.*
 - joining-with-and-and-but ✅ · describing-words-in-a-sentence ✅ ·
   mine-and-yours ✅
 
-## Level 14 — The Paragraph
-*End of level: the learner can write a paragraph whose sentences
+## Unit 14 — The Paragraph
+*End of unit: the learner can write a paragraph whose sentences
 serve one idea, in time order.*
 - the-paragraph ✅ · first-then-finally ✅
 
-## Level 15 — Reading Whole Texts
-*End of level: the learner can read a whole text, find its main idea,
+## Unit 15 — Reading Whole Texts
+*End of unit: the learner can read a whole text, find its main idea,
 work through words they do not know, and answer from the text.*
 - finding-the-idea-of-a-text ✅ · words-you-dont-know ✅ ·
   answering-from-the-text ✅
 
-## Level 16 — The Essay
-*End of level: the learner can plan and write a first essay, with an
+## Unit 16 — The Essay
+*End of unit: the learner can plan and write a first essay, with an
 opening that catches and names and a closing that returns and
 lands.*
 - the-essay ✅ · opening-and-closing ✅
 
-## Level 17 — Stories
-*End of level: the learner can follow a story's people, place, and
+## Unit 17 — Stories
+*End of unit: the learner can follow a story's people, place, and
 happenings, tell a story back, and read a whole graded story book at
 their level.*
 - the-story ✅ · telling-a-story-back ✅ · the-big-reading ✅ — the
   graded readers bound into Libya's Grade 11 books marked where this
   road leads, and the last lesson stands on them
 
-**ALL 17 LEVELS BUILT 2026-10-27: 47 lessons on this English path.**
+**ALL 17 UNITS BUILT 2026-10-27: 47 lessons on this English path.**
 (The path was first built as four broad levels of four units each;
 the same night he separated every unit into its own level, above.)
 
-## Level 18 — Deeper Sentences
+## Unit 18 — Deeper Sentences
 The deeper sentence machinery, from Libya G8–G10's spine: the
 tenses and shapes that reach further than the plain sentence.
-End of level: the learner holds the past by its tie to now, can
+End of unit: the learner holds the past by its tie to now, can
 turn a sentence around into the passive, and can hang one
 sentence on another with if.
 - ✅ **The present perfect** (english/sentence/the-present-perfect)
@@ -210,152 +210,152 @@ sentence on another with if.
   Egypt's Prep 7→8→9 ladder, third at Prep 9 T1 Tip
   p.31 — 3 countries).
 
-**LEVEL 18 COMPLETE 2026-10-27: 4 lessons. The English
-path now stands at 51 lessons across 18 levels.**
+**UNIT 18 COMPLETE 2026-10-27: 4 lessons. The English
+path now stands at 51 lessons across 18 units.**
 
-## Level 19 — Earlier Than the Past
-*End of level: the learner can order two past events, show an
+## Unit 19 — Earlier Than the Past
+*End of unit: the learner can order two past events, show an
 action already in progress before another past moment, and set a
 past scene with an action moving inside it.*
 - the-past-perfect ✅ · the-past-perfect-continuous ✅ ·
   the-past-continuous ✅ (catch-up build 2026-11-07, per
   CATCH-UP-PLAN.md — 3 lessons, 51 question items)
 
-## Level 20 — The Future in Detail
-*End of level: the learner can show a future action in progress,
+## Unit 20 — The Future in Detail
+*End of unit: the learner can show a future action in progress,
 a future action finished by a set time, and plans as they looked
 from a past moment.*
 - future-continuous ✅ · future-perfect ✅ · plans-in-the-past ✅
   (catch-up build 2026-11-07 — 3 lessons, 51 question items)
 
-## Level 21 — Questions That Check
-*End of level: the learner can check a statement with a tag and
+## Unit 21 — Questions That Check
+*End of unit: the learner can check a statement with a tag and
 ask about the doer or the receiver without breaking the
 question's shape.*
 - question-tags ✅ · subject-and-object-questions ✅ (catch-up
   build 2026-11-07 — 2 lessons, 38 question items)
 
-## Level 22 — Telling What People Said
-*End of level: the learner can report what people said, asked
+## Unit 22 — Telling What People Said
+*End of unit: the learner can report what people said, asked
 and ordered, and write spoken words with speech marks.*
 - reported-statements ✅ · reported-questions ✅ ·
   reported-commands ✅ · speech-marks ✅ (catch-up build
   2026-11-07 — 4 lessons, 76 question items)
 
-## Level 23 — Joining with Who and Which
-*End of level: the learner can join sentences with relative
+## Unit 23 — Joining with Who and Which
+*End of unit: the learner can join sentences with relative
 clauses, add extra information inside commas, and shorten
 clauses with participles.*
 - relative-clauses ✅ · non-defining-relative-clauses ✅ ·
   participle-clauses ✅ (catch-up build 2026-11-07 — 3 lessons,
   57 question items)
 
-## Level 24 — Two Shapes After a Verb
-*End of level: the learner knows which verbs take -ing, which
+## Unit 24 — Two Shapes After a Verb
+*End of unit: the learner knows which verbs take -ing, which
 take to, how to say someone arranged for a thing to be done,
 and how verbs carry two objects.*
 - gerunds-and-infinitives ✅ · the-causative ✅ ·
   verbs-with-two-objects ✅ (catch-up build 2026-11-07 —
   3 lessons, 57 question items)
 
-## Level 25 — Wishing and Imagining
-*End of level: the learner can wish about now, regret the past,
+## Unit 25 — Wishing and Imagining
+*End of unit: the learner can wish about now, regret the past,
 and build mixed and inverted conditionals.*
 - wish-and-if-only ✅ · more-conditionals ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
 
-## Level 26 — How Sure Are You?
-*End of level: the learner can grade certainty about the
+## Unit 26 — How Sure Are You?
+*End of unit: the learner can grade certainty about the
 present and the past — must be, can't be, might be, must have,
 should have.*
 - how-sure-you-are ✅ · modal-perfects ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
 
-## Level 27 — The Small Words That Point
-*End of level: the learner commands articles, quantities, the
+## Unit 27 — The Small Words That Point
+*End of unit: the learner commands articles, quantities, the
 some/any/no/every grid, and reflexive pronouns.*
 - articles ✅ · quantifiers ✅ · someone-anyone-no-one ✅ ·
   reflexive-pronouns ✅ (catch-up build 2026-11-07 — 4 lessons,
   80 question items)
 
-## Level 28 — Comparing More Deeply
-*End of level: the learner can grade comparisons finely and
+## Unit 28 — Comparing More Deeply
+*End of unit: the learner can grade comparisons finely and
 link two changes together.*
 - stronger-comparisons ✅ · double-comparatives ✅ (catch-up
   build 2026-11-07 — 2 lessons, 34 question items)
 
-## Level 29 — The Passive in Every Tense
-*End of level: the learner can turn a sentence into the
+## Unit 29 — The Passive in Every Tense
+*End of unit: the learner can turn a sentence into the
 passive in any tense, and use the impersonal passive.*
 - the-passive-in-every-tense ✅ (catch-up build 2026-11-07 —
   1 lesson, 17 question items)
 
-## Level 30 — Dressing a Sentence
-*End of level: the learner can stack adjectives in the right
+## Unit 30 — Dressing a Sentence
+*End of unit: the learner can stack adjectives in the right
 order, choose -ed or -ing adjectives, respect stative verbs,
 and grade strength with too/enough/so/such.*
 - adjective-order ✅ · participle-adjectives ✅ ·
   stative-verbs ✅ · too-enough-so-such ✅ (catch-up build
   2026-11-07 — 4 lessons, 68 question items)
 
-## Level 34 — Letters That Work
-*End of level: the learner can write the formal letters real
+## Unit 34 — Letters That Work
+*End of unit: the learner can write the formal letters real
 life asks for — business, application, complaint, enquiry,
 advice, and letters to editors and authorities.*
 - the-formal-letter ✅ · job-application-letters ✅ ·
   complaint-letters ✅ · letters-that-ask-and-advise ✅
   (catch-up build 2026-11-07 — 4 lessons, 80 question items)
 
-## Level 35 — Writing for a Job
-*End of level: the learner can build a CV with its cover
+## Unit 35 — Writing for a Job
+*End of unit: the learner can build a CV with its cover
 letter, write a personal statement or proposal, and prepare
 for a job interview.*
 - cv-and-cover-letter ✅ · personal-statements-and-proposals
   ✅ · job-interviews ✅ (catch-up build 2026-11-07 —
   3 lessons, 60 question items)
 
-## Level 40 — Writing Your Own Life
-*End of level: the learner can keep a diary, write a life
+## Unit 40 — Writing Your Own Life
+*End of unit: the learner can keep a diary, write a life
 story, and fit real news into a postcard.*
 - diary-and-journal ✅ · biography-writing ✅ ·
   postcards-and-personal-letters ✅ (catch-up build
   2026-11-07 — 3 lessons, 60 question items)
 
-## Level 41 — Stories and Poems in Detail
-*End of level: the learner can use the story-maker's craft —
+## Unit 41 — Stories and Poems in Detail
+*End of unit: the learner can use the story-maker's craft —
 flashback, foreshadowing, suspense, characterisation — and
 write poems to named shapes.*
 - story-techniques ✅ · poetry-writing ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
 
-## Level 38 — Speeches and Shows
-*End of level: the learner can write and give a speech, run a
+## Unit 38 — Speeches and Shows
+*End of unit: the learner can write and give a speech, run a
 presentation, and turn a scene into a play script.*
 - speech-writing ✅ · presentation-skills ✅ · play-scripts ✅
   (catch-up build 2026-11-07 — 3 lessons, 60 question items)
 
-## Level 39 — Essays and Shortening
-*End of level: the learner knows the essay kinds and can cut
+## Unit 39 — Essays and Shortening
+*End of unit: the learner knows the essay kinds and can cut
 a text down to notes and to a faithful summary.*
 - essay-kinds ✅ · note-making ✅ · summarising ✅ (catch-up
   build 2026-11-07 — 3 lessons, 60 question items)
 
-## Level 36 — Writing the Facts
-*End of level: the learner can write a report, a news story,
+## Unit 36 — Writing the Facts
+*End of unit: the learner can write a report, a news story,
 instructions that work, and the paperwork of meetings.*
 - report-writing ✅ · news-writing ✅ · process-writing ✅ ·
   forms-minutes-and-questionnaires ✅ (catch-up build
   2026-11-07 — 4 lessons, 72 question items)
 
-## Level 37 — Writing Your View
-*End of level: the learner can review, blog, write articles,
+## Unit 37 — Writing Your View
+*End of unit: the learner can review, blog, write articles,
 and make advertisements and posters.*
 - review-writing ✅ · blog-and-online-posts ✅ ·
   article-writing ✅ · advertisements-and-posters ✅ (catch-up
   build 2026-11-07 — 4 lessons, 72 question items)
 
-## Level 31 — Linking and Fixing Sentences
-*End of level: the learner can link ideas with the full
+## Unit 31 — Linking and Fixing Sentences
+*End of unit: the learner can link ideas with the full
 connector system, keep verbs agreeing with tricky subjects,
 fix broken sentences, and emphasise with cleft sentences and
 object clauses.*
@@ -364,45 +364,45 @@ object clauses.*
   object-clauses ✅ (catch-up build 2026-11-07 — 5 lessons,
   80 question items)
 
-## Level 32 — Habits and Orders
-*End of level: the learner can talk about past habits and
+## Unit 32 — Habits and Orders
+*End of unit: the learner can talk about past habits and
 new habits forming, exclaim, and give orders and
 instructions.*
 - used-to-and-would ✅ · exclamations-and-orders ✅ (catch-up
   build 2026-11-07 — 2 lessons, 32 question items)
 
-## Level 33 — Phrasal Verbs
-*End of level: the learner knows how phrasal verbs work —
+## Unit 33 — Phrasal Verbs
+*End of unit: the learner knows how phrasal verbs work —
 their meanings, which split and which never split, and the
 three-word family.*
 - phrasal-verbs ✅ (catch-up build 2026-11-07 — 1 lesson,
   16 question items; filed under the Word title)
 
-## Level 42 — Reading Like a Detective
-*End of level: the learner can read between the lines and
+## Unit 42 — Reading Like a Detective
+*End of unit: the learner can read between the lines and
 choose a reading strategy on purpose.*
 - reading-between-the-lines ✅ · ways-to-read ✅ (catch-up
   build 2026-11-07 — 2 lessons, 34 question items)
 
-## Level 43 — Words About Words
-*End of level: the learner can use idioms and collocations,
+## Unit 43 — Words About Words
+*End of unit: the learner can use idioms and collocations,
 talk about literature, spot the British/American split, and
 choose the register that fits the place.*
 - idioms-and-collocations ✅ · literary-words ✅ ·
   british-and-american-english ✅ · choosing-your-register ✅
   (catch-up build 2026-11-07 — 4 lessons, 69 question items)
 
-## Level 44 — Tests, Translating, Other Ways
-*End of level: the learner can work an exam paper by its
+## Unit 44 — Tests, Translating, Other Ways
+*End of unit: the learner can work an exam paper by its
 instruction verbs, translate by meaning, and knows the other
 ways people communicate.*
 - exam-technique ✅ · translating-well ✅ ·
   other-ways-to-communicate ✅ (catch-up build 2026-11-07 —
   3 lessons, 51 question items)
 
-## After Level 18
+## After Unit 18
 The ladder keeps climbing — longer essays and the Story → Novel
-titles. Later blocks get their own level numbers here, in this
+titles. Later blocks get their own unit numbers here, in this
 file, as the reading reaches those books.
 
 **CATCH-UP BUILD COMPLETE 2026-11-07.** Under his ruling that
@@ -410,9 +410,9 @@ everything the read books teach goes into the course (README,
 commit 17e6715), the six-sweep inventory of all 42 country
 filings (~250 uncovered topic blocks, filed in
 CATCH-UP-PLAN.md) was built into **110 new lessons**: 34 inside
-existing levels (5, 7, 3, 2, 8) and 76 across new Levels
+existing units (5, 7, 3, 2, 8) and 76 across new Units
 19–44, carrying **2,229 new question items**. The English path
-now stands at **161 lessons across 44 levels**. Every lesson
+now stands at **161 lessons across 44 units**. Every lesson
 stands alone (direct-entry rule), cites its books in the
 standard sources shape, and teaches book errors corrected,
 never as fact. What remains outside the lessons is only the

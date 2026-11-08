@@ -6,7 +6,7 @@ countries join by merge, the way new English countries joined
 the 51 English lessons. This file is the plan a learner follows,
 starting from someone who can barely count and ending able to
 do the secondary-school mathematics the books teach. The lessons
-themselves live in their stage folders below; this plan is the
+themselves live in their unit folders below; this plan is the
 path through them.
 
 **Levels, not terms (his ruling, 2026-10-26, carried over from
@@ -44,7 +44,7 @@ South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania,
 Libya, Vietnam, Ghana) — and GROWS as each next closed
 country's books are read: a new book's material is slotted
 into the lesson it belongs to, and a new block the size of a
-stage becomes its own next stage rather than being stuffed
+unit becomes its own next unit rather than being stuffed
 into an old one. Lessons already built are marked ✅.
 
 **Honest negatives, stated up front:** a topic no read
@@ -65,8 +65,8 @@ already exists as its own shared course — maths lessons do
 NOT rebuild it. The counting lesson below points to it as its
 soft-hint prerequisite.
 
-## Stage 1 — Numbers
-*End of stage: the learner can count, read and write numbers,
+## Unit 1 — Numbers
+*End of unit: the learner can count, read and write numbers,
 say which is bigger, round sensibly, and split numbers into
 factors.*
 - counting ✅ — numbers 1 to 100 and beyond, counted on real things
@@ -80,21 +80,21 @@ factors.*
 - laws-of-arithmetic-operations ✅ — the four laws themselves: identity, commutative, associative, distributive, and calculating cleverly with them (Level 137, Malaysia merge 2026-11-07)
 - even-and-odd-numbers ✅ — even and odd by the last digit, hunting them in a range, and the adding rules (Level 151, India merge 2026-11-07)
 
-## Stage 2 — Addition and Subtraction
-*End of stage: the learner can add and subtract, in their head
+## Unit 2 — Addition and Subtraction
+*End of unit: the learner can add and subtract, in their head
 and in columns, and check their own answers.*
 - addition ✅ — adding, in the head and in columns, with carrying
 - subtraction ✅ — taking away, in the head and in columns, with borrowing
 
-## Stage 3 — Multiplication and Division
-*End of stage: the learner can multiply and divide, knows the
+## Unit 3 — Multiplication and Division
+*End of unit: the learner can multiply and divide, knows the
 tables, and knows which operation comes first.*
 - multiplication ✅ — times tables, multiplying in columns
 - division ✅ — sharing, remainders, dividing in columns
 - the-order-of-operations ✅ — brackets, then multiply and divide, then add and subtract
 
-## Stage 4 — Fractions, Decimals and Percentages
-*End of stage: the learner can split wholes into parts, work
+## Unit 4 — Fractions, Decimals and Percentages
+*End of unit: the learner can split wholes into parts, work
 with those parts, and move between fractions, decimals and
 percentages.*
 - fractions ✅ — parts of a whole, numerator and denominator, equivalent fractions
@@ -106,8 +106,8 @@ percentages.*
 - unitary-method ✅ — the unitary method: many, to one, to many (Level 56, catch-up build 2026-11-06)
 - variation ✅ — direct, inverse, joint and partial variation (Level 57, catch-up build)
 
-## Stage 5 — Negative Numbers, Powers and Roots
-*End of stage: the learner can work below zero, with powers,
+## Unit 5 — Negative Numbers, Powers and Roots
+*End of unit: the learner can work below zero, with powers,
 and with roots, and can write very big and very small numbers
 short.*
 - negative-numbers ✅ — below zero, adding and subtracting negatives, the number line both ways
@@ -116,8 +116,8 @@ short.*
 - standard-form ✅ — writing big and small numbers as a number times a power of ten
 - types-of-zero-and-scale-origins ✅ — the two kinds of zero: natural zeros that mean "none of it" (mass, length) against chosen zeros with real values below them (Celsius, the timeline), and Kelvin's absolute zero against Celsius's relative one (Level 162, Turkey merge 2026-11-07)
 
-## Stage 6 — Algebra
-*End of stage: the learner can use letters for numbers, solve
+## Unit 6 — Algebra
+*End of unit: the learner can use letters for numbers, solve
 equations, and handle the equations that need two unknowns or
 a square.*
 - expressions ✅ — letters, terms, simplifying, expanding brackets
@@ -134,8 +134,8 @@ a square.*
 - reciprocal-equations ✅ — reciprocal (palindromic) polynomials and their equations: roots in reciprocal pairs, the guaranteed root −1 in odd degree, and the y = x + 1/x fold in even degree (Level 154, Venezuela merge 2026-11-07)
 - the-four-means-and-their-inequalities ✅ — the quadratic, arithmetic, geometric and harmonic means of positive numbers, defined side by side, and the proved chain quadratic ≥ arithmetic ≥ geometric ≥ harmonic (Level 156, North Macedonia merge 2026-11-07)
 
-## Stage 7 — Shapes and Angles
-*End of stage: the learner can name shapes, measure angles,
+## Unit 7 — Shapes and Angles
+*End of unit: the learner can name shapes, measure angles,
 and work with circles.*
 - shapes ✅ — polygons, triangles, quadrilaterals, and their properties
 - angles ✅ — measuring angles, angles on a line, in a triangle, around a point
@@ -147,8 +147,8 @@ and work with circles.*
 - platonic-solids-and-eulers-formula ✅ — the five regular polyhedra and Euler's formula V + F − E = 2 (Level 63, catch-up build)
 - types-of-lines ✅ — straight lines (horizontal, vertical, oblique), curved and zigzag lines, open and closed lines, naming pictured lines (Level 145, Rwanda merge 2026-11-07)
 
-## Stage 8 — Measuring, Area and Volume
-*End of stage: the learner can measure, find perimeters and
+## Unit 8 — Measuring, Area and Volume
+*End of unit: the learner can measure, find perimeters and
 areas, find volumes, and use the right-triangle rule.*
 - measuring ✅ — length, mass and capacity, units and converting between them
 - perimeter-and-area ✅ — perimeters, areas of rectangles, triangles, parallelograms and trapeziums
@@ -164,8 +164,8 @@ areas, find volumes, and use the right-triangle rule.*
 - area-under-a-straight-line-graph ✅ — the exact area under a straight line, as the triangle or trapezium beneath it (Level 140, Malaysia merge 2026-11-07)
 - parts-of-a-sphere ✅ — the spherical segment, layer (zone) and sector: their volumes and surface areas (Level 160, Tajikistan merge 2026-11-07)
 
-## Stage 9 — Further Geometry
-*End of stage: the learner can prove shapes the same or the
+## Unit 9 — Further Geometry
+*End of unit: the learner can prove shapes the same or the
 same shape, move shapes, and use trigonometry.*
 - congruence-and-similarity ✅ — same shape and size, same shape different size
 - transformations ✅ — reflection, rotation, translation, enlargement
@@ -182,8 +182,8 @@ same shape, move shapes, and use trigonometry.*
 - loci ✅ — loci: the paths of moving points, and constructing them (Level 78, catch-up build)
 - fractals ✅ — fractals: shapes inside shapes, the Koch snowflake, Sierpiński and Mandelbrot (Level 79, catch-up build)
 
-## Stage 10 — Functions, Graphs and Sequences
-*End of stage: the learner can plot points, read graphs,
+## Unit 10 — Functions, Graphs and Sequences
+*End of unit: the learner can plot points, read graphs,
 describe how one thing changes with another, and continue a
 pattern by its rule.*
 - coordinates-and-graphs ✅ — plotting points, straight-line graphs, gradient and intercept
@@ -196,8 +196,8 @@ pattern by its rule.*
 - special-sequences ✅ — harmonic and arithmetico-geometric sequences, square, cube and triangular numbers (Level 84, catch-up build)
 - rate-of-change ✅ — rate of change of a quantity, negative and zero rates, constant rate of change tested in tables (Level 150, Sudan merge 2026-11-07)
 
-## Stage 11 — Statistics and Probability
-*End of stage: the learner can collect and show data, sum it
+## Unit 11 — Statistics and Probability
+*End of unit: the learner can collect and show data, sum it
 up with averages, and say how likely things are.*
 - sets ✅ — sets, union, intersection, complement, Venn diagrams
 - collecting-and-showing-data ✅ — tables, bar charts, pie charts, histograms
@@ -207,8 +207,8 @@ up with averages, and say how likely things are.*
 - carroll-diagrams ✅ — Carroll diagrams: sorting by two properties at once (Level 86, catch-up build)
 - examining-statistical-research ✅ — examining other people's research: the audit against the four steps, question/population/sample matching, tracing data to a named source, data privacy and consent (Level 161, Turkey merge 2026-11-07)
 
-## Stage 12 — Advanced Mathematics
-*End of stage: the learner can work with logarithms, complex
+## Unit 12 — Advanced Mathematics
+*End of unit: the learner can work with logarithms, complex
 numbers, matrices and vectors, and can differentiate and
 integrate.*
 - logarithms-and-exponentials ✅ — logs, the log laws, exponential equations
@@ -236,8 +236,8 @@ integrate.*
 - linear-transformations ✅ — maps that preserve addition and scaling: the two laws and their first properties, the five kinds of linear map, kernel and image, and rank–nullity (Level 155, Venezuela merge 2026-11-07)
 - cross-sections-of-solids ✅ — sections of prisms, pyramids, cylinders, cones and spheres by a cutting plane: what the section is, how to construct it, and the section theorems (Level 159, Tajikistan merge 2026-11-07)
 
-## Stage 13 — Logic and Proof
-*End of stage: the learner can handle mathematical statements,
+## Unit 13 — Logic and Proof
+*End of unit: the learner can handle mathematical statements,
 say exactly what follows from what, and prove general claims.*
 - mathematical-logic ✅ — propositions, connectives, truth tables, equivalence and quantifiers (Level 100, catch-up build 2026-11-06)
 - proof-methods ✅ — how mathematicians prove things: direct proof, contradiction, the contrapositive (Level 101, catch-up build)
@@ -246,8 +246,8 @@ say exactly what follows from what, and prove general claims.*
 - problem-solving-strategies ✅ — named strategies for hard problems (Level 104, catch-up build)
 - mathematical-modelling ✅ — the six components of a model, break-even answers, scale models, and improving a model (Level 141, Malaysia merge 2026-11-07)
 
-## Stage 14 — Counting and Discrete Mathematics
-*End of stage: the learner can count systematically, work in
+## Unit 14 — Counting and Discrete Mathematics
+*End of unit: the learner can count systematically, work in
 other number systems of reasoning, and handle networks and
 structures.*
 - counting-principles ✅ — the counting principle, permutations and combinations (Level 105, catch-up build 2026-11-06)
@@ -262,8 +262,8 @@ structures.*
 - eulers-totient-and-multiplicative-functions ✅ — multiplicative functions, and Euler's totient φ: what it counts, its table, φ(p) = p − 1, and multiplicativity for coprime arguments, taught corrected (Level 157, North Macedonia merge 2026-11-07)
 - chess-and-sudoku-reasoning ✅ — pure reasoning with no calculation: the candidate check and the king's three exits for mate in one, one-reply-deep proof for mate in two, and sudoku solved by elimination (single candidates and hidden singles), from Bolivia's mathematics-laboratory strand (Chess I–VI and Sudoku) in the ministry's teacher compendium (Level 158, Bolivia merge 2026-11-07)
 
-## Stage 15 — Money, Time and Everyday Mathematics
-*End of stage: the learner can use money, run the money
+## Unit 15 — Money, Time and Everyday Mathematics
+*End of unit: the learner can use money, run the money
 mathematics of everyday life, read time in every system the
 books teach, and work with speed.*
 - money ✅ — notes and coins, paying and giving change (Level 113, catch-up build 2026-11-06)
@@ -275,8 +275,8 @@ books teach, and work with speed.*
 - taxation ✅ — income tax computed whole: reliefs, chargeable income, the bands, the rebate, the PCB balance (Level 144, Malaysia merge 2026-11-07)
 - mixtures-and-alligation ✅ — mixing two ingredients: mean price, unknown price or quantity by balancing profit and loss (Level 146, Rwanda merge 2026-11-07)
 
-## Stage 16 — Further Statistics and Probability
-*End of stage: the learner can reason about uncertain
+## Unit 16 — Further Statistics and Probability
+*End of unit: the learner can reason about uncertain
 evidence the way the world's statistics books teach it —
 conditions, distributions, samples, estimates, tests and
 relationships between data.*
@@ -296,45 +296,45 @@ relationships between data.*
 - monte-carlo-and-simulation ✅ — random numbers, simulation and the Monte Carlo method (Level 130, catch-up build)
 - odds ✅ — odds, from Kuwait's books (Level 131, catch-up build)
 
-## Stage 17 — Mechanics
-*End of stage: the learner can work with the forces that
+## Unit 17 — Mechanics
+*End of unit: the learner can work with the forces that
 hold things still and with the mathematics of motion, the
 way Egypt's applied books teach them.*
 - statics ✅ — forces, resultants, equilibrium, moments, couples and friction (Level 132, catch-up build)
 - dynamics ✅ — motion, Newton's laws, momentum, impulse, work, energy and power (Level 133, catch-up build)
 
-## Stage 18 — First Steps
-*End of stage: the youngest learner can place things, sort
+## Unit 18 — First Steps
+*End of unit: the youngest learner can place things, sort
 things and follow patterns — the first mathematics of all.*
 - position-and-direction ✅ — position words, ordinals and the compass points (Level 134, catch-up build)
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 162 lessons across 18 stages** — the first
-52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
+**LADDER TOTAL: 162 lessons across 18 units** — the first
+52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
-original twelve stages and as new Stages 13–18; the Malaysia
+original twelve units and as new Units 13–18; the Malaysia
 merge of 2026-11-07 added 8 lessons (Levels 137–144) inside
-Stages 1, 6, 8, 13 and 15; the Rwanda merge of 2026-11-07
-added 5 lessons (Levels 145–149) inside Stages 7, 12, 14
+Units 1, 6, 8, 13 and 15; the Rwanda merge of 2026-11-07
+added 5 lessons (Levels 145–149) inside Units 7, 12, 14
 and 15; the Sudan merge of 2026-11-07 added 1 lesson
-(Level 150) inside Stage 10; the India merge of 2026-11-07
-added 2 lessons (Levels 151–152) inside Stages 1 and 6;
+(Level 150) inside Unit 10; the India merge of 2026-11-07
+added 2 lessons (Levels 151–152) inside Units 1 and 6;
 the Mongolia merge of 2026-11-07 added 1 lesson
-(Level 153) inside Stage 6; the Venezuela merge of
+(Level 153) inside Unit 6; the Venezuela merge of
 2026-11-07 added 2 lessons (Levels 154–155) inside
-Stages 6 and 12; the North Macedonia merge of 2026-11-07
-added 2 lessons (Levels 156–157) inside Stages 6 and 14;
+Units 6 and 12; the North Macedonia merge of 2026-11-07
+added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Stage 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Stages 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Stages 11 and 5.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5.
 
-## After Stage 12
+## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:
 every topic the read books teach that the first 52 lessons
 did not cover now has its own lesson — 84 new lessons,
-Levels 53–136, in extensions to the original stages and in
-new Stages 13–18 (logic and proof, counting and discrete
+Levels 53–136, in extensions to the original units and in
+new Units 13–18 (logic and proof, counting and discrete
 mathematics, money and time, further statistics, mechanics,
 first steps). The topics once listed here as untaught — 3-D
 trigonometry, formal proof writing, continuous

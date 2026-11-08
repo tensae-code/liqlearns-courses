@@ -65,10 +65,10 @@ its own subtitle folder with its own lesson + questions):
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you
 - Word → nouns · verbs · adjectives · adverbs · pronouns
-  (built 2026-10-26 — **Level 6, Word Kinds**, under the
+  (built 2026-10-26 — **Unit 6, Word Kinds**, under the
   2026-10-27 split: one former unit = one level)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
-  animals · the-body (built 2026-10-27 — **Level 7, Words
+  animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
   family-words · transport · jobs · sports · feelings ·
   school-subjects · health-words · nature-and-the-environment ·
@@ -77,37 +77,37 @@ its own subtitle folder with its own lesson + questions):
   working-words (the 18 after the-body added 2026-11-07 by the
   catch-up build)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
-  **Level 8, Using the Dictionary**; the platform's own
+  **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
 - Sentence → building-a-sentence · capital-and-full-stop ·
   asking-yes-no-questions · asking-with-question-words ·
   present-actions · past-actions · going-to-later ·
   joining-with-and-and-but · describing-words-in-a-sentence ·
-  mine-and-yours (built 2026-10-27 — **Levels 10–13**:
+  mine-and-yours (built 2026-10-27 — **Units 10–13**:
   Building a Sentence · Questions · Now, Before, Later ·
   Joining and Describing) · the-present-perfect ·
   the-present-perfect-continuous · the-passive ·
-  conditionals (built 2026-10-27 — **Level 18, Deeper
+  conditionals (built 2026-10-27 — **Unit 18, Deeper
   Sentences, COMPLETE**) · the-past-perfect ·
   the-past-perfect-continuous · the-past-continuous ·
   future-continuous · future-perfect · plans-in-the-past
-  (catch-up build 2026-11-07 — **Levels 19–20**; further
+  (catch-up build 2026-11-07 — **Units 19–20**; further
   catch-up sentence lessons join this list as their batches
   land)
 - Word (numbers & time) → numbers · days-and-months ·
-  telling-the-time (built 2026-10-27 — **Level 9, Numbers,
+  telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
-  answering-from-the-text (built 2026-10-27 — **Levels 14–15**:
+  answering-from-the-text (built 2026-10-27 — **Units 14–15**:
   The Paragraph · Reading Whole Texts)
 - Essay → the-essay · opening-and-closing (built
-  2026-10-27 — **Level 16, The Essay**)
+  2026-10-27 — **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·
-  the-big-reading (built 2026-10-27 — **Level 17, Stories**;
-  with this, all 17 levels of the English path are built)
-**Catch-up build 2026-11-07 (110 lessons, Levels 19–44 plus
-additions inside Levels 2, 3, 5, 7, 8 — full map in
+  the-big-reading (built 2026-10-27 — **Unit 17, Stories**;
+  with this, all 17 units of the English path are built)
+**Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
+additions inside Units 2, 3, 5, 7, 8 — full map in
 CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·
 subject-and-object-questions · reported-statements ·
 reported-questions · reported-commands · speech-marks ·
@@ -146,7 +146,7 @@ Conversation → hello-and-your-name (from Egypt, Primary 1) is kept, and
 filed under its title; it is NOT Lesson 1 of the path.
 
 At the bottom of the English path stands **Pencil and Lines** as
-**Level 1** (his correction, 2026-10-27) — and it is also its own
+**Unit 1** (his correction, 2026-10-27) — and it is also its own
 normal course, the shared prerequisite before every language course
 (holding a pencil; drawing and understanding lines). It began as a
 lesson in this folder (Letter → before-the-letters) and was promoted
