@@ -5,7 +5,7 @@
 **SPECIALIST LESSON.** This is a specialist lesson, flagged
 plainly: it teaches the English of three workplaces —
 hotels, offices and tourism — from Greece's vocational
-(EPAL) sector books. It is NOT a general Level 7 set like
+(EPAL) sector books. It is NOT a general Unit 7 set like
 the other lessons of this level. Learners who work, or will
 work, in hotels, offices or tourism take it; other learners
 can pass it by and lose nothing from the general course.
@@ -18,7 +18,7 @@ inquiry; tour, guide, brochure, trip — and the phrases that
 run them.
 **This lesson's own level:** it stands on The town (the
 hotel and the office as town places) and on Jobs-type words
-met across Level 7. It needs nothing else — but it is
+met across Unit 7. It needs nothing else — but it is
 specialist: the words serve a workplace, not the whole
 world.
 
@@ -55,7 +55,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: The town (Level 7) and Money and prices
+- Recommended first: The town (Unit 7) and Money and prices
   (same level — hotel rates and office accounts use them).
   Recommended, never forced — this lesson stands alone: each
   workplace set is taught whole.

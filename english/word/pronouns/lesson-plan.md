@@ -125,7 +125,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes my and mine → my rides with its noun (my book); mine
   stands alone (the book is mine). Ghana's pair, in the deeper
   level.
-- This lesson's next door: Level 7, Words for the
+- This lesson's next door: Unit 7, Words for the
   World. The object forms (me, him, them) wait at the Sentence
   stage, where the books teach them.
 

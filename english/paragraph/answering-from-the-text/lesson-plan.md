@@ -134,7 +134,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   say" → name the fear kindly: in examinations and in life,
   the invented answer is the only truly wrong one here. The
   honest silence scores; the guess gambles.
-- This lesson completes Level 15. Next: Level 16 — The Essay.
+- This lesson completes Unit 15. Next: Unit 16 — The Essay.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

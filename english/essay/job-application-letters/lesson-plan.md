@@ -9,7 +9,7 @@ paragraph order: where you saw the job, who you are, why
 you fit, what you enclose, and the polite push for an
 interview.
 **This lesson's own level:** it wears The formal letter's
-frame whole; the CV gets its own lesson (Level 35) — here
+frame whole; the CV gets its own lesson (Unit 35) — here
 the letter only points at it ("I enclose my CV").
 **What the learner can do at the end:** write a complete
 application letter matched to one real advert, in the

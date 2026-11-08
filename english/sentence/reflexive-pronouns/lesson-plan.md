@@ -14,7 +14,7 @@ in their three jobs: the action returns to the doer
 himself) — plus **each other / one another**, the
 pointing word that goes between two or more, never back.
 **This lesson's own level:** it stands on the pronoun
-lessons and closes Level 27; its each other is the grid
+lessons and closes Unit 27; its each other is the grid
 words' partner (someone… each other).
 **What the learner can do at the end:** build all eight
 reflexives (with the two irregular middles — my-self,
@@ -104,5 +104,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck choosing reflexive vs each other: draw the
   arrow. If it bends back to the doer, reflexive; if it
   crosses to another person, each other.
-- This lesson closes Level 27; the course's next door
-  is Level 28 — Comparing More Deeply.
+- This lesson closes Unit 27; the course's next door
+  is Unit 28 — Comparing More Deeply.

@@ -12,7 +12,7 @@ different word: to / two), and homonyms (one word, more
 than one meaning: mouse the animal, mouse the computer
 part).
 **This lesson's own level:** it stands on Using the
-dictionary (Level 8's skill, met early here as a hint: an
+dictionary (Unit 8's skill, met early here as a hint: an
 entry gives synonyms and antonyms) and on Word building
 (parts make words; this lesson is about whole words and
 their partners). It needs nothing else.
@@ -127,7 +127,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Thinks homonym is a spelling mistake → Tanzania's reader
   itself plays the trap: Mr Mouse asks "Where is my mouth?"
   One word, two meanings is a real thing with a name.
-- This lesson's next door: Using the dictionary (Level 8) —
+- This lesson's next door: Using the dictionary (Unit 8) —
   entries print synonyms and antonyms; this lesson teaches
   what those gifts mean.
 

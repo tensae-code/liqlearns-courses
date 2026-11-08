@@ -77,7 +77,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
    both retold by Peter Viney (Garnet, 2019).
 3. Read a book the reader's way: whole chapters without
    stopping, the ladder for hard words, a two-line telling-
-   back after each chapter (Level 17's own skill as the
+   back after each chapter (Unit 17's own skill as the
    chapter check).
 4. Step up on purpose: when a level reads easy twice, take
    the next — the road ends at the real, unretold books.
@@ -155,7 +155,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   skipped. No new chapter until the last one is told back
   in two sentences — Telling a story back is this lesson's
   memory engine.
-- With this lesson, **Level 17 — and the built English
+- With this lesson, **Unit 17 — and the built English
   path — is complete**. The plan's
   next country is the deeper sentence work and longer
   writing the later books carry — and the Novel at the

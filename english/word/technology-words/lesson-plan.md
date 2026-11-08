@@ -45,7 +45,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Verbs (Level 6). Recommended, never
+- Recommended first: Verbs (Unit 6). Recommended, never
   forced — this lesson stands alone: every doing word is
   taught in its own sentence.
 - How computers work inside is NOT this lesson. This lesson

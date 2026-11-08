@@ -113,7 +113,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on the perfect participle: ask which action
   finished FIRST. That one wears having; the main verb
   carries the second.
-- This lesson's next door: Level 24 opens with Gerunds
+- This lesson's next door: Unit 24 opens with Gerunds
   and infinitives — where having done returns as a
   verb's object, a different seat from this lesson's
   clause.

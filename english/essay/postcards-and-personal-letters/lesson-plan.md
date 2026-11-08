@@ -71,4 +71,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   food and feeling.
 - Letter cold or shapeless: walk Egypt's five parts in
   order; warmth lives in the introduction and the closing.
-- This level's next door: Level 41 — Stories and poems in detail.
+- This level's next door: Unit 41 — Stories and poems in detail.

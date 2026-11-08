@@ -9,7 +9,7 @@ their own past forms for the irregular movers, was/were for
 be, and Did/didn't for asking and denying, where the verb
 steps back to its base.
 **This lesson's own level:** it stands on Present actions
-(same verbs, other time) and Level 11's machinery (Did is the
+(same verbs, other time) and Unit 11's machinery (Did is the
 engine's past twin). It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the

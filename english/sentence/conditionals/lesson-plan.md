@@ -13,7 +13,7 @@ first (really possible), second (imagined), third (a past
 that can't change).
 **This lesson's own level:** it stands on the whole
 Sentence title beneath it — present and past coats
-(Levels 10–13), will and going to (Level 12), and this
+(Units 10–13), will and going to (Unit 12), and this
 level's perfect machinery (had + participle, would have)
 from The present perfect.
 **What the learner can do at the end:** build all four
@@ -122,6 +122,6 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   — had + participle is the past perfect's shape, and
   would have + participle is its twin. One piece at a
   time.
-- This lesson completes Level 18, "Deeper Sentences."
+- This lesson completes Unit 18, "Deeper Sentences."
   Next beyond the level: longer essays and the Novel
   title, as the reading reaches those books.

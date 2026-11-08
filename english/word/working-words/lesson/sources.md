@@ -34,7 +34,7 @@ READ + CITATION CHECK PASSED).
 | Unit 1 "Getting a job" (the school-leaver Maria Petrou's road into office work); Unit 2 "Communications and office practice" (choosing the channel: letter, memo, circular, notice board…); Unit 3 "Commercial correspondence – Exports": one full transaction in model letters — inquiry, order, acknowledgement, complaint — each with its standard phrases; the final alphabetical Vocabulary | Greece, English for Office Clerks, Units 1–3, printed pp.13–211; Vocabulary printed pp.375–405 |
 
 **Acceptance count: taught in 1 country (Greece).** This is
-the specialist lesson of Level 7, and its narrow base is
+the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the whole stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
 Tourist Trade course (hotel services, food and beverage,

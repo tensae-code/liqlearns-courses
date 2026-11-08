@@ -9,7 +9,7 @@ the words for buying, selling and what things cost
 cost, price, coin, note, save, lend, borrow — the names of
 currencies (riel, soum, pound, yen, euro), and the two price
 questions: "How much is it?" and "How much does it cost?"
-**This lesson's own level:** it stands on Numbers (Level 9 —
+**This lesson's own level:** it stands on Numbers (Unit 9 —
 a price is a number with a money word after it) and on The
 town (the market and the shop are where prices are asked).
 It needs nothing else.
@@ -44,7 +44,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Numbers (Level 9). Recommended, never
+- Recommended first: Numbers (Unit 9). Recommended, never
   forced — this lesson stands alone: the prices in it are
   small and written out in words as well as figures.
 - Shopping talk — choosing, trying, paying in a full

@@ -44,7 +44,7 @@ is the gate pool.
 
 ## Before this lesson
 - Recommended first: Days and months (this level) and
-  Nouns (Level 6). Recommended, never forced.
+  Nouns (Unit 6). Recommended, never forced.
 - Saudi Arabia's evidence is the held Student's Book
   Unit 9 opener (printed p.66) with its band-reader
   note — school subjects named there; worded so in the

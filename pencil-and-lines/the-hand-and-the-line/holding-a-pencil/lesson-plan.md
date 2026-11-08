@@ -3,9 +3,9 @@
 
 **Course:** Pencil and Lines · **Title:** The hand and the line ·
 **Lesson:** Holding a pencil
-**Place in the curriculum:** Level 1 of the English path — and the recommended
+**Place in the curriculum:** Unit 1 — Pencil and Lines, of the English path — and the recommended
 prerequisite that comes first in every language course
-(English CURRICULUM.md, Level 1).
+(English CURRICULUM.md, Unit 1).
 **The one thing this lesson teaches:** the book's five-step grip —
 the pencil resting, not squeezed, in a small chair made of fingers.
 

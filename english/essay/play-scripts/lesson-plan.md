@@ -69,4 +69,4 @@ gate pool.
 - Directions swallowing the play: a direction earns its
   place only if an actor must DO it to be understood.
 - Next in this level: this level closes; Essay kinds
-  opens Level 39.
+  opens Unit 39.

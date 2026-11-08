@@ -40,7 +40,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   never forced.
 - The question mark is named here as the full stop's sibling
   (Ghana opens punctuation with the pair), but asking
-  questions is Level 11's own lesson — here it only closes a
+  questions is Unit 11's own lesson — here it only closes a
   written question. Commas have their own later home;
   Bangladesh's first punctuation exercise already seats the
   comma beside the pair, and it is shown, not taught, here.
@@ -118,7 +118,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Capitals on common nouns ("Cat") → Bangladesh's box says
   names of persons, places and things — a NAME, not a kind.
   "Mita" wears one; "girl" does not, though both are her.
-- This lesson completes Level 10. Next: Level 11 — Questions.
+- This lesson completes Unit 10. Next: Unit 11 — Questions.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

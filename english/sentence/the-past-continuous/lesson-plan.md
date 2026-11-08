@@ -41,4 +41,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on was/were: it is be's past — was for I/he/she/it, were for you/we/they, exactly as in the past of be already learned.
 - Stuck choosing the coat for an action: ask "is it the moving scene or the sharp cut?" Long and moving → this tense; short and sharp → past simple.
 - Stuck on while: while may only hold a past-continuous side — if the other side is a short cut, use when.
-- This lesson's next door: Level 20 — The Future in Detail, opening with the future continuous: the same moving scene, aimed forward.
+- This lesson's next door: Unit 20 — The Future in Detail, opening with the future continuous: the same moving scene, aimed forward.

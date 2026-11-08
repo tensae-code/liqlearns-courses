@@ -128,7 +128,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 ## If the learner is stuck
 - Retells the whole text when asked its idea → the one-
   sentence law with a timer: say it before ten fingers
-  fall. Retelling is Level 17's story work; the idea
+  fall. Retelling is Unit 17's story work; the idea
   is one sentence, always.
 - Picks the FIRST paragraph's idea as the text's → the
   weighing drill: tally what each paragraph serves on

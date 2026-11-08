@@ -125,7 +125,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   the same everywhere; the starting card is each country's
   own. Their own country's calendar decides their line.
 - This lesson's next door: Telling the time — the day cut
-  into hours (same level, completing Level 9).
+  into hours (same level, completing Unit 9).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

@@ -98,5 +98,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on inversion: put if back. "Had I known" =
   "If I had known" with if dropped and had stepped
   first. If the rebuild works, the inversion is right.
-- This lesson's next door: Level 26 — How Sure Are
+- This lesson's next door: Unit 26 — How Sure Are
   You?, opening with deduction about now.

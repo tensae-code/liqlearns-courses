@@ -14,7 +14,7 @@ see it?") that checks in surprise.
 **This lesson's own level:** it stands on Building a
 sentence (subject and object are named there) and on
 Asking with question words (the helper machinery comes
-straight back). It closes Level 21.
+straight back). It closes Unit 21.
 **What the learner can do at the end:** decide, for any
 missing piece, whether it is the doer or the done-to;
 build the matching question with no stray did in subject
@@ -110,5 +110,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   see its subject (the subject is the question), so it
   dresses as if the answer were he/she/it: Who lives…?
   What happens…?
-- This level's next door: Level 22, reported speech —
+- This level's next door: Unit 22, reported speech —
   where these same questions get retold in other words.

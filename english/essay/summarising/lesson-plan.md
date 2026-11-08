@@ -74,4 +74,4 @@ gate pool.
 - Too long: you are carrying examples. The main points
   ride; examples walk.
 - Next in this level: this level closes; diaries and
-  life writing open Level 40.
+  life writing open Unit 40.

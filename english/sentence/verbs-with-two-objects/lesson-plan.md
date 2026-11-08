@@ -14,7 +14,7 @@ doing-for verbs, and the pronoun rule that turns the
 second shape into the safe one.
 **This lesson's own level:** it stands on Building a
 sentence (the object is already known; here it splits
-into two) and closes Level 24. Its evidence is two
+into two) and closes Unit 24. Its evidence is two
 countries deep, stated plainly: Cambodia's Grade 11
 course — teacher's-book spreads, the student's book
 not held — and Mongolia's English IX.
@@ -112,6 +112,6 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   FOR someone's benefit takes for. If the thing travels
   from hand to hand, to; if the work is done so the
   person has it, for.
-- This level's next door: Level 25 opens the wishing
+- This level's next door: Unit 25 opens the wishing
   machinery — wish and if only — where these same verbs
   start carrying dreams instead of parcels.

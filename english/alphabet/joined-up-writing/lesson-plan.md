@@ -121,7 +121,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   (Kuwait's page furniture): body of the letter between
   the middle lines, ascenders reaching up, then re-enter.
 - This lesson's neighbours: The alphabet (before — the
-  shapes); Blending sounds (next door in Level 3 — the
+  shapes); Blending sounds (next door in Unit 3 — the
   sounds, a different thing).
 
 ## Teacher note

@@ -10,7 +10,7 @@ forest, mountain, lake, river, sea, hill, stream, rock, sun,
 moon — where animals live, and the environment words for
 what harms the earth and what saves it: pollution, climate
 change, recycle, wind power.
-**This lesson's own level:** it stands on Animals (Level 7 —
+**This lesson's own level:** it stands on Animals (Unit 7 —
 the animal names come back here, in their homes) and on The
 town (places made by people; this lesson is the places no
 one made). It needs nothing else.
@@ -46,7 +46,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Animals (Level 7). Recommended, never
+- Recommended first: Animals (Unit 7). Recommended, never
   forced — this lesson stands alone: every animal named here
   is named whole, with its home.
 - The weather words (sunny, rainy…) are NOT this lesson;

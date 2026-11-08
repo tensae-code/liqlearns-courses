@@ -46,4 +46,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on the coat: the participle never changes — find the tense in the be-family word in front of it (being = continuous, been = perfect, be after a modal or will).
 - Stuck on impersonal pairs: It is said that + a whole sentence keeps the rumour at arm's length; He is said to + infinitive puts the person in front — same rumour, two cameras.
 - Stuck on two-object passives: a verb like give has two receivers (the person, the thing); either can step to the front, and the other keeps its place (with to for the person when the thing leads).
-- This lesson's next door: Adjective order (Level 30) — dressing the noun the passive so often fronts.
+- This lesson's next door: Adjective order (Unit 30) — dressing the noun the passive so often fronts.

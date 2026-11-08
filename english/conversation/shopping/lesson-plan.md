@@ -86,4 +86,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   the receipt.
 - This lesson's neighbours: Telephoning (booking the
   room) and Money and prices (the words of money, in
-  Level 7).
+  Unit 7).

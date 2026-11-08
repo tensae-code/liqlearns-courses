@@ -11,7 +11,7 @@ inverted commas (speech marks), a capital letter to open
 the speech, a comma before the quote when the reporting
 clause leads, the ending punctuation inside the marks,
 and a new line for every new speaker.
-**This lesson's own level:** it closes Level 22 by
+**This lesson's own level:** it closes Unit 22 by
 standing opposite the three reporting lessons: they
 retell words in your own sentence; this one quotes the
 words themselves, and the marks are what show the
@@ -124,5 +124,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on whose line: in a story, a new speaker always
   drops to a new line; if two voices share a line on
   your page, one of them is lost.
-- This level's next door: Level 23, relative clauses —
+- This level's next door: Unit 23, relative clauses —
   joining sentences with who and which.

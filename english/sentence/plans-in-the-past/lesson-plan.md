@@ -41,4 +41,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on which coat: ask what the story means — a plan (going to), a second before (about to), an expectation or rule (supposed to), or a formal arrangement in print (bare to-infinitive).
 - Stuck on was/were: it is be's past, carried whole from the past continuous — was for I/he/she/it, were for you/we/they.
 - Stuck assuming the plan failed: was going to does not itself say failure — the story must. Look for the but; without it, ask the teller.
-- This lesson's next door: Level 21 — Questions That Check, opening with question tags.
+- This lesson's next door: Unit 21 — Questions That Check, opening with question tags.

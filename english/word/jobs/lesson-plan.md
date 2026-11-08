@@ -45,7 +45,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Nouns and Verbs (Level 6, Word
+- Recommended first: Nouns and Verbs (Unit 6, Word
   Kinds). Recommended, never forced.
 - Rwanda P4's own word-family box prints "Firefight : …"
   where the job word required is firefighter — a book

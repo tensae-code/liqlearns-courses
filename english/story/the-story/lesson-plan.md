@@ -10,7 +10,7 @@ and things happening, in an order, told mostly in the
 past: the narrative shape every story in every country's
 book is built from.
 **This lesson's own level:** it stands on Past actions (the
-story's tense is the past — Level 12's own rule that a
+story's tense is the past — Unit 12's own rule that a
 narrative wears the past) and on First/Then/Finally (the
 happenings' order rides on those signposts). It opens the
 Story title; the Novel beyond it is the plan's far shore.
@@ -140,7 +140,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   the Do-it-first, replayed with their own texts: does it
   HAPPEN, or does it ARGUE? Happenings belong to people.
 - Happenings without a spine (and then, and then…) → the
-  signpost set is the spine's first form (Level 14); a story
+  signpost set is the spine's first form (Unit 14); a story
   is a sequence paragraph that grew people.
 - Present tense throughout a telling → not an error of the
   story-shape but of its coat: Past actions is the repair

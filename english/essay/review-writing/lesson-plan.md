@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the review — a piece that informs AND persuades: a fair summary of the thing, your judgements in order with reasons, and a recommendation a reader can trust.
-**This lesson's own level:** it stands on The essay and on Report writing — the review keeps the report's honesty and adds a judgement that must be earned. It opens Level 37, Writing Your View.
+**This lesson's own level:** it stands on The essay and on Report writing — the review keeps the report's honesty and adds a judgement that must be earned. It opens Unit 37, Writing Your View.
 **What the learner can do at the end:**
 - build a review on Egypt's four parts: introduction + overall impression, specific details, pros and cons, conclusion + recommendation
 - judge in order with reasons — every strong word paid for by a detail

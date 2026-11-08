@@ -44,7 +44,7 @@ is the gate pool.
 
 ## Before this lesson
 - Recommended first: The body (this level) and Nouns /
-  Adjectives (Level 6). Recommended, never forced.
+  Adjectives (Unit 6). Recommended, never forced.
 - Albania's evidence is a teacher's guide for a digital
   platform course (Akelius), not a pupil's book; worded
   so in the sources. Its list misprints "don't warry"

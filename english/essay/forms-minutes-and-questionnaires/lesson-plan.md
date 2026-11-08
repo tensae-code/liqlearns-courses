@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the short factual instruments — filling a form so every box tells the truth briefly, keeping minutes and an agenda so a meeting can be trusted later, and designing a questionnaire whose questions gather countable answers.
-**This lesson's own level:** it stands on Report writing (same level — a questionnaire feeds a survey report; minutes are a meeting's report). It is the fourth lesson of Level 36.
+**This lesson's own level:** it stands on Report writing (same level — a questionnaire feeds a survey report; minutes are a meeting's report). It is the fourth lesson of Unit 36.
 **What the learner can do at the end:**
 - fill any form accurately: right facts, right boxes, block-clear, nothing invented
 - write an agenda before a meeting and minutes after it — who was there, what was decided, who does what by when
@@ -53,4 +53,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - A form box you cannot fill → never invent. Write what is true, leave what is not known clearly empty or marked as the form directs; a guessed date of birth follows a person for years.
 - Minutes that tell the whole discussion → minutes record DECISIONS and ACTIONS, not speeches. If it was not decided or assigned, it earns at most one line.
 - A questionnaire question with answers all over the place → the question is double ('and'), leading, or answerless. Split it, neutralise it, give it boxes.
-- This lesson's next door: Review writing (Level 37) — facts hand over to judgement: the same discipline, now with an opinion that must be earned.
+- This lesson's next door: Review writing (Unit 37) — facts hand over to judgement: the same discipline, now with an opinion that must be earned.

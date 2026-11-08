@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the factual report — a piece that gives checked information under headings and ends in what should be done: the survey report (aims, method, numbers, conclusion) and the formal report (title, To/From, introduction, findings, recommendations, conclusion).
-**This lesson's own level:** it stands on The paragraph (each headed part is paragraphs with one job) and on The essay (a planned whole). It is the first lesson of Level 36, Writing the Facts.
+**This lesson's own level:** it stands on The paragraph (each headed part is paragraphs with one job) and on The essay (a planned whole). It is the first lesson of Unit 36, Writing the Facts.
 **What the learner can do at the end:**
 - name the parts of a formal report in order and say each part's job
 - run a small survey and report it: aim, method, numbers in words and a chart, conclusion

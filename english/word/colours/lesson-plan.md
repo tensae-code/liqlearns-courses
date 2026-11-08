@@ -45,7 +45,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Nouns (Level 6, Word Kinds). Recommended,
+- Recommended first: Nouns (Unit 6, Word Kinds). Recommended,
   never forced.
 - Mixing colours and patterns (striped, checked, dotted) are
   NOT this lesson's core; the mixing chart rides in at Level 3

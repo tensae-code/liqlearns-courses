@@ -43,4 +43,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on too vs enough: too stands BEFORE the adjective and closes the door (too heavy to lift); enough stands AFTER the adjective and opens it (light enough to lift).
 - Stuck on so vs such: so takes the adjective or adverb alone (so fast that); such takes a noun phrase (such a fast car that) — if a noun stands there, it is such.
 - Stuck on a/an after such: countable singular nouns take a/an (such a day); plurals and uncountables take none (such good weather).
-- This lesson's next door: Connectors and clauses (Level 31) — the that-clause family this lesson's result clauses belong to.
+- This lesson's next door: Connectors and clauses (Unit 31) — the that-clause family this lesson's result clauses belong to.

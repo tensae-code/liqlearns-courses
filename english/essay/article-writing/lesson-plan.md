@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the magazine/newspaper article — a headline, a hook that pulls the reader in (a rhetorical question among its tools), and an ordered body that informs in a voice a stranger enjoys; with its small factual brother, the fact file.
-**This lesson's own level:** it stands on News writing (Level 36 — the article is news slowed down and given a voice) and on The essay. It is the third lesson of Level 37.
+**This lesson's own level:** it stands on News writing (Unit 36 — the article is news slowed down and given a voice) and on The essay. It is the third lesson of Unit 37.
 **What the learner can do at the end:**
 - write an article whole: headline, hook, ordered body, closing line that lands
 - use a rhetorical question as a hook or a turn, and keep the article's tone direct and alive

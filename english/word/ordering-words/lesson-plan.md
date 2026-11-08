@@ -4,7 +4,7 @@
 **Course:** English · **Title:** Word · **Lesson:** Ordering words
 **Place in the curriculum:** Unit 8 — Using the Dictionary —
 the second lesson of the unit (CURRICULUM.md;
-CATCH-UP-PLAN.md places ordering words inside Level 8).
+CATCH-UP-PLAN.md places ordering words inside Unit 8).
 **The one thing this lesson teaches:** alphabetising
 DEEP — when the first letters tie, the second letter
 decides; when the second ties, the third; when the
@@ -12,7 +12,7 @@ third ties, the fourth — and what the parts of a
 dictionary entry are, so the word you fought to find
 pays you when you land on it.
 **This lesson's own level:** Using the dictionary
-(Level 8's first lesson) teaches the finding machine —
+(Unit 8's first lesson) teaches the finding machine —
 letter order, guide words, the entry. This lesson is
 the deep drill of that machine: ordering to the fourth
 letter, the index as the same machine in another book,
@@ -137,8 +137,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Copies the first meaning and stops → India's page is
   the warning: ghastly holds TWO meanings on the page;
   an entry is a small list, read whole.
-- This lesson completes the deep drill of Level 8.
-  Next: Level 9, Numbers, Days, and Time.
+- This lesson completes the deep drill of Unit 8.
+  Next: Unit 9, Numbers, Days, and Time.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

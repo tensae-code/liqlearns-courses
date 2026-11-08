@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the news report — a headline that carries the story in a few words, and a lead that answers who, what, where and when at once, with the tenses news uses: the short present of headlines, the past of finished events, the present perfect of fresh news.
-**This lesson's own level:** it stands on Report writing (same level — the same checked facts, told faster) and on the tense lessons (past actions; the present perfect). It is the second lesson of Level 36.
+**This lesson's own level:** it stands on Report writing (same level — the same checked facts, told faster) and on the tense lessons (past actions; the present perfect). It is the second lesson of Unit 36.
 **What the learner can do at the end:**
 - write a headline that carries one whole news event in a few words
 - write a lead sentence answering who, what, where and when before anything else

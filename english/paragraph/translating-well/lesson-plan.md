@@ -31,7 +31,7 @@ written in questions/, so the sub lesson's whole question set is the
 gate pool.
 
 ## Before this lesson
-- Idioms and collocations (Level 43) is the neighbour lesson — if you know it, this one will be easier, because idioms are where word-for-word dies first. This lesson stands alone: its whole law is stated here.
+- Idioms and collocations (Unit 43) is the neighbour lesson — if you know it, this one will be easier, because idioms are where word-for-word dies first. This lesson stands alone: its whole law is stated here.
 - Recommended, never forced. This lesson stands alone for a
   learner who lands on it directly; anything earlier is a soft
   hint only ("if you know this one, this lesson will be easier").

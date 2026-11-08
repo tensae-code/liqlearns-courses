@@ -43,7 +43,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Questions with what/where/when/who are the NEXT lesson —
   a different shape (a question word leads, and the answer
   is a thing, not yes/no). Past-tense questions (Did you…?)
-  belong to Level 12 with the past itself.
+  belong to Unit 12 with the past itself.
 
 ## What the learner can do when it ends
 1. Turn a be-statement into a question by the swap: "She is

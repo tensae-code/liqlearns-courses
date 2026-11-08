@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 36 — "Writing the Facts"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** the procedure/process text — writing that makes something happen in the right order: a goal, the things needed, and steps in imperatives joined by sequence words; and a map of the text kinds it belongs to (procedure, descriptive, recount, report).
-**This lesson's own level:** it stands on ordering words (First/Then/Finally) and on Report writing in the same level — the report says what was found; the procedure says what to DO. It is the third lesson of Level 36.
+**This lesson's own level:** it stands on ordering words (First/Then/Finally) and on Report writing in the same level — the report says what was found; the procedure says what to DO. It is the third lesson of Unit 36.
 **What the learner can do at the end:**
 - write a procedure whole: goal, materials/ingredients, ordered steps
 - write steps as imperatives a stranger can follow without you standing there

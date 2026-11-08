@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** writing online in your own voice — the blog post (a heading that catches, a dated personal voice, short paragraphs, a mind-map plan), the social-media post, and the manners of being online: commenting politely, and giving bad news politely.
-**This lesson's own level:** it stands on The paragraph (short paragraphs are the blog's rooms) and on Review writing in the same level — the blog is judgement and experience in a friendlier voice. It is the second lesson of Level 37.
+**This lesson's own level:** it stands on The paragraph (short paragraphs are the blog's rooms) and on Review writing in the same level — the blog is judgement and experience in a friendlier voice. It is the second lesson of Unit 37.
 **What the learner can do at the end:**
 - plan a blog post with a mind map and write it: catchy heading, dated opening, short paragraphs, a story told like to a friend
 - write a social-media post that fits its small room: one point, warm, complete

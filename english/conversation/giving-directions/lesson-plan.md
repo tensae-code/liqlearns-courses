@@ -30,7 +30,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
-- Soft hint only: The town (Level 7) names the places.
+- Soft hint only: The town (Unit 7) names the places.
   Recommended, never forced — this lesson stands alone.
 
 ## Media slots
@@ -94,4 +94,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   them walk, give three more.
 - This lesson's neighbours: Telephoning (Greece's hotel
   desk fields both calls and directions) and The town
-  (the place words, in Level 7).
+  (the place words, in Unit 7).

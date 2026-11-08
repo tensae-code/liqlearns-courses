@@ -70,5 +70,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   walk S–T–A–R on fingers.
 - Silence after questions: Armenia's thinking-time phrases
   buy the seconds honestly.
-- This level closes here; the course continues to Level 36,
+- This level closes here; the course continues to Unit 36,
   Writing the Facts.

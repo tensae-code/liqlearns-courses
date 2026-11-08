@@ -43,7 +43,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Nouns (Level 6, Word Kinds) and Days
+- Recommended first: Nouns (Unit 6, Word Kinds) and Days
   and months (this level). Recommended, never forced.
 - Albania's evidence is a teacher's guide for a digital
   platform course (Akelius), not a pupil's book; it is

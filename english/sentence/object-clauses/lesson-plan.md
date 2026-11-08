@@ -117,5 +117,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   these, and when?" Reported speech replays somebody's
   past words with a reporting frame; an object clause
   carries a present thought whole.
-- This level's next door (Level 32): Used to and would
+- This level's next door (Unit 32): Used to and would
   — English looking backwards at habits.

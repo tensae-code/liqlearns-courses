@@ -43,7 +43,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Verbs (Level 6, Word Kinds).
+- Recommended first: Verbs (Unit 6, Word Kinds).
   Recommended, never forced.
 - HARD RULE for this lesson's sources: Albania Chapter
   33's printed "Main vocabulary" list is a filing-flagged

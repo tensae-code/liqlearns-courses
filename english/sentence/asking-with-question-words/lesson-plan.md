@@ -124,7 +124,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Mixes when and where → prey check: if the answer could be
   a place, the word is where; if it could be a time, when.
   The answer chooses the word.
-- This lesson completes Level 11. Next: Level 12 — Now, Before,
+- This lesson completes Unit 11. Next: Unit 12 — Now, Before,
   Later (the times of verbs).
 
 ## Teacher note

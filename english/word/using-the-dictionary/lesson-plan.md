@@ -124,7 +124,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Copies a meaning that does not fit their sentence → 'dry'
   is the standing warning: read ALL the meanings, then pick
   the one that fits the sentence in front of you.
-- This lesson completes Level 8. Next: Level 9, Numbers,
+- This lesson completes Unit 8. Next: Unit 9, Numbers,
   Days, and Time.
 
 ## Teacher note

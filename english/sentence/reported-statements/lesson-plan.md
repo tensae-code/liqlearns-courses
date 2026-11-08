@@ -12,7 +12,7 @@ with it — and the one family that refuses to move:
 universal truths keep the present tense.
 **This lesson's own level:** it stands on the whole
 tense ladder (every rung is a backshift step) and opens
-Level 22; reported questions and reported commands
+Unit 22; reported questions and reported commands
 follow it inside this level.
 **What the learner can do at the end:** report any
 statement with the full backshift chart; choose say vs
@@ -38,7 +38,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## Before this lesson
 - Recommended first: Past actions and The present
   perfect (backshift walks exactly those coats), and
-  Question tags / Subject and object questions (Level 21
+  Question tags / Subject and object questions (Unit 21
   closes just before). Recommended, never forced.
 - Speech marks (this level's last lesson) quote the
   EXACT words; this lesson retells them. Keep the two

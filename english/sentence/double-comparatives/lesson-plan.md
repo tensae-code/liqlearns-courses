@@ -41,4 +41,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on which side leads: the first the-clause is the lever (the more you read), the second is what follows (the faster you learn) — swap them and the meaning swaps too.
 - Stuck between the two shapes: two changes locked together → the more…the more; one thing changing step by step → bigger and bigger.
 - Stuck on *very better*: very grades plain adjectives (very big); comparatives take much/far/a lot or the double shapes — never very.
-- This lesson's next door: The passive in every tense (Level 29) — the passive carried through every coat.
+- This lesson's next door: The passive in every tense (Unit 29) — the passive carried through every coat.

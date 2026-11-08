@@ -87,4 +87,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
   "What a shame!", "You poor thing!"
 - This lesson's neighbours: Telephoning (Jubeda
   congratulates Krishna by phone, in Nepal's guide) and
-  the personal letters of Level 40.
+  the personal letters of Unit 40.

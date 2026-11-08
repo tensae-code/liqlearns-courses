@@ -11,7 +11,7 @@ suffixes at the back (-ful, -less, -ness), roots in the
 middle carrying the meaning, and syllables as the beats a
 word is built from.
 **This lesson's own level:** it stands on Word Kinds
-(Level 6 — a suffix can change a word's kind: teach →
+(Unit 6 — a suffix can change a word's kind: teach →
 teacher) and on Sounds Together (syllables are clapped
 sounds first). It needs nothing else. Compound words —
 two whole words joined — are the next lesson, not this one.
@@ -47,8 +47,8 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Word Kinds (Level 6) and the syllable
-  work in Sounds Together (Level 3). Recommended, never
+- Recommended first: Word Kinds (Unit 6) and the syllable
+  work in Sounds Together (Unit 3). Recommended, never
   forced — this lesson stands alone: root, prefix and
   suffix are taught on the word happy, whole.
 - Compound words (football = foot + ball) are NOT this

@@ -5,7 +5,7 @@
 **Place in the curriculum:** Unit 37 — "Writing Your View"
 (CURRICULUM.md; CATCH-UP-PLAN.md Levels 36–37).
 **The one thing this lesson teaches:** short persuasive copy — an advertisement's claim, its benefit adjectives and its call to action, in the fewest words that can work; and its wall-sized family: posters, flyers and infographics.
-**This lesson's own level:** it stands on Review writing and Article writing in the same level — persuasion with the review's facts kept honest and the article's hook sharpened to a point. It closes Level 37.
+**This lesson's own level:** it stands on Review writing and Article writing in the same level — persuasion with the review's facts kept honest and the article's hook sharpened to a point. It closes Unit 37.
 **What the learner can do at the end:**
 - write an advertisement whole: a claim, benefit adjectives tied to real benefits, a call to action
 - name the advertising methods and audiences and choose between them (Cambodia's set)
@@ -58,4 +58,4 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - A claim with no benefit → ask 'what does it DO for the buyer?' until a benefit answers. Adjectives without benefits are paint without a wall.
 - A poster nobody can read → the three-step test. Enlarge the message, cut the words, one picture only. A poster is read by feet that are still moving.
 - Persuasion sliding into lies → the review law: claim only what the thing can keep. A burned reader never returns, and tells ten friends.
-- This lesson's next door: Speech writing (Level 38) — persuasion leaves the page and stands up: the same claim and call, carried by a voice.
+- This lesson's next door: Speech writing (Unit 38) — persuasion leaves the page and stands up: the same claim and call, carried by a voice.

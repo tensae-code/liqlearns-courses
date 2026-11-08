@@ -139,7 +139,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   Leone's JSS lessons): a full stop falls, a yes/no
   question mark rises. Then Vietnam's finer system.
 - This lesson's neighbours: The three sounds of -ed
-  (before); Word families (next door in Level 4).
+  (before); Word families (next door in Unit 4).
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

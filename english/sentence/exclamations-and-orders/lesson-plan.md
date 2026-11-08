@@ -117,5 +117,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck choosing What or How: a thing or person in the
   cry takes What a…!; a quality or a manner takes
   How…!
-- The course's next door (Level 33): Phrasal verbs —
+- The course's next door (Unit 33): Phrasal verbs —
   small verbs carrying big meanings.

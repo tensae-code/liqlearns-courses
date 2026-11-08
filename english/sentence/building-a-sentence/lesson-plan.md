@@ -41,7 +41,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - The sentence's dress — capital letter first, full stop
   last — is the NEXT lesson in this level; here it appears
   only as the frame every example wears. Tenses (now, before,
-  later) are Level 12; questions are Level 11. This
+  later) are Unit 12; questions are Unit 11. This
   lesson is the plain statement, built right.
 
 ## What the learner can do when it ends

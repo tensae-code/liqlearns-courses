@@ -41,7 +41,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Nouns (Level 6) and The town (this
+- Recommended first: Nouns (Unit 6) and The town (this
   level). Recommended, never forced.
 - Comparing transport (faster, cheaper) is NOT this
   lesson; the comparisons ride at Level 3 only as the

@@ -45,8 +45,8 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: Adjectives (Level 6) and The body
-  (Level 7). Recommended, never forced — this lesson stands
+- Recommended first: Adjectives (Unit 6) and The body
+  (Unit 7). Recommended, never forced — this lesson stands
   alone: both word sets are taught whole, with pictures in
   words.
 - Comparing people (taller than, more confident than) is

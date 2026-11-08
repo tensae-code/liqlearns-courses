@@ -139,7 +139,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Closing smuggles a new point → move it to the body plan
   (The essay's rule) or cut it; the closing spends earned
   weight, it does not mint new.
-- This lesson completes Level 16. Next: Level 17 — Stories,
+- This lesson completes Unit 16. Next: Unit 17 — Stories,
   the last level of the built path.
 
 ## Teacher note

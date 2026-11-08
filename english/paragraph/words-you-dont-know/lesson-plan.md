@@ -10,7 +10,7 @@ know, and only then check the dictionary — testing every
 guess by putting it back into the sentence.
 **This lesson's own level:** it stands on Using the
 Dictionary (the check step is that lesson's whole skill,
-Level 8) and Finding the idea of a text (a text can be
+Unit 8) and Finding the idea of a text (a text can be
 understood whole even with a few words missing). It turns
 the dictionary from a wall into a court of appeal.
 

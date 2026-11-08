@@ -8,7 +8,7 @@ the words for feeling ill and getting better (CURRICULUM.md).
 headache, fever, cough, a cold, stomachache, sore throat,
 toothache — how to tell a doctor what is wrong, and how to
 give and take health advice with should / shouldn't.
-**This lesson's own level:** it stands on The body (Level 7 —
+**This lesson's own level:** it stands on The body (Unit 7 —
 the names of the parts). A symptom word is a body word plus
 what is wrong with it, so the body names come back as the
 places that hurt. It needs nothing else.
@@ -45,7 +45,7 @@ is written in questions/, so the sub lesson's whole question set
 is the gate pool.
 
 ## Before this lesson
-- Recommended first: The body (Level 7). Recommended, never
+- Recommended first: The body (Unit 7). Recommended, never
   forced — this lesson stands alone: every symptom is taught
   with the body part in the sentence itself.
 - Naming the body parts is NOT this lesson; that is The body.

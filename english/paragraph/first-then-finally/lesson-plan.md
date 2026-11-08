@@ -41,7 +41,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## Before this lesson
 - Recommended first: The paragraph; Past actions.
   Recommended, never forced.
-- The words also open stories (Level 17 spends them there);
+- The words also open stories (Unit 17 spends them there);
   this lesson keeps them inside the paragraph, on processes
   and recounts — their first home in every book here.
 
@@ -125,7 +125,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   "First, the roof…") → honestly: place-order exists in
   description too (top to bottom) — named here as a cousin,
   and the time family stays this lesson's plant.
-- This lesson completes Level 14. Next: Level 15 — Reading
+- This lesson completes Unit 14. Next: Unit 15 — Reading
   Whole Texts.
 
 ## Teacher note

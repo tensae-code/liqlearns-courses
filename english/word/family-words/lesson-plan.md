@@ -45,7 +45,7 @@ is the gate pool.
 
 ## Before this lesson
 - Recommended first: The home (this level) and Nouns
-  (Level 6). Recommended, never forced.
+  (Unit 6). Recommended, never forced.
 - The first family words (mum, dad, brother, sister) ride
   in with The home in the built course; this lesson's own
   work is the wider tree — grandparents, uncles, aunts,

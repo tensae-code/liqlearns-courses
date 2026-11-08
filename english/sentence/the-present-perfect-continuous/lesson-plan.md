@@ -12,8 +12,8 @@ action that has just stopped.
 **This lesson's own level:** it stands on The present
 perfect (this level's first lesson — been is its
 participle machinery), on Present actions' -ing coat
-(Level 12), and on Telling the time's for/since groundwork
-(Level 9).
+(Unit 12), and on Telling the time's for/since groundwork
+(Unit 9).
 **What the learner can do at the end:** build the tense
 for every who (statement, not-form, question); answer
 "What have you been doing?" and "How long…?"; place for

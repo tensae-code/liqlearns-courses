@@ -127,7 +127,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
   is will's home ground (Bolivia's note: spontaneous
   decision). Name the border kindly: decided BEFORE speaking
   → going to; decided WHILE speaking → will.
-- This lesson completes Level 12. Next: Level 13 — Joining and
+- This lesson completes Unit 12. Next: Unit 13 — Joining and
   Describing (and/but; describing words inside sentences;
   mine and yours).
 

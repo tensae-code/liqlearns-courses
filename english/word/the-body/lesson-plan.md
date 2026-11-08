@@ -3,7 +3,7 @@
 
 **Course:** English · **Title:** Word · **Lesson:** The body
 **Place in the curriculum:** Unit 7 — Words for the World — the fifth and last lesson of the unit (CURRICULUM.md).
-Building it completes Level 7.
+Building it completes Unit 7.
 **The one thing this lesson teaches:** the words for the parts
 of the body — learned the way the books teach them: by
 touching your own body and saying what each part does.
@@ -127,8 +127,8 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Freezes on the whole list → the spine is seven words
   (Palestine). The sense parts are Egypt's layer on top, not
   a second gate.
-- This lesson completes Level 7, "Words for the World." Next:
-  Level 8, Using the Dictionary — the words become findable.
+- This lesson completes Unit 7, "Words for the World." Next:
+  Unit 8, Using the Dictionary — the words become findable.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and

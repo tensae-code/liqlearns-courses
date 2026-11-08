@@ -13,7 +13,7 @@ have** (sure it didn't), **may / might / could have**
 **needn't have** (it was done, but it wasn't necessary).
 **This lesson's own level:** it stands on How sure you
 are (the same ladder about now) and The past perfect
-(the have + participle machinery). It closes Level 26.
+(the have + participle machinery). It closes Unit 26.
 **What the learner can do at the end:** deduce about a
 finished day with the right rung; criticise a past
 action — their own or another's — with should have;
@@ -102,5 +102,5 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 - Stuck on should have vs must have: must have GUESSES
   (the sign proves it); should have JUDGES (the right
   thing was not done). One looks at signs, one at duty.
-- This lesson's next door: Level 27 — The Small Words
+- This lesson's next door: Unit 27 — The Small Words
   That Point, opening with articles.
