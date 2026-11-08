@@ -6,11 +6,11 @@ Answer this: *Is it worth driving 12 km to a town shop where rice is cheaper?*
 
 Notice what just happened. There is no sum to do — yet. Nobody told you the prices, the car's thirst, or the toll. A question like this is not a broken problem; it is a different kind of question, and it needs a different discipline. That discipline is this lesson. (Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 228–239.)
 
-## Modelling is not problem solving
+## Sub lesson 1 — Modelling Is Not Problem Solving
 
 Malaysia's book opens by setting the two side by side. A **problem-solving** question is closed: the mathematics is chosen for you, the numbers are given, one road leads to the answer. A **modelling** question is open: you are handed a situation and must decide what mathematics describes it, what to count and what to ignore, before any calculating starts. Telling the two apart is the first move of the strategy. (Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 228–229.)
 
-## The six components
+## Sub lesson 2 — The Six Components
 
 A mathematical model is built in six components — a cycle, because the last step feeds the first:
 
@@ -23,7 +23,7 @@ A mathematical model is built in six components — a cycle, because the last st
 
 (Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 229–230.)
 
-## The worked case: Pak Mat's rice
+## Sub lesson 3 — The Worked Case: Pak Mat's Rice
 
 The book's model case, in full. Pak Mat can buy rice at his local shop, or drive to town where a 10 kg bag is cheaper. Is the trip worth it?
 
@@ -34,7 +34,7 @@ The book's model case, in full. Pak Mat can buy rice at his local shop, or drive
 
 The answer is not "yes" or "no" — it is a boundary, stated in the situation's own units. That is what a model's answer looks like. (Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 230–233.)
 
-## Models beyond money
+## Sub lesson 4 — Models Beyond Money
 
 A **scale model** is the same idea in geometry: a model aircraft or a building plan, where one ratio promises that every length in the model stands for a fixed length in the real thing. And every model can be **enhanced**: add a variable the first pass left out (traffic, a passenger, a second bag), check whether the answer moves, and **name the limitations** the model still carries. A model that hides its limits is worse than a simpler model that states them. (Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 234–239.)
 
