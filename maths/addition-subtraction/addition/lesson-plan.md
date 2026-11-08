@@ -27,6 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 1. **Addition In the Head** — add one- and two-digit numbers in the head by counting on and making ten. (Was depth Level 1.)
 2. **Addition In Columns with Carrying** — add two-digit numbers in columns — the plain columns first, then carrying from ones to tens — and say each step aloud. (Was depth Level 2.)
 3. **Addition Three Digits and Checking** — add three-digit numbers in columns with carrying, and check an answer by adding the other way round and by estimating. (Was depth Level 3.)
+4. **Big Addition: To a Million and Beyond** — the same columns on the books' full climb: to 100,000 (Indonesia Grade 5), to 1,000,000 (Ethiopia Grade 4; North Macedonia Grade 5's worked 47,586 + 28,342), and beyond 1,000,000 with carrying across periods named and worked (Rwanda Primary 6). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the old text taught the method whole but capped the size at three digits, with Libya's 10,000 only mentioned.)
 
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
@@ -39,6 +40,8 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 2. Add two-digit numbers in columns without carrying, then with carrying (74 + 63 = 137 — Egypt's worked example).
 3. Add three-digit numbers in columns with carrying in ones and tens (658 + 24 = 682).
 4. Check an addition by adding the other way round, and by estimating first.
+5. Add numbers to 1,000,000 and beyond in columns, carrying
+   across periods, and check the big answers the same way.
 
 ## What you need
 Bundles of ten sticks and single sticks; squared paper.

@@ -1,6 +1,6 @@
 # Addition — multiple choice
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking. Sub lesson 4 — Big Addition: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Pick the one right answer.
 
@@ -31,3 +31,11 @@ a) 672  b) 682  c) 692
 **7. (Sub lesson 3)** The best check for 74 + 63 = 137 is ______.
 a) 137 − 63  b) 63 + 74  c) 74 + 63 again the same way
 **Answer:** b) 63 + 74 — adding the other way round must give the same answer.
+
+**8. (Sub lesson 4)** 47,586 + 28,342 = ______.
+a) 75,928  b) 75,828  c) 76,928
+**Answer:** a) 75,928 — North Macedonia's Grade 5 worked example, with regrouping.
+
+**9. (Sub lesson 4)** In 487,650 + 275,483, the ones period adds to 1,133. What do you write in the ones period?
+a) 1,133  b) 133, and carry 1 thousand into the next period  c) 33
+**Answer:** b) 133, carrying 1 across the period boundary (Rwanda, Primary 6).

@@ -1,6 +1,6 @@
 # Addition — matching
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking. Sub lesson 4 — Big Addition: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Match each item on the left to its partner on the right.
 
@@ -15,3 +15,6 @@ Match each item on the left to its partner on the right.
 
 **4. (Sub lesson 3)** Match each sum to its estimate: (a) 247 + 45 (b) 48 + 36 — about 300, about 90
 **Answer:** a) about 300, b) about 90.
+
+**5. (Sub lesson 4)** Match each big addition to its answer: (a) 47,586 + 28,342 (b) 631,286 + 331,989 (c) 487,650 + 275,483 — 75,928; 963,275; 763,133
+**Answer:** a) 75,928; b) 963,275; c) 763,133.

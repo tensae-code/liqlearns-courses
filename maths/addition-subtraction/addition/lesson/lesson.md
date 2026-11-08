@@ -75,6 +75,39 @@ give the same 137. Estimate first — 247 + 45 is about 250 + 50 =
 close to it. If the check disagrees, the work is wrong, not the
 check.
 
+## Sub lesson 4 — Big Addition: To a Million and Beyond
+**Bigger numbers, same columns.** The column method does not
+change when the numbers grow — only the line gets longer.
+Indonesia's Grade 5 book works column addition to 100,000
+(Ch. 1, printed pp.1–28). Ethiopia's Grade 4 book adds to
+1,000,000 (ch. 2, printed pp.29–50), and its teacher guide
+works a full one: 631,286 + 331,989 = 963,275 (teacher
+evidence, printed pp.16–23). North Macedonia's Grade 5 book
+works 47,586 + 28,342 = 75,928 with regrouping (printed
+p.125).
+
+**Carrying across periods.** Read a big number in its periods
+— the groups of three digits: the ones period, the thousands
+period, the millions period. When one period's columns fill
+past their places, the carry steps into the NEXT period —
+out of the ones period into the thousands period, exactly as
+a carry steps from ones into tens, only bigger. Rwanda's
+Primary 6 book teaches column addition of numbers beyond
+1,000,000 with carrying across periods as a named point of
+its own (Unit 1, printed pp.11–15):
+
+  487,650
++ 275,483
+---------
+  763,133
+
+Work it by periods. Ones period: 650 + 483 = 1,133 — write
+133 in the ones period and carry 1 thousand into the
+thousands period. Thousands period: 487 + 275 + the carried
+1 = 763. Answer: 763,133. Checking works the same as ever:
+estimate first (about 490,000 + 280,000 = 770,000 — the
+answer sits close), and add the other way round to prove it.
+
 ## Say it to your companion
 Your companion calls two numbers: "27 and 5." Add in your head:
 "32." They call "74 and 63": write it in columns and say each
@@ -88,3 +121,5 @@ round.
 3. Add in columns: 658 + 24; 347 + 185; 926 + 138.
 4. Check each column answer by adding the other way round, and
    estimate 247 + 45 before working it out.
+5. Add the big ones in columns: 47,586 + 28,342;
+   487,650 + 275,483; 631,286 + 331,989. Estimate each first.

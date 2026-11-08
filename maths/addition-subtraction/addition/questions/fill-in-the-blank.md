@@ -1,6 +1,6 @@
 # Addition — fill-in-the-blank
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Addition In the Head · (Level 2) -> Sub lesson 2 — Addition In Columns with Carrying · (Level 3) -> Sub lesson 3 — Addition Three Digits and Checking. Sub lesson 4 — Big Addition: To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Fill in the missing number or word.
 
@@ -18,3 +18,9 @@ Fill in the missing number or word.
 
 **5. (Sub lesson 3)** 658 + 24 = ___.
 **Answer:** 682
+
+**6. (Sub lesson 4)** 631,286 + 331,989 = ___.
+**Answer:** 963,275
+
+**7. (Sub lesson 4)** When one period's columns fill past their places, the carry steps into the next ___.
+**Answer:** period
