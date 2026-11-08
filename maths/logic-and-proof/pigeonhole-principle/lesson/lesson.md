@@ -1,17 +1,24 @@
 # The pigeonhole principle — the lesson
 
-Course: Maths · Stage: Stage 13 — Logic and Proof · Lesson: The pigeonhole principle
+Course: Maths · Unit: Unit 13 — Logic and Proof · Lesson: The pigeonhole principle
 Built from: Iran, Discrete Mathematics, Grade 12 — China, Mathematics, Grade 6, Volume 2 — North Macedonia, Mathematics, Grade 8 (2010 edition) — Kazakhstan, Algebra, Grade 8 (starred, optional additional material as filed)
 
 ## Do it first
 Take 5 pencils and 4 boxes. Put the pencils into the boxes any way you like — and try to keep every box at one pencil or fewer. You will fail. Four boxes can hold four single pencils, and the fifth pencil has nowhere of its own to go: some box must end with two. You did not choose which box, and you cannot stop it happening. That forced sharing is the whole lesson, and four countries' books teach it as a way of *proving* things.
 
 ## Then the explanation
+
+## Sub lesson 1 — More Things Than Boxes
+
 **The plain principle.** If more things go into fewer boxes, some box must hold at least two. With n boxes, n + 1 things are enough to force it. China's Grade 6 book teaches exactly this as the **drawer principle**, working it first by drawing every case and then by division with remainder, in problems that all ask what can be *guaranteed* (Grade 6, Volume 2, Unit 5, pp.68–71). A box in the book is a drawer; in other books it is a perch, a hutch or a pile — the shape of the box never matters, only the count.
+
+## Sub lesson 2 — The Division Form
 
 **The division form.** Share the things out as fairly as you can. China's own working: 7 things into 3 drawers gives 7 ÷ 3 = 2 remainder 1 — every drawer can take 2, and the 1 left over must land somewhere, so some drawer holds at least 3 (Grade 6, p.68). The rule: divide, and if there is any remainder at all, the guaranteed number in some box is the quotient plus one. If there is no remainder, the quotient itself is guaranteed, because fair sharing already puts that many everywhere.
 
 **A real proof with it.** North Macedonia's Grade 8 book uses the principle — there called **Dirichlet's principle** — as a proof method inside its systems-of-equations theme (Theme 3, unit 8, pp.153–155). Its class example: 30 pupils take a test, and each pupil's number of errors is one of the 9 counts 0, 1, 2, …, 8. The 9 counts are the boxes; the 30 pupils are the things. Sharing fairly: 30 = 3·9 + 3, so after three full rounds three pupils are still unplaced, and wherever they go, some count is shared by at least 4 pupils. The book works the same way through birthdays, initials, divisibility of differences and angle arguments (pp.153–155) — in each one, the work is choosing the boxes well.
+
+## Sub lesson 3 — Proving with the Generalised Form
 
 **The generalised form.** Iran's Discrete Mathematics book states the principle and its generalised form in its counting chapter: kn + 1 objects in n boxes force some box to hold at least k + 1, and it closes the chapter with pigeonhole proofs in the exercises (Grade 12, Discrete Mathematics, pp.82–84). Its own first application is the birth-month guarantee: 13 people, 12 months — here k = 1 and n = 12, so 13 = 1·12 + 1 people force two to share a birth month (p.82). Push it one step: 25 people is 2·12 + 1, so some month holds at least 3 birthdays.
 

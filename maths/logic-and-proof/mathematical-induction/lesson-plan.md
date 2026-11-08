@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Mathematical Induction
 
-**Course:** Maths · **Stage:** Stage 13 — Logic and Proof · **Lesson:** Mathematical Induction
-**Place in the curriculum:** Level 102 of 136, Stage 13 — Logic and Proof (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Mathematical Induction
+**Place in the curriculum:** Level 102 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** proof by mathematical induction — the principle, its three steps (base case, induction hypothesis, induction step), and its use for series formulas, divisibility and inequalities, including extended induction — together with the warning that checking cases is not proving: Euler's polynomial n² − n + 41 gives primes for n = 1 to 40 and fails at n = 41.
 **This lesson's own level:** it stands on Proof Methods (Level 101, same stage) and the sequences and series lessons — the learner can already prove a single statement and read Σ notation. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Principle and the Three Steps** — the induction principle and its three steps — base, hypothesis, step — and why checking cases is not proving. (Was depth Level 1.)
+2. **Series and Divisibility Proofs** — full induction proofs of a series formula and of a divisibility claim, with the hypothesis doing the work in the step. (Was depth Level 2.)
+3. **Extended Induction, Inequalities and the Counter-Example Warning** — inequalities by induction and extended induction with a later starting point, the counter-example warning (Euler's polynomial, prime forty times and false at the forty-first), and the one filed boundary from Iraq's book. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Proof Methods (Level 101, same stage) — induction is one proof method among the ones taught there. Recommended, never forced.

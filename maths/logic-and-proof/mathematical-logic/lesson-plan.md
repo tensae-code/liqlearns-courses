@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Mathematical Logic
 
-**Course:** Maths · **Stage:** Stage 13 — Logic and Proof · **Lesson:** Mathematical Logic
-**Place in the curriculum:** Level 100 of 136, Stage 13 — Logic and Proof (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Mathematical Logic
+**Place in the curriculum:** Level 100 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** mathematical logic — propositions and their truth values, the connectives (not, and, or, exclusive or, if…then, if and only if), truth tables, logical equivalence and De Morgan's laws, tautologies and contradictions, open sentences, and the quantifiers ∀ and ∃ with their negations.
 **This lesson's own level:** it stands on the sets lesson and the expressions lesson — the learner can already read symbols and say whether a sentence about numbers is true. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Propositions and Connectives** — propositions and their truth values, and the connectives that join propositions into compound propositions. (Was depth Level 1.)
+2. **Truth Tables, Equivalence and De Morgan** — truth tables, equivalence and De Morgan's laws, and tautology and contradiction. (Was depth Level 2.)
+3. **Quantifiers, Open Sentences and Inference** — open sentences and the quantifiers ∀ and ∃ with their negation rules, and definition, axiom, theorem — and the converse. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the sets lesson — logic and sets are taught as one chapter in several countries' books. Recommended, never forced.

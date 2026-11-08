@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Proof Methods
 
-**Course:** Maths · **Stage:** Stage 13 — Logic and Proof · **Lesson:** Proof Methods
-**Place in the curriculum:** Level 101 of 136, Stage 13 — Logic and Proof (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Proof Methods
+**Place in the curriculum:** Level 101 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how mathematicians prove things — the deductive method from definitions and axioms, the shape of a proof (givens, what is required, the chain of reasons), direct proof, the two-column layout, proof by contradiction and by contrapositive, proving and refuting "for all" and "there exists" statements, and necessary and sufficient conditions.
 **This lesson's own level:** it stands on Mathematical Logic (Level 100, same stage) — the learner can already read connectives, build truth tables and negate quantified statements. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Deductive Method and the Shape of a Proof** — the deductive method — each new result built only from what stands before it — and the shape of every proof: given, required, and the chain between them. (Was depth Level 1.)
+2. **Direct Proof, Two Columns, Contradiction and Contrapositive** — direct proof and the two-column layout, Iran's flawed-proof warning, proof by contradiction, and the contrapositive and the shapes of valid argument. (Was depth Level 2.)
+3. **Proving and Refuting ∀ and ∃; Necessary and Sufficient** — proving a ∀ statement in general, refuting one by counterexample, proving an ∃ statement by a witness, and classifying conditions as necessary, sufficient, both or neither. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Mathematical Logic (Level 100, same stage) — validity, modus ponens and the contrapositive are this lesson's tools. Recommended, never forced.

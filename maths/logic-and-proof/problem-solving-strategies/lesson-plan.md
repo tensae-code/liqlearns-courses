@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Problem-solving strategies
 
-**Course:** Maths · **Stage:** Stage 13 — Logic and Proof · **Lesson:** Problem-solving strategies
-**Place in the curriculum:** Level 104 of 136, Stage 13 — Logic and Proof (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** Problem-solving strategies
+**Place in the curriculum:** Level 104 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** how to attack a problem you do not yet know how to solve — the steps every book agrees on, and a named toolbox of strategies: draw it, list systematically, eliminate, spot the pattern, guess and check, split into sub-problems, solve a simpler problem, and turn it into symbols — plus China's tables, assumption method and differencing.
 **This lesson's own level:** it stands on ordinary arithmetic and on the earlier lessons' topics — the strategies are ways of working, not new mathematics. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Steps and the Plan** — the frame the books agree on before any strategy: understand the problem, choose a suitable strategy, solve, and look back. (Was depth Level 1.)
+2. **The Eight Named Strategies** — Iran's eight named strategies, one by one, and how the same toolbox starts young through the primary books. (Was depth Level 2.)
+3. **Choosing and Combining: China's Tools** — China's special tools: tables that eliminate, chickens and rabbits solved two ways, differencing two near-identical situations, and 0/1 tables and symbol substitution. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the four operations and simple equations (the symbolic strategy turns a story into an equation). Recommended, never forced.

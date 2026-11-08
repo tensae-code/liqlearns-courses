@@ -1,15 +1,20 @@
 # Proof Methods — the lesson
 
-Course: Maths · Stage: Stage 13 — Logic and Proof · Lesson: Proof Methods
+Course: Maths · Unit: Unit 13 — Logic and Proof · Lesson: Proof Methods
 Built from: Kazakhstan, Geometry 7 books (Smirnov & Tuyakov; Shynybekov; Turapbekov et al.) — Iran, Discrete Mathematics, Grade 9 Mathematics and Geometry (1) — Armenia, Grade 11 Algebra and Analysis (natural-mathematics stream), Grade 12 logic book and Geometry 7 — Greece, Euclidean Geometry Volume A — Egypt, Grade 7 Term 1 — Nicaragua, Grades 8 and 9 — Kuwait, Grade 9 Term 2 — Laos, Grade 10 — China, Grade 6 Volume 2
 
 ## Do it first
 Take the claim: "The altitudes of every triangle meet at a point inside the triangle." Draw two triangles and test it. It seems true — until you draw a wide, flat, obtuse triangle, where the altitudes meet outside. Iran's Grade 9 book opens its proof chapter with exactly this trap: the senses deceive, and reasoning from a few instances is unreliable (Grade 9, Ch.3 "Reasoning and proof in geometry", p.33). One counterexample has just refuted a "for all" claim. Proving one takes something stronger than drawing — and that something is this lesson.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Deductive Method and the Shape of a Proof
+
 **The deductive method.** A proof builds each new result only from what stands before it: definitions, axioms (starting statements accepted without proof), and theorems already proved. Greece's Euclidean Geometry states the aim in its preface: to initiate the pupil into Euclidean deductive reasoning — proofs are the point of the book, not an extra — and its first chapter presents proof as the method by which each new result follows from what precedes it (Volume A, Ch.1). Kazakhstan opens Grade 7 geometry the same way three times over: Smirnov & Tuyakov explain Euclid and the axiomatic idea through a chess analogy — axioms are the rules of the game (Geometry 7, Ch.1 §1, p.5); Shynybekov's long introduction teaches why definitions cannot regress forever, with the chain and cycle diagrams printed, before any figure is studied (Geometry 7, introduction, RU pp.5–6); Turapbekov's book separates basic notions, axioms and theorems in its first section (Geometry 7, §1, p.10). Iran's Geometry (1) builds its opening the same way — reasoning and proof before the theorems it will prove (pp.17–28, as filed).
 
 **The shape of a proof.** Every proof answers three things: what is **given**, what is **required**, and the **chain** that joins them. Kuwait's Grade 9 Term 2 book prints that frame on every proof in its triangle unit — givens / required / proof — through the mid-segment theorem, the circumcentre, the incentre, the orthocentre and the centroid (Unit 7, pp.135–199). Iran's Grade 9 book uses the same skeleton in Persian: hypotheses on one side, the claim on the other, and the proof works from the first to the second (Ch.3, p.37). Egypt's Grade 7 book teaches the writing itself as a named item — "Steps to Write a Proof" — inside its parallelism lesson, before the proofs of parallelism (Term 1, Unit 4-2, p.81).
+
+## Sub lesson 2 — Direct Proof, Two Columns, Contradiction and Contrapositive
 
 **Direct proof, and the two-column layout.** A direct proof walks straight from the givens to the claim, each step justified. Worked example — vertical angles are equal: two lines cross, making angles 1, 2, 3 in a row around the crossing. Angle 1 + angle 2 = 180° (a straight line). Angle 3 + angle 2 = 180° (a straight line). So angle 1 = angle 3. China's Grade 6 review proves this same result among its mathematical-thinking items, alongside logic tables and substitution (Grade 6 Volume 2, review, pp.100–104). Nicaragua lays such proofs out in two columns — Pasos (steps) on the left, Justificación (justification) on the right — for its similarity proofs in Grade 9 (AA, SSS, SAS forms), and introduces two-column-style reasoning in Grade 8, in the congruence unit it calls "the first formal proof in the series" (Grade 8, Unit 6, pp.105–124). The columns change nothing in the logic; they make a missing reason impossible to hide.
 
@@ -20,6 +25,8 @@ Tip — from us, not from the books. If a proof feels stuck, write the required 
 **Proof by contradiction.** Assume the statement is false; reason correctly from that assumption until you reach something impossible; the assumption is then the only thing that can be dropped, so the statement is true. Kazakhstan's Turapbekov Geometry 7 gives "methods of proof of theorems" — the direct method and proof by contradiction — a section of its own (§3, p.36). Shynybekov's Geometry 7 names the method of proof by contradiction early (Ch.1, p.27, as filed in Russian pagination), and Armenia's Geometry 7 first uses it inside the third congruence criterion (Ch.II §9, within pp.34–76). Iran's Discrete Mathematics book works by it repeatedly in its first chapter, beside proof by considering all cases and disproof by counterexample — its opening exhibit is Fermat's number F₅ = 2³² + 1, shown composite: 4,294,967,297 = 641 × 6,700,417 (Discrete Mathematics, Ch.1 L1, pp.2–8).
 
 **Contrapositive, and the shapes of valid argument.** To prove p⇒q you may instead prove its contrapositive ~q⇒~p — the two are equivalent (Mathematical Logic, Level 100). Laos's Grade 10 book closes its logic chapter with argument shapes: an argument is valid when (premises joined by ∧) ⇒ conclusion is a tautology; modus ponens and modus tollens are valid, but affirming the consequent — "q, and p⇒q, so p" — is a fallacy, however convincing it sounds (Ch.I L3, pp.20–29). Armenia's natural-mathematics Grade 11 book separates deductive reasoning from inductive reasoning as its own sections (Ch.3 §§3–4, pp.63, 68) and then gathers "proof and refutation — the main methods" into one ( §5, p.72).
+
+## Sub lesson 3 — Proving and Refuting ∀ and ∃; Necessary and Sufficient
 
 **Proving and refuting ∀ and ∃ statements.** Armenia's Grade 12 logic book teaches the four moves as one section (§5, p.30):
 - To **prove** ∀x, P(x): take an arbitrary x — no special one — and prove P(x) for it.

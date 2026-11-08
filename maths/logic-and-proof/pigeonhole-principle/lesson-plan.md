@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The pigeonhole principle
 
-**Course:** Maths · **Stage:** Stage 13 — Logic and Proof · **Lesson:** The pigeonhole principle
-**Place in the curriculum:** Level 103 of 136, Stage 13 — Logic and Proof (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 13 — Logic and Proof · **Lesson:** The pigeonhole principle
+**Place in the curriculum:** Level 103 of 136, Unit 13 — Logic and Proof (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the pigeonhole principle — if more things go into fewer boxes, some box must hold at least two — and its stronger form: kn + 1 things in n boxes force some box to hold at least k + 1.
 **This lesson's own level:** it stands on counting and on division with remainder — the learner can already share things out and say what is left over. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **More Things Than Boxes** — the plain principle: more things than boxes forces some box to hold at least two — with n boxes, n + 1 things are enough. (Was depth Level 1.)
+2. **The Division Form** — the division form (divide, and any remainder lifts the guarantee by one), and a real proof with it — North Macedonia's class of 30 pupils over 9 error counts. (Was depth Level 2.)
+3. **Proving with the Generalised Form** — the generalised form — kn + 1 objects in n boxes force some box to hold at least k + 1 — its proofs, and the principle's fourth home in Kazakhstan's book, filed as optional there. The lesson's closing Tip also stands in this sub lesson, where it stands in the lesson. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the division lesson (a pigeonhole count is a division with a remainder: 7 ÷ 3 = 2 remainder 1). Recommended, never forced.
