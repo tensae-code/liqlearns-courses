@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — How are you?
 
 **Course:** English · **Title:** Conversation · **Lesson:** How are you?
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 — after Hello and your name (CURRICULUM.md).
 **The one thing this lesson teaches:** asking how someone is, and
 answering truly — "How are you?" with its three book answers.
@@ -15,6 +17,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Asking and answering how are you** — the question "How are you?" and its three answers — "I'm very well, thanks" (a good day), "I'm fine" (a normal day), "I'm not very well!" (a hard day). (Was depth Level 1.)
+2. **Asking how are you back** — "And how are you?" gives the question back, and Grade 3's shorter, smoother form of the same exchange. (Was depth Level 1; the real exchange of depth Level 2 is proved here.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Hello and your name: this question comes right after "Hello."

@@ -14,7 +14,7 @@ day: "I'm not very well."
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — Asking and answering how are you
 So after "Hello," English asks a warm question: "How are you?"
 It is not asking for news. It is asking: how is your inside today?
 
@@ -26,6 +26,7 @@ people are not always the same:
 - "I'm fine." — a normal day, all right.
 - "I'm not very well!" — a hard day, and it is allowed to say so.
 
+## Sub lesson 2 — Asking how are you back
 And there is a polite move at the end: give the question back.
 "And how are you?" Now the other person gets to answer too. The
 question travels back and forth like a ball — that is the whole game.
