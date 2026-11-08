@@ -1,6 +1,6 @@
 # Sources — Algebraic structures
 
-countries: Yemen, Sudan, India
+countries: Yemen, Sudan, India, Bolivia
 
 Every part traces to its book and page.
 
@@ -11,6 +11,8 @@ Every part traces to its book and page.
 
 **Book 4:** *Basic Mathematics, Grade 12 (humanities track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, title page dated October 2009, Arabic. No ISBN printed. The held copy lacks its first contents page, any ISBN page and its back cover; the body is complete (folios 1–157) and only body pages are cited. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics — Textbook for Class XII, Parts I–II* (ONE work in two volumes: continuous chapters 1–13 and continuous printed pagination 1–587) — India, NCERT, New Delhi, first edition November 2006, 2020-21 printing; Part I ISBN 81-7450-629-2 (Part II prints no ISBN). Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy of Part I lacks its appendices, answers and supplementary material, and the held copy of Part II has no front matter; nothing is cited from either.
+
+**Book 6:** *Texto de Aprendizaje, 6to Año de Educación Secundaria Comunitaria Productiva (Grade 12) — Área Matemática section only* (student book) — Bolivia; the publisher is not printed in the section file (no imprint page exists in it) — the Ministerio de Educación (Estado Plurinacional de Bolivia) attribution rests on the full-book context and the bibliography (printed p. 144, citing the ministry's Currículum Base, 2023); no year/edition or ISBN is printed; printed foliation pp. 54–144 (Spanish). Filed in maths/books/bolivia.md (Grade 12 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,8 +40,11 @@ Every part traces to its book and page.
 | Binary operations — binary operation on a set defined as a function ∗ : A × A → A; which of +, −, ×, ÷ are binary operations on N, Z, Q, R | India, Mathematics Class 12 Part I, printed p. 19 |
 | Properties of operations — commutative and associative binary operations defined, with counter-examples | India, Mathematics Class 12 Part I, printed p. 22 |
 | Identity and inverse — identity element and invertible element (inverse) for a binary operation | India, Mathematics Class 12 Part I, printed p. 23 |
-**Acceptance count: taught in 3 countries (Yemen, Sudan, India).** Yemen is the sole source, as filed: its Grade 10 Part 1 book teaches binary operations, their properties, the mathematical system and the group in Unit 5 (pp.96–110), and its Grade 11 Science Part 1 book opens with the ring and the field in Unit 1 (pp.6–24), closing with ℝ as a field. No other read book teaches algebraic structures as a topic.
+| Álgebra preuniversitaria — operador binario: binary operators defined (an operator applied to a pair gives a result by a stated rule); students build their own operator (rhombus symbol) with definition a⋄b=3a−2b and evaluate it | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 130 |
+**Acceptance count: taught in 4 countries (Yemen, Sudan, India, Bolivia).** Yemen is the sole source, as filed: its Grade 10 Part 1 book teaches binary operations, their properties, the mathematical system and the group in Unit 5 (pp.96–110), and its Grade 11 Science Part 1 book opens with the ring and the field in Unit 1 (pp.6–24), closing with ℝ as a field. No other read book teaches algebraic structures as a topic.
 
 Sudan becomes the second country in this lesson, from Grade 11's Unit 8: binary operations defined as functions S × S → S, closure and Cayley tables, algebraic structures with one and two operations, modular addition and multiplication, commutativity read off a table's symmetry, associativity, and the identity and inverse theorems — both proved — up to the group and the abelian group. Grade 12 Basic meets the group structure again inside its complex-numbers work.
 
 India enters algebraic structures from Mathematics Class 12: binary operations.
+
+Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 12: Álgebra preuniversitaria — operador binario.

@@ -1,6 +1,6 @@
 # Sources — Inclusion–Exclusion and Venn Counting
 
-countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador
+countries: Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador, Bolivia
 
 Every part traces to its book and page.
 
@@ -24,6 +24,10 @@ Every part traces to its book and page.
 
 **Book 16:** *Matemática, Grade 9 student book (9no EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-25-5 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 17:** *Texto de Aprendizaje, 6to Año de Educación Secundaria Comunitaria Productiva (Grade 12) — Área Matemática section only* (student book) — Bolivia; the publisher is not printed in the section file (no imprint page exists in it) — the Ministerio de Educación (Estado Plurinacional de Bolivia) attribution rests on the full-book context and the bibliography (printed p. 144, citing the ministry's Currículum Base, 2023); no year/edition or ISBN is printed; printed foliation pp. 54–144 (Spanish). Filed in maths/books/bolivia.md (Grade 12 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
+
+**Book 18:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inclusion–exclusion, including counting onto functions | Iran, Discrete Mathematics, printed pp. 73–78 |
@@ -46,7 +50,10 @@ Every part traces to its book and page.
 | Counting with two sets — practical problems using n(A ∪ B) = n(A) + n(B) − n(A ∩ B) | India, Mathematics Class 11, printed p. 21 |
 | Rule — inclusion–exclusion: ;A∪B; = ;A; + ;B; − ;A∩B; (boxed) | Mongolia, Математик VIII (Grade 8), printed p. 34 |
 | Inclusion–exclusion count: why 18 + 28 policies make only 41 clients | Ecuador, Matemática, Grade 9 student book, printed p. 32 |
-**Acceptance count: taught in 11 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
+| Cardinalidad de conjuntos: n(A) defined; cardinality properties n(A−B)=n(A)−n(A∩B), n(A∪B), n(AΔB), three-set inclusion–exclusion; worked example with U={−2,…,9} (n(A−B)=0, n(AΔB)=3, n(B^cΔC^c)=5) | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 105 |
+| Aplicación de conjuntos: Venn-diagram word problem solved with region variables and a linear system — 245 pigeons fed wheat/maize/rice: 10 ate nothing, 35 ate maize and wheat | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 106 |
+| Teoría de conjuntos: union, intersection, complement and difference of sets, operation laws, cardinality of sets | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 148 |
+**Acceptance count: taught in 12 countries (Iran, Laos, Nepal, Sierra Leone, Kazakhstan, South Sudan, Malaysia, Sudan, India, Mongolia, Ecuador, Bolivia).** Iran carries the deepest treatment — inclusion–exclusion in the Discrete Mathematics book (pp.73–78), carried all the way to counting onto functions, which is this lesson's closing part. Laos carries the working method: the two-set and three-set formulas inside Grade 10 survey problems (Ch.II L5, pp.38–48). Nepal carries the survey shape across Grades 8 (§10.3), 9 and 10, with its filed "neither" count taught corrected at 18. Sierra Leone carries three sets taught region by region at SSS1 (L64–70) and the formulae stated at SSS3 (L121). Kazakhstan carries the overlap idea at Grade 5 (§5.4) and the formula in its Grade 9 books. South Sudan carries Venn counting in the Secondary 2 sets unit.
 
 Malaysia's Form 4 set chapter counts with its Venn diagrams throughout — the inclusion–exclusion count n(A ∪ B) = n(A) + n(B) − n(A ∩ B) worked on survey data, up to three sets combined.
 
@@ -56,3 +63,5 @@ India enters inclusion–exclusion and venn counting from Math-Magic Class 5 and
 
 
 Mongolia enters through its ministry textbook Математик VIII (Grade 8): the inclusion–exclusion rule for two sets, |A∪B| = |A| + |B| − |A∩B|, boxed in the sets chapter.
+
+Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 12: Cardinalidad de conjuntos; Aplicación de conjuntos; from the Compendium's Secundaria 6 section (Grade 12): Teoría de conjuntos.

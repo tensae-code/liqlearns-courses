@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -42,6 +42,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 27:** *Matemática, Grade 3 student book (Talento matemático 3, Serie Talentos)* — Ecuador, EDINUN (Ediciones Nacionales Unidas) for the Ministerio de Educación, © 2016, fourth printing February 2018; no ISBN printed (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 28:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 29:** *Texto de Aprendizaje, 1er Año de Educación Secundaria Comunitaria Productiva (Grade 7) — Área Matemática section only* (student book) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia); the section file carries no cover, title page, imprint, year/edition or ISBN (none is printed anywhere in this set) — the ministry attribution and the book's identity are proved from the section divider (printed p. 52), the running heads and the bibliography's self-citation (printed p. 138); the section keeps the whole book's printed foliation, pp. 52–138 (Spanish). Filed in maths/books/bolivia.md (Grade 7 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
+
+**Book 30:** *Texto de Aprendizaje, 2do Año de Educación Secundaria Comunitaria Productiva (Grade 8) — Área Matemática section only* (student book) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), 2024 (the year is printed in the bibliography page's running head, printed p. 146); no cover, title page, imprint or ISBN exists in the section file; printed foliation pp. 58–146. Held-copy defect: printed p. 135 is blank in the secured copy (PDF p. 79) and is cited nowhere (Spanish). Filed in maths/books/bolivia.md (Grade 8 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,8 +131,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | (TG) Dars 37–40 lesson plans: parallelism of lines (§37), transversal angles (§38), parallel tests (§39–40), with printed answers to selected textbook problems (§40: e.g. ∠2 = ∠4 = ∠6 = ∠8 = 75°, ∠3 = ∠7 = 105°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 92 |
 | Straight line, curved line, ray (semirrecta), segment and angle: identify, match and colour | Ecuador, Matemática, Grade 2 student book, printed pp. 95–96 |
 | Lines: straight and curved, open and closed, in plane figures and house plans | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 146–147 |
+| Nociones de geometría: basic elements point, line and plane (undefined terms, notation, belonging and collinearity) from weaving/roof contexts | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 64 |
+| La recta, semirrecta y segmento: ray and segment defined and named; relative positions of lines (parallel, perpendicular); measuring as comparison with a unit | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 65 |
+| Rectas paralelas y perpendiculares en el plano: parallel lines keep equal distances (d₁ = d₂), perpendicular lines form 90°; geographic location of Lake Titicaca (latitude 16° S, longitude 69° W) by intersecting lines on a map | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 78 |
+| Rectas en el plano: parallel (never meet), perpendicular (90°), secant (cuts two or more lines) | Bolivia, Texto de Aprendizaje, Grade 8 (2° de Secundaria), Área Matemática (student book), printed p. 134 |
 
-**Acceptance count: taught in 9 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 10 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -140,3 +148,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: the straight path: the shortest way (Lesson 23); straight lines told apart from curved and zigzag lines (Lesson 24); from Grade 6: positions of a line: horizontal, vertical and oblique; parallel lines; intersecting lines; from Grade 7: parallel and perpendicular lines.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Parallel and perpendicular lines; lines in geometric figures.
+
+Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Nociones de geometría; La recta, semirrecta y segmento; Rectas paralelas y perpendiculares en el plano; from Grade 8: Rectas en el plano.

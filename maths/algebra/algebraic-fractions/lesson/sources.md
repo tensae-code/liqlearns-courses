@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -19,6 +19,10 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 8:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 9:** *Libër Mësuesi Matematika 12* (teacher's book) — Albania, Grup autorësh (a group of authors), the teaching text translated and adapted by Llukan Puka and Adrian Naço, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-353-1 (its CIP titles the book “Matematika 12 : me zgjedhje”). One teacher's book serving two pupil courses: the base Matematika 12 and the elective Matematika me zgjedhje 12. Teacher evidence only — no pupil's book is in hand for either course. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *Texto de Aprendizaje, 6to Año de Educación Secundaria Comunitaria Productiva (Grade 12) — Área Matemática section only* (student book) — Bolivia; the publisher is not printed in the section file (no imprint page exists in it) — the Ministerio de Educación (Estado Plurinacional de Bolivia) attribution rests on the full-book context and the bibliography (printed p. 144, citing the ministry's Currículum Base, 2023); no year/edition or ISBN is printed; printed foliation pp. 54–144 (Spanish). Filed in maths/books/bolivia.md (Grade 12 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
+
+**Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,7 +50,9 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | §35 fractional-rational equations reducible to quadratics; extraneous roots and the need to check | Uzbekistan, Algebra, Grade 8 (Russian), printed pp. 169–171 |
 | Simplify given algebraic expressions set inside the 2x2-systems tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 8 |
 | Simplify given fractions set inside the matrices tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 13 |
-**Acceptance count: taught in 7 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Operaciones algebraicas: simplifying a compound algebraic condition to (x+y)/(x−y)=5, giving the consecutive pair y=2, x=3; equality axioms and theorems listed (reflexive, symmetric, transitive; adding/multiplying equals) | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 133 |
+| Fracciones algebraicas y sus operaciones: algebraic fractions, simplification, addition, subtraction, multiplication and division | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 3 (Grade 9) section, printed p. 106 |
+**Acceptance count: taught in 8 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
@@ -54,3 +60,5 @@ Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracti
 Mongolia enters through its ministry textbooks Математик VIII, IX, X (Grades 8, 9, 10): algebraic fractions P/Q built up over three years — cancelling by a common factor, adding and subtracting over common denominators found by factorising, opposite denominators c/(a−b) = −c/(b−a), and multi-step simplification with an explicit order-of-operations protocol.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Algebraic fractions: cancelling factors; Elective course: thyesat algjebrike (Algebraic fractions, advanced).
+
+Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 12: Operaciones algebraicas; from the Compendium's Secundaria 3 section (Grade 9): Fracciones algebraicas y sus operaciones.
