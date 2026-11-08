@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Cross-Sections of Solids
 
 **One thing:** when a plane cuts a solid, the cut face — the section — is not any shape it likes: each solid forces its sections into known shapes, and this lesson teaches what those shapes are for the prism, the pyramid, the cylinder, the cone and the sphere, how to construct a section through given points, and the theorems that prove the shapes.
 
-**Stage:** Advanced Mathematics (Stage 12). **Level 159** (Tajikistan merge, 2026-11-07).
+**Unit:** Advanced Mathematics (Unit 12). **Level 159** (Tajikistan merge, 2026-11-07).
 
 **Why this lesson exists:** Tajikistan's Grade 11 Геометрия (Geometry — continuation of stereometry) treats sections as a named, systematic topic with proofs across five solids: the section defined and Theorems 2–3 proved for the prism (Topic 3, printed pp. 13–15), pyramid and tetrahedron sections with a worked construction (Topic 9, printed p. 35), Theorem 12 for the cylinder (Topic 16, printed pp. 59–60), Theorems 14–15 for the cone (Topic 19, printed pp. 68–70), and Theorem 18 with the great-circle properties for the sphere and ball (Topic 24, printed pp. 84–85). No existing lesson homes it as a topic: geometry-in-space carries sections as single rows inside wider space-geometry courses, and volume-and-surface-area uses sections only in passing — neither teaches the section itself, its construction, or its forced shapes. So under the everything-goes-in ruling (2026-11-06) it gets its own lesson — the same call the four-means and Euler's totient lessons were built on. One stated great-circle property in the book is false for antipodal points and is taught corrected. It stands alone: any learner who can picture the five solids can start here; the geometry-in-space lesson is a soft hint, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Section Is** — what a section is: the cut face a plane leaves in a solid, and the section shapes of a prism and a sphere. (Was depth Layer 1.)
+2. **Prism and Pyramid Sections** — prism and pyramid sections: Theorems 2 and 3, constructing a section through three points, and the sections a tetrahedron can have. (Was depth Layer 2.)
+3. **Cylinder and Cone Sections** — cylinder and cone sections: axial, through-generator and parallel sections, with Theorem 15's proportionality and area-square rules. (Was depth Layer 3.)
+4. **Sphere Sections** — sphere sections: the radius √(R² − d²), diametral planes and great circles, with the antipodal case taught corrected. (Was depth Layer 4.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

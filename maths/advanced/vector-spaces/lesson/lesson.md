@@ -6,6 +6,8 @@ Consider the set of all vectors (x, y, z) in R³ with x + y + z = 0 — a plane 
 
 That one difference — staying closed, or escaping — is the seed of this whole lesson, built from Rwanda's Senior Five and Senior Six **Advanced** books together: Senior Five builds the theory, Senior Six works it harder. (Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 6, printed pp. 180–196; Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 6, printed pp. 331–344.)
 
+## Sub lesson 1 — Subspaces
+
 ## R³ as a vector space, and the subspace test
 
 R³, with ordinary vector addition and scalar multiplication, is a **vector space**. A non-empty subset W of it is a **subspace** if it is itself closed under the two operations:
@@ -27,6 +29,8 @@ Reading the **dimension of the intersection** off the solution set — one free 
 
 The union behaves oppositely. W₁ ∪ W₂ is a subspace **if and only if one contains the other**: W₁ ⊆ W₂ or W₂ ⊆ W₁. Take two different lines through the origin: a vector from each line adds to a vector on neither line, so the union is not closed and not a subspace. This criterion is stated in both teacher's guides' Unit 6 summaries and in neither Learner's Book — guide evidence, taught here as the guides state it. (Rwanda, Advanced Mathematics, Teacher's Guide, Senior Five, Unit 6, printed p. 97; Rwanda, Advanced Mathematics, Teacher's Guide, Senior Six, Unit 6, printed p. 292.)
 
+## Sub lesson 2 — Sums and Dimensions
+
 ## Sums of subspaces, and the Grassmann formula
 
 The **sum** F + G is the set of all u + v with u in F and v in G — and it is the **smallest subspace containing both** F and G: it is a subspace, it contains each of them (take the other summand as 0), and any subspace containing both must contain every such sum. Its size is counted by the **Grassmann formula**:
@@ -38,6 +42,8 @@ For the F and G above: dim(F + G) = 2 + 2 − 1 = 3, so F + G is all of R³. The
 ## Direct sums and complementary subspaces
 
 If F ∩ G = {0}, the sum is called a **direct sum**, written F ⊕ G, and its defining gift is uniqueness: every vector of F ⊕ G is written as u + v with u in F, v in G in **exactly one way** (two writings would differ by a non-zero vector in the intersection). Subspaces F and G are **complementary (supplementary)** when the whole space is their direct sum, E = F ⊕ G — equivalently dim F + dim G = dim E with F ∩ G = {0}. Every subspace has complements, though rarely just one. (Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 6, printed pp. 188–190; Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 6, printed pp. 343–344.)
+
+## Sub lesson 3 — Basis and Coordinates
 
 ## Linear combinations and span
 

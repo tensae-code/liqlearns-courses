@@ -1,13 +1,24 @@
-# Levels — Cross-Sections of Solids
+# Cross-Sections of Solids — sub lessons and depth
 
-One lesson, one level (Level 159). The depth layers inside it are ranks.
+One lesson, one level (Level 159). Its depth layers are its SUB
+LESSONS now (2026-11-08 restructure — README, "Units, Lessons
+and Sub Lessons"). Practice is tied to the skill number, as
+before. The questions live in the type files; this file is the
+by-sub-lesson view.
 
-## Depth layers
+Mapping from the old depth layers: old Layer 1 = Sub lesson 1; old Layer 2 = Sub lesson 2; old Layer 3 = Sub lesson 3; old Layer 4 = Sub lesson 4.
 
-- **Layer 1 — What a section is.** Define a section of a solid by a cutting plane, and name the section shapes of a prism (convex polygon) and of a sphere (circle). Pass mark: 4 of 5.
-- **Layer 2 — Prism and pyramid sections.** State and use Theorems 2 and 3: parallelogram sections, equal parallel sections; construct a section through three given points; say which sections a tetrahedron can have. Pass mark: 4 of 5.
-- **Layer 3 — Cylinder and cone sections.** Axial sections, through-generator sections, and parallel sections of cone and cylinder; use the proportionality and area-square rules of Theorem 15 on worked numbers. Pass mark: 4 of 5.
-- **Layer 4 — Sphere sections.** Use radius √(R² − d²), diametral planes and great circles — including the antipodal case the book states wrongly. Pass mark: 4 of 5.
+## Sub lesson 1 — What a Section Is
+Define a section of a solid by a cutting plane, and name the section shapes of a prism (convex polygon) and of a sphere (circle). Pass mark: 4 of 5.
+
+## Sub lesson 2 — Prism and Pyramid Sections
+State and use Theorems 2 and 3: parallelogram sections, equal parallel sections; construct a section through three given points; say which sections a tetrahedron can have. Pass mark: 4 of 5.
+
+## Sub lesson 3 — Cylinder and Cone Sections
+Axial sections, through-generator sections, and parallel sections of cone and cylinder; use the proportionality and area-square rules of Theorem 15 on worked numbers. Pass mark: 4 of 5.
+
+## Sub lesson 4 — Sphere Sections
+Use radius √(R² − d²), diametral planes and great circles — including the antipodal case the book states wrongly. Pass mark: 4 of 5.
 
 ## What "maxed" means here
 

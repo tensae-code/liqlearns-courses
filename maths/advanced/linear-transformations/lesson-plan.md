@@ -1,10 +1,26 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Linear Transformations
 
 **One thing:** a linear transformation — a map between vector spaces that keeps the grid straight: T(u + v) = T(u) + T(v) and T(ku) = kT(u) — and the two sets that describe what it does, its kernel and its image, tied together by the rank–nullity theorem.
 
-**Stage:** Advanced Mathematics (Stage 12). **Level 155** (Venezuela merge, 2026-11-07).
+**Unit:** Advanced Mathematics (Unit 12). **Level 155** (Venezuela merge, 2026-11-07).
 
 **Why this lesson exists:** Venezuela's Grade 11 book (*La Matemática y el Vivir Bien*, Lesson 6, printed pp. 143–155) gives linear transformations a complete chapter of their own: the definition and its verification on the zero map, on the derivation map for polynomials and on every 2 × 2 matrix map; the shear worked on a photograph; the first properties proved; the five kinds of linear map; kernel and image as vector spaces in their own right; Sylvester's rank–nullity theorem worked; and rotations shown to be linear from the angle-sum formulas. The library's linear algebra otherwise covers the spaces themselves (the vector-spaces lesson) and the arithmetic of matrices and determinants — no existing lesson is about the maps, their kernels and images, or rank–nullity. So under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson. It stands alone: vector-spaces and matrices are soft hints before it, never gates.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Two Laws** — the two laws that make a map linear, checked on the zero map, a matrix map and the derivative map, and told apart from an affine map. (Was depth Layer 1.)
+2. **First Properties** — the first properties, proved from the two laws: T(0) = 0, T(−v) = −T(v), and preservation of linear combinations. (Was depth Layer 2.)
+3. **The Five Kinds** — the five kinds: monomorphism, epimorphism, isomorphism, endomorphism and automorphism. (Was depth Layer 3.)
+4. **Kernel and Image** — kernel and image: computing N(T) and Im(T), and the image-of-a-basis fact taught corrected. (Was depth Layer 4.)
+5. **Rank–Nullity** — rank–nullity: dim V = dim N(T) + dim Im(T), and a rotation about the origin as a linear map. (Was depth Layer 5.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

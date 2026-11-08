@@ -1,6 +1,8 @@
 # Matching — Linear Transformations
 
-1. (Layers 1–5) Match each map or notion to its correct partner:
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Layer 1) -> Sub lesson 1 — The Two Laws · (Layer 2) -> Sub lesson 2 — First Properties · (Layer 3) -> Sub lesson 3 — The Five Kinds · (Layer 4) -> Sub lesson 4 — Kernel and Image · (Layer 5) -> Sub lesson 5 — Rank–Nullity. Items whose old marker spans layers keep their span, as sub lessons.
+
+1. (Sub lessons 1–5) Match each map or notion to its correct partner:
    (a) the zero map T(v) = 0
    (b) the shear T(x, y) = (x + 2y, y)
    (c) an isomorphism

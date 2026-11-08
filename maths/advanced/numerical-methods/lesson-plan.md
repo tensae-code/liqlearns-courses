@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Numerical Methods
 
 **One thing:** solving f(x) = 0 when no formula will do it — estimating between two known points (interpolation and extrapolation), trapping a root where the function changes sign, and then closing in on it with Newton–Raphson or with fixed-point iteration x = g(x), where the rearrangement you choose decides whether the iteration converges at all.
 
-**Stage:** Advanced Mathematics (Stage 12). **Level 147** (Rwanda merge, 2026-11-07).
+**Unit:** Advanced Mathematics (Unit 12). **Level 147** (Rwanda merge, 2026-11-07).
 
 **Why this lesson exists:** Rwanda's Senior Five Advanced Learner's Book gives numerical methods a full unit — interpolation, sign-change root location, Newton–Raphson, fixed-point iteration — while the read set's other equation lessons solve exactly or not at all. Approximate solving, and above all the comparison of rearrangements of one equation, had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson. S5/S6 books in this set are the Advanced Mathematics stream, and this lesson says so.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Estimate and Locate** — estimating between two known points by linear interpolation and extrapolation, and locating a root inside an interval by a sign change. (Was depth Layer 1.)
+2. **Newton–Raphson** — Newton–Raphson: carrying out iterations from a given start to a stated accuracy, and when the method can fail. (Was depth Layer 2.)
+3. **Fixed-Point Iteration** — fixed-point iteration: rearranging an equation as x = g(x), iterating it, and predicting from |g′(x)| which rearrangement converges. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

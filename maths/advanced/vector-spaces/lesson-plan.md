@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Vector Spaces
 
 **One thing:** what makes a set of vectors a vector space or a subspace — the closure test — and the whole working kit built on it: intersections and sums of subspaces, the Grassmann dimension formula, direct sums and complementary subspaces, the union criterion from the teacher's guides, and linear combinations, span, independence, basis, dimension and coordinate vectors.
 
-**Stage:** Advanced Mathematics (Stage 12). **Level 148** (Rwanda merge, 2026-11-07).
+**Unit:** Advanced Mathematics (Unit 12). **Level 148** (Rwanda merge, 2026-11-07).
 
 **Why this lesson exists:** Rwanda's Senior Five and Senior Six Advanced Learner's Books both build vector spaces as a full unit — Senior Five from R³, the subspace test and span up to basis and dimension, Senior Six returning to intersections and sums and working them by solving systems — with the two teacher's guides adding a union criterion neither Learner's Book states. The vectors lesson in this course works with vectors themselves (products, geometry, applications); the abstract space structure had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson. S5/S6 books in this set are the Advanced Mathematics stream, and this lesson says so throughout.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Subspaces** — subspaces: the closure test, intersections of subspaces, and the union criterion from the teacher's guides. (Was depth Layer 1.)
+2. **Sums and Dimensions** — sums of subspaces and dimensions: the Grassmann formula, direct sums and complementary subspaces. (Was depth Layer 2.)
+3. **Basis and Coordinates** — basis and coordinates: linear combinations and span, independence, basis, dimension and coordinate vectors. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

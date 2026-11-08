@@ -6,9 +6,13 @@ Take a prism — a solid with two equal ends and straight sides, like a Tobleron
 
 Hold your answer. By the end of this lesson you will know exactly which shapes a cut can leave in each of the five great solids — and you will be able to prove the first of them.
 
+## Sub lesson 1 — What a Section Is
+
 ## What a section is
 
 When a plane cuts a solid, the part they have in common — the flat face where the plane passes through the solid — is called a **section** of the solid by that plane. Tajikistan's Grade 11 geometry book makes sections a topic of their own, solid by solid, and it begins with the prism. (Tajikistan, *Геометрия* (Grade 11), printed p. 13.)
+
+## Sub lesson 2 — Prism and Pyramid Sections
 
 ## Sections of a prism
 
@@ -20,11 +24,15 @@ The book then does the practical thing: it **constructs** a section. Given a qua
 
 A pyramid's sections behave differently because everything funnels to the apex. A section **through the apex is a triangle**. The smallest pyramid, the tetrahedron, can only be cut into **triangles or quadrilaterals** — there are not enough faces for more sides. The book constructs the section of a tetrahedron SABC through points on AB, BC and CS by **extending lines until they meet**: a section side lying in one face is prolonged to meet a line of the neighbouring face, and each meeting gives the next vertex of the section. (Tajikistan, *Геометрия* (Grade 11), printed p. 35.)
 
+## Sub lesson 3 — Cylinder and Cone Sections
+
 ## Sections of a cylinder and a cone
 
 **Theorem 12: a section of a circular cylinder by a plane through a generator is a parallelogram** — and in a **right** cylinder it is a rectangle. The most useful of these is the **axial section**: the cut through the axis, a rectangle whose sides are the generators and the base diameters. A section **parallel to the bases is a circle equal to the base**. (Tajikistan, *Геометрия* (Grade 11), printed pp. 59–60.)
 
 For the cone: **Theorem 14: a section of a right cone by a plane through the vertex is an isosceles triangle** whose equal sides are generators; the axial section is the one standing on a base diameter. **Theorem 15: a section parallel to the base is a disc whose centre lies on the axis**; it divides the height and the generators **proportionally**, and the areas of section and base stand as the **squares** of the corresponding ratios. The book works it both ways on an oblique cone of height 15 cm and base radius 6 cm: a section 10 cm above the base sits 5 cm from the apex, so its radius is 6 × 5/15 = 2 cm and its area 4π cm². (Tajikistan, *Геометрия* (Grade 11), printed pp. 68–70.)
+
+## Sub lesson 4 — Sphere Sections
 
 ## Sections of a sphere and a ball
 

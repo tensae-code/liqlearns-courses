@@ -6,6 +6,8 @@ A photo app lets you drag the top edge of a picture sideways while the bottom ed
 
 That slant is a **linear transformation** doing its work. This lesson is about the maps behind it: which maps count as linear, what they are allowed to do, and the two sets — kernel and image — that expose exactly what a map crushes and what it keeps.
 
+## Sub lesson 1 — The Two Laws
+
 ## What "linear" means
 
 Venezuela's Grade 11 book starts from the photograph. A general change of the picture is affine: x* = ax + by + r, y* = cx + dy + s. When the shifts vanish — r = s = 0 — the map is **linear**, and it is exactly a matrix product. A map T between vector spaces is a **linear transformation** when it keeps both promises:
@@ -19,6 +21,8 @@ The zero map, T(v) = 0 for every v, passes both tests. So does a map from a diff
 
 Take any 2 × 2 matrix map, T(x, y) = (ax + by, cx + dy). The book proves from the definition that it satisfies both promises — every matrix map is linear. Its running example is the **horizontal shear** T(x, y) = (x + 2y, y), applied to the square of a photograph: the corners (0, 0), (1, 0), (1, 1), (0, 1) go to (0, 0), (1, 0), (3, 1), (2, 1), and (0, 0) and (1, 0) are fixed points — they do not move at all. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed pp. 145–147.)
 
+## Sub lesson 2 — First Properties
+
 ## First properties — proved, not quoted
 
 Two facts fall straight out of the promises:
@@ -28,9 +32,13 @@ Two facts fall straight out of the promises:
 
 And the promises extend to every combination at once: **T(Σ kᵢvᵢ) = Σ kᵢT(vᵢ)** — a linear map preserves all linear combinations. These are also the detective's tools: a map that moves the origin, like the shift (x, y) → (x + 1, y), is convicted at once — it is affine, not linear. The book also disproves linearity by reading graphs: if |u| = ½|v| but |T(u)| = ⅔|T(v)|, the scaling promise T(u) = ½T(v) has failed. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed pp. 147–150.)
 
+## Sub lesson 3 — The Five Kinds
+
 ## The five kinds
 
 Linear maps are sorted by how they behave: a **monomorphism** loses nothing (distinct inputs keep distinct outputs), an **epimorphism** reaches everything, an **isomorphism** does both, an **endomorphism** maps a space into itself, and an **automorphism** is an isomorphism of a space with itself. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed p. 149.)
+
+## Sub lesson 4 — Kernel and Image
 
 ## Kernel and image
 
@@ -42,6 +50,8 @@ Two sets describe any linear map completely:
 The kernel of the shear is {(0, 0)} — it crushes nothing real. The kernel of the zero map is the whole space V. And both sets are **vector spaces in their own right** — kernel and image are subspaces, never arbitrary sets. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed p. 152.)
 
 One claim in the book must be taught corrected. The book says T sends a basis of V to a basis of Im(T). That is too strong: the images of a basis always **span** Im(T) — the book's own argument proves that much — but they can fail to be independent. Counterexample: under T(x, y) = (x + y, x + y), the basis vectors (1, 0) and (0, 1) both map to (1, 1); the pair {(1, 1), (1, 1)} spans the image but is no basis of it. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed pp. 150–152 — claim taught corrected.)
+
+## Sub lesson 5 — Rank–Nullity
 
 ## Rank–nullity: the count that balances
 

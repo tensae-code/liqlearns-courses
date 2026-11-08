@@ -6,6 +6,8 @@ Try to solve x² − 5 = 0 exactly. You can — the root is √5. Now try x⁵ �
 
 This lesson is the toolkit for that situation, as Rwanda's Senior Five **Advanced** book teaches it: estimate, trap, then close in. (Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 105–126.)
 
+## Sub lesson 1 — Estimate and Locate
+
 ## Linear interpolation and extrapolation
 
 Between two known points (x₁, y₁) and (x₂, y₂), the straight line joining them gives an estimate for any x in between:
@@ -23,6 +25,8 @@ If f is continuous and f(a) and f(b) have **opposite signs**, then f must cross 
 
 The sign-change test locates; it does not by itself refine quickly — that is what the next two methods are for. (Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 111–118. The book's graphical example on p. 115 closes by naming an interval copied from the previous example; the root value it finds, ≈ 3.2, is correct, and the interval is taught corrected here — it belongs to that example's own bracket.)
 
+## Sub lesson 2 — Newton–Raphson
+
 ## Newton–Raphson
 
 Stand at a guess x₀ on the curve y = f(x). The tangent there meets the x-axis at a better guess. Repeating gives the **Newton–Raphson iteration**:
@@ -35,6 +39,8 @@ For x² − 5 = 0, f′(x) = 2x, starting at x₀ = 2:
     x₂ = 2.25 − 0.0625/4.5 ≈ 2.2361      (√5 = 2.23607…)
 
 Two steps, four correct decimals — the method roughly doubles the correct digits at each step near the root. Its dangers are the mirror of its speed: a start where f′(x) ≈ 0 throws the next guess far away, and a careless start can cycle or land on a different root. Bracket first, then Newton. (Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 118–122.)
+
+## Sub lesson 3 — Fixed-Point Iteration
 
 ## Fixed-point iteration: x = g(x)
 
