@@ -4,7 +4,7 @@ countries: Bangladesh, Kuwait, Syria, Rwanda
 
 Every part traces to its book and page.
 
-**Book 1:** *Mathematics, Class Nine (Experimental Edition)* — Bangladesh, National Curriculum and Textbook Board (NCTB), published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair; no ISBN printed). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are this same book held twice; cited once, by its Class 9 identity.
+**Book 1:** *Mathematics, Class Nine (Experimental Edition)* — Bangladesh, National Curriculum and Textbook Board (NCTB), published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair; no ISBN printed). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). Identical files of this same book also sit under the Grade 10 row, but the book itself is Class Nine only — nothing in it calls it a Class 9–10 or SSC book; cited once, by its Class 9 identity.
 **Book 2:** *Mathematics, Grade 11, Term 2 student book, scientific track* — Kuwait, Ministry of Education, 2nd edition 1447 AH / 2025–2026, back-cover barcode ISBN 978-614-406-585-3. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 3:** *Mathematics, Part Two, Grade 12 (Scientific track)* — Syria, Ministry of Education, held printing 2025–2026/1447H, first printed 2016–2017, Arabic; no ISBN printed. Filed in maths/books/syria.md (FULLY READ + CITATION CHECK PASSED).

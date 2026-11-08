@@ -1,6 +1,6 @@
 # Sources — Repeating Patterns
 
-countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia
+countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh
 
 Every part traces to its book and page.
 
@@ -34,6 +34,7 @@ Every part traces to its book and page.
 **Book 23:** *الرياضيات (Mathematics), Grade 1 pupil's book, Part Two* — Palestine, Ministry of Education and Higher Education (State of Palestine), Curriculum Centre, Ramallah, fourth edition 2020 CE / 1441 AH (Arabic). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 **Book 24:** *İlkokul Matematik 3. Sınıf Ders Kitabı, 1. Kitap* (Primary School Mathematics, Grade 3 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9897-6; approved by the Talim ve Terbiye Kurulu, decision no. 164290654 dated 13/07/2026; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Elementary Mathematics, Class One* — Bangladesh, NCTB, first printing October 2022, reprint 2023, experimental edition, National Curriculum 2021 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -102,8 +103,9 @@ Every part traces to its book and page.
 | shape patterns: draw the missing steps of pictured patterns and write how many shapes each step has (recall) | Turkey, Matematik 3. Sınıf Ders Kitabı, 1. Kitap (Grade 3, Book 1), printed p. 68 |
 | create your own shape pattern by colouring, record its counts, state its rule; express a shape pattern in numbers and compare patterns respectfully with classmates | Turkey, Matematik 3. Sınıf Ders Kitabı, 1. Kitap (Grade 3, Book 1), printed p. 71 |
 | Patterns (regularity by colour/shape; find and continue the rule) | Armenia, Mathematics 1, Part 1, printed p. 28 |
+| Repeating patterns in objects, shapes, letters and numbers — what comes next; making your own patterns | Bangladesh, Class 1 student book, Ch. 13 Pattern, printed pp. 86–91 |
 
-**Acceptance count: taught in 13 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 14 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria's repeating patterns open the Grade 1 Semester 1 book: AB and ABC patterns in colours, shapes and movements, completed, repaired and built by the pupil.
 
@@ -121,3 +123,5 @@ Palestine enters through the pupil's books of its Ministry of Education (Curricu
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 3: shape patterns: draw the missing steps of pictured patterns and write how many shapes each step has (recall); create your own shape pattern by colouring, record its counts, state its rule; express a shape pattern in numbers and compare patterns respectfully with classmates.
 
 Armenia enters through its Mathematics 1, Part 1 (student textbook-notebook, 2025). From its books: patterns (regularity by colour/shape; find and continue the rule).
+
+Bangladesh enters through its NCTB course — *Elementary Mathematics, Class One* — stocked by the 2026-11-08 re-verification sweep. From its books: from Class 1: repeating patterns in objects, shapes, letters and numbers — what comes next, and making your own patterns (Ch. 13 Pattern, printed pp. 86–91).

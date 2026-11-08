@@ -53,7 +53,7 @@ Every part traces to its book and page.
 **Book 37:** *Mathematics, Grade 10 Scientific student book* — Iraq, Ministry of Education, General Directorate of Curricula, 15th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 38:** *Mathematics, Class Seven* — Bangladesh, NCTB, first published December 2022, National Curriculum 2022, experimental version, from academic year 2023 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
-**Book 39:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, prescribed for Class Nine from academic year 2024; the shared Class 9–10 (SSC) book, cited once by its Class 9 identity (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, prescribed for Class Nine from academic year 2024; a Class Nine book only (identical files also sit under the Grade 10 row; nothing in the book calls it a Class 9–10 or SSC book), cited once by its Class 9 identity (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 40:** *गणित, कक्षा ६ (Mathematics, Grade 6)* — Nepal, CDC, Sanothimi, First edition VS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *गणित, कक्षा ७ (Mathematics, Grade 7)* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
@@ -244,7 +244,7 @@ Every part traces to its book and page.
 | Powers and scientific notation; square root and cube root | Iraq, Grade 7 student book, Ch. 1 L1-1, p. 8 (powers and scientific notation), L1-5, p. 24 |
 | Negative powers; properties of powers | Iraq, Grade 8 student book, Ch. 1 L1-2, p. 10 (negative powers and scientific notation), L1-3, p. 14 (properties of powers) |
 | Indices and roots: laws, a⁰ = 1, a⁻ⁿ, simple exponential equations | Iraq, Grade 10 Scientific student book, Ch. 3, 3-1–3-2, printed pp. 40–57 (ex. 3, p. 48: 2^(x²−2x+1) = 4^(x+3) → x = 5, −1) |
-| Exponent form; exponents of 0 and 1; multiplication and division of exponents; power 0; speed-of-light task; COVID-19 spread modelled as 3ⁿ | Bangladesh, Class 7 student book, Exp. 1 Exponent, printed pp. 1–29 |
+| Exponent form; exponents of 0 and 1; multiplication and division of exponents; power 0; speed-of-light task; COVID-19 spread modelled as 3ⁿ — taught corrected: Table 1.11 (printed p. 6) prints 1000 as the power 10² (correct 10³) and 100000 as 15⁵ (correct 10⁵) | Bangladesh, Class 7 student book, Exp. 1 Exponent, printed pp. 1–29 |
 | Square numbers and perfect squares; multiplication rule of exponents; negative exponent; square of a binomial | Bangladesh, Class 7 student book, Exp. 2 Exponents of Algebraic Expressions, printed pp. 30–56 |
 | Exponent laws restated as the basis for the laws of logarithms | Bangladesh, Class 9 student book, Ch. 3 Concept and Application of Logarithm, printed pp. 59–80 |
 | Exponents: a², a³; laws by expansion | Nepal, Grade 6, पाठ 11 Exponents, printed pp. 128–130 |

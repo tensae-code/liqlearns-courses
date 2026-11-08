@@ -4,7 +4,7 @@ countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezue
 
 Every part traces to its book and page.
 
-**Book 1:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are the same book held twice; cited once, by its Class 9 identity.
+**Book 1:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). Identical files also sit under the Grade 10 row, but the book itself is Class Nine only — nothing in it calls it a Class 9–10 or SSC book; cited once, by its Class 9 identity.
 **Book 2:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *A Textbook of Statistics for Class 11* (student book) — Pakistan (Punjab), PCTB, Lahore, 10th edition, May 2017 (academic year 2017-18), English-medium; authors Dr. Faqir Muhammad and Amjad Mehmood; no ISBN printed. Held copy: printed pp. 111–127 stand in a leaf-reversed block (all present, out of order) and are cited by printed page. Filed in maths/books/pakistan.md (FULLY READ + CITATION CHECK PASSED).
 

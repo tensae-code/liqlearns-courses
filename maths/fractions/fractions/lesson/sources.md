@@ -435,7 +435,7 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Equivalent fractions, with the cross-multiplication check | Bangladesh, Class 3 student book, Ch. 9 Fraction, printed pp. 84–98 |
 | Proper vs improper fractions; comparing fractions; equivalent fractions; reducing to lowest terms by HCF; common denominator by LCM | Bangladesh, Class 4 student book, Ch. 8 Fractions, printed pp. 87–102 |
 | Proper, improper and mixed fractions; converting improper ↔ mixed | Bangladesh, Class 5 student book, Ch. 6 Fractions, printed pp. 38–64 |
-| Comparing fractions; improper and mixed fractions; reciprocal and multiplicative inverse | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
+| Comparing fractions; improper and mixed fractions; reciprocal and multiplicative inverse — taught corrected: printed p. 60 says "first we have to find out the H.C.F of 3 and 10. The H.C.F of 3 and 10 is 30" (the HCF of 3 and 10 is 1; 30 is their LCM — the common-denominator working that follows uses 30 correctly and its conclusion stands) | Bangladesh, Class 6 student book, Ch. 4 The Game of Fractions, printed pp. 57–102 |
 | GCD and LCM of fractions; simplest form | Bangladesh, Class 7 student book, Exp. 3 GCD and LCM of Fractions, printed pp. 57–79 |
 | Half and quarter only, in pictures and words | Nepal, Grade 1, L37 Fraction, printed pp. 74–75 |
 | 1/2, 1/4, 2/4, 3/4, 1/3, 2/3, 1/10, comparing fractions, fraction of a set | Nepal, Grade 2 English, L18 Fraction, printed pp. 61–72 (p. 61 'Two fourth' labelled 2/3 is taught corrected: 2/4) |

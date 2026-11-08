@@ -42,7 +42,7 @@ Every part traces to its book and page.
 **Book 26:** *Mathematics, Grade 7 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 6th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics, Grade 9 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 4th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
-**Book 28:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are the same book held twice (SHA-256-identical pairs); cited once, by Class 9 identity.
+**Book 28:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). Identical files also sit under the Grade 10 row (SHA-256-identical pairs), but the book itself is Class Nine only — nothing in it calls it a Class 9–10 or SSC book; cited once, by Class 9 identity.
 
 **Book 29:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (English Version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 30:** *My Mathematics, Class 2* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (English Version, old series). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).

@@ -47,7 +47,7 @@ Every part traces to its book and page.
 **Book 32:** *Mathematics, Grade 11 Scientific student book* — Iraq, Ministry of Education, General Directorate of Curricula, 13th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 33:** *Mathematics, Grade 11 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 14th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
-**Book 34:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, prescribed for Class Nine from academic year 2024; the shared Class 9–10 (SSC) book, cited once by its Class 9 identity (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, National Curriculum 2022, experimental edition, prescribed for Class Nine from academic year 2024; a Class Nine book only (identical files also sit under the Grade 10 row; nothing in the book calls it a Class 9–10 or SSC book), cited once by its Class 9 identity (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 35:** *गणित, कक्षा ८ (Mathematics, Grade 8)* — Nepal, CDC, Sanothimi, First edition VS 2072; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *गणित, कक्षा ९ (Mathematics, Class 9)* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).

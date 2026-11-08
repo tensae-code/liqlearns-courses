@@ -1,10 +1,11 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey
+countries: Turkey, Bangladesh
 
 Every part traces to its book and page.
 
 **Book 1:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
+**Book 2:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,9 +16,12 @@ Every part traces to its book and page.
 | Consent boxes ticked without reading ("Tüm izinleri kabul ediyorum"), consumer privacy, and the Turkish personal-data law (KVKK) information box as research ethics | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 193 |
 | Performance task: audit a published nutrition report against the whole research process | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 194 |
 | Review: a lake-level line-graph study audited step by step; a survey whose respondents refused personal questions — the effects on ethics and on results; the safe-behaviour item | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed pp. 195–196 |
+| Judging the reliability of data sources — reliable data sources and honesty in research: checking information before using it | Bangladesh, Class 8 student book, Exp. 1 Mathematical Exploration, printed p. 21 (experience printed pp. 1–24) |
 
-**Acceptance count: taught in 1 country (Turkey).**
+**Acceptance count: taught in 2 countries (Turkey, Bangladesh).**
 
 This lesson exists because Turkey's Grade 7 book teaches the critical audit of research as named, developed material: the second half of its Statistical Research Process theme is titled "Examining statistical research processes" (printed pp. 190–196) and works a mismatched survey dissection, source tracing to the NSIDC, a source-less claim, itemised privacy failures, consent and the KVKK box, an audit performance task and an audit review; its collection step (printed p. 170) names personal-data questions. The course's collecting-and-showing-data lesson carries the research process itself — Turkey's own process lines are stocked there, including its Grade 6 survey-writing treatment with its survey privacy context (Grade 6, printed p. 175) — but no read book puts the audit of a finished study, or privacy and consent, into that lesson, and no lesson in the course carries privacy content at all. Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source.
 
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 7: personal data in surveys — which questions ask for private information, protecting privacy and confidentiality when writing survey questions (printed p. 170); examining other people's research step by step against the four-step process and finding where a study's population, sample or graph choice goes wrong (printed p. 190); source reliability — reaching correct, reliable information from edu.tr, gov.tr, org.tr domains, NSIDC ice-sheet data traced to its named source (printed p. 191); checking a source-less social-media health claim, and a student's privacy failures (public profile, birth date, school, a friend's photo shared without permission) (printed p. 192); consent boxes ticked without reading, consumer privacy, and the Turkish personal-data law (KVKK) as research ethics (printed p. 193).
+
+Bangladesh enters through its NCTB course — *Mathematics, Class Eight* (National Curriculum 2022, academic year 2024) — stocked by the 2026-11-08 re-verification sweep. From its books: from Class 8: judging the reliability of data sources — reliable data sources and honesty in research, checking information before using it (Exp. 1 Mathematical Exploration, printed p. 21).

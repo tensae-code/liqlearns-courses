@@ -4,7 +4,7 @@ countries: Bangladesh, Laos, Nicaragua, Nepal, Jordan, Pakistan, Ethiopia, Malay
 
 Every part traces to its book and page.
 
-**Book 1:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, prescribed for Class Nine from academic year 2024 (Bangla original + English translation mirror pair; the Class 9–10 (SSC) files are the same book held twice — cited once, by Class 9 identity). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 1:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, prescribed for Class Nine from academic year 2024 (Bangla original + English translation mirror pair; identical files also sit under the Grade 10 row, but the book itself is Class Nine only — nothing in it calls it a Class 9–10 or SSC book — cited once, by Class 9 identity). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 2:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *Matemática — Décimo Grado — Libro de Texto, Primera Edición (year left blank as printed)* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *MÓDULO Autoformativo de MATEMÁTICA — 10mo Grado (module), Primera Edición 2017. Module evidence.* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).

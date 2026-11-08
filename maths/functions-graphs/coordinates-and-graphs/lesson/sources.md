@@ -83,7 +83,7 @@ textbook.
 
 **Book 43:** *Elementary Mathematics, Class Six* — Bangladesh, NCTB, first publication December 2022, reprint 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 44:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
-**Book 45:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). The Class 9–10 (SSC) files are the same book held twice (SHA-256-identical pairs); cited once, by Class 9 identity.
+**Book 45:** *Mathematics, Class Nine* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED). Identical files also sit under the Grade 10 row (SHA-256-identical pairs), but the book itself is Class Nine only — nothing in it calls it a Class 9–10 or SSC book; cited once, by Class 9 identity.
 
 **Book 46:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 47:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
