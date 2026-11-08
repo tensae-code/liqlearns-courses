@@ -301,7 +301,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 2 |
 | Arithmetic sequences — the sum formula | Iran, Grade 12 Mathematics and Statistics (3) student book (Humanities branch), Ch. 2, printed pp. 69–72 |
 | Geometric sequences — the sum formula derived | Iran, Grade 12 Mathematics and Statistics (3) student book (Humanities branch), Ch. 3, Lesson 1, printed pp. 80–81 |
-| Repeating patterns in pictures and in number sequences; finding the next terms | China, Grade 1 Volume 2, Unit 8, printed pp. 85–90 |
+| Repeating patterns in pictures and in number sequences; finding the next terms | China, Grade 1 Volume 2, Unit 7, printed pp. 85–90 |
 | Pattern items in the general review — no sequence chapter | China, Grade 6 Volume 2, Unit 6, printed pp. 75, 103 |
 | The triangular numbers: 1 + 2 + … + n = n(n + 1)/2, posed through a quadratic equation (activity only) | China, Grade 9 Volume 1, Ch. 21, printed p. 23 |
 | Patterns: tracing and colouring the next shapes to continue a repeating two-shape pattern | Pakistan (Punjab), Primer (PCTB), printed p. 15 |

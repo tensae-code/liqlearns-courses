@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China
 
 Every part traces to its book and page.
 
@@ -64,6 +64,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 39:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 40:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 42:** *Mathematics, Grade 7, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, ISBN 978-7-107-24620-3. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Volume 1 (Chapters 1–4) is not held, and no Grade 8 book is in hand.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -175,8 +176,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Point, line, plane | Armenia, Geometry 7, §1.2, printed p. 8 |
 | Definition of parallel lines | Armenia, Geometry 7, §11.29, printed p. 82 |
 | The inclined line (թեք) to a plane/line | Armenia, Geometry 7, §16.40, printed p. 130 |
+| Intersecting lines: adjacent supplementary and vertically opposite angles, with the proof that opposite angles are equal; perpendiculars — the foot, the unique perpendicular through a point, the perpendicular as the shortest segment, distance from a point to a line | China, Grade 7 Volume 2, Ch. 5, printed pp. 2–10 |
+| The eight angles cut by a transversal (corresponding, alternate interior, same-side interior); parallel lines defined; the parallel postulate and transitivity; the three tests for parallelism and the three matching properties | China, Grade 7 Volume 2, Ch. 5, printed pp. 11–25 |
 
-**Acceptance count: taught in 14 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 15 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -200,3 +203,5 @@ Barbados enters as CURRICULUM EVIDENCE only, through the *Primary Mathematics Sy
 Tanzania enters through the pupil's book of its Tanzania Institute of Education (TIE) — *Mathematics Standard Five — Pupil's Book*, the English-medium Standard Five book (© TIE 2019, published 2019, reprinted 2021; ISBN 978-9987-09-109-6; Certificate of Approval No. 282, approved by the Ministry of Education, Science and Technology on 5 December 2019, prepared to the 2016 primary Mathematics Syllabus). It is the only Tanzania mathematics book in hand: the other 20 recorded works — among them the Swahili-medium Hisabati Std 5, a separate book from this English one — are waiting-for-file and are cited nowhere. From its book: from Standard Five: geometry revision of rays (ray AB against ray BA) and line segments.
 
 Armenia enters through its Mathematics 1, Part 1 (student textbook-notebook, 2025); Geometry 7. From its books: point; straight and curved lines; the broken line (բեկյալ, polyline); point, line, plane; definition of parallel lines; the inclined line (թեք) to a plane/line.
+
+China enters through its Grade 7 Volume 2 （下册） book — the whole of Chapter 5: intersecting lines and perpendiculars, the eight angles cut by a transversal, and parallel lines with their tests and properties.

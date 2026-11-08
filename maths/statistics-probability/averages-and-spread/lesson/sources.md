@@ -311,7 +311,7 @@ Every part traces to its book and page.
 | Averages and spread | Iran, Grade 11 Mathematics (2) student book (Experimental Sciences branch), Ch. 7, Lesson 2, printed pp. 153–168 |
 | Spread in depth — the box plot; the coefficient of variation | Iran, Grade 11 Statistics and Probability student book (Mathematical Sciences branch), Ch. 3, printed pp. 80–96 (box plot at printed p. 91; coefficient of variation at printed p. 90) |
 | Standard deviation treated conceptually | Iran, Grade 12 Mathematics and Statistics (3) student book (Humanities branch), Ch. 1, Lesson 3, printed pp. 34–36 |
-| The mean: the levelling method and total ÷ count, worked on class data | China, Grade 4 Volume 2, Unit 9, printed pp. 90–94 |
+| The mean: the levelling method and total ÷ count, worked on class data | China, Grade 4 Volume 2, Unit 8, printed pp. 90–94 |
 | Population mean vs sample mean; estimating a population mean, and a proportion by 0/1 coding, from a sample | China, Compulsory Volume 2 (A edition) student book, §§9.1–9.2, printed pp. 178–184 |
 | Percentiles and quartiles; mean, median and mode compared — what each captures, the mean pulled by extremes, the median robust, skew read from mean vs median; mean and median estimated from a histogram | China, Compulsory Volume 2 (A edition) student book, §9.2, printed pp. 201–206 |
 | Spread: range; variance s² and standard deviation s, with the computational form; combining stratum means and variances into the overall figures | China, Compulsory Volume 2 (A edition) student book, §9.2, printed pp. 209–213 |

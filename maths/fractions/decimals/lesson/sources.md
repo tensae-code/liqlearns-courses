@@ -400,7 +400,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | The meaning of decimals; the decimal place-value table; reading and writing decimals | China, Grade 4 Volume 2, Unit 4, printed pp. 32–35 |
 | The trailing-zero property of decimals; comparing decimals by place value | China, Grade 4 Volume 2, Unit 4, printed pp. 38–40 |
 | Moving the decimal point (× and ÷ by 10, 100, …); converting units with decimals | China, Grade 4 Volume 2, Unit 4, printed pp. 43–49 |
-| Column addition and subtraction of decimals; mixed decimal chains | China, Grade 4 Volume 2, Units 6–7, printed pp. 72–79 |
+| Column addition and subtraction of decimals; mixed decimal chains | China, Grade 4 Volume 2, Unit 6, printed pp. 72–79 |
 | Real-number arithmetic with surds, giving decimal approximations to a stated accuracy | China, Grade 7 Volume 2, Ch. 6, printed pp. 55–56 |
 | Tenths, hundredths and thousandths — a decimal as a fraction with denominator 10, 100 or 1,000; place value and expanded form to 3 decimal places; converting fractions ↔ decimals; adding and subtracting decimals in columns; multiplying and dividing decimals by 10, 100, 1,000, by 1-digit numbers and by whole numbers | Pakistan (Punjab), Grade 4 (PCTB), Unit 4, printed pp. 71–85 |
 | Decimal fractions defined; adding and subtracting to 4 decimal places; like and unlike decimal fractions; multiplying and dividing by 10, 100 and 1,000, by whole numbers and by decimals; converting common fractions ↔ decimal fractions by division; simplifying decimal expressions with brackets; rounding to 1, 2 and 3 decimal places | Pakistan (Punjab), Class 5 (PCTB, Urdu-medium), printed pp. 42–59 |

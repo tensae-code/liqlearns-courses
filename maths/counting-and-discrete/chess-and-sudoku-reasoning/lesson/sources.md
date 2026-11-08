@@ -1,11 +1,12 @@
 # Sources — Chess and Sudoku Reasoning
 
-countries: Bolivia, Armenia
+countries: Bolivia, Armenia, China
 
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 2:** *Mathematics 2, Part I* (student) — Armenia, Anahit Arnautyan and Gayane Bediryan, Edit Print, 2023, ISBN 978-9939-75-971-5. The held file holds Part I only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 3:** *Mathematics, Grade 2, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2013, 8th printing December 2018, ISBN 978-7-107-27488-6. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Only the second volume is held for every primary grade.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,11 +16,14 @@ Every part traces to its book and page.
 | Laboratorio matemático: Chess V | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 171 |
 | Laboratorio matemático: Chess VI — advanced rules and mate-in-two puzzles | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed pp. 173–178 |
 | Sudoku page (in the Additional section) | Armenia, Mathematics 2, Part I, printed p. 94 |
+| Sudoku-style reasoning grids — the 4×4 row-and-column number grids and the 9×9 Sudoku starred exercise inside the reasoning unit | China, Grade 2 Volume 2, Unit 9, printed pp. 109–112 |
 
-**Acceptance count: taught in 2 countries (Bolivia, Armenia).**
+**Acceptance count: taught in 3 countries (Bolivia, Armenia, China).**
 
 This lesson exists because Bolivia's books carry a topic no other read country teaches as a strand: a mathematics laboratory of chess and sudoku set as logic training, designed progressively across five Secundaria years — Chess I with Sudoku (Secundaria 1), Chess II with Sudoku (Secundaria 2), a sudoku built from the results of solved equations (Secundaria 3), Chess V (Secundaria 5) and Chess VI with advanced rules and mate-in-two puzzles (Secundaria 6) — re-derived from the compendium alone and confirmed as a designed, progressive strand by the 2026-11-08 re-verification sweep. The course's investigations lesson absorbs one-off enrichment items inside other units, and its latin-squares lesson is Iran's theory lesson with no Sudoku in it; neither is a genuine home for a named five-year reasoning strand, so — as with the four-means lesson (North Macedonia) and the Euler's totient lesson (North Macedonia) before it — the topic gets its own lesson under the everything-goes-in ruling (2026-11-06). The worked positions and the 4×4 training sudoku in the lesson text are constructed for this lesson in the style of the compendium's exercises and are verified correct; what is cited to the book is the strand itself — the laboratory, its year-by-year progression, and its exercise types (mate-in-one and mate-in-two reasoning, sudoku as logic training).
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from the Compendium's Secundaria 1 section (Grade 7): Laboratorio matemático; from the Compendium's Secundaria 2 section (Grade 8): Laboratorio matemático; from the Compendium's Secundaria 3 section (Grade 9): Laboratorio matemático; from the Compendium's Secundaria 5 section (Grade 11): Laboratorio matemático; from the Compendium's Secundaria 6 section (Grade 12): Laboratorio matemático.
 
 Armenia enters through its Mathematics 2, Part I (student). From its books: sudoku page (in the Additional section).
+
+China enters through its Grade 2 Volume 2 book — the reasoning unit's 4×4 and 9×9 Sudoku-style grids (printed pp. 109–112), set beside the unit's elimination-logic work, which is stocked in problem-solving-strategies.
