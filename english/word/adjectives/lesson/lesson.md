@@ -16,7 +16,7 @@ second words do not name the cup. They paint it. Every word
 that paints a naming word is the kind of word this lesson is
 about.
 
-## Then the explanation
+## Sub lesson 1 — Describing words in pairs
 An **adjective** is a describing word. It tells us more about
 a noun.
 
@@ -37,12 +37,14 @@ same pairs inside a real story: a **beautiful** song, a
 **tasty** meal, **cold** ground, a **small** fire, a **brave**
 bird, a **hungry** wolf, a **red** breast, a **tall** tree.
 
+## Sub lesson 2 — The test, what is it like
 The test, then: find the noun first, then ask **"What is it
 like?"** The word that answers is the adjective. What is the
 tree like? Tall. What is the mango like? Fresh. If a word
 cannot answer that question about a noun, it is not doing the
 describing job.
 
+## Sub lesson 3 — The second home, after is
 One step deeper: the describing word has **two homes**. Its
 first home is **before its noun** — a fresh mango, cold
 ground, a tall tree. Its second home is **after "is"** — the

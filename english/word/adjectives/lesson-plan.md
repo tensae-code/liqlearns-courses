@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Adjectives
 
 **Course:** English · **Title:** Word · **Lesson:** Adjectives
-**Place in the curriculum:** Level 6, "Word Kinds" —
-the third lesson of the level (CURRICULUM.md), after Nouns and
+**Place in the curriculum:** Unit 6 — Word Kinds —
+the third lesson of the unit (CURRICULUM.md), after Nouns and
 Verbs.
 **The one thing this lesson teaches:** an adjective is a
 describing word — it tells us more about a noun: what it looks,
@@ -21,6 +23,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Describing words in pairs** — an adjective is a describing word that tells us more about a noun — "adjectives and nouns go together" — and the books' pairs: a fresh mango, a tall tree. (Was depth Level 1.)
+2. **The test, what is it like** — find the noun first, then ask "What is it like?" — the word that answers is the adjective. (Was depth Level 2.)
+3. **The second home, after is** — the describing word's second home: after "is" — "the mango is fresh" — with the comparing pointer at the end as this lesson's closing note. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Nouns — the naming words. An adjective
