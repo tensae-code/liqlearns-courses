@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The story
 
 **Course:** English · **Title:** Story · **Lesson:** The story
-**Place in the curriculum:** Level 17, "Stories" — the
-first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 17 — Stories — the
+first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** what a story IS —
 people (someone it happens to), a place (where it stands),
 and things happening, in an order, told mostly in the
@@ -27,6 +28,29 @@ source, for anything the world holds; simple drawings are
 allowed for teaching pictures a photograph cannot teach.
 GIFs come first where a thing must be shown changing — a
 GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Story's Furniture** — people, a place, and
+   things happening in an order: the three things every
+   story is built of. (Was depth Level 1.)
+2. **The Story's Coat — the Past** — narrative is the
+   story's mode, and its tense-home is the past: happened,
+   finished, tellable. (Was the coat half of depth
+   Level 2.)
+3. **Story or Essay — the Border** — the essay is points
+   serving an idea; the story is happenings happening to
+   someone: does it ARGUE or does it HAPPEN? (Was the
+   border half of depth Level 2.)
+4. **The Trouble Seed** — something wanted or wrong makes
+   the happenings worth stringing: a who that wants, a
+   place that holds them, happenings that resist and
+   yield. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions; First, then, finally.

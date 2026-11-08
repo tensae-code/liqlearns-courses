@@ -23,7 +23,7 @@ a question ABOUT a text is answered FROM the text, or it is
 honestly unanswerable from it. Everything else is
 decoration.
 
-## Then the explanation
+## Sub lesson 1 — Finding the Carrier
 **Find the carrier.** Every text-answer rides on a sentence
 (or two) inside the text — its carrier. India's senior
 books train the hunt inside the reading itself: "**Think as
@@ -35,6 +35,7 @@ name?), scan for that prey, land a finger on the sentence
 that carries it. Point first, answer second. A finger that
 cannot land is information — keep it for the fourth step.
 
+## Sub lesson 2 — Answering Whole, in Your Own Words
 **Answer whole, in your own words.** The carrier gives the
 FACT; your answer gives it a whole sentence's ride (the
 course's standing law): not "at six" but "Selam opens her
@@ -46,6 +47,7 @@ wording is the reader's. Copying the carrier proves finding;
 re-wording it proves understanding. Examinations pay for
 the second.
 
+## Sub lesson 3 — The Two Buckets
 **The text says / I know.** Two buckets, and they must never
 mix in a from-the-text answer. "Drivers stop because her
 coffee is famous" — text. "Drivers also like her because
@@ -58,6 +60,7 @@ welcome, and labelled). The skill is not silencing your
 head; it is knowing which bucket you are answering from,
 and saying so.
 
+## Sub lesson 4 — The Honest Silence
 **The honest silence.** When no carrier exists, the
 complete, correct, full-marks answer is: "**The text
 doesn't say.**" Egypt's unseen-passage examinations — a

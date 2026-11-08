@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The big reading
 
 **Course:** English · **Title:** Story · **Lesson:** The big reading
-**Place in the curriculum:** Level 17, "Stories" — the
-third lesson of the level (CURRICULUM.md). Building it
-completes Level 17 and with it the built English path —
+**Place in the curriculum:** Unit 17 — Stories — the
+third lesson of the unit (CURRICULUM.md). Building it
+completes Unit 17 and with it the built English path —
 the graded readers bound into Libya's Grade 11 books mark
 where this road leads.
 **The one thing this lesson teaches:** reading WHOLE story
@@ -31,6 +32,31 @@ or museum-held art, with source); story-teaching images may be
 simple drawings where a photograph cannot teach. GIFs come
 first where a thing must be shown changing — a GIF here is
 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What "Graded" Means** — a whole real story retold in
+   English sized to the learner: the dress is graded, not
+   the tale. (Was the first part of depth Level 1.)
+2. **Libya's Proof, Bound In** — two complete graded
+   readers bound into the back of Libya's Grade 11
+   Literary book, from its Readers section at p.150.
+   (Was the second part of depth Level 1.)
+3. **Finding Your Level** — the page test: a handful of
+   unknown words and the story still runs — that is your
+   honest step. (Was the third part of depth Level 1.)
+4. **Reading at Book Scale** — the word ladder at book
+   scale, the furniture compass, and the two-line chapter
+   law: no new chapter until the last is told back in two
+   sentences. (Was depth Level 2.)
+5. **Stepping Up** — when a level reads easy twice, climb;
+   beyond the last graded step the originals wait,
+   unretold. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The story; Words you don't know.

@@ -15,7 +15,7 @@ still matters now." English keeps one special shape for
 exactly that. You have already worn half of it: the -ed coat
 from Past actions. Here it comes back with a partner.
 
-## Then the explanation
+## Sub lesson 1 — The Present Perfect's Shape
 **The shape.** The present perfect is **have/has + the past
 participle**: I **have cleaned** the windows. He **has
 washed** the car. (Libya's Grade 8 book states the shape in
@@ -39,6 +39,7 @@ write→**written**, build→**built**, sweep→**swept**
 song hides swept and tidied). Learn the movers as triples:
 go–went–gone, see–saw–seen, eat–ate–eaten.
 
+## Sub lesson 2 — The Job — the Tie to Now
 **Its job — the tie to now.** The past simple tells a
 finished story and lets it go. The present perfect holds
 the past by a string tied to NOW, and the books give the
@@ -65,6 +66,7 @@ string four knots:
    (Libya's Work Book says it in those words). No date is
    wanted; the answer fills or empties your life's list.
 
+## Sub lesson 3 — The Travel Words and the Bright Line
 **The words it travels with.** Libya's Grade 9 box is named
 for them: present perfect with **ever, never, yet** and
 **already**. **Ever** lives in questions about experience

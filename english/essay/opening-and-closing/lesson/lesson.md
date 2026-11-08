@@ -23,7 +23,7 @@ season for the rest of their life." B returns to A's promise
 with the whole essay behind it — and lands. The two arts
 you just ranked are this lesson.
 
-## Then the explanation
+## Sub lesson 1 — The Opening — Catch and Name
 **The opening's two jobs, in order.** Job one: **catch**.
 Ghana's revise list asks it as the first question of any
 draft: "**Does the beginning catch the reader's attention?**"
@@ -38,6 +38,7 @@ coming — the map after the hook. Catch without naming is a
 trick; naming without catching is a form to fill. The art
 is both, in that order, inside one paragraph.
 
+## Sub lesson 2 — The Closing — Return and Land
 **The closing's return.** Bolivia's table defines it
 exactly: the conclusion is "**the same information as the
 introductory paragraph, written from a different
@@ -54,6 +55,7 @@ is perfect" — and the final sentence should LAND: a line
 the reader carries away (the river given back, for life),
 not a summary mumbled to a stop.
 
+## Sub lesson 3 — The Ends Judged
 **Writing order, honestly.** Many good writers draft the
 body first and the opening LAST, when they know exactly
 what must be named; Ghana's process (draft → revise)

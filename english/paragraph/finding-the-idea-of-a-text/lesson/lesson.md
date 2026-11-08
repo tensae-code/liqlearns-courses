@@ -24,7 +24,7 @@ garden" (too bare — a word, not an idea); or something like
 it" — that one holds the WHOLE text. Learning to land on
 the third kind, every time, is this lesson.
 
-## Then the explanation
+## Sub lesson 1 — Gathering the Paragraph Ideas
 **Step one — gather.** You learned in The paragraph that
 each paragraph serves one idea and usually names it early.
 So read the text paragraph by paragraph and collect the
@@ -33,6 +33,7 @@ its planting. ¶2 The village trusts her seedlings. ¶3 She
 waters it by hand when rains fail. Three small ideas on the
 table.
 
+## Sub lesson 2 — Weighing the Ideas
 **Step two — weigh.** Ghana's reading strand names the
 contest exactly: **main idea vs supporting details**. Ask of
 the gathered ideas: which one do the OTHERS serve? The
@@ -48,6 +49,7 @@ three options — one right, one too small, one off the text.
 The examination version is the same weighing with the
 answers printed.
 
+## Sub lesson 3 — Saying the Idea in Your Own Words
 **Step three — say it, in your own words.** Ghana's
 summarising law stands guard here: "**Do not write the same
 words as the author**" — main ideas are carried **in own
@@ -60,6 +62,7 @@ a DIFFERENT text on the same topic (any garden, anywhere),
 it is too bare — narrow it with what THIS text's weighing
 gave you.
 
+## Sub lesson 4 — The Traps
 **The traps, named.** (1) **The detail in idea's clothing** —
 one paragraph's business offered as the whole ("She plants
 tomatoes in March"). Test: does every paragraph serve it?

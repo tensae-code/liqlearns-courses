@@ -19,7 +19,7 @@ lesson watches the other picture: the action itself,
 still moving, started before now and not stopped yet.
 Say two true ones about your own day before you read on.
 
-## Then the explanation
+## Sub lesson 1 — The Present Perfect Continuous's Shape
 **The shape.** The present perfect continuous is
 **have/has + been + verb-ing**: The pilot **has been
 flying** for two hours. I **have been waiting** for the
@@ -31,6 +31,7 @@ continuous on the verb. Egypt's Secondary 12 box states
 the build in the same pieces: have/has + been + present
 participle (-ing).
 
+## Sub lesson 2 — The Stretch and Its Measures
 **Its job — the action still moving.** Libya's box names
 it: "describing action that **continues from the past**."
 The tense does not point at a finished result; it points
@@ -51,6 +52,7 @@ Tuesday, since ten o'clock. "We've **been waiting** for a
 bus **since** ten o'clock." "It's **been raining for**
 two hours." "She's **been crying for** ten minutes."
 
+## Sub lesson 3 — The Marks — Just Stopped
 **Just stopped — the marks still show.** Egypt's box adds
 the second seat: an action recently finished, with its
 result still visible NOW. "I'm tired **because I have
@@ -60,6 +62,7 @@ whose marks are still on the present: red eyes from
 crying, wet streets from rain, paint on hands from
 painting.
 
+## Sub lesson 4 — Recent Habits and the Neighbours
 **Recent habits — what you have been doing lately.**
 Libya's Grade 9 box is named "Talking about recent
 habits": "I've **been speaking** English every day."

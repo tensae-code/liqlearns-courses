@@ -18,7 +18,7 @@ decided shape — planned, ordered, one topic throughout —
 is what makes a piece of writing an essay. Here is its
 frame.
 
-## Then the explanation
+## Sub lesson 1 — The Essay Defined
 **The definition.** Bolivia's book states it in full: "**an
 essay is a piece of writing that usually has five or more
 paragraphs, about one topic with several main points**."
@@ -27,6 +27,7 @@ is bigger than one paragraph); ONE topic (the paragraph's
 belonging law, grown); SEVERAL main points (more than one
 thing to say about the topic, or one paragraph would do).
 
+## Sub lesson 2 — The Essay's Structure
 **The structure.** The same book tables the general shape:
 
 - **Introduction** — "it tells what your topic and main
@@ -40,6 +41,7 @@ thing to say about the topic, or one paragraph would do).
   topic and points again, seen from the far side of having
   said them.
 
+## Sub lesson 3 — Planning the Essay
 **The plan.** Ghana's writing process grows with the piece:
 at essay scale its pre-writing is "**brainstorm, mind map,
 outline**." The order of work: spill every idea about the
@@ -58,6 +60,7 @@ order. (First/Then/Finally order is one citizen here, not
 the king.) What is forbidden is only the bag: points
 shuffled as they came to mind.
 
+## Sub lesson 4 — The Skeleton Test
 **The skeleton test.** Read ONLY the topic sentences of the
 finished essay, in order: the introduction's naming of the
 points, then each paragraph's opener, then the conclusion.

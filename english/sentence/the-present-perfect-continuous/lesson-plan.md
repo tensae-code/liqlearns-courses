@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The present perfect continuous
 
 **Course:** English · **Title:** Sentence · **Lesson:** The present perfect continuous
-**Place in the curriculum:** Level 18, "Deeper Sentences" —
-the second lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 18 — Deeper Sentences —
+the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the present perfect
 continuous — have/has + been + verb-ing — the tense that
 watches an action still moving from a start before now,
@@ -18,6 +19,30 @@ for every who (statement, not-form, question); answer
 "What have you been doing?" and "How long…?"; place for
 and since without a swap; and tell the continuous from
 the simple perfect and from the present continuous.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Present Perfect Continuous's Shape** —
+   have/has + been + verb-ing for every who, statements,
+   not-forms and questions — been never changes. (Was
+   depth Level 1.)
+2. **The Stretch and Its Measures** — the action still
+   moving from a past start, and its measures: for the
+   length, since the starting point. (Was depth Level 2.)
+3. **The Marks — Just Stopped** — a visible mark explained
+   by an action that has just stopped. (Was the marks
+   half of depth Level 3.)
+4. **Recent Habits and the Neighbours** — what you have
+   been doing lately, and the live choice between this
+   tense, the simple perfect (a count, a result) and the
+   present continuous (only this minute); the Asking and
+   denying close also stands here. (Was the neighbours
+   half of depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The present perfect — the learner

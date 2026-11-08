@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Words you don't know
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Words you don't know
-**Place in the curriculum:** Level 15, "Reading Whole Texts" — the second lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 15 — Reading Whole Texts — the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** what a reader DOES
 with a word they don't know, in order — read on, infer the
 meaning from the context, break the word into parts you
@@ -23,6 +24,31 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reading On** — an unknown word is a missing stone,
+   not a wall: mark it, finish the sentence, finish the
+   paragraph. (Was the first half of depth Level 1.)
+2. **Inferring from the Context** — interrogate the
+   sentence: the words around it, a restating neighbour, a
+   contrast, a cause — and write the guess in the margin.
+   (Was the second half of depth Level 1 and the clue half
+   of depth Level 2.)
+3. **Breaking the Word into Parts** — long words are known
+   words in coats; let the parts vote before the court
+   sits. (Was the parts half of depth Level 2.)
+4. **Checking and Swap-Testing** — the dictionary check,
+   the sense that fits THIS sentence, and the meaning put
+   back into the sentence and read whole; the "why the
+   order matters" close and the reading-only boundary stay
+   in this sub lesson, where the ladder ends. (Was depth
+   Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Using the dictionary; Finding the idea

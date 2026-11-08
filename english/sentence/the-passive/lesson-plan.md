@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The passive
 
 **Course:** English · **Title:** Sentence · **Lesson:** The passive
-**Place in the curriculum:** Level 18, "Deeper Sentences" —
-the third lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 18 — Deeper Sentences —
+the third lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the passive — be +
 the past participle — the sentence turned around so the
 receiver stands at the front, with by to name the doer
@@ -18,6 +19,29 @@ present, past and future coats; add the perfect coat
 (has been done) and the modal coat (can be turned); drop
 or keep by on purpose; and say which chair the camera
 sits on, and why.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Turn-Around** — be + the past participle: turn
+   an active sentence around and back again in the
+   present and past coats, with by + the doer when the
+   name is given. (Was depth Level 1.)
+2. **Dropping the Doer** — most of the time by walks off:
+   the doer unknown, obvious or not the point. (Was the
+   dropping half of depth Level 2; the text stands before
+   the coats.)
+3. **The Coats** — be carries the tense: the future coat
+   (will be), the modal coat (can be), the perfect coat
+   (has/have been), and Libya's continuous row. (Was the
+   coats half of depth Level 2.)
+4. **Choosing the Coat's Owner** — active when the doer
+   is the story, passive when the receiver is: choose on
+   purpose and defend it. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The present perfect — its participle

@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Opening and closing
 
 **Course:** English · **Title:** Essay · **Lesson:** Opening and closing
-**Place in the curriculum:** Level 16, "The Essay" —
-the second lesson of the level (CURRICULUM.md). Building it
-completes Level 16.
+**Place in the curriculum:** Unit 16 — The Essay —
+the second lesson of the unit (CURRICULUM.md). Building it
+completes Unit 16.
 **The one thing this lesson teaches:** writing the essay's
 two ends well — the opening paragraph, which first catches
 the reader's attention and then names the topic and its
@@ -25,6 +26,28 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Opening — Catch and Name** — job one, catch the
+   reader's attention (question, scene, striking fact,
+   story's first breath); job two, name the topic and the
+   main ideas — both inside one paragraph, in that order.
+   (Was depth Level 1.)
+2. **The Closing — Return and Land** — the same
+   information as the introduction, from a different
+   perspective, with a closing signal and a final line
+   that lands. (Was depth Level 2.)
+3. **The Ends Judged** — the writing order, honestly (the
+   ends are revised into strength; the opening is often
+   written last), and the five faults named: the form
+   opening, the trick opening, the echo closing, the
+   smuggler closing, the cliff stop. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The essay. Recommended, never forced.

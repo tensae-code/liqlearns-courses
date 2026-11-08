@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The present perfect
 
 **Course:** English · **Title:** Sentence · **Lesson:** The present perfect
-**Place in the curriculum:** Level 18, "Deeper Sentences" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 18 — Deeper Sentences —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the present perfect —
 have/has + the past participle — the tense that ties a past
 action to NOW: just happened, result visible, still going,
@@ -19,6 +20,27 @@ every who (statement, not-form, question, short answer);
 name its four jobs; place ever, never, already, yet and
 just; and switch to the past simple the moment an exact
 time appears.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Present Perfect's Shape** — have/has + the past
+   participle, the regulars and the movers, shrunk forms
+   included. (Was depth Level 1.)
+2. **The Job — the Tie to Now** — just happened inside
+   the open stretch, a result you can see now, and
+   started-then-still-going with for and since. (Was
+   depth Level 2.)
+3. **The Travel Words and the Bright Line** — ever,
+   never, already, yet and just in their seats; no exact
+   finished time, ever — that switches the sentence to
+   the past simple. The Asking close (question form and
+   short answers) also stands here, at the explanation's
+   end. (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions (the participle IS the

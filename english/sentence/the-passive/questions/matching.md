@@ -1,6 +1,8 @@
 # The passive — matching
 
-**Set 1 (Level 1)** — match each active sentence to its
+Sub-lesson markers (2026-11-08 restructure): every set's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lessons 1–3 (Set 1, active sentences to their passive twins — the present and past twins are Sub lesson 1, the future and perfect twins are Sub lesson 3's coats, the perfect twin's doer dropped as Sub lesson 2 teaches) · (Level 2) -> Sub lesson 3 — The Coats (Set 2).
+
+**Set 1 (Sub lessons 1–3)** — match each active sentence to its
 passive twin.
 1. Edison invented the light bulb in 1879. — **The
    light bulb was invented by Edison in 1879.**
@@ -13,7 +15,7 @@ passive twin.
 5. Somebody has done the homework. — **The homework
    has been done.**
 
-**Set 2 (Level 2)** — match each passive to its coat.
+**Set 2 (Sub lesson 3)** — match each passive to its coat.
 1. is locked — **present**
 2. was sold — **past**
 3. will be finished — **future**

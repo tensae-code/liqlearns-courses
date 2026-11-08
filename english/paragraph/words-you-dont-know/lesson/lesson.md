@@ -26,7 +26,7 @@ books make it an order: at the head of every unit stands
 meaning from the context**." This lesson turns the miracle
 into a ladder you can climb on purpose.
 
-## Then the explanation
+## Sub lesson 1 — Reading On
 **Step 1 — Read on.** An unknown word is a missing stone,
 not a wall. Mark it (a dot in the margin), finish the
 sentence, finish the paragraph. Very often the text itself
@@ -35,6 +35,7 @@ often, the text's main idea (last lesson) stands whole
 without it. Readers who stop at every stone never reach the
 idea at all.
 
+## Sub lesson 2 — Inferring from the Context
 **Step 2 — Infer from the context.** Now interrogate the
 sentence. The clues, in the order readers find them:
 - **The words around it** — what must this word be for the
@@ -55,11 +56,13 @@ meaning you can STATE: "It must mean about X." Write it in
 the margin, in pencil. A written guess can be checked; a
 feeling cannot.
 
+## Sub lesson 3 — Breaking the Word into Parts
 **Step 3 — Break the word.** Long words are often known
 words in coats: **un-**happy, care-**ful**, **re-**read,
 dis-agree, teacher (teach + -er). Let the parts vote before
 the court sits — the vote is often the whole verdict.
 
+## Sub lesson 4 — Checking and Swap-Testing
 **Step 4 — Check, and swap-test.** NOW the dictionary —
 with the Dictionary lesson's whole skill: right entry, the
 sense that fits THIS sentence (remember 'dry' and its three

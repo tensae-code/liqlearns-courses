@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Answering from the text
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Answering from the text
-**Place in the curriculum:** Level 15, "Reading Whole Texts" — the third lesson of the level (CURRICULUM.md).
-Building it completes Level 15.
+**Place in the curriculum:** Unit 15 — Reading Whole Texts — the third lesson of the unit (CURRICULUM.md).
+Building it completes Unit 15.
 **The one thing this lesson teaches:** answering questions
 about a text FROM the text — find the sentence that carries
 the answer, give it whole and in your own words, keep your
@@ -23,6 +24,29 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Finding the Carrier** — every text-answer rides on a
+   sentence inside the text: read the question, name what
+   it hunts, land a finger on the carrying sentence.
+   (Was depth Level 1.)
+2. **Answering Whole, in Your Own Words** — the carrier
+   gives the fact; the answer gives it a whole sentence's
+   ride, facts the text's, wording the reader's. (Was
+   depth Level 2.)
+3. **The Two Buckets** — the text says / I know: India's
+   Understanding the text against Talking about the text,
+   never mixed inside one answer. (Was the bucket half of
+   depth Level 3.)
+4. **The Honest Silence** — when no carrier exists, "The
+   text doesn't say" is the complete, correct answer.
+   (Was the silence half of depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Finding the idea of a text; Words you

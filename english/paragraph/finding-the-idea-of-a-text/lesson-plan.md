@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Finding the idea of a text
 
 **Course:** English · **Title:** Paragraph · **Lesson:** Finding the idea of a text
-**Place in the curriculum:** Level 15, "Reading Whole Texts" — the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 15 — Reading Whole Texts — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** finding what a WHOLE
 TEXT is about — its main idea: gather each paragraph's
 naming sentence, weigh which idea the most paragraphs
@@ -22,6 +23,32 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Gathering the Paragraph Ideas** — read the text
+   paragraph by paragraph and collect each paragraph's
+   naming sentence, short. (Was the gathering half of
+   depth Level 2.)
+2. **Weighing the Ideas** — ask which gathered idea the
+   others serve: that centre is the main idea, and choosing
+   it from printed options (Bangladesh's task) is taught
+   here. (Was the weighing half of depth Level 2; depth
+   Level 1's choosing is taught in this sub lesson.)
+3. **Saying the Idea in Your Own Words** — state the
+   centre in one short sentence of your own words,
+   narrowed by what this text's weighing gave. (Was the
+   first half of depth Level 3.)
+4. **The Traps** — the detail in idea's clothing, the bare
+   topic, the copied sentence and the outside idea, each
+   named and tested. (Was the second half of depth
+   Level 3; trap-spotting items also sat in depth
+   Level 1.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph. Recommended, never

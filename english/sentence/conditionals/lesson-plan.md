@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Conditionals
 
 **Course:** English · **Title:** Sentence · **Lesson:** Conditionals
-**Place in the curriculum:** Level 18, "Deeper Sentences" —
-the fourth and last lesson of the level (CURRICULUM.md).
-Building it completes Level 18.
+**Place in the curriculum:** Unit 18 — Deeper Sentences —
+the fourth and last lesson of the unit (CURRICULUM.md).
+Building it completes Unit 18.
 **The one thing this lesson teaches:** conditionals — the
 if-machine: an if-half setting a condition and a
 result-half saying what follows, with the verb coats
@@ -20,6 +21,32 @@ rungs with exact coats; swap unless for if…not; run the
 certainty dial (will / may / might / would); and pick the
 rung a real message needs — a law, a plan, a dream, a
 regret — without mixing coats.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Machine and the Always-True Rung** — every
+   conditional is two halves holding hands; rung 0:
+   if + present, present — always true. (Was the zero
+   half of depth Level 1.)
+2. **The First Conditional — Really Possible** — if +
+   present, will + verb; never will in the if-half; and
+   unless, which is if…not. (Was the first half of depth
+   Level 1; the unless swap stood in depth Level 2.)
+3. **The Second Conditional — Imagined** — if + past,
+   would + verb: dreams, wishes and advice, the past coat
+   marking the unreal. (Was the imagined half of depth
+   Level 2.)
+4. **The Third Conditional — the Unchangeable Past** —
+   if + had + participle, would have + participle, for
+   regrets and missed chances; the books' split and the
+   certainty dial (will high, may/might lower) close the
+   lesson here. (Was depth Level 3; the dial stood in
+   depth Level 2.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Going to: later and Past actions

@@ -20,7 +20,7 @@ this way about your own day: "my phone was stolen," "the
 door was locked," "lunch is ready at one — it is made by
 one." This lesson gives that move its name and its shape.
 
-## Then the explanation
+## Sub lesson 1 — The Turn-Around
 **The shape.** The passive is **be + the past
 participle** (Mongolia's Grammar Reference states it in
 those words). The participle — the third shape from the
@@ -43,6 +43,7 @@ famous inventors. Its quiz runs on it: "The bicycle was
 invented in 1885 **by Starley**." "The first photograph
 was taken **by Joseph Niepce**."
 
+## Sub lesson 2 — Dropping the Doer
 **Dropping the doer.** Most of the time, by walks off.
 Three reasons cover nearly every passive you will meet:
 the doer is **unknown** ("My phone was stolen" — by whom?
@@ -55,6 +56,7 @@ knows). News, science, instructions and processes live in
 this shape because the world mostly reports what happened
 to things.
 
+## Sub lesson 3 — The Coats
 **The coats — be carries the tense.** The participle
 never changes; be wears every tense the sentence needs.
 Mongolia's Grade 10 discovery lays the first three out
@@ -89,6 +91,7 @@ at work, wearing -ing's neighbour. Learn the five coats
 as one row: am/is/are, was/were, will be, have/has been,
 can be — all + the same participle.
 
+## Sub lesson 4 — Choosing the Coat's Owner
 **Choosing the coat's owner.** Active when the doer is
 the story ("Edison invented the light bulb" — a lesson
 about Edison). Passive when the receiver is the story

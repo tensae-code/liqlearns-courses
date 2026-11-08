@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Telling a story back
 
 **Course:** English · **Title:** Story · **Lesson:** Telling a story back
-**Place in the curriculum:** Level 17, "Stories" — the
-second lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 17 — Stories — the
+second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** retelling a story —
 the story again, whole, in its true order, in YOUR words
 and the past's coat, shorter than the original by dropping
@@ -26,6 +27,29 @@ or real art, with its source); for stories, simple drawings are
 allowed for teaching pictures a photograph cannot teach. GIFs
 come first where a thing must be shown changing — a GIF here
 is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Retelling's Three Laws** — whole, in order, in
+   your words: the story rebuilt from its furniture with
+   the book closed. (Was depth Level 1.)
+2. **The Two Kinds of Stones** — load-bearing stones the
+   rest stands on, small stones you may drop: lawful
+   shortening drops only small ones. (Was depth Level 2.)
+3. **The Books' Helps** — Bangladesh's word box, Ghana's
+   chain and the Herring Bone frame: help for the
+   retelling while the skill is young. (Was spread across
+   depth Levels 1–2 — the word box stands in Level 1's
+   pass mark, the chain in Level 2's work.)
+4. **The First-Person Turn and the Import Law** — retell
+   as a character, compare with the original item by
+   item, and keep imports — invented details — out.
+   (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The story. Recommended, never forced.

@@ -21,7 +21,7 @@ reader — and a whole country's school system binds it into
 the back of its schoolbooks. This lesson makes you its
 master.
 
-## Then the explanation
+## Sub lesson 1 — What "Graded" Means
 **What "graded" means.** A graded reader is a WHOLE real
 story — a classic, a tale the world reads — **retold in
 English sized to the learner**: its words drawn from a
@@ -31,6 +31,7 @@ The story is not a summary and not a children's shortening;
 Crusoe is still Crusoe, wreck, island, footprint and all.
 What is graded is the DRESS, not the tale.
 
+## Sub lesson 2 — Libya's Proof, Bound In
 **Libya's proof, bound in.** Open Libya's Grade 11 Literary
 course book and the book itself tells you the road matters:
 its Contents end with "**Readers p.150**," and the section
@@ -47,6 +48,7 @@ course takes its hint from the same page: Unit 4's plan
 said "graded readers bound into Libya's Grade 11 books mark
 where this road leads." It did, and here we are.)
 
+## Sub lesson 3 — Finding Your Level
 **Finding your level.** The test is mechanical: open the
 reader at a middle page. Count the words you do not know.
 A handful (say, up to five) and the story still runs — that
@@ -56,6 +58,7 @@ nothing new is a step for a lazy Sunday, not for growth.
 Honesty here is the whole game: the staircase only works
 if you stand on your true step.
 
+## Sub lesson 4 — Reading at Book Scale
 **Reading at book scale.** Everything from this level
 returns, grown: **Words you don't know**'s ladder runs the
 road — read on, infer, break, and let the dictionary wait
@@ -67,6 +70,7 @@ now. And **Telling a story back** becomes the chapter law:
 sentences** — in the notebook, in your words. Two lines a
 day, and a book is never lost.
 
+## Sub lesson 5 — Stepping Up
 **Stepping up.** When a level reads easy TWICE — two books
 at story speed, tellings-back clean — climb: the next
 level's readers wait, and beyond the last graded step stand

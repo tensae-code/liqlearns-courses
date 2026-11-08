@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The essay
 
 **Course:** English · **Title:** Essay · **Lesson:** The essay
-**Place in the curriculum:** Level 16, "The Essay" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 16 — The Essay —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the shape of a whole
 essay — ONE topic, SEVERAL main points, each point in its
 own paragraph, the paragraphs in a planned order: an
@@ -25,6 +26,28 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Essay Defined** — Bolivia's definition: five or
+   more paragraphs, about one topic with several main
+   points, and the three laws inside that sentence. (Was
+   the first half of depth Level 1.)
+2. **The Essay's Structure** — the introduction, the
+   topic paragraphs and the conclusion, each with its job
+   named. (Was the second half of depth Level 1.)
+3. **Planning the Essay** — brainstorm, mind map,
+   outline: the piles ARE the main points, and the points
+   stand in an order the reader can feel. (Was depth
+   Level 2.)
+4. **The Skeleton Test** — read only the topic sentences,
+   in order, and judge the whole essay by its skeleton.
+   (Was depth Level 3.)
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph; Finding the idea of a

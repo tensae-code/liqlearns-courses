@@ -22,7 +22,7 @@ always true, really possible, only imagined, or a past
 that can never change. Learn the coats and the machine
 is yours.
 
-## Then the explanation
+## Sub lesson 1 — The Machine and the Always-True Rung
 **The machine.** Every conditional is two halves holding
 hands: *if* + the condition, then the result. The
 if-half can stand first or last ("If it rains, we'll
@@ -41,6 +41,7 @@ beside the first; Mongolia's reference prints it in
 clause tables, and its books meet it inside instructions
 — the rung where *if* means *whenever*.
 
+## Sub lesson 2 — The First Conditional — Really Possible
 **Rung 1 — the first conditional: really possible.** If
 + present, **will** + verb: "If it **rains** tomorrow,
 we **will stay** home." The condition has not happened —
@@ -52,6 +53,7 @@ Mongolia adds the rung's twin word (English IX, Unit 7):
 **unless** = if…not — "Unless you hurry, you will be
 late" = "If you don't hurry, you will be late."
 
+## Sub lesson 3 — The Second Conditional — Imagined
 **Rung 2 — the second conditional: imagined.** If +
 past, **would** + verb: "If I **had** wings, I **would
 fly**." "If we **lived** by the sea, we **would swim**
@@ -64,6 +66,7 @@ three-year ladder. Dreams, wishes, and advice live here
 — "If I were you, I would rest" (the one place *were*
 serves every who).
 
+## Sub lesson 4 — The Third Conditional — the Unchangeable Past
 **Rung 3 — the third conditional: the past that can't
 change.** If + past perfect (**had** + participle),
 **would have** + participle: "If I **had left** earlier,

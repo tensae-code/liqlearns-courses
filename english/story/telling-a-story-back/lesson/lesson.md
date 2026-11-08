@@ -19,7 +19,7 @@ middle stone, and invents one bright detail. Knowing the
 three lists exist — and learning to make the second short
 and the third empty — is this whole lesson.
 
-## Then the explanation
+## Sub lesson 1 — The Retelling's Three Laws
 **The retelling's three laws.** (1) **Whole** — the story
 again from its first happening to its landing; a retelling
 that stops halfway has told a different, sadder story.
@@ -33,6 +33,7 @@ reciting; retelling is REBUILDING the story from its
 furniture, in dress of your own. The test is the closed
 book: if it collapses when the text hides, it was reciting.
 
+## Sub lesson 2 — The Two Kinds of Stones
 **The two kinds of stones.** A retelling is SHORTER than
 its original — that is its purpose (you retell so a listener
 gets the story without the whole book). Shortening is a
@@ -46,6 +47,7 @@ in every classroom is a load-bearing stone dropped by
 mistake — train the eye for what the NEXT happening needs
 in order to stand.
 
+## Sub lesson 3 — The Books' Helps
 **The books' helps.** Bangladesh equips the beginner with a
 **word box**: the story's load-bearing words given in a
 box, the retelling built from them — the furniture's names
@@ -58,6 +60,7 @@ Bone frame**: a spine (the order) with ribs (who, where,
 what happened) to hang a retelling on while the skill is
 young.
 
+## Sub lesson 4 — The First-Person Turn and the Import Law
 **The first-person turn.** Bangladesh's classes retell the
 thirsty crow IN THE FIRST PERSON — "I was thirsty. I found
 a jar…" — and then "compare with the original fable." The

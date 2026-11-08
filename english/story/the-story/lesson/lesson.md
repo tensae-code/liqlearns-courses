@@ -18,7 +18,7 @@ by one, until the water rose — and she drank." Which one
 is a story? Your gut already voted for the crow. Now learn
 what your gut counted.
 
-## Then the explanation
+## Sub lesson 1 — The Story's Furniture
 **The three pieces of furniture.** Every story in every
 country's book on this platform is built of the same three
 things:
@@ -37,6 +37,7 @@ things:
   (First/Then/Finally, grown tall): stones after drinking
   is no story at all.
 
+## Sub lesson 2 — The Story's Coat — the Past
 **The coat: the past.** Ghana's Paragraph Development
 names the four modes of writing side by side — expository,
 **narrative**, description, argument — and narrative is the
@@ -46,6 +47,7 @@ finished, tellable. A live teller may flare into the
 present for drama — the books' stories, and this course's
 tellings, live in the past.
 
+## Sub lesson 3 — Story or Essay — the Border
 **Story vs essay — the border.** The essay is points in
 order SERVING an idea; the story is happenings in order
 HAPPENING to someone. Test any text: does it ARGUE or does
@@ -57,6 +59,7 @@ clothes (an essay can open with a story; a story can carry
 an idea) — the crow carries one: work lifts what reaching
 cannot. But the spine decides the name.
 
+## Sub lesson 4 — The Trouble Seed
 **The trouble seed.** Notice what makes the happenings
 worth stringing: something is WANTED or WRONG. The crow is
 thirsty; the water is low. Without the want, the stones are
