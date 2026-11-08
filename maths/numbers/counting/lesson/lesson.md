@@ -50,11 +50,80 @@ Grade 1 book counts in tens as part of forming two-digit numbers,
 and South Africa's Grade 1 Workbook 1 counts on beads — "circle
 only 20 beads" — the count checked against real things.
 
-## Sub lesson 4 — Counting Past 100
-**Past 100** — the same jumps keep going: 110, 120, 130 … and
-the ones fill in between the tens. Counting never changes its
-rule: one number for each thing, in order, and the last number
-said is how many there are.
+## Sub lesson 4 — Counting in Hundreds to 1,000
+**Past 100, the ones fill in first** — 101, 102, 103 … up to
+110, then the tens and ones keep filling every gap up to 200,
+and the same again to 300, and so on. North Macedonia's Grade 3
+book counts forwards and backwards by 1, 10 and 100 to 1,000
+(printed p.16), and Nepal's Grade 2 book counts to 1000 with
+blocks and an abacus, hundreds, tens and ones side by side
+(printed pp.23–76).
+
+Then the count learns its next jump — **the hundreds**:
+
+100 · 200 · 300 · 400 · 500 · 600 · 700 · 800 · 900 · 1,000
+
+Yemen's Grade 2 book counts in hundreds inside its "Numbers
+within 1000" unit and meets the number 1000 itself (Part 2,
+Unit 6, printed pp.8–10). Ethiopia's Grade 2 book counts by
+hundreds to 1000 (ch. 1, printed pp.1–22), Laos's Grade 2 book
+counts to hundreds with sticks and bundles (ch. 5, printed
+p.48), and Kuwait's Grade 2 book counts by hundreds to 1000
+(Term 2, Unit 5, printed pp.17–38). Ten hundreds is one
+thousand — the ten-bundles trick from the tens, one size up:
+ten bundles of a hundred sticks is 1,000 sticks.
+
+## Sub lesson 5 — Counting in Thousands to 10,000
+**The thousands** — the hundreds trick, one size up again.
+Count the thousands the way you counted the hundreds:
+
+1,000 · 2,000 · 3,000 · 4,000 · 5,000 · 6,000 · 7,000 · 8,000 · 9,000 · 10,000
+
+Nicaragua's Grade 3 book meets the thousand as a unit of its
+own and counts in groups of 1,000 to 10,000 (Unit 1, printed
+pp.2–17). Ethiopia's Grade 3 book counts by hundreds and by
+thousands to 10,000 (ch. 1, printed pp.1–20), Yemen's Grade 3
+book works inside numbers within 10,000 (Part 1, Unit 1,
+printed pp.10–12), and Syria's Grade 3 book counts in thousands
+to 10,000 (printed pp.22–23). Between the thousands, the
+hundreds, tens and ones fill in exactly as before: 5,859 is
+five thousands, eight hundreds, five tens and nine ones —
+Nicaragua's Grade 3 book writes numbers out in that expanded
+form (Unit 1, printed pp.15–28).
+
+The numbers are big enough now that reading and writing them
+is a skill of its own. Indonesia's Grade 5 book reads and
+writes whole numbers to 100,000 (Ch. 1, printed pp.1–28): read
+a big number in groups — 47,300 is forty-seven thousand, three
+hundred — the comma tells you where the thousands end.
+
+## Sub lesson 6 — Counting Big Numbers to 1,000,000 and Beyond
+**Past 10,000, the groups grow again** — count in groups of
+10,000, then in groups of 100,000:
+
+10,000 · 20,000 · 30,000 · … · 100,000 · 200,000 · … · 1,000,000
+
+Nicaragua's Grade 4 book counts beyond 10,000 in groups of
+1,000, 10,000 and 100,000 (Unit 1, printed pp.2–22), and
+Ethiopia's Grade 4 book counts by 1,000, 10,000 and 100,000
+all the way to 1,000,000 (ch. 1, printed pp.1–28). Tanzania's
+Standard Five book shows the top step with packages: ten
+100,000-packages make one million (printed p.8), and it reads
+and writes numbers up to 1,000,000 in figures and in words
+(printed p.14). Indonesia's Grade 5 book reads and writes
+whole numbers to 1,000,000 too — reading and writing only; its
+adding and taking away stop at smaller numbers (Ch. 9, printed
+pp.273–308).
+
+And the line does not stop at a million. Yemen's books keep
+climbing: numbers within 999,999 in Grade 4 (Part 1, Unit 1,
+printed pp.8–19), then into the hundreds of millions in
+Grade 5 (Part 1, Unit 1, printed pp.12–17) and to billions in
+Grade 6 (Part 1, Unit 1, printed p.12). Read them in the same
+groups of three: ones, thousands, millions, billions — a
+billion is a thousand millions. However far you count, the
+rule never changes: one number for each thing, in order, and
+the last number said is how many there are.
 
 ## Say it to your companion
 Point at things and ask: "How many chairs are there?" Your

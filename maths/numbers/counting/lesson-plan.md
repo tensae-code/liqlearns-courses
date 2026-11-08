@@ -77,7 +77,7 @@ re-deciding anything:
 
 **Course:** Maths · **Unit:** Unit 1 — Numbers · **Lesson:** Counting
 **Place in the curriculum:** Level 2, the first lesson of Unit 1 — after Pencil and Lines (Level 1, the shared course) (maths/CURRICULUM.md).
-**The one thing this lesson teaches:** counting real things 1 to 100 and beyond — one number for each thing, in order, with the count told whole.
+**The one thing this lesson teaches:** counting — one number for each thing, in order, with the count told whole — from 1 to 10 up the whole climb the books teach: tens to 100, hundreds to 1,000, thousands to 10,000, and big numbers read to 1,000,000 and beyond.
 **This lesson's own level:** it stands on Pencil and Lines (Level 1, the shared course) — the learner can already make marks and lines. It needs nothing else.
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -104,9 +104,27 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 3. **Counting by Tens to 100** — the tens line in jumps, and
    things grouped in tens: ten bundles of ten is one hundred.
    (Was the first half of depth Level 3.)
-4. **Counting Past 100** — the same jumps keep going, and the
-   ones fill in between the tens. (Was the second half of depth
-   Level 3.)
+4. **Counting in Hundreds to 1,000** — the ones fill in between
+   the tens past 100, then the hundreds line in jumps: ten
+   hundreds is one thousand. (The old Sub lesson 4, "Counting
+   Past 100" — the second half of depth Level 3 — folds into
+   this one: its fill-in content opens the hundreds climb. The
+   part was EXTENDED 2026-11-08 under the whole-arc rule: the
+   old text stopped at "110, 120, 130 …" with no book cited,
+   while the lesson's own sources stock the hundreds climb —
+   Yemen Grade 2, Ethiopia Grade 2, Kuwait Grade 2.)
+5. **Counting in Thousands to 10,000** — the thousands line in
+   groups of 1,000, the fill-in between thousands, and reading
+   and writing numbers to 100,000. (NEW 2026-11-08, whole-arc
+   rule — stocked by Nicaragua Grade 3 counting in groups of
+   1,000, Ethiopia Grade 3, Yemen Grade 3, Syria Grade 3;
+   reading/writing to 100,000 from Indonesia Grade 5.)
+6. **Counting Big Numbers to 1,000,000 and Beyond** — counting
+   in groups of 10,000 and 100,000 to 1,000,000, reading and
+   writing to a million, and reading numbers on to billions.
+   (NEW 2026-11-08, whole-arc rule — stocked by Nicaragua
+   Grade 4, Ethiopia Grade 4, Tanzania Standard Five, Indonesia
+   Grade 5, and Yemen Grades 4–6 to billions.)
 
 Gate pool: all questions of the sub lesson (no hardness ranking
 is written in this lesson's question files).
@@ -120,6 +138,9 @@ is written in this lesson's question files).
 2. Count 11–20 and 21–100 in order, counting in tens as well as ones (Greece's Grade 1 numbers to 20; Libya's numbers to 100).
 3. Count in tens to 100 and group things in tens (Sierra Leone's Primary lesson plans group in 10s with piles of counters).
 4. Count anything in the room and report the count in a whole sentence: "There are 14 chairs."
+5. Count in hundreds to 1,000 and say how many hundreds make a thousand (Yemen's Grade 2 "Numbers within 1000"; Ethiopia's Grade 2 counting by hundreds).
+6. Count in thousands to 10,000, and read and write numbers to 100,000 (Nicaragua's Grade 3 groups of 1,000; Indonesia's Grade 5 reading and writing).
+7. Count in groups of 10,000 and 100,000 to 1,000,000, and read big numbers in groups — ones, thousands, millions, billions (Ethiopia's Grade 4; Yemen's climb to billions).
 
 ## What you need
 Things to count — fingers first, then stones, spoons, pencils, bottle tops.
@@ -127,10 +148,12 @@ Paper and a pencil.
 
 ## The run of the lesson (in order)
 1. **Do it first** — the learner counts their fingers, then the chairs in the room, in their own language; the lesson gives the count in numbers (lesson/lesson.md).
-2. **The explanation** — 1–10 on real things; 11–20; the tens to 100; counting past 100 (lesson/lesson.md).
+2. **The explanation** — 1–10 on real things; 11–20; the tens to 100; the hundreds to 1,000; the thousands to 10,000; big numbers to 1,000,000 and beyond (lesson/lesson.md).
    - ADD GIF at the 1–10 part: a picture of stones landing in a row, one per second, the figure growing with each landing — 1, 2, 3… — the student counts aloud with the landings.
    - ADD IMAGE under 11–20: a picture of a classroom number line, 1 to 20, with 11–20 standing big → the student reads the line forward, then back from 20.
    - ADD IMAGE in the tens part: a picture of ten bundles of ten sticks, each bundle tied, making 100 → the student counts the bundles: ten, twenty, thirty … one hundred.
+   - ADD IMAGE in the hundreds part: a picture of ten flat squares of 100 dots standing beside one big cube of 1,000 → the student counts the flats: one hundred, two hundred … one thousand.
+   - ADD IMAGE in the big-numbers part: a picture of ten packages, each marked 100,000, stacked into one block marked 1,000,000 (Tanzania's packages) → the student counts the packages to a million.
 3. **Say it to your companion** — count real things for your companion and answer their How-many questions in whole sentences (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the counting chant in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, short-answer, fill-in-the-blank, true-or-false, ordering, matching — served at the learner's level and teaching-mix (levels.md).
@@ -141,6 +164,8 @@ Paper and a pencil.
 - GIF — a picture of stones landing one by one, the figure growing with each → the student counts aloud with the landings.
 - IMAGE — a picture of a 1–20 number line → the student reads it forward and back.
 - IMAGE — a picture of ten bundles of ten sticks → the student counts the bundles to 100.
+- IMAGE — a picture of ten flats of 100 beside a 1,000 cube → the student counts the flats to one thousand.
+- IMAGE — a picture of ten 100,000 packages making 1,000,000 → the student counts the packages to a million.
 - VIDEO — the video-script filmed (made later) → the student counts along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
@@ -150,6 +175,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 - Counts the things but loses the line → Libya's and Sierra Leone's method: touch each thing as you count it, and move it aside; a thing touched is a thing counted once.
 - Skips numbers in the teens → count the 1–20 line on the number line every day, forward and back, until the line is one piece.
 - Counts past 100 and gets lost → count in tens first (10, 20, 30 …), then fill in the ones between the tens.
+- Loses the place in a big number → read it in groups of three figures from the right: ones, thousands, millions (Indonesia's Grade 5 reading rule).
 - This lesson's next door: Place-value (same unit) — the tens you counted become the tens place.
 
 ## Teacher note
