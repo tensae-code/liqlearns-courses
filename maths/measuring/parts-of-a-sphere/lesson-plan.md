@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Parts of a Sphere
 
 **One thing:** a ball can be cut into named parts — a segment sliced off by one plane, a layer trapped between two parallel planes, a sector built from a segment and the cone from the centre — and each part has its own volume and surface-area formulas, which this lesson teaches with the book's own worked problems.
 
-**Stage:** Measuring, Area and Volume (Stage 8). **Level 160** (Tajikistan merge, 2026-11-07).
+**Unit:** Measuring, Area and Volume (Unit 8). **Level 160** (Tajikistan merge, 2026-11-07).
 
 **Why this lesson exists:** Tajikistan's Grade 11 Геометрия (Geometry — continuation of stereometry) is the one read book teaching the ball's parts as a topic: Topic 35 (printed pp. 123–125) defines the spherical segment, layer and sector with their volume formulas, and Topic 36's notes (printed p. 129) state the cap, zone and sector surface areas with a worked problem. No existing lesson can home it: volume-and-surface-area carries the whole sphere and ball from many countries but provably contains no segment, layer or sector content from any country. So under the everything-goes-in ruling (2026-11-06) it gets its own lesson — the same call the four-means and Euler's totient lessons were built on. The book states the layer volume and the part areas without derivation, and the lesson keeps that honesty; its exercise 326 key cannot stand with its statement and is taught corrected. It stands alone: any learner who knows the whole ball's volume and area can start here; the volume-and-surface-area lesson is a soft hint, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Parts of a Sphere — the Spherical Segment** — the part cut off by one plane — its height H, and its volume V = πH²(R − H/3). (Was depth the segment's parts of old Layers 1 and 2.)
+2. **Parts of a Sphere — the Spherical Layer** — the part between two parallel planes (the zone solid) — its height, and its volume V = (πH/6)(H² + 3R₁² + 3R₂²), a difference of two segment volumes. (Was depth the layer's parts of old Layers 1 and 2.)
+3. **Parts of a Sphere — the Spherical Sector** — a segment joined to the cone from the ball's centre — and its volume V = (2/3)πR²H, including the book's rotated 120° example. (Was depth old Layers 1 and 3, split by part.)
+4. **Parts of a Sphere — Areas of the Parts** — cap S = 2πRH, zone S = 2πRH and sector S = πR(2H + r), and assembling a part's total area from its curved surface and its base disc. (Was depth Layer 4.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

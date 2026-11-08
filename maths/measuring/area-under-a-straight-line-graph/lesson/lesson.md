@@ -6,6 +6,8 @@ Draw the line y = 2x between x = 0 and x = 4, and shade everything between the l
 
 If you said "a triangle" — you already own this whole lesson. What follows is that one idea, in its two shapes, plus the trick for when the line dips below the axis. Malaysia's Form 3 book teaches it as the closing exploration of its straight-line chapter. (Malaysia, Mathematics Form 3, Exploring Mathematics, printed p. 251.)
 
+## Sub lesson 1 — Area Under a Straight-Line Graph — Seeing the Shape
+
 ## The triangle case — line through the origin
 
 Under y = 2x from x = 0 to x = 4, the region is a triangle with base 4 (along the axis) and height 8 (the line's value at x = 4: y = 2 × 4 = 8).
@@ -13,6 +15,8 @@ Under y = 2x from x = 0 to x = 4, the region is a triangle with base 4 (along th
     Area = ½ × base × height = ½ × 4 × 8 = 16 square units
 
 The rule: for a line through the origin, read the height at the right-hand edge and halve base × height.
+
+## Sub lesson 2 — Area Under a Straight-Line Graph — Computing the Area
 
 ## The trapezium case — line not through the origin
 
@@ -22,6 +26,8 @@ Under y = x + 1 from x = 0 to x = 3, the region has two vertical sides — heigh
          = ½ × (1 + 4) × 3 = 7.5 square units
 
 The two "parallel sides" are the line's heights at the two edges. (Malaysia, Mathematics Form 3, Exploring Mathematics, printed p. 251.)
+
+## Sub lesson 3 — Area Under a Straight-Line Graph — Pieces and Meanings
 
 ## When the line crosses the axis
 

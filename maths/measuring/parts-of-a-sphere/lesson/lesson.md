@@ -6,17 +6,23 @@ Slice the top off an orange with one straight cut. You are holding two pieces: t
 
 Hold your answer. By the end of this lesson you will have the names, and the formulas, for all three pieces — from the one school book in the library that teaches them.
 
+## Sub lesson 1 — Parts of a Sphere — the Spherical Segment
+
 ## The spherical segment
 
 Cut a ball with one plane. The part cut off is a **spherical segment**. Its one measurement, besides the ball's radius R, is its **height** H — the thickness of the slice, from the cutting plane to the top of the ball. Tajikistan's Grade 11 geometry book derives its volume with the integral formula it uses for all solids of revolution, spinning the circle's arc around the axis and adding up the discs:
 
 **V = πH²(R − H/3)** (Tajikistan, *Геометрия* (Grade 11), printed p. 124.)
 
+## Sub lesson 2 — Parts of a Sphere — the Spherical Layer
+
 ## The spherical layer
 
 Cut the ball with **two** parallel planes, and keep the part between them: a **spherical layer** (also called a zone solid). Its two flat faces are circles of radii R₁ and R₂, and the distance between the planes is its height H. The book points out that a layer is what is left of one segment when a smaller segment is removed — its volume is a **difference of two segment volumes** — and then states the closed formula without derivation (we keep that honesty: the book says "it can be shown"):
 
 **V = (πH/6)(H² + 3R₁² + 3R₂²)** (Tajikistan, *Геометрия* (Grade 11), printed p. 125.)
+
+## Sub lesson 3 — Parts of a Sphere — the Spherical Sector
 
 ## The spherical sector
 
@@ -25,6 +31,8 @@ Now join the segment to the centre. A **spherical sector** is a segment together
 **V = (2/3)πR²H** (Tajikistan, *Геометрия* (Grade 11), printed p. 125.)
 
 The book works it once, beautifully: rotate a circular sector of 120° and radius R about the diameter that bisects it. The surface it sweeps is a sphere, and the solid it sweeps is a spherical sector whose cap height is H = R − R cos 60° = R/2. So V = (2/3)πR² · (R/2) = **πR³/3**. (Tajikistan, *Геометрия* (Grade 11), printed p. 125.)
+
+## Sub lesson 4 — Parts of a Sphere — Areas of the Parts
 
 ## Areas of the parts
 
