@@ -1,12 +1,13 @@
 # Dynamics: motion, momentum and energy — the lesson
 
-Course: Maths · Stage: Stage 17 — Mechanics · Lesson: Dynamics: motion, momentum and energy
+Course: Maths · Unit: Unit 17 — Mechanics · Lesson: Dynamics: motion, momentum and energy
 Built from: Egypt, Applied Mathematics (Mathematics Applications), Grade 11, Term 2 — Egypt, Applied Mathematics (Mechanics), Grade 12
 
 ## Do it first
 Roll a ball along the floor. It starts at the speed your hand gave it, then it slows, a little at a time, until it stops. Nothing visible is pulling it back — yet its speed changed, so something acted. Now let a ball fall from your hand to a cushion: it does not fall at one steady speed, it falls faster and faster. Egypt's Applied books build the whole moving half of mechanics out of those two sights: motion described exactly, then the forces that change it (Applied Grade 11 Term 2, introduction, printed p.2; the whole of that book is this lesson's first half). Statics asked when nothing moves; dynamics asks how motion changes.
 
-## Then the explanation
+## Sub lesson 1 — Rectilinear Motion and Free Fall
+
 **Rectilinear motion.** Rectilinear motion is motion along a straight line. It is described by three quantities, each built from the one before: the position s, measured from a chosen starting point along the line; the velocity v, the rate at which the position changes; and the acceleration a, the rate at which the velocity changes (Grade 11 Term 2, lesson 1-1, printed p.15). A steady velocity means equal distances in equal times and acceleration zero. A changing velocity — speeding up, slowing down, in a straight line — means acceleration is not zero.
 
 Tip — from us, not from the books. Keep the three quantities in a row in your head: position changes into velocity, velocity changes into acceleration. If a problem gives you one and asks for the next, you already know which way you are travelling along that row.
@@ -14,6 +15,8 @@ Tip — from us, not from the books. Keep the three quantities in a row in your 
 **Uniformly accelerated motion.** When the acceleration stays constant, four short equations join the five quantities u (starting velocity), v (final velocity), a, s and t (time): v = u + at; s = ut + ½at²; v² = u² + 2as; and s = ½(u + v)t (Grade 11 Term 2, lesson 1-2, printed p.26). Every problem in this family uses one of them: list which three quantities you know and which one you want, and pick the equation holding exactly those four. Work it: a body starts from rest (u = 0) with constant acceleration 3 m/s² for 4 s. Then v = 0 + 3 × 4 = 12 m/s, and s = 0 + ½ × 3 × 16 = 24 m.
 
 **Free fall.** A body falling freely near the Earth moves with a constant acceleration downwards — the acceleration due to gravity, g — because gravity is the force acting on it. Free fall is just uniformly accelerated motion turned vertical: the same four equations, with a = g and with one direction chosen as positive and kept (Grade 11 Term 2, lesson 1-3, printed p.35). Work it with g taken as 9.8 m/s² and down as positive: a body dropped from rest has, after 2 s, velocity v = 0 + 9.8 × 2 = 19.6 m/s downwards, and it has fallen s = ½ × 9.8 × 4 = 19.6 m. Thrown straight up, the same body slows at g every second, stands still for an instant at the top — velocity zero, acceleration still g downwards — and then falls back.
+
+## Sub lesson 2 — Momentum and Newton's Laws
 
 **Momentum.** A moving body carries momentum: momentum = mass × velocity, p = mv, measured in kg·m/s, and directed the way the body moves (Grade 11 Term 2, lesson 2-1, printed p.42). Momentum is the honest measure of "how much motion" a body has: at the same speed, the heavier body has the more momentum; at the same mass, the faster body has the more. Work it: a body of mass 2 kg moving at 5 m/s has momentum 2 × 5 = 10 kg·m/s.
 
@@ -23,11 +26,17 @@ Tip — from us, not from the books. Keep the three quantities in a row in your 
 
 **Newton's third law, and the laws together.** To every action there is an equal and opposite reaction: if body A pushes body B, then B pushes A back equally, in the opposite direction, and the pair act on different bodies, so they never cancel on one body (Grade 11 Term 2, lesson 2-4, printed p.61). Your feet push the ground back; the ground pushes you forward. The Grade 11 book closes by applying all three laws together, including to bodies on rough inclined planes.
 
+## Sub lesson 3 — Motion as a Function of Time, and Connected Bodies
+
 **Motion as a function of time — the Grade 12 step.** Egypt's Grade 12 book opens its dynamics part by treating position, velocity and acceleration as vector functions of time, joined by calculus: velocity is the derivative of position with respect to time, acceleration is the derivative of velocity, and integration runs the other way — integrate acceleration to get velocity, integrate velocity to get position, with a constant from the starting conditions fixed each time (Grade 12, lesson 1-1, printed p.72). Work it in a straight line: if s = t³, then v = 3t² and a = 6t; at t = 2, v = 12 and a = 12, in their units. Constant acceleration is the special case where this calculus gives back the four equations above.
 
 **Bodies with variable mass or acceleration, and connected bodies.** The Grade 12 book then widens the problems: motion where the mass or the acceleration is not constant (Grade 12, lesson 2-1, printed p.88) — where you work from the definitions, rate of change by rate of change, rather than reaching for the constant-acceleration equations — and motion of connected bodies (Grade 12, lesson 2-2, printed p.95): bodies joined by a string or a contact move with one shared acceleration, the whole system can be treated together under Newton's second law, and the pull in the join is then found by taking one body alone.
 
+## Sub lesson 4 — Impulse
+
 **Impulse.** A force acting for a time delivers an impulse: impulse = force × time, J = Ft. The impulse of the resultant force equals the change of momentum it produces: Ft = mv − mu (Grade 12, lesson 2-3, printed p.112). Work it: a force of 10 N acting for 3 s delivers an impulse of 30 N·s, and it changes the body's momentum by exactly 30 kg·m/s — a body of mass 5 kg starting from rest would reach 6 m/s. This is why a longer, gentler push or a softer landing does the same momentum job with a smaller force: stretch the time, shrink the force.
+
+## Sub lesson 5 — Work, Energy and Power
 
 **Work.** A force does work when the body it acts on moves: work = force × distance moved in the force's direction, W = Fs, measured in joules (J) — with the component of the force along the movement when the two are slanted (Grade 12, lesson 3-1, printed p.124). Work it: a force of 15 N pushing a body 4 m along its own line does 15 × 4 = 60 J of work. A force at right angles to the movement does no work by this count, and work done against gravity in lifting a body of mass m through a height h is mgh.
 

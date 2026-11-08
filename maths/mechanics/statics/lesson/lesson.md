@@ -1,12 +1,13 @@
 # Statics: forces in balance — the lesson
 
-Course: Maths · Stage: Stage 17 — Mechanics · Lesson: Statics: forces in balance
+Course: Maths · Unit: Unit 17 — Mechanics · Lesson: Statics: forces in balance
 Built from: Egypt, Applied Mathematics (Mathematics Applications), Grade 11, Term 1 — Egypt, Applied Mathematics (Mechanics), Grade 12
 
 ## Do it first
 Put a book on a table and push it gently. Straight ahead, it goes straight. From the side at a slant, it goes on a slant — part of your push carried it forward and part carried it sideways. Now push it from two sides at once so it does not move at all. You have already done the whole lesson with your hands: one push can be split into parts, several pushes can hold a thing still. Egypt's Applied books open mechanics exactly here, by separating the study of bodies in balance — statics — from the study of bodies in motion (Applied Grade 11 Term 1, introduction, printed p.2). This lesson is the balance half.
 
-## Then the explanation
+## Sub lesson 1 — Forces, Resolution and Resultants
+
 **What a force is.** A force is a push or a pull. It has a size, measured in newtons (N), and it has a direction, so a force is a vector: saying "10" is not enough, you must say "10 N, to the right", or "10 N at 30° above the horizontal". Egypt's book starts its statics unit with forces as vectors, their units, and systems of forces acting together (Grade 11 Term 1, lesson 1-1, printed p.12). The forces on a body drawn at one point are called coplanar forces meeting at a point when they all lie in one flat picture and their lines all pass through that point.
 
 Tip — from us, not from the books. Always draw the picture first: a dot for the point, an arrow for each force, the arrow's length standing for the force's size and the arrow's way for its direction. Most statics mistakes are picture mistakes, not number mistakes.
@@ -15,11 +16,15 @@ Tip — from us, not from the books. Always draw the picture first: a dot for th
 
 **The resultant of forces at a point.** The resultant is the one single force that does the same job as all the given forces together. To find it: resolve every force into horizontal and vertical components, add all the horizontal components into one sum Rx, add all the vertical components into one sum Ry, then the resultant has size √(Rx² + Ry²) and makes an angle with the horizontal whose tangent is Ry / Rx (Grade 11 Term 1, lesson 1-3, printed p.25). Work it: a force of 6 N to the east and a force of 8 N to the north have Rx = 6, Ry = 8, so the resultant is √(36 + 64) = 10 N at tan⁻¹(8/6) ≈ 53.1° north of east. Two forces pulling along the same line are the easy case: same way, add them; opposite ways, subtract them.
 
+## Sub lesson 2 — Equilibrium and Friction
+
 **Equilibrium at a point.** A body is in equilibrium when it stays at rest under its forces — nothing left over to move it. That happens exactly when its resultant is zero, which is the same as saying both component sums are zero: ΣFx = 0 and ΣFy = 0 (Grade 11 Term 1, lesson 1-4, printed p.31). Those two short equations are the working tool of this whole lesson: write every force's components, add each column, set each total to zero, and solve. A picture hung from two slanted strings is the picture to keep in mind: the upward parts of the two string pulls together carry the weight, and the sideways parts cancel each other.
 
 **Friction and limiting equilibrium — flat.** When two surfaces rest on each other, friction is the force along the touching surfaces that fights sliding. On a horizontal plane, a body's weight presses the surfaces together and the plane pushes back with a normal reaction R equal to the weight. Friction grows only as big as it needs to be to stop sliding — up to a limit. The limit is F = μR, where μ (mu) is the coefficient of friction for the two surfaces (Grade 11 Term 1, lesson 1-5, printed p.43). When the pull reaches that limit and the body is just about to slide, the body is in limiting equilibrium. Work it: a body with normal reaction R = 20 N on a surface with μ = 0.5 can hold a pull of up to μR = 10 N; a pull of 10 N leaves it in limiting equilibrium, and any more starts it moving.
 
 **Equilibrium on an inclined rough plane.** Tilt the plane to an angle α and the weight splits into two parts: a part down the slope, W sin α, trying to slide the body down, and a part into the plane, W cos α, which sets the normal reaction R = W cos α. At limiting equilibrium on the point of sliding down, friction acts up the slope at its limit μR, so W sin α = μ W cos α, and the weight cancels: μ = tan α (Grade 11 Term 1, lesson 1-6, printed p.50). That special tilt — the steepest tilt at which the body still rests — is worth remembering in words: the tangent of the resting angle is the coefficient of friction.
+
+## Sub lesson 3 — Moments, Parallel Forces and Couples
 
 **Moments — forces that turn.** A force can also turn a body about a point. Its moment about that point is the force times the perpendicular distance from the point to the force's line: moment = F × d, measured in newton-metres (N·m), and marked turning clockwise or anticlockwise. Egypt's Grade 12 book opens its statics part with the moment of a force about a point in a plane — its size, its direction, the moment centre — and the general theorem of moments: the moment of a resultant about any point equals the sum of the moments of its parts about that same point (Grade 12, lesson 1-1, printed p.10). Work it: a force of 12 N acting 0.5 m from a hinge has moment 12 × 0.5 = 6 N·m about the hinge. A body in balance must balance its moments too: the clockwise moments about any point equal the anticlockwise moments about that point.
 

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Dynamics: motion, momentum and energy
 
-**Course:** Maths · **Stage:** Stage 17 — Mechanics · **Lesson:** Dynamics: motion, momentum and energy
-**Place in the curriculum:** Level 133 of 136, the second lesson of Stage 17 — Mechanics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 17 — Mechanics · **Lesson:** Dynamics: motion, momentum and energy
+**Place in the curriculum:** Level 133 of 136, the second lesson of Unit 17 — Mechanics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** dynamics — rectilinear motion, free fall, momentum, Newton's laws, impulse, work, energy and power: what happens when forces do not balance and a body moves.
 **This lesson's own level:** it stands on Statics (Level 132) for forces, and on the differentiation and integration lessons for the Grade 12 vector-function part — the learner can already name a force, and can meet velocity as a rate of change. It needs nothing else.
 
@@ -15,6 +17,20 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Rectilinear Motion and Free Fall** — motion on a straight line by position, velocity and acceleration, the constant-acceleration equations, and free fall. (Was depth Level 1.)
+2. **Momentum and Newton's Laws** — momentum = mass × velocity, and Newton's three laws, including F = ma with friction. (Was the first part of depth Level 2.)
+3. **Motion as a Function of Time, and Connected Bodies** — the Grade 12 step: motion given as a function of time, differentiated and integrated, bodies with variable mass or acceleration, and connected bodies. (Was part of depth Level 3.)
+4. **Impulse** — a force acting for a time: impulse = force × time, and it equals the change of momentum. (Was the second part of depth Level 2; its questions were filed under Level 2 and Level 3 in the type files.)
+5. **Work, Energy and Power** — work done by a force, kinetic and potential energy, and power, including P = Fv. (Was the rest of depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Statics (Level 132, same stage) — dynamics uses the same forces, unbalanced. Recommended, never forced.

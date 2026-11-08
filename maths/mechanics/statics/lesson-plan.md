@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Statics: forces in balance
 
-**Course:** Maths · **Stage:** Stage 17 — Mechanics · **Lesson:** Statics: forces in balance
-**Place in the curriculum:** Level 132 of 136, the first lesson of Stage 17 — Mechanics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 17 — Mechanics · **Lesson:** Statics: forces in balance
+**Place in the curriculum:** Level 132 of 136, the first lesson of Unit 17 — Mechanics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** statics — forces and their resolution, resultants, equilibrium, friction and limiting equilibrium, moments, couples and parallel forces, all for bodies that stay in balance.
 **This lesson's own level:** it stands on the trigonometry lessons (sine and cosine of an angle) and on solving simple equations — the learner can already split a slanted quantity into a sideways part and an up-down part in idea. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Forces, Resolution and Resultants** — what a force is, resolving one force into two right-angled components, and the resultant of forces at a point. (Was depth Level 1.)
+2. **Equilibrium and Friction** — the two balance conditions at a point, friction up to its limit, and limiting equilibrium flat and on an incline. (Was depth Level 2.)
+3. **Moments, Parallel Forces and Couples** — moments about a point, the resultant of parallel forces and where it acts, and the moment of a couple. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the trigonometry lessons — resolving a force uses sine and cosine at every step. Recommended, never forced.
