@@ -11,6 +11,9 @@ go. Stop where you stop. That stopping place is where this lesson
 starts working.
 
 ## Then the explanation
+
+## Sub lesson 1 — Alphabet A to Z
+
 So the alphabet is the whole tool box of English reading. Every word
 you will ever read is built from these 26 letters — nothing else. Learn
 the 26, and no word can hide from you; it can only be new, never
@@ -33,6 +36,8 @@ U umbrella · V violin · W watch · X x-ray · Y yo-yo · Z zebra
 Picture them as a train of 26 cars. A is the engine. Z is the last
 car. When you sing them in order, the train moves; when one car is
 missing, you feel the gap. That feeling is the alphabet working.
+
+## Sub lesson 2 — Alphabet by sounds
 
 Now, a second way books teach them — Egypt does not start at A. Egypt's
 first letters are T and I, then S, A, and N: a few letters at a time,

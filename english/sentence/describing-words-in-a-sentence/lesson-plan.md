@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Describing words in a sentence
 
 **Course:** English · **Title:** Sentence · **Lesson:** Describing words in a sentence
-**Place in the curriculum:** Level 13, "Joining and Describing" — the second lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 13 — Joining and Describing — the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** where a describing
 word (an adjective) SITS in a sentence — its two homes:
 BEFORE the noun it describes ("a fresh mango"), and AFTER
@@ -22,6 +23,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Home One: Before the Noun** — seat any describing word directly before its noun, in pairs and inside whole sentences, in Bangladesh's own pictured order. (Was depth Level 1.)
+2. **Home Two: After Be** — describe subjects across be with the verb standing (never "The mango fresh"), and land descriptions after the sense verbs (smell, taste) the same way. (Was depth Level 2.)
+3. **Moving and Stacking** — move any truth between the two homes without breaking it, stack two describers before a noun with their comma, and keep comparing forms parked for their own lesson. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Adjectives (Level 2); Joining with and

@@ -1,8 +1,9 @@
 # The paragraph — matching
 
+Sub-lesson markers (2026-11-08 restructure): every set's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Belonging · (Level 2) -> Sub lesson 2 — The Naming Sentence · (Level 3) -> Sub lesson 3 — Building the Whole Paragraph.
 Match each item to its role or its step.
 
-**Set 1 (Level 2)** — sentence roles in this paragraph:
+**Set 1 (Sub lesson 2)** — sentence roles in this paragraph:
 "My town has a busy market. Stalls line both sides of the
 main street. Sellers call out their prices from morning.
 On Fridays the whole village comes to buy."
@@ -15,7 +16,7 @@ On Fridays the whole village comes to buy."
 4. "On Fridays the whole village comes to buy." — **a
    serving sentence**
 
-**Set 2 (Level 3)** — Ghana's process in order.
+**Set 2 (Sub lesson 3)** — Ghana's process in order.
 1. choose a topic — **first**
 2. brainstorm and organise — **pre-writing**
 3. write the first draft without stopping — **writing**
@@ -23,7 +24,7 @@ On Fridays the whole village comes to buy."
 5. CUPS: capitals, usage, punctuation, spelling —
    **proofread**
 
-**Set 3 (Level 1)** — belongs or stranger? (paragraph idea:
+**Set 3 (Sub lesson 1)** — belongs or stranger? (paragraph idea:
 our school garden)
 1. "We grow tomatoes in it." — **belongs**
 2. "The garden drinks rain in June." — **belongs**

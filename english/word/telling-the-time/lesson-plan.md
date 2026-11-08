@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Telling the time
 
 **Course:** English · **Title:** Word · **Lesson:** Telling the time
-**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the third and last lesson of the level
-(CURRICULUM.md). Building it completes Level 9.
+**Place in the curriculum:** Unit 9 — Numbers, Days, and Time — the third and last lesson of the unit
+(CURRICULUM.md). Building it completes Unit 9.
 **The one thing this lesson teaches:** reading a clock and
 saying the time — o'clock first, then the halves and quarters
 — with the question "What's the time?" and the day's routine
@@ -22,6 +23,18 @@ student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown moving — a GIF here is 1–2 seconds, and clock hands move:
 this lesson is GIF country.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **O'Clock Times** — the two hands named, "What's the time?" asked, and any o'clock time said whole. (Was depth Level 1.)
+2. **The Day in Times** — a.m. split from p.m. by the book's rule, midday and midnight placed right, and a day's routine told in at-times. (Was depth Level 2.)
+3. **Minutes, Past and To** — minutes counted by fives, and half past, quarter past, ten past and quarter to said for any clock shown. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Numbers, then Days and months.

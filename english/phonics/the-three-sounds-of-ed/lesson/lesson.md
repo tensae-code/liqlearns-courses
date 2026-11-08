@@ -40,6 +40,9 @@ fingers for the sound you hear at the end — a small t,
 a small d, or a whole new beat.
 
 ## Then the explanation
+
+## Sub lesson 1 — The three lists of -ed
+
 **Bolivia's three lists.** Bolivia's Year 3 book
 teaches the pronunciation of -ed as three lists, side
 by side (Topic 4, student p.219):
@@ -61,6 +64,8 @@ so its -ed is said /d/: this lesson teaches the rule
 corrected and leaves that word out of its lists, as the
 sources record.)
 
+## Sub lesson 2 — The choosing rule for -ed
+
 **The choosing rule.** The sound just BEFORE the -ed
 chooses which of the three it will be:
 
@@ -77,6 +82,8 @@ chooses which of the three it will be:
   -ed is said **/d/**: loved, cleaned, called, played,
   enjoyed, used, followed.
 
+## Sub lesson 3 — The buzz test
+
 **The buzz test.** Put two fingers on your throat. Say
 "sss" — no buzz. Say "zzz" — buzz. That buzz is the
 whole test: if the verb's last sound buzzes, the -ed
@@ -84,12 +91,16 @@ rides on as /d/; if it does not buzz, the -ed comes out
 /t/; and if the verb already ends in t or d, the -ed
 takes its own beat, /ɪd/.
 
+## Sub lesson 4 — The three sounds come back
+
 **Bolivia teaches it twice.** The same three sounds
 come back in the book's Year 5 review presentation,
 sorted the same way: /d/ — played, listened, exercised;
  /t/ — liked, washed, shopped; /ɪd/ — wanted, needed,
 with the reminder that regular verbs add -ed. Two
 presentations, one rule: the sound before decides.
+
+## Sub lesson 5 — The describing-word -ed
 
 **India's corner case: the describing word.** India's
 Marigold Book Four teaches one place where -ed is
@@ -103,6 +114,8 @@ sound: accepted, irritated, completed, challenged. The
 ordinary past-tense rule still rules ordinary verbs;
 the describing word is the named exception to meet, not
 a new rule to use everywhere.
+
+## Sub lesson 6 — -ed in spelling practice
 
 **Barbados keeps the spelling in practice.** Barbados's
 syllabi stock the suffixes -s/-es/-ies/**-ed**/-ied/-ing

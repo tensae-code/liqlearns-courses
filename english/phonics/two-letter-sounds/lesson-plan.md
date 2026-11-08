@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Two-letter sounds
 
 **Course:** English · **Title:** Phonics · **Lesson:** Two-letter sounds
-**Place in the curriculum:** Level 3, "Sounds Together"
+**Place in the curriculum:** Unit 3 — Sounds Together
 — after Blending sounds (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters that together make
 ONE sound — ch, sh, th — a sound neither letter owns alone.
@@ -15,6 +16,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The pairs set by set** — two letters team up and together say one new sound; Libya's sets across the year — ai · oa · ie · ee · or; ng and oo; ch · sh · th; qu · ou · oi · ue · er · ar — including the two two-job pairs, oo and th. (Was depth Level 1 — the basics.)
+2. **The pairs again** — Grade 2 re-teaches the pairs in a spiral — oa · ee · ue · oo (both) · th (both) · ch · sh come round again — and Egypt teaches its letter Qq as qu. (Was depth Level 2 — the spiral.)
+3. **The cover test** — cover one letter: if the sound that is left is not half the word's sound, the two letters were really saying one thing together. (Was part of depth Level 1 — the basics.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - The alphabet and Blending sounds: single letters and their sounds

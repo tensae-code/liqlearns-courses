@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Capital letter and full stop
 
 **Course:** English · **Title:** Sentence · **Lesson:** Capital letter and full stop
-**Place in the curriculum:** Level 10, "Building a Sentence" — the second lesson of the level (CURRICULUM.md).
-Building it completes Level 10.
+**Place in the curriculum:** Unit 10 — Building a Sentence — the second lesson of the unit (CURRICULUM.md).
+Building it completes Unit 10.
 **The one thing this lesson teaches:** how a written sentence
 is dressed — a CAPITAL letter opens it, a FULL STOP closes
 it — and which words wear capitals wherever they stand:
@@ -21,6 +22,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Two Edges** — open with a capital and close with a full stop on every sentence you write or fix. (Was depth Level 1.)
+2. **The Names** — dress the names of persons, places, days, and months wherever they stand, and leave kinds (girl, city, day) small. (Was depth Level 2.)
+3. **Whole Texts** — dress a bare paragraph of three-plus sentences fully — openings, stops, names — and close a written question with a question mark instead of a stop. (Was depth Level 3. The sibling-mark paragraph in this sub lesson is where the question mark is taught; in questions/fill-in-the-blank.md the question-mark item is marked for this sub lesson, by what it asks.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Recommended,

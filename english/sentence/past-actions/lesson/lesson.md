@@ -16,6 +16,9 @@ few. Yesterday is the friendliest text there is: you already
 know everything that happened. Only the coats are new.
 
 ## Then the explanation
+
+## Sub lesson 1 — The -Ed Coat
+
 **The -ed coat — the regular crowd.** Most verbs step into
 the past by taking **-ed**: play→**played**, walk→walked,
 cook→cooked, watch→watched, visit→visited. Same coat for
@@ -24,6 +27,8 @@ asks for no -s guard; the coat is the whole change.) Its
 spellings ride along: verbs ending in e take just -d
 (live→lived); short verbs double (stop→stopped) — the same
 sewing you met in -ing.
+
+## Sub lesson 2 — The Movers and Be
 
 **The irregular movers.** The most-used verbs refuse the
 coat and change their whole shape — Mongolia's book stops
@@ -38,6 +43,8 @@ they are: one verb, a present face and a past face.
 **was** for I, he, she, it — **were** for you, we, they.
 "I was at home." "They were happy." Questions swap as
 always: "Was she at school?" "Were you ready?"
+
+## Sub lesson 3 — Did, Didn't, and the Retelling
 
 **Asking and denying — Did and didn't.** Bolivia's paradigm
 gives the whole frame: statements run subject + verb-ed;

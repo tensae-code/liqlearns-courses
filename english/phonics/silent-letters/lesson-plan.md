@@ -1,10 +1,11 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Silent letters
 
 **Course:** English · **Title:** Phonics · **Lesson:** Silent letters
-**Place in the curriculum:** Level 3, "Sounds Together"
-— inside the level with Blending sounds and Two-letter
+**Place in the curriculum:** Unit 3 — Sounds Together
+— inside the unit with Blending sounds and Two-letter
 sounds (CURRICULUM.md; CATCH-UP-PLAN.md places the
-pronunciation extensions inside Level 3).
+pronunciation extensions inside Unit 3).
 **The one thing this lesson teaches:** the letters you
 can SEE in a word but do not SAY — and the families they
 travel in: kn-, wr-, silent b after m, silent l in
@@ -19,6 +20,22 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a silent letter is** — a letter in a word that is not pronounced when the word is spoken (Ecuador's definition); Kuwait's frame for every family: "A letter you see, but you don't say." (Was depth Level 1's opening — the word.)
+2. **The kn- family** — the k keeps quiet: knife, knight, knit, knot, knob, knee — when kn starts a word, say only the n. (Was part of depth Levels 1–2 — the word, then the family.)
+3. **The wr- family** — the w keeps quiet: write, wrong, wrap, wrinkle, wreck — when wr starts a word, say only the r. (Was part of depth Levels 1–2.)
+4. **The -mb family** — the b keeps quiet after m: comb, lamb, climb, thumb — and the trap taught corrected here: knowledge has no b; its silent letter is the k of the kn- family. (Was part of depth Levels 1–2.)
+5. **The -lk family** — the l keeps quiet: walk, talk, chalk — when you meet lk after a, say the k and let the l rest. (Was part of depth Levels 1–2.)
+6. **The -gh family** — g and h keep quiet together: bright, through, bought, night, high, straight. (Was part of depth Levels 1–2.)
+7. **Silent h and the rest** — hour, honest, heir, and India's other groups — gnat, tongue, whistle, could, often — and Barbados names silent letters as set work in its word-attack list. (Was part of depth Levels 1–2.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Blending sounds (sounds pushed

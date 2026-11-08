@@ -16,6 +16,9 @@ has exactly two places it can sit. Learn the two places and
 every description you will ever write is already built.
 
 ## Then the explanation
+
+## Sub lesson 1 — Home One: Before the Noun
+
 **Home one — before the noun.** The describing word stands
 directly before the thing it describes: "**a fresh mango**,
 **a bad mango**, **a clean shirt**, **a dirty shirt**, **a
@@ -25,6 +28,8 @@ pairs, and the order never changes: description first, thing
 after. This home lives INSIDE a bigger sentence: "I ate **a
 fresh mango**." "She wears **a clean shirt**." The pair
 travels as one block wherever the sentence sends it.
+
+## Sub lesson 2 — Home Two: After Be
 
 **Home two — after be.** The same word can stand at the
 sentence's end, describing the subject across the bridge of
@@ -36,6 +41,8 @@ this home: after the sense verbs, the description lands the
 same way — "The flowers **smell nice**." "The soup **tastes
 good**." Hear the family likeness: noun + linking verb +
 description.
+
+## Sub lesson 3 — Moving and Stacking
 
 **Moving between the homes.** One truth, two addresses:
 "**a fresh mango**" (in "I bought a fresh mango") ↔ "The

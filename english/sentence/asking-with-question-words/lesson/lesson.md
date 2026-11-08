@@ -18,6 +18,9 @@ questions like this since the first Egypt dialog — now we
 take the machine apart.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Words and Their Prey
+
 **Each word hunts one prey.** Bangladesh's intonation lesson
 names the family: **What, When, Where, Why, Who and How** —
 and this course adds the count word from the Numbers lesson:
@@ -36,6 +39,8 @@ question word, an example question, and the shape of its
 answer ("At 7:00" for when; "In Boston" for where; "Ten" for
 how many). The word PROMISES the prey: hear the word, know
 what kind of answer is coming.
+
+## Sub lesson 2 — The Build
 
 **The build.** Behind the question word runs the machinery
 of the last lesson, unchanged: word + the swap or the engine
@@ -56,6 +61,8 @@ nest?" — "The crow lives in a nest." When who asks about the
 REST ("Who do you see?"), the engine runs as usual. One
 exception, with its reason showing — that is the whole of
 it.
+
+## Sub lesson 3 — Whole Answers, Falling Voice
 
 **The answer hands over the prey, whole.** Thing-questions
 are not answered with tails; they are answered with the

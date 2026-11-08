@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Numbers
 
 **Course:** English · **Title:** Word · **Lesson:** Numbers
-**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 9 — Numbers, Days, and Time — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** counting in English —
 each number as a figure, a word, and a count of real things,
 1 to 20, then by tens to 100 — with the counting question the
@@ -21,6 +22,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds per count.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Numbers 1 to 10** — each number as a figure, a word, and a count of real things, with the counting question "How many … are there?" (Was depth Level 1.)
+2. **Numbers 11 to 20** — the -teen line whole — eleven and twelve as themselves — and How-many for counts to 20. (Was depth Level 2.)
+3. **Numbers by Tens to 100** — count by tens to 100 forward and back, thirteen split from thirty by ear, and joined counts (twenty-one…) for dates and prices. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: any world set (home, animals, food) —

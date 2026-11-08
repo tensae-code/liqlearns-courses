@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The alphabet
 
 **Course:** English · **Title:** Alphabet · **Lesson:** The alphabet
-**Place in the curriculum:** Level 2, "The Alphabet" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 2 — The Alphabet —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the 26 letters — each with a
 name, two shapes (capital and small), and a sound.
 
@@ -15,6 +16,17 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Alphabet A to Z** — the 26 letters as the toolbox of reading; each letter's three things — a name, two shapes, a sound; Libya's A-to-Z word list and the train of 26 cars. The three things include the letter's sound, which Sub lesson 2 then works by; the list is kept whole here. (Was depth Level 1 — the train.)
+2. **Alphabet by sounds** — the sounds way: a few letters at a time, grouped by their sounds — Egypt's T and I, then S, A and N; Libya's s, a, t, p, i, n. (Was depth Level 2 — the sounds.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the Pencil and Lines course (the hand before the

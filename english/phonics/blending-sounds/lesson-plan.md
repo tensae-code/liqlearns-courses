@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Blending sounds
 
 **Course:** English · **Title:** Phonics · **Lesson:** Blending sounds
-**Place in the curriculum:** Level 3, "Sounds Together"
-— the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 3 — Sounds Together
+— the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** pushing letter sounds together
 until they become a word — s… a… t… → sat.
 
@@ -15,6 +16,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Blending sounds together** — a word is sounds holding hands: say each sound, then slide them together until the gaps close and the word stands up — Libya's first group, s, a, t, p, i, n, blended into sit, pat, tin, pin. (Was part of depth Level 1 — the basics.)
+2. **A few sounds first** — Egypt's letter order: a few letters at a time, chosen so that words open early — T and I, then S, A and N. (Was part of depth Level 1 — the basics.)
+3. **Blending with letter tiles** — Laos's way: loose letter tiles pushed together one sound at a time — c-a-p → cap, c-a-t → cat; slow first, then slide. (Was part of depth Level 1 — the basics.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - The alphabet (the lesson before this one): the learner knows the

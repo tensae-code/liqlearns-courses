@@ -18,6 +18,9 @@ you have been meeting both coats since the first routines.
 This lesson names them.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Every-Day Face
+
 **The every-day face — the present simple.** For things that
 happen again and again, and for truths that simply stand,
 the verb wears its plain form: "I wake up at 7." "We go to
@@ -30,6 +33,8 @@ walk**s** to school." "The cow eat**s** grass." Libya's
 reference states this face's use in four words: **facts and
 habits**.
 
+## Sub lesson 2 — The Right-Now Face
+
 **The right-now face — be + verb-ing.** For what is
 happening NOW, around now, the verb wears be + -ing:
 Mongolia's table builds it whole — subject + be + verb-ing:
@@ -40,6 +45,8 @@ its sewing rules, which the books box: most verbs just take
 -ing (read→reading); a short verb doubles its last letter
 (run→**running**, swim→swimming); a verb ending in e drops
 it (make→**making**, write→writing).
+
+## Sub lesson 3 — Choosing the Face
 
 **Choosing the face.** The sentence itself usually carries
 the clue: *every day, always, usually, on Fridays* → the

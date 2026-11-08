@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Joined-up writing
 
 **Course:** English · **Title:** Alphabet · **Lesson:** Joined-up writing
-**Place in the curriculum:** Level 2, "The Alphabet" —
-the second lesson of the level (CURRICULUM.md;
-CATCH-UP-PLAN.md places joined-up writing inside Level 2).
+**Place in the curriculum:** Unit 2 — The Alphabet —
+the second lesson of the unit (CURRICULUM.md;
+CATCH-UP-PLAN.md places joined-up writing inside Unit 2).
 **The one thing this lesson teaches:** joining letters
 together in cursive — the letter does not lift the pencil
 at the end of its shape; it flicks out and runs straight
@@ -20,6 +21,20 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The exit flick** — a cursive letter does not end flat — it ends with a little flick, and that flick is the bridge the next letter begins on. (Was part of depth Level 1 — one pair, one join.)
+2. **The four basic joins** — Barbados's four kinds of bridge: diagonal joins (ai, ar, un); horizontal joins (ou, vi, wi); joins to a letter with an ascender (ab, ul, it); horizontal joins to a letter without an ascender (ol, wh, ot). (Was part of depth Level 1 — one pair, one join.)
+3. **Steps into whole words** — Bangladesh's climb: cursive capitals A–Z, then cursive small letters a–p, then q–z, with picture words, then the days of the week in cursive. (Was depth Level 2 — whole words in one run.)
+4. **Trace then copy** — Kuwait's routine on four-line guides: trace the grey model first, then copy the solid model unaided. (Was part of depth Level 3 — whole lines, traced then copied.)
+5. **Manuscript or cursive** — print-style writing is manuscript, joined writing is cursive — both hands are kept, and the writer chooses the one that fits the job. (Was part of depth Level 3 — whole lines, traced then copied.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The alphabet (the letter shapes this

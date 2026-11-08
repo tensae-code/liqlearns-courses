@@ -16,12 +16,17 @@ Bangladesh's book names them by their look — the **short hand
 is the hour hand**; the **long hand is the minute hand**.
 
 ## Then the explanation
+
+## Sub lesson 1 — O'Clock Times
+
 **O'clock.** When the long hand stands straight up at 12, the
 time is the short hand's number + **o'clock**: "It's six
 o'clock." "It's twelve o'clock." The question is just as
 fixed: **"What's the time?"** Bangladesh drills say-and-
 complete o'clock times until the shape is automatic — and so
 does this lesson.
+
+## Sub lesson 2 — The Day in Times
 
 **a.m. and p.m.** Twelve o'clock comes twice a day, so the
 day is split, and the book's language focus states the rule
@@ -38,6 +43,8 @@ school at nine, visits her grandmother at three, returns
 home at five**. One girl, five times, a whole day told. The
 books then turn it on the learner: "What time do you wake
 up?" — answer with your own at.
+
+## Sub lesson 3 — Minutes, Past and To
 
 **Minutes: count by fives.** Mongolia's book opens the clock
 up: the numbers around the face are hours, but the long hand

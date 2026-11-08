@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Mine and yours
 
 **Course:** English · **Title:** Sentence · **Lesson:** Mine and yours
-**Place in the curriculum:** Level 13, "Joining and Describing" — the third lesson of the level (CURRICULUM.md).
-Building it completes Level 13.
+**Place in the curriculum:** Unit 13 — Joining and Describing — the third lesson of the unit (CURRICULUM.md).
+Building it completes Unit 13.
 **The one thing this lesson teaches:** the owning words
 that stand ALONE — mine, yours, his, hers, ours, theirs —
 against their partner forms that must hold a noun (my book,
@@ -24,6 +25,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Name-Tag and the Partner Forms** — tag any named owner with 's (Carlo's hat), and hold every noun with its right partner form (my/your/his/her/its/our/their) by the owner. (Was depth Level 1. Mongolia's ladder paragraph in this sub lesson climbs all three rungs in one breath — it is kept whole there; the alone rung is Sub lesson 2's own depth.)
+2. **The Alone Forms** — answer whose questions and claims with the alone family (mine, yours, his, hers, ours, theirs), and climb Mongolia's three-rung ladder in both directions without a slip. (Was depth Level 2. The two-families paragraph in this sub lesson restates the partner family whole, as the book's table prints it.)
+3. **The Law Under Pressure** — catch and fix the mirror errors (mine + noun; partner form standing alone) on sight, handle the two honest exceptions (his unchanged; its with no alone twin), and run a whole lost-property exchange in the right forms. (Was depth Level 3. The whose paragraph stands in this sub lesson in the text, where the exchange runs.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Pronouns. Recommended, never forced.

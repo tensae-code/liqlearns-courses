@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Days and months
 
 **Course:** English · **Title:** Word · **Lesson:** Days and months
-**Place in the curriculum:** Level 9, "Numbers, Days, and Time" — the second lesson of the level (CURRICULUM.md),
+**Place in the curriculum:** Unit 9 — Numbers, Days, and Time — the second lesson of the unit (CURRICULUM.md),
 after Numbers.
 **The one thing this lesson teaches:** the seven days and the
 twelve months — their names, their order, and before/after —
@@ -22,6 +23,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Seven Days** — the seven days in order, and after/before and "What day is it today?" answered without stopping. (Was depth Level 1.)
+2. **The Twelve Months** — the twelve months in order, each with its number word ("September is the ninth month"), capitals right in writing. (Was depth Level 2.)
+3. **The Calendar Machine** — the thirty-days rhyme, any month's day-count from it, and February's 28/29 and the leap year (365/366) whole. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Numbers. Recommended, never forced.

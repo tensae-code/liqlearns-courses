@@ -1,10 +1,11 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The three sounds of -ed
 
 **Course:** English · **Title:** Phonics · **Lesson:** The three sounds of -ed
-**Place in the curriculum:** Level 3, "Sounds Together"
-— inside the level with Blending sounds and Silent
+**Place in the curriculum:** Unit 3 — Sounds Together
+— inside the unit with Blending sounds and Silent
 letters (CURRICULUM.md; CATCH-UP-PLAN.md places the
-pronunciation extensions inside Level 3).
+pronunciation extensions inside Unit 3).
 **The one thing this lesson teaches:** the letters -ed
 are said three different ways — /t/, /d/ and /ɪd/ — and
 the sound before them chooses which: after t or d,
@@ -20,6 +21,21 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The three lists of -ed** — Bolivia's three lists side by side — /t/: helped, looked, washed · /d/: damaged, called, cleaned · /ɪd/: wanted, visited, needed — and only the /ɪd/ list adds a beat. (Was depth Level 1 — hear the three.)
+2. **The choosing rule for -ed** — the sound just before -ed chooses: after t or d, /ɪd/; after a voiceless sound, /t/; after a voiced sound or a vowel, /d/. (Was depth Level 2 — the choosing rule.)
+3. **The buzz test** — two fingers on the throat: voiced sounds buzz, voiceless sounds do not — the test that proves the rule on new words. (Was part of depth Level 2 — the choosing rule.)
+4. **The three sounds come back** — Bolivia's Year 5 review presents the same three sounds again, sorted the same way — played, liked, wanted. (Was the review of depth Levels 1–2.)
+5. **The describing-word -ed** — India's corner case: when -ed is part of a describing word it is always said in full — a learn-ed pundit, said "learn-id". (Was part of depth Level 3 — sort anything, and the corner case.)
+6. **-ed in spelling practice** — Barbados's syllabi stock -ed/-ied among the Classes 1–2 suffixes for reading and spelling — practice stock; the three sounds themselves are Bolivia's, with India's corner case. (Was practice stock beside depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions (-ed is its coat — this

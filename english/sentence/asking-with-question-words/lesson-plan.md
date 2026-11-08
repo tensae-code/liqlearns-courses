@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Asking with question words
 
 **Course:** English · **Title:** Sentence · **Lesson:** Asking with question words
-**Place in the curriculum:** Level 11, "Questions" —
-the second lesson of the level (CURRICULUM.md). Building it
-completes Level 11.
+**Place in the curriculum:** Unit 11 — Questions —
+the second lesson of the unit (CURRICULUM.md). Building it
+completes Unit 11.
 **The one thing this lesson teaches:** questions that hunt a
 THING, not a yes or no — a question word leads (what, where,
 when, who, why, how, how many), the yes/no machinery runs
@@ -23,6 +24,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Words and Their Prey** — name what each word hunts — what/thing, where/place, when/time, who/person, how many/count — and pick the right word for a given prey. (Was depth Level 1.)
+2. **The Build** — build thing-questions whole (word + swap/engine + rest), keep the verb bare after does, and handle the who-as-subject exception without sending an engine in. (Was depth Level 2.)
+3. **Whole Answers, Falling Voice** — answer every question with the prey inside a whole sentence, ask with the falling voice, and work why and how as surely as the big four. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Asking yes/no questions. Recommended,

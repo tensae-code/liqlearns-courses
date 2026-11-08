@@ -1,8 +1,9 @@
 # Present actions — matching
 
+Sub-lesson markers (2026-11-08 restructure): every set's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — The Every-Day Face · (Level 2) -> Sub lesson 2 — The Right-Now Face · (Level 3) -> Sub lesson 3 — Choosing the Face · except Set 3, which asks which face asks with which machine (the engine or the swap) and is Sub lesson 3.
 Match each item to its face or its fix.
 
-**Set 1 (Level 3)** — clue words and faces.
+**Set 1 (Sub lesson 3)** — clue words and faces.
 1. every day — **the every-day face**
 2. right now — **the right-now face**
 3. on Fridays — **the every-day face**
@@ -10,14 +11,14 @@ Match each item to its face or its fix.
 5. usually — **the every-day face**
 6. Look! — **the right-now face**
 
-**Set 2 (Level 2)** — sew the -ing.
+**Set 2 (Sub lesson 2)** — sew the -ing.
 1. run — **running** (double the letter)
 2. make — **making** (drop the e)
 3. read — **reading** (just add)
 4. swim — **swimming** (double)
 5. write — **writing** (drop the e)
 
-**Set 3 (Level 1)** — questions on both faces.
+**Set 3 (Sub lesson 3)** — questions on both faces.
 1. Does he walk? — **the every-day face asks (engine)**
 2. Is he walking? — **the right-now face asks (swap)**
 3. Do you read? — **engine**

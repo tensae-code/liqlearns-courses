@@ -13,6 +13,9 @@ Again, slower: s-k, s-k, sk. Your mouth kept both sounds. That
 keeping-both is the whole lesson.
 
 ## Then the explanation
+
+## Sub lesson 1 — The s-set blends
+
 So a word can open with two sounds pushed together. Egypt's book
 teaches them in two sets, printed pink inside the whole words:
 
@@ -21,6 +24,8 @@ teaches them in two sets, printed pink inside the whole words:
 - **sn** — snail, snake
 - **st** — strong, star
 - **sw** — swing, swim
+
+## Sub lesson 2 — The l-set blends
 
 **The l-set** (Term 2, Unit 5):
 - **cl** — clock
@@ -31,6 +36,8 @@ teaches them in two sets, printed pink inside the whole words:
 The book blends each one and reads it aloud, then drops it inside
 sentences — because a blend is not a trick for its own page; it is
 how real words start.
+
+## Sub lesson 3 — The cover test
 
 Here is the test against the next-door lesson: in a blend, cover
 the second letter and the first sound is still there in the word —

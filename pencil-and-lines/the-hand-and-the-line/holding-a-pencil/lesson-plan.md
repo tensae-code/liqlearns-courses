@@ -1,3 +1,4 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Holding a pencil
 
 **Course:** Pencil and Lines · **Title:** The hand and the line ·
@@ -19,6 +20,18 @@ this plan exactly this way. On the website the real add-on is dropped
 into that slot and the little explanation stays as the student's
 guide. Images follow the picture rule (a real photograph, or real
 art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Picking up the pencil** — the hand comes down open, and thumb and first finger take the pencil like a bird's beak (steps 1–2 of the book's five-step grip). (Was steps 1–2 of depth Level 1's five-step grip.)
+2. **Resting the pencil** — the pencil rests on the middle finger underneath and tilts back into the soft place — resting, not squeezed (steps 3–4). (Was steps 3–4 of depth Level 1's five-step grip.)
+3. **Writing with the grip** — step 5: you write, the pencil standing at an angle like a small tree leaning; the not-squeezed check and the tip stand here. Depth Level 2 — explaining the grip while doing it — is proved across all three sub lessons. (Was step 5 of depth Level 1's five-step grip.)
+
+Gate pool: none — this lesson has no questions/ files.
 
 ## Before this lesson
 - Nothing. This is the first lesson of the first course — the hand

@@ -17,6 +17,9 @@ it never guesses. It follows one rule, and the rule is this
 lesson.
 
 ## Then the explanation
+
+## Sub lesson 1 — Dictionary Letter Order
+
 **The rule: alphabetical order.** Bangladesh's book states it
 plainly: words stand by their **first letter**; when the
 first letters tie, by the **next** letter; then the next.
@@ -29,6 +32,8 @@ in letter order with pictures; Mongolia's Grade 10 book ends
 with its own **Dictionary** (pages 178–184, A to W) — the
 words of the book itself, findable.
 
+## Sub lesson 2 — Dictionary Guide Words
+
 **Guide words** make the finding fast. At the top of a
 dictionary page stand two words: the first word on the page
 and the last. They fence the page. Bangladesh's exercise:
@@ -38,6 +43,8 @@ tell from the fence whether your word sleeps inside before
 you read a single entry. Search by halves: open near the
 middle, read the fence, go forward or back. A big dictionary
 opens to any word in seconds once the fence is a habit.
+
+## Sub lesson 3 — Dictionary Entries
 
 **The entry** — what you get when you land. Bangladesh
 reproduces a real page (the **fit** family: fit, fitful,

@@ -17,6 +17,9 @@ counted on real things** — 1, 2, 3 with the food; 4, 5, 6
 with the animals; 7, 8, 9, 10 with the body.
 
 ## Then the explanation
+
+## Sub lesson 1 — Numbers 1 to 10
+
 **1 to 10**, each number three ways — the figure, the word,
 and the count:
 
@@ -31,6 +34,8 @@ there?"** — "How many pencils are there? There are 3 pencils."
 things + there are + the count: the whole machine, and it
 works for anything you can point at.
 
+## Sub lesson 2 — Numbers 11 to 20
+
 **11 to 20** — the -teen line, which Egypt's Primary 1 counts
 as figures with their values and spends in the same question
 ("There are 15 …"):
@@ -44,6 +49,8 @@ Two of them refuse the pattern and must be learned as
 themselves: **eleven** and **twelve**. The rest build:
 three+teen, four+teen… and the line ends at twenty, which is
 not a teen at all — it is the first of the tens.
+
+## Sub lesson 3 — Numbers by Tens to 100
 
 **The tens to 100** — counted by jumps, Egypt's Primary 3
 line: "I can count by 10s to 100":

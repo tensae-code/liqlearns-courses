@@ -22,6 +22,9 @@ words. Learn them and you can lead a reader through any
 process or any day.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Process Home
+
 **The set.** Egypt's writing Tip prints it as a box-top
 law: "**Linking words make the story clear and easy to
 follow. First, Then, After that, Finally**" — and Mongolia's
@@ -47,6 +50,8 @@ the doing-now or command shapes you own ("First, wash the
 rice. Then, boil the water."), each under its signpost, in
 the order the hands must move.
 
+## Sub lesson 2 — The Recount Home
+
 **Home two — the recount.** A finished day retold in the
 past (Past actions' coats) walks the same road: "First, we
 went to the river. Then, we swam. After that, we ate under
@@ -54,6 +59,8 @@ the trees. Finally, we walked home." The signposts are how
 a reader keeps the day's map; drop them and the events
 still stand in order — but the reader must work for the
 order that the writer should have given free.
+
+## Sub lesson 3 — Judgment at the Joints
 
 **When the signposts may rest.** Not every sentence needs
 one. Two steps glued tight by meaning ("He opened the door

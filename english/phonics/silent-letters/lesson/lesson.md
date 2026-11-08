@@ -40,6 +40,9 @@ do: say the word, then point at the grey letter — the
 letter you saw but did not say.
 
 ## Then the explanation
+
+## Sub lesson 1 — What a silent letter is
+
 **What a silent letter is.** Ecuador's book defines it
 in so many words: silent letters are letters in a word
 that are **not pronounced when the word is spoken**; the
@@ -51,12 +54,16 @@ Kuwait's book gives the same idea as a rhyme-frame to say
 before every family: **"A letter you see, but you don't
 say."**
 
+## Sub lesson 2 — The kn- family
+
 **Family 1 — kn-: the k keeps quiet.** Ecuador's Silent
 'K' picture cards (printed p.36): **knife, knight, knit,
 knot, knob, knee**. India's books pick out the same
 family — knit and knife stand in its Class 4 list, and a
 later book groups it whole: **kn-: knee, knife, knot,
 know**. When kn starts a word, say only the n.
+
+## Sub lesson 3 — The wr- family
 
 **Family 2 — wr-: the w keeps quiet.** Kuwait teaches
 this family first, with **wrap** (Student's Book 5B,
@@ -65,6 +72,8 @@ Unit 5). Ecuador's Silent 'W' cards (printed pp.39–40):
 India's Class 3 book names the same pair of facts in one
 line: the **w in wrinkle** has no sound. When wr starts
 a word, say only the r.
+
+## Sub lesson 4 — The -mb family
 
 **Family 3 — -mb: the b keeps quiet after m.** Ecuador's
 Silent 'B' cards (printed pp.37–38): **comb, doubt,
@@ -81,6 +90,8 @@ letter is the k of Family 1. (The book's slip is
 recorded in this lesson's sources; the word is taught
 here where it belongs.)
 
+## Sub lesson 5 — The -lk family
+
 **Family 4 — -lk: the l keeps quiet.** Kuwait's family
 (Student's Book 5B, Unit 7): **walk, talk, chalk**.
 India's Class 3 book states it as a single fact — the
@@ -89,6 +100,8 @@ lists keep picking the family out: walk, talk, calm,
 chalk. When you meet lk after a, say the k and let the
 l rest.
 
+## Sub lesson 6 — The -gh family
+
 **Family 5 — -gh: g and h keep quiet together.**
 Kuwait's family (Student's Book 5B, Unit 8): **through,
 bright, bought**. India's lists are full of it — night,
@@ -96,6 +109,8 @@ high, straight — and a later Indian book groups it:
 **-gh-: neighbour, daughter, fight, straight**. The gh
 often stands where an older sound used to be; today it
 is written, not said.
+
+## Sub lesson 7 — Silent h and the rest
 
 **Family 6 — silent h, and the rest of India's groups.**
 Ecuador's Silent 'H' cards (printed pp.38–39): **hour,

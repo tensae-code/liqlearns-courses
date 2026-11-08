@@ -10,6 +10,9 @@ page — any line, your way. Look at it. Is it smooth? Does it go where
 you told it? Keep that line; it is your "before."
 
 ## Then the explanation
+
+## Sub lesson 1 — Drawing the wavy line
+
 So a line is the pencil's road. And here is the secret of the whole
 course: **every letter in every language is made of lines** — only two
 kinds of moves, really. Curved moves, like a hill. And straight moves,
@@ -20,6 +23,9 @@ The book gives you two roads to practice, in a box that says "Trace":
 - **The wavy line** — up and down, up and down, smooth like small
   hills. No sharp corners. Your hand flows and does not stop. This is
   the move inside round letters: o, c, s, a.
+
+## Sub lesson 2 — Drawing the zigzag line
+
 - **The zigzag line** — up, sharp turn, down, sharp turn, like
   mountains in a row. This is the move inside straight letters with
   corners: z, w, v, N.

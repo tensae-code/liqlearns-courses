@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Word families
 
 **Course:** English · **Title:** Phonics · **Lesson:** Word families
-**Place in the curriculum:** Level 4, "First Words" —
+**Place in the curriculum:** Unit 4 — First Words —
 after Blends (CURRICULUM.md).
 **The one thing this lesson teaches:** words that share the same
 ending — same letters, same sound — so knowing one opens its whole
@@ -16,6 +17,21 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Families with short a** — words that share the same ending — same letters, same sound — so knowing one opens its whole family: the short-a families -an (pan, man) · -ap (map, cap) · -at (mat, hat). The opening lines teach the family idea itself; they are kept here whole. (Was part of depth Level 1 — the basics.)
+2. **Families with short e** — -et (pet, jet, wet) · -en (pen, hen, ten). (Was part of depth Level 1 — the basics.)
+3. **Families with short i** — -ig (big, fig, dig) · -in (bin, fin, win) · -ip (hip, dip, lip). (Was part of depth Level 1 — the basics.)
+4. **Families with short o** — -og (dog, fog, log) · -op (mop, hop, pop) · -ot (pot, hot, dot). (Was part of depth Level 1 — the basics.)
+5. **Families with short u** — -ug (hug, jug, mug) · -un (bun, run, sun) · -ut (hut, nut, cut) — fifteen families, five vowels — and sorting words into their family boxes. (Was part of depth Level 1 — the basics.)
+6. **Growing a family** — Laos's swap game: start from hat and change only the first letter — hat, rat, cat, mat — and name what changed. (Was depth Level 2 — grow a family.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Blending sounds and Blends: the family is where blending starts

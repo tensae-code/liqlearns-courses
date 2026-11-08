@@ -18,6 +18,9 @@ life. The three ways are a ladder — this lesson climbs it
 and then runs it for every owner there is.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Name-Tag and the Partner Forms
+
 **The ladder (Mongolia's own box).** Its pronouns box prints
 the climb in one line: "**This is Nina's hat. It's her hat.
 The hat is hers.**"
@@ -34,6 +37,8 @@ The hat is hers.**"
    themselves, because the thing is already known — they
    carry owner AND thing in one word.
 
+## Sub lesson 2 — The Alone Forms
+
 **The two families, whole.** Partner forms (hold a noun):
 **my, your, his, her, its, our, their**. Alone forms (stand
 alone): **mine, yours, his, hers, —, ours, theirs**. Two
@@ -42,6 +47,8 @@ word in both families ("his hat" / "the hat is his") — the
 one pair that does not change; and **its** has no alone twin
 — the table has a gap, and the gap is real English, not a
 mistake to fix.
+
+## Sub lesson 3 — The Law Under Pressure
 
 **The law.** A partner form without its noun is half a
 phrase ("The book is my—" stops dead). An alone form with a

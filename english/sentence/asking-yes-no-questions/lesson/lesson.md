@@ -16,6 +16,9 @@ question with one move, and the move is this lesson. Make
 it, and the other person must answer: yes, or no.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Be-Swap
+
 **The swap — questions with be.** When the statement's verb
 is a be word (is, are, am), the be word and the who change
 places: "**She is** happy" → "**Is she** happy?" "They
@@ -24,6 +27,8 @@ closes it (last lesson's dress), and the answer rides the
 same be word: "Yes, she is." "No, they aren't." Short answers
 keep the who and the be — never a bare yes alone in this
 course's English.
+
+## Sub lesson 2 — The Do/Does Engine
 
 **The do/does engine — questions with doing verbs.** Most
 statements have no be word to swap: "You like mango." "He
@@ -45,6 +50,8 @@ sentences: subject + be + verb-ing turns by the same swap —
 costumes: wherever a be word already stands in the sentence,
 it walks to the front; where none stands, do/does walks in
 to do the job.
+
+## Sub lesson 3 — Voice and Whole Answers
 
 **The voice of a yes/no question.** Bangladesh's intonation
 lesson hears the shape: for **yes/no questions the voice

@@ -13,6 +13,9 @@ the pencil? Take a photo in your head. Then put the pencil down — we
 are going to hold it the book's way, in five small steps.
 
 ## Then the explanation
+
+## Sub lesson 1 — Picking up the pencil
+
 So before a letter, there is a hand. A letter is a shape your hand
 makes with a pencil — if the hand is wrong, every shape fights you.
 
@@ -21,9 +24,15 @@ The book shows it in five pictures, like this:
 1. The pencil lies on the table. Your hand comes down open.
 2. Two fingers — your thumb and your first finger — take the pencil,
    like a bird taking something small with its beak.
+
+## Sub lesson 2 — Resting the pencil
+
 3. The pencil rests on your middle finger, underneath.
 4. Now the pencil tilts back, into the soft place between your thumb
    and fingers. It is resting, not being squeezed.
+
+## Sub lesson 3 — Writing with the grip
+
 5. And you write. The pencil stands at an angle, like a small tree
    leaning. Your hand moves; the pencil follows.
 

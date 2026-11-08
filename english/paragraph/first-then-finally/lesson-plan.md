@@ -1,9 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — First, then, finally
 
 **Course:** English · **Title:** Paragraph · **Lesson:** First, then, finally
-**Place in the curriculum:** Level 14, "The Paragraph"
-— the second lesson of the level (CURRICULUM.md). Building
-it completes Level 14.
+**Place in the curriculum:** Unit 14 — The Paragraph
+— the second lesson of the unit (CURRICULUM.md). Building
+it completes Unit 14.
 **The one thing this lesson teaches:** ordering the sentences
 of a paragraph in TIME with the sequence words — first,
 then, next, after that, finally — so a process can be
@@ -24,6 +25,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Process Home** — signpost a how-to paragraph whole — First to Finally, comma dress on — whose steps a stranger could follow without a wrong move. (Was depth Level 1. The set and dress paragraphs stand at the head of the text and are kept in this sub lesson; they are the whole lesson's foundation.)
+2. **The Recount Home** — retell a finished stretch of time in the past under the set, varying the middle words (then / next / after that) so the road does not stutter. (Was depth Level 2.)
+3. **Judgment at the Joints** — unscramble any scrambled paragraph by the world's order before reaching for signposts, rest the signposts where meaning already glues the steps, and catch a dressed-up wrong order (signposts lying) on sight. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The paragraph; Past actions.

@@ -18,6 +18,9 @@ hanging. The difference between the two is this whole level:
 whole thought.**
 
 ## Then the explanation
+
+## Sub lesson 1 — Whole or Waiting
+
 **The whole-thought test.** A sentence finishes an idea.
 "The big cat" — you wait: what about it? "The big cat
 sleeps" — whole. Pieces that leave you waiting are not
@@ -25,6 +28,8 @@ sentences yet, however long they are; a two-word line can be
 whole ("Birds fly") and a ten-word line can still be waiting
 ("The big black cat on the roof of the house…" — and?). Ask
 of every line: does it finish, or does it leave me waiting?
+
+## Sub lesson 2 — The Two Parts
 
 **The two parts.** Every whole thought stands on the same
 two legs, and Ghana's curriculum names them outright in its
@@ -54,6 +59,8 @@ aloud." Every row is a sentence, because every row walks the
 formula: WHO + DOES + WHAT. Tables are training wheels for
 the machine; once the hands know it, the columns come away
 and the sentences stand alone.
+
+## Sub lesson 3 — Order and Growth
 
 **Order is meaning.** English holds its parts in a fixed
 order — subject first, then the verb, then the rest — and

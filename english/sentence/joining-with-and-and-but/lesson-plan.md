@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Joining with and and but
 
 **Course:** English · **Title:** Sentence · **Lesson:** Joining with and and but
-**Place in the curriculum:** Level 13, "Joining and Describing" — the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 13 — Joining and Describing — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** joining words and
 whole sentences with AND (it adds — same direction) and BUT
 (it turns — a contrast), and letting a shared who ride once
@@ -21,6 +22,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **And, the Adder** — join words, lists, and sentences with and; drop a shared who the way Ghana's example does; place the list's commas and final and. (Was depth Level 1.)
+2. **But, the Turner** — join with but where a real turn stands, and feel a false but (no turn) as wrong without being told. (Was depth Level 2. The lists paragraph stands after the but paragraph in the text and is kept in this sub lesson; its list work is Sub lesson 1's depth, revisited there.)
+3. **Choosing Cold** — given bare pairs, pick the true joiner every time and defend it by the meaning's direction; name or as the choice-brother and leave because/so and however for their own homes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Recommended,

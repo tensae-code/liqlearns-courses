@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Going to: later
 
 **Course:** English · **Title:** Sentence · **Lesson:** Going to: later
-**Place in the curriculum:** Level 12, "Now, Before, Later" — the third lesson of the level (CURRICULUM.md).
-Building it completes Level 12.
+**Place in the curriculum:** Unit 12 — Now, Before, Later — the third lesson of the unit (CURRICULUM.md).
+Building it completes Unit 12.
 **The one thing this lesson teaches:** talking about LATER
 with **be going to + verb** — plans and intentions already
 decided, and predictions you can already see coming — with
@@ -23,6 +24,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Frame** — build be + going to + base-verb sentences for every who (am/is/are right every time), and deny them with not after be. (Was depth Level 1.)
+2. **The Two Jobs** — say true plans and intentions, read visible signs into predictions, and ask the plans interview's questions with the be-swap and whole answers. (Was depth Level 2. The asking-and-denying paragraph stands in this sub lesson in the text; its denying half is Sub lesson 1's frame at work.)
+3. **The Borders** — sort futures by their making — decided before (going to), decided while speaking (will), printed on a timetable (plain present) — and keep the base verb standing after going to. (Was depth Level 3. The clue-words paragraph stands at the end of the text and is kept in this sub lesson.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Present actions; Past actions.

@@ -16,6 +16,9 @@ the year, with twelve months standing in a line that starts
 again every January.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Seven Days
+
 **The seven days.** Egypt's book asks first: "How many days
 are there in a week?" — "There are 7 days in a week." Then
 the list, in the order of Egypt's school week:
@@ -36,6 +39,8 @@ the same in both books; only the starting card moves. Your
 own country's calendar picks your starting card — the order
 around the circle never changes.
 
+## Sub lesson 2 — The Twelve Months
+
 **The twelve months**, each carrying its number — the
 ordinal words from the Numbers lesson's next step:
 
@@ -51,6 +56,8 @@ the year." And its grammar rule rides on top: **we use a
 capital letter for the first letter in the names of the
 months** — and of the days. Days and months are names, and
 names wear capitals.
+
+## Sub lesson 3 — The Calendar Machine
 
 **How many days in a month?** The books print the old rhyme
 as a poster, and it answers for the whole year:

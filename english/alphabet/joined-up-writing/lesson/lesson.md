@@ -39,12 +39,17 @@ watch where the pencil does NOT lift, then make the same
 run yourself.
 
 ## Then the explanation
+
+## Sub lesson 1 — The exit flick
+
 **The bridge is already in the letter.** A cursive
 letter does not end flat. It ends with a little flick —
 a tail that runs up and out of the letter. That flick is
 the bridge: the next letter begins where the flick
 lands. Joined-up writing is not a new alphabet; it is
 your letters, plus their bridges.
+
+## Sub lesson 2 — The four basic joins
 
 **The four basic joins.** Barbados's syllabus names
 them by type (Scope and Sequence 4.6.5, Class 1
@@ -71,6 +76,8 @@ thick. What you do: name each pair's join kind out loud
 — diagonal, horizontal, to a tall letter, flat to a
 short letter — before you write the pair.
 
+## Sub lesson 3 — Steps into whole words
+
 **The steps into whole words.** Bangladesh's Class 4
 book climbs in steps (Units 9–12). First the **cursive
 capital letters A–Z** on ruled lines, with a cursive
@@ -83,6 +90,8 @@ same way (Unit 11, printed pp.22–23). Then real writing:
 words, real lines — no step is skipped. In Class 5 the
 same hand becomes the assessed style: correction
 exercises are set to be rewritten in cursive handwriting.
+
+## Sub lesson 4 — Trace then copy
 
 **How to practise: trace, then copy.** Kuwait's Grade 3
 Handwriting Book is forty pages of one routine (printed
@@ -97,6 +106,8 @@ the entry and exit flicks, but its words are not joined,
 and the book teaches no joins. What Kuwait gives this
 lesson is the training routine and the four-line guides;
 the joins themselves are Barbados's and Bangladesh's.
+
+## Sub lesson 5 — Manuscript or cursive
 
 **Manuscript or cursive?** Print-style writing is called
 manuscript; joined writing is cursive. Barbados's Class

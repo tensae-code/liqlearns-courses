@@ -45,6 +45,9 @@ say the tall syllable, and let the other two taps stay
 soft.
 
 ## Then the explanation
+
+## Sub lesson 1 — Word stress
+
 **Word stress — one beat stands out.** India's Class 8
 book teaches it by name: **word stress** — the stressed
 syllable is the more prominent one; a word has as many
@@ -62,6 +65,8 @@ Lesson 19). Jordan meets it as **syllable stress**
 verb syllable stress** — the same spelling can lean on
 a different beat when it changes its job (Grade 10
 Workbook, Unit 3, printed p.23).
+
+## Sub lesson 2 — Sentence stress
 
 **Sentence stress — the sentence leans.** Inside a
 sentence, not every word stands up. Sierra Leone's SSS3
@@ -84,6 +89,8 @@ fluent reading through **intonation (rise and fall of
 the voice) and word/sentence stress**, and its primary
 poem lesson already says the rule in child-size: stress
 nouns, verbs and adjectives.
+
+## Sub lesson 3 — The schwa
 
 **The schwa — the sound the quiet syllables make.**
 Ecuador's Superior book gives the schwa a full
@@ -112,6 +119,8 @@ book" with WANT, RED and BOOK standing tall and the
 small words shrunk small between them. What you do:
 say the sentence leaning only on the tall words, and
 let the small ones shrink to the schwa.
+
+## Sub lesson 4 — The tune at the end
 
 **Intonation — the tune at the end.** Intonation is
 stress plus pitch: the voice's rise and fall. Sierra

@@ -14,6 +14,9 @@ the book's way: ch — as in the sound that starts "chair". One sound,
 made of two letters. Try sh, too. You just did the whole lesson.
 
 ## Then the explanation
+
+## Sub lesson 1 — The pairs set by set
+
 So most letters hold one sound each. But English has sounds that no
 single letter owns. For those, two letters team up — and together
 they say one new sound that is neither of them alone.
@@ -28,6 +31,8 @@ after the single letters:
   th in mouth and three, and the buzzing th in father and this.
 - **qu · ou · oi · ue · er · ar** (Unit 8)
 
+## Sub lesson 2 — The pairs again
+
 Grade 2 then re-teaches them in a spiral: oa · ee · ue · oo (both)
 · th (both) · ch · sh come round again with the same words.
 
@@ -35,6 +40,8 @@ Egypt meets one of them inside a letter lesson: its letter Qq is
 taught as **qu** — quiet, quack, queen, question — because in
 English, q travels with u and the pair says one sound-pair, /kw/,
 as one team.
+
+## Sub lesson 3 — The cover test
 
 The test that tells a two-letter sound from a blend: cover one
 letter. If the sound that is left is not half the word's sound —

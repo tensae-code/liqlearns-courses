@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Past actions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Past actions
-**Place in the curriculum:** Level 12, "Now, Before, Later" — the second lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 12 — Now, Before, Later — the second lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** telling what already
 happened — the verb's past coat: -ed for the regular crowd,
 their own past forms for the irregular movers, was/were for
@@ -21,6 +22,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The -Ed Coat** — put any regular verb into the past (spellings included: lived, stopped), for every who, without a miss. (Was depth Level 1.)
+2. **The Movers and Be** — the great movers by heart as pairs (go–went, eat–ate, see–saw, come–came, take–took, give–gave, drink–drank, run–ran), and was/were placed by the who every time. (Was depth Level 2.)
+3. **Did, Didn't, and the Retelling** — ask and deny with the verb stepped back to base after Did/didn't — never two past marks — tell the past by its clue words, and retell a short finished story in whole past sentences. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Present actions. Recommended, never

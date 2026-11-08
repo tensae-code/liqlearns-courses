@@ -47,6 +47,9 @@ their letters pop one by one. What you do: say which
 letter settled each card as it lands.
 
 ## Then the explanation
+
+## Sub lesson 1 — Ordering Words by the Second Letter
+
 **The rule, whole.** Words stand by their first letter.
 When the first letters tie, the **second** letter
 decides. When the second letters tie, the **third**
@@ -70,6 +73,8 @@ letter deeper. Work the five d-words up the ladder:
   (dog), **o** (door) — and the line is settled:
   **dark, deep, doctor, dog, door**.
 
+## Sub lesson 2 — Ordering Words to the Fourth Letter, and the Index
+
 **The index is the same machine.** An index orders
 TOPICS the way a dictionary orders words, and two
 countries teach it as its own skill. India's Class 9
@@ -91,6 +96,8 @@ its entries standing in deep letter order, one entry
 circled. What you do: say the first three letters of
 the circled entry and the two entries it stands
 between, and why it stands exactly there.
+
+## Sub lesson 3 — The Dictionary Entry, Taken Apart
 
 **The entry — what you land on.** India's Class 6 book
 reproduces a real dictionary page and works it (the

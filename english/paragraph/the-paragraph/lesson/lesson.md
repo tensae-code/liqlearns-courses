@@ -21,6 +21,9 @@ feeling — belongs / stranger — is the whole law of the
 paragraph. Now it gets its names.
 
 ## Then the explanation
+
+## Sub lesson 1 — Belonging
+
 **One idea, served by every sentence.** A paragraph is a
 group of sentences standing together about ONE idea.
 Ghana's writing process prints the test as a revise
@@ -31,6 +34,8 @@ stranger, and it goes to start or join a paragraph of its
 own. Paragraphs are how a long text keeps its ideas sorted:
 one drawer per idea (the course's own way of working,
 wearing grammar's clothes).
+
+## Sub lesson 2 — The Naming Sentence
 
 **The naming sentence.** Most paragraphs open with the
 sentence that NAMES the idea — the topic sentence: "My
@@ -43,6 +48,8 @@ later books set a MODEL paragraph before the learner and
 then ask for one of their own on a favourite thing. Read any
 model and the opening sentence is the promise the rest of
 the paragraph keeps.
+
+## Sub lesson 3 — Building the Whole Paragraph
 
 **How the books build one.** Ghana's process is the surest
 road, and this course adopts it whole: choose the topic

@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Building a sentence
 
 **Course:** English · **Title:** Sentence · **Lesson:** Building a sentence
-**Place in the curriculum:** Level 10, "Building a Sentence" — the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 10 — Building a Sentence — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** what a sentence is —
 words in order that make a whole thought, built as WHO +
 DOES WHAT: a subject, a verb, and the rest that completes it.
@@ -21,6 +22,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Whole or Waiting** — judge any short line as a sentence or a waiting-piece, and say which leg is missing when it waits. (Was depth Level 1.)
+2. **The Two Parts** — split plain sentences into subject and verb (+ complement), and build true sentences from a three-column table, row after row. (Was depth Level 2.)
+3. **Order and Growth** — unjumble sentences of five-plus words, grow a bare subject+verb with a complement of your own, and catch the order-flip that changes the meaning. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the whole Word Kinds level (nouns,

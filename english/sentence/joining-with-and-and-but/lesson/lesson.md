@@ -18,6 +18,9 @@ joiners are not glue; they are DIRECTIONS. This lesson
 teaches the two first directions.
 
 ## Then the explanation
+
+## Sub lesson 1 — And, the Adder
+
 **AND — the adder.** Ghana's curriculum opens compound
 sentences with it, worked in full: "The boy woke up" + "The
 boy prayed" → "**The boy woke up and prayed**." And joins
@@ -27,6 +30,8 @@ sentences), two whole sentences. When the who is shared, it
 rides once — the second "the boy" falls away and the
 sentence runs light. (Keeping it is never wrong, only
 heavier; the book's finished shape drops it.)
+
+## Sub lesson 2 — But, the Turner
 
 **BUT — the turner.** The same unit seats AND and BUT
 together because they are opposites in direction: but joins
@@ -42,6 +47,8 @@ middle and and carries the last pair: "Mita, Pavel **and**
 Orpa" — the dress you met in the Food lesson's shopping
 sentences. One and per list, standing at the end like a
 gate.
+
+## Sub lesson 3 — Choosing Cold
 
 **The family, named.** Ghana's later list gives the four
 coordinators: **and, but, or, nor**. Or is the choice-brother

@@ -15,6 +15,9 @@ free. Feel how little work the second and third were? That is the
 whole lesson.
 
 ## Then the explanation
+
+## Sub lesson 1 — Families with short a
+
 So some words are cousins: they end the same way, in letters and
 in sound. Egypt's book teaches them family by family — each word
 printed letter by letter with a dot under each letter and a
@@ -24,11 +27,23 @@ and a rhyming chant, because families rhyme.
 The book builds one family set for each short vowel:
 
 - **Short a:** -an (pan, man) · -ap (map, cap) · -at (mat, hat)
+
+## Sub lesson 2 — Families with short e
+
 - **Short e:** -et (pet, jet, wet) · -en (pen, hen, ten)
+
+## Sub lesson 3 — Families with short i
+
 - **Short i:** -ig (big, fig, dig) · -in (bin, fin, win) ·
   -ip (hip, dip, lip)
+
+## Sub lesson 4 — Families with short o
+
 - **Short o:** -og (dog, fog, log) · -op (mop, hop, pop) ·
   -ot (pot, hot, dot)
+
+## Sub lesson 5 — Families with short u
+
 - **Short u:** -ug (hug, jug, mug) · -un (bun, run, sun) ·
   -ut (hut, nut, cut)
 
@@ -41,6 +56,8 @@ Later in the same units, the book also has the learner rearrange
 letters into the family words and sort words into their family
 boxes — the family is a thing you can hold, not just a sound you
 can hear.
+
+## Sub lesson 6 — Growing a family
 
 Laos's book plays the swap as the game itself. It starts from
 **hat** and changes only the first letter — hat, rat, cat, mat —

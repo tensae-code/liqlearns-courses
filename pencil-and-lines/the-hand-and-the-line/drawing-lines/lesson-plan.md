@@ -1,3 +1,4 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Drawing lines
 
 **Course:** Pencil and Lines · **Title:** The hand and the line ·
@@ -20,6 +21,17 @@ plan exactly this way. On the website the real add-on is dropped into
 that slot and the little explanation stays as the student's guide.
 Images follow the picture rule (a real photograph, or real art, with
 its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Drawing the wavy line** — a line is the pencil's road and every letter is made of two kinds of moves; the wavy line runs up and down, smooth like small hills — the move inside round letters. The opening lines name both roads before the wavy road is practised; they are kept here whole, not split. (Was part of depth Level 1.)
+2. **Drawing the zigzag line** — up, sharp turn, down, sharp turn, like mountains in a row — the move inside straight letters with corners; follow each dotted line from where its arrow starts, slow first; the two roads mixed make every letter. (Was part of depth Level 1.)
+
+Gate pool: none — this lesson has no questions/ files.
 
 ## Before this lesson
 - Holding a pencil (the lesson before this one): the five-step grip

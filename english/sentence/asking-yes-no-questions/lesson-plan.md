@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Asking yes/no questions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Asking yes/no questions
-**Place in the curriculum:** Level 11, "Questions" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 11 — Questions —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** how to turn a statement
 into a question that can be answered yes or no — the helping
 word moves to the front — and how to answer it: short, or
@@ -22,6 +23,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Be-Swap** — swap any be-statement into a question and answer it with the tailed short answer ("Yes, she is." / "No, they aren't."). (Was depth Level 1.)
+2. **The Do/Does Engine** — pick do or does by the who every time, keep the verb bare after does, and answer with the engine's short answers. (Was depth Level 2. Mongolia's swap-at-work paragraph stands after the engine in the text and is kept in this sub lesson, where it recaps the Sub lesson 1 swap on doing-now sentences.)
+3. **Voice and Whole Answers** — ask with the rising voice and let answers fall, and turn short answers into whole-sentence answers without breaking the shape. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence; Verbs (the do/does

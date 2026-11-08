@@ -1,8 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Blends
 
 **Course:** English · **Title:** Phonics · **Lesson:** Blends
-**Place in the curriculum:** Level 4, "First Words" —
-the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 4 — First Words —
+the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** two letters at the start of a
 word where you hear BOTH sounds, sliding together — sk in skip,
 cl in clock.
@@ -16,6 +17,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The s-set blends** — sk (skip, sky) · sn (snail, snake) · st (strong, star) · sw (swing, swim) — two sounds at a word's start, both heard, sliding together; the opening lines name both sets before the s-set is practised, and are kept here whole. (Was part of depth Level 1 — the basics.)
+2. **The l-set blends** — cl (clock) · bl (black) · fl (flag) · sl (slide) — and the book drops each blend inside whole words, then sentences. (Was part of depth Level 1 — the basics.)
+3. **The cover test** — cover the second letter: in a blend the first sound is still there in the word — s is really in "skip"; in a two-letter sound like ch it is not. (Was part of depth Level 1 — the basics.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Blending sounds (sliding single sounds together) and Two-letter

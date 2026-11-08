@@ -1,11 +1,12 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Stress and intonation
 
 **Course:** English · **Title:** Phonics · **Lesson:** Stress and intonation
-**Place in the curriculum:** Level 3, "Sounds Together"
-— inside the level with Blending sounds, Silent letters
+**Place in the curriculum:** Unit 3 — Sounds Together
+— inside the unit with Blending sounds, Silent letters
 and The three sounds of -ed (CURRICULUM.md;
 CATCH-UP-PLAN.md places the pronunciation extensions
-inside Level 3).
+inside Unit 3).
 **The one thing this lesson teaches:** the music over
 the sounds — every long word has ONE syllable that
 stands out (word stress); every sentence leans on its
@@ -23,6 +24,19 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Word stress** — one syllable in every long word stands out; India's way of marking it — the ´ mark: ´manner, camel, balloon — and counting syllables by vowel sounds. (Was depth Level 1 — word stress.)
+2. **Sentence stress** — the sentence leans on its content words (nouns, verbs, adjectives, adverbs) while its structure words shrink; emphatic stress pushes one word harder to correct or contrast. (Was part of depth Level 2 — sentence stress and the schwa.)
+3. **The schwa** — the quick, relaxed "uh" (ə) that lives in unstressed syllables and small words — banana, sofa, the, to, of — and its weak forms and elision. (Was part of depth Level 2 — sentence stress and the schwa.)
+4. **The tune at the end** — intonation in Vietnam's system: falling for statements, commands, lists and Wh- questions; rising for yes/no questions; fall-rise for invitations, suggestions and polite requests; choice questions up then down; the tag-question choice. (Was depth Level 3 — the tunes.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Blending sounds and Two-letter

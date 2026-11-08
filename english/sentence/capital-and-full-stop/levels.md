@@ -1,24 +1,27 @@
-# Capital letter and full stop — questions by level
+# Capital letter and full stop — sub lessons and depth
 
-Practice by level, tied to the skill number. The questions live in
-the type files; this file is the by-level view. The levels are the
-depths inside this one thing — the sentence's dress — set by the
-pattern across the countries' books: the two edges first, then
-the always-capital names, then whole bare texts dressed.
+This file is the lesson's depth record, re-expressed as its SUB
+LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub
+Lessons"). Practice is tied to the skill number, as before. The
+questions live in the type files; this file is the by-sub-lesson
+view. The sub lessons are the depths inside this one thing — the sentence's dress — the two edges first, then the always-capital names, then whole bare texts dressed.
 
-## Level 1 — the two edges
-Level 1 questions from the type files. Pass mark: open with a
+Mapping from the old depth layers: old Level 1 = Sub lesson 1;
+old Level 2 = Sub lesson 2; old Level 3 = Sub lesson 3.
+
+## Sub lesson 1 — The Two Edges
+Sub lesson 1 questions from the type files. Pass mark: open with a
 capital and close with a full stop on every sentence you write
 or fix, without one miss.
 
-## Level 2 — the names
-Level 2 questions from the type files. Pass mark: dress the
+## Sub lesson 2 — The Names
+Sub lesson 2 questions from the type files. Pass mark: dress the
 names of persons, places, days, and months wherever they stand,
 and leave kinds (girl, city, day) small — name-vs-kind judged
 right every time.
 
-## Level 3 — whole texts
-Level 3 questions from the type files. Pass mark: dress a bare
+## Sub lesson 3 — Whole Texts
+Sub lesson 3 questions from the type files. Pass mark: dress a bare
 paragraph of three-plus sentences fully — openings, stops,
 names — and close a written question with a question mark
 instead of a stop.

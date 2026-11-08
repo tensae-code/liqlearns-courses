@@ -18,6 +18,9 @@ your hands: NOW (present actions), BEFORE (past actions),
 LATER (this lesson).
 
 ## Then the explanation
+
+## Sub lesson 1 — The Frame
+
 **The frame.** Bolivia's book tables it whole — affirmative,
 negative, interrogative, short answers, for all persons, on
 the verb *visit*: **subject + be + going to + verb**.
@@ -29,6 +32,8 @@ the verb stands at its **base**: visit, go, study — never
 the future mark; the verb stays plain. Its own completion
 exercise runs the frame on real plans: "My parents **are
 going to go** shopping on Sunday."
+
+## Sub lesson 2 — The Two Jobs
 
 **Its two jobs.** The book's note names them: **a future
 idea, an intention, or a prediction.**
@@ -47,6 +52,8 @@ do?" — and short answers ride be: "Yes, I am." "No, they
 aren't." Negatives put not after be: "He **isn't** going to
 come." Bolivia follows the table with interviews about
 future plans — the frame exists to be asked with.
+
+## Sub lesson 3 — The Borders
 
 **The neighbours, named honestly.** Two other futures stand
 near, and the books keep them apart. **Will** (Mongolia's

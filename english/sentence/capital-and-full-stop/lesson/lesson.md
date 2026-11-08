@@ -19,6 +19,9 @@ edges: a tall letter at the opening, a stop at the close.
 That dressing is this lesson, and it is only two marks deep.
 
 ## Then the explanation
+
+## Sub lesson 1 — The Two Edges
+
 **The opening capital.** Ghana's curriculum states the rule
 as a strand of its own: capitals serve "to begin the first
 word of a sentence." Whatever the word is — the, Mita, it —
@@ -32,6 +35,8 @@ with **.** — full stop. It is the written form of the rest
 your voice takes at the end of a whole thought (the previous
 lesson): the thought finishes, the stop marks the finish.
 
+## Sub lesson 2 — The Names
+
 **The always-capital names.** Some words wear capitals
 wherever they stand in the sentence. Bangladesh's grammar
 focus box lists them: **capital letters for the names of
@@ -43,6 +48,8 @@ So: **Mita** (a person), **Dhaka** (a place), **Friday** (a
 day), **January** (a month) — tall anywhere. But "girl,"
 "city," "day" — kinds, not names — stay small. A name picks
 out ONE; a kind covers many. Only the name wears the capital.
+
+## Sub lesson 3 — Whole Texts
 
 **The sibling mark.** A written question closes with **?**
 instead of the stop: "What's the time?" Bangladesh's very
