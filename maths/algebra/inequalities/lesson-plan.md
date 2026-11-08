@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Inequalities
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Inequalities
-**Place in the curriculum:** Level 23 of the maths course — the third lesson of Stage 6 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Inequalities
+**Place in the curriculum:** Level 23 of the maths course — the third lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** inequalities — saying less than and greater than, solving them like equations, and showing the answer on a number line.
 **This lesson's own level:** it stands on equations (Level 22) — the same moves, with one new rule — and on comparing-and-ordering (Stage 1). It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Inequality Symbols and the Number Line** — the four symbols, turning a situation into an inequality, and showing it on a number line with the right circle. (Was depth Level 1.)
+2. **Solving One-Variable Inequalities** — solving by the same moves as equations, flipping the symbol when multiplying or dividing by a negative, and the no-solution and every-number cases. (Was depth Level 2.)
+3. **Compound and Two-Variable Inequalities** — splitting a compound inequality into two and intersecting the answers, and graphing a two-variable inequality. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: equations — balancing both sides. Recommended, never forced.

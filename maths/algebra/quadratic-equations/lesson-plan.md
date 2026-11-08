@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Quadratic Equations
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Quadratic Equations
-**Place in the curriculum:** Level 25 of the maths course — the fifth lesson of Stage 6 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Quadratic Equations
+**Place in the curriculum:** Level 25 of the maths course — the fifth lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** quadratic equations — solving ax² + bx + c = 0 by factorising, by completing the square, and by the formula.
 **This lesson's own level:** it stands on expressions (Level 21) — factorising — and on equations (Level 22) — balancing. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Solving Quadratics by Factorising** — recognising a quadratic and its coefficients, factorising it, and giving both roots from the product-equals-zero rule. (Was depth Level 1.)
+2. **Solving Quadratics by Completing the Square** — turning x² + bx into (x + b/2)² minus (b/2)², and solving by taking square roots of both sides. (Was depth Level 2.)
+3. **The Quadratic Formula and the Discriminant** — writing down a, b and c with their signs, applying the formula, and reading the number of roots off the discriminant before solving. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: expressions — factorising trinomials; equations — solving in one variable. Recommended, never forced.

@@ -1,6 +1,6 @@
 # Simultaneous Equations — the lesson
 
-Course: Maths · Stage 6 · Lesson: Simultaneous Equations
+Course: Maths · Unit 6 · Lesson: Simultaneous Equations
 Built from: Kazakhstan, Grade 6 (Atamura 2018), Grade 7 Algebra (Mektep 2017) and Grade 9 Algebra (Astana-kitap 2023) — Jordan, Grade 8 Term 2 — Libya, Grade 9 — Greece, Grade 9 — Vietnam, Grade 9 — Mauritania, 5AS-LO
 
 ## Do it first
@@ -12,7 +12,7 @@ Grade 9 opener — a price puzzle solved first by a bar model, and
 only then algebraically. You have just solved a system by guessing
 well. The methods below do the same thing without the guessing.
 
-## Then the explanation
+## Sub lesson 1 — Systems and the Graphical Method
 **What a system is.** A system is two (or more) equations that must
 hold **at the same time**. A solution is a pair — an ordered pair
 (x, y) — that makes **both** equations true at once. One equation
@@ -33,6 +33,8 @@ it: put the pair into **both** equations. If the lines are parallel,
 they never cross — no solution. If they are the same line, every
 point on it fits — infinitely many solutions.
 
+## Sub lesson 2 — Solving by Substitution
+
 **Substitution.** Express one variable from one equation and put it
 into the other. Kazakhstan's Grade 6 example: from x = 7 − 5y,
 substitute into the other equation and solve −7y + 42 = 0, giving
@@ -42,6 +44,8 @@ substitution as its second method, after the graphical one, and
 Kazakhstan's Grade 9 book adds symmetric systems: with p = x + y
 and t = xy, a system like x + y = 5, xy = 6 is solved through the
 quadratic z² − 5z + 6 = 0.
+
+## Sub lesson 3 — Solving by Elimination
 
 **Elimination.** Add or subtract the equations so that one variable
 cancels. Kazakhstan's Grade 6 book gives the five-step algorithm:

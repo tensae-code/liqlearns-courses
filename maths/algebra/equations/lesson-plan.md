@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Equations
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Equations
-**Place in the curriculum:** Level 22 of the maths course — the second lesson of Stage 6 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Equations
+**Place in the curriculum:** Level 22 of the maths course — the second lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving equations in one variable — balancing both sides until the unknown stands alone.
 **This lesson's own level:** it stands on expressions (Level 21) and on the four operations (Stages 2–3). It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **One-Step Equations and Balancing** — what an equation and its root are, and solving one-step equations by balancing both sides, checked by substitution. (Was depth Level 1.)
+2. **Two-Step and Multi-Step Equations** — collecting the x-terms on one side and the numbers on the other, and the no-root and every-number cases. (Was depth Level 2.)
+3. **Brackets, Fractions and Word Problems** — clearing brackets and fractions before solving, and turning a word problem into an equation and checking it against the story. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: expressions — simplifying and expanding before you solve. Recommended, never forced.

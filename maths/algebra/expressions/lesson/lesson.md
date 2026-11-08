@@ -1,6 +1,6 @@
 # Expressions — the lesson
 
-Course: Maths · Stage 6 · Lesson: Expressions
+Course: Maths · Unit 6 · Lesson: Expressions
 Built from: Kazakhstan, Grade 6 (Atamura 2018) and Grade 7 Algebra (Mektep 2017) — Jordan, Grade 7 Term 1 — Armenia, Grade 7 — Greece, Grade 9 — South Africa, Grade 8 Book 1 and Grade 9 Books 1–2 — Egypt, Grade 6 Term 1 and Grade 8 Term 1 — Libya, Grade 9 — Vietnam, Grades 7–8 — Ghana, JICA Basic 5 teacher manual (teacher evidence only)
 
 ## Do it first
@@ -10,7 +10,7 @@ number. I multiply it by itself." That is x². You have just written
 your first algebraic expressions — number sentences with a letter
 standing in for a number you do not know yet.
 
-## Then the explanation
+## Sub lesson 1 — Terms and Like Terms
 **Terms, coefficients, variables.** An expression is built from
 **terms** joined by + and −. In 3x² − x + 2, the terms are 3x², −x
 and 2. The letter is the **variable**; the number in front of it is
@@ -30,6 +30,8 @@ multiplication. Substituting checks your simplifying: 3x² − x + 2
 when x = 2 is 3 × 4 − 2 + 2 = 12, which is South Africa's own worked
 example.
 
+## Sub lesson 2 — Expanding Brackets
+
 **Expanding brackets.** The distributive law: a(b + c) = ab + ac.
 The multiplier reaches **every** term inside. 2(x + 3) = 2x + 6.
 4(−2 + 3a − 5b) = −8 + 12a − 20b — Kazakhstan's Grade 6 lead-in,
@@ -39,6 +41,8 @@ brackets multiplies every term by every term: (x + 2)(x + 3) =
 x² + 5x + 6. South Africa's Grade 9 book spends four continued
 worksheets on the product of two binomials, including squaring
 binomials such as 2(x − 6)².
+
+## Sub lesson 3 — Factorising
 
 **Factorising.** Factorising is expanding backwards. Take out the
 common factor: 6x + 9 = 3(2x + 3). Group: ax + ay + bx + by =

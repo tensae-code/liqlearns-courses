@@ -1,6 +1,6 @@
 # Quadratic Equations — the lesson
 
-Course: Maths · Stage 6 · Lesson: Quadratic Equations
+Course: Maths · Unit 6 · Lesson: Quadratic Equations
 Built from: Kazakhstan, Grade 8 Algebra (Atamura 2018) — Jordan, Grade 9 Term 1 — Egypt, Grade 8 Term 1 — Greece, Grade 9 — Libya, Grade 10 Part 2 — Armenia, Grade 8 — Vietnam, Grade 9 — Sierra Leone, JSS 3 and SSS 1 — South Africa, Grade 9 Books 1–2 (factorising route only)
 
 ## Do it first
@@ -11,7 +11,7 @@ Grade 9 opener, and it is a quadratic equation: an equation with
 x² in it. Work out f(0) before you read on: it is 2, the height the
 discus leaves the hand.
 
-## Then the explanation
+## Sub lesson 1 — Solving Quadratics by Factorising
 **What a quadratic is.** A quadratic equation has the form
 ax² + bx + c = 0, with a ≠ 0. The numbers a, b and c are its
 coefficients: a is the x² coefficient, b the x coefficient, c the
@@ -35,6 +35,8 @@ Jordan's Grade 9 book spends two lessons on factorising: common
 factor and grouping first, then trinomials and difference of two
 squares.
 
+## Sub lesson 2 — Solving Quadratics by Completing the Square
+
 **Completing the square.** When a quadratic does not factorise
 neatly, complete the square. x² + 6x: half of 6 is 3, and 3² is 9,
 so x² + 6x = (x + 3)² − 9. The added 9 must be taken away again.
@@ -46,6 +48,8 @@ the square its own lesson, after factorising and before the formula.
 Kazakhstan's Grade 8 book derives the root formula from completing
 the square — the formula is not a separate magic trick, it is the
 square completed once and for all.
+
+## Sub lesson 3 — The Quadratic Formula and the Discriminant
 
 **The formula and the discriminant.** For ax² + bx + c = 0,
 x = (−b ± √(b² − 4ac)) / 2a. Write a, b and c down first, with

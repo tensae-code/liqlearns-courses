@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Simultaneous Equations
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Simultaneous Equations
-**Place in the curriculum:** Level 24 of the maths course — the fourth lesson of Stage 6 (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Simultaneous Equations
+**Place in the curriculum:** Level 24 of the maths course — the fourth lesson of Unit 6 (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** simultaneous equations — two equations, two unknowns, and the one pair that satisfies both at once.
 **This lesson's own level:** it stands on equations (Level 22) — each equation alone is already solvable — and on coordinates-and-graphs, which comes later in the course but is used here only as a picture. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Systems and the Graphical Method** — what a system's solution is, and drawing both lines and reading the crossing point, checked in both equations. (Was depth Level 1.)
+2. **Solving by Substitution** — expressing one variable from one equation, substituting it into the other, and solving the one-variable equation that results. (Was depth Level 2.)
+3. **Solving by Elimination** — adding or subtracting to cancel one variable (multiplying first where needed), and the no-solution and infinite-solutions cases. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: equations — solving one equation in one unknown. Recommended, never forced.

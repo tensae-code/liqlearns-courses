@@ -1,6 +1,6 @@
 # Equations — the lesson
 
-Course: Maths · Stage 6 · Lesson: Equations
+Course: Maths · Unit 6 · Lesson: Equations
 Built from: Kazakhstan, Grade 6 (Atamura 2018) — Jordan, Grade 7 Term 1 — Greece, Grade 7 and Grade 8 — South Africa, Grade 8 Book 1 and Grade 9 Book 1 — Armenia, Grade 7 — Egypt, Grade 6 Term 1 and Grade 8 Term 2 — Libya, Grade 9 — Vietnam, Grade 8 — Sierra Leone, JSS 2 and JSS 3 — Ghana, JICA Basic 5 teacher manual (teacher evidence only)
 
 ## Do it first
@@ -10,7 +10,7 @@ is level. How heavy is the bag? Take 5 from both sides and the bag
 stands alone: −9. You have solved x + 5 = −4 — South Africa's Grade
 8 book works this exact equation as its balancing example.
 
-## Then the explanation
+## Sub lesson 1 — One-Step Equations and Balancing
 **What an equation is.** An equation is a statement that two things
 are equal, with an unknown inside it. In ax + b = 0, a is the
 coefficient of the variable and b is the free term. The **root** is
@@ -32,6 +32,8 @@ number — and warns that multiplying both sides by 0 destroys
 equivalence. Check by substitution: put the root back in and the
 two sides must give the same number.
 
+## Sub lesson 2 — Two-Step and Multi-Step Equations
+
 **Multi-step equations.** Collect the x-terms on one side and the
 numbers on the other, then divide by the coefficient. Kazakhstan's
 worked self-check: 8x − 9 = 3x + 8. Move 3x left (it becomes −3x)
@@ -47,6 +49,8 @@ x = −b/a; if a = 0 and b ≠ 0, no root — the solution set is empty;
 if a = 0 and b = 0, every number is a root. So 0x = 4 has no answer,
 and 0x = 0 has every answer. Sorting equations into "no root" and
 "every number is a root" is one of Kazakhstan's exercises.
+
+## Sub lesson 3 — Brackets, Fractions and Word Problems
 
 **Brackets and fractions.** Clear them first. Expand the brackets,
 then collect. With fractions, multiply everything through by the

@@ -1,6 +1,6 @@
 # Inequalities — the lesson
 
-Course: Maths · Stage 6 · Lesson: Inequalities
+Course: Maths · Unit 6 · Lesson: Inequalities
 Built from: Kazakhstan, Grade 6 (Atamura 2018) and Grade 8 Algebra (Atamura 2018) — Jordan, Grade 8 Term 2 and Grade 9 Term 1 — Egypt, Grade 6 Term 1, Grade 7 Term 2 and Grade 8 Term 2 — Greece, Grade 8 and Grade 9 — Armenia, Grade 8 — Vietnam, Grade 9 — Sierra Leone, JSS 3 — Libya, Grade 11 — Mauritania, 5AS-LO
 
 ## Do it first
@@ -10,7 +10,7 @@ you read on: age ≥ 18, age ≥ 12, weight ≤ 20. You have just written
 inequalities — statements that one thing is less than, greater than,
 or equal to another, instead of exactly equal to it.
 
-## Then the explanation
+## Sub lesson 1 — Inequality Symbols and the Number Line
 **Symbols and situations.** Four signs: < less than, > greater than,
 ≤ less than or equal to, ≥ greater than or equal to. Egypt's Grade 7
 book starts from situations: a driving-licence age of 18 or over, a
@@ -31,6 +31,8 @@ lesson. Intervals say the same thing in writing: x > 2 is ]2, ∞[,
 x ≤ 3 is ]−∞, 3]. Jordan's Grade 9 book opens its inequalities unit
 with sets and intervals for exactly this reason.
 
+## Sub lesson 2 — Solving One-Variable Inequalities
+
 **Solving.** Solve like an equation, with one new rule. Add or
 subtract the same number on both sides: the sign stays. Multiply or
 divide by a **positive** number: the sign stays. Multiply or divide
@@ -45,6 +47,8 @@ Worked cases from Kazakhstan: 5x − 1 ≥ 3x + 7 gives x ≥ 4; x/2 −
 5x/3 > 7 gives x < −6 (clear the fractions by multiplying by 6).
 And the edge cases, as in equations: 0x > 9 has no solutions, and
 0x > −9 is true for every number.
+
+## Sub lesson 3 — Compound and Two-Variable Inequalities
 
 **Compound inequalities.** Two signs at once: 3 ≤ x ≤ 7 means x ≥ 3
 **and** x ≤ 7. Split it into two, solve each, and take the
