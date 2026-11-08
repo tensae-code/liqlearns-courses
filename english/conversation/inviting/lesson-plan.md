@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Inviting
 
 **Course:** English · **Title:** Conversation · **Lesson:** Inviting
-**Place in the curriculum:** Level 5, "Conversation" (CURRICULUM.md).
+**Place in the curriculum:** Unit 5 — Conversation (CURRICULUM.md).
 **The one thing this lesson teaches:** inviting — asking
 someone to come with you or to your event ("Would you like
 to come?"), and the two true answers: accepting gladly
@@ -13,6 +15,19 @@ the cinema, a match, shopping or a party with the plan +
 "Would you like to come?"; accept an invitation gladly;
 decline one kindly, with a reason; and write a short
 invitation message or birthday card.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The invitation, plan first** — what an invitation is, and its shape: the plan in "going to" first, then "Would you like to come?" (Was part of depth Level 1.)
+2. **Accepting gladly, I'd love to** — the glad answer: "Yes, please. I'd love to" — with Malaysia's telephone invitation as its listening model. (Was part of depth Level 1.)
+3. **Declining kindly, sorry, wish, can't** — the kind refusal in three parts — sorry, the wish ("I'd like to"), the can't, and a true reason. (Was depth Level 2.)
+4. **The invitation on paper** — the invitation in its written dresses — informal email, formal card — always carrying its four facts: who, what, when, where. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - If you know Making offers, this will feel easier — an

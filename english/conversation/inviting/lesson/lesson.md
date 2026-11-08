@@ -27,7 +27,7 @@ You just did the whole lesson. Now let's see how it works.
 out to her friend — say the invitation out loud, plan first,
 before you read on]
 
-## Then the explanation
+## Sub lesson 1 — The invitation, plan first
 An **invitation** is an offer of a plan: *I am going — will
 you come with me?* Syria's Starters 5 book gives it a full
 unit (Unit 21, "Making invitations") and its Study Box holds
@@ -40,12 +40,14 @@ question rides on it. The book's next unit (Unit 24) keeps
 the same plans warm — what you are doing tomorrow, when you
 are going — the invitation's home ground.
 
+## Sub lesson 2 — Accepting gladly, I'd love to
 **Accepting, gladly.** "Yes, please. I'd love to." Not a flat
 "okay" — the glad answer says the wish: *I'd love to*.
 Malaysia's Form 1 book teaches accepting invitations with
 set expressions, in a telephone invitation you listen to and
 then play yourself (Chapter 5).
 
+## Sub lesson 3 — Declining kindly, sorry, wish, can't
 **Declining, kindly — three parts.** "I'm sorry. I'd like
 to, but I'm afraid I can't." Sorry first; then the wish
 (*I'd like to* — you wanted to come); then the can't, and
@@ -59,6 +61,7 @@ Dagmer invites Maydee to play volleyball and visit a friend,
 in the same lesson where Hugo's dialogue teaches the offer
 — the two shapes side by side, as the filing gives them.
 
+## Sub lesson 4 — The invitation on paper
 **The invitation on paper.** Nepal's Grade 8 book gives
 invitations a whole unit (Unit 10): you hear a party
 invitation, speak invitations and responses, read an
