@@ -27,6 +27,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 1. **Multiplication Equal Groups and the First Tables** — explain multiplication as equal groups, and know the tables for 2, 3, 4 and 5. (The tables part's opening paragraph runs on to the tables for 6 to 9 in one breath and is kept whole here; the 6s to 9s table lines stand in Sub lesson 2.) (Was depth Level 1.)
 2. **Multiplication The Tables to Nine and Columns** — know the tables for 6, 7, 8 and 9, and multiply two-digit numbers by one digit in columns. (The columns part's opening also names the three-digit work; its three-digit worked example stands in Sub lesson 3.) (Was depth Level 2.)
 3. **Multiplication Three Digits, Tens and Hundreds** — multiply three-digit numbers by one digit in columns, and multiply by tens and hundreds. (Was depth Level 3.)
+4. **Big Multiplication: Partial Products, To a Million and Beyond** — two-digit multipliers by partial products (Saudi Arabia Grade 4; Pakistan Grade 4's grid), multiplying to 10,000 (Ethiopia Grade 3) and to 1,000,000 with 2-digit and larger multipliers (Ethiopia Grade 4), and beyond 1,000,000 by a multi-digit multiplier using partial products (Rwanda Primary 6). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the old text taught the method whole but stopped at three digits × one digit.)
 
 Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
@@ -39,6 +40,9 @@ Gate pool: all questions of the sub lesson (no hardness ranking is written in th
 2. Know the times tables for 2, 3, 4 and 5, and for 6, 7, 8 and 9.
 3. Multiply a two-digit or three-digit number by a one-digit number in columns (23 × 4 = 92; 132 × 3 = 396).
 4. Multiply by tens and hundreds (30 × 4 = 120; 300 × 4 = 1,200).
+5. Multiply by a two-digit multiplier in partial products, and
+   carry the work to 1,000,000 and beyond (12,406 × 23 =
+   285,338; 48,215 × 32 = 1,542,880).
 
 ## What you need
 Counters or stones; a multiplication table grid.

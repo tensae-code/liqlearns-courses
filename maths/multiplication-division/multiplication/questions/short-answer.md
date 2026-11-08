@@ -1,6 +1,6 @@
 # Multiplication — short answer
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Multiplication Equal Groups and the First Tables · (Level 2) -> Sub lesson 2 — Multiplication The Tables to Nine and Columns · (Level 3) -> Sub lesson 3 — Multiplication Three Digits, Tens and Hundreds.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Multiplication Equal Groups and the First Tables · (Level 2) -> Sub lesson 2 — Multiplication The Tables to Nine and Columns · (Level 3) -> Sub lesson 3 — Multiplication Three Digits, Tens and Hundreds. Sub lesson 4 — Big Multiplication: Partial Products, To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Answer in a word or a short line.
 
@@ -21,3 +21,9 @@ Answer in a word or a short line.
 
 **6. (Sub lesson 3)** Multiply: 70 × 8.
 **Answer:** 560 — 7 tens × 8 = 56 tens.
+
+**7. (Sub lesson 4)** Multiply 132 × 24 by partial products, showing both parts.
+**Answer:** 132 × 20 = 2,640 and 132 × 4 = 528; 2,640 + 528 = 3,168.
+
+**8. (Sub lesson 4)** Multiply 2,435 × 4 in columns.
+**Answer:** 9,740 — Ethiopia's Grade 3 band (multiplying to 10,000), in the same columns as 132 × 3.

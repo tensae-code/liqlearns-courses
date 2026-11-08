@@ -1,6 +1,6 @@
 # Multiplication — multiple choice
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Multiplication Equal Groups and the First Tables · (Level 2) -> Sub lesson 2 — Multiplication The Tables to Nine and Columns · (Level 3) -> Sub lesson 3 — Multiplication Three Digits, Tens and Hundreds.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Multiplication Equal Groups and the First Tables · (Level 2) -> Sub lesson 2 — Multiplication The Tables to Nine and Columns · (Level 3) -> Sub lesson 3 — Multiplication Three Digits, Tens and Hundreds. Sub lesson 4 — Big Multiplication: Partial Products, To a Million and Beyond — was added 2026-11-08 under the whole-arc rule.
 
 Pick the one right answer.
 
@@ -35,3 +35,11 @@ a) 34  b) 120  c) 1,200
 **8. (Sub lesson 3)** 300 × 4 = ______.
 a) 120  b) 1,200  c) 12,000
 **Answer:** b) 1,200 — 3 hundreds × 4 = 12 hundreds.
+
+**9. (Sub lesson 4)** By partial products, 23 × 14 = ______.
+a) 322  b) 312  c) 232
+**Answer:** a) 322 — 23 × 10 + 23 × 4 = 230 + 92.
+
+**10. (Sub lesson 4)** 12,406 × 23 = ______.
+a) 285,338  b) 258,338  c) 285,328
+**Answer:** a) 285,338 — 248,120 + 37,218 (Ethiopia's Grade 4 band: to 1,000,000 with 2-digit multipliers).

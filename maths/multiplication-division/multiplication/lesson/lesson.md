@@ -74,6 +74,34 @@ Grade 4 book teaches finding the second factor from the product
 and a factor (§5, p.25) — multiplication undone by division,
 which is the next lesson.
 
+## Sub lesson 4 — Big Multiplication: Partial Products, To a Million and Beyond
+**Two-digit multipliers — split and add.** A multiplier with
+two digits is worked in parts: multiply by its tens, multiply
+by its ones, and add the two **partial products**. Saudi
+Arabia's Grade 4 book teaches two-digit × two-digit by partial
+products (Ch. 6, printed pp.175–193), and Pakistan's Grade 4
+book works the same split on a place-value grid (Unit 1,
+printed pp.22–34):
+
+23 × 14 = 23 × 10 + 23 × 4 = 230 + 92 = 322.
+132 × 24 = 132 × 20 + 132 × 4 = 2,640 + 528 = 3,168.
+
+**Bigger numbers, same split.** Ethiopia's Grade 3 book
+multiplies to 10,000 (ch. 5, printed pp.87–99) — 2,435 × 4 =
+9,740 in the same columns as before — and its Grade 4 book
+multiplies to 1,000,000 with 2-digit and larger multipliers
+(ch. 4, printed pp.83–106):
+
+12,406 × 23 = 12,406 × 20 + 12,406 × 3
+            = 248,120 + 37,218 = 285,338.
+
+Rwanda's Primary 6 book carries the split past a million:
+numbers beyond 1,000,000 multiplied by a multi-digit
+multiplier using partial products (Unit 1, printed
+pp.20–22) — 48,215 × 32 = 1,446,450 + 96,430 = 1,542,880.
+Nothing new is needed: split the multiplier, multiply each
+part, add.
+
 ## Say it to your companion
 Your companion calls a table fact: "6 × 7." Answer from the
 table: "42." They call "23 × 4": write it in columns and say
@@ -86,3 +114,5 @@ by dividing.
 2. In columns: 23 × 4; 41 × 6; 35 × 7; 62 × 5.
 3. In columns: 132 × 3; 241 × 4; 305 × 6.
 4. By tens and hundreds: 30 × 4; 70 × 8; 300 × 4; 500 × 3.
+5. By partial products: 23 × 14; 132 × 24; 12,406 × 23;
+   48,215 × 32.
