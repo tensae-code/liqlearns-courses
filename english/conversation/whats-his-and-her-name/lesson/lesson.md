@@ -13,18 +13,21 @@ or "What's his name?" if it is a boy or a man. Answer about them.
 
 You just did the whole lesson. Now let's see how it works.
 
-## Then the explanation
+## Sub lesson 1 — Her name
 So names have three doors. "What's your name?" opens the door to
 the person in front of you. But when the person is over there —
 not part of the talk — the question changes by one small word:
 
 - For a girl or a woman: **"What's her name? — Muna."**
+
+## Sub lesson 2 — His name
 - For a boy or a man: **"What's his name? — Kareem."**
 
 Her goes with her — a girl, a woman. His goes with him — a boy, a
 man. Pick the wrong one and you are pointing at the wrong person,
 so the small word does real work.
 
+## Sub lesson 3 — The answer is just the name
 And notice: the answer here is just the name — "Muna." — not the
 full "My name is" sentence. You are not that person, so you cannot
 say "my" for them. You only carry their name across.

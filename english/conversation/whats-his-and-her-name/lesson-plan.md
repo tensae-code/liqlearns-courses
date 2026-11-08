@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — What's his and her name?
 
 **Course:** English · **Title:** Conversation · **Lesson:** What's his
 and her name?
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** asking the name of ANOTHER
 person — "What's her name?" for a girl or woman, "What's his name?"
@@ -17,6 +19,18 @@ while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Her name** — asking about a girl or a woman: "What's her name?" — and how this question differs from "What's your name?" (Was part of depth Level 1.)
+2. **His name** — asking about a boy or a man: "What's his name?"; the her/his contrast paragraph sits here and covers both words, so it overlaps Sub lesson 1. (Was part of depth Level 1.)
+3. **The answer is just the name** — the answer carries the person's name only — never "My name is" for someone else. (Was part of depth Level 1.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Hello and your name: "What's your name?" is the first door; this
