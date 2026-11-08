@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Parametric Equations
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Parametric Equations
-**Place in the curriculum:** Level 97 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Parametric Equations
+**Place in the curriculum:** Level 97 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** parametric equations and parametric curves — a curve given by x = f(t), y = g(t) as a parameter travels: plotting it point by point, eliminating the parameter, the slope dy/dx, and the projectile motion the books work in full.
 **This lesson's own level:** it stands on the functions lesson and the coordinates-and-graphs lesson — the learner can already read (x, y) points and a function's graph. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Plotting and Eliminating the Parameter** — plotting a parametric curve from a table, and eliminating the parameter to get a Cartesian equation. (Was depth Level 1.)
+2. **Circles, Ellipses and the Slope** — parametric circles and ellipses, and the slope dy/dx through the parameter. (Was depth Level 2.)
+3. **Projectile Motion** — projectile motion worked whole, with Cambodia's v₀ = 48 cm/s taught corrected. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the functions lesson and the coordinates-and-graphs lesson (a parametric curve is a moving point (x, y)). Recommended, never forced.

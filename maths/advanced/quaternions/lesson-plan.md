@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Quaternions
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Quaternions
-**Place in the curriculum:** Level 99 of 136, Stage 12 — Advanced Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Quaternions
+**Place in the curriculum:** Level 99 of 136, Unit 12 — Advanced Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** quaternions as an extended reading — numbers a + bi + cj + dk with three imaginary units i, j, k obeying i² = j² = k² = −1, added part by part, multiplied by a table in which the order matters: ij = k but ji = −k.
 **This lesson's own level:** it stands on the complex-numbers lesson — the learner already knows i² = −1 and the form a + bi. It needs nothing else. It is a small, honest lesson: its only source is a two-page extended reading, and it is built at that size.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Form and the Defining Rules** — the form a + bi + cj + dk, its four parts, and the defining rules i² = j² = k² = −1 with the cycle ij = k, jk = i, ki = j. (Was depth Level 1.)
+2. **Addition and the Multiplication Table** — addition and subtraction part by part, and the multiplication table worked in full — the reversed products and two quaternions multiplied in both orders. (Was depth Level 2.)
+3. **Conjugate and Modulus** — the conjugate and the modulus, and where the reading ends. (Non-commutativity — the first part of the old Layer 3 title — is worked in Sub lesson 2's text, where the lesson multiplies in both orders; this sub lesson's questions return to it.) (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the complex-numbers lesson (a quaternion is the complex idea pushed one step further: one imaginary unit becomes three). Recommended, never forced.

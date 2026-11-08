@@ -1,22 +1,24 @@
 # Parametric Equations — the lesson
 
-Course: Maths · Stage: Stage 12 — Advanced Mathematics · Lesson: Parametric Equations
+Course: Maths · Unit: Unit 12 — Advanced Mathematics · Lesson: Parametric Equations
 Built from: Cambodia, Grade 12 Advanced student book and its teacher guide — Mauritania, Mathématiques 7ème AS série C (7AS-C)
 
 ## Do it first
 Take x = t and y = t². For t = −2, −1, 0, 1, 2 the points are (−2, 4), (−1, 1), (0, 0), (1, 1), (2, 4). Plot them: a parabola, drawn not by an equation linking x and y directly, but by a third quantity — t — driving both coordinates at once. Cambodia's Grade 12 Advanced book opens its parametric chapter with exactly this example (Ch.9, printed p.235), and Mauritania's final-year C-stream book gives parametric curves a chapter of their own, "Courbes paramétrées" (7AS-C, Ch.13, printed p.159). That driving third quantity is the subject of this lesson.
 
-## Then the explanation
+## Sub lesson 1 — Plotting and Eliminating the Parameter
 **What a parameter is.** A curve given **parametrically** is a set of points (x, y) = (f(t), g(t)) as t runs over an interval I: two equations, x = f(t) and y = g(t), one point for each value of the **parameter** t. Cambodia's teacher guide for the chapter states the objectives plainly: define parametric equations of a curve, and convert parametric equations to Cartesian equations (guide, printed pp.227–236). The parameter is often time, and that is the point: a parametric description tells you not only the path but where the traveller is at each moment, and which way it is moving — information a plain y = f(x) equation throws away.
 
 **Plotting from a table.** The working method is a table: choose t-values, compute (f(t), g(t)) for each, plot the points, join them in t-order. The chapter's opening example, x = t, y = t², plots to the parabola you drew in Do it first (Cambodia, Grade 12 Advanced, Ch.9, printed p.235). The t-interval is part of the description: the same two formulas with t ≥ 0 give only the right half of the parabola.
 
 **Eliminating the parameter.** To get the **Cartesian equation** — one equation in x and y alone — solve one parametric equation for t and substitute into the other. From x = t, substitution into y = t² gives y = x² at once (Ch.9, printed p.235). Elimination shows the path's shape; the parametric form remains the fuller description, because it keeps the journey: the interval travelled, the direction, and the position at each t.
 
+## Sub lesson 2 — Circles, Ellipses and the Slope
 **Circles and ellipses.** Cambodia's guide works the standard circular forms for this chapter: a circle as x = h + a sin θ, y = k + b cos θ for 0 ≤ θ ≤ 2π, with the ellipse (x − h)²/a² + (y − k)²/b² = 1 as its Cartesian partner (guide, printed pp.227–236). Read the parameters off: the centre is (h, k), a and b are the two radii, and squaring and adding the parametric pair returns the Cartesian ellipse — with a = b it is a circle. One parameter, θ, walks the whole closed curve, something no single y = f(x) can do, since a circle is not a function of x.
 
 **The slope of a parametric curve.** Since both coordinates move with t, the slope comes through t: dy/dx = (dy/dt) / (dx/dt), wherever dx/dt ≠ 0. For x = t, y = t²: dy/dt = 2t and dx/dt = 1, so dy/dx = 2t = 2x — the slope of y = x², recovered through the parameter. Where dx/dt = 0 the tangent is vertical; where both derivatives vanish, the curve may stop or turn back on itself — behaviour only the parametric form can show.
 
+## Sub lesson 3 — Projectile Motion
 **Projectile motion — Cambodia's worked flight.** The chapter's full application is a projectile fired at 45° (Ch.9 §9.1, printed p.236). The student book's numbers are: initial speed **v₀ = 48 cm/s** and g = 32 cm/s² (the example works in cm/s throughout — a toy scale, but internally consistent, as filed). At 45°, the two components of the velocity are both 48/√2 = 24√2, so the flight is
 
 x = 24√2 t,   y = −16t² + 24√2 t.

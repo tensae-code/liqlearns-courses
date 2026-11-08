@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Matrices
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 48 of 52
-**Place in the curriculum:** Stage 12, the third lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 48 of 52
+**Place in the curriculum:** Unit 12, the third lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** matrices — arranging numbers in rows and columns, and adding, multiplying, inverting and using them to solve equations
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Matrix Is** — what a matrix is: its order, the special matrices, and adding matrices of the same order. (Was depth Level 1.)
+2. **Multiplication and Determinants** — multiplying matrices, and 2×2 and 3×3 determinants. (Was depth Level 2.)
+3. **Inverses and Solving Systems** — inverses, and solving systems by the inverse matrix, by Cramer's rule, and by the Gauss method. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the simultaneous-equations lesson (matrices solve the same systems, faster) and the sets lesson (a matrix is a table with rules). Recommended, never forced.

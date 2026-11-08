@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Logarithms and Exponentials
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 46 of 52
-**Place in the curriculum:** Stage 12, the first lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 46 of 52
+**Place in the curriculum:** Unit 12, the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** logarithms and exponentials — powers with real exponents, the exponential function, and the logarithm as its inverse, with the log laws
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Powers and the Exponential Function** — powers with real exponents and the index laws, and the exponential function, growth and decay. (Was depth Level 1.)
+2. **The Logarithm and Its Laws** — the logarithm as the inverse of the exponential, and the product, quotient and power laws. (Was depth Level 2.)
+3. **Log Functions, Graphs and Equations** — the log function and its graph as the mirror of the exponential, and exponential and logarithmic equations. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the powers-and-indices lesson and the functions lesson — logs are powers read backwards, and the log function is an inverse function. Recommended, never forced.
