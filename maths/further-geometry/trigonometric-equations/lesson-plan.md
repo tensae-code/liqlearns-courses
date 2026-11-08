@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Trigonometric equations
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Trigonometric equations
-**Place in the curriculum:** Level 73 of 136, Stage 9 — Further Geometry, after trigonometric identities (Level 72) and before inverse trigonometric functions (Level 74) (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Trigonometric equations
+**Place in the curriculum:** Level 73 of 136, Unit 9 — Further Geometry, after trigonometric identities (Level 72) and before inverse trigonometric functions (Level 74) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving trigonometric equations — the basic forms sin x = a, cos x = a, tan x = a on the unit circle, the general solution, equations that need identities or factorising, and trigonometric inequalities.
 **This lesson's own level:** it stands on trigonometric identities (Level 72) and on radian measure (Level 71) — the learner can rewrite with the chain and read angles in radians. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Basic Forms on the Unit Circle** — an equation is not an identity; sin x = a, cos x = a and tan x = a solved on [0, 2π), with the no-solution cases. (Was depth Level 1.)
+2. **The General Solution and Identity Equations** — the general solution with n ∈ ℤ, and equations solved by rewriting in one ratio, factorising or substituting. (Was depth Level 2.)
+3. **The Single-Term Form, Graphs and Inequalities** — a·cosθ ± b·sinθ = c by the single-term form, solutions read off a graph, and inequalities on the unit circle. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Trigonometric identities (Level 72, same stage) — most equations are opened up with an identity before they can be solved. Recommended, never forced.

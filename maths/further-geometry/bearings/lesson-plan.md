@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Bearings
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Bearings
-**Place in the curriculum:** Level 76 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Bearings
+**Place in the curriculum:** Level 76 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** bearings — direction measured clockwise from north and always written in three figures — reading them, drawing them, reversing them, and solving travel problems with them using Pythagoras, the trig ratios and the sine and cosine rules.
 **This lesson's own level:** it stands on right-triangle trigonometry and on the sine and cosine rules — the learner can already solve a flat triangle. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reading, Writing and Drawing Bearings** — compass bearings first, then the three-figure bearing measured clockwise from north, read, written and drawn. (Was depth Level 1.)
+2. **Reverse Bearings and Drawn Journeys** — the way back by the ±180° rule, drawn journeys, and position in distance-bearing form. (Was depth Level 2.)
+3. **Solving Bearing Problems** — closing the journey into a triangle and solving it — right triangles first, then any triangle with the sine or cosine rule. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Right-triangle trigonometry, and Sine and cosine rules. Recommended, never forced.

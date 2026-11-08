@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Fractals: shapes inside shapes
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Fractals: shapes inside shapes
-**Place in the curriculum:** Level 79 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Fractals: shapes inside shapes
+**Place in the curriculum:** Level 79 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** what a fractal is — a shape built by repeating one step forever, so the same pattern appears at every size — met through the two places China's books file it: the Sierpiński and Koch figures in a Grade 9 reading, and the Julia and Mandelbrot sets grown from z → z² + c in a senior extended reading.
 **This lesson's own level:** it stands on similarity (same shape, different size) and on a first meeting with complex numbers for the second reading. It needs nothing else. This is a readings lesson: both of its sources are filed as readings/enrichment in their books, and the lesson is built honestly at that size — it teaches what the readings teach, no more.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Self-Similarity and the Sierpiński Figures** — what a fractal is, self-similarity, and the Sierpiński triangle and carpet, counting the survivors at each step. (Was depth Level 1.)
+2. **The Koch Snowflake** — the Koch step on a segment, and how the snowflake's perimeter grows by 4/3 at every step. (Was depth Level 2.)
+3. **Iteration: Julia and Mandelbrot** — from paper to numbers — iterating z → z² + c, and how that one test grows the Julia and Mandelbrot sets. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Congruence and similarity (same stage) — a fractal is similarity repeated without end — and a first meeting with complex numbers helps for the Julia/Mandelbrot part. Recommended, never forced.

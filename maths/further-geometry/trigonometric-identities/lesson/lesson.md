@@ -1,6 +1,6 @@
 # Trigonometric identities — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Trigonometric identities
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Trigonometric identities
 Built from: Pakistan (Punjab), Class 11, Unit 10 — Libya, Grade 12 Science, Ch. 2 — Yemen, Grade 11 Science Part 2, Unit 9 — Laos, Grade 10, Ch. IX — China, Compulsory Volume 3 (B edition), §8.2 — Armenia, Grade 10, Ch. 4 — Kuwait, Grades 10 and 11 Term 2 — Vietnam, Grade 11, Bài 2 — Cambodia, Grade 11 Basic, Ch. 3 — Indonesia, Grade 11 Tingkat Lanjut Revisi — Ethiopia, Grade 10, Ch. 4 — Nicaragua, Grade 10 — Kazakhstan, Grade 9, four Algebra 9 books — Egypt, Grade 10 Term 2 and Pure Mathematics Grade 11 Term 2 — Jordan, Grade 12 Term 1 — Iran, Grades 10–12, five books
 
 ## Do it first
@@ -14,7 +14,8 @@ So **cot(−225°) = −1**. (Pakistan's Class 11 book prints 1 at
 p. 184; that is a book error, and the corrected value −1 is
 what this lesson teaches.)
 
-## Then the explanation
+## Sub lesson 1 — The Basic Identities
+
 **Identity or equation?** Nicaragua's Grade 10 book draws the
 line cleanly: an identity holds for all values in its domain,
 an equation only for some (Unit 3, printed pp. 148–155). Its
@@ -49,6 +50,8 @@ same basic set — Soltan's book lists six basic identities
 proves sin²α + cos²α = 1 from Pythagoras on the unit
 circle and numbers the family as formulas (1)–(8)
 (Algebra 9, Part 2, §22, printed p. 34).
+
+## Sub lesson 2 — The Addition Formulas
 
 **The fundamental law: cos(α − β).** Every other formula in
 this lesson is deduced from one proved formula. Pakistan's
@@ -105,6 +108,8 @@ Iran's Grade 11 Experimental book works the same ground
 on the unit circle: ratio relations for supplementary,
 complementary and negative angles (Mathematics (2), Ch. 4,
 printed pp. 77–87).
+
+## Sub lesson 3 — Double, Half, Sums to Products, and Proving
 
 **Double, half and triple.** Set β = α in the addition
 formulas and the double-angle family falls out: sin 2α =

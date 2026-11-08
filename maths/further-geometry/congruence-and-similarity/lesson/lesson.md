@@ -1,6 +1,6 @@
 # Congruence and similarity — the lesson
 
-Course: Maths · Stage 9, Further Geometry · Lesson: Congruence and similarity
+Course: Maths · Unit 9, Further Geometry · Lesson: Congruence and similarity
 Built from: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone,
 South Africa, Armenia, Greece — see lesson/sources.md for every part.
 
@@ -16,7 +16,8 @@ Now draw the same triangle again, but twice as big on every side.
 It looks the same, but it will not fit on top of the first one.
 That is **similar**: same shape, different size.
 
-## Then the explanation
+## Sub lesson 1 — Congruent Shapes
+
 **Congruent means an exact fit.** Two shapes are congruent when one
 can be picked up, turned over or turned round, and laid exactly on
 the other. Every matching side is the same length, and every
@@ -41,6 +42,8 @@ else about them matches too — so you can use it to find a missing
 side or angle. Sierra Leone's JSS 3 book works the same way with
 measurements: measure the matching lengths and angles, and if
 they all agree, the shapes are congruent.
+
+## Sub lesson 2 — Similar Shapes
 
 **Similar means the same shape, a different size.** Two shapes are
 similar when their matching angles are equal and their matching
@@ -71,6 +74,8 @@ repeats: a scout (or Thales at the pyramid) measures a tall
 thing's height from its shadow, because the small triangle made
 by a stick and its shadow is similar to the big triangle made
 by the tree and its shadow.
+
+## Sub lesson 3 — The Scale Factor on Area and Volume
 
 **What similarity does to area and volume.** This is the part
 Libya's Grade 9 book teaches in full and Egypt's Secondary 1

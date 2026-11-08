@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Right-triangle trigonometry
 
-**Course:** Maths · **Stage:** 9, Further Geometry · **Lesson:** Right-triangle trigonometry
-**Place in the curriculum:** Stage 9, the third lesson of the
+**Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Right-triangle trigonometry
+**Place in the curriculum:** Unit 9, the third lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sine, cosine and tangent
 in a right triangle — naming the sides, using the three ratios
@@ -10,6 +12,20 @@ angles of elevation and depression.
 **This lesson's own level:** it stands on Pythagoras (Stage 8)
 and on similarity (Stage 9, first lesson: the ratios are fixed
 because the triangles are similar). It needs nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Naming the Sides and the Ratios** — hypotenuse, opposite and adjacent for a marked angle, and sin, cos and tan as ratios (SOHCAHTOA). (Was depth Level 1.)
+2. **Finding Missing Sides** — choose the ratio that uses the side you know and the side you want, and find the side. (Was the first part of depth Level 2.)
+3. **Finding Angles** — work the ratio backwards with the inverse ratios to find a missing angle. (Was the first part of depth Level 3.)
+4. **The Special Angles** — the table for 30°, 45° and 60°, known by heart and read from the books' tables. (Was the second part of depth Level 2.)
+5. **Using It Outside** — the ratios at work outside the page: angles of elevation and depression — ladder, building, tree. (Was the second part of depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Pythagoras, and congruence and

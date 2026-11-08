@@ -1,6 +1,6 @@
 # Sine and cosine rules — the lesson
 
-Course: Maths · Stage 9, Further Geometry · Lesson: Sine and cosine rules
+Course: Maths · Unit 9, Further Geometry · Lesson: Sine and cosine rules
 Built from: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone,
 Vietnam, Armenia, Greece — see lesson/sources.md for every part.
 
@@ -18,7 +18,8 @@ across from angle **B**, side **c** across from angle **C**.
 Small letter, big letter, across from each other. Write that
 on your triangle before anything else.
 
-## Then the explanation
+## Sub lesson 1 — The Sine Rule
+
 **The sine rule — for matching pairs.** When you know a side
 and the angle across from it, and you want another side or
 angle, use the sine rule. Kazakhstan's Grade 9 book states it
@@ -49,6 +50,8 @@ supplement (for example, sin θ = 0.6 gives θ ≈ 37° or
 angles must add to 180°, and the biggest side must sit across
 from the biggest angle.
 
+## Sub lesson 2 — The Cosine Rule
+
 **The cosine rule — for a side between two knowns.** When you
 know two sides and the angle between them, or all three sides
 and want an angle, use the cosine rule. Kazakhstan's book
@@ -72,6 +75,8 @@ cos 60° = 25 + 49 − 70 × 0.5 = 74 − 35 = 39, so a ≈ 6.24.
 Libya's Grade 11 book teaches the same rule beside the sine
 rule, with bearings, and Sierra Leone's book practises the
 two rules together on mixed problems.
+
+## Sub lesson 3 — Area and Choosing the Rule
 
 **The area of any triangle.** Jordan's Grade 10 book adds one
 more formula that belongs here, because it uses the same sine:

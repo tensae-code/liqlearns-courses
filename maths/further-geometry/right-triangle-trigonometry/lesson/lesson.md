@@ -1,6 +1,6 @@
 # Right-triangle trigonometry — the lesson
 
-Course: Maths · Stage 9, Further Geometry · Lesson: Right-triangle trigonometry
+Course: Maths · Unit 9, Further Geometry · Lesson: Right-triangle trigonometry
 Built from: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam,
 Armenia, Mauritania, Greece — see lesson/sources.md for every part.
 
@@ -15,7 +15,8 @@ each side. Now draw a bigger triangle with the same angle θ.
 The sides are longer — but the ratios between them are the
 same. That sameness is the whole lesson.
 
-## Then the explanation
+## Sub lesson 1 — Naming the Sides and the Ratios
+
 **Three ratios, one for each pair of sides.** Jordan's Grade 9
 book introduces trigonometry from similar right triangles:
 because all right triangles with the same sharp angle are
@@ -36,6 +37,8 @@ sin θ / cos θ. And there is one identity Jordan's Grade 9
 book names: the Pythagorean identity, sin²θ + cos²θ = 1 —
 the squares of sine and cosine always add to 1, for any angle.
 
+## Sub lesson 2 — Finding Missing Sides
+
 **Finding a missing side.** Pick the ratio that uses the side
 you know and the side you want. If you know the hypotenuse
 (10 cm) and the angle (30°), and you want the opposite side,
@@ -45,11 +48,15 @@ know the opposite and the adjacent, use tangent. Sierra
 Leone's book spends a whole lesson on choosing the ratio
 yourself — that choice is the skill, not the button-pressing.
 
+## Sub lesson 3 — Finding Angles
+
 **Finding a missing angle.** If you know two sides, work the
 ratio backwards. If opposite = 3 and hypotenuse = 5, then
 sin θ = 3/5 = 0.6, so θ = sin⁻¹(0.6) ≈ 37°. Egypt's Secondary
 1 book teaches the inverse notation (sin⁻¹ and the like) and
 the calculator key sequences for it.
+
+## Sub lesson 4 — The Special Angles
 
 **Angles you should know by heart.** Egypt's Preparatory 3
 book teaches the table for 30°, 45° and 60°, worked out from
@@ -67,6 +74,8 @@ and tangent tables for other angles (its Appendices I–III),
 including decimal angles like 10.52°. A calculator does the
 same job today; the tables are the reason the books print
 values to four figures.
+
+## Sub lesson 5 — Using It Outside
 
 **Using it outside.** Jordan's Grade 9 book ends the topic
 with applications: angles of **elevation** (looking up) and

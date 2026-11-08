@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Sine and cosine rules
 
-**Course:** Maths · **Stage:** 9, Further Geometry · **Lesson:** Sine and cosine rules
-**Place in the curriculum:** Stage 9, the fourth lesson of the
+**Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Sine and cosine rules
+**Place in the curriculum:** Unit 9, the fourth lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving triangles that
 are not right-angled — the sine rule, the cosine rule, the
@@ -9,6 +11,18 @@ area formula ½ab·sin C, and choosing between the rules.
 **This lesson's own level:** it stands on right-triangle
 trigonometry (Stage 9, third lesson) and on Pythagoras
 (Stage 8). It needs nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Sine Rule** — for matching pairs — a side and the angle across from it — including the ambiguous case. (Was depth Level 1.)
+2. **The Cosine Rule** — for a side between two knowns, and for an angle from three sides; Pythagoras is its right-angled case. (Was depth Level 2.)
+3. **Area and Choosing the Rule** — the area from two sides and the included angle, solving a whole triangle, and choosing the right rule. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: right-triangle trigonometry — the sine

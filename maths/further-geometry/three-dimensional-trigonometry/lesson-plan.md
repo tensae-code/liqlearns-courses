@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Three-dimensional trigonometry
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Three-dimensional trigonometry
-**Place in the curriculum:** Level 75 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Three-dimensional trigonometry
+**Place in the curriculum:** Level 75 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** solving trigonometry problems in three dimensions — finding the flat right triangle hidden inside a solid, then using ordinary sine, cosine, tangent and Pythagoras on it, step by step.
 **This lesson's own level:** it stands on right-triangle trigonometry and on the sine and cosine rules — the learner can already solve a flat triangle. It needs nothing else. This lesson has ONE full source: Jordan's Grade 10 book (Unit 4, Lesson 5, printed p. 124). It is built honestly at the size that stock supports.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Finding the Hidden Triangle** — the one method: every 3-D problem is a flat right triangle wearing a solid — name it, with its three vertices. (Was depth Level 1.)
+2. **The Two Flat Steps** — step one, a length by Pythagoras; step two, a ratio in the standing triangle. (Was depth Level 2.)
+3. **Angles to Faces and Mixed Problems** — the shadow angle of a line against a face, non-right hidden triangles, and the same hunt in a pyramid. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Right-triangle trigonometry, and Sine and cosine rules. Recommended, never forced.

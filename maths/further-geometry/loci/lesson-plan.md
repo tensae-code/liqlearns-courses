@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Loci: paths of moving points
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Loci: paths of moving points
-**Place in the curriculum:** Level 78 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Loci: paths of moving points
+**Place in the curriculum:** Level 78 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** a locus — the set of all points that obey one rule — naming the standard loci (the circle, the perpendicular bisector, the angle bisectors, the parallel pair), proving the two bisector loci both ways, and constructing loci with ruler and compasses.
 **This lesson's own level:** it stands on the construction lessons and on the triangle-centres lesson just before it — the learner can already bisect a segment and an angle, and has met the perpendicular bisector as the circumcentre's line. It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Locus Is, and Distance from a Point** — a locus is the set of all points satisfying a condition; at a fixed distance from a fixed point the locus is a circle. (Was the first part of depth Level 1.)
+2. **The Two Equidistant Loci** — equidistant from two points: the perpendicular bisector; equidistant from two straight lines: the angle bisectors. (Was depth Level 2.)
+3. **Distance from a Straight Line** — at a fixed distance from a given straight line the locus is two parallels, one on each side. (Was the second part of depth Level 1; its questions were filed under Level 1 and Level 2 in the type files.)
+4. **The Both-Directions Proof and Mixed Constructions** — Iran's way — prove a locus both directions, then catalogue — Greece's locus inside a circle, and combining two loci to pin down a point. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Constructions with ruler and compass (Level 60), and The special lines and centres of a triangle (Level 77) — its perpendicular bisectors and angle bisectors return here as loci. Recommended, never forced.

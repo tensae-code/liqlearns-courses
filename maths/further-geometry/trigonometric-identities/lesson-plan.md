@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Trigonometric identities
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Trigonometric identities
-**Place in the curriculum:** Level 72 of 136, Stage 9 — Further Geometry, after radian measure (Level 71) and before trigonometric equations (Level 73) (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Trigonometric identities
+**Place in the curriculum:** Level 72 of 136, Unit 9 — Further Geometry, after radian measure (Level 71) and before trigonometric equations (Level 73) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the identity chain — the basic identities, the addition formulas proved from cos(α − β), and the double, half and triple formulas that follow — and how to prove an identity.
 **This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) and on radian measure (Level 71) — the learner knows the six ratios and can measure an angle either way. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Basic Identities** — an identity holds for all values; sin²θ + cos²θ = 1 and its partners, and finding one ratio from another with the quadrant's sign. (Was depth Level 1.)
+2. **The Addition Formulas** — the one proved law, cos(α − β), the addition chain deduced from it, and reduction and related angles, which follow the chain in the text. (Was depth Level 2.)
+3. **Double, Half, Sums to Products, and Proving** — the double, half and triple formulas, sums to products and products to sums, one term for a·cosθ ± b·sinθ, and proving an identity. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Right-triangle trigonometry (Stage 9) — the identities are statements about the ratios you already know. Recommended, never forced.

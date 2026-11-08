@@ -1,15 +1,18 @@
 # The special lines and centres of a triangle — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: The special lines and centres of a triangle
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: The special lines and centres of a triangle
 Built from: Kuwait, Grade 9 Term 2 and Grade 10 Term 2 — Laos, Grade 7 — Yemen, Grade 8 Part 2 — Cambodia, Grade 8 — Egypt, Grade 8 Term 1 — Greece, Euclidean Geometry Volume A — Iraq, Grade 9 — Jordan, Grade 9 Term 2 — Sierra Leone, SSS 2 — Kazakhstan, Geometry 8 and Geometry 9 — see lesson/sources.md for every part.
 
 ## Do it first
 Cut out a paper triangle — any shape, the uglier the better. Now try to balance it flat on the tip of a pin or a pencil point. It tips. Move the point a little and try again. There is exactly one spot where the triangle sits level, as if it had no preferred side. Laos's Grade 7 book opens this whole topic with exactly that experiment: balancing a paper triangle on a pin to find where its medians meet (Part 5, Lesson 33). Keep your balancing point marked — by the end of the lesson you will be able to draw straight to it, no pin needed.
 
-## Then the explanation
+## Sub lesson 1 — The Four Special Lines and the Mid-Segment
+
 **The four special lines.** A triangle has four families of special lines, and Kuwait's Grade 9 Term 2 book spends a whole unit on them, one family per lesson (Unit 7, printed pp. 140–190). A **median** joins a vertex to the midpoint of the opposite side. An **angle bisector** splits a vertex angle into two equal angles. A **perpendicular bisector** cuts a side at its midpoint and stands at 90° to it — it does not usually pass through a vertex at all. An **altitude** drops from a vertex perpendicular to the opposite side (or to that side's line, extended). Laos's Grade 7 book teaches the same four families together as the triangle's "notable lines" (Part 5, Lesson 33), and Jordan's Grade 9 Term 2 book groups them the same way: bisectors in Lesson 2 (printed p. 19), medians and altitudes in Lesson 3 (printed p. 31) of its Unit 5.
 
 **The mid-segment theorem.** Join the midpoints of two sides of a triangle. That segment is parallel to the third side and exactly half its length. Kuwait teaches it first in the unit (7-1, printed pp. 140–152), Yemen's Grade 8 Part 2 book teaches it as the segment joining the midpoints of two sides (7-2, printed p. 70), and Sierra Leone's SSS 2 course teaches the same fact as the mid-point theorem, beside the line parallel to one side dividing the others proportionally (L61, printed p. 37). So a third side of 14 cm always carries a mid-segment of 7 cm floating parallel above it.
+
+## Sub lesson 2 — The Four Centres and Their Facts
 
 **The centroid: where the medians meet.** Draw all three medians and they pass through one point — the **centroid**, your balancing point. It does not split a median in half: the centroid divides each median in the ratio 2:1, the longer part at the vertex. Cambodia's Grade 8 book states it exactly: on median AA′, the centroid G gives AG = (2/3)AA′ and GA′ = (1/3)AA′, proved there through the midpoint theorem (Lesson 16 §1, printed p. 205). Kuwait closes its unit with the same 2:1 division (7-6, printed pp. 183–190), Egypt's Grade 8 Term 1 book teaches the medians and their concurrency (3-4, printed pp. 83–88), and Iraq's Grade 9 book gives the medians and the centroid with the 2:1 ratio on printed p. 116. A median of 18 cm is cut by the centroid into 12 cm and 6 cm — always.
 
@@ -22,6 +25,8 @@ One warning, taught corrected. Kuwait's Grade 10 Term 2 book, on printed p. 23, 
 **The orthocentre: where the altitudes meet.** The three altitudes concur at the **orthocentre** (Kuwait, 7-5, printed pp. 178–182; Yemen, 7-6, printed p. 83). Cambodia's book proves the concurrence neatly: the altitudes of a triangle are the perpendicular bisectors of a larger triangle built on its midpoints, so they must meet at one point (Lesson 16 §3, printed p. 208). Greece's Euclidean Geometry treats the centroid and the orthocentre together among the notable lines and circles of a triangle (Volume A, Chapter 5). In an acute triangle the orthocentre sits inside; in an obtuse triangle the altitudes must be drawn on extended sides and the orthocentre falls outside — the point is still one point.
 
 **The median to the hypotenuse, and the side opposite 30°.** In a right-angled triangle, the median drawn from the right-angle vertex to the midpoint of the hypotenuse equals half the hypotenuse (Kuwait, 7-2, printed pp. 153–160; Yemen, 7-3, printed p. 74). Egypt's Grade 8 book proves it by completing the rectangle (3-4, printed pp. 83–88). So with hypotenuse 10 cm, that median is 5 cm — and this is why the hypotenuse's midpoint is the circumcentre: it is 5 cm from all three vertices. Yemen adds the companion fact in the next lesson: in a right triangle, the side opposite the 30° angle is half the hypotenuse, proved there by building an equilateral triangle (7-4, printed p. 77). Hypotenuse 12 cm, angle 30° — the side facing it is 6 cm.
+
+## Sub lesson 3 — Divisions, the 30° Side and Excircles
 
 **The angle bisector divides the opposite side.** An internal bisector does not hit the opposite side at its midpoint (unless the triangle is isosceles). It divides that side in the ratio of the two neighbouring sides. Sierra Leone's SSS 2 course teaches this as the angle bisector theorem (L62, printed p. 40), and Yemen teaches internal and external bisectors in Unit 6 (6-6, printed p. 36), just after Thales' theorem (6-4, printed p. 23) and its corollary (6-5, printed p. 31) — the proportional-division family this theorem belongs to. If the sides around angle A are 6 cm and 9 cm, the bisector from A splits the opposite side in the ratio 6:9, that is 2:3.
 

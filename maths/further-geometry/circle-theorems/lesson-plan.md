@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Circle theorems
 
-**Course:** Maths · **Stage:** 9, Further Geometry · **Lesson:** Circle theorems
-**Place in the curriculum:** Stage 9, the fifth lesson of the
+**Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Circle theorems
+**Place in the curriculum:** Unit 9, the fifth lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the angles, chords and
 tangents of a circle — the inscribed-angle theorem, the angle
@@ -11,6 +13,18 @@ secant products, and cyclic quadrilaterals.
 lesson (radius, diameter, circumference, area) and on
 similarity (Stage 9, first lesson: the segment products are
 proved from similar triangles). It needs nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Inscribed Angle** — the angle at the centre is twice the angle at the circumference, angles in the same segment, and the angle in a semicircle. (Was depth Level 1.)
+2. **Chords and Tangents** — chords, diameters and tangents — the radius through a chord's midpoint, and what a tangent does at the point of contact. (Was depth Level 2.)
+3. **Cyclic Quadrilaterals and Segment Products** — the intersecting-chords, secant and tangent–secant products, and cyclic quadrilaterals whose opposite angles add to 180°. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: circles (Stage 7), similarity, and the

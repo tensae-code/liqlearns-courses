@@ -1,6 +1,6 @@
 # Transformations — the lesson
 
-Course: Maths · Stage 9, Further Geometry · Lesson: Transformations
+Course: Maths · Unit 9, Further Geometry · Lesson: Transformations
 Built from: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa,
 Greece, Mauritania, Ghana (teacher evidence) — see lesson/sources.md
 for every part.
@@ -19,7 +19,8 @@ That is an **enlargement**.
 
 Four moves. Four ways to make a new shape from an old one.
 
-## Then the explanation
+## Sub lesson 1 — Reflection and Translation
+
 **A transformation moves a shape.** The shape you start with is
 the object; the shape you get is the image. Egypt's Grade 7 book
 defines all four moves in one lesson, and Jordan's Grade 6 book
@@ -52,6 +53,8 @@ and 2 up sends (1, 1) to (4, 3). Kazakhstan's Grade 9 book
 proves what you can feel: a translation moves points along
 parallel lines by equal distances.
 
+## Sub lesson 2 — Rotation and Enlargement
+
 **Rotation — the turn.** Turn the shape round a fixed point,
 the centre of rotation, by an angle, in a direction — clockwise
 or anticlockwise. The shape keeps its size and shape. Jordan's
@@ -81,6 +84,8 @@ is a similarity transformation: a line goes to a parallel line,
 a circle goes to a circle with its radius multiplied by k.
 A scale factor bigger than 1 enlarges; a scale factor between
 0 and 1 shrinks (Egypt's dilation lesson says the same).
+
+## Sub lesson 3 — Combining Moves
 
 **Doing two moves — composition.** Egypt's Grade 7 book gives
 composition its own lesson: do one transformation, then

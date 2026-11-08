@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Transformations
 
-**Course:** Maths · **Stage:** 9, Further Geometry · **Lesson:** Transformations
-**Place in the curriculum:** Stage 9, the second lesson of the
+**Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Transformations
+**Place in the curriculum:** Unit 9, the second lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the four moves that make a
 new shape from an old one — reflection, translation, rotation
@@ -11,6 +13,18 @@ two moves in a row are worth.
 lesson and on coordinates (Stage 10's first lesson is its
 near neighbour, but this lesson teaches every coordinate rule
 it needs). It needs nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reflection and Translation** — a transformation moves a shape from object to image; reflection, the mirror move, and translation, the slide. (Was depth Level 1.)
+2. **Rotation and Enlargement** — rotation, the turn about a centre, and enlargement, the growing move from a centre by a scale factor. (Was depth Level 2.)
+3. **Combining Moves** — doing two moves — composition — and the single move a pair of moves amounts to. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: shapes and angles (Stage 7), and

@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Radian measure
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Radian measure
-**Place in the curriculum:** Level 71 of 136, Stage 9 — Further Geometry, after right-triangle trigonometry and before trigonometric identities (Level 72) (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Radian measure
+**Place in the curriculum:** Level 71 of 136, Unit 9 — Further Geometry, after right-triangle trigonometry and before trigonometric identities (Level 72) (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** measuring angles three ways — degrees with minutes and seconds (DMS), radians, and gradians — changing between them, and using s = rθ to find an arc length.
 **This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) — the learner can already name sine, cosine and tangent in a right triangle — and on circles (circumference 2πr). It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Degrees, Minutes and Seconds** — the oldest system: one full turn in 360 degrees, with minutes and seconds, changed to decimal degrees and back. (Was depth Level 1.)
+2. **Radians and Gradians** — the radian defined by the arc, 180° = π to convert both ways, and the third system, gradians. (Was depth Level 2.)
+3. **Directed Angles and Arc Length** — angles as rotations — coterminal angles past 360° and negative — and arc length and sector area with θ in radians. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Right-triangle trigonometry (Stage 9) — radians measure the same angles whose ratios you already know. Recommended, never forced.

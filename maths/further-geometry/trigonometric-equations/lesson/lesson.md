@@ -1,6 +1,6 @@
 # Trigonometric equations — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Trigonometric equations
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Trigonometric equations
 Built from: Nicaragua, Grade 10 student book and module — Laos, Grade 11, Ch. 8 — Armenia, Grade 10, Ch. 4 — Libya, Grades 11 and 12 Science — Yemen, Grade 11 Science Part 2 — Kuwait, Grades 10 and 11 Term 2 — Cambodia, Grade 11 Basic and Advanced — Vietnam, Grade 11, Bài 4 — South Sudan, Secondary 4 Additional Mathematics — China, Compulsory Volume 3 (B edition), §7.3.5
 
 ## Do it first
@@ -13,7 +13,8 @@ Almost every equation in this lesson behaves like that, and
 stopping at one answer is the classic way to lose half the
 marks.
 
-## Then the explanation
+## Sub lesson 1 — The Basic Forms on the Unit Circle
+
 **Equation, not identity.** The last lesson's identities are
 true for every angle. A trigonometric **equation** holds only
 for some angles, and solving it means finding all of them.
@@ -45,6 +46,8 @@ inside its relations-between-functions work (Term 2, printed
 pp. 103–106) and returns to them in Grade 11 (Term 2, printed
 pp. 92–99).
 
+## Sub lesson 2 — The General Solution and Identity Equations
+
 **The general solution.** One turn is rarely the whole
 answer. Nicaragua's student book states the method: find the
 particular solutions within one period, then write the
@@ -74,6 +77,8 @@ book solves equations and inequalities from the trig lines
 and graphs in its §7.3.5 (Compulsory Volume 3, printed
 p. 57) — three countries, one agreement: check the algebra
 against the picture.
+
+## Sub lesson 3 — The Single-Term Form, Graphs and Inequalities
 
 **The single-term form.** The last lesson rewrote a·cosθ ±
 b·sinθ as one wave. Libya's Grade 12 book solves equations

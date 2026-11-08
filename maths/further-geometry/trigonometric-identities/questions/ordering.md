@@ -1,15 +1,17 @@
 # Trigonometric identities — ordering
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — The Basic Identities · (Level 2) -> Sub lesson 2 — The Addition Formulas · (Level 3) -> Sub lesson 3 — Double, Half, Sums to Products, and Proving.
+
 Put the items in the order asked. Check each step before you write the answer.
 
-**1. (Level 2)** Put the chain's deductions in the order the books prove them: (a) double-angle formulas, (b) cos(α − β), (c) sin(α ± β), (d) cos(α + β).
+**1. (Sub lesson 2)** Put the chain's deductions in the order the books prove them: (a) double-angle formulas, (b) cos(α − β), (c) sin(α ± β), (d) cos(α + β).
 **Answer:** (b) cos(α − β), (d) cos(α + β), (c) sin(α ± β), (a) double-angle formulas — prove one, then replace, complement, and set β = α.
 
-**2. (Level 3)** Put these values in order, smallest first: sin 18°, cos 105°, tan(α + β) for tan α = 1/2, tan β = 1/3, sin 75°.
+**2. (Sub lesson 3)** Put these values in order, smallest first: sin 18°, cos 105°, tan(α + β) for tan α = 1/2, tan β = 1/3, sin 75°.
 **Answer:** cos 105° (≈ −0.259), sin 18° (≈ 0.309), sin 75° (≈ 0.966), tan(α + β) (= 1) — each value comes from the lesson's worked examples.
 
-**3. (Level 3)** Put these proof steps for tan²β/(sec β − 1) = sec β + 1 in order: (a) cancel (sec β − 1), (b) write tan²β = sec²β − 1, (c) factor sec²β − 1 as (sec β − 1)(sec β + 1).
+**3. (Sub lesson 3)** Put these proof steps for tan²β/(sec β − 1) = sec β + 1 in order: (a) cancel (sec β − 1), (b) write tan²β = sec²β − 1, (c) factor sec²β − 1 as (sec β − 1)(sec β + 1).
 **Answer:** (b) write tan²β = sec²β − 1, (c) factor, (a) cancel — Nicaragua's worked order (Unit 3).
 
-**4. (Level 2)** Put Abylkasymova's formula-cycle sections in the book's order: (a) sum-to-product (§27), (b) basic identities (§22), (c) addition formulas (§24), (d) double-angle and half-angle (§26).
+**4. (Sub lesson 2)** Put Abylkasymova's formula-cycle sections in the book's order: (a) sum-to-product (§27), (b) basic identities (§22), (c) addition formulas (§24), (d) double-angle and half-angle (§26).
 **Answer:** (b) basic identities, (c) addition formulas, (d) double-angle and half-angle, (a) sum-to-product — the cycle's order in Kazakhstan's Abylkasymova Algebra 9, Part 2.

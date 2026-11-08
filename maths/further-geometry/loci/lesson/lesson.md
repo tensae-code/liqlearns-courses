@@ -1,21 +1,28 @@
 # Loci: paths of moving points — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Loci: paths of moving points
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Loci: paths of moving points
 Built from: Sierra Leone, SSS 2 Term 2 handbook — Kazakhstan, Smirnov & Tuyakov Geometry 7 and Turapbekov et al. Geometry Grade 7 — Iran, Geometry (3) Grade 12 — Greece, Euclidean Geometry Volume A — see lesson/sources.md for every part.
 
 ## Do it first
 Tie an imaginary rope of 2 metres to a tree and walk, keeping the rope tight the whole time. Where do you end up walking? Not a spiral, not a wobble — a perfect circle around the tree. You never chose the circle; the RULE chose it: "stay exactly 2 metres from the tree." Every point you stood on obeys the rule, and every point that obeys the rule was on your path. A path made that way — by one rule, completely — is called a **locus**. Before reading on, guess two more: where can a point walk if it must stay the same distance from TWO trees? And from a straight fence? Hold your guesses; the lesson tests them.
 
-## Then the explanation
+## Sub lesson 1 — What a Locus Is, and Distance from a Point
+
 **What a locus is.** A locus is the set of all points that satisfy a given condition — all of them, and no others. Kazakhstan's Turapbekov Grade 7 book gives "the locus" its own definition as a named topic (Chapter 4 §1, printed p. 142), and Smirnov & Tuyakov's Geometry 7 teaches geometric loci of points as their own section, §21, placed inside its constructions chapter (Chapter 4, printed pp. 101–134 as filed) — the position matters: loci are taught there as the ideas that construction problems are built from. A locus answer always has two halves to check: every point ON the path obeys the rule, and every point that obeys the rule is ON the path. Miss either half and the answer is not yet proved.
 
 **Locus 1 — a fixed distance from a fixed point: a circle.** Sierra Leone's SSS 2 loci course opens with points at a given distance from a given point (L92, printed p. 126). The locus is the circle with that point as centre and that distance as radius — your rope walk. Construction is one compass opening; the thinking is that the compass holds the distance constant, which is exactly the rule.
+
+## Sub lesson 2 — The Two Equidistant Loci
 
 **Locus 2 — equidistant from two given points: the perpendicular bisector.** Points the same distance from A as from B form the perpendicular bisector of the segment AB (L93, printed p. 129). Construction: compasses opened wider than half of AB, arcs from A and from B crossing above and below, and the line through the crossings. This is why, in the triangle-centres lesson, the circumcentre sits on all three perpendicular bisectors: it must be equidistant from all three vertices at once, so it has to live on each side's locus — the centre is where the loci cross.
 
 **Locus 3 — equidistant from two straight lines: the angle bisectors.** Points the same (perpendicular) distance from two intersecting straight lines form the two bisectors of the angles between the lines (L94, printed p. 132). Two lines crossing make two bisectors, at right angles to each other, and BOTH belong to the locus — a point deep in any of the four corners is equidistant from the lines exactly when it sits on one of the bisectors. For two parallel lines the same rule gives the single parallel line running halfway between them. And here too the last lesson's centres fall out: the incentre must be equidistant from all three sides of a triangle, so it lives where the angle-bisector loci cross.
 
+## Sub lesson 3 — Distance from a Straight Line
+
 **Locus 4 — a fixed distance from a given straight line: two parallels.** Points at a given distance from a straight line form TWO lines, one parallel on each side at that distance (L95, printed p. 135). The rule names no side, so both sides answer. Sierra Leone then closes the course with mixed construction practice (L96, printed p. 138): combining loci — draw two loci, and the wanted points are where they meet. One locus gives a whole path of candidates; two loci together can pin a point down to one or two spots.
+
+## Sub lesson 4 — The Both-Directions Proof and Mixed Constructions
 
 **Iran's way: prove it both directions, then catalogue.** Iran's Grade 12 Geometry (3) book opens its conic-sections chapter by making the locus idea do real proving work (Chapter 2, Lesson 1, printed pp. 34–39). The perpendicular bisector and the angle bisector are recalled there WITH their proofs as loci, and the circle is proved as a locus in both directions: every point on the circle is the fixed distance from the centre, AND every point at that distance lies on the circle (printed pp. 36–38). The lesson then builds a catalogue of standard loci in class work (printed pp. 38–39) — including the points equidistant from two intersecting lines, and the centres of circles tangent to a given line at a fixed point (those centres must all stand on the one line perpendicular to the given line at that point, so that perpendicular is their locus). Iran's catalogue is the bridge out of this lesson: a locus defined by a distance rule to a point and a line is exactly how its ellipse and parabola are built later in that chapter.
 

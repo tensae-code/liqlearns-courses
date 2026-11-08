@@ -1,6 +1,6 @@
 # Radian measure — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Radian measure
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Radian measure
 Built from: Bangladesh, Class Nine, Ch. 7 — Laos, Grade 10, Ch. IX — Nicaragua, Grade 10 student book and Grade 10 module — Nepal, Optional Mathematics Grade 9 — Jordan, Grade 11 Term 2 — Pakistan (Punjab), Class 10, Unit 7 — Ethiopia, Grade 10, Ch. 4
 
 ## Do it first
@@ -12,7 +12,8 @@ named after: **one radian**. Lay the string again and again: a
 half turn takes a little more than three strings. That "a little
 more than three" is π — and it is why a half turn is π radians.
 
-## Then the explanation
+## Sub lesson 1 — Degrees, Minutes and Seconds
+
 **Degrees, minutes and seconds.** The oldest system in the books
 splits one full turn into 360 degrees. Bangladesh's Class Nine
 book measures the trigonometric angle by ray rotation and prints
@@ -27,6 +28,8 @@ Grade 10 student book does the same DMS arithmetic, for example
 Optional Mathematics Grade 9 book checks the ladder with a big
 count: 60°15′30″ is 216,930 sexagesimal seconds (§2.1, printed
 pp. 89–145).
+
+## Sub lesson 2 — Radians and Gradians
 
 **The radian.** Nicaragua's module gives the definition in one
 line: a radian is the angle that cuts off an arc equal to the
@@ -59,6 +62,8 @@ the sexagesimal and circular systems, with conversions between
 them (§2.1, printed pp. 89–145) — its checked example: 27
 gradians 50′ 60″ in that system is 275,060 centesimal seconds.
 One right angle, three names: 90° = π/2 rad = 100 gradians.
+
+## Sub lesson 3 — Directed Angles and Arc Length
 
 **Directed angles and coterminal angles.** A trigonometric
 angle is a rotation, so it can pass a full turn or run

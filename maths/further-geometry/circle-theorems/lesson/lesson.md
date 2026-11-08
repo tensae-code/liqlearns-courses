@@ -1,6 +1,6 @@
 # Circle theorems — the lesson
 
-Course: Maths · Stage 9, Further Geometry · Lesson: Circle theorems
+Course: Maths · Unit 9, Further Geometry · Lesson: Circle theorems
 Built from: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt
 — see lesson/sources.md for every part.
 
@@ -17,7 +17,8 @@ else on the same arc and measure again — the inscribed angle
 is the same every time. That is the first circle theorem,
 and you have just found it yourself.
 
-## Then the explanation
+## Sub lesson 1 — The Inscribed Angle
+
 **The angle at the centre is twice the angle at the
 circumference.** Kazakhstan's Grade 9 book proves the
 inscribed-angle theorem for all three positions of the
@@ -47,6 +48,8 @@ Three things follow at once, and the books all teach them:
   equals half the intercepted arc — the same size as the
   angle in the opposite segment.
 
+## Sub lesson 2 — Chords and Tangents
+
 **Chords and tangents.** Jordan's Grade 10 book opens its
 circle unit with chords, diameters and tangents, and
 Armenia's Grade 9 book opens its circle chapter with the
@@ -56,6 +59,8 @@ Two more facts the books prove with similar triangles.
 Kazakhstan's Grade 9 book states them as theorems about
 proportional segments in a circle, and Egypt's Secondary 1
 book deduces the same three from similar triangles:
+
+## Sub lesson 3 — Cyclic Quadrilaterals and Segment Products
 
 - **Intersecting chords:** if two chords cross inside the
   circle, the products of the parts are equal:

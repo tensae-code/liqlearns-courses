@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — The special lines and centres of a triangle
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** The special lines and centres of a triangle
-**Place in the curriculum:** Level 77 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** The special lines and centres of a triangle
+**Place in the curriculum:** Level 77 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the four special lines of a triangle — medians, angle bisectors, perpendicular bisectors and altitudes — each family meeting at one centre (centroid, incentre, circumcentre, orthocentre), plus the mid-segment theorem, the median to the hypotenuse, and the excircles that sit outside the triangle.
 **This lesson's own level:** it stands on constructing triangles and on the circle work — the learner can already draw a triangle, bisect a segment and an angle, and knows what a circle through three points means. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Four Special Lines and the Mid-Segment** — median, angle bisector, perpendicular bisector and altitude, and the mid-segment theorem. (Was depth Level 1.)
+2. **The Four Centres and Their Facts** — centroid, circumcentre, incentre and orthocentre — the centre each family of lines makes, and its facts. The paragraph on the median to the hypotenuse and the side opposite 30° sits in this sub lesson, where the centres are taught, though the 30° side belongs to depth Level 3's pass mark; the corrected incentre-label warning sits here too, with the incentre. (Was depth Level 2.)
+3. **Divisions, the 30° Side and Excircles** — the angle-bisector theorem dividing the opposite side, the side opposite 30°, and the excircles and their centres outside the triangle. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Constructions with ruler and compass (Level 60), Constructing triangles and quadrilaterals (Level 61), and Circle theorems (same stage). Recommended, never forced.

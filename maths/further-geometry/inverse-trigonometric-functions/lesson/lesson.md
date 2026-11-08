@@ -1,12 +1,13 @@
 # Inverse trigonometric functions — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Inverse trigonometric functions
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Inverse trigonometric functions
 Built from: Nicaragua, Grade 10 student book — Armenia, Algebra and Elements of Mathematical Analysis 10 — Laos, Grade 12 student book — Cambodia, Grade 12 Advanced student book (placement only, as filed) — see lesson/sources.md for every part.
 
 ## Do it first
 You know sin 30° = 1/2. Now run it backwards: a calculator tells you sin θ = 1/2 — what is θ? You will say 30°. But sin 150° is also 1/2. And sin 390°. One ratio, many angles. Undoing sine cannot give all of them — it must give ONE. Choosing which one, honestly and by rule, is this whole lesson.
 
-## Then the explanation
+## Sub lesson 1 — Restricting and Defining
+
 **Why restriction comes first.** Sine, cosine and tangent are not one-to-one: the same value comes back again and again as the angle grows. Nicaragua's Grade 10 book makes this the opening point of its treatment (Unit 2, printed pp. 133–141): before any inverse is defined, each function's domain is cut down to a piece where it never repeats a value — sine to [−π/2, π/2], cosine to [0, π], tangent to (−π/2, π/2). Only then can the undoing be a function at all. Armenia's Grade 10 book builds the same ground in the same order: the arcsine, arccosine, arctangent and arccotangent are first named inside its trigonometric-equations section (Chapter 4, §10, printed p. 119), and its inverse section then starts from the inverse-function concept and the condition for an inverse to exist (Chapter 4, §12, printed p. 145).
 
 **The three inverses and the ranges they answer in.** With the domains cut as above, Nicaragua's book defines arcsin, arccos and arctan (printed pp. 133–141). Say what each one means in words: arcsin a is THE angle in [−90°, 90°] whose sine is a. That gives the three ranges you must hold:
@@ -15,9 +16,13 @@ You know sin 30° = 1/2. Now run it backwards: a calculator tells you sin θ = 1
 - arccos a lies in [0°, 180°], and a must lie in [−1, 1].
 - arctan a lies in (−90°, 90°), and a can be any real number.
 
+## Sub lesson 2 — Evaluating Inverse Values
+
 So arcsin(1/2) = 30°, arccos(1/2) = 60°, arctan(1) = 45°, arcsin(−1/2) = −30°. Armenia's book treats the same four inverses — arcsine, arccosine, arctangent and arccotangent — as its §12 topic (printed p. 145).
 
 **Calculator values.** Not every ratio is a special angle. Nicaragua's book uses the calculator for inverse values, including tan⁻¹(2016) — a huge input whose answer still lands just below 90°, inside the arctangent range (printed pp. 133–141). The range is the check: if a calculator answer for arcsine ever falls outside [−90°, 90°], the working, not the range, is wrong.
+
+## Sub lesson 3 — Compositions and Solving
 
 **Undoing, and when undoing does not bring you back.** For x inside the restricted domain, f⁻¹(f(x)) = x. Outside it, that fails — and Nicaragua's book insists on the failure case: sen⁻¹(sen 5π/…) is NOT the angle you started with, because the answer must fold back into [−π/2, π/2] (printed pp. 133–141). The inverse always answers inside its range; an outside angle is folded to the inside angle with the same ratio.
 

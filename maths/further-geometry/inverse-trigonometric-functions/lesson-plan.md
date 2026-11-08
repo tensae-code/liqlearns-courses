@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Inverse trigonometric functions
 
-**Course:** Maths · **Stage:** Stage 9 — Further Geometry · **Lesson:** Inverse trigonometric functions
-**Place in the curriculum:** Level 74 of 136, in Stage 9 — Further Geometry (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 9 — Further Geometry · **Lesson:** Inverse trigonometric functions
+**Place in the curriculum:** Level 74 of 136, in Unit 9 — Further Geometry (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** undoing sine, cosine and tangent — arcsine, arccosine and arctangent, why their domains must be restricted first, what values they give back, and how to use them to find angles and simplify expressions.
 **This lesson's own level:** it stands on right-triangle trigonometry and on trigonometric functions and their graphs — the learner can already work sin, cos and tan forwards. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Restricting and Defining** — why sine, cosine and tangent must be restricted to be undone, and the three inverses with the ranges they answer in. (Was depth Level 1.)
+2. **Evaluating Inverse Values** — the exact inverse values for the special ratios, and calculator values for the rest, always landing inside the range. (Was depth Level 2.)
+3. **Compositions and Solving** — when undoing does and does not bring you back, compositions turned into a triangle, and solving graphically. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Right-triangle trigonometry, and Trigonometric functions. Recommended, never forced.

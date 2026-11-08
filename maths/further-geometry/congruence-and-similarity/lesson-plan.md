@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Congruence and similarity
 
-**Course:** Maths · **Stage:** 9, Further Geometry · **Lesson:** Congruence and similarity
-**Place in the curriculum:** Stage 9, the first lesson of the
+**Course:** Maths · **Unit:** 9, Further Geometry · **Lesson:** Congruence and similarity
+**Place in the curriculum:** Unit 9, the first lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** telling whether two shapes
 are the same shape and size (congruent) or the same shape in a
@@ -17,6 +19,18 @@ exact places marked below, the lesson page carries an add-on — an
 image, a GIF, a video, an audio. Every slot is written as **"a picture
 of …" in words, plus one little line saying what the student does
 with it**.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Congruent Shapes** — congruent means an exact fit, and the SSS, SAS, ASA, AAS and RHS checks for triangles. (Was depth Level 1.)
+2. **Similar Shapes** — similar means the same shape, a different size — the AA, SSS and SAS checks and the scale factor. (Was depth Level 2.)
+3. **The Scale Factor on Area and Volume** — what similarity does to area and volume: k for lengths, k² for areas and k³ for volumes. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the Stage 7 shapes and angles lessons

@@ -1,17 +1,22 @@
 # Fractals: shapes inside shapes — the lesson
 
-Course: Maths · Stage: Stage 9 — Further Geometry · Lesson: Fractals: shapes inside shapes
+Course: Maths · Unit: Unit 9 — Further Geometry · Lesson: Fractals: shapes inside shapes
 Built from: China, Grade 9 Volume 2 (reading) — China, Mathematics Compulsory Volume 4, B edition (Chapter 10 extended reading) — readings as filed; see lesson/sources.md for every part.
 
 ## Do it first
 Draw a big triangle on squared paper. Join the midpoints of its sides, splitting it into 4 small triangles of the same shape. Shade the middle one — take it away. Now look at what is left: 3 triangles, each exactly the big one shrunk. Do the same inside each of the 3 — split into 4, shade the middle away. Count the survivors: 9. Again: 27. The shape is eating its own middle forever, and at every size it is the same shape. You have just built the opening steps of a **fractal** — and the figure you are drawing is printed as a reading in China's Grade 9 book, beside its similarity chapter (Grade 9 Volume 2, printed pp. 45–46). This lesson is that reading, and one more, taught whole.
 
-## Then the explanation
+## Sub lesson 1 — Self-Similarity and the Sierpiński Figures
+
 **What a fractal is.** A fractal is a figure built by repeating one step without end, so that the same pattern appears at every scale. Zoom into a part of it and the part looks like the whole — that likeness between part and whole is called **self-similarity**. China's Grade 9 Volume 2 book places its fractal figures as an "observe and guess" reading inside the similarity chapter (Chapter 27, printed pp. 45–46) — the right home, because a fractal is similarity that refuses to stop: not two similar triangles, but similar triangles inside similar triangles forever.
 
 **The Sierpiński figures.** The reading shows the Sierpiński family. In the **Sierpiński triangle**, each step splits every surviving triangle into 4 and removes the middle one, so the survivors multiply by 3 each step: 1, 3, 9, 27, … while the shaded-away holes multiply the same way, smaller and smaller. In the **Sierpiński carpet**, the same game is played on a square: split into 9 equal squares, remove the centre one, and repeat inside each of the 8 survivors — the survivors multiply by 8 each step: 1, 8, 64, … The reading also shows a pentagon fractal built the same way — one step, repeated — proof that the idea is the step, not the starting shape (Grade 9 Volume 2, printed pp. 45–46).
 
+## Sub lesson 2 — The Koch Snowflake
+
 **The Koch snowflake.** The second figure in the reading grows instead of hollowing. Start with a segment. Split it into thirds, remove the middle third, and build an outward point — a tent — from two segments each as long as that third. One segment became 4 segments, each 1/3 as long. Now repeat the step on every segment. Built on all three sides of a triangle, this grows the **Koch snowflake**. Count its perimeter: every step multiplies the number of segments by 4 and divides each segment's length by 3, so the total perimeter is multiplied by 4/3 at every step — 3, then 4, then 16/3, growing forever, while the snowflake itself never leaves the circle around the starting triangle. A fence of endless length around a field you can hold in your hand: that is the shock this reading is filed to deliver (Grade 9 Volume 2, printed pp. 45–46).
+
+## Sub lesson 3 — Iteration: Julia and Mandelbrot
 
 **From paper to numbers: Julia and Mandelbrot.** China's senior B-edition book files its fractal material as an extended reading inside the complex-numbers chapter (Compulsory Volume 4, B edition, Chapter 10, printed pp. 40–41), because here the "one step repeated" is not drawn but computed. The step is a rule on a complex number: **z → z² + c**, where c is a fixed complex number. Start from z₀ = 0 and apply the rule again and again; the list of values is the number's *orbit*. One of two fates waits: the orbit stays bounded — the values keep milling around near the start — or it escapes, running off to infinity. Try the real cases by hand. With c = 1: 0 → 1 → 2 → 5 → 26 — escaped, clearly. With c = 0: 0 → 0 → 0 — bounded forever. With c = −1: 0 → −1 → 0 → −1 — bounded, bouncing in a cycle of two. The **Julia set** for a given c is the boundary between starting values that stay bounded and starting values that escape; the **Mandelbrot set** turns the question around — it is the set of all c for which the orbit of 0 stays bounded. Paint each c by its fate, on a computer, millions of points at a time, and the famous picture appears: a round-bodied shape whose edge is covered in smaller copies of itself — self-similarity again, but now grown by arithmetic instead of by a ruler (Chapter 10 extended reading, printed pp. 40–41).
 
