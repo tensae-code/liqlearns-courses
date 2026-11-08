@@ -6,7 +6,9 @@ A pupil's height is 135 cm at age 9 and 155 cm at age 13. How fast is the pupil 
 
 Try it before you read on: you need the change in height and the change in age, and one division.
 
-## What a rate of change is
+## Sub lesson 1 — What a Rate of Change Is
+
+### What a rate of change is
 
 Quantities change: a school's admissions grow year by year, a temperature falls hour by hour, a typist's line count grows minute by minute. The **rate of change** of a quantity says how much it changes for each single step of the quantity it follows:
 
@@ -14,7 +16,7 @@ Quantities change: a school's admissions grow year by year, a temperature falls 
 
 The answer always carries a unit made of the two units: centimetres **per year**, degrees **per hour**, lines **per minute**. Sudan's Grade 8 book opens the topic with a school's admissions growing from year to year and asks exactly this: by how much per year? (Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 52.)
 
-## Working a rate
+### Working a rate
 
 The height grew from 135 cm to 155 cm. The change in height is 155 − 135 = **20 cm**. The age changed from 9 to 13, a change of **4 years**. Divide:
 
@@ -22,13 +24,17 @@ The height grew from 135 cm to 155 cm. The change in height is 155 − 135 = **2
 
 That is the height's rate of change over those years — on average, the pupil grew 5 centimetres for each year. (Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 53.)
 
-## Negative and zero rates
+## Sub lesson 2 — Negative and Zero Rates
+
+### Negative and zero rates
 
 A rate can be negative. If a temperature falls by 2 degrees in an hour — and keeps falling the same way — its rate of change is **−2 degrees per hour**. The minus sign is information: it says the quantity is going **down**.
 
 And if a quantity does not change at all over the time you watch it, its rate of change is **zero**: no growth, no fall. (Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 54, with the lesson's exercise on printed p. 55.)
 
-## Constant rate of change
+## Sub lesson 3 — Constant Rate of Change
+
+### Constant rate of change
 
 A rate is **constant** when every equal step of the follower brings the same change. You test it in a table: work the change from each row to the next, and compare.
 

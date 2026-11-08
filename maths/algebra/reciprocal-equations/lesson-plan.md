@@ -1,10 +1,26 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Reciprocal Equations
 
 **One thing:** reciprocal polynomials — the ones whose coefficients read the same forwards and backwards — and the special way their equations are solved: roots come in reciprocal pairs, odd degree always hides the root −1, and even degree folds in half with the substitution y = x + 1/x.
 
-**Stage:** Algebra (Stage 6). **Level 154** (Venezuela merge, 2026-11-07).
+**Unit:** Algebra (Unit 6). **Level 154** (Venezuela merge, 2026-11-07).
 
 **Why this lesson exists:** Venezuela's Grade 11 book (*La Matemática y el Vivir Bien*, Lesson 3, printed pp. 75–77) teaches reciprocal equations as a named class inside its polynomials lesson: the definition p(1/x) = p(x)/xⁿ, that is, symmetric coefficients; the theorem that an odd-degree reciprocal polynomial always has the root −1; and the even-degree method — divide by x² and substitute y = x + 1/x. No other read book in the library names this class, and no existing lesson is about it: the polynomial-division lesson covers dividing and the root theorems, and the quadratic-equations lesson covers degree 2, but the symmetry trick itself has no home. So under the everything-goes-in ruling (2026-11-06) it gets its own lesson. It stands alone: polynomial-division is a soft hint before it, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Reciprocal Polynomial Is** — recognising a reciprocal polynomial from its palindromic coefficients, and the definition both ways: symmetric coefficients, and p(1/x) = p(x)/xⁿ. (Was depth Layer 1.)
+2. **Roots in Reciprocal Pairs** — the pairing — if r ≠ 0 is a root of a reciprocal equation, so is 1/r — and why x = 0 is never a root when the constant term is not 0. (Was depth Layer 2.)
+3. **Odd Degree — the Root −1** — the guaranteed root −1 of every odd-degree reciprocal equation: dividing it out by Ruffini and solving the smaller equation that remains. (Was depth Layer 3.)
+4. **Even Degree — Folding in Half** — for even degree, dividing by x², grouping the symmetric terms, and folding to y = x + 1/x with x² + 1/x² = y² − 2, carried through the full quartic solve with the roots checked by the pairing. (Was depth Layer 4; the full solves of old depth Layer 5 live here and in Sub lesson 3, as each degree's worked ending.)
+
+Old depth Layer 5 (full solves) has no separate text section: its solves are the worked endings of Sub lesson 3 (the cubic) and Sub lesson 4 (the quartic), and its questions are marked by the degree they solve.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

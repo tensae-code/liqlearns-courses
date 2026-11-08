@@ -6,7 +6,9 @@ Here is a small puzzle. I am thinking of a number. Its distance from 0 on the nu
 
 Before you read on, notice the trap: there are two answers, 5 and −5. Distance does not care about direction. That one idea — distance from 0 — is the whole of this lesson.
 
-## What |x| is
+## Sub lesson 1 — What |x| Is
+
+### What |x| is
 
 The **modulus** of a number x, written **|x|** and also called its **absolute value**, is defined in two pieces:
 
@@ -17,7 +19,9 @@ So |5| = 5 and |−5| = 5. The modulus strips the sign away, and because of that
 
 The picture behind the definition is a distance. On the number line, |x| is **how far x is from 0** — that is how Mongolia's Grade 7 book first defines it, and the Grade 12 book keeps the same geometric meaning beside the two-piece definition. Once modulus is distance, the distance between any two points follows: the distance between a and b is **|a − b|**. The distance between −3 and 4 is |−3 − 4| = |−7| = 7 — count it on the line and see. (Mongolia, Математик VII (Grade 7), printed p. 5; Математик XII (Grade 12), printed p. 5.)
 
-## First equations: take the cases
+## Sub lesson 2 — First Modulus Equations
+
+### First equations: take the cases
 
 Solve |x − 5| = 3. The inside, x − 5, is either 3 or −3 — those are the only two numbers whose modulus is 3. So:
 
@@ -28,15 +32,21 @@ The **distance method** says the same thing in the picture: |x − 5| = 3 asks f
 
 And here is the stop sign. The equation |2x − 5| = −7 has **no solution** — not a hard one, none at all. A modulus is a distance, and a distance cannot be −7. Whenever the right side of a modulus equation is negative, you can stop before you start. (Mongolia, Математик XII (Grade 12), printed p. 6.)
 
-## Harder equations
+## Sub lesson 3 — Harder Modulus Equations
+
+### Harder equations
 
 When the right side is an expression, |f(x)| = g(x), the stop sign comes first: the equation can only hold where **g(x) ≥ 0**. Where it holds, it splits into f(x) = g(x) or f(x) = −g(x) — a case system. Two moduli, |ax + b| = |cx + d|, split the same way, and the book's starred exercises nest moduli inside moduli, opened one layer at a time. (Mongolia, Математик XII (Grade 12), printed p. 7.)
 
-## Inequalities: bands and rays on the line
+## Sub lesson 4 — Modulus Inequalities
+
+### Inequalities: bands and rays on the line
 
 |x| ≤ 4 says: the points within distance 4 of 0. That is the band **−4 ≤ x ≤ 4**. And |x − 5| > 8 says: the points **more than 8 away from 5** — so x < −3 or x > 13. The book solves these by cases and then reads the answer geometrically, off the line; simple modulus inequalities of this kind are first met in Grade 9. (Mongolia, Математик XII (Grade 12), printed p. 9; Математик IX (Grade 9), printed p. 74.)
 
-## The squaring theorems
+## Sub lesson 5 — The Squaring Theorems
+
+### The squaring theorems
 
 Three facts about modulus and squares, each one **proved** in the book:
 

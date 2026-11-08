@@ -10,7 +10,9 @@ A small workshop makes tables (x per day) and chairs (y per day).
 
 How many of each should the workshop make for the most profit? Guess a mix, work out its profit, and see if your neighbour can beat it. Guessing will get you close — this lesson gives you the method that *proves* the best mix. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–244.)
 
-## Step 1 — The limits become inequalities
+## Sub lesson 1 — Writing the Limits
+
+### Step 1 — The limits become inequalities
 
 Every limit in the story becomes one inequality:
 
@@ -20,19 +22,23 @@ Every limit in the story becomes one inequality:
 
 A set of inequalities that must all hold at once is a **system of linear inequalities**. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–237.)
 
-## Step 2 — The feasible region
+## Sub lesson 2 — Drawing the Feasible Region
+
+### Step 2 — The feasible region
 
 Draw each boundary line: 2x + y = 100 (through (0, 100) and (50, 0)) and x + y = 60 (through (0, 60) and (60, 0)). A line is **solid** when the inequality allows equality (≤, ≥) and dashed when it does not (<, >). Test a point — the origin (0, 0) satisfies both limits, so the allowed side of each line is the origin side.
 
 The overlap of all the allowed sides is the **feasible region**: here the four-cornered region with corners (0, 0), (50, 0), (40, 20) and (0, 60). Every point inside is a plan that breaks no limit. The corner (40, 20) is where the two lines cross — solve 2x + y = 100 with x + y = 60 and x = 40, y = 20 falls out. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 237–240.)
 
-## Step 3 — The objective function
+## Sub lesson 3 — Finding the Optimum
+
+### Step 3 — The objective function
 
 The thing you want to push to its best is the **objective function**. Here, profit:
 
     P = 40x + 30y
 
-## Step 4 — The best point is a corner
+### Step 4 — The best point is a corner
 
 The key fact of linear programming: **the optimum value of the objective function over a feasible region always occurs at a corner (vertex) of the region.** So there is no need to test the whole region — only the corners:
 

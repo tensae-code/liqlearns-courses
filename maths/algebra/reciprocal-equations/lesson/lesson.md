@@ -6,7 +6,9 @@ Look at the polynomial 3x⁴ + 4x³ − 14x² + 4x + 3. Before you solve anythin
 
 Do you see it? Read them backwards and nothing changes. That little symmetry — invisible if you only stare at the x's — is a machine for solving the equation. This lesson is that machine.
 
-## What a reciprocal polynomial is
+## Sub lesson 1 — What a Reciprocal Polynomial Is
+
+### What a reciprocal polynomial is
 
 A polynomial is **reciprocal** when its coefficients read the same forwards and backwards: the first equals the last, the second equals the second-to-last, and so on. Venezuela's Grade 11 book defines it in the language of the function itself: p is reciprocal when
 
@@ -16,7 +18,9 @@ where n is the degree — replacing x by 1/x gives back the same polynomial, div
 
 Examples: 2x³ + 3x² + 3x + 2 (coefficients 2, 3, 3, 2) and 3x⁴ + 4x³ − 14x² + 4x + 3 (coefficients 3, 4, −14, 4, 3) are reciprocal. One zero anywhere breaks the pattern unless its mirror position is also zero.
 
-## Roots come in reciprocal pairs
+## Sub lesson 2 — Roots in Reciprocal Pairs
+
+### Roots come in reciprocal pairs
 
 Here is the first gift. Suppose r ≠ 0 is a root of a reciprocal equation. Then by the definition,
 
@@ -26,7 +30,9 @@ so **1/r is a root too**. Roots of a reciprocal equation arrive in mirror pairs 
 
 Two consequences follow at once. If you find one root by any method at all, its reciprocal is a second root with no extra work. And x = 0 can never be a root of a reciprocal equation whose constant term is not 0 — because p(0) is the constant term itself. That second fact is what licenses the division by x² in the even-degree method below.
 
-## Odd degree: the root −1 is guaranteed
+## Sub lesson 3 — Odd Degree — the Root −1
+
+### Odd degree: the root −1 is guaranteed
 
 The map x → 1/x has fixed points where x = 1/x, namely x = 1 and x = −1. In a reciprocal equation of **odd** degree, the roots pair off as r with 1/r — and an odd count of roots leaves one root unpaired, sitting at a fixed point. The book shows it is −1 that always occurs: **every odd-degree reciprocal polynomial has the root −1.** (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed p. 76.)
 
@@ -34,7 +40,9 @@ So an odd-degree reciprocal equation opens itself:
 
 Solve 2x³ + 3x² + 3x + 2 = 0. The root −1 is guaranteed — check: −2 + 3 − 3 + 2 = 0. Divide by (x + 1) with Ruffini's synthetic division: the coefficients 2, 3, 3, 2 give the quotient 2x² + x + 2. Its discriminant is 1² − 4·2·2 = −15, negative, so it has no real roots. The equation's only real root is **x = −1**, and the symmetry handed it to us before any hunting. (Venezuela, *La Matemática y el Vivir Bien* (Grade 11), printed p. 76.)
 
-## Even degree: fold it in half
+## Sub lesson 4 — Even Degree — Folding in Half
+
+### Even degree: fold it in half
 
 For even degree there is no guaranteed root, but there is something better: the equation **folds**. Divide by x² (legal, since 0 is not a root) and group each term with its mirror:
 

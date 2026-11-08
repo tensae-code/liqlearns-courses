@@ -1,6 +1,8 @@
 # Matching — Reciprocal Equations
 
-1. (Layers 1–5) Match each equation or fact to its correct first move or partner:
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Layer 1) -> Sub lesson 1 — What a Reciprocal Polynomial Is · (Layer 2) -> Sub lesson 2 — Roots in Reciprocal Pairs · (Layer 3) -> Sub lesson 3 — Odd Degree — the Root −1 · (Layer 4) -> Sub lesson 4 — Even Degree — Folding in Half · (Layer 5) -> Sub lesson 4 — its full-solve items solve this sub lesson's quartic (the cubic full solve is Sub lesson 3's worked ending). The matching exercise spans all four sub lessons; its marker names that span.
+
+1. (Sub lessons 1–4) Match each equation or fact to its correct first move or partner:
    (a) 2x³ + 3x² + 3x + 2 = 0
    (b) 3x⁴ + 4x³ − 14x² + 4x + 3 = 0
    (c) x = −3 is a root of a reciprocal equation

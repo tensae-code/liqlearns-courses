@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Algebraic Fractions
 
 **One thing:** fractions whose numerator or denominator carries letters — simplifying them, and adding and subtracting them by building a common denominator out of the lowest common multiple of the terms.
 
-**Stage:** Algebra (Stage 6). **Level 138** (Malaysia merge, 2026-11-07).
+**Unit:** Algebra (Unit 6). **Level 138** (Malaysia merge, 2026-11-07).
 
 **Why this lesson exists:** Malaysia's Form 2 book teaches algebraic fractions as the closing section of its factorisation chapter: LCM of algebraic terms first, then the fractions. Fractions with numbers are already a lesson (fractions, Stage 4) and partial fractions is a different, later thing (splitting a fraction apart); combining letter-fractions into one fraction had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Simplifying Algebraic Fractions** — what an algebraic fraction is, and cancelling common factors top and bottom to simplify one. (Was depth Layer 1.)
+2. **Algebraic Fractions over a Common Denominator** — the LCM of algebraic terms — each letter at its highest power — and adding or subtracting fractions that already share a denominator. (Was depth Layer 2.)
+3. **Algebraic Fractions as One Single Fraction** — rewriting fractions with different denominators over the lowest common denominator and combining them — or a whole number and a fraction — into one single fraction. (Was depth Layer 3.)
+
+Note on the split: the lesson text's adding-and-subtracting part runs across Sub lessons 2 and 3 — its same-denominator half closes Sub lesson 2 and its different-denominators half is Sub lesson 3, cut at the part's own bold heads; no paragraph is split.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

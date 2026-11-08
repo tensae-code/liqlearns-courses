@@ -12,11 +12,13 @@ Then try to add these:
 
 The first one probably went well — cancelling is familiar from number fractions. The second one has a trap: the bottoms are different, and with letters you cannot just "add the bottoms" or guess the common one. This lesson builds the machine that handles it: the LCM of algebraic terms. (Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 34–40.)
 
-## What an algebraic fraction is
+## Sub lesson 1 — Simplifying Algebraic Fractions
+
+### What an algebraic fraction is
 
 An **algebraic fraction** is a fraction whose numerator or denominator (or both) contains letters: 3/(2x), (x + 1)/5, (2a − b)/(a + b). Everything you know about number fractions still holds — the letters just stand for numbers that are not named yet.
 
-## Simplifying
+### Simplifying
 
 Cancel factors that appear in both the numerator and the denominator:
 
@@ -24,7 +26,9 @@ Cancel factors that appear in both the numerator and the denominator:
 
 The 3s cancel to one 3 below; one x and one y cancel in pairs; 2x survives on top, 3y below. Only **factors** cancel — never terms added together: (x + 2)/x is NOT 2, because the x on top is part of a sum, not a factor. (Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 34–36.)
 
-## The LCM of algebraic terms
+## Sub lesson 2 — Algebraic Fractions over a Common Denominator
+
+### The LCM of algebraic terms
 
 To combine fractions you need a common denominator, and the best one is the **lowest common multiple (LCM)** of the denominators. For terms with letters:
 
@@ -34,11 +38,13 @@ To combine fractions you need a common denominator, and the best one is the **lo
 
 LCM of 3a²b and 6ab³: numbers → LCM(3, 6) = 6; a → highest power a²; b → highest power b³. So the LCM is **6a²b³**. (Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 36–37.)
 
-## Adding and subtracting
+### Adding and subtracting
 
 **Same denominator:** add or subtract the numerators, keep the denominator.
 
     5/(7x) + 2/(7x) = 7/(7x) = 1/x
+
+## Sub lesson 3 — Algebraic Fractions as One Single Fraction
 
 **Different denominators:** rewrite each fraction over the lowest common denominator, then combine.
 

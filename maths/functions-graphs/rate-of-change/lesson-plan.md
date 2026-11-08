@@ -1,10 +1,23 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Rate of Change
 
 **One thing:** how fast one quantity changes as another quantity changes — the change in the first divided by the change in the second — including negative and zero rates, and testing a table to decide whether its rate of change is constant.
 
-**Stage:** Functions, Graphs and Sequences (Stage 10). **Level 150** (Sudan merge, 2026-11-07).
+**Unit:** Functions, Graphs and Sequences (Unit 10). **Level 150** (Sudan merge, 2026-11-07).
 
 **Why this lesson exists:** Sudan's Grade 8 book teaches rate of change as a complete school topic of its own — defined, worked with growth and temperature examples, and tested for constancy in tables — two to three years before any calculus. It had no home: the derivatives lesson opens with the average rate of change only as the doorway to the instantaneous rate, and no other lesson takes the table-tested, pre-calculus treatment. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson. It is a soft hint before derivatives, never a gate: a learner who wants the derivative can start there directly.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **What a Rate of Change Is** — what a rate of change is — the change in a quantity divided by the change in what it follows, with its unit — and working one from two values. (Was depth Layer 1.)
+2. **Negative and Zero Rates** — negative rates (a falling temperature) and zero rates (no change), and what the sign means in words. (Was depth Layer 2.)
+3. **Constant Rate of Change** — deciding whether a table's rate of change is constant by checking every step, and saying why a failing table is non-constant. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

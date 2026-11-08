@@ -1,10 +1,26 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — The Four Means and Their Inequalities
 
 **One thing:** there are four different "averages" of a set of positive numbers — the quadratic mean (root-mean-square), the arithmetic mean, the geometric mean and the harmonic mean — and they always line up in one order: quadratic ≥ arithmetic ≥ geometric ≥ harmonic, with equality only when all the numbers are equal.
 
-**Stage:** Algebra (Stage 6). **Level 156** (North Macedonia merge, 2026-11-07).
+**Unit:** Algebra (Unit 6). **Level 156** (North Macedonia merge, 2026-11-07).
 
 **Why this lesson exists:** North Macedonia's Grade 12 Algebra elective (*АЛГЕБРА ЗА ТРЕТА ГОДИНА*, §3.4 "Средни величини" — Mean values, printed p. 58) defines the four means of positive numbers side by side and proves the inequalities between them, opening with the proof of QM ≥ AM. No other read book in the library does this: the averages in the statistics lessons are data averages (one mean, for data handling), and the inequalities lesson carries named single inequalities such as Cauchy–Schwarz but no means and no chain. So under the everything-goes-in ruling (2026-11-06) the four means get their own lesson. It stands alone: the inequalities lesson is a soft hint before it, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Four Means of a Pair** — the four definitions — arithmetic, geometric, harmonic, quadratic (root-mean-square) — computed for a pair of numbers; the n-number forms are stated here too. (Was depth Layer 1; the three-or-more-numbers work of old depth Layer 4 is stated here, in the n-number forms.)
+2. **The Chain of the Four Means** — the order QM ≥ AM ≥ GM ≥ HM: placing a computed set of four means in it, and spotting a claimed order that breaks the chain. (Was depth Layer 2.)
+3. **The Equality Case** — when the four means are all equal, verified on an equal set, and how the chain opens as a set spreads out. (Was depth Layer 3.)
+4. **Reading the Chain as a Tool** — turning the chain into a bound: the greatest product for a fixed sum (AM ≥ GM), and quick estimates that replace a hard mean by an easier one on the correct side. (Was depth Layer 5.)
+
+Old depth Layer 4 (three or more numbers) has no separate text section: the n-number forms are stated inside Sub lesson 1, so its questions are marked Sub lesson 1 and its pass mark is carried in Sub lesson 1's depth section.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

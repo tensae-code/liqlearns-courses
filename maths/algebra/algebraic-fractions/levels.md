@@ -1,12 +1,30 @@
-# Levels — Algebraic Fractions
+# Algebraic Fractions — sub lessons and depth
 
-One lesson, one level (Level 138). The depth layers inside it are ranks.
+This file is the lesson's depth record, re-expressed as its SUB
+LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub
+Lessons"). Practice is tied to the skill number, as before. The
+questions live in the type files; this file is the by-sub-lesson
+view. The sub lessons are the depths inside this one thing —
+algebraic fractions — reading and simplifying first, then
+common denominators, then one single fraction, the order
+the book teaches it in.
 
-## Depth layers
+One lesson, one level (Level 138).
 
-- **Layer 1 — Read and simplify.** Say what an algebraic fraction is and cancel common factors to simplify one. Pass mark: 4 of 5.
-- **Layer 2 — Common denominators.** Find the LCM of algebraic terms (highest power of each letter, LCM of the numbers) and add or subtract fractions with the same denominator. Pass mark: 5 of 6.
-- **Layer 3 — One single fraction.** Rewrite fractions with different denominators over their lowest common denominator and combine any two algebraic fractions — or a whole number and a fraction — into a single fraction. Pass mark: 4 of 5.
+Mapping from the old depth layers: old Layer 1 = Sub lesson 1;
+old Layer 2 = Sub lesson 2; old Layer 3 = Sub lesson 3. The
+lesson's adding-and-subtracting part splits at the same jump
+as the layers: its same-denominator half closes Sub lesson 2
+and its different-denominators half is Sub lesson 3.
+
+## Sub lesson 1 — Simplifying Algebraic Fractions
+Sub lesson 1 questions from the type files. Say what an algebraic fraction is and cancel common factors to simplify one. Pass mark: 4 of 5.
+
+## Sub lesson 2 — Algebraic Fractions over a Common Denominator
+Sub lesson 2 questions from the type files. Find the LCM of algebraic terms (highest power of each letter, LCM of the numbers) and add or subtract fractions with the same denominator. Pass mark: 5 of 6.
+
+## Sub lesson 3 — Algebraic Fractions as One Single Fraction
+Sub lesson 3 questions from the type files. Rewrite fractions with different denominators over their lowest common denominator and combine any two algebraic fractions — or a whole number and a fraction — into a single fraction. Pass mark: 4 of 5.
 
 ## What "maxed" means here
 

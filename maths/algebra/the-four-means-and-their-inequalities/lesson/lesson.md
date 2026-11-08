@@ -6,7 +6,9 @@ Here are two numbers: 2 and 8. What is "the average" of them?
 
 You probably said 5 — add and halve. Hold on to that answer, then compute three more: the square root of their product; the product doubled and divided by their sum; and the square root of the average of their squares. You get 4, 3.2 and about 5.83. Four different "averages" of the same two numbers — and they always, always come out in the same order. This lesson is that order, and why it never breaks.
 
-## The four means
+## Sub lesson 1 — The Four Means of a Pair
+
+### The four means
 
 For positive numbers, North Macedonia's Grade 12 Algebra book (§3.4, "Средни величини" — Mean values) defines four means side by side. For two numbers a and b:
 
@@ -17,7 +19,7 @@ For positive numbers, North Macedonia's Grade 12 Algebra book (§3.4, "Сред�
 
 For n numbers the same ideas stretch: AM = (x₁ + … + xₙ)/n, GM = (x₁·…·xₙ)^(1/n), HM = n/(1/x₁ + … + 1/xₙ), QM = √((x₁² + … + xₙ²)/n). (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §3.4, printed p. 58.)
 
-## One pair, four answers
+### One pair, four answers
 
 For 2 and 8:
 
@@ -28,7 +30,9 @@ For 2 and 8:
 
 Lined up: 3.2 ≤ 4 ≤ 5 ≤ 5.83, that is HM ≤ GM ≤ AM ≤ QM. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §3.4, printed p. 58.)
 
-## The chain
+## Sub lesson 2 — The Chain of the Four Means
+
+### The chain
 
 That order is a theorem, not a coincidence of the numbers 2 and 8. For **every** set of positive numbers,
 
@@ -36,11 +40,15 @@ That order is a theorem, not a coincidence of the numbers 2 and 8. For **every**
 
 and North Macedonia's book proves the chain, proving **QM ≥ AM first**: fix the sum of the numbers; then the sum of their squares — the thing QM measures — is smallest when the numbers are all equal, and grows as they spread. So QM sits at the top of the chain whenever the numbers differ at all. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §3.4, printed p. 58.)
 
-## The equality case
+## Sub lesson 3 — The Equality Case
+
+### The equality case
 
 All four means agree in exactly one situation: **when all the numbers are equal.** For 3 and 3: AM = 3, GM = √9 = 3, HM = 3, QM = √9 = 3. The chain collapses to a point. Read backwards, this is a measuring instrument: the wider the chain opens, the more spread out the numbers are. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §3.4, printed p. 58.)
 
-## Reading the chain as a tool
+## Sub lesson 4 — Reading the Chain as a Tool
+
+### Reading the chain as a tool
 
 The middle link, AM ≥ GM, is the hardest-working inequality in the chain. It says: **for a fixed sum, the product is greatest when the numbers are equal.** Two numbers with sum 10 have product at most 25 — reached only by 5 and 5. Every other link turns one kind of bound into another: know a set's harmonic mean and you already know its geometric mean is no smaller, and so on up the chain. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §3.4, printed p. 58.)
 
