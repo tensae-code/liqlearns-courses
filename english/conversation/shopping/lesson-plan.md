@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Shopping
 
 **Course:** English · **Title:** Conversation · **Lesson:** Shopping
-**Place in the curriculum:** Level 5, "Conversation"
+**Place in the curriculum:** Unit 5 — Conversation
 (CURRICULUM.md).
 **The one thing this lesson teaches:** the whole shop
 conversation — the assistant's offer, asking for a thing,
@@ -10,6 +12,20 @@ how many and how much, trying a size, and paying.
 you?" with what they want; ask "How much is it?"; ask for
 a size and try a thing on; say how they will pay — cash
 or card — and take the receipt.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The assistant opens, Can I help you** — the frame every shop conversation starts with: "Can I help you?" — "I want to buy …, please" — "Anything else?" — "No, thanks." (Was depth Level 1.)
+2. **How many, for counted things** — for things you can count: "How many … do you want to buy?" (Was part of depth Level 2.)
+3. **How much, the price** — for the price: "How much is it?", "How much does an orange cost?" — and Greece's keeping of the pair apart at a real counter. (Was part of depth Level 2.)
+4. **Sizes and trying on** — the clothes-shop step: "What size?" — "Can I try it on?" — the fitting room, and Mongolia's shop words. (Was part of depth Level 3.)
+5. **Paying and the receipt** — the last step: "By card, please." / "Cash, please." — "Thank you." — and the receipt, the conversation's full stop. (Was part of depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Soft hint only: Numbers and money words help, in their

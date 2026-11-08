@@ -25,7 +25,7 @@ language. The shop lines themselves — the target phrases
 — are never translated. You hear them in English, in an
 English voice, exactly as the assistant says them.
 
-## Then the explanation
+## Sub lesson 1 — The assistant opens, Can I help you
 **The assistant opens.** Every shop conversation in the
 books starts the same way: "Can I help you?" Cambodia's
 Grade 5 book builds its whole first chapter, "Shops and
@@ -34,11 +34,13 @@ customer's answer is its twin: "I want to buy …,
 please." The assistant checks: "Anything else?" — and
 the polite close is "No, thanks."
 
+## Sub lesson 2 — How many, for counted things
 **How many.** For things you can count, the question is
 "How many … do you want to buy?" — Cambodia's shopping
 unit asks it outright (Chapter 1, Unit 4, pp.20–23):
 "How many … do you want to buy?" — "Six, please."
 
+## Sub lesson 3 — How much, the price
 **How much — the price.** For the price, English asks
 "How much is it?" Cambodia's money units ask it both
 ways: "How much does an orange cost?" — "An orange costs
@@ -50,6 +52,7 @@ things, how much for weighed and poured things, with a
 budgeting task in euro prices beside it (Grade 4, Unit 9,
 pp.105–109).
 
+## Sub lesson 4 — Sizes and trying on
 **Sizes and trying on.** In a clothes shop the
 conversation grows one more step: the size. Mongolia's
 Grade 10 book stocks the whole scene — a clothes-shop
@@ -62,6 +65,7 @@ room, a checkout, a receipt. "What size?" — "Medium,
 please." "Can I try it on?" — "Yes, the fitting room is
 there."
 
+## Sub lesson 5 — Paying and the receipt
 **Paying.** The last step is paying, and Mongolia's
 shopping vocabulary names its tools: some cash, a debit
 card, a receipt, a checkout. Two shapes cover it: "By
