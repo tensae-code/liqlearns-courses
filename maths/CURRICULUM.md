@@ -114,6 +114,7 @@ short.*
 - powers-and-indices ✅ — powers, the index laws, zero and negative powers
 - roots-and-surds ✅ — square roots, cube roots, surds kept exact
 - standard-form ✅ — writing big and small numbers as a number times a power of ten
+- types-of-zero-and-scale-origins ✅ — the two kinds of zero: natural zeros that mean "none of it" (mass, length) against chosen zeros with real values below them (Celsius, the timeline), and Kelvin's absolute zero against Celsius's relative one (Level 162, Turkey merge 2026-11-07)
 
 ## Stage 6 — Algebra
 *End of stage: the learner can use letters for numbers, solve
@@ -204,6 +205,7 @@ up with averages, and say how likely things are.*
 - probability ✅ — chance, listing outcomes, probability of one event and of combined events
 - relations ✅ — ordered pairs, the Cartesian product, binary relations and equivalence relations (Level 85, catch-up build 2026-11-06)
 - carroll-diagrams ✅ — Carroll diagrams: sorting by two properties at once (Level 86, catch-up build)
+- examining-statistical-research ✅ — examining other people's research: the audit against the four steps, question/population/sample matching, tracing data to a named source, data privacy and consent (Level 161, Turkey merge 2026-11-07)
 
 ## Stage 12 — Advanced Mathematics
 *End of stage: the learner can work with logarithms, complex
@@ -308,7 +310,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 160 lessons across 18 stages** — the first
+**LADDER TOTAL: 162 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -325,7 +327,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Stages 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Stages 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Stage 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Stages 12 and 8.
+inside Stage 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Stages 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Stages 11 and 5.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:

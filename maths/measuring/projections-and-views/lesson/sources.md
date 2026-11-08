@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey
 
 Every part traces to its book and page.
 
@@ -33,6 +33,7 @@ Every part traces to its book and page.
 **Book 22:** *Libër Mësuesi Matematika 9* (teacher's book) — Albania, Dituri Malaj and Shpresa Bici, Mediaprint, Tiranë, Botimi i parë (first edition) 2018, ISBN 978-9928-08-355-5. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 23:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -80,8 +81,11 @@ Every part traces to its book and page.
 | Application — front/side/top views of a house design (vistas) and orthogonal projection in building columns | Venezuela, Conciencia Matemática (Grade 8), printed p. 48 |
 
 | 3D shapes in projections: front, top and side views of prism, cylinder, pyramid, cone | North Macedonia, Grade 7, Theme 2, printed p. 237 |
+| The same building looks different from different viewpoints; judging an object from one view alone can mislead (Anıtkabir photographs) | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 119 |
+| Building structures from equal cubes and counting visible squares from front, back, left, right and top | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 120 |
+| Drawing all six views of an equal-cube structure; front–back and left–right views are mirror images across a vertical line, top–bottom views across a horizontal line | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 122 |
 
-**Acceptance count: taught in 11 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 12 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 
@@ -92,3 +96,5 @@ India stocks projections and views from Math-Magic Class 2–5 and Mathematics C
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8). From its books: from Grade 8: definition — orthogonal projection of a point/segment on a line; an inclined segment projects shorter, a parallel one equal.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : drawing 3D solids with 2D figures (nets and isometric-style drawing) (plans 62–63). from Grade 8 (teacher's book): : drawing nets of geometric solids; three views of a solid (portfolio project, term 1). from Grade 9 (teacher's book): Representing 3D solids in 2D: top view, front and side elevations; volume of a cube-built solid; isometric…. from Grade 10 (teacher's book): 3D solids and their three views/projections.
+
+Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 7: The same building looks different from different viewpoints; judging an object from one view alone can mislead (Anıtkabir photographs); Building structures from equal cubes and counting visible squares from front, back, left, right and top; Drawing all six views of an equal-cube structure; front–back and left–right views are mirror images across a vertical line, top–bottom views across a horizontal line.
