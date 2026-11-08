@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan
 
 Every part traces to its book and page.
 
@@ -211,6 +211,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 95:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 96:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -249,6 +251,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Reflection symmetry within transformations; reflection and rotation in the coordinate plane | Iraq, Grade 7 student book, Ch5 L5-4 translation, reflection and symmetry p.118; Grade 8 student book, Ch6 L6-4 reflection and rotation in the coordinate plane p.137 |
 | Symmetry: recognise lines of symmetry with mirrors; the line the mirror sits on is the line of symmetry; build symmetric patterns on 3 × 3 grids colouring 1, 2 then 3 squares (pupil book pp. 133–134) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed pp. 172–174 |
 | Symmetry and the axis of symmetry; symmetry on the coordinate grid | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 32–33 |
+| Centre, axis and plane of symmetry of a solid defined; a parallelepiped is centrally symmetric about the intersection of its diagonals (its centre) — taught corrected: the book asserts (printed p. 50) that no convex polyhedron besides the parallelepiped has a centre of symmetry — refuted by its own Topic 14 regular octahedron, and by the icosahedron and dodecahedron. | Tajikistan, Геометрия (Grade 11), printed p. 49 |
+| Symmetry in nature, crystals and architecture (introductory examples) | Tajikistan, Геометрия (Grade 11), printed p. 50 |
+| Axes of symmetry of a cuboid: three mutually perpendicular axes through the centre; a regular pyramid is symmetric about its axis | Tajikistan, Геометрия (Grade 11), printed p. 50 |
+| Planes of symmetry of a cuboid: 3 in general; 2 extra diagonal planes when the base is a square; a cube has 9 planes of symmetry; planes of symmetry of a regular pyramid | Tajikistan, Геометрия (Grade 11), printed p. 51 |
+| Exercise set: counting axes and planes of symmetry of regular triangular/quadrilateral prisms, right parallelepipeds and the cube; whether a regular triangular prism has a centre of symmetry | Tajikistan, Геометрия (Grade 11), printed p. 52 |
+| Theorem 19 (proved): every diametral plane of a ball is a plane of symmetry, and the centre is a centre of symmetry; remarks: same for a sphere; every line through the centre is an axis of symmetry; infinitely many planes of symmetry | Tajikistan, Геометрия (Grade 11), printed p. 88 |
 
 | Line symmetry and rotational symmetry; the mirror test; garden arrangement by symmetry | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
 
@@ -345,7 +353,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 9 student book, printed pp. 125, 127 |
 | Lines of symmetry; completing figures by symmetries (shared core) | Ecuador, Matemática, Grade 10 student book, printed pp. 121, 123 |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 35 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan
@@ -389,3 +397,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 8: concept of symmetry; axis of symmetry (axial symmetry); central (point) symmetry; chapter key points and exercises (symmetry).
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 1 (teacher's book): Symmetry: recognise lines of symmetry with mirrors; the line the mirror sits on is the line of symmetry;…. from Grade 5 (teacher's book): Symmetry and the axis of symmetry; symmetry on the coordinate grid.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Centre, axis and plane of symmetry of a solid defined; Symmetry in nature, crystals and architecture (introductory examples); Axes of symmetry of a cuboid: three mutually perpendicular axes through the centre; Planes of symmetry of a cuboid: 3 in general; Exercise set: counting axes and planes of symmetry of regular triangular/quadrilateral…; Theorem 19 (proved): every diametral plane of a ball is a plane of symmetry, and the…

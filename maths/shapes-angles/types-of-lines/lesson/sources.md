@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
 
 Every part traces to its book and page.
 
@@ -47,6 +47,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 
 **Book 30:** *Texto de Aprendizaje, 2do Año de Educación Secundaria Comunitaria Productiva (Grade 8) — Área Matemática section only* (student book) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), 2024 (the year is printed in the bibliography page's running head, printed p. 146); no cover, title page, imprint or ISBN exists in the section file; printed foliation pp. 58–146. Held-copy defect: printed p. 135 is blank in the secured copy (PDF p. 79) and is cited nowhere (Spanish). Filed in maths/books/bolivia.md (Grade 8 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 31:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
+**Book 32:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 33:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Straight lines: horizontal, vertical, oblique towards the right, oblique towards the left | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 209 |
@@ -81,6 +87,14 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Point, line, segment, ray: notation and drawing; naming lines and parts of lines | Mongolia, Математик VI (Grade 6), printed p. 29 |
 | Parallel and perpendicular lines recognised and drawn; adjacent (neighbouring) angles | Mongolia, Математик VI (Grade 6), printed p. 33 |
 | Parallel and perpendicular lines; lines in geometric figures | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 6, 14–15, 43–44 |
+| Segment, its endpoints and length; comparing segments with a compass | Tajikistan, Математика (Grade 5), printed p. 17 |
+| Plane, straight line (one line through two points), ray and its origin | Tajikistan, Математика (Grade 5), printed p. 24 |
+| Axioms linking point, line and plane; intersecting lines and the angles they form | Tajikistan, Математика (Grade 6), printed p. 210 |
+| Perpendicular lines (⊥), constructing perpendiculars with the set square | Tajikistan, Математика (Grade 6), printed p. 212 |
+| Parallel lines: definition, constructions with ruler and set square, distance between parallels | Tajikistan, Математика (Grade 6), printed p. 214 |
+| Historical note: Thales, Euclid's Elements and the parallel postulate — taught corrected: the historical note calls Euclid's Elements a treatise “of 11 books”; it has 13. | Tajikistan, Математика (Grade 6), printed p. 231 |
+| History of geometry, part 3: the medieval East — Omar Khayyam (1048–1131) and Nasir al-Din al-Tusi (1201–1272) on the theory of parallels and proportion theory, and the graphical solution of cubics; Euclid and Archimedes translated into Arabic by the end of the 9th century | Tajikistan, Геометрия (Grade 11), printed p. 134 |
+| History of geometry, part 5: the fifth postulate — Lobachevsky (1792–1856), Bolyai (1802–1860) and Gauss (1777–1855) and non-Euclidean geometry; Hilbert, Weyl and Kolmogorov (1903–1987) and complete axiom systems; the Grades 7–11 course stated to rest on Kolmogorov's system | Tajikistan, Геометрия (Grade 11), printed p. 136 |
 
 | Straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 42–45 |
 | The straight line — la recta = infinitely many points, endless, drawn with arrows, named by two points AB/BA; conclusions: infinitely many lines through one point, exactly one through two points | Venezuela, Contando con los recursos (Grade 4), printed pp. 84–87 |
@@ -136,7 +150,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Rectas paralelas y perpendiculares en el plano: parallel lines keep equal distances (d₁ = d₂), perpendicular lines form 90°; geographic location of Lake Titicaca (latitude 16° S, longitude 69° W) by intersecting lines on a map | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 78 |
 | Rectas en el plano: parallel (never meet), perpendicular (90°), secant (cuts two or more lines) | Bolivia, Texto de Aprendizaje, Grade 8 (2° de Secundaria), Área Matemática (student book), printed p. 134 |
 
-**Acceptance count: taught in 10 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 11 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; no other read country gives line types a named treatment of their own, so this lesson is built at that honest size — a small lesson, complete for what its one source teaches. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 
@@ -150,3 +164,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Parallel and perpendicular lines; lines in geometric figures.
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Nociones de geometría; La recta, semirrecta y segmento; Rectas paralelas y perpendiculares en el plano; from Grade 8: Rectas en el plano.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Segment, its endpoints and length; Plane, straight line (one line through two points), ray and its origin; from Grade 6: Axioms linking point, line and plane; Perpendicular lines (⊥), constructing perpendiculars with the set square; Parallel lines: definition, constructions with ruler and set square, distance between…; Historical note: Thales, Euclid's Elements and the parallel postulate; from Grade 11: History of geometry, part 3: the medieval East; History of geometry, part 5: the fifth postulate.

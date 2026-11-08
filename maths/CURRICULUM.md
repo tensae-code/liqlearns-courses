@@ -161,6 +161,7 @@ areas, find volumes, and use the right-triangle rule.*
 - temperature-and-traditional-measures ✅ — temperature in °C and °F, and the measures people used before standard units (Level 69, catch-up build)
 - projections-and-views ✅ — projections, views of solids and technical drawing (Level 70, catch-up build)
 - area-under-a-straight-line-graph ✅ — the exact area under a straight line, as the triangle or trapezium beneath it (Level 140, Malaysia merge 2026-11-07)
+- parts-of-a-sphere ✅ — the spherical segment, layer (zone) and sector: their volumes and surface areas (Level 160, Tajikistan merge 2026-11-07)
 
 ## Stage 9 — Further Geometry
 *End of stage: the learner can prove shapes the same or the
@@ -231,6 +232,7 @@ integrate.*
 - numerical-methods ✅ — finding roots approximately: sign change, linear interpolation, Newton–Raphson, fixed-point iteration (Level 147, Rwanda merge 2026-11-07)
 - vector-spaces ✅ — vector spaces and subspaces: closure tests, intersections and sums, Grassmann's formula, span, independence, basis and dimension (Level 148, Rwanda merge 2026-11-07)
 - linear-transformations ✅ — maps that preserve addition and scaling: the two laws and their first properties, the five kinds of linear map, kernel and image, and rank–nullity (Level 155, Venezuela merge 2026-11-07)
+- cross-sections-of-solids ✅ — sections of prisms, pyramids, cylinders, cones and spheres by a cutting plane: what the section is, how to construct it, and the section theorems (Level 159, Tajikistan merge 2026-11-07)
 
 ## Stage 13 — Logic and Proof
 *End of stage: the learner can handle mathematical statements,
@@ -306,7 +308,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 158 lessons across 18 stages** — the first
+**LADDER TOTAL: 160 lessons across 18 stages** — the first
 52 built 2026-11-05 across 12 stages (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -323,7 +325,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Stages 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Stages 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Stage 14.
+inside Stage 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Stages 12 and 8.
 
 ## After Stage 12
 The catch-up build of 2026-11-06 closed the recorded gap:

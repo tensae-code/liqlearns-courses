@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan
 
 Every part traces to its book and page.
 
@@ -21,6 +21,8 @@ Every part traces to its book and page.
 
 **Book 13:** *Matemática, Grade 7 student book (7mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-18-7 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 14:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five regular polyhedra, named and built from nets | Nicaragua, Grade 10, Unit 6 (pp.304–308); South Africa, Grade 8 Workbook, WS127–129 (pp.168–191); South Africa, Grade 9 Workbook, WS114–116 (pp.132–159) |
@@ -34,6 +36,11 @@ Every part traces to its book and page.
 | Polyhedra — faces, edges and vertices; polyhedra vs non-polyhedra; convex polyhedra | India, Mathematics Class 8, printed p. 163 |
 | Polyhedra — regular polyhedra; prisms and pyramids as polyhedron families | India, Mathematics Class 8, printed p. 165 |
 | Euler's formula F + V − E = 2 stated and applied to find unknowns and test possible polyhedra | India, Mathematics Class 8, printed p. 166 |
+| Polyhedron defined; convex polyhedron (two equivalent definitions); faces, edges, vertices, diagonal of a polyhedron | Tajikistan, Геометрия (Grade 11), printed p. 6 |
+| Euler's formula F − E + V = 2 stated (no proof) and sum of plane angles at vertices S = (V − 2)·360°; two worked problems (edge count from F,V; existence of a solid from 3 squares + 2 equilateral triangles) — taught corrected: the footnote claims Euler's formula holding is necessary AND sufficient for convexity; it is not sufficient — it holds for non-convex polyhedra too, including the book's own fig. 1 examples. The answer key to ex. 9 (printed p. 137) prints the chord as 15 cm; the problem is in metres — 15 m. | Tajikistan, Геометрия (Grade 11), printed p. 8 |
+| Absolutely regular polyhedra (Platonic solids) defined: all faces congruent regular polygons with the same number of sides, same number of edges at each vertex; equal dihedral angles; only five kinds possible (non-existence for n ≥ 6 asserted, proof omitted); distinction between a completely regular tetrahedron and a regular triangular pyramid | Tajikistan, Геометрия (Grade 11), printed p. 53 |
+| The five Platonic solids described: regular tetrahedron (4 triangular faces), cube (6 squares), octahedron (8 triangles, 4 at each vertex), dodecahedron (12 regular pentagons), icosahedron (20 triangles, 5 at each vertex) | Tajikistan, Геометрия (Grade 11), printed p. 53 |
+| History of geometry, part 2: Euclid's Elements in 13 books, Book 13 on the regular polyhedra; Plato's conjecture of five regular solids; Legendre's 1794 proof, via Euler's theorem, that no sixth exists | Tajikistan, Геометрия (Grade 11), printed p. 133 |
 
 | Dihedral angle defined: two half-planes with a common edge (the edge and faces of the angle) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 188 |
 | Polyhedral angle: region bounded by three or more planes meeting at a vertex; the trihedral angle of the cube; as many faces and dihedral angles as edges; face angles at a vertex sum to less than 360° | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 189 |
@@ -52,7 +59,7 @@ Every part traces to its book and page.
 | Regular polyhedra: only five exist, with 4, 6, 8, 12 and 20 faces | Ecuador, Matemática, Grade 7 student book, printed p. 72 |
 | Euler formula V − E + F = 2 applied (tetrahedron; the 21-vertex test; the football) | Ecuador, Matemática, Grade 7 student book, printed pp. 75-76 |
 
-**Acceptance count: taught in 10 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador).**
+**Acceptance count: taught in 11 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 
@@ -63,3 +70,5 @@ Rwanda meets Euler's relation in Senior 1, where f + v = e + 2 is built from a f
 India enters platonic solids and euler's formula from Mathematics Class 8: polyhedra.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Hecho en Venezuela* (Grade 6) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 6: solids — Geometric solids in the environment classified: polyhedra (faces are polygonal regions) vs round bodies (curved surfaces); from Grade 11: dihedral angle defined: two half-planes with a common edge (the edge and faces of the angle).
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Polyhedron defined; Euler's formula F − E + V = 2 stated (no proof) and sum of plane angles at vertices S =…; Absolutely regular polyhedra (Platonic solids) defined: all faces congruent regular…; The five Platonic solids described: regular tetrahedron (4 triangular faces), cube (6…; History of geometry, part 2: Euclid's Elements in 13 books, Book 13 on the regular…

@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
 
 Every part traces to its book and page.
 
@@ -24,6 +24,10 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 
 **Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 12:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 13:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Algebraic fractions introduced: fractions with algebraic numerators and denominators, in the factorisation chapter | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 34–35 |
@@ -33,6 +37,14 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Addition and subtraction with different denominators via the lowest common denominator, ending in a single fraction | Malaysia, Mathematics Form 2, Ch. 2 §2.3, printed pp. 38–40 |
 | Algebraic fractions: cancelling factors | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 | Elective course: thyesat algjebrike (Algebraic fractions, advanced) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 35, 60 |
+| Admissible values (domain) of an expression, e.g. x/(x-9) undefined at x = 9 | Tajikistan, Алгебра (Grade 7), printed p. 10 |
+| Rational fraction defined; domain (admissible values) of a rational fraction | Tajikistan, Алгебра (Grade 8), printed p. 14 |
+| Fundamental property of a fraction; cancelling (reducing) rational fractions | Tajikistan, Алгебра (Grade 8), printed p. 18 |
+| Adding and subtracting fractions with the same denominator | Tajikistan, Алгебра (Grade 8), printed p. 25 |
+| Adding and subtracting fractions with different denominators via a common denominator | Tajikistan, Алгебра (Grade 8), printed p. 30 |
+| Multiplying rational fractions; raising a fraction to a power | Tajikistan, Алгебра (Grade 8), printed p. 36 |
+| Dividing rational fractions (multiply by the reciprocal) | Tajikistan, Алгебра (Grade 8), printed p. 42 |
+| Identity transformations of rational expressions: reducing a compound expression to a single fraction; domain can change | Tajikistan, Алгебра (Grade 8), printed p. 47 |
 
 | Simplifying algebraic fractions — Simplifying algebraic fractions by cancelling common factors after factorising (4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 153 |
 | Adding and subtracting — Adding/subtracting algebraic fractions using the LCM of the denominators (within 4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 154 |
@@ -52,7 +64,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Simplify given fractions set inside the matrices tema | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 13 |
 | Operaciones algebraicas: simplifying a compound algebraic condition to (x+y)/(x−y)=5, giving the consecutive pair y=2, x=3; equality axioms and theorems listed (reflexive, symmetric, transitive; adding/multiplying equals) | Bolivia, Texto de Aprendizaje, Grade 12 (6° de Secundaria), Área Matemática (student book), printed p. 133 |
 | Fracciones algebraicas y sus operaciones: algebraic fractions, simplification, addition, subtraction, multiplication and division | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 3 (Grade 9) section, printed p. 106 |
-**Acceptance count: taught in 8 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+**Acceptance count: taught in 9 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
@@ -62,3 +74,5 @@ Mongolia enters through its ministry textbooks Математик VIII, IX, X (G
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Algebraic fractions: cancelling factors; Elective course: thyesat algjebrike (Algebraic fractions, advanced).
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 12: Operaciones algebraicas; from the Compendium's Secundaria 3 section (Grade 9): Fracciones algebraicas y sus operaciones.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Admissible values (domain) of an expression, e.g. x/(x-9) undefined at x = 9; from Grade 8: Rational fraction defined; Fundamental property of a fraction; Adding and subtracting fractions with the same denominator; Adding and subtracting fractions with different denominators via a common denominator; Multiplying rational fractions; Dividing rational fractions (multiply by the reciprocal); Identity transformations of rational expressions: reducing a compound expression to a…

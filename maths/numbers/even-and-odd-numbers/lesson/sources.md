@@ -1,6 +1,6 @@
 # Sources — Even and Odd Numbers
 
-countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania
+countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan
 
 Every part traces to its book and page.
 
@@ -25,6 +25,10 @@ Every part traces to its book and page.
 
 **Book 15:** *Libër Mësuesi Matematika 5* (teacher's book) — Albania, Grup autorësh (a group of authors), translated and adapted by Emiralda Yzeiri and Erjona Saqe, Mediaprint, Tiranë, Botimi i parë (first edition) 2019, ISBN 978-9928-08-398-2. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 16:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
+**Book 17:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Even numbers: on the 100 chart they end in 0, 2, 4, 6, 8; continue the run 96, 98, __, 102 | India, Math-Magic Class 3, Ch. 10 Play with Patterns, printed p. 151 |
@@ -42,6 +46,8 @@ Every part traces to its book and page.
 | Count in twos, doubles and halves, near doubles; fact for 13: 13 is double 6 plus 1 and 13 is odd; near double of 4 is 4 + 3 or 4 + 5; table of half / double / double+1 / double−1 for 1–12 (pupil book p. 81) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed p. 102 |
 | Even and odd factors/numbers | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 7, 16, 53–54 |
 | Odd and even numbers (term 3 revision set) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed p. 32 |
+| Even and odd numbers defined by the last digit; even/odd digits | Tajikistan, Математика (Grade 5), printed p. 4 |
+| Divisibility test for 2; even numbers as 2n and odd numbers as 2n−1 — taught corrected: the book lists 2n−1 from n = 0 as giving 1, 3, 5, 7; at n = 0 the value is −1 — the sequence starts at n = 1. | Tajikistan, Математика (Grade 6), printed p. 13 |
 
 | Even numbers as a sequence — even numbers counted by 2s from 2; locating them inside the natural sequence | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 32–33 |
 | Odd numbers as a sequence — odd numbers counted by 2s from 1; sequence problems: if all sequences are infinite, is each step still + 1 | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 34–35 |
@@ -59,7 +65,7 @@ Every part traces to its book and page.
 | Topic 26: even numbers (multiples of 2, 0 counted even, last digit 0/2/4/6/8) and odd numbers | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 95 |
 | Even and odd numbers by pairing: group elements in twos; the one left over makes it odd (worked with 456, 3, 7) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 50–51 |
 
-**Acceptance count: taught in 8 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
+**Acceptance count: taught in 9 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
 
 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV (Grades 1, 2, 3, 4): even and odd numbers; even and odd defined; recognising even and odd numbers.
@@ -69,3 +75,5 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 1: odd numbers 1, 3, 5, 7, 9 (homework sequence strip).
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 1 (teacher's book): Even and odd numbers: number sequences, counting in ones, twos, threes; doubling, halving, adding one more to…; Chapter opener, Diskuto: count in twos recognising odd/even to 20 as "every other number"; doubles to 5,…; Odd and even numbers: count in twos to 20; even numbers pair up exactly, odd numbers have one left over; "I…; Double of 3 is 6, half of 8 is 4, double of 2 checked by counting on (pupil book p. 80); Count in twos, doubles and halves, near doubles; fact for 13: 13 is double 6 plus 1 and 13 is odd; near…. from Grade 5 (teacher's book): Even and odd factors/numbers; Odd and even numbers (term 3 revision set).
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Even and odd numbers defined by the last digit; from Grade 6: Divisibility test for 2.

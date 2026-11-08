@@ -1,6 +1,6 @@
 # Sources — Step and Piecewise Functions
 
-countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan
+countries: Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan
 
 Every part traces to its book and page.
 
@@ -24,6 +24,8 @@ Every part traces to its book and page.
 
 **Book 15:** *Algebra (Алгебра), Grade 9 student book* — Uzbekistan, Ministry of Public Education; Sh. A. Alimov, A. R. Halmuhamedov, M. A. Mirzaahmedov; Russian (Cyrillic); «O'qituvchi», Tashkent 2006, ISBN 5-645-04565-3. Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 16:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Step functions in applications (tariffs, postage) (p.34); the sign function (p.35); the greatest-integer (floor) function with graphs (p.37) | Iran, Mathematics and Statistics (2), Grade 11 (Humanities branch), Chapter 2, Lesson 2, printed pp.34–44 |
@@ -40,6 +42,7 @@ Every part traces to its book and page.
 | Absolute-value graphs taught corrected — printed p.30: reflecting \|x + 1\| + 2 in the x-axis gives −\|x + 1\| − 2 (vertex (−1, −2)); the book's caption mislabels the drawn curve as −\|x + 1\| + 2 | Kuwait, Grade 10 Term 1 student book, Unit 1 — Algebra & solving equations, printed p.30 |
 | The integer-part (floor) function E(x): the unique integer n with n ≤ x < n+1 (E(π) = 3, E(−3.5) = −4); its graph is a staircase; it has no limit at x = 1 and is discontinuous at every integer | Syria, Grade 12 Scientific, Part One, printed p. 20 |
 | The absolute value function f(x) = |x| defined piecewise, with |−2| and |2| read from its V-shaped graph; absolute value equations and inequalities with domains, e.g. f(x) = |2x − 3| | Malaysia, Additional Mathematics Form 4, Ch. 1 §1.1, printed pp. 5, 10 |
+| A function given by several formulas on different intervals | Tajikistan, Алгебра (Grade 7), printed p. 99 |
 
 | Piecewise definitions — A function defined by different rules on odd/even inputs used to test injectivity (within 1-5) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 26 |
 | Evaluating a piecewise function — Piecewise rule (square if x ≤ 2, x + 2 if x > 2) evaluated in the unit exercise (within 1-8 exercises) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 42 |
@@ -50,7 +53,7 @@ Every part traces to its book and page.
 
 | Piecewise-defined functions (in chapter exercises) | Afghanistan, Mathematics Grade 10 (Dari), printed pp. 145–146 |
 | §14–15 piecewise-defined functions in exercises (different formulas on x ≤ −1 / x > −1 etc.) | Uzbekistan, Algebra, Grade 9 (Russian), printed pp. 79, 85 |
-**Acceptance count: taught in 12 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+**Acceptance count: taught in 13 countries (Iran, Nicaragua, Kazakhstan, Laos, Kuwait, Syria, Malaysia, Sudan, India, North Macedonia, Afghanistan, Uzbekistan, Tajikistan).** Iran carries the floor function and piecewise definitions in three Grade 11 branch books, with step functions opened through tariffs and postage in the Humanities book and the sign function taught beside the floor there. Nicaragua carries the greatest-integer function with its step graph in the Grade 10 student book, and presents it as a piecewise function in the self-learning module. Kazakhstan carries the [x] and {x} pair, graphed together, in Algebra 9. Laos carries the floor function and sgn(x) as named special functions in Grade 10, and counts the absolute-value function among its function families. Kuwait carries the absolute-value function and its graph, stocked in this lesson by the course plan's decision — taught corrected at p.30, where its caption mislabels the reflected curve. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Syria's floor function E(x) is defined and graphed in Grade 12 Part One, inside its functions unit.
 
@@ -61,3 +64,5 @@ Sudan defines functions piecewise in Grade 9 and evaluates them at given points.
 India enters step and piecewise functions from Mathematics Class 11: modulus and signum.
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 10: piecewise-defined functions (in chapter exercises).
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: A function given by several formulas on different intervals.

@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
 
 Every part traces to its book and page.
 
@@ -221,6 +221,16 @@ textbook.
 
 **Book 137:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 138:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
+**Book 139:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 140:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 141:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 142:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -252,6 +262,17 @@ textbook.
 | .1 Direct proportion in graphs (plan 73) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 65 |
 | : applying straight-line graphs in science (physics, chemistry, biology) (portfolio project, term 2) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 81 |
 | Pikat e prerjes së grafikëve (Intersection points of graphs) used to solve equations | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
+| Coordinate (number) ray, unit segment, coordinate of a point | Tajikistan, Математика (Grade 5), printed p. 27 |
+| Length of a segment on the coordinate line: from a to b is b − a (e.g. −3 to 8 is 11) | Tajikistan, Математика (Grade 6), printed p. 164 |
+| Rectangular (Cartesian) coordinate system: origin, abscissa and ordinate axes, quadrants, coordinates of a point | Tajikistan, Математика (Grade 6), printed p. 217 |
+| Graphs: lines x = a and y = b, reading positions of points from a graph | Tajikistan, Математика (Grade 6), printed p. 221 |
+| Graph of a function; plotting and reading graphs (temperature-over-time graph) | Tajikistan, Алгебра (Grade 7), printed p. 82 |
+| Graph of a direct proportionality (ray/line through the origin) | Tajikistan, Алгебра (Grade 7), printed p. 87 |
+| The function y = x^2 and its graph | Tajikistan, Алгебра (Grade 7), printed p. 128 |
+| The function y = x^3 and its graph | Tajikistan, Алгебра (Grade 7), printed p. 130 |
+| The function y = √x: domain, range, properties and graph as the right branch of a parabola | Tajikistan, Алгебра (Grade 8), printed p. 108 |
+| Graphical method of solving equations: roots as abscissae of graph intersections, approximate roots | Tajikistan, Алгебра (Grade 8), printed p. 194 |
+| History of geometry, part 4: Regiomontanus (1436–1476) applying algebra to geometry; Descartes (1596–1650) introducing variable quantities | Tajikistan, Геометрия (Grade 11), printed p. 135 |
 
 | Direct proportion as y = ax, the Cartesian plane, graph of direct proportionality (a > 0 and a < 0), rule of three | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as y = ax and inverse proportionality as y = a/x, with graphs (a > 0 and a < 0); the Cartesian plane; restricted domain | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
@@ -438,7 +459,7 @@ textbook.
 | Laboratorio matemático: GeoGebra, graphs of quadratic functions, logic workshop (one page) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 3 (Grade 9) section, printed p. 122 |
 | Laboratorio matemático: GeoGebra and Excel statistics graphs | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 170 |
 
-**Acceptance count: taught in 35 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia).**.** South Africa carries the
+**Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the slope rules (m = tan θ,
@@ -483,3 +504,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 5 (teacher's book): Coordinates (first quadrant grid work). from Grade 6 (teacher's book): Opener + 7A: reading and plotting coordinates on the coordinate grid (all four quadrants in test work) (plans…. from Grade 8 (teacher's book): .1 Direct proportion in graphs (plan 73); : applying straight-line graphs in science (physics, chemistry, biology) (portfolio project, term 2). from Grade 12 (teacher's book): Pikat e prerjes së grafikëve (Intersection points of graphs) used to solve equations.
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Plano cartesiano; Par ordenado; Puntos, segmentos, rectas y polígonos en el plano; from the Compendium's Secundaria 1 section (Grade 7): Representación de las formas en el plano cartesiano; Laboratorio matemático; from the Compendium's Secundaria 2 section (Grade 8): Laboratorio matemático; from the Compendium's Secundaria 3 section (Grade 9): Laboratorio matemático; from the Compendium's Secundaria 5 section (Grade 11): Laboratorio matemático.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Coordinate (number) ray, unit segment, coordinate of a point; from Grade 6: Length of a segment on the coordinate line: from a to b is b − a (e.g. −3 to 8 is 11); Rectangular (Cartesian) coordinate system: origin, abscissa and ordinate axes, quadrants,…; Graphs: lines x = a and y = b, reading positions of points from a graph; from Grade 7: Graph of a function; Graph of a direct proportionality (ray/line through the origin); The function y = x^2 and its graph; The function y = x^3 and its graph; from Grade 8: The function y = √x: domain, range, properties and graph as the right branch of a parabola; Graphical method of solving equations: roots as abscissae of graph intersections,…; from Grade 11: History of geometry, part 4: Regiomontanus (1436–1476) applying algebra to geometry.

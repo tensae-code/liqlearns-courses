@@ -1,6 +1,6 @@
 # Sources — Mathematical investigations
 
-countries: China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania
+countries: China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan
 
 Every part traces to its book and page.
 
@@ -25,6 +25,8 @@ Every part traces to its book and page.
 
 **Book 12:** *Libër Mësuesi Matematikë 6* (teacher's book) — Albania, Tony Cotton, Caroline Clissold, Linda Glithro, Cherri Moseley, Janet Rees, translated and adapted by Irma Çaça and Fatbardha Gjoni, Mediaprint, Tiranë, Botimi i parë (first edition) 2015, ISBN 978-9928-08-201-5 (the Albanian adaptation of Oxford International Primary Maths 6 Teacher's Guide; its imprint original-title line misprints “Maths 1” for Maths 6). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 13:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Finding the defective product on a balance: split in three; the guarantee table 2–3→1, 4–9→2, 10–27→3, 28–81→4, 82–243→5 weighings | China, Grade 5 second volume, Unit 9 Maths corner, p.111 |
@@ -44,8 +46,9 @@ Every part traces to its book and page.
 | Painted-cube investigation: small cubes painted on exactly one face of a 4×4×4 cube (cube root in use) | Ecuador, Matemática (Talento matemático 6), Grade 6 student book, printed p. 103 |
 | Lo Shu 3×3 magic square reading (repeated from the Grade 5 book) | Ecuador, Matemática, Grade 7 student book, printed p. 20 |
 | Statistical study over 5 hours (data collection, diagrams, mode/median/range/mean, percentage germination) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed p. 191 |
+| The microcalculator: switching on, entering natural numbers and decimals, the four operations, checking computed results | Tajikistan, Математика (Grade 5), printed p. 267 |
 
-**Acceptance count: taught in 7 countries (China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania).** China is the sole source, as filed: its Grade 5 second volume carries the balance search for the defective product with its 3ⁿ guarantee table (p.111), the phone-call notification tree with its doubling 2ⁿ growth (p.102), and the painted-cube exploration (p.44); its Grade 6 second volume's general review carries segment counting n(n−1)/2 among its mathematical-thinking exhibits (pp.100–104). No other read book files these four investigations together as a topic.
+**Acceptance count: taught in 8 countries (China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan).** China is the sole source, as filed: its Grade 5 second volume carries the balance search for the defective product with its 3ⁿ guarantee table (p.111), the phone-call notification tree with its doubling 2ⁿ growth (p.102), and the painted-cube exploration (p.44); its Grade 6 second volume's general review carries segment counting n(n−1)/2 among its mathematical-thinking exhibits (pp.100–104). No other read book files these four investigations together as a topic.
 
 Syria's investigations are its magic squares — additive in Grade 7, multiplicative in Grade 8 — and its Archimedes crown opener in Grade 9.
 
@@ -55,3 +58,5 @@ India enters mathematical investigations from its Class 5 Math-Magic pattern cha
 Mongolia enters through its ministry textbooks Математик IV (Grade 4): the peak-name code; operation chains; equations; round-robin counts.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): Statistical study over 5 hours (data collection, diagrams, mode/median/range/mean, percentage germination).
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: The microcalculator: switching on, entering natural numbers and decimals, the four…

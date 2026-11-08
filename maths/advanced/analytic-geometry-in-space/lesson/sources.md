@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,8 @@ Every part traces to its book and page.
 **Book 14:** *La Matemática y el Vivir Bien* — Venezuela, Grade 11 (5to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-344-9. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *ЛИНЕАРНА АЛГЕБРА И АНАЛИТИЧКА ГЕОМЕТРИЈА ЗА ТРЕТА ГОДИНА НА РЕФОРМИРАНОТО ГИМНАЗИСКО ОБРАЗОВАНИЕ (ИЗБОРЕН ПРЕДМЕТ)* (Linear Algebra and Analytic Geometry for the third year of the reformed gymnasium education — elective subject) — North Macedonia, Костадин Тренчевски, Билјана Крстеска, Глигор Тренчевски и Снежана Здравеска (Kostadin Trenchevski, Biljana Krsteska, Gligor Trenchevski & Snezana Zdraveska), Просветно дело, Skopje, IV издание (fourth edition), 2017 printing (the CIP records the edition from 2007), ISBN 9989-0-0386-6. Filed in maths/books/north-macedonia.md (FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 16:** *ریاضی صنف ۱۱ (Mathematics, Grade 11)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 17:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -77,6 +79,11 @@ Every part traces to its book and page.
 | Angle line–plane — angle between a line and a plane defined and computed | India, Mathematics Class 12 Part II, printed p. 492 |
 | Coordinates in space — Rectangular coordinate system in space: axes, coordinate planes, octants, coordinates of a point | Mongolia, Математик XI (Grade 11), printed p. 79 |
 | Distance and midpoint in space — Distance between two points in space and midpoint of a segment, from the plane formulas extended | Mongolia, Математик XI (Grade 11), printed p. 83 |
+| Sphere defined as the set of points at a fixed distance from a centre; centre, radius, chord, diameter, antipodal points; sphere as the solid of revolution of a semicircle about its diameter | Tajikistan, Геометрия (Grade 11), printed p. 81 |
+| Equation of a sphere derived from the distance formula: (x − a)² + (y − b)² + (z − c)² = R²; centre at origin: x² + y² + z² = R²; example: centre (2; 0; −1), radius √5 (example printed at the top of p. 82 — citation-checker correction) | Tajikistan, Геометрия (Grade 11), printed pp. 81–82 |
+| Worked problem: recognising a sphere equation by completing squares — x² + 6x + y² − 2y + z² = 0 → centre (−3; 1; 0), radius √10 | Tajikistan, Геометрия (Grade 11), printed p. 82 |
+| Exercise set: writing sphere equations from centre and radius; testing whether points lie on a sphere; finding centre and radius from an equation (including by completing squares) | Tajikistan, Геометрия (Grade 11), printed p. 83 |
+| Point-to-plane distance formula stated and used in a worked problem: the plane y − z = 2 cuts the sphere x² + y² + z² = 4 in a circle because d = √2 < R = 2; the cases d > R (no section) and d = R (tangent) drawn from the same working | Tajikistan, Геометрия (Grade 11), printed p. 85 |
 
 | Distance between two points in space derived by two applications of Pythagoras: d = √((x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 250–252 |
 | Midpoint of a segment in space, proved by projections and Thales' theorem; worked example P(2, 1, 5), Q(−3, 2, 1) gives M(−1/2, 3/2, 3); trisection points and the centroid of a triangle as activities | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 252–254 |
@@ -112,7 +119,7 @@ Every part traces to its book and page.
 
 | Coordinates of a point in 3D space; vectors in IR³; distance between two points in space | Afghanistan, Mathematics Grade 11 (Dari), printed pp. 255–258 |
 
-**Acceptance count: taught in 11 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 12 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 
@@ -126,3 +133,5 @@ Mongolia enters through its ministry textbooks Математик XI (Grade 11):
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: distance between two points in space derived by two applications of Pythagoras: d = √((x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²).
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 11: coordinates of a point in 3D space; vectors in IR³; distance between two points in space.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 11: Sphere defined as the set of points at a fixed distance from a centre; Equation of a sphere derived from the distance formula: (x − a)² + (y − b)² + (z − c)² =…; Worked problem: recognising a sphere equation by completing squares; Exercise set: writing sphere equations from centre and radius; Point-to-plane distance formula stated and used in a worked problem: the plane y − z = 2…

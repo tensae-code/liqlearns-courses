@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,10 @@ Every part traces to its book and page.
 
 **Book 12:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 13:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 14:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Approximate numbers as the opening of the topic | Kazakhstan, Shynybekov *Algebra 7*, §1.3, p.42; Yelemessov *Algebra 7*, Ch. 1, p.62 |
@@ -42,8 +46,13 @@ Every part traces to its book and page.
 | Greatest/least possible values; error intervals and percentage error intervals (worked bounds answers printed p. 82) | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 81 |
 | Units and accuracy; bounds of measurements | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 40 |
 | Accuracy of measurements (bounds) opening the trigonometry chapter | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 47–48 |
+| Approximate value of a quantity; absolute error of an approximation | Tajikistan, Алгебра (Grade 7), printed p. 133 |
+| Accuracy of measurement; relative error | Tajikistan, Алгебра (Grade 7), printed p. 136 |
+| Writing approximate values: a ± h notation, reliable digits | Tajikistan, Алгебра (Grade 8), printed p. 282 |
+| Adding and subtracting approximate values: error of a sum/difference bounded by sum of errors; rounding rule | Tajikistan, Алгебра (Grade 8), printed p. 286 |
+| Multiplying and dividing approximate values: rounding governed by relative error | Tajikistan, Алгебра (Grade 8), printed p. 288 |
 
-**Acceptance count: taught in 7 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 8 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Malaysia carries degree of accuracy in Form 3 as the doorway into significant figures, and meets approximation again at the top end, where a small change in a quantity is estimated from its derivative.
 
@@ -53,3 +62,5 @@ India enters errors and accuracy from Math-Magic Class 5: estimating angles.
 Mongolia enters through its ministry textbook Математик IX (Grade 9): over-approximations and under-approximations — the bounds a rounded or measured value lies between.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : using the metre/ruler to measure accurately (to nearest mm/g) (plans 80–81). from Grade 9 (teacher's book): Greatest/least possible values; error intervals and percentage error intervals (worked bounds answers printed…. from Grade 10 (teacher's book): Units and accuracy; bounds of measurements. from Grade 11 (teacher's book): Accuracy of measurements (bounds) opening the trigonometry chapter.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Approximate value of a quantity; Accuracy of measurement; from Grade 8: Writing approximate values: a ± h notation, reliable digits; Adding and subtracting approximate values: error of a sum/difference bounded by sum of…; Multiplying and dividing approximate values: rounding governed by relative error.

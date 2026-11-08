@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan
 
 Every part traces to its book and page.
 
@@ -36,6 +36,8 @@ Every part traces to its book and page.
 
 **Book 22:** *Matemática, Grade 10 student book (10mo EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-33-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 23:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Triangles SSS, SAS, ASA | Sierra Leone, SSS 2 Term 2, L84 (p.103), L85 (p.106), L86 (p.109); Pakistan, Grade 8 (pp.161–170) |
@@ -48,6 +50,7 @@ Every part traces to its book and page.
 | A triangle from two sides and the included angle, in five steps | Yemen, Grade 5 Part 2, 8-3 (p.145) |
 | Construction word problems | Sierra Leone, SSS 2 Term 2, L90 (p.121), L91 (p.124) |
 | The triangle inequality (المتراجحة في المثلث): the length of any side of a triangle is less than the sum of the lengths of the other two sides — if one length equals the sum of the other two, the three points lie on one straight line; testing whether three lengths can be the sides of a triangle (an equality or a failed inequality rules it out) and whether three points are collinear from their mutual distances | Syria, Grade 7 student's book, printed pp. 135–136, 139 |
+| Constructing a triangle from its three sides with compass and ruler; side-length (in)equality questions in the exercises | Tajikistan, Математика (Grade 5), printed p. 272 |
 
 | Drawing a triangle — draw a triangle with a right angle at A, AB = 4 cm, AC = 3 cm | Sudan, Grade 4 Mathematics, printed p. 100 |
 | Drawing a parallelogram — draw a parallelogram using a parallel line through a point (sides 5 cm and 6 cm in the exercise) | Sudan, Grade 4 Mathematics, printed p. 102 |
@@ -102,7 +105,7 @@ Every part traces to its book and page.
 | Triangle inequality stated (smaller sides' sum must exceed the largest), with a 3-5-10 counter-example | Ecuador, Matemática, Grade 10 student book, printed p. 32 |
 | Compass construction of a triangle in steps; choosing feasible side triples | Ecuador, Matemática, Grade 10 student book, printed pp. 32–33 |
 | Construction task with sides 5 cm, 6 cm, 11 cm — impossible as a non-degenerate triangle since 5 + 6 = 11, flagged | Ecuador, Matemática, Grade 10 student book, printed p. 33 |
-**Acceptance count: taught in 13 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 14 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 
@@ -118,3 +121,5 @@ Mongolia enters through its ministry textbook Математик VII (Grade 7): 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Patria Buena* (Grade 5). From its books: from Grade 5: triangle constructions — Constructing a triangle from three sides (SSS) with ruler and compass (4, 5, 6 cm).
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 6: constructing a triangle from its three sides; constructing a triangle from two sides and the included angle; constructing a triangle from two angles and a side; constructing a right triangle from its hypotenuse and one leg.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Constructing a triangle from its three sides with compass and ruler.

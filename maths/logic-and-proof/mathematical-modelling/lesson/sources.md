@@ -1,6 +1,6 @@
 # Sources — Mathematical Modelling
 
-countries: Malaysia, India, Venezuela, Uzbekistan
+countries: Malaysia, India, Venezuela, Uzbekistan, Tajikistan
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 
 **Book 5:** *Geometriya (Геометрия), Grade 9 student book* — Uzbekistan, Ministry of Public Education; B. Haydarov, E. Sarikov, A. Kuchkarov, ed. A. Azamov; Russian (Cyrillic); «O'zbekiston milliy ensiklopediyasi», Tashkent 2006, ISBN 05-89890-136-1 (as printed). Filed in maths/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 6:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mathematical modelling contrasted with problem solving — telling a modelling question from a closed problem named as the first strategic choice | Malaysia, Mathematics Form 5, Ch. 8 §8.1, printed pp. 228–229 |
@@ -25,6 +27,7 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 | Stages of modelling — the stages: understand/simplify the problem → mathematical description and formulation (variables, equations, data, graphs, probability) → solve → interpret and validate against reality (fish-in-a-lake sampling example) | India, Mathematics Class 10, printed p. 335 |
 | Illustrations: rolling a pair of dice (probability model), bicycle purchase on instalments (interest model), estimating trees/leaves-type estimation models | India, Mathematics Class 10, printed p. 339 |
 | Why modelling matters — importance, advantages and limitations of mathematical modelling | India, Mathematics Class 10, printed p. 343 |
+| Mathematical model of a real situation (three stages: build, solve, interpret) | Tajikistan, Алгебра (Grade 7), printed p. 39 |
 
 | Building an exponential population model H(n) = H(1950)(1.0179)^(n−1950) from decade variation rates; model error under about 1.1% checked | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 119–121 |
 | Mathematical modelling of cyclic phenomena defined (tides) | Venezuela, Naturaleza Matemática (Grade 10), printed p. 178 |
@@ -38,8 +41,10 @@ On Malaysia in this lesson: Malaysia's Form 5 book gives mathematical modelling 
 | Lesson 36 traffic-police pursuit problem: sine rule decides whether the patrol reaches the crossing in time (42 s against 47 s) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 82–83 |
 | Lesson 37 measuring heights in the field: AH = a·tg α; two-station method AH = a·sin α·sin β/sin(α − β); distance to an inaccessible point by the sine rule; penalty-kick angle; Kalta Minor minaret, Khiva; Ak Saray palace, Shakhrisabz | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 84–85 |
 
-**Acceptance count: taught in 4 countries (Malaysia, India, Venezuela, Uzbekistan).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
+**Acceptance count: taught in 5 countries (Malaysia, India, Venezuela, Uzbekistan, Tajikistan).** Malaysia's Form 5 book carries the full modelling cycle with a complete worked case; the other read countries teach problem solving within topics but name no modelling method, so this lesson is built at that honest size.
 
 India enters mathematical modelling from Mathematics Class 10: what modelling is.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Naturaleza Matemática* (Grade 10). From its books: from Grade 10: building an exponential population model H(n) = H(1950)(1.0179)^(n−1950) from decade variation rates; model error under about 1.1% checked.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Mathematical model of a real situation (three stages: build, solve, interpret).

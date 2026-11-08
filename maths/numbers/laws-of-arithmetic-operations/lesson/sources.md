@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan
 
 Every part traces to its book and page.
 
@@ -47,6 +47,12 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 
 **Book 28:** *Matemática, Grade 5 student book (5to EGB)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-17-0 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 29:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
+
+**Book 30:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Н. Қодиров (N. Qodirov), 5th edition with changes and additions, Маориф (Maorif), Dushanbe 2021, ISBN 978-99947-1-558-9 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 31:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four laws of arithmetic operations named as a set: identity, commutative, associative, distributive | Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed p. 11 |
@@ -55,6 +61,14 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | The associative law for addition and multiplication, (a + b) + c = a + (b + c) and (a × b) × c = a × (b × c) | Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed p. 11 |
 | The distributive law a × (b + c) = a × b + a × c and a × (b − c) = a × b − a × c — taught corrected: the sentence printed on p. 11 of BOTH editions states the law the wrong way round (it is multiplication that distributes over addition and subtraction); the page's own formulas prove the correct direction | Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed p. 11 (error taught corrected) |
 | The laws applied to determine efficiency in calculation, and to whole numbers, integers, rational numbers and decimals, with equalities checked by working both sides | Malaysia, Mathematics Form 1, Ch. 1 §1.2, printed pp. 11–12 |
+| Commutative and associative laws of addition | Tajikistan, Математика (Grade 5), printed p. 37 |
+| Commutative and associative laws of multiplication | Tajikistan, Математика (Grade 5), printed p. 67 |
+| Distributive law of multiplication over addition and difference, both directions | Tajikistan, Математика (Grade 5), printed p. 78 |
+| The commutative/associative laws of addition and subtraction applied to fractional numbers | Tajikistan, Математика (Grade 6), printed p. 53 |
+| Laws of addition for signed numbers; grouping positives and negatives — taught corrected: Example 2 lets the cancelling pair −13.2 + 13.2 contribute 8 and reaches −5.2; the pair contributes 0 and the sum is −13.2. | Tajikistan, Математика (Grade 6), printed p. 161 |
+| Laws of multiplication for rational numbers | Tajikistan, Математика (Grade 6), printed p. 174 |
+| The distributive law of multiplication over addition for signed/rational numbers | Tajikistan, Математика (Grade 6), printed p. 175 |
+| Commutative, associative and distributive laws of addition and multiplication in letter form | Tajikistan, Алгебра (Grade 7), printed p. 22 |
 
 | Commutativity of addition — swapping the two addends gives the same sum (shown with pictures) | Sudan, Grade 1 Mathematics, printed p. 33 |
 | Distributive property of multiplication over addition — split a factor and multiply each part (e.g. finding 18 × 7 by distribution — worked on printed p. 36; the rule is stated on p. 35) | Sudan, Grade 3 Mathematics, printed p. 35 |
@@ -132,7 +146,7 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Properties of addition: commutative and associative applied in mental calculation; add by decomposing and grouping hundreds, tens, units (692 + 218) | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 84–85 |
 | Multiplication properties: commutative, associative, identity element, distributive over addition | Ecuador, Matemática, Grade 5 student book, printed p. 29 |
 | Associative grouping of multiplications by hundreds (700 = 7 × 100) in the section evaluation | Ecuador, Matemática, Grade 5 student book, printed p. 68 |
-**Acceptance count: taught in 9 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 10 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 
@@ -144,3 +158,5 @@ Mongolia enters through its ministry textbooks Математик II, III, IV, X
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Triángulos, rectángulos y algo más...* (Grade 2) and *Matemática Para La Vida* (Grade 7). From its books: from Grade 2: associative property — the propiedad asociativa: grouping addends differently gives the same sum, e.g. (2+3)+4 = 2+(3+4); from Grade 7: integer addition — Associative and commutative properties of integer addition, each worked both ways (7 + (−5) + (−6) = −4; 2 + (−5) = −5 + 2 = −3).
 
 Afghanistan enters through its Ministry of Education course — the Grade 1 course in two language editions (Pashto and Dari, one work with identical page maps) and Dari student books for Grades 4, 6, 7, 8, 10, 11 and 12, all printing year 1398 HS except the Grade 8 book, which prints 1399 HS on its cover and title page and 1398 HS on its specifications page. From its books: from Grade 7: properties of the operations on integers; properties of the operations on rational numbers.
+
+Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Commutative and associative laws of addition; Commutative and associative laws of multiplication; Distributive law of multiplication over addition and difference, both directions; from Grade 6: The commutative/associative laws of addition and subtraction applied to fractional numbers; Laws of addition for signed numbers; Laws of multiplication for rational numbers; The distributive law of multiplication over addition for signed/rational numbers; from Grade 7: Commutative, associative and distributive laws of addition and multiplication in letter…
