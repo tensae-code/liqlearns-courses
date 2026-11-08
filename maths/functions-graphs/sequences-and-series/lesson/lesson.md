@@ -1,6 +1,6 @@
 # Sequences and series — the lesson
 
-Course: Maths · Stage 10, Functions, Graphs and Sequences · Lesson: Sequences and series
+Course: Maths · Unit 10, Functions, Graphs and Sequences · Lesson: Sequences and series
 Built from: Kazakhstan, Jordan, Sierra Leone, Mauritania,
 South Africa — see lesson/sources.md for every part.
 
@@ -14,7 +14,7 @@ term, the second term, and so on. This lesson is about the
 two great families of sequences, and about adding their terms
 up — which is called a **series**.
 
-## Then the explanation
+## Sub lesson 1 — Sequences, Rules and the nth Term
 **A sequence and its rule.** Sierra Leone's SSS 2 book opens
 the topic exactly here: find the rule that generates a
 sequence and extend it. Every sequence has a rule, and the
@@ -59,6 +59,8 @@ knockout tournament halving, a salary rising 10% a year, and
 a bouncing ball — all of them multiply by the same number
 each step.
 
+## Sub lesson 2 — Series — Adding the Terms
+
 **Series — adding the terms up.** A series is the sum of a
 sequence's terms. Sierra Leone's SSS 2 book teaches the
 difference plainly: a sequence is the list, a series is the
@@ -82,6 +84,8 @@ arithmetic series in full, and honestly notes there is no
 lesson there on the sum of a geometric series — that sum is
 first taught later, in its SSS 3 review lesson, which the
 filing flags with a caution.
+
+## Sub lesson 3 — The Infinite Geometric Sum
 
 **The infinite geometric series.** When |r| < 1, the terms
 shrink towards zero, and the sum settles on a fixed number.

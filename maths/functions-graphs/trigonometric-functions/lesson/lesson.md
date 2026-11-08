@@ -1,6 +1,6 @@
 # Trigonometric Functions — the lesson
 
-Course: Maths · Stage: Stage 10 — Functions, Graphs and Sequences · Lesson: Trigonometric Functions
+Course: Maths · Unit: Unit 10 — Functions, Graphs and Sequences · Lesson: Trigonometric Functions
 Built from: China, Compulsory Volume 3 (B edition) — Pakistan, Class 11 — Iraq, Grade 10 and Grade 11 Scientific — Greece, Algebra B' Lykeiou — Iran, Hesaban (2) — Vietnam, Toán 11 Volume 1 — Ethiopia, Grade 10 — South Sudan, Secondary 4
 
 ## Do it first
@@ -15,7 +15,7 @@ right-angled triangles, for angles under 90°. Here it becomes
 a function of ANY angle, and the height is allowed to be
 negative.
 
-## Then the explanation
+## Sub lesson 1 — Trig Functions of Any Angle
 **Trig functions of any angle.** Iraq's Grade 11 Scientific
 book builds the circular functions whole (Chapter 4, printed
 pp.54–103): a winding mapping wraps the number line around
@@ -53,6 +53,8 @@ prints tan(−36°) as −0.588 — that number is sin(−36°); the
 true value is tan(−36°) ≈ −0.7265, and that is what this
 lesson teaches.
 
+## Sub lesson 2 — The Graphs of the Trig Functions
+
 **The graphs.** Ethiopia's Grade 10 book graphs sine, cosine
 and tangent with their period, amplitude and the tangent's
 asymptotes (Unit 4, printed pp.199–250). Sine starts at 0,
@@ -67,6 +69,8 @@ Chapter 7. Iran's Hesaban (2) studies the period, maximum and
 minimum of y = a·sin bx + c and y = a·cos bx + c, and the
 tangent function with its domain and graph (Grade 12, printed
 pp.24–44, the tangent at pp.30–34).
+
+## Sub lesson 3 — Amplitude, Period, Phase and Models
 
 **Amplitude, period and phase — the sinusoidal family.**
 Pakistan's book names the whole family a + b sin(cθ + d)

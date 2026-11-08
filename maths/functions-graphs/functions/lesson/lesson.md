@@ -1,6 +1,6 @@
 # Functions — the lesson
 
-Course: Maths · Stage 10, Functions, Graphs and Sequences · Lesson: Functions
+Course: Maths · Unit 10, Functions, Graphs and Sequences · Lesson: Functions
 Built from: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania
 — see lesson/sources.md for every part.
 
@@ -14,7 +14,7 @@ sometimes gives two different answers for the same input —
 put in 3, get 6 one day and 9 the next. That is not a function.
 A function never dithers: one input, one output.
 
-## Then the explanation
+## Sub lesson 1 — Function or Not
 **Relation or function?** Egypt's Preparatory 3 book builds
 the idea in order: first the Cartesian product (ordered
 pairs), then a **relation** (a set of ordered pairs between
@@ -38,6 +38,8 @@ function chapter is the generalities the other books build
 on.) If any of those answers is yes, it is a relation, not a
 function.
 
+## Sub lesson 2 — Writing a Function and Its Families
+
 **Writing a function.** A function is usually written
 f(x) = … — "f of x". The machine f(x) = 2x + 1 takes x = 3
 and gives f(3) = 7. Egypt's book teaches the families one by
@@ -51,6 +53,8 @@ its properties and its graph, and how to read a graph to say
 where a function is positive, negative or zero (Egypt's
 Secondary 1 book teaches the sign of a function the same way:
 read it off the graph).
+
+## Sub lesson 3 — Composite, Inverse and Piecewise Functions
 
 **Composite functions — machines in a row.** Put two machines
 together: the output of the first becomes the input of the

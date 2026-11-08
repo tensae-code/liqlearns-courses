@@ -1,19 +1,23 @@
 # Polar Coordinates — the lesson
 
-Course: Maths · Stage: Stage 10 — Functions, Graphs and Sequences · Lesson: Polar Coordinates
+Course: Maths · Unit: Unit 10 — Functions, Graphs and Sequences · Lesson: Polar Coordinates
 Built from: Bangladesh, Class 9 — Kuwait, Grade 11 Term 2 (scientific track)
 
 ## Do it first
 Pin a string at the bottom-left corner of a squared page. Mark any point on the page. Swing the free end of the string until it touches the point. You can now name that point without counting squares across and up: say **how long the string is**, and **how far it turned** from the bottom edge. Two numbers — a length and a turn. That is the whole idea of this lesson, and it is how Bangladesh's Class 9 book introduces the second name of a point: P(x, y) written as P(r, θ) (§10.2, printed pp. 173–175).
 
-## Then the explanation
+## Sub lesson 1 — The Polar Name (r, θ)
 **The polar name.** A point's **polar coordinates** are written (r, θ). The number **r** is the point's distance from the origin — the length of your string, always counted from the origin to the point. The number **θ** is the angle the line from the origin to the point makes with the positive x-axis, measured by turning anticlockwise from that axis. Bangladesh's Class 9 book sets exactly this up in §10.2, "expressing P(x, y) as P(r, θ)" (printed pp. 173–175), inside its chapter on trigonometry and coordinate geometry. Kuwait's Grade 11 book meets the same pair inside complex numbers, where lesson 7-2 is "Polar coordinates and the trigonometric form" (printed pp. 25–32) — the polar name of a point is also the shape of a complex number.
+
+## Sub lesson 2 — Polar to Cartesian
 
 **Polar to Cartesian.** Draw the right triangle: hypotenuse r, angle θ at the origin. The horizontal leg is x and the vertical leg is y, and the trig ratios give the bridge both books use:
 
 x = r cos θ,   y = r sin θ.
 
 Bangladesh works it in §10.2: P(5, 240°) gives x = 5 cos 240° = −5/2 and y = 5 sin 240° = −5√3/2, so the Cartesian point is (−5/2, −5√3/2) (printed pp. 173–175, verified correct in the filing). Notice the signs come free from cos and sin — at 240° both are negative, so the point lands in the third quadrant, exactly where the angle points.
+
+## Sub lesson 3 — Cartesian to Polar and the Many Names of a Point
 
 **Cartesian to polar.** Going back, Pythagoras gives the distance and the triangle gives the angle:
 

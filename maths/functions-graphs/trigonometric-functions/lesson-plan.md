@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Trigonometric Functions
 
-**Course:** Maths · **Stage:** Stage 10 — Functions, Graphs and Sequences · **Lesson:** Trigonometric Functions
-**Place in the curriculum:** Level 82 of 136, in Stage 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Trigonometric Functions
+**Place in the curriculum:** Level 82 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the trigonometric functions of any angle — sine, cosine, tangent and their partners cotangent, secant and cosecant as functions: their signs by quadrant, their graphs, period, amplitude and phase, and sinusoidal models of things that rise and fall.
 **This lesson's own level:** it stands on right-triangle trigonometry (Stage 9) — sine, cosine and tangent of an acute angle — and on functions (Stage 10) and radian measure. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Trig Functions of Any Angle** — sine, cosine and tangent for angles past 90°, the six functions with their domains and ranges, and the sign of each function in each quadrant. (Was depth Level 1.)
+2. **The Graphs of the Trig Functions** — sketching y = sin x, y = cos x and y = tan x over one period, stating each domain and range, and marking the tangent's asymptotes. (Was depth Level 2.)
+3. **Amplitude, Period, Phase and Models** — reading the amplitude, period, phase shift and middle line off a + b sin(cθ + d), and fitting a simple sinusoidal model to a tide- or wheel-shaped pattern. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: right-triangle trigonometry (Stage 9) — the ratios in a right-angled triangle become functions of any angle here. Recommended, never forced.

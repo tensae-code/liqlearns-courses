@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Functions
 
-**Course:** Maths · **Stage:** 10, Functions, Graphs and Sequences · **Lesson:** Functions
-**Place in the curriculum:** Stage 10, the second lesson of the
+**Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Functions
+**Place in the curriculum:** Unit 10, the second lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** functions — what makes a
 relation a function, domain and range, the families (constant,
@@ -10,6 +11,18 @@ piecewise functions.
 **This lesson's own level:** it stands on coordinates and graphs
 (Stage 10, first lesson) and on equations (Stage 6). It needs
 nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Function or Not** — telling a function from a relation — one input, one output — and naming the domain, codomain and range. (Was depth Level 1.)
+2. **Writing a Function and Its Families** — writing f(x), working out f(x) for a number, the constant, linear and quadratic families, and reading where a function is positive or negative from its graph. (Was depth Level 2.)
+3. **Composite, Inverse and Piecewise Functions** — composites worked inside-out, inverse functions and their reflection in y = x, and piecewise functions with different rules for different inputs. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: coordinates and graphs — a function is

@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Special Sequences
 
-**Course:** Maths · **Stage:** Stage 10 — Functions, Graphs and Sequences · **Lesson:** Special Sequences
-**Place in the curriculum:** Level 84 of 136, inside Stage 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Special Sequences
+**Place in the curriculum:** Level 84 of 136, inside Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the special families that sit beyond the plain arithmetic and geometric progressions — harmonic progressions and the harmonic mean, arithmetico-geometric progressions, and the square, cube and triangular numbers.
 **This lesson's own level:** it stands on sequences-and-series — the learner already knows arithmetic progressions (A.P.), geometric progressions (G.P.), nth terms and sums. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Square, Cube and Triangular Numbers** — continuing each pictured family, stating its rule, and finding a named term — for example the 6th triangular number. (Was depth Level 1.)
+2. **Harmonic Progressions and the Harmonic Mean** — flipping a harmonic progression into its arithmetic progression, finding an nth term and a harmonic mean, and inserting a harmonic mean between two numbers. (Was depth Level 2.)
+3. **Arithmetico-Geometric Progressions** — spotting the A.P. part and the G.P. part of an arithmetico-geometric progression, and finding its sum to infinity by the multiply-and-subtract method. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: sequences-and-series — a harmonic progression is an A.P. turned upside down, and an arithmetico-geometric progression is an A.P. married to a G.P. Recommended, never forced.

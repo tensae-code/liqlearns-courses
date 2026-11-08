@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Polar Coordinates
 
-**Course:** Maths · **Stage:** Stage 10 — Functions, Graphs and Sequences · **Lesson:** Polar Coordinates
-**Place in the curriculum:** Level 83 of 136, inside Stage 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Polar Coordinates
+**Place in the curriculum:** Level 83 of 136, inside Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** naming a point by how far it is from the origin and by the angle of the turn to reach it — the polar coordinates (r, θ) — and changing between polar and Cartesian coordinates.
 **This lesson's own level:** it stands on coordinates-and-graphs and on trigonometry — the learner can already plot (x, y) and use sin, cos and tan on a right triangle. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Polar Name (r, θ)** — what r and θ each mean — distance from the origin and the turn — and reading off the polar name of a plotted point. (Was depth Level 1.)
+2. **Polar to Cartesian** — using x = r cos θ and y = r sin θ to turn a polar point into (x, y), including angles past 90°. (Was depth Level 2.)
+3. **Cartesian to Polar and the Many Names of a Point** — finding r = √(x² + y²) and the quadrant-correct θ for a Cartesian point, and giving a second polar name for the same point with r ≥ 0 and the argument in [0, 2π). (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: coordinates-and-graphs — a polar point is still a point on the same plane, only named a second way. Recommended, never forced.

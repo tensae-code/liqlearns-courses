@@ -1,6 +1,6 @@
 # Step and Piecewise Functions — the lesson
 
-Course: Maths · Stage: Stage 10 — Functions, Graphs and Sequences · Lesson: Step and Piecewise Functions
+Course: Maths · Unit: Unit 10 — Functions, Graphs and Sequences · Lesson: Step and Piecewise Functions
 Built from: Iran, Grade 11 (three branch books) — Nicaragua, Grade 10 student book and module — Kazakhstan, Algebra 9 — Laos, Grade 10 — Kuwait, Grade 10 Term 1
 
 ## Do it first
@@ -12,7 +12,7 @@ smoothly upward. It stayed flat, then jumped. This lesson is
 about functions like that — functions that stay flat and jump,
 or that change their rule at a break.
 
-## Then the explanation
+## Sub lesson 1 — The Floor Function and Its Staircase
 **The floor function [x].** Iran's Grade 11 books teach the
 greatest-integer function as a named function: [x] is the
 greatest integer that is not bigger than x (Mathematics and
@@ -28,6 +28,8 @@ same function, written f(x) = [x], and draws its graph
 whole number (filled dot, the step's own value) to just before
 the next whole number (open dot), then a jump. A staircase
 that never slides.
+
+## Sub lesson 2 — Fractional Part, Sign and Stepped Charges
 
 **The fractional part {x}.** Kazakhstan's Algebra 9 sets the
 pair side by side (Abylkasymova et al., Part 2, §21, printed
@@ -55,6 +57,8 @@ Do-it-first table. A step function is any function whose graph
 is a staircase of flat pieces; the floor function is the
 pure staircase, and a tariff table is the same shape wearing
 prices.
+
+## Sub lesson 3 — Piecewise Rules and the Absolute-Value Graph
 
 **Piecewise functions — one function, several rules.**
 Nicaragua's Grade 10 self-learning module presents the

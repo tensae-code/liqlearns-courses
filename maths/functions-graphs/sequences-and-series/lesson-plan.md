@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Sequences and series
 
-**Course:** Maths · **Stage:** 10, Functions, Graphs and Sequences · **Lesson:** Sequences and series
-**Place in the curriculum:** Stage 10, the third lesson of the
+**Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Sequences and series
+**Place in the curriculum:** Unit 10, the third lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** sequences — arithmetic
 (add the same) and geometric (multiply by the same) — their
@@ -11,6 +12,18 @@ geometric sum.
 second lesson: a sequence is a function of position) and on
 powers (Stage 5: the geometric term uses powers). It needs
 nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Sequences, Rules and the nth Term** — finding a sequence's rule, telling arithmetic from geometric, and finding an nth term with aₙ = a₁ + (n − 1)d or bₙ = b₁rⁿ⁻¹. (Was depth Level 1.)
+2. **Series — Adding the Terms** — adding up an arithmetic series with Sₙ = n/2 × (a₁ + aₙ) and a geometric series with Sₙ = b₁(1 − rⁿ)/(1 − r). (Was depth Level 2.)
+3. **The Infinite Geometric Sum** — using S = b₁/(1 − r) for |r| < 1, turning a repeating decimal into a fraction, and solving applied sequence problems. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: functions, and powers and indices.

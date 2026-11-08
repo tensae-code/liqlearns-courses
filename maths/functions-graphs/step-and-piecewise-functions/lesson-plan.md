@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Step and Piecewise Functions
 
-**Course:** Maths · **Stage:** Stage 10 — Functions, Graphs and Sequences · **Lesson:** Step and Piecewise Functions
-**Place in the curriculum:** Level 81 of 136, in Stage 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Step and Piecewise Functions
+**Place in the curriculum:** Level 81 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** functions that jump or change their rule — the floor (greatest-integer) function [x], the fractional part {x}, the sign function sgn, step functions, piecewise definitions, and the absolute-value function and its graph.
 **This lesson's own level:** it stands on functions (Stage 10) — what a function is, domain and range, reading a graph — and on the number line work of the earlier stages. It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Floor Function and Its Staircase** — working out [x] for positive and negative numbers, and reading values off the staircase graph, saying which step a number lands on. (Was depth Level 1.)
+2. **Fractional Part, Sign and Stepped Charges** — working out {x} and sgn(x) for any number, keeping {x} between 0 and 1, and pricing a stepped charge from a tariff table. (Was depth Level 2.)
+3. **Piecewise Rules and the Absolute-Value Graph** — evaluating a piecewise function on both sides of its break, and drawing f(x) = |ax + b| + c with its vertex, axis of symmetry and range named. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: functions (Stage 10) — domain, range and reading values off a graph are used here without re-teaching. Recommended, never forced.
