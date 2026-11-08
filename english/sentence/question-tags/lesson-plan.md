@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Question tags
 
 **Course:** English · **Title:** Sentence · **Lesson:** Question tags
-**Place in the curriculum:** Level 21, "Questions That
-Check" — the first lesson of the level (CURRICULUM.md).
+**Place in the curriculum:** Unit 21 — Questions That Check — the first lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** the question tag —
 the tiny question hung on the end of a statement ("You
 are coming, aren't you?") — built by the opposite-polarity
@@ -19,6 +19,18 @@ there is none); handle aren't I, Let's → shall we,
 commands → will/won't you, indefinite subjects → they,
 and negative words taking a positive tag; and say the
 tag rising or falling on purpose.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Question Tags Mirror Rule** — tag any plain statement — positive takes a negative tag, negative takes a positive tag — copying the statement's own auxiliary, and bring in do/does/did when the statement has no auxiliary to copy. (Was depth Level 1.)
+2. **Question Tags Special Cases** — run the exceptions without a miss — aren't I for I am, shall we for Let's, will/won't you for commands, and the indefinite crowd (somebody, everybody, nobody, everyone) answered by they in the tag. (Was depth Level 2.)
+3. **Question Tags Negative Words and Two Voices** — spot the hidden negative (never, seldom, rarely, few, little) and give it a positive tag, and choose the voice on purpose: rising when you truly do not know, falling when you are checking; the tags-on-the-perfect block sits in this sub lesson's text by its position, though its have/had copying belongs to Sub lesson 1. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Asking yes/no questions (the tag IS

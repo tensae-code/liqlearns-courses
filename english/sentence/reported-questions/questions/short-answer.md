@@ -1,26 +1,28 @@
 # Reported questions — short answer
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Reported Questions Yes/No Reports · (Level 2) -> Sub lesson 2 — Reported Questions Wh- Reports · (Level 3) -> Sub lesson 3 — Reported Questions Polite Frames.
+
 Answer in whole sentences.
 
-**1. (Level 1)** Report it: "Is the shop open?" he
+**1. (Sub lesson 1)** Report it: "Is the shop open?" he
 asked you.
 **Answer: He asked if the shop was open.** (whether for
 if is equally right) — yes/no report: if/whether,
 straight order, is stepped back to was, no question mark.
 
-**2. (Level 2)** Report it: "Where did you go?" she
+**2. (Sub lesson 2)** Report it: "Where did you go?" she
 asked him.
 **Answer: She asked where he had gone.** — the wh- word
 in front, pronoun turned, and the past carried by the
 past perfect (Mauritania's wh- chart, pp.38–39).
 
-**3. (Level 2)** Report it: "Why are you late?" the
+**3. (Sub lesson 2)** Report it: "Why are you late?" the
 teacher asked me.
 **Answer: The teacher asked why I was late.** — why
 keeps the front seat; behind it a straight statement,
 are stepped back to was.
 
-**4. (Level 3)** You must ask an official when the office
+**4. (Sub lesson 3)** You must ask an official when the office
 closes. Wrap the question politely.
 **Answer: I was wondering when the office closes.** (Do
 you have any idea…? / Could I ask you…? in the same

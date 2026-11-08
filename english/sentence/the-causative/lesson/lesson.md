@@ -23,7 +23,7 @@ shapes are the target and stay in English. The passive
 lesson built the participle's chair; this lesson puts
 an arranger in front of it.
 
-## Then the explanation
+## Sub lesson 1 — Causative Have/Get Something Done
 **Have/get something done.** The shape is **have/get +
 object + past participle**: "I **had** my hair **cut**."
 "We **got** the roof **repaired**." "She is **getting**
@@ -38,6 +38,7 @@ Module 8 — and Vietnam's Grade 12 names the same shape
 the passive causative, inside "Active and passive
 causatives" (Unit 6).
 
+## Sub lesson 2 — Causative Tenses and Active Family
 **Have moves; the rest stays.** Only have/get carries
 the tense: "I **had** my car repaired yesterday." "I
 **am having** it repaired now." "I **will have** it
@@ -59,6 +60,7 @@ grammar point (Unit 11, Grammar 1, p.139). Have is the
 calm arrangement; get often carries a shade of effort
 or persuasion — you got him to agree.
 
+## Sub lesson 3 — Causative Force, Permission and Arrangement
 **Make and let — force and permission.** Nepal's
 Grade 8 book lists the whole family in one grammar
 line (Unit 6): causatives have/get something done;

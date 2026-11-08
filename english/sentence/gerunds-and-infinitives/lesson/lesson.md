@@ -25,7 +25,7 @@ the patterns themselves are the target and stay in
 English. Everything in this lesson is those choices,
 verb class by verb class.
 
-## Then the explanation
+## Sub lesson 1 — Gerunds and Infinitives Two Tracks
 **The two lists.** Egypt's Preparatory 9 book prints
 the starter system in one Tip (Unit 9, p.42): verbs
 followed by **to + infinitive** — want, promise, need,
@@ -44,6 +44,7 @@ texts. These lists are habits to learn, not logic to
 derive — the high-frequency verbs above carry most
 sentences you will ever build.
 
+## Sub lesson 2 — Gerunds and Infinitives Both Shapes and Bare Infinitive
 **Both shapes, no change.** Egypt's Secondary 10 book
 deepens the two lists into FOUR classes (Unit 4, p.63):
 to only (decide), -ing only (enjoy), **both with NO
@@ -90,6 +91,7 @@ and had better ride inside its gerunds-and-infinitives
 unit (Unit 11): "You **had better go**," never "had
 better to go."
 
+## Sub lesson 3 — Gerunds and Infinitives Meaning Changes and Perfect Gerund
 **The gerund at work.** The -ing shape is also a noun:
 it can stand as a sentence's subject or as a verb's
 object. Mongolia's English X discovers gerunds as

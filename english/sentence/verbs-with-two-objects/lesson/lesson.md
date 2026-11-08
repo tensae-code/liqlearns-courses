@@ -22,7 +22,7 @@ target and stay in English. You only need a plain
 sentence with one object to start; the second object
 is added in front of you.
 
-## Then the explanation
+## Sub lesson 1 — Verbs with Two Objects Person and Thing
 **The two objects, named.** Most objects are single:
 "She read a book." The giving family carries two.
 Cambodia's Grade 11 course devotes a lesson half to
@@ -49,6 +49,7 @@ between them. The family that runs this shape: give
 lend, pass, offer, tell — tell takes a person and a
 story: "He told us a story."
 
+## Sub lesson 2 — Verbs with Two Objects Swap
 **Shape B — thing + to/for + person.** The same
 Grammar Reference pair, swapped: "**I sent some
 flowers to Mary**." The thing steps forward, and a
@@ -70,6 +71,7 @@ to hand, to; if the work is done so the person ends up
 with the benefit, for. Mixing them breaks the
 sentence: never "I bought a book to Mary."
 
+## Sub lesson 3 — Verbs with Two Objects Pronouns and Live Choice
 **Pronouns take the safe shape.** With full nouns,
 both shapes stand free. With pronouns, everyday
 English prefers the thing in front: "Give **it** to

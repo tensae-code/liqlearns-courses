@@ -19,7 +19,7 @@ machine; this lesson adds the second and teaches you to
 choose. Start here if you like; everything is explained
 below.
 
-## Then the explanation
+## Sub lesson 1 — Object Questions
 **Every question hunts a missing piece.** In "The boy
 broke the cup," there are two pieces a question can hunt:
 the doer (the boy) and the done-to (the cup). Which piece
@@ -40,6 +40,7 @@ in the sentence and the question must climb over him to
 reach the object. Cambodia's Grade 11 teaches this kind
 first (Unit 31A, over its general-knowledge content).
 
+## Sub lesson 2 — Subject Questions
 **Subject questions — no helper at all.** When the
 missing piece IS the doer, the question word simply
 stands in the doer's seat, and the sentence keeps its
@@ -65,6 +66,7 @@ boy's hand to a cup, with the two questions written at
 the arrow's two ends] Point at the arrow before you ask:
 start or end — that is the whole choice.
 
+## Sub lesson 3 — Both Shapes and Negative Questions
 **Both shapes on one event.** Cambodia's Grade 12 book
 sets the pair together in its space unit (Unit 11B), and
 its teacher's guide returns to them in consolidation —

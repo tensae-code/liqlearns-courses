@@ -10,15 +10,17 @@ Built from: Libya, English for Libya Grade 12 Course Book, Unit 4 Lesson 5 (p.46
 ## Do it first
 Tell a small true story in your own language about a plan that a past day held: "We were going to travel on Friday, but the car broke. I was about to leave when the phone rang." Inside a past story, the future does not disappear — it changes coat. The plans, the just-about-tos and the supposed-tos of that past moment wear was and were. This lesson collects those four coats.
 
-## Then the explanation
+## Sub lesson 1 — Plans in the Past Plan and Edge
 **The frame of the whole lesson.** Every form here is a present-day future form moved one step back, because the story stands in the past. Libya's Grade 12 book names the lesson outright — "The future in the past" — and teaches it twice: at Unit 3, Lesson 5 (p.34) and again at Unit 4, Lesson 5 (p.46), where it grows from the unit's own stories.
 
 **1. Was/were going to — the past plan.** "My grandfather **was going to** return it, but he died" — Libya's Unit 4 model, from Mr Dodd's story; and the burglar: "He **was just going to** leave when he felt hungry." The shape is going to with be in the past: I/he/she **was going to**, we/you/they **were going to** + the base verb. Its heart: the plan stood THEN. Very often the story adds **but…** and the plan never happened — the but is this form's closest friend, though a plan can also have come true.
 
 **2. Was/were about to — the edge of the moment.** "I **was about to** leave when the phone rang." About to stands the action on the very edge — a second before it starts. China's Grade 9 book recycles exactly this frame inside its past-perfect unit's reading (Unit 12, Grammar Focus p.92): **be about to + infinitive**, for the moment just before. Moved back, it is was/were about to + base verb, and a when-clause usually catches it.
 
+## Sub lesson 2 — Plans in the Past Expectation
 **3. Was/were supposed to — what was expected.** "We **were supposed to** meet at six" — that was the arrangement, the rule, the expectation; the sentence quietly leaves open whether it happened, and often it did not. China's Grade 9 book teaches the present-day form as a named structure — **be supposed to / be expected to + infinitive** (Unit 10, Grammar Focus p.76) — and this lesson wears its past coat.
 
+## Sub lesson 3 — Plans in the Past Formal Coat and Story
 **4. Was/were + to-infinitive — the formal arranged future.** In stories and news, a bare to-infinitive after was/were states what was arranged or fated: "The meeting **was to** take place in May. She **was to** become a doctor." No going, no about — just was/were + to + base verb. It is the most formal of the four, met in reading more than in speech.
 
 **Asking and denying run as usual**: the was/were swaps to the front to ask (**Was** he **going to** come?), and the not folds after it (I **wasn't supposed to** tell anyone).

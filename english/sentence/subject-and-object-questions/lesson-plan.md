@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Subject and object questions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Subject and object questions
-**Place in the curriculum:** Level 21, "Questions That
-Check" — the second lesson of the level (CURRICULUM.md),
+**Place in the curriculum:** Unit 21 — Questions That Check — the second lesson of the unit (CURRICULUM.md),
 after Question tags.
 **The one thing this lesson teaches:** the two shapes of
 a who/what question — when the question word IS the
@@ -20,6 +20,18 @@ missing piece, whether it is the doer or the done-to;
 build the matching question with no stray did in subject
 questions and no missing did in object questions; and
 use a negative question to check in surprise.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Object Questions** — build object questions with the helper in front — Who did you see? What did she buy? — for who, what and which, in present and past. (Was depth Level 1.)
+2. **Subject Questions** — build subject questions with no do/does/did and the verb in its statement shape, -s included (Who lives here? Who broke it?) — and pass the answer test: name, for any question, whether the missing piece is the doer or the done-to. (Was depth Level 2.)
+3. **Both Shapes and Negative Questions** — hold both shapes against each other on one event without mixing them — and use a negative question (Didn't you…? Aren't you…?) as the surprised check it is. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence (who does it /

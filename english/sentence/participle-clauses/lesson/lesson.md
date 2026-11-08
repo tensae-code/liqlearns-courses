@@ -23,7 +23,7 @@ and the past participle, you own both halves of this
 lesson already; if not, the un-shrinking test below
 rebuilds them as you go.
 
-## Then the explanation
+## Sub lesson 1 — Participle Clauses Reduced Relatives
 **The reduced relative — active.** Egypt's Secondary
 12 book closes its relative-clause line with the
 reduced forms, in its kindness unit (Term 2, Unit 10):
@@ -50,6 +50,7 @@ phrases** among the poem's grammatical aspects
 poem's lines, not a clause system; the system itself
 is Egypt's, Armenia's and Vietnam's here.
 
+## Sub lesson 2 — Participle Clauses Reason, Time and Perfect Participle
 **Free clauses — reason and time.** A participle
 clause can also leave the noun and open the sentence,
 where it usually gives a reason or a time. Armenia's
@@ -78,6 +79,7 @@ it; having done as a verb's object (He admitted having
 lied) is a gerund and lives in the gerunds lesson —
 same shape, different seat.
 
+## Sub lesson 3 — Participle Clauses Hidden-Subject Law
 **The hidden-subject law.** A participle clause has no
 subject of its own, so English reads its subject off
 the main sentence: in "Having finished, **we** left,"

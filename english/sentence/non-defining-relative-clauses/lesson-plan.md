@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Non-defining relative clauses
 
 **Course:** English · **Title:** Sentence · **Lesson:** Non-defining relative clauses
-**Place in the curriculum:** Level 23, "Joining with Who
-and Which" — the second lesson of the level
+**Place in the curriculum:** Unit 23 — Joining with Who and Which — the second lesson of the unit
 (CATCH-UP-PLAN.md), after Relative clauses.
 **The one thing this lesson teaches:** the non-defining
 relative clause — the same joining words set between
@@ -23,6 +23,18 @@ clause from a non-defining one by the commas and by the
 lift-out test; build extra-information clauses with
 who/which/whose/where/when; and comment on a whole
 sentence with which.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Non-Defining Relative Clauses Extra Information and Commas** — spot a non-defining clause, read it with its commas, and pass the lift-out test — remove it and show the sentence still stands and still names its noun fully. (Was depth Level 1.)
+2. **Non-Defining Relative Clauses Three Hard Rules** — build extra-information clauses where the commas stay, that never enters, and the pronoun is never dropped — including whose between commas. (Was depth Level 2.)
+3. **Non-Defining Relative Clauses Whole-Sentence Which** — comment on a whole sentence with which, and handle a fronted preposition (the man to whom…) without losing the commas. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Relative clauses (defining). The

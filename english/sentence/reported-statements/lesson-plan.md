@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Reported statements
 
 **Course:** English · **Title:** Sentence · **Lesson:** Reported statements
-**Place in the curriculum:** Level 22, "Telling What
-People Said" — the first lesson of the level
+**Place in the curriculum:** Unit 22 — Telling What People Said — the first lesson of the unit
 (CURRICULUM.md).
 **The one thing this lesson teaches:** reporting a
 statement — moving another person's words into your own
@@ -22,6 +22,18 @@ truth in the present; and colour the report with the
 reporting-verb bank (add, remark, point out, whisper,
 yell…) and Jordan's impersonal frames (It is said
 that…).
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reported Statements Frame and Staircase** — frame a report with say (that)… and tell + person (that)…, and step the common tenses down one. The staircase block sits whole in this sub lesson's text: it carries this sub lesson's first steps and Sub lesson 2's full chart in one breath, and is not split mid-thought. (Was depth Level 1.)
+2. **Reported Statements Pronouns and Pointing Words** — turn the pronouns and the pointing words (today → that day, here → there, this → that) with the report, and run the whole backshift chart — the chart's text is the staircase block in Sub lesson 1. (Was depth Level 2.)
+3. **Reported Statements Truths and Verb Bank** — hold a universal truth in the present tense inside a report; choose say vs tell inside their collocations (say sorry, tell a joke); and report with the wider verb bank and the impersonal frame (It is said that…). (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions and The present

@@ -20,7 +20,7 @@ here — but start here if you like: a command has no
 tense to step back, so the whole move is explained
 below, and it is a small one.
 
-## Then the explanation
+## Sub lesson 1 — Reported Commands Shape
 **The shape.** A command, reported, freezes into an
 infinitive and rides behind a reporting verb with its
 person in front of it: **verb + person + to + verb**.
@@ -35,6 +35,7 @@ Nothing steps back, because a command carries no tense:
 "Sit down" has no past to retreat into — it simply
 freezes behind **to**.
 
+## Sub lesson 2 — Reported Commands Negative
 **The negative: not stands before to.** A Don't-command
 reports with **not + to-infinitive**: "Don't touch" →
 He told me **not to touch** it. Mauritania's own filed
@@ -42,6 +43,7 @@ practice item is a table manners one: "not to eat with
 fingers" (p.41). The not always stands guard in front of
 the to — in every book in this lesson, that is its seat.
 
+## Sub lesson 3 — Reported Commands Verb Force
 **The verb carries the force.** The plain carrier is
 **told**, and a polite request rides on **asked**:
 "Please help me" → She **asked** me to help her. Nepal's

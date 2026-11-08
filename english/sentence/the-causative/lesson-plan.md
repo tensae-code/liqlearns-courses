@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The causative
 
 **Course:** English · **Title:** Sentence · **Lesson:** The causative
-**Place in the curriculum:** Level 24, "Two Shapes After
-a Verb" — the second lesson of the level
+**Place in the curriculum:** Unit 24 — Two Shapes After a Verb — the second lesson of the unit
 (CATCH-UP-PLAN.md), after Gerunds and infinitives.
 **The one thing this lesson teaches:** the causative —
 saying that you ARRANGE for something to be done or
@@ -22,6 +22,18 @@ arranged job in the have/get + object + participle
 shape, in present, past and future; ask someone
 through have (bare verb) or get (to-verb); and choose
 make for forced, let for allowed, have/get for arranged.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Causative Have/Get Something Done** — build have/get + object + past participle for arranged jobs — hair, repairs, checks — and say who the sentence is about: the arranger, not the doer. (Was depth Level 1.)
+2. **Causative Tenses and Active Family** — move the causative through past, present and future without moving the object or the participle — and run the active pair: have + person + bare verb, get + person + to-verb. (Was depth Level 2.)
+3. **Causative Force, Permission and Arrangement** — choose make (forced), let (allowed) and have/get (arranged) for a situation without mixing their verb shapes, and tell a causative from a plain passive by the arranger standing in it. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The passive and Gerunds and

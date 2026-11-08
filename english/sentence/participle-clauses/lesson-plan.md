@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Participle clauses
 
 **Course:** English · **Title:** Sentence · **Lesson:** Participle clauses
-**Place in the curriculum:** Level 23, "Joining with Who
-and Which" — the third lesson of the level
+**Place in the curriculum:** Unit 23 — Joining with Who and Which — the third lesson of the unit
 (CATCH-UP-PLAN.md), after Non-defining relative clauses.
 **The one thing this lesson teaches:** the participle
 clause — the relative clause shrunk to its participle:
@@ -25,6 +25,18 @@ choose -ing for active and the past participle for
 passive; put the earlier action in the perfect
 participle; and spot a misplaced participle — one whose
 hidden subject is not the main subject.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Participle Clauses Reduced Relatives** — shrink who/which + be clauses both ways — present participle for active, past participle for passive — and grow them back without changing the meaning. (Was depth Level 1.)
+2. **Participle Clauses Reason, Time and Perfect Participle** — open a sentence with a participle clause for reason or time, with the main subject doing the participle's work — the perfect participle for the action that finished first. (Was depth Level 2.)
+3. **Participle Clauses Hidden-Subject Law** — catch and repair a misplaced participle — name the wrong subject the clause points at and rebuild the sentence so the participle's doer and the main subject are one. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Relative clauses and The present

@@ -24,7 +24,7 @@ questions, you own every part of it — that earlier lesson
 helps here, but start here if you like; everything is
 explained below.
 
-## Then the explanation
+## Sub lesson 1 — Question Tags Mirror Rule
 **The shape.** A question tag is a statement plus a
 comma plus a two-or-three-word question: "You are
 coming, **aren't you?**" The statement does the telling;
@@ -51,6 +51,7 @@ yesterday, **didn't she?**" (Egypt's box: no auxiliary
 The subject shrinks to its pronoun in the tag: not
 "Mariam is late, isn't Mariam?" but "…**isn't she?**"
 
+## Sub lesson 2 — Question Tags Special Cases
 **The indefinite crowd takes they.** When the subject is
 somebody, everybody, nobody or everyone, the tag's
 pronoun is **they** — Mauritania's book states the rule
@@ -69,6 +70,7 @@ home, **shall we?**" And a **command** takes **will
 you?** or the softer, inviting **won't you?**: "Close
 the door, **will you?**" "Sit down, **won't you?**"
 
+## Sub lesson 3 — Question Tags Negative Words and Two Voices
 **Negative words take a positive tag.** Some statements
 look positive but carry a hidden no: **never, seldom,
 rarely, few, little, nobody, nothing**. The statement

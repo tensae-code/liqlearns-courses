@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Relative clauses
 
 **Course:** English · **Title:** Sentence · **Lesson:** Relative clauses
-**Place in the curriculum:** Level 23, "Joining with Who
-and Which" — the first lesson of the level
+**Place in the curriculum:** Unit 23 — Joining with Who and Which — the first lesson of the unit
 (CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the defining
 relative clause — joining two sentences into one with
@@ -22,6 +22,18 @@ joining word for a person, thing, place, time or
 possession; join two sentences in the right order; drop
 the joining word exactly where the books allow it and
 keep it everywhere else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Relative Clauses Join and Word** — join two sentences with the right word — who for people, which for things, that for either — and say which noun the clause is stuck to. (Was depth Level 1.)
+2. **Relative Clauses Subject, Object and the Drop** — tell a subject clause from an object clause, and drop the joining word exactly where it is the object — never where it is the subject. (Was depth Level 2.)
+3. **Relative Clauses Whole Family** — run whose (possession), where (place) and when (time) alongside who/which/that, building clauses from two sentences of your own without a wrong word or a wrong drop. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence and Mine and

@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Speech marks
 
 **Course:** English · **Title:** Sentence · **Lesson:** Speech marks
-**Place in the curriculum:** Level 22, "Telling What
-People Said" — the fourth and last lesson of the level
+**Place in the curriculum:** Unit 22 — Telling What People Said — the fourth and last lesson of the unit
 (CURRICULUM.md), after Reported statements, Reported
 questions and Reported commands.
 **The one thing this lesson teaches:** punctuating
@@ -23,6 +23,18 @@ the middle (with two sets of marks when it splits the
 speech); start a new line at every change of speaker;
 and convert a said-that report back into quoted speech
 the way Rwanda's book practises it.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Speech Marks Cage and Capital** — put inverted commas around a speaker's exact words, open the speech with a capital letter, and set the comma before the quote when the reporting clause leads. (Was depth Level 1.)
+2. **Speech Marks Frame Positions** — end the speech with its punctuation inside the marks, and turn the full stop into a comma when the reporting clause follows; the new-line-for-a-new-speaker block sits in Sub lesson 3's text by its position. (Was depth Level 2.)
+3. **Speech Marks Split Speech and Conversion** — cage a split speech in two sets of marks with its reporting clause in the middle, begin a new line for every new speaker, and convert a said-that report into direct speech and back, keeping the exact words exact. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Capital and full stop (the marks

@@ -1,8 +1,10 @@
 # Speech marks — multiple choice
 
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Speech Marks Cage and Capital · (Level 2) -> Sub lesson 2 — Speech Marks Frame Positions · (Level 3) -> Sub lesson 3 — Speech Marks Split Speech and Conversion.
+
 Pick the one right answer.
 
-**1. (Level 1)** Which line quotes Musa's exact words
+**1. (Sub lesson 1)** Which line quotes Musa's exact words
 correctly?
 a) Musa said, "I am ready."  b) Musa said, "i am ready".
 c) Musa said "I am ready".
@@ -10,21 +12,21 @@ c) Musa said "I am ready".
 a capital to open the speech, and the full stop inside
 the closing mark.
 
-**2. (Level 1)** Which line is right?
+**2. (Sub lesson 1)** Which line is right?
 a) "Are you coming"? asked Amina.  b) "Are you coming?"
 asked Amina.  c) "Are you coming," asked Amina?
 **Answer: b)** — the question mark belongs to the
 speech, so it lives inside the marks; the frame's words
 follow outside.
 
-**3. (Level 2)** "I am ready" Musa said — with the frame
+**3. (Sub lesson 2)** "I am ready" Musa said — with the frame
 after the speech, the ending inside the marks is:
 a) a full stop  b) a comma  c) nothing
 **Answer: b) a comma** — "I am ready," Musa said: the
 full stop softens into a comma because the sentence
 continues into its frame.
 
-**4. (Level 2)** In a written story dialogue, a new
+**4. (Sub lesson 2)** In a written story dialogue, a new
 speaker begins:
 a) on the same line, after a comma  b) on a new line
 c) only after a new paragraph heading
@@ -32,7 +34,7 @@ c) only after a new paragraph heading
 the staircase is how the reader's eye follows the
 voices.
 
-**5. (Level 3)** "I will," said Ana, "come at once."
+**5. (Sub lesson 3)** "I will," said Ana, "come at once."
 How many sets of speech marks does the line carry, and
 why?
 a) One — one speech  b) Two — the frame splits the

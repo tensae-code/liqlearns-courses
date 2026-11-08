@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The past continuous
 
 **Course:** English · **Title:** Sentence · **Lesson:** The past continuous
-**Place in the curriculum:** Level 19, "Earlier Than the Past" (CURRICULUM.md).
+**Place in the curriculum:** Unit 19 — Earlier Than the Past (CURRICULUM.md).
 **The one thing this lesson teaches:** the past continuous as a SYSTEM — **was/were + verb-ing** — the past scene in motion: one long action cut across by a short one (interrupted), and two long actions moving side by side (simultaneous). This lesson does not reteach the basic past simple; it builds the moving background the past simple stands on.
 **What the learner can do at the end:** set a past scene with was/were + -ing; cut it with a past-simple action using when; run two scenes side by side with while; and ask and deny in the tense.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Past Continuous Shape and Scene** — build was/were + verb-ing for every who, and set a scene at a named past time. (Was depth Level 1.)
+2. **Past Continuous Interrupted Scene** — join a moving scene to a sharp past-simple cut with when, in both orders, with while only before the past continuous. (Was depth Level 2.)
+3. **Past Continuous Two Scenes and Story** — run two simultaneous scenes with while, and open a mini-story with a scene-setting sentence; the asking-and-denying block and the what-this-lesson-does-not-do block sit in this sub lesson's text by their position. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions (the past simple is this lesson's cutting edge — it is NOT retaught here) and Present actions (the -ing coat, moved one step back). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

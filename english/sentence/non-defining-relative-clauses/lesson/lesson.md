@@ -26,7 +26,7 @@ clause that picks out WHICH one — is this level's
 first lesson; this lesson stands alone, because the
 test below tells the two apart by itself.
 
-## Then the explanation
+## Sub lesson 1 — Non-Defining Relative Clauses Extra Information and Commas
 **The lift-out test.** Vietnam's Grade 9 book states
 the kind in its Planet Earth unit (Unit 10) in plain
 terms: non-defining relative clauses carry **extra
@@ -48,6 +48,7 @@ Grade 11 book presents non-defining relative clauses
 in its United Kingdom unit's Language review 2
 (p.23).
 
+## Sub lesson 2 — Non-Defining Relative Clauses Three Hard Rules
 **The three hard rules.** Everything the defining kind
 allows, this kind forbids — the books are unanimous:
 
@@ -71,6 +72,7 @@ in my class**, teaches us." Possession between commas
 works exactly as in the defining kind — only the
 commas and the no-that, no-drop rules change.
 
+## Sub lesson 3 — Non-Defining Relative Clauses Whole-Sentence Which
 **The whole-sentence which.** One member of the family
 points not at a noun but at EVERYTHING before it.
 Vietnam's Grade 12 book gives it its own grammar

@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The past perfect continuous
 
 **Course:** English · **Title:** Sentence · **Lesson:** The past perfect continuous
-**Place in the curriculum:** Level 19, "Earlier Than the Past" (CURRICULUM.md).
+**Place in the curriculum:** Unit 19 — Earlier Than the Past (CURRICULUM.md).
 **The one thing this lesson teaches:** the past perfect continuous — **had been + verb-ing** — an action that was still moving, for a stretch, up to a point in the past: how long something had been going on before another past moment.
 **What the learner can do at the end:** build had been + verb-ing for every who; measure the stretch with for and since up to a past point; and explain a past mark (tired eyes, wet ground) with the action that had been going on.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Past Perfect Continuous Shape** — build had been + verb-ing for every who — had and been fixed, the -ing spellings right. (Was depth Level 1.)
+2. **Past Perfect Continuous Stretch and Measures** — the stretch up to a past point, and its measures: for for the length, since for the starting point, aimed at that past point. (Was depth Level 2.)
+3. **Past Perfect Continuous Marks and Twin Border** — explain a past mark with a just-stopped stretch, and choose live between this tense and the past perfect, stretch versus finished step; the asking-and-denying block sits in this sub lesson's text by its position. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The past perfect (had, one step back) and The present perfect continuous (been + -ing, the moving stretch). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

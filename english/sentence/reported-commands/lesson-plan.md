@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Reported commands
 
 **Course:** English · **Title:** Sentence · **Lesson:** Reported commands
-**Place in the curriculum:** Level 22, "Telling What
-People Said" — the third lesson of the level
+**Place in the curriculum:** Unit 22 — Telling What People Said — the third lesson of the unit
 (CURRICULUM.md), after Reported statements and Reported
 questions.
 **The one thing this lesson teaches:** reporting an
@@ -21,6 +21,18 @@ choose the verb by force — order/command/instruct for
 orders, tell plain, ask for requests, advise and warn
 for counsel and danger, with Vietnam's eleven-verb bank;
 and place the not before the to in every negative.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reported Commands Shape** — report any plain command with told/asked + the person it hit + to-infinitive, the command's own verb frozen unchanged behind the to. (Was depth Level 1.)
+2. **Reported Commands Negative** — report any Don't… command with not + to-infinitive, the not always standing guard before the to — and keep positive and negative reports apart live, in pairs. (Was depth Level 2.)
+3. **Reported Commands Verb Force** — choose the reporting verb by how the words were said — order, command, instruct for power; ask for a request; advise for counsel; warn for danger; encourage, remind, invite, persuade from the wider bank — without breaking the shape. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: the imperative (orders in their

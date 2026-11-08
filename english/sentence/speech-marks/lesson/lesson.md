@@ -20,7 +20,7 @@ rules. This lesson is the opposite of the three reporting
 lessons before it: they retold; this one quotes. Start
 here if you like — every rule is explained below.
 
-## Then the explanation
+## Sub lesson 1 — Speech Marks Cage and Capital
 **Exact words inside the marks.** Speech marks — two
 small marks to open, two to close — cage the speaker's
 own words: nothing added, nothing taken away, nothing
@@ -51,6 +51,7 @@ mapped curriculum evidence — the map of what the year
 teaches — and it is cited as a map, never as a page read
 in a pupil's book.
 
+## Sub lesson 2 — Speech Marks Frame Positions
 **The ending lives inside.** The punctuation that ends
 the speech belongs to the speech, so it sits **inside**
 the closing mark: Musa said, "I am ready**.**" Amina
@@ -62,6 +63,7 @@ coming**?**" Amina asked — a question mark or exclamation
 mark never softens; only the full stop turns into a
 comma.
 
+## Sub lesson 3 — Speech Marks Split Speech and Conversion
 **The split speech: two cages.** A frame can also fall
 in the MIDDLE of a speech, and then the speech is caged
 in **two sets of marks**, one for each half: "**I

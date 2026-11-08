@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Gerunds and infinitives
 
 **Course:** English · **Title:** Sentence · **Lesson:** Gerunds and infinitives
-**Place in the curriculum:** Level 24, "Two Shapes After
-a Verb" — the first lesson of the level
+**Place in the curriculum:** Unit 24 — Two Shapes After a Verb — the first lesson of the unit
 (CATCH-UP-PLAN.md).
 **The one thing this lesson teaches:** the two shapes a
 verb takes after another verb — the -ing shape (gerund)
@@ -25,6 +25,18 @@ verbs; say what remember/stop/forget mean in both
 shapes and never swap them by accident; use the bare
 infinitive after make/let; and put an earlier action
 into having done.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Gerunds and Infinitives Two Tracks** — send the common verbs down the right track — to only (want, promise, need, refuse, decide) and -ing only (enjoy, finish, keep, avoid). The gerund-at-work block, which carries the gerund as a sentence's subject, sits in Sub lesson 3's text by its position. (Was depth Level 1.)
+2. **Gerunds and Infinitives Both Shapes and Bare Infinitive** — use the both-with-no-change verbs (like, love, start, begin) in either shape, and drop to after make/let and the modals. The both-shapes-meaning-moves block sits in this sub lesson's text by its position, though it is Sub lesson 3's depth. (Was depth Level 2.)
+3. **Gerunds and Infinitives Meaning Changes and Perfect Gerund** — keep remember/forget/stop straight in both shapes by the before/after test, and put a finished-first action into having done after verbs like admit, deny and regret. This sub lesson's text also carries, by their position, the gerund-at-work block and the to-infinitive on a noun (the first person to…). (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Present actions and The present

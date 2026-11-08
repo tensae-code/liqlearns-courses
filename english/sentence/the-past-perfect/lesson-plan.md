@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — The past perfect
 
 **Course:** English · **Title:** Sentence · **Lesson:** The past perfect
-**Place in the curriculum:** Level 19, "Earlier Than the Past" (CURRICULUM.md).
+**Place in the curriculum:** Unit 19 — Earlier Than the Past (CURRICULUM.md).
 **The one thing this lesson teaches:** the past perfect — **had + past participle** — the earlier of two past actions: when a story is already in the past and one thing happened BEFORE another past thing, the earlier one wears had.
 **What the learner can do at the end:** build had + participle for every who (it never changes); order two past actions with before, after, when and by the time; and keep the later action in the plain past simple.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Past Perfect Shape** — build had + past participle for every who — had never changes, and the participle is the true third shape. (Was depth Level 1.)
+2. **Past Perfect Earlier Step** — the earlier of two past actions: the earlier wears had, the later the past simple, joined by before, after, when or by the time, with already/just in their seats, and asking and denying with had. (Was depth Level 2.)
+3. **Past Perfect Border** — hold the line against the neighbours: no had for a lone past action, and no past perfect where the present perfect's tie to now is meant. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Past actions (the participle is the past's third shape) and The present perfect (had is have's past). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

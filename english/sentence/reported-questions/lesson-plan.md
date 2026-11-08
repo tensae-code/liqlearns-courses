@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Reported questions
 
 **Course:** English · **Title:** Sentence · **Lesson:** Reported questions
-**Place in the curriculum:** Level 22, "Telling What
-People Said" — the second lesson of the level
+**Place in the curriculum:** Unit 22 — Telling What People Said — the second lesson of the unit
 (CURRICULUM.md), after Reported statements.
 **The one thing this lesson teaches:** reporting a
 question — a yes/no question travels with if/whether, a
@@ -21,6 +21,18 @@ question with its word in front and statement order
 after it; drop do/did on the bridge; and wrap a question
 in a polite frame when the direct shape would sound
 blunt.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Reported Questions Yes/No Reports** — report any yes/no question with asked if / asked whether, in statement order, the tense stepped back, do/did dropped, and no question mark. (Was depth Level 1.)
+2. **Reported Questions Wh- Reports** — report any wh- question with its wh- word in the front seat and a straight statement behind it — where I lived, what she had bought — backshift and pronoun turns included; the asking-verbs block and the limit in Vietnam's book sit in this sub lesson's text. (Was depth Level 2.)
+3. **Reported Questions Polite Frames** — wrap a direct question in I was wondering…, Could I ask you…? or Do you have any idea…?, keeping the straight order inside the cushion — and choose if or whether on purpose when a choice or an "or not" is in the air. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Reported statements (same level —

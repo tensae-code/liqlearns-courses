@@ -25,7 +25,7 @@ is explained below. (Quoting her EXACT words, with speech
 marks, is a different lesson in this level — here we
 retell.)
 
-## Then the explanation
+## Sub lesson 1 — Reported Statements Frame and Staircase
 **The frame.** A report is one sentence carrying another:
 **She said (that) she was hungry.** The word **that** can
 stay or go. Two verbs open the frame, and they are not
@@ -55,6 +55,7 @@ change. [a picture of a staircase with the tenses on its
 steps, every reported sentence walking one step down]
 Walk one sentence down it now, out loud.
 
+## Sub lesson 2 — Reported Statements Pronouns and Pointing Words
 **Pronouns and pointing words turn too.** The reporter
 stands in a different place from the first speaker, so
 the little words turn: I → he/she, we → they, my → his/
@@ -70,6 +71,7 @@ in a Look box with the shape bare: direct words beside
 reporting with **says** for things still standing
 ("Samira says her ambition is to expand", Unit 6).
 
+## Sub lesson 3 — Reported Statements Truths and Verb Bank
 **say/tell collocations.** The pair also split a set of
 fixed phrases — Cambodia Grade 12 lists them: you
 **say** sorry, say yes, say a prayer; you **tell** the

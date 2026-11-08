@@ -1,9 +1,22 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Future perfect
 
 **Course:** English · **Title:** Sentence · **Lesson:** Future perfect
-**Place in the curriculum:** Level 20, "The Future in Detail" (CURRICULUM.md).
+**Place in the curriculum:** Unit 20 — The Future in Detail (CURRICULUM.md).
 **The one thing this lesson teaches:** the future perfect — **will have + past participle** — a thing that will be FINISHED by a future point: by Friday, by the time you arrive, it will have happened. Its continuous twin, **will have been + verb-ing**, measures how long it will have been going on by then.
 **What the learner can do at the end:** build will have + participle and will have been + -ing; anchor both to a by-point (by Friday, by the time…); state South Africa's printed rule corrected; and sort this tense from the future continuous live.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Future Perfect Shape** — build will have + past participle for every who — past participle, never past tense; the correction block that states that rule sits in Sub lesson 2's text by its position. (Was depth Level 1.)
+2. **Future Perfect By-Point and Twin** — anchor every sentence to its by-point (by, by the time, before, in …'s time), and build the continuous twin with its for-measure up to the point. (Was depth Level 2.)
+3. **Future Perfect Neighbours** — sort live at one future point: moving then (future continuous), finished by then (this tense, simple), stretch measured to then (this tense, continuous); the asking-and-denying block sits in this sub lesson's text. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: The future continuous (its pair — the moving scene) and The present perfect (have + participle, one step forward). Recommended, never forced — this lesson stands alone for a learner who lands on it directly (DIRECT-ENTRY rule).

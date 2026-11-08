@@ -10,15 +10,17 @@ Built from: Egypt, Secondary 12 Term 2 (the Past Perfect box) — China, Grade 9
 ## Do it first
 Tell a small story about yesterday in your own language: two things that happened, one before the other. "When I got home, my brother had already eaten." English keeps a special coat for the EARLIER one — the past inside the past. You already own its two pieces: had, and the participle from The present perfect. Here they work one step further back.
 
-## Then the explanation
+## Sub lesson 1 — Past Perfect Shape
 **The shape.** The past perfect is **had + the past participle**: I **had finished**. She **had left**. They **had eaten**. Had never changes — not for he, not for they; had is the same for every who. Egypt's Secondary 12 Term 2 box and China's Grade 9 Grammar Focus (p.92) state the build in exactly these pieces, and Kuwait's Pearls 9B (p.21) tables it the same way.
 
+## Sub lesson 2 — Past Perfect Earlier Step
 **Its one job — the earlier of two.** Both actions are past. The past simple tells the story's main line; the past perfect steps ONE step behind it. "When we arrived, the train **had left**." Arriving is past; leaving is earlier still — so leaving wears had. South Africa's workbook says it in a child's words: this is "the past in the past." Sudan's SPINE 5 (Chapter 6) teaches it inside a story called "Too Late" — the name itself is the job: the earlier thing is already done, and it is too late to change it.
 
 **The travelling words.** The books pair the tense with **before**, **after**, **when** and **by the time**: "**By the time** I got to the bus stop, the bus **had already left**" — China's Grade 9 frame, word for word in its Grammar Focus. **Already** and **just** sit between had and the participle: She had **just** closed the door. Uzbekistan's English Matters 8 keeps the tense in its three-page Grammar Section (p.153) beside the passive — a reference-page tense, stated once and used in stories. Nepal meets it at Grade 7 (Unit 16) inside the past-tense set of a story, and again where its books name the full past set together. Yemen crosses to it in Book 3's narrative work and practises it in Workbook 4. Malaysia teaches it at Form 3 (Unit 7) and returns to it at Form 5 (Unit 4).
 
 **Asking and denying.** Had steps to the front to ask: **Had** you **finished**? — Yes, I had. / No, I hadn't. The not-form folds inside: He **hadn't seen** it before.
 
+## Sub lesson 3 — Past Perfect Border
 **The border, kept plainly.** One past action alone, with its time, wears the past simple — never had. Had appears only when a SECOND, later past action stands beside it (or is understood from the story) and this one must be shown earlier.
 
 1. **Media slot 1 — a picture of two footprints on a path, the first one older and fainter, with the words HAD LEFT under the first and ARRIVED under the second.** What you do: the student points at the older footprint and says which action happened first — had always stands on the earlier one.

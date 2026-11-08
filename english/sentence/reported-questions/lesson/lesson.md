@@ -21,7 +21,7 @@ but start here if you like; the one new thing is how a
 question's SHAPE changes on the bridge, and that is
 explained in full below.
 
-## Then the explanation
+## Sub lesson 1 — Reported Questions Yes/No Reports
 **A reported question is not a question.** Nobody is
 being asked anything; you are reporting that a question
 was asked. So the question straightens out into a
@@ -49,6 +49,7 @@ report; **whether** is the better pick when a choice or
 an "or not" stands nearby: "He asked whether I wanted
 tea or coffee."
 
+## Sub lesson 2 — Reported Questions Wh- Reports
 **Wh- questions keep their word in front.** The wh- word
 itself becomes the hook: "Where do you live?" → He asked
 **where I lived**. "What did you buy?" → She asked
@@ -86,6 +87,7 @@ are not taught in that book; the series meets wh-
 reporting in its Grade 8 book. This lesson teaches both
 kinds, on the fuller witnesses above.
 
+## Sub lesson 3 — Reported Questions Polite Frames
 **The polite frames — asking on a cushion.** Sometimes
 you are not reporting a question but ASKING one, and the
 direct shape would sound blunt to a stranger or an

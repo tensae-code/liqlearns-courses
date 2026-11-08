@@ -10,11 +10,13 @@ Built from: Bolivia, the ministry teacher compendium (Year 3, Topic 6) — Cambo
 ## Do it first
 Freeze a moment from yesterday in your own language, like a photograph that still moves: "At eight last night, I was cooking. My brother was reading." Then one sharp thing cuts across it: "…when the phone rang." English keeps the moving scene in one coat — was/were + -ing — and the sharp cut in the past simple you already own. This lesson is the system of those two coats together.
 
-## Then the explanation
+## Sub lesson 1 — Past Continuous Shape and Scene
 **The shape.** The past continuous is **was/were + verb-ing**: I **was cooking**. She **was reading**. They **were playing**. Was goes with I/he/she/it, were with you/we/they — the same was/were you met as be's past. Mongolia's books build it as the story's background (English VIII, Unit 4; English IX, Unit 5), and Bolivia's compendium tables it whole at Year 3 (Topic 6).
 
+## Sub lesson 2 — Past Continuous Interrupted Scene
 **Job one — the interrupted scene.** A long action is moving; a short action cuts across it. The long one wears this tense, the short one wears the past simple, and **when** joins them: "I **was walking** home **when** it started to rain." Vietnam's Grade 9 book (Unit 4) states the pair in just these terms — actions happening at a particular past time, and longer actions interrupted by a past simple action — and adds the joining rule its page prints: **when** can stand before either tense, **while** only before the past continuous. Kuwait walks the same border in steps: Skyline 4A teaches the tense with when, Skyline 5B returns to it with while.
 
+## Sub lesson 3 — Past Continuous Two Scenes and Story
 **Job two — two scenes side by side.** When two long actions move together, BOTH wear this tense, joined by **while**: "**While** I **was cooking**, he **was washing** the dishes." Cambodia's Grade 8 book works the tense across two units (Units 29–30) as story background, and Sudan's SPINE 5 sets it as Chapter 5's tense work, inside stories where scenes must be set before events can land.
 
 **Asking and denying.** Was steps to the front: **Was** she **sleeping**? — Yes, she was. / No, she wasn't. The not-form folds inside: They **weren't listening**.

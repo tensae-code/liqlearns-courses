@@ -10,13 +10,15 @@ Built from: Egypt, Secondary 12 Term 2 (the Past Perfect Continuous box) — Mal
 ## Do it first
 Think of a moment yesterday and something that was already going on before it, in your own language: "When the teacher came in, we had been waiting for ten minutes." The waiting started earlier, stretched on, and was still true at that past moment. English builds that picture from pieces you own: had from the last lesson, been, and the -ing coat.
 
-## Then the explanation
+## Sub lesson 1 — Past Perfect Continuous Shape
 **The shape.** The past perfect continuous is **had been + verb-ing**: I **had been waiting**. She **had been running**. They **had been working**. Had never changes, been never changes; only the verb's -ing coat carries the action. Egypt's Secondary 12 Term 2 book boxes it beside the past perfect in the same lesson, in exactly these pieces.
 
+## Sub lesson 2 — Past Perfect Continuous Stretch and Measures
 **Its one job — the stretch up to a past point.** The past perfect counts a finished earlier step (*had left*). This tense watches the earlier action MOVING: how long it had been going on when the later past moment arrived. Egypt's box states the border plainly — the duration of an action in progress up to a past point, NOT a single completed action — and drills it with **for** two hours, **all** morning, **since** 9 a.m. Its model sentence is the lesson's emblem: "She was exhausted **because she had been running** for an hour." The tiredness is past; the running stretched before it.
 
 **The company it keeps.** Malaysia teaches the form at Form 3 (Unit 7) and returns to it at Form 5 (Unit 4), beside its simple twin. Pakistan's English X gives it a printed rule box of its own (Unit 11). Sudan's SPINE 5 sets it as Chapter 7's "Time for Tenses." Venezuela presents it in the Grade 11 course — the evidence held for Venezuela is its **teacher's guide** (My Victory, Teacher's Book 5, Lesson 14), so Venezuela is cited here as guide evidence, not as a pupil's-book read.
 
+## Sub lesson 3 — Past Perfect Continuous Marks and Twin Border
 **Asking and denying.** **Had** you **been waiting** long? — Yes, I had. The not-form folds inside: He **hadn't been sleeping** well.
 
 **The border with its simple twin.** Finished step, counted done → past perfect (*had written three letters*). Stretch still moving, measured in time → this tense (*had been writing for an hour*). When the sentence's heart is HOW LONG, this is the coat.

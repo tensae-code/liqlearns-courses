@@ -1,8 +1,8 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
 # Lesson plan — Verbs with two objects
 
 **Course:** English · **Title:** Sentence · **Lesson:** Verbs with two objects
-**Place in the curriculum:** Level 24, "Two Shapes After
-a Verb" — the third lesson of the level
+**Place in the curriculum:** Unit 24 — Two Shapes After a Verb — the third lesson of the unit
 (CATCH-UP-PLAN.md), after The causative.
 **The one thing this lesson teaches:** the two-object
 verb — give, send, show and their family carry a PERSON
@@ -23,6 +23,18 @@ objects in any give/send/show sentence and say which
 is the person and which the thing; rebuild any
 two-object sentence in the other shape; and choose to
 or for by the verb's family without stopping to think.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Verbs with Two Objects Person and Thing** — build shape A — verb + person + thing — for give, send, show and tell, and name each object: the person (indirect) and the thing (direct). (Was depth Level 1.)
+2. **Verbs with Two Objects Swap** — rebuild any shape-A sentence as thing + to + person for the handing-over verbs, and thing + for + person for the doing-for verbs — and back again — without losing an object. (Was depth Level 2.)
+3. **Verbs with Two Objects Pronouns and Live Choice** — run pronouns safely (give it to her), choose to or for by the verb's family at speaking speed, and say which shape a heard sentence is wearing and why. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Building a sentence. Recommended,

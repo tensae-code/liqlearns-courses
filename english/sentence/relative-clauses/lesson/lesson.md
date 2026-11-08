@@ -27,7 +27,7 @@ heard in English, never translated. If you can already
 build a plain sentence, you can start here; everything
 is explained below.
 
-## Then the explanation
+## Sub lesson 1 — Relative Clauses Join and Word
 **The join.** A relative clause is a sentence that has
 been stuck onto a noun to say more about it — Egypt's
 Preparatory 9 book defines it in exactly those words:
@@ -65,6 +65,7 @@ word: "the girl **whose** bag is red" — the clause says
 whose thing it is, exactly the job Mine and yours
 taught for pronouns standing alone.
 
+## Sub lesson 2 — Relative Clauses Subject, Object and the Drop
 **Subject seat, object seat.** Inside its clause, the
 joining word has a job. It can be the clause's subject:
 "the man **who lives** here" — who does the living. Or
@@ -95,6 +96,7 @@ labelled "who lives here" stays stuck fast] Peel only
 the object sticker; the subject sticker holds the
 sentence together.
 
+## Sub lesson 3 — Relative Clauses Whole Family
 **Where and when are clauses, not questions.** "The
 house **where** I was born" and "the day **when** we
 met" look like question words doing a second job —
