@@ -64,6 +64,58 @@ count joins with a line: twenty-one, twenty-two — the books
 meet those inside dates and prices as you grow; the joints
 are always the numbers you already own.
 
+## Sub lesson 4 — Numbers Past 100: Hundreds, Thousands, a Million
+
+**Past 100** — the line keeps climbing, and the words are
+built from pieces you already own. Iraq's Grade 4 book sings
+it in its "Big Numbers" rhyme: the count runs from 100 to
+1000 — "We say one thousand" (Unit 2, printed pp.22–37) —
+and its shop prices climb on to 2000 and 3000.
+
+The hundreds first: 100 **one hundred** · 200 **two hundred** ·
+300 **three hundred** · 400 **four hundred** · 500 **five
+hundred** · 600 **six hundred** · 700 **seven hundred** ·
+800 **eight hundred** · 900 **nine hundred**. Between a
+hundred and the next, the tens and ones join with **and**,
+exactly the way Nepal's Grade 3 book writes three-figure
+numbers in words: 514 is "five hundred and fourteen," and
+the run goes on through 799 (Unit 3, printed pp.18–24).
+
+Then the thousands. Jordan's Grade 5 book teaches the big
+numbers as a set of their own: **a hundred, five hundred, a
+thousand, five thousand, ten thousand, fifty thousand, a
+hundred thousand, a million** (Unit 3, pp.32–41). Read a big
+number in its groups, the way Greece's Grade 7 workbook
+matches them whole: "Thirteen thousand, six hundred and
+seventeen" is 13,617, and "Fifty-two thousand, nine hundred
+and two" is 52,902 (Workbook, Appendix Task 46, printed
+p.138). Say the thousands first, then the hundreds, tens and
+ones after them — with **and** before the last part, just as
+in 514.
+
+## Sub lesson 5 — Ordinal Numbers: First to One Hundredth
+
+Counting tells **how many**; the ordinals tell **which one
+in the line** — the race words: 1st **first** · 2nd
+**second** · 3rd **third** · 4th **fourth** · 5th **fifth** ·
+6th **sixth** · 7th **seventh** · 8th **eighth** · 9th
+**ninth** · 10th **tenth**. Jordan's Grade 4 book teaches the
+set on to **thirty-first** inside its celebrations unit
+(Semester 2, Unit 8, pp.38–47), because ordinals are how dates
+are said: the 4th of April, the 1st of June. China's Grade 5
+book works them the same way — ordinals as a working date
+system (Volume 2, Unit 4).
+
+Most ordinals are the counting word + **th**. Five change
+their shape and are learned as themselves: **fifth** (not
+"fiveth"), **eighth**, **ninth**, **twelfth**, and the tens,
+whose -y turns to -ie-: **twentieth**, **thirtieth**,
+**fortieth**. Past twenty, the ordinal sits on the last word
+only: twenty-**first**, thirty-**second**, ninety-**ninth**.
+Afghanistan's Grade 7 book lists the ordinals whole, **1st
+to 100th** — first all the way to **one hundredth** (Unit 15,
+Lesson 3, printed pp.147–148).
+
 ## Say it to your companion
 Point at things and ask: "How many chairs are there?" Your
 companion counts aloud, touching each one, and answers whole:

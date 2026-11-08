@@ -1,6 +1,6 @@
 # Numbers — ordering
 
-Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Numbers 1 to 10 · (Level 2) -> Sub lesson 2 — Numbers 11 to 20 · (Level 3) -> Sub lesson 3 — Numbers by Tens to 100.
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Numbers 1 to 10 · (Level 2) -> Sub lesson 2 — Numbers 11 to 20 · (Level 3) -> Sub lesson 3 — Numbers by Tens to 100. Sub lessons 4 — Numbers Past 100: Hundreds, Thousands, a Million — and 5 — Ordinal Numbers: First to One Hundredth — were added 2026-11-08 under the whole-arc rule; they have no old depth group.
 Put each set in counting order. (This question type exists
 for this lesson because counting IS order.)
 
@@ -24,3 +24,11 @@ twelve
 builds toward: 20 → 1 in words, said aloud. First three and
 last three only.
 **Answer:** twenty, nineteen, eighteen … three, two, one.
+
+**7. (Sub lesson 4)** 1,000 · 100 · 10,000 · 500 · 100,000
+**Answer:** 100, 500, 1,000, 10,000, 100,000 — the
+big-number climb (Jordan, Grade 5, Unit 3's set).
+
+**8. (Sub lesson 5)** fifth · first · third · second · fourth
+**Answer:** first, second, third, fourth, fifth — the
+ordinals keep the counting line's order.

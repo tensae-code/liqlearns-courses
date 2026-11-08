@@ -293,6 +293,19 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Cardinal numbers from 100, including how numbers and dates are read (Grammar Reference section 15) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Grammar Reference, printed pp.142–149 |
 | Language structures for reading figures — populations, areas and other numbers filled in from listening | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 2, Lessons 5–6, printed p.18 |
 | The number ladder built across the first year — cardinal numbers 1–10 in the jobs lesson, ordinal numbers named in the family lesson's plan, numbers of 100 upwards in the time lesson (3–5-digit numbers, and 1–60 for minutes), and the full 1–100 set in the famous-births lesson | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lessons 4, 6, 8 and 20, guide printed pp.22–27, 34–40, 47–55 and 135–142 |
+**Sub lesson map (added 2026-11-08, whole-arc rule):** the
+rows above already stocked the whole climb; the text now
+teaches all of it. Sub lesson 4 (Numbers Past 100) is carried
+by the Iraq Grade 4 "Big Numbers" row (100–1000, to 3000),
+the Nepal Grade 3 row (number words to three figures, 514
+through 799), the Jordan Grade 5 row (big numbers as their
+own set, to a million) and the Greece Grade 7 Workbook row
+(big numbers matched whole, 13,617 and 52,902). Sub lesson 5
+(Ordinal Numbers) is carried by the Jordan Grade 4 Semester 2
+row (first–thirty-first), the China Grade 5 Volume 2 row
+(ordinals as a date system) and the Afghanistan Grade 7 row
+(ordinals listed whole, 1st to 100th).
+
 **Acceptance count: taught in 32 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).** Palestine carries the youngest path (numbers
