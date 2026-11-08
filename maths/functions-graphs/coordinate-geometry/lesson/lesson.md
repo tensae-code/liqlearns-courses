@@ -1,6 +1,6 @@
 # Coordinate Geometry — the lesson
 
-Course: Maths · Stage: Stage 10 — Functions, Graphs and Sequences · Lesson: Coordinate Geometry
+Course: Maths · Unit: Unit 10 — Functions, Graphs and Sequences · Lesson: Coordinate Geometry
 Built from: Jordan, Grade 9 Term 1 and Grade 10 Term 1 — Kuwait, Grade 10 Term 2 — Ethiopia, Grade 10 student book — South Sudan, Secondary 4 — Laos, Grade 9 — Iran, Geometry (3) and Mathematics (3)
 
 ## Do it first
@@ -15,7 +15,7 @@ distance from a point to a line, proving the shape of a
 quadrilateral with numbers alone, and writing a circle as an
 equation.
 
-## Then the explanation
+## Sub lesson 1 — Dividing a Segment Inside
 **The section formula — dividing inside.** Kuwait's Grade 10
 Term 2 book teaches the division of a line segment as its own
 section (Unit 9, section 9-2, printed pp.124–130): a point P
@@ -36,6 +36,8 @@ ratio 3:2, so P = ( (2·1 + 3·11)/5, (2·2 + 3·7)/5 ) = (7, 5).
 The midpoint is the special case m = n: the weights are equal
 and the formula is just the average of the ends.
 
+## Sub lesson 2 — Dividing a Segment Outside
+
 **Dividing outside — external division.** Kuwait's same section
 (pp.124–130) goes one step further: P can sit on the line past
 B, or past A, dividing the segment externally in the ratio m:n.
@@ -48,6 +50,8 @@ with the bigger share. When m = n there is no such point — the
 denominator is zero, and the books' way of saying it is that
 equal external division would have to happen infinitely far
 away.
+
+## Sub lesson 3 — Distance to a Line and Coordinate Proof
 
 **Distance from a point to a line.** Jordan's Grade 9 book
 teaches this as its own lesson (Unit 4, Lesson 2, printed
@@ -77,6 +81,8 @@ parallelogram whose diagonals are equal. A rhombus: a
 parallelogram whose sides are all equal. A square: both — equal
 diagonals and equal sides. No ruler on the drawing, no
 protractor: the coordinates do the proving.
+
+## Sub lesson 4 — The Equation of a Circle
 
 **The equation of a circle.** A circle is the set of points at
 one fixed distance — the radius r — from one fixed point — the

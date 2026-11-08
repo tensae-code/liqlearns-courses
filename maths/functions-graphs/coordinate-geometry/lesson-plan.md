@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Coordinate Geometry
 
-**Course:** Maths · **Stage:** Stage 10 — Functions, Graphs and Sequences · **Lesson:** Coordinate Geometry
-**Place in the curriculum:** Level 80 of 136, in Stage 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 10 — Functions, Graphs and Sequences · **Lesson:** Coordinate Geometry
+**Place in the curriculum:** Level 80 of 136, in Unit 10 — Functions, Graphs and Sequences (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** coordinate geometry past plotting — the section formula for a point dividing a segment inside or outside, the shortest distance from a point to a line, proving shapes with coordinates, and the equation of a circle.
 **This lesson's own level:** it stands on coordinates and graphs (Stage 10) — plotting points, distance between two points, midpoint and slope — and on the circle work of the geometry stages. It needs nothing else.
 
@@ -15,6 +16,21 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Dividing a Segment Inside** — the section formula for a point dividing a segment internally in a given ratio, and saying in words which end it sits closer to and why. (Was depth Level 1.)
+2. **Dividing a Segment Outside** — dividing a segment externally in a given ratio — the point on the line past one end — and why equal external division has no point at all. (Was the external-division part of depth Level 3, which the lesson text teaches second.)
+3. **Distance to a Line and Coordinate Proof** — the shortest distance from a point to a line, and choosing and carrying out the right coordinate test to prove a quadrilateral is a parallelogram, rectangle, rhombus or square. (Was depth Level 2.)
+4. **The Equation of a Circle** — writing a circle's equation from its centre and radius or from a diameter, reading centre and radius back by completing the square, and saying when an equation names no real circle. (Was the circle part of depth Level 3.)
+
+Old depth Level 3 splits across the text: its external-division part is Sub lesson 2 (taught second, straight after internal division) and its circle part is Sub lesson 4; old Level 2 (distance to a line and coordinate proof) is Sub lesson 3.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: coordinates and graphs (Stage 10) — distance, midpoint and slope are used here without re-teaching. Recommended, never forced.

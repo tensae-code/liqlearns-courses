@@ -1,13 +1,28 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Coordinates and graphs
 
-**Course:** Maths · **Stage:** 10, Functions, Graphs and Sequences · **Lesson:** Coordinates and graphs
-**Place in the curriculum:** Stage 10, the first lesson of the
+**Course:** Maths · **Unit:** 10, Functions, Graphs and Sequences · **Lesson:** Coordinates and graphs
+**Place in the curriculum:** Unit 10, the first lesson of the
 stage (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** plotting points on the
 coordinate plane, and straight-line graphs — gradient,
 intercepts, and the equation y = mx + c.
 **This lesson's own level:** it stands on the Stage 7 angles
 lesson and on equations (Stage 6). It needs nothing else.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Plotting, Distance and Midpoint** — plotting points in all four quadrants and naming a point's coordinates (taught in the lesson's Do-it-first), and finding a distance and a midpoint between two points. (Was depth Level 1.)
+2. **Gradient and Intercepts** — building straight-line graphs from tables, finding a gradient from two points, saying whether a line rises or falls, reading both intercepts — and the parallel and perpendicular gradient rules the gradient part teaches. (Was depth Level 2; the parallel-and-perpendicular part of old depth Level 3 is taught here, inside the gradient part.)
+3. **The Equation y = mx + c** — writing the equation of a line from its gradient and intercept, and from two points. (Was the equation-writing part of depth Level 3.)
+
+Overlap note: the text's gradient part also teaches the parallel and perpendicular rules, which the old depth layers counted in Level 3 — that text stays whole inside Sub lesson 2 (no paragraph is split), and its questions are marked Sub lesson 2.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: equations (Stage 6) — a line's equation

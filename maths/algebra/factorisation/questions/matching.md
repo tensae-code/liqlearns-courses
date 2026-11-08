@@ -1,6 +1,8 @@
 # Matching — Factorisation
 
-1. (Layers 1–4) Match each expression to its factorisation:
+Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Layer 1) -> Sub lesson 1 — Taking Out a Common Factor · (Layer 2) -> Sub lesson 2 — Factorisation by Regrouping and Identities · (Layer 3) splits by what the item asks: trinomial items -> Sub lesson 3 — Factorisation of Trinomials, error-spotting items -> Sub lesson 5 — Finding the Error · (Layer 4) -> Sub lesson 4 — Factorisation of Quadratics and Cubics. The matching exercise spans Sub lessons 1–4; its marker names that span.
+
+1. (Sub lessons 1–4) Match each expression to its factorisation:
    (a) 5x² + 15x
    (b) x² − 9
    (c) x² + 5x + 6

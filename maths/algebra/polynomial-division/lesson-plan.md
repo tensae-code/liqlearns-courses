@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Polynomial Division
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Polynomial Division
-**Place in the curriculum:** Level 58 of 136, inside Stage 6 — Algebra (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Polynomial Division
+**Place in the curriculum:** Level 58 of 136, inside Unit 6 — Algebra (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** dividing one polynomial by another — long division and synthetic division — and the two theorems the division hands you for free: the remainder theorem and the factor theorem.
 **This lesson's own level:** it stands on expressions (factorising and expanding) and on polynomials and their values p(a). It needs nothing else.
 
@@ -15,6 +16,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Long Division of Polynomials** — the division identity p(x) = d(x)q(x) + R(x), and dividing a polynomial by a binomial in writing, stating quotient and remainder. (Was depth Level 1.)
+2. **Synthetic Division and the Remainder Theorem** — running a synthetic (Horner) table by (x − a), and finding a remainder by evaluating p(a) — including the divisor (ax + b) case — without dividing. (Was depth Level 2.)
+3. **The Factor Theorem and Rational Zeros** — testing whether (x − a) is a factor by p(a), factorising a cubic completely through one found factor, and listing and testing possible rational zeros p/q. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: expressions — expanding brackets and factorising; a division is checked by multiplying back. Recommended, never forced.

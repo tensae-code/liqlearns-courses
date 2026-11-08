@@ -1,6 +1,6 @@
 # Coordinates and graphs — the lesson
 
-Course: Maths · Stage 10, Functions, Graphs and Sequences · Lesson: Coordinates and graphs
+Course: Maths · Unit 10, Functions, Graphs and Sequences · Lesson: Coordinates and graphs
 Built from: Egypt, Jordan, Kazakhstan, Vietnam, South Africa,
 Mauritania, Ghana (teacher evidence) — see lesson/sources.md
 for every part.
@@ -17,7 +17,7 @@ in are the four **quadrants**. Jordan's Grade 6 book starts
 exactly here: the coordinate plane in all four quadrants,
 with negative coordinates.
 
-## Then the explanation
+## Sub lesson 1 — Plotting, Distance and Midpoint
 **Distance and midpoint.** Two points on the plane have a
 distance between them and a point halfway between them.
 Kazakhstan's Grade 9 book proves both from coordinates: the
@@ -30,6 +30,8 @@ from (1, 2) to (4, 6) is √(3² + 4²) = 5; the midpoint is
 idea when it works with coordinates, and Kazakhstan's book
 uses it to find the centroid of a triangle: the average of
 its three corners.
+
+## Sub lesson 2 — Gradient and Intercepts
 
 **Straight-line graphs.** A straight line is a set of points
 whose coordinates fit one equation. South Africa's Grade 9
@@ -61,6 +63,8 @@ which the line crosses the y-axis is called the y-intercept."
 The x-intercept is where the line crosses the x-axis (where
 y = 0). For y = 2x + 1, the y-intercept is 1 (put x = 0)
 and the x-intercept is −1/2 (put y = 0 and solve).
+
+## Sub lesson 3 — The Equation y = mx + c
 
 **The equation of a straight line.** Egypt's Preparatory 3
 book teaches it as y = mx + b from the gradient m and the

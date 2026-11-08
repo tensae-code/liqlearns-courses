@@ -1,7 +1,8 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
 # Lesson plan — Partial Fractions
 
-**Course:** Maths · **Stage:** Stage 6 — Algebra · **Lesson:** Partial Fractions
-**Place in the curriculum:** Level 59 of 136, inside Stage 6 — Algebra (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 6 — Algebra · **Lesson:** Partial Fractions
+**Place in the curriculum:** Level 59 of 136, inside Unit 6 — Algebra (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** splitting one rational fraction into a sum of simpler fractions — one piece per factor of the denominator — and putting them back into one fraction.
 **This lesson's own level:** it stands on polynomial division (Level 58) — an improper fraction is divided first — and on factorising denominators. It needs nothing else.
 
@@ -15,6 +16,22 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Distinct Linear Factors** — checking a fraction is proper before splitting, one piece per distinct linear factor, and the constants found by substitution (the "zero's method") or by comparing coefficients. (Was depth Level 1.)
+2. **A Repeated Linear Factor** — a factor that appears twice demands two pieces — one over the factor, one over its square — and solving for all their constants. (Was the repeated-factor half of depth Level 2.)
+3. **A Quadratic Factor** — an irreducible quadratic factor gets a piece with a linear numerator Ax + B, including the repeated-quadratic shape (Pakistan's Cases III and IV). (Was the quadratic-factor part of depth Level 3.)
+4. **Divide First When Improper** — an improper fraction is divided first — quotient plus a proper remainder-fraction — and only then split. (Was the divide-first half of depth Level 2.)
+5. **Integration and Recombining** — why the split matters: a split fraction integrates piece by piece into logarithms, and the pieces recombine into a single fraction as the check. (Was the integration-and-recombining part of depth Level 3.)
+
+The old depth layers do not stand in the lesson text's order: old Level 2 (repeated factors + divide first) and old Level 3 (quadratic factors + integration and recombining) each split at their natural jumps, and the sub lessons follow the text's order — distinct, repeated, quadratic, divide-first, integration.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: polynomial division (Level 58) — partial fractions only work on a proper fraction, and Level 58 is how an improper one is made proper. Recommended, never forced.
