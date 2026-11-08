@@ -26,6 +26,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 
 1. **Asking and answering how are you** — the question "How are you?" and its three answers — "I'm very well, thanks" (a good day), "I'm fine" (a normal day), "I'm not very well!" (a hard day). (Was depth Level 1.)
 2. **Asking how are you back** — "And how are you?" gives the question back, and Grade 3's shorter, smoother form of the same exchange. (Was depth Level 1; the real exchange of depth Level 2 is proved here.)
+3. **Asking about feelings: How do you feel?** — the exchange deepened into feelings: "How are you feeling? — I am feeling…" over the seven feeling cards (Ecuador), "How do you feel?" and "What's wrong?" over the feelings set (China Grade 6), and "Are you happy? — Yes, I am. What's the matter? — I'm thirsty…" (Saudi Arabia). (Added 2026-11-08 under the whole-arc rule, from this lesson's own stocked sources — the feelings deepening was stocked and untaught.)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -38,6 +39,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Answer with the true one of the three: "I'm very well, thanks." /
    "I'm fine." / "I'm not very well."
 3. Give the question back: "And how are you?"
+4. Ask the deeper question — "How are you feeling?" / "How do
+   you feel?" — and answer with a named feeling; ask "What's
+   the matter?" and answer it.
 
 ## What you need
 One other person, or the learner's explain companion. Nothing else.

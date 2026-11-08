@@ -1,6 +1,7 @@
 # How are you? — short answer
 
 Sub-lesson markers (2026-11-08 restructure): every item's marker names the sub lesson it belongs to. The files' old depth groups map onto the sub lessons as: (Level 1) -> Sub lesson 1 — Asking and answering how are you · (Level 2) -> Sub lesson 2 — Asking how are you back.
+Sub lesson 3 — Asking about feelings: How do you feel? — was added 2026-11-08 under the whole-arc rule, from the stocked sources of this lesson.
 
 Short-answer questions only. Answer in a word or a short sentence.
 
@@ -10,3 +11,8 @@ Short-answer questions only. Answer in a word or a short sentence.
 
 **1. (Sub lesson 2)** Your friend answers "I'm fine." Ask the question back to them,
    the polite way.
+
+**2. (Sub lesson 3)** Your companion looks sad. Ask them the deeper
+   question. Write it.
+**3. (Sub lesson 3)** Answer "How are you feeling?" with a true
+   feeling word from Ecuador's seven cards.

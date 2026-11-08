@@ -71,6 +71,19 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The feelings form of the question as a whole chapter's title and work — "How are you feeling" — its outcomes: identify and express emotions in short sentences, comfort and encourage, match emotions to situations, respond with empathy | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 "How are you feeling" overview, printed p.38 |
 | The feelings set printed as the chapter's vocabulary — angry, happy, sad, confused, surprised, worried, afraid, brave, nervous, shy, annoyed, bored, excited, upset, in love — with one printed structure sentence for each emotion word (the list misprints "don't warry" for don't worry and "clam" for calm; both are spelled correctly inside the chapter's own sentences) | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
 | The feelings deepened into the -ed / -ing contrast sets: "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — the chapter's named grammar focus, participle adjectives | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
+**Sub lesson map (added 2026-11-08, whole-arc rule):** the
+rows above already stocked the feelings deepening of this
+exchange; the text now teaches it as Sub lesson 3, carried
+by the Ecuador row (the frame "How are you feeling? I am
+feeling…" over the seven feeling cards HAPPY, EXCITED, SAD,
+ANGRY, SCARED, SURPRISED, SHY), the China Grade 6 row ("How
+do you feel?" and "What's wrong?" over angry, afraid, sad,
+worried, happy, ill) and the Saudi Arabia row ("Are you
+happy? Yes, I am. What's the matter? I'm thirsty…"). The
+same table's restaurant-ordering, making-plans,
+offers/promises and apologising rows belong to their own
+later lessons and stay there. No existing row changed.
+
 **Acceptance count: taught in 25 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings

@@ -34,6 +34,26 @@ question travels back and forth like a ball — that is the whole game.
 Grade 3 says it a little shorter: "Hello, how are you? — I'm fine,
 thank you." Same question, same shape, smoother words.
 
+## Sub lesson 3 — Asking about feelings: How do you feel?
+The books then deepen the same question — from "how are you"
+to *what* you feel. Ecuador's first-grade book teaches the
+frame "**How are you feeling? — I am feeling…**" over seven
+feeling cards: **HAPPY, EXCITED, SAD, ANGRY, SCARED,
+SURPRISED, SHY** (Preparatory transition text, Worksheet 4,
+printed pp.24–25). The answer names the feeling itself.
+
+China's Grade 6 book asks it two ways: "**How do you
+feel?**" and "**What's wrong?**" — over its own feelings
+set: angry, afraid, sad, worried, happy, ill — practised in
+a phone role-play, with *should* for the advice that follows
+(Volume 1, Unit 6, printed pp.57, 59–61). And Saudi
+Arabia's Grade 1 book asks it as a checking question:
+"**Are you happy? — Yes, I am. What's the matter? — I'm
+thirsty…**" (We Can! Book 1, Term 3, Unit 3, printed p.18).
+
+Same warm question, one layer deeper: first whether you are
+well, then which feeling is in you today.
+
 ## Say it to your companion
 Ask your companion: "How are you?" Answer for them with each of the
 three answers, one by one. Then explain: why does the question get
