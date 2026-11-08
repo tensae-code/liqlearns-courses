@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Speed, Distance and Time
 
-**Course:** Maths · **Stage:** Stage 15 — Money, Time and Everyday Mathematics · **Lesson:** Speed, Distance and Time
-**Place in the curriculum:** Level 116 of 136, Stage 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 15 — Money, Time and Everyday Mathematics · **Lesson:** Speed, Distance and Time
+**Place in the curriculum:** Level 116 of 136, Unit 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** speed as distance ÷ time and its two rearrangements, average speed, distance–time and travel graphs, and meeting problems — with density and other compound units, and work rates, as named parts, because the books teach all three as the same kind of rate.
 **This lesson's own level:** it stands on division, ratio and proportion, and reading a graph — the learner can already divide, share in a ratio and read values off axes. It needs nothing else.
 
@@ -15,6 +17,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Speed, Distance and Time — the Triangle and Its Units** — find any one of speed, distance and time from the other two, with the unit written, and change between km/h and m/s. (Was depth Level 1.)
+2. **Speed, Distance and Time — Journeys: Average Speed, Graphs and Meeting Problems** — average speed as total distance ÷ total time; read speed, stops and returns off a distance–time graph; and solve meeting, opposite-direction and catch-up problems with relative speed. (Was depth Level 2.)
+3. **Speed, Distance and Time — Density and Work Rates** — density = mass ÷ volume and population density in all directions; mass-per-area problems; and adding work rates for joint work to find a joint finishing time. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the ratio-and-proportion lesson and the graphs lesson (a speed is a ratio, and a travel graph is read off axes). Recommended, never forced.

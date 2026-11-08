@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Insurance: Risk and Coverage
 
 **One thing:** what insurance is — many people paying small premiums into one pool so the few who suffer a loss are paid from it — and the main kinds of cover a person buys: life, health, motor and fire/house, with the premium as the price of the cover.
 
-**Stage:** Money, Time and Everyday Mathematics (Stage 15). **Level 142** (Malaysia merge, 2026-11-07).
+**Unit:** Money, Time and Everyday Mathematics (Unit 15). **Level 142** (Malaysia merge, 2026-11-07).
 
 **Why this lesson exists:** Malaysia's Form 5 book gives insurance a full section of its consumer-mathematics chapter — risk and protection, the policy types, premium factors and rate tables — the first full insurance treatment in the read set (business-mathematics names insurance inside its wider climb). The mechanics of claims — deductibles and co-insurance — are the next lesson. Under the everything-goes-in ruling (2026-11-06), insurance gets its own two lessons.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Insurance: Risk and Coverage — Risk and the Pool** — explain risk pooling in your own words, and say what a premium and a sum insured are. (Was depth Layer 1.)
+2. **Insurance: Risk and Coverage — the Kinds of Cover** — tell whole life from term life, medical card from critical-illness cover, houseowner from householder, and the three motor policies from each other — in order of how much they cover. (Was depth Layer 2.)
+3. **Insurance: Risk and Coverage — Pricing a Cover** — read a premium from a rate table and say which way each factor (age, smoking, sum insured, travel length) pushes it, and why. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Taxation
 
 **One thing:** how income tax is actually computed — total income minus reliefs gives chargeable income; the progressive rate table is applied band by band (never one flat rate on the whole income); rebates come off; and what was already deducted monthly (PCB) is balanced against the final bill.
 
-**Stage:** Money, Time and Everyday Mathematics (Stage 15). **Level 144** (Malaysia merge, 2026-11-07).
+**Unit:** Money, Time and Everyday Mathematics (Unit 15). **Level 144** (Malaysia merge, 2026-11-07).
 
 **Why this lesson exists:** Malaysia's Form 5 book gives taxation a full section — the last consumer-mathematics topic in its set — with the complete income-tax computation worked end to end. Business-mathematics treats tax as one item inside its wider climb (sales tax, zakat, inheritance and more, from other countries' books); the step-by-step income-tax computation had no home of its own. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Taxation — What Is Taxed: Reliefs and Chargeable Income** — say what income tax is, what a relief does, and what chargeable income means. (Was depth Layer 1.)
+2. **Taxation — Band by Band** — apply a progressive rate table to a chargeable income slice by slice, and explain why a single flat rate on the whole income is wrong. (Was depth Layer 2.)
+3. **Taxation — the Full Computation: Rebate and PCB** — from total income and a relief list to chargeable income, to tax, minus rebate, balanced against PCB already paid — ending in a refund or a balance due. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

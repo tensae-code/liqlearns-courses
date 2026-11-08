@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Business Mathematics
 
-**Course:** Maths · **Stage:** Stage 15 — Money, Time and Everyday Mathematics · **Lesson:** Business Mathematics
-**Place in the curriculum:** Level 114 of 136, Stage 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 15 — Money, Time and Everyday Mathematics · **Lesson:** Business Mathematics
+**Place in the curriculum:** Level 114 of 136, Unit 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** the mathematics of buying, selling, borrowing, lending and sharing money — profit and loss, discount, simple and compound interest, tax and VAT, commission, hire purchase, depreciation, partnership, insurance, wages, annuities, present value, amortisation, bills of exchange, currency conversion, zakat, ushr and inheritance shares, and reading bills and budgets.
 **This lesson's own level:** it stands on percentages, ratio and proportion — the learner can already find a percentage of an amount and share an amount in a ratio. It needs nothing else.
 
@@ -15,6 +17,20 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Business Mathematics — the Shop** — profit, loss and their percentages on the cost price; take a discount off a marked price; find a commission; total a bill correctly, checking each line. (Was depth Level 1.)
+2. **Business Mathematics — Borrowing and Lending** — use I = PRT/100 in all four directions; grow compound interest year by year and by formula; add VAT; price a hire purchase against its cash price; convert currency at a given rate; depreciate an amount. (Was depth Level 2.)
+   In the lesson text, the commission part (old Level 1 depth, the shop) sits inside Sub lesson 2's text run, between tax/VAT and hire purchase; its question items sit in Sub lesson 1.
+3. **Business Mathematics — Long Money** — find an annuity's present and final values and a discounted present value; read an amortisation; share partnership profit by capital × time; work an insurance premium; find zakat and ushr; share an inheritance in the books' shares; find a bill of exchange's discounted value and mean maturity. (Was depth Level 3.)
+   In the lesson text, the wages-and-household-money and bills-and-budgets parts (old Level 1 depth) and the currency-conversion part (old Level 2 depth) sit inside this sub lesson's text run; their question items sit in Sub lessons 1 and 2. The question markers follow the old levels, item by item.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the percentages lesson and the ratio-and-proportion lesson (almost every part of this lesson is a percentage or a sharing in a ratio). Recommended, never forced.

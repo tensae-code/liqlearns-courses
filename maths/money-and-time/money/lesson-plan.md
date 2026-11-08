@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Money
 
-**Course:** Maths · **Stage:** Stage 15 — Money, Time and Everyday Mathematics · **Lesson:** Money
-**Place in the curriculum:** Level 113 of 136, the first lesson of Stage 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 15 — Money, Time and Everyday Mathematics · **Lesson:** Money
+**Place in the curriculum:** Level 113 of 136, the first lesson of Unit 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** money — knowing the notes and coins of a country, making an amount in more than one way, paying for a thing, and giving and checking change.
 **This lesson's own level:** it stands on counting and on adding and subtracting — the learner can already count things, add two amounts and take one amount away from another. It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Money — Knowing the Pieces** — name the coins and notes of your own country, order them by value, and say how the small unit makes the big unit (for example 100 paisa = 1 taka, 100 santim = 1 birr). (Was depth Level 1.)
+2. **Money — Making and Exchanging Amounts** — make one amount in at least two different ways, exchange a big piece for smaller pieces of exactly the same value, total a set of notes piece by piece, and judge whether money in hand is enough for a price. (Was depth Level 2.)
+3. **Money — Paying, Change and Money Arithmetic** — pay for one or two items, work out the change and check it (price + change = payment), and add and subtract money amounts including small-unit amounts written as decimals. (Was depth Level 3.)
+   The lesson text's closing part, saving towards a price, sits in this sub lesson.
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting (Stage 1) — money is counting with values on the pieces. Recommended, never forced.

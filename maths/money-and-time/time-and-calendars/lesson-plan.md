@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Time and calendars
 
-**Course:** Maths · **Stage:** Stage 15 — Money, Time and Everyday Mathematics · **Lesson:** Time and calendars
-**Place in the curriculum:** Level 115 of 136, the third lesson of Stage 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 15 — Money, Time and Everyday Mathematics · **Lesson:** Time and calendars
+**Place in the curriculum:** Level 115 of 136, the third lesson of Unit 15 — Money, Time and Everyday Mathematics (maths/CURRICULUM.md).
 **The one thing this lesson teaches:** time — reading clocks, changing between 12-hour and 24-hour time, working out how long things last and adding and subtracting times, and reading the calendars of the world.
 **This lesson's own level:** it stands on counting and on adding and subtracting — the learner can already count in 5s around a clock, add two amounts and borrow in a subtraction. It needs nothing else.
 
@@ -15,6 +17,19 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Time and Calendars — Reading Clocks and the Parts of the Day** — read analogue and digital clocks to the minute, say times as quarter past / half past / quarter to, use a.m. and p.m. correctly, and convert the time units (hour, minute, second, day, week). (Was depth Level 1.)
+2. **Time and Calendars — 12 Hours, 24 Hours and Durations** — change between 12-hour and 24-hour time both ways (including 0:35 for 12:35 a.m. and 24:00 for the end of the day), and work out durations from start and end times, including across noon on a timeline. (Was depth Level 2.)
+   The lesson text's units-of-time part sits in this sub lesson; its depth is old Level 1 (the Level 1 pass mark carries the time-unit conversions), and its question items sit in Sub lesson 1. The question markers follow the old levels, item by item.
+3. **Time and Calendars — Time Arithmetic and the Calendars of the World** — add and subtract compound times with the 60-carry and 60-borrow, and read a calendar page — naming its system (Gregorian, Hijri, Ethiopian, Bikram Sambat, Bangla, Khmer), its months, and whether its year is a leap year. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: Counting (Stage 1) — the clock is a counting circle, in 5s for the minutes. Recommended, never forced.

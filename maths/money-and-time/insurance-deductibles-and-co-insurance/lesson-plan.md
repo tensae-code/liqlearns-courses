@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Insurance: Deductibles and Co-insurance
 
 **One thing:** the part of a claim the insured pays themselves — a fixed deductible taken off a motor claim, and co-insurance, where a claim is shared by percentage: in property cover, insuring for less than the required share of the value scales the payout down; in health cover, the bill is split by percentage between insurer and patient.
 
-**Stage:** Money, Time and Everyday Mathematics (Stage 15). **Level 143** (Malaysia merge, 2026-11-07).
+**Unit:** Money, Time and Everyday Mathematics (Unit 15). **Level 143** (Malaysia merge, 2026-11-07).
 
 **Why this lesson exists:** Malaysia's Form 5 insurance section ends with the claim mechanics — deductibles (Examples 4–5) and both co-insurance forms (Examples 6–8). Risk and coverage are the previous lesson; the arithmetic of what a claimant actually receives had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Insurance: Deductibles and Co-insurance — the Deductible** — say what a deductible is and compute insurer-pays = claim − deductible, including the nothing-paid case when the claim is smaller. (Was depth Layer 1.)
+2. **Insurance: Deductibles and Co-insurance — Property Co-insurance** — from a property's value and the required percentage, find the required sum insured; judge whether a policy is under-insured; scale a partial loss by (sum insured ÷ required sum); state the total-loss cap. (Was depth Layer 2.)
+3. **Insurance: Deductibles and Co-insurance — Split Bills: Health Co-insurance** — apply a health co-insurance percentage split (with a deductible first, when there is one) and combine the two mechanics in one claim story. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

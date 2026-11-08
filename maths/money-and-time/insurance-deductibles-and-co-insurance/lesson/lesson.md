@@ -4,6 +4,8 @@
 
 Your car needs RM3,500 of repairs after a small accident. Your motor policy is comprehensive — so the insurer pays RM3,500, right? Wrong: you receive RM3,000. Where did RM500 go, and was the insurer cheating you? By the end of this lesson you will know the rule, and be able to check any claim the same way. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 86–89.)
 
+## Sub lesson 1 — Insurance: Deductibles and Co-insurance — the Deductible
+
 ## The deductible — the first slice is yours
 
 A **deductible** is a fixed amount the insured pays first on each claim:
@@ -11,6 +13,8 @@ A **deductible** is a fixed amount the insured pays first on each claim:
     insurer pays = claim − deductible        (and never less than 0)
 
 RM3,500 claim, RM500 deductible → the insurer pays RM3,000, you pay RM500. And a claim of RM400 against the same deductible pays **nothing** — the whole claim is inside your slice. Deductibles exist for two reasons: they keep tiny claims out of the system, and they keep the insured careful, because every claim costs them something too. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 86–87, Examples 4–5.)
+
+## Sub lesson 2 — Insurance: Deductibles and Co-insurance — Property Co-insurance
 
 ## Co-insurance in property — insure your share, or share the loss
 
@@ -23,6 +27,8 @@ Worked example: a house worth RM400,000 must be insured for at least 80% × RM40
     payout = (200,000 ÷ 320,000) × 100,000 = RM62,500
 
 The owner bears RM37,500 of the loss — exactly the share of the risk they kept. Two guards on the rule: a **total** loss pays at most the sum insured (RM200,000 here — never the value), and insuring at or above the required sum removes the scaling entirely. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 87–88, Example 6.)
+
+## Sub lesson 3 — Insurance: Deductibles and Co-insurance — Split Bills: Health Co-insurance
 
 ## Co-insurance in health — the percentage split
 

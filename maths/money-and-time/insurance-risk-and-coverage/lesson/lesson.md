@@ -4,9 +4,13 @@
 
 Your neighbour's house burns down. The rebuild costs RM180,000 — money almost nobody keeps in a drawer. Yet houses that burn DO get rebuilt, paid for by companies that never met the family. Where does the money come from? Hold your answer; by the end of this lesson you will be able to give it in one sentence. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 74–83.)
 
+## Sub lesson 1 — Insurance: Risk and Coverage — Risk and the Pool
+
 ## Risk and the pool
 
 **Insurance is protection against risk, bought by sharing it.** A loss like a fire is unlikely for any one household this year — but across a million households it is a certainty, and roughly how many fires there will be is predictable. So each household pays a small, regular **premium** into one pool, and the pool pays the **sum insured** to the few who suffer the loss. Insurance is not an investment and not a gamble: you are buying the promise that a disaster will not ruin you. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 74–76.)
+
+## Sub lesson 2 — Insurance: Risk and Coverage — the Kinds of Cover
 
 ## Life insurance
 
@@ -38,6 +42,8 @@ Each step up covers more, and costs more. (Malaysia, Mathematics Form 5, Ch. 3 �
 - **Householder insurance** covers the contents — the things inside the building.
 
 A renter needs the second; an owner usually needs both. (Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 80–81.)
+
+## Sub lesson 3 — Insurance: Risk and Coverage — Pricing a Cover
 
 ## The premium — the price of the risk
 

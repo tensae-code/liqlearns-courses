@@ -6,6 +6,8 @@ A seller mixes 2 kg of beans bought at 300 Frw a kilo with 3 kg bought at 400 Fr
 
 By the end of this lesson you will compute that price exactly, and run the problem in every direction the book runs it. (Rwanda, Primary 6 Mathematics, Learner's Book, Unit 6, printed pp. 111–118.)
 
+## Sub lesson 1 — Mixtures and Alligation — the Average Price
+
 ## The average price of a mixture
 
 A **mixture** is two ingredients combined and treated as one. Its price per unit — the **average price** — is the total cost shared over the total quantity:
@@ -13,6 +15,8 @@ A **mixture** is two ingredients combined and treated as one. Its price per unit
     average price = (quantity₁ × price₁ + quantity₂ × price₂) / (quantity₁ + quantity₂)
 
 For the beans above: total cost = 2 × 300 + 3 × 400 = 600 + 1,200 = 1,800 Frw; total mass = 5 kg; average price = 1,800 / 5 = **360 Frw per kg** — between 300 and 400, and closer to 400, because there is more of the dearer beans. (Rwanda, Primary 6 Mathematics, Learner's Book, Unit 6, printed pp. 111–112.)
+
+## Sub lesson 2 — Mixtures and Alligation — How Much of Each: the Balance
 
 ## How much of each? The balancing idea
 
@@ -26,6 +30,8 @@ For the seller to break even, total gain must equal total loss, so the quantitie
     quantity of cheaper : quantity of dearer = (dearer price − mixture price) : (mixture price − cheaper price)
 
 With gaps of 150 and 150, the ratio is 1:1 — equal quantities. With prices 300 and 600 and a mixture at 400, the gaps are mixture − cheaper = 100 and dearer − mixture = 200, so the ratio (cheaper : dearer) is 200:100 = **2:1** — twice as much of the cheaper ingredient. The bigger gap always takes the smaller quantity. This balancing is the alligation idea. (Rwanda, Primary 6 Mathematics, Learner's Book, Unit 6, printed pp. 112–114.)
+
+## Sub lesson 3 — Mixtures and Alligation — Working Backwards
 
 ## The price of one ingredient
 

@@ -1,10 +1,24 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Mixtures and Alligation
 
 **One thing:** the arithmetic of mixing two ingredients at two prices into one mixture at one price — the mixture's average price, how much of each ingredient the mixture price forces, and the price of an ingredient you are not told — all by balancing what one ingredient gains against what the other loses.
 
-**Stage:** Money, Time and Everyday Mathematics (Stage 15). **Level 146** (Rwanda merge, 2026-11-07).
+**Unit:** Money, Time and Everyday Mathematics (Unit 15). **Level 146** (Rwanda merge, 2026-11-07).
 
 **Why this lesson exists:** Rwanda's Primary 6 Learner's Book closes its ratios, proportions and percentages unit with a full mixtures section — average price, quantities from the mixture price, an unknown ingredient price, and both quantities from the total. Ratio and proportion lessons carry the mixing idea in passing, but the mixture-price computations themselves had no home. Under the everything-goes-in ruling (2026-11-06), it gets its own lesson.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Mixtures and Alligation — the Average Price** — compute the average (mixture) price of a two-ingredient mixture from the quantities and prices of both ingredients. (Was depth Layer 1.)
+2. **Mixtures and Alligation — How Much of Each: the Balance** — use profit/loss balancing to find the ratio, or one quantity, of the ingredients in a mixture of a given price — quantities are in the inverse ratio of the price gaps. (Was depth Layer 2.)
+3. **Mixtures and Alligation — Working Backwards** — find the price of an unknown ingredient, and split a total mass into both quantities from the mixture price, inside mixed problems. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 
