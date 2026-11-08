@@ -756,3 +756,63 @@ sectioned under the sub-lesson names, its levels.md becomes the
 sub-lesson depth record, and its questions carry which sub lesson
 they belong to. The first lesson restructured to this shape —
 Maths, Counting — is the template (see its lesson-plan.md).
+
+## Where provenance lives, and the whole-arc rule (ruled 2026-11-08)
+
+His rulings, courses chat, 2026-11-08. Two rules, both about where
+things sit — what the learner sees, and how far a lesson's teaching
+must run.
+
+**(a) PROVENANCE PLACEMENT — the making-of lives on the course
+page, never inside a lesson.**
+
+- How a course is made and where it comes from is shown **once**:
+  on the **course page**, as a description — how many countries the
+  course is built from, how many lessons there are, how many
+  questions in total, and the titles — plus a course **About**
+  section carrying the full detail: which countries were used, and
+  the per-lesson sources (what country teaches which lesson part).
+- **Lesson content pages show none of it.** A learner opens a
+  lesson and goes straight into the lesson: do the thing first,
+  then the explanation. No course-making details, no per-part
+  source talk on the reading page.
+- The provenance **data** itself does not move and does not
+  shrink: every lesson's `sources.md` keeps its full record
+  (countries line, book list, per-part provenance table,
+  acceptance count) exactly as built. This ruling governs
+  **display only** — where the record is *shown*, not whether it
+  exists.
+- This **refines the 2026-10-28 citation rule**: the citation list
+  (country + book + edition + page) still exists and is still
+  copyable by design — it lives in the course's About section now,
+  not on the lesson content page.
+
+**(b) THE WHOLE-ARC RULE — a lesson teaches the whole arc its
+books teach.**
+
+- When a topic runs as a progression — ones, tens, hundreds,
+  thousands, and so on — the lesson carries the progression **as
+  far as its stocked books take it**. "And so on" in a book's
+  teaching means the rest of what the books teach gets taught, not
+  only the first steps.
+- A lesson whose text stops short of what its own `sources.md`
+  stocks is a **fault** — jumped content — on the same footing as
+  leaving a stocked item out under the everything-goes-in ruling
+  (2026-11-06). The fix is to extend the text from the lesson's
+  own stocked rows, with real book + page citations, and to extend
+  its questions to cover the new parts.
+- **The worked example is Counting (Maths, Unit 1):** as first
+  built, its text stopped at "Counting Past 100" (110, 120, 130 …,
+  with no book cited for that part) while its own sources stocked
+  counting in hundreds to 1,000 (Yemen Grade 2; Ethiopia Grade 2),
+  in thousands to 10,000 (Ethiopia Grade 3; Nicaragua Grade 3),
+  reading and writing to 100,000 and 1,000,000 (Indonesia
+  Grade 5), counting in groups of 10,000 and 100,000 to 1,000,000
+  (Ethiopia Grade 4; Nicaragua Grade 4), and numbers to billions
+  (Yemen Grades 4–6). Fixed 2026-11-08: the lesson now runs the
+  whole arc its sources stock, in six sub lessons, each part cited
+  to its book and page.
+- Neighbour-lesson discipline still holds: content a lesson's
+  sources stock that belongs to a *different* thing (a neighbour
+  lesson's one thing) stays the neighbour's — the arc rule covers
+  the lesson's own progression, not every row in its table.
