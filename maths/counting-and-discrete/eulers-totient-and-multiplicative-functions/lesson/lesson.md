@@ -6,7 +6,7 @@ Write down the numbers from 1 to 10. Cross out every number that shares a factor
 
 1, 3, 7, 9 — four numbers. That little count, "how many numbers up to m share nothing with m", turns out to be one of the most useful counts in number theory. It has a name, a table, and a shortcut — and one famous printed mistake, which this lesson catches with the book's own table.
 
-## Multiplicative functions
+## Sub lesson 1 — Multiplicative Functions
 
 North Macedonia's Grade 12 Algebra book (Theme 2, Selected parts of number theory) first names a class of functions. A function f on the natural numbers is **multiplicative** when
 
@@ -14,7 +14,7 @@ North Macedonia's Grade 12 Algebra book (Theme 2, Selected parts of number theor
 
 The promise is deliberately narrow: the value at a product comes from the values at the factors **only when the factors share nothing**. When m and n have a common factor, the function owes you no such split. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §2.2, printed p. 28.)
 
-## Euler's function φ
+## Sub lesson 2 — Euler's Function: The Count and the Table
 
 The book's central example is **Euler's function** (Euler's totient), written φ(m): it **counts the elements of a reduced residue system modulo m** — in plain words, the count of the numbers from 1 to m that are coprime to m. Your opening count was exactly this: the numbers coprime to 10 are 1, 3, 7, 9, so **φ(10) = 4**. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §2.5, printed p. 37.)
 
@@ -26,7 +26,7 @@ The book prints the first twelve values:
 
 Every entry can be checked by listing: for 8, the coprime numbers are 1, 3, 5, 7 — four of them, and the table says φ(8) = 4. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §2.5, printed p. 37.)
 
-## φ at a prime
+## Sub lesson 3 — Euler's Function at a Prime
 
 Read the prime rows of the table: φ(2) = 1, φ(3) = 2, φ(5) = 4, φ(7) = 6, φ(11) = 10. The pattern is the theorem:
 
@@ -34,7 +34,7 @@ Read the prime rows of the table: φ(2) = 1, φ(3) = 2, φ(5) = 4, φ(7) = 6, φ
 
 nothing from 1 to p − 1 shares a factor with a prime, so everything counts. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §2.5, printed p. 37.)
 
-## Computing by splitting
+## Sub lesson 4 — Computing by Splitting
 
 φ is multiplicative, and that is the working tool. To find φ(12), do not list twelve numbers: split 12 = 3 × 4 into coprime factors and multiply the values from the table:
 
@@ -42,7 +42,7 @@ nothing from 1 to p − 1 shares a factor with a prime, so everything counts. (N
 
 which the table confirms. Bigger game works the same way: φ(36) = φ(4)·φ(9) = 2·6 = **12**, from one coprime split (4 and 9 share nothing) and two table lookups. (North Macedonia, *АЛГЕБРА ЗА ТРЕТА ГОДИНА* (Grade 12, elective), §2.5, printed p. 37.)
 
-## The printed slip — and the repair
+## Sub lesson 5 — The Printed Slip — and the Repair
 
 The book's Theorem 1 (printed p. 37) states: "Euler's function φ is multiplicative, i.e. φ(m·n) = φ(m)·φ(n) **for all m, n**." As printed, that is false — and the table on the very same page refutes it. Take m = n = 2:
 

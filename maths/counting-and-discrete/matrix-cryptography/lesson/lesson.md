@@ -6,11 +6,11 @@ Write down a two-letter word. Now suppose you must send it so that anyone who in
 
 A matrix can scramble the numbers for you, and its inverse can unscramble them. That is the whole of this short lesson — the opening worked example of Rwanda's Senior Six **Advanced** matrices unit. If you know the matrices lesson already, this lesson will be easier for you — you might try it first; that is a soft hint, never a gate. (Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 7, printed pp. 345–346.)
 
-## Step 1 — Letters into numbers
+## Sub lesson 1 — Letters into Numbers
 
 The code starts with a **letter–number table**: A = 1, B = 2, C = 3, and so on to Z = 26. (The book's printed table mislabels two entries — it prints "7 = J" and "8 = K". Taught corrected: **10 = J and 11 = K**; 7 and 8 are already G and H.) A message becomes a stream of numbers: HI becomes 8, 9. (Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 7, printed p. 345.)
 
-## Step 2 — Encoding with the coding matrix
+## Sub lesson 2 — Encoding with the Coding Matrix
 
 Split the number stream into **pairs**, write each pair as a column, and multiply every pair by the same secret 2×2 **coding matrix**. With the coding matrix
 
@@ -24,7 +24,7 @@ the pair for HI is encoded as:
 
 The pair (25, 17) is the **cryptogram** for HI. A longer message is encoded pair after pair with the same matrix: MATH becomes 13, 1 and 20, 8, encoded as (27, 14) and (48, 28). Anyone intercepting the cryptogram sees numbers that are not letter positions — the multiplication has mixed each pair together. (Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 7, printed pp. 345–346.)
 
-## Step 3 — Decoding with the inverse
+## Sub lesson 3 — Decoding with the Inverse
 
 Decoding is the same road backwards, and it needs the coding matrix's **inverse**. That is why a coding matrix must be chosen with a **non-zero determinant**: no inverse, no decoding. Here det C = 2×1 − 1×1 = 1, and
 

@@ -1,10 +1,26 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Euler's Totient and Multiplicative Functions
 
 **One thing:** a multiplicative function is one that splits over coprime factors — f(mn) = f(m)·f(n) whenever gcd(m, n) = 1 — and its most famous example is Euler's totient φ(m): the count of the numbers from 1 to m that share no factor with m, computable from the factors of m instead of by counting.
 
-**Stage:** Counting and Discrete Mathematics (Stage 14). **Level 157** (North Macedonia merge, 2026-11-07).
+**Unit:** Counting and Discrete Mathematics (Unit 14). **Level 157** (North Macedonia merge, 2026-11-07).
 
 **Why this lesson exists:** North Macedonia's Grade 12 Algebra elective (*АЛГЕБРА ЗА ТРЕТА ГОДИНА*, Theme 2 — Selected parts of number theory) teaches multiplicative functions as a named concept (§2.2, printed p. 28) and then Euler's function with its table, its values at primes and its multiplicativity (§2.5, printed p. 37). No other read book in the library teaches either: the congruences lesson carries this same book's §§2.3–2.9 — congruences, residue systems, the Euler–Fermat–Wilson theorems, Diophantine equations — but the totient itself was keyed by the reader as having no current lesson, and a search of the congruences lesson confirms it carries no φ and no multiplicative functions. So under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson. It stands alone: the congruences lesson is a soft hint before it (and the home of the Euler's theorem that φ feeds), never a gate. The book's one error here is taught corrected: its Theorem 1 (printed p. 37) states multiplicativity for ALL m, n, dropping the coprimality condition — its own table on the same page contradicts the printed claim, since φ(4) = 2 ≠ φ(2)·φ(2) = 1 — while the proof it prints assumes gcd(m, n) = 1, so the theorem as proved is the correct one.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Multiplicative Functions** — what a multiplicative function is: f(mn) = f(m)·f(n) whenever m and n are coprime — the coprime condition is part of the definition, and nothing is promised when the factors share a factor. (Was the definition part of depth Layer 3.)
+2. **Euler's Function: The Count and the Table** — what φ(m) counts — the numbers from 1 to m coprime to m — finding it by listing, and the book's table of φ(1) to φ(12), every entry checkable by listing. (Was depth Layer 1 and the table part of depth Layer 2.)
+3. **Euler's Function at a Prime** — the prime rule φ(p) = p − 1, read off the table's prime rows: φ(2) = 1, φ(3) = 2, φ(5) = 4, φ(7) = 6, φ(11) = 10. (Was the prime part of depth Layer 2.)
+4. **Computing by Splitting** — computing φ of a composite from a coprime split — φ(12) = φ(3)·φ(4) = 4 — including the bigger values beyond the table, such as φ(36) = φ(4)·φ(9) = 12, which stand in this sub lesson's text. (Was the computing part of depth Layer 3, and depth Layer 5.)
+5. **The Printed Slip — and the Repair** — the book's printed Theorem 1, which claims the split for all m, n, caught by the book's own table at m = n = 2: φ(4) = 2 against φ(2)·φ(2) = 1 — and the theorem taught corrected, with 'coprime' restored. (Was depth Layer 4.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

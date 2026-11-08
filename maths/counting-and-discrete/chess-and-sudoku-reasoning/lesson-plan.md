@@ -1,10 +1,25 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Chess and Sudoku Reasoning
 
 **One thing:** some mathematics is pure reasoning with no calculation at all — you list the possibilities, test each one against every rule, and keep only what survives. Chess mate puzzles train it as forcing reasoning (find the move every reply loses to), and sudoku trains it as elimination (a digit survives only where the row, the column and the box all allow it).
 
-**Stage:** Counting and Discrete Mathematics (Stage 14). **Level 158** (Bolivia merge, 2026-11-07).
+**Unit:** Counting and Discrete Mathematics (Unit 14). **Level 158** (Bolivia merge, 2026-11-07).
 
 **Why this lesson exists:** Bolivia's Ministerio de Educación builds a designed enrichment strand, the *Laboratorio matemático* (mathematics laboratory), into its official Secundaria texts: Chess I with mate-in-one and mate-in-two reasoning exercises plus Sudoku as logic training in the Secundaria 1 section, Chess II with reasoning problems and Sudoku in Secundaria 2, Chess V in Secundaria 5, and Chess VI — advanced rules and mate-in-two puzzles — in Secundaria 6 (all in the *Compendio para Maestras y Maestros 2023–2024*, the ministry's teacher compilation of the student texts, printed pp. 82, 80, 171 and 172 respectively). No existing lesson can home it: the investigations lesson absorbs one-off enrichment items inside other units, and the latin-squares lesson is Iran's pure theory lesson with no Sudoku anywhere in the course; a named, progressive, four-year strand of logic training is a teaching topic of its own, so under the everything-goes-in ruling (2026-11-06) it gets its own lesson — the same call the four-means and Euler's totient lessons were built on. The evidence is teacher-compilation evidence throughout: the compendium is the only in-hand source, and it is cited as such, never as a pupil text. It stands alone: any learner who likes puzzles can start here; the counting-principles lesson is a soft hint, never a gate.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The Board and the Pieces** — files a–h and ranks 1–8, how each of the six pieces moves, and check and checkmate — check with no escape by moving, blocking or capturing. The laboratory-idea section stands just before this sub lesson as the lesson's introduction, and the laboratory questions follow this sub lesson, as their old Layer 1 marker did. (Was depth Layer 1.)
+2. **Mate in One: The Candidate Check** — list every checking move, and for each test the defending king's three exits — move, block, capture. Worked: a back-rank mate (Ra8#) and a queen mate (Qg7#). (Was depth Layer 2.)
+3. **Mate in Two: One Reply Deep** — a checking first move, then every legal reply of the defender enumerated, and a mate found against each — if one reply has no mate, the first move is wrong. Worked: 1. Qb2+ Kg8 (the only reply) 2. Qg7#. (Was depth Layer 4.)
+4. **Sudoku: Elimination on a Grid** — rows, columns and boxes each holding the digits once, solved by elimination only: the single candidate and the hidden single, worked on a 4×4 mini-sudoku and then on the 9×9 board. (Was depth Layer 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## The climb
 

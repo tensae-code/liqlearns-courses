@@ -1,13 +1,23 @@
-# Levels — Chess and Sudoku Reasoning
+# Chess and Sudoku Reasoning — sub lessons and depth
 
-One lesson, one level (Level 158). The depth layers inside it are ranks.
+This file is the lesson's depth record, re-expressed as its SUB
+LESSONS (2026-11-08 restructure — README, "Units, Lessons and Sub
+Lessons"). One lesson, one level (Level 158) — that level line is unchanged. The depth layers inside it were ranks. The questions live in the type files;
+this file is the by-sub-lesson view.
 
-## Depth layers
+Mapping from the old depth layers: old Layer 1 = Sub lesson 1; old Layer 2 = Sub lesson 2; old Layer 4 = Sub lesson 3; old Layer 3 = Sub lesson 4. The sub lessons follow the order of the lesson text — mate in two is taught before sudoku there — so old Layers 3 and 4 swap places; every other layer keeps its number.
 
-- **Layer 1 — The board and the moves.** Name any square by its file and rank, say how each of the six pieces moves, and define check and checkmate exactly (check, with no legal move, block or capture left). Pass mark: 4 of 5.
-- **Layer 2 — Mate in one.** Run the candidate check on a position: list the checking moves, test the king's three exits for each, and name the mating move. Pass mark: 4 of 5.
-- **Layer 3 — Sudoku singles.** Solve cells by elimination: single candidates from the overlap of row, column and box, and hidden singles inside a unit. Pass mark: 4 of 5.
-- **Layer 4 — Mate in two.** Take a checking first move, enumerate every legal reply, and produce a mate against each — or reject the first move. Pass mark: 4 of 5.
+## Sub lesson 1 — The Board and the Pieces
+Sub lesson 1 questions from the type files. Name any square by its file and rank, say how each of the six pieces moves, and define check and checkmate exactly (check, with no legal move, block or capture left). Pass mark: 4 of 5.
+
+## Sub lesson 2 — Mate in One: The Candidate Check
+Sub lesson 2 questions from the type files. Run the candidate check on a position: list the checking moves, test the king's three exits for each, and name the mating move. Pass mark: 4 of 5.
+
+## Sub lesson 3 — Mate in Two: One Reply Deep
+Sub lesson 3 questions from the type files. Take a checking first move, enumerate every legal reply, and produce a mate against each — or reject the first move. Pass mark: 4 of 5. (Was depth Layer 4.)
+
+## Sub lesson 4 — Sudoku: Elimination on a Grid
+Sub lesson 4 questions from the type files. Solve cells by elimination: single candidates from the overlap of row, column and box, and hidden singles inside a unit. Pass mark: 4 of 5. (Was depth Layer 3.)
 
 ## What "maxed" means here
 
