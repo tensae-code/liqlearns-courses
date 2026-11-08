@@ -33,8 +33,6 @@ friend. The dressed one is this lesson.
 labelled blocks — addresses, date, greeting, body, closing,
 signature. What you do: name each block as it lands.]
 
-## Then the explanation
-
 ## Sub lesson 1 — The formal letter — the layout
 
 **The layout — every part in its seat.** Greece's Office

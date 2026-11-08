@@ -15,8 +15,6 @@ order. Now the English clock. Look at a clock with hands:
 Bangladesh's book names them by their look — the **short hand
 is the hour hand**; the **long hand is the minute hand**.
 
-## Then the explanation
-
 ## Sub lesson 1 — O'Clock Times
 
 **O'clock.** When the long hand stands straight up at 12, the

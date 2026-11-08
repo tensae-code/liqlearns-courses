@@ -20,8 +20,6 @@ is this lesson's one thing. The lesson stands alone;
 Reported statements is a soft hint for the last part,
 where the two shapes are told apart — never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Object clauses — that-clauses
 
 **The that-clause.** After verbs of saying, thinking

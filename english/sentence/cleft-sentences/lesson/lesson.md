@@ -19,8 +19,6 @@ keeps a shape for exactly that. This lesson stands
 alone; Relative clauses is a soft hint for the
 that/who tail, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Cleft sentences — the shape
 
 **The shape.** A cleft sentence begins **It is** or

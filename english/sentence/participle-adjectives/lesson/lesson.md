@@ -10,7 +10,6 @@ Built from: Albania, Akelius Chapter 36 "How are you feeling" (teacher's-guide e
 ## Do it first
 Name, in your own language, the last film that nearly put you to sleep — and say whether the sleepiness lived in YOU or in the FILM. English makes you choose, every time: the same verb grows two describing words, one for the person who feels and one for the thing that causes the feeling. Mixing them up does not break the grammar — it moves the feeling to the wrong owner, which is how "I am bored" turns into "I am boring" and announces, to everyone's surprise, that you are the dull one.
 
-## Then the explanation
 ## Sub lesson 1 — Participle Adjectives — the Pair
 **The pair.** From one verb, two adjectives: **bore → bored / boring**, **tire → tired / tiring**, **interest → interested / interesting**, **surprise → surprised / surprising**, **excite → excited / exciting**, **amaze → amazed / amazing**, **confuse → confused / confusing**. The **-ed** coat names the FEELING, and it sits on the one who feels it — almost always a person: "I am **bored**." "She was **tired**." The **-ing** coat names the CAUSE, and it sits on the thing (or person) that produces the feeling: "The movie is **boring**." "The walk was **tiring**."
 

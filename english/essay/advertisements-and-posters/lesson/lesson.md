@@ -19,8 +19,6 @@ TODAY." Twenty-one words, and a queue forms. Persuasive
 copy is writing with everything cut away except the parts
 that MOVE people. Here is what those parts are.
 
-## Then the explanation
-
 ## Sub lesson 1 — Advertisements and posters — the advert's anatomy
 
 **The advertisement's anatomy.** Ghana's NaCCA programme

@@ -16,8 +16,6 @@ answers questions like that ten thousand times a book — and
 it never guesses. It follows one rule, and the rule is this
 lesson.
 
-## Then the explanation
-
 ## Sub lesson 1 — Dictionary Letter Order
 
 **The rule: alphabetical order.** Bangladesh's book states it

@@ -12,8 +12,6 @@ Get a pencil. Hold it up. Now look at your fingers: where are they on
 the pencil? Take a photo in your head. Then put the pencil down — we
 are going to hold it the book's way, in five small steps.
 
-## Then the explanation
-
 ## Sub lesson 1 — Picking up the pencil
 
 So before a letter, there is a hand. A letter is a shape your hand

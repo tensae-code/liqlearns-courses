@@ -21,8 +21,6 @@ reader who is already trapped. The second catches a
 reader who is free to leave. Articles are written for
 free readers. Here is how the books catch them.
 
-## Then the explanation
-
 ## Sub lesson 1 — Article writing — the shape
 
 **The kind defined.** Egypt's Preparatory 9 book (Term 2)

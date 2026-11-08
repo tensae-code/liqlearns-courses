@@ -31,8 +31,6 @@ photo on the front; a few short lines, a name and address
 and a stamp on the back. What you do: count the lines the
 back can hold before you write a word.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Postcards and personal letters — the postcard's parts
 
 **The postcard, modelled whole.** Egypt's Primary 5 book

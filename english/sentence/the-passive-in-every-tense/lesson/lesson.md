@@ -10,7 +10,6 @@ Built from: Kuwait, English Pearls 9B (p.38) and 7A — Yemen, English Course fo
 ## Do it first
 Walk past any building site and say, in your own language, what is happening to the bridge, the road, the house — not who is doing it. Then repeat one rumour the same way: "people say he is rich." English has a passive coat for every one of those moments — for work still moving, work finished, rules, tomorrow, and whispers with no owner. The basic coats (is built, was built) belong to The passive; this lesson builds every coat after them.
 
-## Then the explanation
 ## Sub lesson 1 — The Passive — Continuous: the Work Is Moving
 **Continuous passives — the work is moving.** **Is being + participle** (present) and **was being + participle** (past): "The solar panels **are being installed**." "The road **was being repaired** all week." Kuwait's Pearls 9B states this coat as a named set — present continuous, past continuous and present perfect passives together (p.38) — and Egypt boxes the present continuous passive on its own page in the run ("is being built"). The receiver is mid-process: not planned, not finished — being done.
 

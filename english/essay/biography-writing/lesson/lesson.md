@@ -33,8 +33,6 @@ one standing beside the person, one being the person.
 What you do: say one fact both ways, "She was born in…"
 and "I was born in…".]
 
-## Then the explanation
-
 ## Sub lesson 1 — Biography writing — the pair and the person
 
 **The pair.** South Sudan's Primary 7 book gives a whole

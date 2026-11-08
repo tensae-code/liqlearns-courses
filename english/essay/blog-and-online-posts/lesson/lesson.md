@@ -19,8 +19,6 @@ it like a story to a friend. A stranger reads the second
 one to the end and leaves a kind comment. Online writing
 wins or loses in its voice. Here is its shape.
 
-## Then the explanation
-
 ## Sub lesson 1 — Blog and online posts — the blog's shape
 
 **The blog's shape.** Egypt's books teach the blog post

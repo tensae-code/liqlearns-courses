@@ -22,8 +22,6 @@ quickly." Two tell, two order, two cry out. This
 lesson teaches the four that act. It stands alone;
 Building a sentence is a soft hint, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Exclamations and orders — the order shape
 
 **The imperative: the bare verb, no subject.** An

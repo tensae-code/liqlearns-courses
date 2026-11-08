@@ -13,8 +13,6 @@ Say the sound of c. Now say the sound of h. Now put them together
 the book's way: ch — as in the sound that starts "chair". One sound,
 made of two letters. Try sh, too. You just did the whole lesson.
 
-## Then the explanation
-
 ## Sub lesson 1 — The pairs set by set
 
 So most letters hold one sound each. But English has sounds that no

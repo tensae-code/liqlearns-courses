@@ -20,8 +20,6 @@ piece and send it to a head teacher. You can sign the
 second. That difference — a piece built to be USED, not
 just read — is a report. Here is how the books build one.
 
-## Then the explanation
-
 ## Sub lesson 1 — Report writing — the frame
 
 **What a report is.** Egypt's Tip Box defines it plainly:

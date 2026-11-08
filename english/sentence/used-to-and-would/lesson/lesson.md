@@ -24,8 +24,6 @@ is finished." This lesson gives you the forms that say
 exactly that. It stands alone; the past simple is a
 soft hint, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Used to and would — the finished past
 
 **Used to: habits and states, both finished.** "I

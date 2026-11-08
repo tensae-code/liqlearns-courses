@@ -34,8 +34,6 @@ before the day — is this lesson.
 S, T, A, R across a stream. What you do: cross aloud —
 one stone, one part of an answer of your own.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Job interviews — preparation
 
 **Preparation — the interview before the interview.**

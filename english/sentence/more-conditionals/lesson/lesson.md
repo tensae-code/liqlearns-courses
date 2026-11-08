@@ -24,7 +24,6 @@ The four rungs are restated below, so start here if you
 like; the Conditionals lesson helps, but nothing here
 needs it first.
 
-## Then the explanation
 ## Sub lesson 1 — Mixed Conditionals
 **The rungs, in one breath.** Zero: If you heat ice, it
 melts. First: If it rains, we will stay home. Second:

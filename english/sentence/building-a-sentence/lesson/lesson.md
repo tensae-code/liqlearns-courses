@@ -17,8 +17,6 @@ hanging. The difference between the two is this whole level:
 **a sentence is a group of words, in order, that makes a
 whole thought.**
 
-## Then the explanation
-
 ## Sub lesson 1 — Whole or Waiting
 
 **The whole-thought test.** A sentence finishes an idea.

@@ -18,7 +18,6 @@ grid is this lesson. If you have done Quantifiers, you
 already own the grid's left edge (some/any); if not,
 start here — the law is restated in full below.
 
-## Then the explanation
 ## Sub lesson 1 — The Grid and the Some/Any Law
 **The grid.** Two axes. Down one side, the rows:
 **some-, any-, no-, every-**. Across the top, the

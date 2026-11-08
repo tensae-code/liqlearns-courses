@@ -20,8 +20,6 @@ meaning, not the two words apart. That is the whole
 lesson. It stands alone; the everyday-verb lessons are
 a soft hint, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Phrasal verbs — one meaning, in sets
 
 **The idea: verb + particle = a new word.** A phrasal

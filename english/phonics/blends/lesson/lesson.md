@@ -12,8 +12,6 @@ Say s, then k. Now say them with no gap: sk — the start of "skip".
 Again, slower: s-k, s-k, sk. Your mouth kept both sounds. That
 keeping-both is the whole lesson.
 
-## Then the explanation
-
 ## Sub lesson 1 — The s-set blends
 
 So a word can open with two sounds pushed together. Egypt's book

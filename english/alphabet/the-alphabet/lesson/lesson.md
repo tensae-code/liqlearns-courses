@@ -10,8 +10,6 @@ Say the letters you already know, out loud, in order, as far as you can
 go. Stop where you stop. That stopping place is where this lesson
 starts working.
 
-## Then the explanation
-
 ## Sub lesson 1 — Alphabet A to Z
 
 So the alphabet is the whole tool box of English reading. Every word

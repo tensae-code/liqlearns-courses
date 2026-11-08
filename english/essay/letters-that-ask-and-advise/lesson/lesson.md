@@ -34,8 +34,6 @@ doors — an office, a friend's house, a newspaper, a
 chief's office. What you do: say what the letter asks at
 each door before you read on.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Letters that ask and advise — the primary five and the enquiry
 
 **The primary five — where asking letters begin.**

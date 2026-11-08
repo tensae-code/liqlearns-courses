@@ -17,8 +17,6 @@ keeps them apart with two different coats on the verb — and
 you have been meeting both coats since the first routines.
 This lesson names them.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Every-Day Face
 
 **The every-day face — the present simple.** For things that

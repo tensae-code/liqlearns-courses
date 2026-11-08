@@ -24,7 +24,6 @@ might — from rules and abilities. Here they do their
 second job: guessing, openly, with the odds printed.
 Start here if you like; the ladder is complete below.
 
-## Then the explanation
 ## Sub lesson 1 — How Sure You Are — the Sure Ends
 **The job — deduction.** A deduction is a guess built
 on a SIGN: something you can see, hear or prove, right

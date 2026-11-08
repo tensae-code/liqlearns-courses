@@ -20,8 +20,6 @@ lesson names the five breaks and their repairs — it
 stands alone; Connectors and clauses is a soft hint for
 the splice repairs, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Fixing sentence errors — the fragment
 
 **One — the fragment.** A fragment is a piece wearing a

@@ -9,8 +9,6 @@ With your pencil held the five-step way, draw one line across your
 page — any line, your way. Look at it. Is it smooth? Does it go where
 you told it? Keep that line; it is your "before."
 
-## Then the explanation
-
 ## Sub lesson 1 — Drawing the wavy line
 
 So a line is the pencil's road. And here is the secret of the whole

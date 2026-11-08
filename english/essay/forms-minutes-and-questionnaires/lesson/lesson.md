@@ -20,8 +20,6 @@ and useless at an office window. The form gets Ama
 registered. The minutes make sure it happens. Short
 factual writings run the world quietly. Here they are.
 
-## Then the explanation
-
 ## Sub lesson 1 — Forms, minutes and questionnaires — the form
 
 **The form.** A form is questions wearing boxes. Greece's

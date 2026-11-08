@@ -16,8 +16,6 @@ inside real lessons, a few at a time, **traced, copied, and
 counted on real things** — 1, 2, 3 with the food; 4, 5, 6
 with the animals; 7, 8, 9, 10 with the body.
 
-## Then the explanation
-
 ## Sub lesson 1 — Numbers 1 to 10
 
 **1 to 10**, each number three ways — the figure, the word,

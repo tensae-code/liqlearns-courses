@@ -17,8 +17,6 @@ to** visit my grandmother." Unit 3's line is now complete in
 your hands: NOW (present actions), BEFORE (past actions),
 LATER (this lesson).
 
-## Then the explanation
-
 ## Sub lesson 1 — The Frame
 
 **The frame.** Bolivia's book tables it whole — affirmative,

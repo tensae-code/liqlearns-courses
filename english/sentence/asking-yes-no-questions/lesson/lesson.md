@@ -15,8 +15,6 @@ around and ask. English turns a statement into a yes/no
 question with one move, and the move is this lesson. Make
 it, and the other person must answer: yes, or no.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Be-Swap
 
 **The swap — questions with be.** When the statement's verb

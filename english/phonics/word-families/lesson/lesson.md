@@ -14,8 +14,6 @@ again: hat. Three words, one family — you read two of them for
 free. Feel how little work the second and third were? That is the
 whole lesson.
 
-## Then the explanation
-
 ## Sub lesson 1 — Families with short a
 
 So some words are cousins: they end the same way, in letters and

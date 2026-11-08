@@ -20,8 +20,6 @@ for ONE idea, and the cat is working for another. That
 feeling — belongs / stranger — is the whole law of the
 paragraph. Now it gets its names.
 
-## Then the explanation
-
 ## Sub lesson 1 — Belonging
 
 **One idea, served by every sentence.** A paragraph is a

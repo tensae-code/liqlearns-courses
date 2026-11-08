@@ -17,8 +17,6 @@ claim is one of the first fights and friendships of school
 life. The three ways are a ladder — this lesson climbs it
 and then runs it for every owner there is.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Name-Tag and the Partner Forms
 
 **The ladder (Mongolia's own box).** Its pronouns box prints

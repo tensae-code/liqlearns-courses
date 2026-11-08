@@ -21,8 +21,6 @@ keeps the order visible with a small family of signpost
 words. Learn them and you can lead a reader through any
 process or any day.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Process Home
 
 **The set.** Egypt's writing Tip prints it as a box-top

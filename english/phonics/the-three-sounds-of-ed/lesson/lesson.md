@@ -39,8 +39,6 @@ you do: say each word and hold up one, two or three
 fingers for the sound you hear at the end — a small t,
 a small d, or a whole new beat.
 
-## Then the explanation
-
 ## Sub lesson 1 — The three lists of -ed
 
 **Bolivia's three lists.** Bolivia's Year 3 book

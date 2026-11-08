@@ -20,8 +20,6 @@ eaten at this restaurant — yet your money already trusts
 the second voice. A review earns trust by weighing, not
 by shouting. Here is how the books build one.
 
-## Then the explanation
-
 ## Sub lesson 1 — Review writing — the four parts
 
 **What a review does.** Egypt's REVIEW Tip Box (Secondary

@@ -38,8 +38,6 @@ pencil crosses from one letter to the next. What you do:
 watch where the pencil does NOT lift, then make the same
 run yourself.
 
-## Then the explanation
-
 ## Sub lesson 1 — The exit flick
 
 **The bridge is already in the letter.** A cursive

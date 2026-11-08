@@ -33,8 +33,6 @@ That order is this lesson.
 CV, COVER LETTER, INTERVIEW. What you do: walk the chain
 aloud and say what each card carries.]
 
-## Then the explanation
-
 ## Sub lesson 1 — CV and cover letter — the chain and the sections
 
 **The chain.** Cambodia's Grade 12 book teaches job

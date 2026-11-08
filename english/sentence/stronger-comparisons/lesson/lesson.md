@@ -10,7 +10,6 @@ Built from: Egypt, Secondary 11 Term 2 (Comparative Phrases box, p.26) and Secon
 ## Do it first
 Say two true things about this room, in your own language: "the door is taller than the chair" — and then say HOW MUCH taller. A hand's width? A whole body? English refuses to leave that gap unsized: it keeps a set of small words whose whole job is to stand in front of a comparison and grade it. This lesson is that set — plus the family that says there is no gap at all, and the few adjectives that refuse every grader.
 
-## Then the explanation
 ## Sub lesson 1 — Stronger Comparisons — Big Gaps, Big Graders
 **Big gaps take big graders.** Before a comparative, **a lot**, **far** and **much** stretch the gap wide: "The new road is **far shorter** than the old one." "This book is **a lot more interesting**." "Houses here are **much cheaper**." Egypt's Secondary 12 book restates the whole comparison system in its literature unit and names exactly these intensifiers — much / a lot / far — before a comparative (Unit 11). Cambodia's Grade 12 book teaches the same grading inside its articles-and-comparison unit: comparatives and superlatives with degree quantifiers and as…as (Unit 9).
 

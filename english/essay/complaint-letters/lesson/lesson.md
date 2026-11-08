@@ -34,8 +34,6 @@ writes B — and then answers it.
 circled in red. What you do: turn each circled fault into
 one factual sentence — who, what, when.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Complaint letters — the complaint's moves
 
 **The complaint's moves.** Greece's Hotel and Tourist

@@ -20,8 +20,6 @@ town centre last night." The second telling is five words,
 then sixteen — and it tells you MORE. News writing is the
 art of that second telling. Here is its shape.
 
-## Then the explanation
-
 ## Sub lesson 1 — News writing — headline and lead
 
 **The headline.** Cambodia's Grade 12 book opens its news

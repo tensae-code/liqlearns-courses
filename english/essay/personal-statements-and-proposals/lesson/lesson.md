@@ -34,8 +34,6 @@ first half of this lesson.
 PLAN, ASK. What you do: deal the cards for one change you
 want at your school, one card at a time.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Personal statements and proposals — the personal statement
 
 **The personal statement.** Jordan's Grade 10 book

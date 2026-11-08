@@ -46,8 +46,6 @@ deep, doctor, dog, door — shuffling into line while
 their letters pop one by one. What you do: say which
 letter settled each card as it lands.
 
-## Then the explanation
-
 ## Sub lesson 1 — Ordering Words by the Second Letter
 
 **The rule, whole.** Words stand by their first letter.

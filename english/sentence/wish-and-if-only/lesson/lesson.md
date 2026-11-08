@@ -22,7 +22,6 @@ wings, I would fly), you have met this borrowed coat —
 that lesson helps here, but start here if you like;
 everything is explained below.
 
-## Then the explanation
 ## Sub lesson 1 — Wishes About Now
 **The shape of a present wish.** For a wish about NOW,
 English uses **wish / if only + the past simple**: "I

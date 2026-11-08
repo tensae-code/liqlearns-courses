@@ -24,7 +24,6 @@ bolt: **have + the past participle** screwed after the
 modal. Start here if you like; the present ladder is
 restated as we go.
 
-## Then the explanation
 ## Sub lesson 1 — Modal Perfects — Deduction About the Past
 **The shape.** Modal + **have** + past participle:
 must **have eaten**, can't **have left**, should

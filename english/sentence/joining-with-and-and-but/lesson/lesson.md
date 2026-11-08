@@ -17,8 +17,6 @@ feels wrong — no turn happened between waking and tea. The
 joiners are not glue; they are DIRECTIONS. This lesson
 teaches the two first directions.
 
-## Then the explanation
-
 ## Sub lesson 1 — And, the Adder
 
 **AND — the adder.** Ghana's curriculum opens compound

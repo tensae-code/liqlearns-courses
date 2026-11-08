@@ -18,8 +18,6 @@ guessing — it dresses every sentence so the eye can see its
 edges: a tall letter at the opening, a stop at the close.
 That dressing is this lesson, and it is only two marks deep.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Two Edges
 
 **The opening capital.** Ghana's curriculum states the rule

@@ -10,7 +10,6 @@ Built from: Egypt, Secondary 11 Term 2 (Stative Verbs box, p.9, via EGYPT-BOOK-M
 ## Do it first
 Say three true things in your own language: "I know his name." "I love this food." "I have a brother." Now try to say them as things happening minute by minute, like swimming or cooking — in most languages, as in English, they resist: knowing is not something you DO at 3 o'clock; it is a state you are IN. English marks that difference with a hard rule about which coat these verbs may wear. This lesson names the verbs, the rule, its honest border — and the bridge verbs that work beside them.
 
-## Then the explanation
 ## Sub lesson 1 — Stative Verbs — the Rule and Its Families
 **The rule.** **Stative verbs** (state verbs) name a state, not an action — and they are **not used in the continuous form**. Egypt's Secondary 11 Term 2 book states it in full in its Stative Verbs box (p.9): verbs that describe a state, not an action, sorted into **four groups — thoughts/opinions; feelings/emotions; the senses; possessions/measurements** — and "they are not used in the continuous form." So: "I **know** the answer" (never *I am knowing*), "She **believes** you," "We **own** the house," "It **seems** late." Egypt names the family earlier in its run too, in the plainest list: "Some verbs are not used in the continuous form. These are called stative verbs such as: **be, love, like, want, (look = seem), (have = possess)**" (Secondary run, as filed in the map — note the book's own sense-notes in brackets: look meaning seem, have meaning possess).
 

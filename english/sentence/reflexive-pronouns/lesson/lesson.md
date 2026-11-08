@@ -20,7 +20,6 @@ object pronouns (me, you, him…), you hold the family's
 building blocks; if not, start here anyway — the forms
 are built from scratch below.
 
-## Then the explanation
 ## Sub lesson 1 — Reflexive Pronouns — the Forms and the Returning Action
 **The eight forms.** Object pronoun + **self** (one
 person) or **selves** (more than one): **myself,

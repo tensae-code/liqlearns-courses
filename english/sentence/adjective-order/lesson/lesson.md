@@ -10,7 +10,6 @@ Built from: Bolivia, Year 6, Topic 5 (p.221) — Cambodia, English Grade 10, Uni
 ## Do it first
 Describe one thing near you with three describing words, in your own language — a bag, say: small, old, brown. In your language the words may stand in several orders and all of them sound fine. English allows exactly one. Say the same words in the wrong order — "a brown old small bag" — and every word is right, yet the sentence sounds broken. This lesson is the one fixed line those words must stand in.
 
-## Then the explanation
 ## Sub lesson 1 — Adjective Order — the Line
 **The line.** When adjectives stack before a noun, they stand in this order — Bolivia's Year 6 book prints it as a table (Topic 5, p.221): **Quantity/Number · Quality · Size · Shape · Age · Color · Nationality · Material** — and then the noun. Its worked example walks the whole line: "There are **2, bad, small, old, red, American, plastic shoes**" — two (quantity), bad (quality), small (size), old (age), red (colour), American (nationality), plastic (material), shoes. (The table as printed lists "American / Bolivian / Japanese" in both the Nationality and the Material columns — a printing overlap in the book, recorded in its filing; the order of the boxes is unaffected, and this lesson teaches the boxes, not the overlap.) Under the whole system stands the ground rule Egypt's Adjectives and Adverbs box states (Secondary 11 Term 2, p.54): an adjective comes before the noun — today's lesson orders the adjectives among themselves.
 

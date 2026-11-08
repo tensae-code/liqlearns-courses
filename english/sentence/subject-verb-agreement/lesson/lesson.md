@@ -18,8 +18,6 @@ of money for a book." If any of them made you pause,
 that pause is this lesson. It stands alone — Building a
 sentence is a soft hint only, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Subject-verb agreement — the base rule
 
 **The base rule.** Sierra Leone's handbooks state it

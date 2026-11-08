@@ -44,8 +44,6 @@ What you do: tap the table once, loud, exactly when you
 say the tall syllable, and let the other two taps stay
 soft.
 
-## Then the explanation
-
 ## Sub lesson 1 — Word stress
 
 **Word stress — one beat stands out.** India's Class 8

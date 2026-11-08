@@ -35,8 +35,6 @@ lesson writes letter B.
 blank letter with five empty paragraph blocks. What you
 do: match each block to the advert line it will answer.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Job application letters — the paragraph order
 
 **The paragraph order.** Cambodia's Grade 12 book coaches

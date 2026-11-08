@@ -34,8 +34,6 @@ day but the person who lived it. That keeping is this lesson.
 the top, short lines running down the day. What you do:
 point at the date first, then read the day downwards.]
 
-## Then the explanation
-
 ## Sub lesson 1 — Diary and journal — the parts
 
 **The four parts.** Egypt's Primary 4 book prints the diary

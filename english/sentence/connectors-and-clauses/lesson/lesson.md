@@ -23,8 +23,6 @@ lesson is the whole system the books build after them —
 it stands alone, but if and/but still feel new, that
 lesson is a soft hint, never a gate.
 
-## Then the explanation
-
 ## Sub lesson 1 — Connectors and clauses — the five jobs
 
 **The five jobs.** Vietnam's Grade 11 book tables its

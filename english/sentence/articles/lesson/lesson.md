@@ -23,7 +23,6 @@ through one of those three doors. This lesson is the
 doors, as one system. Start here if you like; nothing
 earlier is needed.
 
-## Then the explanation
 ## Sub lesson 1 — Articles — A and An
 **A/an — one, new, a member of a kind.** Use a/an when
 the hearer meets the thing for the first time, or when

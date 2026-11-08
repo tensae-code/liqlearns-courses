@@ -17,8 +17,6 @@ hunting word stands at its front. You have been answering
 questions like this since the first Egypt dialog — now we
 take the machine apart.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Words and Their Prey
 
 **Each word hunts one prey.** Bangladesh's intonation lesson

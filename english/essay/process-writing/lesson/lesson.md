@@ -19,8 +19,6 @@ steps with the verb at the front. The second way works
 with the writer out of the room — that is the whole test
 of this kind of writing. Here is how the books build it.
 
-## Then the explanation
-
 ## Sub lesson 1 — Process writing — the shape
 
 **The shape.** Indonesia's Grade 7 book teaches the

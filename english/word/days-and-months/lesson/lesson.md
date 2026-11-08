@@ -15,8 +15,6 @@ the same circle. And over the circle stands a bigger one:
 the year, with twelve months standing in a line that starts
 again every January.
 
-## Then the explanation
-
 ## Sub lesson 1 — The Seven Days
 
 **The seven days.** Egypt's book asks first: "How many days

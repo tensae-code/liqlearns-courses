@@ -15,8 +15,6 @@ too — one coat for most verbs, special shapes for the famous
 few. Yesterday is the friendliest text there is: you already
 know everything that happened. Only the coats are new.
 
-## Then the explanation
-
 ## Sub lesson 1 — The -Ed Coat
 
 **The -ed coat — the regular crowd.** Most verbs step into

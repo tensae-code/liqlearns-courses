@@ -13,8 +13,6 @@ Say these sounds slowly, one by one: s… a… t… Now say them again,
 faster, with no gaps: s-a-t… sat! You just read a word. That pushing
 together is the whole lesson.
 
-## Then the explanation
-
 ## Sub lesson 1 — Blending sounds together
 
 So a letter alone is a sound. A word is sounds holding hands. When

@@ -15,8 +15,6 @@ here they go to WORK inside sentences, and a describing word
 has exactly two places it can sit. Learn the two places and
 every description you will ever write is already built.
 
-## Then the explanation
-
 ## Sub lesson 1 — Home One: Before the Noun
 
 **Home one — before the noun.** The describing word stands

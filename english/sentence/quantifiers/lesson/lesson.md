@@ -22,7 +22,6 @@ lesson helps (a/an is this family's smallest member),
 but start here if you like — countability is explained
 below, in full.
 
-## Then the explanation
 ## Sub lesson 1 — Quantifiers — Some, Any, Much and Many
 **Countable and uncountable — the sorting shelf.**
 Bolivia's Year 2 book tables the contrast whole (Theme

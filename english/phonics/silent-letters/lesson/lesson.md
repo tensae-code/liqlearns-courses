@@ -39,8 +39,6 @@ letter drawn in pale grey, beside a real knife. What you
 do: say the word, then point at the grey letter — the
 letter you saw but did not say.
 
-## Then the explanation
-
 ## Sub lesson 1 — What a silent letter is
 
 **What a silent letter is.** Ecuador's book defines it

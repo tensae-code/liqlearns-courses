@@ -10,7 +10,6 @@ Built from: Bolivia, Year 4, Topic 3 (p.197) and Year 6, Topic 3 (p.217) — Nep
 ## Do it first
 Push on a describing word in your own language: the bag is not just heavy — it is SO heavy you cannot lift it; the day is not just hot — it is hot ENOUGH to swim, or TOO hot to work. Every language pushes descriptions until something happens. English keeps four pushers for the job — two that open or close a door (too, enough) and two that drag a result behind them (so, such). This lesson builds all four, plus the wider set of pushing words the books list around them.
 
-## Then the explanation
 ## Sub lesson 1 — Too — the Door Closes
 **Too — the door closes.** **Too + adjective + to-infinitive**: "The bag is **too heavy to carry**." "He is **too young to drive**." Bolivia's Year 6 book states the meaning in so many words (Topic 3, p.217): TOO is "used when something is not satisfactory — 'more than enough'" — its own examples: "That cell phone is **too expensive**." "That bag of potatoes is **too heavy**." "That movie is **too long**, because it lasts for three hours." Nepal teaches the form beside enough as one grammar pair — "**intensifiers too and enough (too + adjective + to-infinitive; adjective + enough)**" (Grade 8, Unit 18, Grammar II — the filing places this unit in Nepal's Grade 8 book; see Sources). Too stands BEFORE the adjective, always, and what follows it is the blocked action: too + adjective + **to** + verb.
 
