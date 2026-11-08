@@ -30,7 +30,39 @@ forever. Armenia's Grade 5 book teaches common multiples and the
 least common multiple (§5.3, p.121). Libya's Grade 7 book teaches
 multiples (p.33) and LCM (p.34).
 
-## Sub lesson 2 — Prime and Composite
+## Sub lesson 2 — Divisibility Tests
+**Divisibility.** Before you divide, the books teach you to
+*see* whether a number divides exactly — the divisibility
+tests. Armenia's Grade 5 book names its whole chapter
+"Divisibility" (§5.1–§5.3, pp.114–121), and Ethiopia's
+Grade 6 book opens its numbers chapter with "Divisibility
+of whole numbers," teaching the tests for 2, 3, 4, 5, 6, 8,
+9 and 10 (ch. 1, printed pp.1–28):
+
+- **2** — the number ends in an even digit: 0, 2, 4, 6, 8.
+- **5** — it ends in 5 or 0. **10** — it ends in 0. Yemen's
+  Grade 4 book teaches the tests for 10, 5, 2 and 3 first of
+  all (Part 1, Unit 4, printed pp.104–108), and South
+  Sudan's Pupil's Book 3 teaches the tests for 2, 5 and 10
+  (1.6, printed pp.14–16).
+- **3** — the digits add to a multiple of 3: 4 + 5 + 3 = 12,
+  so 453 divides by 3. **9** — the digits add to a multiple
+  of 9. Tajikistan's Grade 6 book teaches the 3 and 9 tests
+  by the digit sum (printed p.15).
+- **4** — the last two digits make a number divisible by 4.
+  **8** — the last three digits make a number divisible by
+  8. South Sudan's Pupil's Book 5 teaches the tests for 3,
+  4, 6 and 9 (1.2, printed pp.5–11), and Pupil's Book 6 the
+  tests for 8 and 11 (1.2, printed pp.5–7).
+- **6** — the number passes the tests for 2 and 3 together.
+- **11** — add and subtract the digits in turn, from the
+  left: if the answer is 0 or a multiple of 11, the number
+  divides by 11.
+
+The tests are the factor-hunter's shortcut: a number that
+fails every test for the small primes has no small factors.
+
+## Sub lesson 3 — Prime and Composite
 **Prime and composite.** A prime number has only two factors: 1
 and itself. 2, 3, 5, 7, 11, 13 are prime. A composite number has
 more than two factors: 4, 6, 8, 9, 10, 12 are composite. Armenia's
@@ -48,7 +80,7 @@ To test a number for prime, try dividing it by the primes up to
 its square root — if none divides it, it is prime. 29: not even,
 not a multiple of 3 (2 + 9 = 11), not a multiple of 5 — prime.
 
-## Sub lesson 3 — HCF and LCM
+## Sub lesson 4 — HCF and LCM
 **HCF.** The highest common factor is the biggest factor two
 numbers share. Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18:
 1, 2, 3, 6, 9, 18. Shared: 1, 2, 3, 6. Biggest: 6. So HCF(12, 18)
@@ -56,6 +88,18 @@ numbers share. Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18:
 divisor (§2.8, p.107), and Armenia's Grade 5 book teaches GCD via
 prime factorisation (§5.9, p.135). Vietnam's Grade 6 book teaches
 divisors, multiples, primes, GCD and LCM together.
+
+**A second way to the HCF — successive division.** When the
+numbers are big, listing all their factors is slow work.
+Tajikistan's Grade 6 book teaches a second GCD method:
+divide the bigger number by the smaller, then divide the
+smaller by the remainder, and keep going until the
+remainder is 0 — the last divisor is the GCD. Its worked
+scheme runs: 195 ÷ 104 = 1, remainder 91; 104 ÷ 91 = 1,
+remainder 13; 91 ÷ 13 = 7, remainder 0 — so GCD(195, 104) =
+13 (printed p.22). Laos's Grade 6 book teaches GCD by the
+same method, the Euclidean algorithm (L7, printed
+pp.46–55).
 
 **LCM.** The lowest common multiple is the smallest multiple two
 numbers share. Multiples of 4: 4, 8, 12, 16, 20 … Multiples of 6:
@@ -80,3 +124,5 @@ and the LCM (36).
 3. Prime or composite: 11, 15, 17, 21, 29, 33.
 4. Find the HCF of 12 and 18, and the LCM of 4 and 6.
 5. Colour the primes on a 1–100 grid.
+6. Use the tests only — no dividing — to say which of 2, 3, 4, 5, 6, 8, 9, 10 divide 5,640. (All but 9.)
+7. Find GCD(195, 104) by successive division, the Tajikistan way.
