@@ -1,7 +1,9 @@
+<!-- Sub-lessons restructure (2026-11-08 ruling): template = maths/numbers/counting/lesson-plan.md -->
+
 # Lesson plan — Derivatives
 
-**Course:** Maths · **Stage:** Stage 12 — Advanced Mathematics · **Lesson:** Lesson 50 of 52
-**Place in the curriculum:** Stage 12, the fifth lesson of the stage (CURRICULUM.md).
+**Course:** Maths · **Unit:** Unit 12 — Advanced Mathematics · **Lesson:** Lesson 50 of 52
+**Place in the curriculum:** Unit 12, the fifth lesson of the unit (CURRICULUM.md).
 **The one thing this lesson teaches:** derivatives — rates of change, how to differentiate, and what derivatives tell you about a function
 
 A lesson plan also says **what goes on top of the lesson**: at the
@@ -12,6 +14,18 @@ with it**. The words carry the picture while the course is built and
 while the AI learns from the books; on the website the real add-on is
 dropped into that slot and the little explanation stays as the
 student's guide.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **Rates of Change and the Derivative** — rates of change, average and instantaneous, and the derivative from first principles. (Was depth Level 1.)
+2. **The Rules and the Special Functions** — the rules of differentiation — sum, product, quotient and chain — and the special functions. (Was depth Level 2.)
+3. **Higher Derivatives and Applications** — higher derivatives, and using derivatives: increasing and decreasing, maxima and minima, tangents, related rates and curve sketching. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson (no hardness ranking is written in this lesson's question files).
 
 ## Before this lesson
 - Recommended first: the functions lesson and the coordinates-and-graphs lesson (a derivative is the slope of a curve), and the limits the books teach first. Recommended, never forced.
