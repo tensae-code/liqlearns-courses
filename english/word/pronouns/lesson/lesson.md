@@ -19,7 +19,7 @@ is to carry that bag for you: "Ahmed is my friend. **He** lives
 near me. **He** plays football with me." Those small words are
 this lesson's words.
 
-## Then the explanation
+## Sub lesson 1 — The seven person words
 A **pronoun** is a word that stands in for a noun. Bangladesh's
 book defines it formally: "A pronoun is a word that is used to
 replace or refer to a noun in a sentence." Libya's book says
@@ -40,6 +40,7 @@ made plainer:
 - **they** — when you talk about more than one person, animal,
   or thing.
 
+## Sub lesson 2 — The swap, replacing a repeated name
 The swap is the skill. Libya's WorkBook sets exactly this work:
 sentences where a name is repeated, and you replace the
 repeated name with **He, It, She, We,** or **They**. "Mariam
@@ -49,6 +50,7 @@ desk." Choose the stand-in by who the name is: a girl or a
 woman → she; a boy or a man → he; an animal or a thing → it;
 more than one → they; yourself and others → we.
 
+## Sub lesson 3 — Whose-forms, my and mine
 One step deeper: the **whose-forms**. Egypt's Primary 2 book
 boxes the first two — **my / your** — the words that say whose
 thing it is: "This is **my** book." "This is **your** book."

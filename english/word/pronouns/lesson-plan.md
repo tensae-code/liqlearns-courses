@@ -1,8 +1,10 @@
+<!-- Sub-lessons restructure 2026-11-08 — shape follows the template lesson maths/numbers/counting (TEMPLATE block in its lesson-plan.md; README "Units, Lessons and Sub Lessons (ruled 2026-11-08)"). -->
+
 # Lesson plan — Pronouns
 
 **Course:** English · **Title:** Word · **Lesson:** Pronouns
-**Place in the curriculum:** Level 6, "Word Kinds" —
-the fifth and last lesson of the level (CURRICULUM.md), after
+**Place in the curriculum:** Unit 6 — Word Kinds —
+the fifth and last lesson of the unit (CURRICULUM.md), after
 Nouns, Verbs, Adjectives, and Adverbs.
 **The one thing this lesson teaches:** a pronoun is a word
 that stands in for a noun — it does the name's job so the name
@@ -23,6 +25,18 @@ dropped into that slot and the little explanation stays as the
 student's guide. Images follow the picture rule (a real photograph,
 or real art, with its source). GIFs come first where a thing must be
 shown changing — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees
+from the start, locked ahead, each opening when the one before
+it is proved (the gate: README, "Units, Lessons and Sub Lessons
+(ruled 2026-11-08)"):
+
+1. **The seven person words** — what a pronoun is — a word that stands in for a noun — and Egypt's seven person words, each with its plain definition: I, you, he, she, it, we, they. (Was depth Level 1.)
+2. **The swap, replacing a repeated name** — Libya's swap work: a name said again and again is replaced by its stand-in, chosen by who the name is. (Was depth Level 2.)
+3. **Whose-forms, my and mine** — my / your and the set that grows from them — his, her, its, our, their — and Ghana's forms that stand alone: mine, yours, his, hers, theirs. The object-forms pointer at the end is this lesson's closing note. (Was depth Level 3.)
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
 - Recommended first: Nouns. Recommended, never forced.
