@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China
 
 Every part traces to its book and page.
 
@@ -36,6 +36,10 @@ Pelangi Sdn. Bhd., first published 2016. Filed in
 english/books/malaysia.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-04).
 
+**Book 6:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (China — English Grade 5 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The agent phones the Athenian Hotel to book two connecting rooms for a family of four, ten nights from 7 June — the call that carries the unit | Greece, Hotel and Tourist Trade, Unit 2 "Making Reservations", printed pp.37–50 |
@@ -50,9 +54,11 @@ PASSED 2026-11-04).
 | Telephone directories among the first functional reading (with table of contents, glossary and dictionary) | Barbados, Language Arts Syllabi, Class 1, Functional + Recreational Reading, printed p.36 |
 | A telephone invitation (Wani inviting Min Hui), message-taking, and accepting/declining with set expressions | Malaysia, English Form 1, Chapter 5 "A Bundle of Joy", printed pp.51–62 |
 | A telephone conversation (Mirza and his father) mined for invitations and requests, with polite formulae | Malaysia, English Form 1, Chapter 2 "It's a Small World", printed pp.13–24 |
+| A phone call home — "Mike's home call" dialogue, arranging to meet and to buy presents | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.32 |
+| A phone call inside the weekend dialogue — "It's Saturday morning. Mike is on the phone with his mum" | China — English (PEP) Grade 6 Volume 2, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 5 countries (Greece,
-Uzbekistan, Albania, Barbados, Malaysia).** Greece teaches
+**Acceptance count: taught in 6 countries (Greece,
+Uzbekistan, Albania, Barbados, Malaysia, China).** Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -71,5 +77,8 @@ directories as early functional reading — and is counted
 as syllabus evidence, stated plainly. Malaysia practises
 the social call: a telephone invitation with
 message-taking, and a telephone conversation mined for
-polite requests. Other closed countries join as their
+polite requests. China carries the home call at primary
+level — a child's call to arrange meeting and presents,
+and Mike's call to his mum (stocked 2026-11-08 by the
+re-verification sweep). Other closed countries join as their
 books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia
+countries: Albania, Bolivia, Mexico, Mongolia, China
 
 Every part traces to its book and page.
 
@@ -30,6 +30,10 @@ Mongolia, Ministry of Education, Culture, Science and
 Sports. Filed in english/books/mongolia.md (Grade 8
 section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
+**Book 5:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -39,9 +43,12 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Reading "Art and emotions": how paintings show feelings with colour and technique — named works by Monet, Van Gogh, Dalí and Klimt's "The Kiss"; colours linked to feelings (yellow → happy, black → afraid/worried) (stocked 2026-11-08 by the re-verification sweep) | Albania, Chapter 36, reading, printed p.39 (PDF 42); the reading's comprehension work (printed pp.40–42) is stocked in answering-from-the-text |
 | Feeling adjectives matched to faces (sleepy, sad, excited, happy, angry, surprised); the MAKE + object + adjective discovery ("Long weekdays make us busy. My best friend always makes me happy.") and the chain game ("A clown in the circus always makes me happy") | Mongolia, English VIII, Unit 3 "All in a Week," p.36 (discovery 5, p.38) |
 | The Emotional Dictionary project; WAS/WERE taught through emotions ("I was happy with my friends"); the dictionary-card emotion list: joy, sadness, fear, surprise, frustration, guilt, jealousy, anxiety, melancholy, shame, pride | Mexico, Grade 7, Project 14 "Feelings and Emotions as Part of Culture," p.122 (vocabulary p.124; grammar p.126) |
+| Feeling words as a whole unit — happy, sad, angry, afraid, worried, excited, ill, with "How do you feel?" | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.58 |
+| Feelings by weather and by mood — the unit's closing set ("hot day, cold weather, happy, sad, angry, worried, excited") | China — English (PEP) Grade 6 Volume 1, Unit 6, printed pp.66–67 |
+| The sad-movie unit whole: "Sad movies make me cry", crying/laughing, sad–happy, bored, interested, scared, relaxed — feelings worked through film and music | China — English ("Go for it!") Grade 9, Unit 11, printed pp.65–70 |
 
-**Acceptance count: taught in 4 countries (Albania, Bolivia,
-Mexico, Mongolia).** Bolivia carries the widest single
+**Acceptance count: taught in 5 countries (Albania, Bolivia,
+Mexico, Mongolia, China).** Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -50,5 +57,9 @@ that ties colours to feelings, its two misprints taught corrected
 and cited nowhere in their wrong shapes; Mexico carries
 the dictionary feelings and the past frame for them;
 Mongolia carries the face-matched six and the make-me
-cause frame. Other closed countries join as their books
+cause frame. China carries a whole feelings unit in
+Grade 6 ("How do you feel?") and at Grade 9 works the
+feelings through film and music — "Sad movies make me
+cry" (stocked 2026-11-08 by the re-verification sweep).
+Other closed countries join as their books
 are read (see READING-QUEUE.md).

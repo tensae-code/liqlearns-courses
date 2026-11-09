@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -42,6 +42,10 @@ PASSED, as filed).
 
 **Book 7:** 12
 
+**Book 8:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -53,9 +57,12 @@ PASSED, as filed).
 | The deduction set returned to at Form 5 | Malaysia, Form 5, Unit 6 (as filed in malaysia.md) |
 | Deduction uses (can't be, must be, might have gone) inside the obligations/rules modal unit | Nepal, English Grade 7, Unit 10, pp.97–106 |
 | Modal verbs of certainty — must/can't/may/might/could for deductions about the present | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 48 |
+| Guessing feelings from a story — "Sara's feelings. How do they feel? — They feel worried" (certainty talk over a read text) | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.65 |
+| Modal inference for past possibility — "He could have been a scientist", "It might have belonged to…", weighing possibilities from clues | China — English ("Go for it!") Grade 9, Unit 8, printed pp.57–60 |
+| The "It must belong to Carla" mystery story — deducing owners and past events with could/might/must | China — English ("Go for it!") Grade 9, Unit 8, printed p.61 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia).** Egypt prices the
+**Acceptance count: taught in 7 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China).** Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -67,4 +74,8 @@ its Grade 7 rules unit. The build plan also named a
 Nepal Grade 7 Unit 15 anchor for this lesson; the
 filing's Unit 15 deduction evidence was not confirmed
 (the held Grade 7 deduction unit is Unit 10), so only
-Unit 10 is cited.
+Unit 10 is cited. China carries the deduction set twice
+up: guessing feelings from a story in Grade 6, and at
+Grade 9 a whole mystery unit — modal inference over
+clues and the "It must belong to Carla" story (stocked
+2026-11-08 by the re-verification sweep).

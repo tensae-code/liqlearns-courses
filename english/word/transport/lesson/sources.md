@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China
 
 Every part traces to its book and page.
 
@@ -45,6 +45,8 @@ lesson is reproduced.
 
 **Book 7:** 8
 
+**Book 8:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transport: car, bus, bike, van, taxi — Pattern: "How many taxis? Five taxis," counting combined objects ("How many taxis and bikes?"), first whole-word writing (v_an, _ike, _axi, _ar, _us) | Palestine, Grade 1 Part 2, Unit 11 "Transport," p.10 (writing p.15) |
@@ -56,9 +58,12 @@ lesson is reproduced.
 | Travel vocabulary and talking about trips — the trip set beyond the vehicles themselves: trip, explore, tourist, world, airplane, pilot, airport, hotel, pack, get on/get off, beach, island, sandal, sunscreen, wave, picnic, photo — "We are going on a trip" (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed pp.54–55 (PDF 57–58) — teacher-guide evidence |
 | Means of transport — the transport words practised in the book's town unit | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 22–23 |
 | Means of transportation — by train/bus/horse/taxi/motorbike, classified water, land and air | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 34 |
+| Ways of travelling, asked and answered: "How do you come/go to school? — I come on foot. I often go by subway / by bus / by bike" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.12–15 |
+| Travel words as a set — by bus, by taxi, by plane, by ship, by train, by subway, on foot | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.15 |
+| Road safety from dialogue — in the USA people on bikes must wear a helmet; bus numbers (the No. 57 bus); the signs "You must stop" and "Don't touch the door" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.16 |
 
-**Acceptance count: taught in 5 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda).** Albania — teacher-guide evidence —
+**Acceptance count: taught in 6 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China).** Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -70,5 +75,9 @@ transport of the world in Unit 6; Rwanda carries the set
 twice, in P4's district unit (with comparing means of
 transport) and in P5's transport unit whole (the sort,
 travel by / on foot, and cost-time-speed comparison).
-Other closed countries join as their books are read (see
+China carries the how-do-you-go exchange whole — "How do
+you come/go to school?" with by bus / by bike / on foot —
+and its road-safety talk inside the same unit (stocked
+2026-11-08 by the re-verification sweep, which found the
+whole transport block unstocked). Other closed countries join as their books are read (see
 READING-QUEUE.md).
