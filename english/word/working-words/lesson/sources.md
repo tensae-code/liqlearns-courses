@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia
+countries: Greece, Bolivia, China
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -27,6 +27,10 @@ READ + CITATION CHECK PASSED).
 
 **Book 4:** C
 
+**Book 5:** *Compulsory Education Textbook · English (PEP), Grade 3 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2012, ISBN 978-7-107-25247-1. Filed in english/books/china.md (China — English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The course shape: 22 units plus 2 revision units in 5 thematic sections — A Hotel Services (Units 1–8, pp.23–148), B Food and Beverage Service (Units 9–15), C Tourist Services (Units 16–20), D Jobs and Business Correspondence (Units 21–23), E Tourism (Unit 24); a glossary of approximately 2,000 words (printed pp.373–412) | Greece, Hotel and Tourist Trade, prologue (printed p.7) and contents (printed pp.10–20) |
@@ -38,16 +42,23 @@ READ + CITATION CHECK PASSED).
 | Unit 1 "Getting a job" (the school-leaver Maria Petrou's road into office work); Unit 2 "Communications and office practice" (choosing the channel: letter, memo, circular, notice board…); Unit 3 "Commercial correspondence – Exports": one full transaction in model letters — inquiry, order, acknowledgement, complaint — each with its standard phrases; the final alphabetical Vocabulary | Greece, English for Office Clerks, Units 1–3, printed pp.13–211; Vocabulary printed pp.375–405 |
 | Working tools — the factory tool set in a reading (wrench, measuring tape, screwdriver — the book prints “Tap measure” for tape measure, taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 14 |
 | Factory working tools and electrical tools — the mechanical set and the electrical set (voltmeter, ammeter, ohmmeter, multimeter, wire stripper, pliers, screwdrivers, soldering iron, oscilloscope, cable cutter…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 91–92 |
+| Toy and thing words as a first things set: cap, ball, car, boat, map, toy box | China — English (PEP) Grade 3 Volume 2, Unit 4, printed p.42 |
+| Material words as a set, inside the made-of unit: chopstick, coin, silver, steel, cotton (with fork, blouse, glass, grass, leaf) | China — English ("Go for it!") Grade 9, Unit 5, printed pp.33–38 |
 
-**Acceptance count: taught in 2 countries (Greece, Bolivia).** This is
+**Acceptance count: taught in 3 countries (Greece, Bolivia, China).** This is
 the specialist lesson of Unit 7, and its narrow base is
-the point, stated plainly: the whole stock is Greece's own
+the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
 Tourist Trade course (hotel services, food and beverage,
 tourist services, business correspondence, a 2,000-word
 glossary) and the Grade 11 EPAL English for Office Clerks
 course (the business letter's anatomy, office
-communications, a full export correspondence). No other
-country's books teach this trade stock, and none is claimed
-to. Other closed countries join as their books are read
+communications, a full export correspondence), with
+Bolivia's factory and electrical tool sets beside it. No other
+country's books teach that trade stock, and none is claimed
+to. China joins on a different footing (stocked 2026-11-08
+by the re-verification sweep): not trade English, but the
+everyday things-and-materials word sets its primary and
+Grade 9 books teach — the toy/thing set of Grade 3 and the
+material words of the Grade 9 made-of unit. Other closed countries join as their books are read
 (see READING-QUEUE.md).

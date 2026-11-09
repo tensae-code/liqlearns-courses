@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia
+countries: Bolivia, Cambodia, Mongolia, China
 
 Every part traces to its book and page.
 
@@ -30,6 +30,8 @@ CHECK PASSED 2026-10-26).
 
 **Book 6:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2013, ISBN 978-7-107-27387-2. Filed in english/books/china.md (China — English Grade 4 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Typical clothes of the regions (Altiplano colourful for cold; valleys/oriental white for hot), clothes and colours taught together; production: a wallpaper of typical clothes of your region; closing model text "Typical clothes from my region" (the tipoy dress) | Bolivia, Year 1 (Grade 7), Topic 6 "Typical clothes," student p.173 |
@@ -40,15 +42,25 @@ CHECK PASSED 2026-10-26).
 | The clothing phrasal verbs (take off, try on, put on, wear out, get into, pick up, pick out, go with, give away) and the LOOK + ADJECTIVE box ("You look cool!") | Mongolia, English X, Unit 5, p.81 |
 | Clothes: school-uniform items and the full set — shirt, blouse, jacket, sweater, suit, pants, tie, skirt, dress, shoes; winter clothes (scarf, jacket) | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.9–10 |
 | Clothes: belt, dress, skirt, coat, shoes, purse, glasses, hat, cap, shirt, suit, t-shirt, pants, tie, shorts, gloves, jeans; colours as adjectives before nouns; “How much is this / are these?” with prices; plural-only clothes (pants, shorts, gloves, glasses, jeans) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.39–40 |
+| Clothes set 1: hat, dress, skirt, pants, clothes | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.49 |
+| Clothes set 2: coat, shirt, sweater, jacket, shorts, socks | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.52 |
+| Clothes action phrases — put on your shirt, take off your hat, hang up your dress, wash your skirt, put away your pants | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.49 |
+| Choosing clothes to wear — "I want to wear my blue pants / my yellow dress" | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.52 |
+| Shop goods named inside the clothes book: gloves, scarf, umbrella, sunglasses | China — English (PEP) Grade 4 Volume 2, Unit 6, printed p.59 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Cambodia,
-Mongolia).** Bolivia carries the set as typical regional
+**Acceptance count: taught in 4 countries (Bolivia, Cambodia,
+Mongolia, China).** Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
 by that contrast, and the word-level sets are carried by
 Mongolia here, not re-claimed as Cambodia word stock);
 Mongolia carries the describing adjectives, the accessories
-and the materials system with made of / made from. Other
+and the materials system with made of / made from. China
+carries the plain first word sets — two sets of clothes
+words with the dressing action phrases (put on, take off,
+hang up, wash, put away) and choosing what to wear
+(stocked 2026-11-08 by the re-verification sweep, which
+found this lesson carried no China citation). Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

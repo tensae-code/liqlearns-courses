@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China
 
 Every part traces to its book and page.
 
@@ -39,6 +39,8 @@ printing. Filed in english/books/mauritania.md (Grade 12
 — Study English, 6th Year Secondary School section, FULLY
 READ + CITATION CHECK PASSED 2026-10-26).
 
+**Book 6:** *Compulsory Education Textbook · English (PEP), Grade 3 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2012, ISBN 978-7-107-25247-1. Filed in english/books/china.md (China — English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Free-time activities; like / love / hate / don't mind + -ing; agreeing and disagreeing with preferences ("So do I", "Neither do I", "I don't") | Cambodia, ENGLISH Grade 10, Unit 8 "Leisure activities", printed pp.41–46 |
@@ -49,9 +51,10 @@ READ + CITATION CHECK PASSED 2026-10-26).
 | Ways of agreeing and disagreeing, through an article on British "public" (independent) schools and letters for and against them; expressing opinion in the lessons beside it | Uzbekistan, English Matters, Student's Book 9, Unit 3 "Education Matters", Lessons 5–6 "A different system", printed p.30; Lessons 7–8 "A testing time", printed p.32 (unit printed pp.26–37) |
 | The argument frame box: claim ("In my view / I think…") → 2–3 reasons ("First… Second… Finally…") → conclusion; the writing task argues the other side | Mauritania, Study English, Grade 12, Lesson 7 "Should Students Bring Their Cell Phones to School?", printed pp.23–24 |
 | The opinion/agreement phrase bank ("I agree / I disagree / you're right / you're wrong / Nonsense!") in Noura's argument with her grandmother | Mauritania, Study English, Grade 12, Lesson 8 "Noura and Her Grandmother", printed p.26 |
+| Agreeing with a negative, as its own small exchange inside the likes unit: "Me, neither" | China — English (PEP) Grade 3 Volume 2, Unit 5, printed p.52 |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Mauritania, Mongolia, Nepal, Uzbekistan).** Mongolia
+**Acceptance count: taught in 6 countries (Cambodia,
+Mauritania, Mongolia, Nepal, Uzbekistan, China).** Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -61,4 +64,7 @@ auxiliary in the unit before it; Uzbekistan teaches
 agreeing and disagreeing through for-and-against letters
 in Grade 9; Mauritania's Grade 12 book supplies the
 argument frame — claim, reasons, conclusion — and the
-full phrase bank from its argument lessons.
+full phrase bank from its argument lessons. China carries
+the smallest first step of the strand: agreeing with a
+negative — "Me, neither" — inside its Grade 3 likes unit
+(stocked 2026-11-08 by the re-verification sweep).

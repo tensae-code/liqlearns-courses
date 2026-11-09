@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China
 
 Every part traces to its book and page.
 
@@ -32,6 +32,16 @@ english/books/rwanda.md.
 
 **Book 8:** 10
 
+**Book 9:** *Compulsory Education Textbook · English (PEP), Grade 3 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2012 edition, ISBN 978-7-107-24467-4 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 10:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 11:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (China — English Grade 5 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 12:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 13:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -46,9 +56,15 @@ english/books/rwanda.md.
 | Imperatives and following instructions — commands inside how-to and direction texts (turn left, go straight, walk…) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 45–46 |
 | Expressions and commands in the classroom — Stand up, sit down, close your books, take out your books and notebooks, don't be late, don't worry, let's go… | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 58 |
 | Imperatives for instructions and orders — the command forms in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp. 80–81 |
+| Classroom action commands — open your pencil box, show me your pen, close your book, carry your bag | China — English (PEP) Grade 3 Volume 1, Unit 1, printed p.5 |
+| Animal action commands — "Act like a bird" and its set | China — English (PEP) Grade 3 Volume 1, Unit 4, printed p.42 |
+| Classroom action commands a year up — open the door, turn on the light, close the window, put up the picture, clean the blackboard | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.5 |
+| Rules language as orders — "Work quietly! Talk quietly! Keep your desk clean! Keep to the right! Take turns", with the library signs "Quiet, please!" and "No eating!" | China — English (PEP) Grade 5 Volume 2, Unit 6, printed pp.57–62 |
+| Traffic rules with must — "Stop and wait at a red light. Slow down and stop at a yellow light. Go at a green light. Don't go at the red light!" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.12–17 |
+| Exclamatory sentences as a taught set: "What a great day! What fun the Water Festival is! How pretty the dragon boats were! How delicious the food is!" | China — English ("Go for it!") Grade 9, Unit 2, printed pp.9–12 |
 
-**Acceptance count: taught in 5 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda).** A plan-anchor
+**Acceptance count: taught in 6 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China).** A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -61,4 +77,9 @@ own limit: the filing files the imperative shapes, the
 must/mustn't rules and the exclamation-mark teaching,
 plus the "What a performance!" unit title — it files
 no grammar box for What a…! / How…!, and none is
-claimed.
+claimed. China stocks the command sets from its first
+book up — classroom commands in Grades 3 and 4, rules
+language and traffic rules with must in Grades 5 and 6 —
+and at Grade 9 teaches the exclamatory sentence outright:
+the What…! and How…! set inside its festival unit
+(stocked 2026-11-08 by the re-verification sweep).
