@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -33,6 +33,18 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2025 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+
+**Book 7:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 8:** Honeysuckle — Textbook in English for Class VI —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -174,7 +186,9 @@ rendered page the same day).
 | Target-language greeting customs, adding “some people bow” to the student book's set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p.122 |
 | Greetings and leave-taking: hello/hi, how are you, I'm fine, goodbye/bye-bye | Mauritania, Study English, Grade 7, printed pp.9–10 |
 | Talking about yourself: my name is…, I am from…, I live in…, my nationality | Mauritania, Study English, Grade 7, printed pp.13–15 |
-**Acceptance count: taught in 34 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
+| Self-introduction work at Class 1: fill in about yourself — I can read my name; My name is…; I am … years old; I can write my address; I can count till…; my teacher's name; my school | India — Marigold (Class 1), Unit 9, printed pp.98–109 |
+| Six children introduce themselves and what they want to be: "Who I Am" — Radha, Nasir, Rohit, Serbjit, Dolma, Peter, with personality and careers material | India — Honeysuckle (Class 6), printed p.69 |
+**Acceptance count: taught in 35 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North

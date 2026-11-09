@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India
 
 Every part traces to its book and page.
 
@@ -56,6 +56,24 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 9:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 10:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 11:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Narrative techniques to manipulate time — backstory, flashback and flash forward, foreshadowing — named as Basic 9's narrative-technique set (curriculum evidence only) | Ghana, NaCCA JHS curriculum, Basic 9, Strand 4 (as filed) |
@@ -70,9 +88,12 @@ cited once.
 | Creating a fairy tale — the story kind built as the unit's writing work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.65 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Literary genres sorted in a discussion table — stories, theatre scripts and poems the learners have read or know, with their authors and genre named | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 37 |
 | What makes the types of writing different: songs, stories, poems, plays and novels compared in one diagram | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 79 |
+| Story technique as writing work: rewrite the story without its humour as a merely frightening incident; make up a story from a newspaper photograph sketch (what the monkey is thinking) | India — Beehive (Class 9), Writing in The Snake and the Mirror, printed p.61 |
+| Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
+| Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 5 countries (Ghana,
-South Sudan, Indonesia, Egypt, Mexico).** Ghana's curriculum
+**Acceptance count: taught in 6 countries (Ghana,
+South Sudan, Indonesia, Egypt, Mexico, India).** India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,

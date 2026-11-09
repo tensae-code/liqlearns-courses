@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India
 
 Every part traces to its book and page.
 
@@ -134,6 +134,12 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 37:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -212,9 +218,10 @@ differ only in cover wording and colophon; cited once.
 | Narrating a story as the lesson's Listening & Speaking work — telling a story aloud in the travel lesson | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," Listening & Speaking, printed pp.71–95 |
 | Writing and retelling a narrative text — the story told, then told back in the learner's own telling | Indonesia, Life Today Grade 12, Unit 1, printed p.33 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The anthology project: an anthology of short folktales or legends in English, gathered for retelling | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 128 |
+| A story retold from inside: rewrite part of the story as if Wanda is telling her own story | India — First Flight (Class 10), Writing in Hundred Dresses, printed p.82 |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 26 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India).** India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);

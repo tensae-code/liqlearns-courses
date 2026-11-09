@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -8,6 +8,13 @@ lesson's sources (Libya's full 42-sound line) until 2026-10-25, when
 they were split out under his rule: one lesson explains one thing
 only — two letters saying one sound is a different thing from the
 single letters.
+
+**Book:** Marigold Book Two — Textbook in English for Class
+II — India, NCERT (this scan's prelims are stamped 2020-21,
+its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -121,6 +128,7 @@ single letters.
 | The ee/ea spellings in Grade 2 Term 3's phonics (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
 | Vowel digraphs ou/ow, short/long oo, au/aw and oi/oy open Grade 3's Term 3 Phonics Practice (read directly) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Term 3 Phonics Practice, printed pp.114–121 |
 | The reading of **th** and **wh** systematised in the final unit's pronunciation exercises (filed there with the single letters c, g, s) | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 14, printed p.139 |
+| Say-aloud sets for dr-, thr-, gr- sounds (draw/drain/drip, three/throw/thread, grapes/grey/grow) | India — Marigold Book Two (Class 2), Unit 7 sound work, printed pp.105–121 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the full pair set; the text now
 teaches all of it. Sub lesson 3 (More pairs) is carried by
@@ -139,7 +147,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 27 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan).**
+**Acceptance count: taught in 28 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India).** India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,

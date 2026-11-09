@@ -17,8 +17,8 @@ Kuwait, Ministry of Education, State of Kuwait, First
 Edition 2025-2026. Filed in english/books/kuwait.md
 (read in full + citation-checked 2026-11-03).
 
-**Book 3:** Marigold Books Three, Four and Five, and
-the later NCERT English books — India, NCERT. Filed in
+**Book 3:** Marigold Books Two, Three, Four and Five,
+and the later NCERT English books — India, NCERT. Filed in
 english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26).
 
@@ -31,6 +31,13 @@ was read. Filed in english/books/barbados.md (FULLY
 READ + CITATION CHECK PASSED 2026-10-27).
 
 **Book 5:** 9
+
+**Book 6:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -46,21 +53,22 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | Silent -mb: lamb, climb, thumb | Kuwait — Skyline English Student's Book 5B, Unit 6, Lesson 3 (Pronunciation) |
 | Silent -lk: walk, talk, chalk | Kuwait — Skyline English Student's Book 5B, Unit 7, Lesson 8 (Pronunciation) |
 | Silent -gh: through, bright, bought | Kuwait — Skyline English Student's Book 5B, Unit 8, Lesson 3 (Pronunciation) |
-| SILENT LETTERS as named work: the w in wrinkle has no sound; the l in talk is silent | India — Marigold Book Three, Unit 3 (Class 3 filing) |
+| SILENT LETTERS as named work: the w in wrinkle has no sound; the l in talk is silent | India — Marigold Book Two, Unit 3, printed pp.39–53 (attribution corrected 2026-11-09 by the India re-verification sweep merge: the old filing and this row named Marigold Book Three, but the sweep's fresh read places this work in Book Two's Unit 3 — the unit of the poem "A Smile", "It wrinkles up your face"; Book Three's Unit 3 has no silent-letter work) |
 | SILENT LETTERS underlined in a set: walk, straight, more, caught, calm, talk | India — Marigold Book Three (Class 3 filing, the animals unit's work) |
 | SILENT LETTERS picked out: hour, knit, wrong, doubt, often, know, night, could, write, knife, high, walk | India — Marigold Book Four, Unit 7 (Class 4 filing) |
 | SILENT-LETTER groups: kn- (knee, knife, knot, know); -gh- (neighbour, daughter, fight, straight); h- (honest, honour, hour, heir); plus gnat, tongue, chalk, whistle | India — Marigold Book Five, the Rip Van Winkle unit (Class 5 filing) |
 | Silent letters named in the word-attack core, beside digraphs, blends and variant consonant sounds | Barbados — Class 1 syllabus body, Reading: Skills and Strategies, printed pp.28–35 (syllabus evidence) |
 | Scope and Sequence row 3.1.4: "Contractions, blends (three letters etc.) and silent letters" | Barbados — Class 1 syllabus, printed p.3 (syllabus evidence) |
 | Silent letters — the silent k and silent t box (know, knife; listen, castle) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed p. 33 |
+| Silent letters as the unit's sound work, beyond the wrinkle/talk pair: words rhyming with "my" completed with a silent letter (sm_le, k_te, m_ce, l_ne), and the longest-word joke-riddle | India — Marigold Book Two (Class 2), Unit 3 sound work, printed pp.39–53 |
 
-**Acceptance count: taught in 5 countries (Ecuador, Kuwait, India, Barbados, Bolivia).**
+**Acceptance count: taught in 5 countries (Ecuador, Kuwait, India, Barbados, Bolivia).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
 pronunciation strand — one family per unit under one
 frame sentence; India stocks the skill as picked-out
-lists inside its readers from Class 3 up, growing into
+lists inside its readers from Class 2 up, growing into
 named groups (kn-, -gh-, h-); Barbados stocks it as
 syllabus-named word-attack work. Ecuador's KNOWLEDGE
 card is a book error and is taught corrected (the word

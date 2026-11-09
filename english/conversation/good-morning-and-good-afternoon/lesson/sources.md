@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -13,6 +13,12 @@ Education and Educational System Reform / IPN, 2025 printing;
 re-read page by page in the 2026-11-08 re-verification sweep —
 the english/books/mauritania.md filing covers the 6th Year
 book only).
+
+**Book:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -57,8 +63,9 @@ book only).
 | Greetings and farewells, formal and informal, with a personal-information table (name, age, country, nationality, address, hobbies) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp. 7–8 |
 | Greeting people and saying goodbye, as Chapter 1's opening work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed p.15 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
+| The greeting taught from the year's first poem: "Good Morning" (Fannie R. Buchanan) — the child greets sky, sun, winds, birds, trees, grass and bees on waking; talk time: "In the morning I say Good morning, at night Good night", and saying Good morning in your own language | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
 
-**Acceptance count: taught in 26 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
+**Acceptance count: taught in 27 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a

@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
@@ -8,6 +8,12 @@ lesson's sources (and its level-2 pass mark) until 2026-10-25, when
 it was split out under his rule: one lesson explains one thing only —
 blending sounds into words is a different thing from knowing the
 letters.
+
+**Book:** Marigold Book Four — Textbook in English for Class
+IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -40,8 +46,9 @@ letters.
 | Blending named as the lesson rubric — the word-family phonics lessons run as "Let's blend and read", each family read in a cumulative build-up text (the -an family's text at printed p.10; the -ot family's at printed p.51; the -ed family's at printed p.69) | Kuwait, Skyline English Student's Book 1B, Units 5, 7 and 8, Phonics lessons (lessons pp.8–17, pp.44–53, pp.62–71) |
 | Phoneme blends in CVC, CCVC, CVCV and CCV words, as the mapped phonics strand of the opening block (mapped partial — scheme-of-work evidence only, no pupil's-book page claimed) | Malaysia, Year 2 Scheme of Work (KSSR), Introduction + Free Time block, Lessons 1–30, headers at printed pp.24–86 |
 | The short a sound in a rhyming caption (a fat rat in a black bag) | Malaysia, *Super Minds* Student's Book 1, Year 1, printed p.15 |
+| Sound work: listen for the 'b' sound (boy, bee, baby chicks cheep-cheep) | India — Marigold Book Four (Class 4), Unit 1 sound work, printed pp.1–16 |
 
-**Acceptance count: taught in 14 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia).**
+**Acceptance count: taught in 15 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India).** India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review

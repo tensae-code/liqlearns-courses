@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -12,6 +12,18 @@ one thing only.
 of Education and Technical Education, Egypt; verified on disk
 2026-10-25: %PDF, 3,657,055 B, 112 pp, image-only — read as
 pictures).
+
+**Book:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book:** Marigold Book Five — Textbook in English for Class
+V — India, NCERT, 2019-2020 printing in this scan. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -67,7 +79,11 @@ pictures).
 | Long/short vowel pairs taught as pattern families — a/a_e (tap/tape), i/i_e (pin/pine), o/o_e (top/rope), u/u_e (cub/cube) — in the feelings unit's sounds strand | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 3 Feelings and Things, printed p.18 |
 | The silent-e sets (a_e, i_e, o_e, u_e) gathered in Term 3's Phonics Practice | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Phonics Practice, printed pp.26–32 |
 | Only the u_e/ue set appears in the held Grade 3 copy (town unit) — the full silent-e sets belong to the missing Terms 1–2 practice pages | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 11 Hanging Out in Town, printed pp.82–89 |
-**Acceptance count: taught in 14 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia).**
+| Three-letter words read aloud and matched to pictures (bag, tin, hen, pen, tap, axe, ant, fox, cap, cot); missing letters filled (b_g, h_n, c_t) | India — Marigold (Class 1), Unit 3 word work, printed pp.29–41 |
+| Rhyming word sets (apple/drew/dew, ball/call/fall, people/grew/few, ripple/threw/mew); a fruit crossword from picture clues | India — Marigold (Class 1), Unit 6 word work, printed pp.64–76 |
+| Rhyming sets (bride/ride/side, cart/part, kite, chance/dance, fast, sky); things in the day sky and night sky (stars, sun, cloud, rainbow, moon) | India — Marigold (Class 1), Unit 7 word work, printed pp.77–87 |
+| A unit's activity set as word-family work: a neighbourhood survey (ten families counted in a table) and a report from it; interview your teacher and write "My Teacher"; map reading and directions home from school; Tagore's "Day by Day I Float My Paper Boats" as a listening poem; the MAGIC-E table (cap/cape, mat/mate, pin/pine — adding e changes sound and meaning) | India — Marigold Book Five (Class 5), Unit 9 activities |
+**Acceptance count: taught in 15 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India).** India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those

@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India
 
 Every part traces to its book and page.
 
@@ -241,6 +241,79 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 78:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 79:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 80:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 81:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 82:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 83:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 84:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 85:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 86:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 87:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 88:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 89:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -430,8 +503,96 @@ differ only in cover wording and colophon; cited once.
 | The literary festival project: organising a festival of literary texts — stories handled as whole pieces to present | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 36 |
 | “The Kindness Princess” — a complete tale read in class: a princess must reunite four kingdoms in three days to break a sorcerer's curse (plot summary only) | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 39 |
 | The La Llorona project: an artistic proposal combining art forms with the characters of the legend of La Llorona | Mexico, Grade 8, Project 20 "The Arts: A Path to the Expression of Our Environment", printed p. 160 |
-**Acceptance count: taught in 33 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico).** Ghana names the narrative mode; Bangladesh
+| "Three Little Pigs": three pigs build houses of straw, sticks and brick; the big bad wolf blows down the straw and stick houses but not the brick one (plot summary only) | India — Marigold (Class 1), Unit 1, printed pp.1–15 |
+| "The Bubble, the Straw, and the Shoe": a bubble, a straw and a shoe travel together and must cross a river (folk tale; plot summary only) | India — Marigold (Class 1), Unit 2, printed pp.16–28 |
+| "Lalu and Peelu": Lalu the red chick eats a hot red chilli; Peelu the yellow chick brings a yellow laddu to cool his mouth (plot summary only) | India — Marigold (Class 1), Unit 3, printed pp.29–41 |
+| "Mittu and the Yellow Mango": Mittu the green parrot scares the crow off the mango tree by bursting a red balloon with his beak (plot summary only) | India — Marigold (Class 1), Unit 4, printed pp.42–52 |
+| "Circle": Mohini and her grandmother draw circles and turn them into a ball, balloons, a wheel, a moon, a sun, a rabbit and a face (plot summary only) | India — Marigold (Class 1), Unit 5, printed pp.53–63 |
+| "Murali's Mango Tree" (Shyamala Kumaradas): the mango seed Murali throws away grows into the tree his children eat from (plot summary only) | India — Marigold (Class 1), Unit 6, printed p.73 |
+| "Sundari": Bobby makes a big red, white and blue kite, Sundari, and flies her at the fair; a little dog holds her string (plot summary only) | India — Marigold (Class 1), Unit 7, printed pp.77–87 |
+| "The Tiger and the Mosquito": a proud tiger is bitten and tormented by a tiny mosquito it cannot catch (plot summary only) | India — Marigold (Class 1), Unit 8, printed pp.88–97 |
+| "Anandi's Rainbow": after rain Anandi sees a rainbow and paints the flowers of her garden in rainbow colours with her cat Milli (plot summary only) | India — Marigold (Class 1), Unit 9, printed pp.98–109 |
+| "The Tailor and his Friend": the tailor pricks his friend the elephant's trunk with a needle, and an elephant never forgets — it sprays his shop with water (plot summary only) | India — Marigold (Class 1), Unit 10, printed pp.110–120 |
+| "Haldi's Adventure": on her way to school Haldi meets a talking giraffe with big glasses and a book, and other animals (plot summary only) | India — Marigold Book Two (Class 2), Unit 1, printed pp.1–19 |
+| "I Want": Little Monkey wishes himself big and strong with a magic wand — a giraffe's neck, an elephant's trunk, zebra stripes — then sees a "monster" in the river (himself) and wishes himself back (plot summary only) | India — Marigold Book Two (Class 2), Unit 2, printed pp.20–38 |
+| "The Wind and the Sun": the wind and the sun argue who is stronger and test themselves on a traveller's coat (fable; plot summary only) | India — Marigold Book Two (Class 2), Unit 3, printed pp.39–53 |
+| "Storm in the Garden": a storm comes to the garden and the creatures there are tossed about (plot summary only) | India — Marigold Book Two (Class 2), Unit 4, printed pp.54–71 |
+| "Funny Bunny": a bunny story built on sentences with "this" and "that" (plot summary only) | India — Marigold Book Two (Class 2), Unit 5, printed pp.72–89 |
+| "Curlylocks and the Three Bears": Curlylocks enters the three bears' house, tastes their food and sleeps in their beds (Goldilocks retelling; plot summary only) | India — Marigold Book Two (Class 2), Unit 6, printed pp.90–104 |
+| "Make it Shorter": Akbar orders his ministers to make a line shorter without rubbing any part out; Birbal draws a longer line under it (plot summary only) | India — Marigold Book Two (Class 2), Unit 7, printed pp.105–121 |
+| "The Mumbai Musicians": Goopu the old donkey, too tired to work, sets out to Mumbai to become a musician and gathers animal friends on the way (Bremen Town Musicians retelling; plot summary only) | India — Marigold Book Two (Class 2), Unit 8, printed pp.122–140 |
+| "The Magic Porridge Pot": a little girl's magic pot cooks porridge on command until her mother forgets the stop-words and the town fills with porridge (plot summary only) | India — Marigold Book Two (Class 2), Unit 9, printed pp.141–159 |
+| "The Grasshopper and the Ant": the grasshopper plays all summer while the ant stores grain, and goes hungry in winter (fable; plot summary only) | India — Marigold Book Two (Class 2), Unit 10, printed pp.160–174 |
+| "The Magic Garden": in a school playground the flowers and birds talk; the children are the garden's little gardeners, and at night the fairies come and dance (plot summary only) | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
+| "Nina and the Baby Sparrows": Nina will not go to Delhi for her aunt's wedding — two baby sparrows are nesting on her bookshelf; Mother moves Nina's things out and leaves the window open for the parent sparrows (plot summary only) | India — Marigold Book Three (Class 3), Unit 2, printed pp.11–22 |
+| "The Enormous Turnip": an old man plants turnip seeds; one turnip grows enormous, and the old man, old woman, boy and girl pull and pull together until up it comes (plot summary only) | India — Marigold Book Three (Class 3), Unit 3, printed pp.23–33 |
+| "A Little Fish Story" (Enos B. Comstock): a little fish unhappy to be "such a little mite of a fish" is caught with the whole school in a great net — and he, the smallest, wriggles through the meshes free (plot summary only) | India — Marigold Book Three (Class 3), Unit 4, printed pp.34–42 |
+| "The Yellow Butterfly" (Nilima Sinha): Sonu chases a yellow butterfly round the garden and up the peach tree; when it is caught in a spider's web he frees it and lets it go (plot summary only) | India — Marigold Book Three (Class 3), Unit 5, printed pp.43–52 |
+| "The Story of the Road": the road itself narrates the early morning — sparrows, the crow, the newspaper boy, the vegetable man calling his peas and cabbages, children going to school (plot summary only) | India — Marigold Book Three (Class 3), Unit 6, printed pp.53–63 |
+| "Little Tiger, Big Tiger" (Lois Hamilton Fuller): a mother tiger hunts by night while her cub stays close; the cub grows until his own loud roar tells all the jungle he is there (plot summary only) | India — Marigold Book Three (Class 3), Unit 7, printed pp.64–76 |
+| "My Silly Sister" (Rabindranath Tagore): the narrator tells Mother how silly her baby is — pebbles in her mouth for food, torn book pages, and wanting to catch the moon (plot summary only) | India — Marigold Book Three (Class 3), Unit 8, printed pp.77–87 |
+| "He is My Brother": twelve-year-old Meena climbs a hill to a holy place carrying her four-year-old brother, who cannot walk, on her back — "Of course not! He is my brother!" (based on a story by Sanat Kumar Bhatt, as the book credits; plot summary only) | India — Marigold Book Three (Class 3), Unit 9, printed pp.88–96 |
+| "The Little Fir Tree": a little fir tree wants leaves like other trees; a magician grants its wishes — gold leaves, glass leaves, green leaves — until it is glad of its own needle leaves (plot summary only) | India — Marigold Book Four (Class 4), Unit 2, printed pp.17–36 |
+| "Nasruddin's Aim": Nasruddin shoots arrows at a target and explains away every miss with a different person's aim, until one hits the centre (humorous tale; plot summary only) | India — Marigold Book Four (Class 4), Unit 3, printed pp.37–58 |
+| "Alice in Wonderland": Alice follows the White Rabbit and falls down the rabbit hole (extract from Lewis Carroll; plot summary only. Book slip: the rabbit wears "a blue coat" in one paragraph and "a red waistcoat" a few lines later) | India — Marigold Book Four (Class 4), Unit 4, printed pp.59–72 |
+| "The Scholar's Mother Tongue": a scholar who knows many languages challenges the court; Birbal finds out his true mother tongue by waking him in the night (Akbar-Birbal tale; plot summary only) | India — Marigold Book Four (Class 4), Unit 6, printed pp.91–112 |
+| "The Giving Tree": a tree gives a boy its apples, branches and trunk all his life, until only a stump is left to sit on (story after Shel Silverstein; plot summary only) | India — Marigold Book Four (Class 4), Unit 7, printed pp.113–133 |
+| "Going to Buy a Book": a child goes out with grandfather to buy a book and chooses one at the bookshop (plot summary only) | India — Marigold Book Four (Class 4), Unit 8, printed pp.134–149 |
+| "Pinocchio": the wooden puppet Pinocchio comes to life and his nose grows when he lies (story after Carlo Collodi; plot summary only) | India — Marigold Book Four (Class 4), Unit 9, printed pp.150–165 |
+| "Wonderful Waste!": in the kingdom of Travancore the king orders a grand feast; the cook, told to throw away the vegetable scraps, instead invents a new dish — avial (Kerala tale; plot summary only) | India — Marigold Book Five (Class 5), Unit 1, printed p.10 |
+| A picture story: "Bamboo Curry" (Santhal folk tale) — the bridegroom carries home the bamboo door; real curry is made from the bamboo shoot, not the door (plot summary only) | India — Marigold Book Five (Class 5), Unit 1 |
+| "Flying Together": the wise old goose warns the flock about the growing creeper; the geese delay, the hunter climbs it and nets them; they play dead and escape (Panchatantra, adapted by Shiv Kumar; plot summary only) | India — Marigold Book Five (Class 5), Unit 2, printed p.28 |
+| A listening passage read whole: "The Ant and the Dove" (Aesop) — a dove saves an ant from drowning; the ant later bites the hunter who would catch the dove (plot summary only) | India — Marigold Book Five (Class 5), Unit 2 listening passage |
+| "Robinson Crusoe Discovers a Footprint": Crusoe, alone on his island, finds a single footprint in the sand and is terrified (extract; plot summary only) | India — Marigold Book Five (Class 5), Unit 3, printed p.48 |
+| "Rip Van Winkle": Rip, escaping work and his wife, drinks with strange men in the mountains and sleeps for twenty years (after Washington Irving; plot summary only) | India — Marigold Book Five (Class 5), Unit 5, printed p.82 |
+| "The Talkative Barber": a barber who talks without stopping nearly costs a man his life and his treasure (tale from the Arabian Nights tradition; plot summary only) | India — Marigold Book Five (Class 5), Unit 6, printed p.100 |
+| A short reading read whole: "The Lion and the Mouse" (Aesop) — the mouse freed by the lion later cuts the ropes that trap him: "A friend in need is a friend indeed" (plot summary only) | India — Marigold Book Five (Class 5), Unit 8 reading |
+| "Gulliver's Travels": Gulliver in Brobdingnag, the land of giants — a reaper picks him up sixty feet high; the cat is ten times larger than an ox (extract; plot summary only) | India — Marigold Book Five (Class 5), Unit 7, printed p.116 |
+| "The Little Bully": a story of a child who bullies others and what it brings him (plot summary only) | India — Marigold Book Five (Class 5), Unit 8, printed p.135 |
+| "Who Will be Ningthou?": the King and Queen of Manipur test their children to choose the next Ningthou (ruler); the child who feels the pain of others wins (plot summary only) | India — Marigold Book Five (Class 5), Unit 10, printed p.167 |
+| "Who Did Patrick's Homework?": Patrick, who hates homework, finds a tiny elf in his doll house who does it for him all semester — and learns by having to help the elf (plot summary only) | India — Honeysuckle (Class 6), printed p.7 |
+| "How the Dog Found Himself a New Master!": the dog, tired of being afraid, serves wolf, bear, lion, and finally man, the strongest (folk tale; plot summary only) | India — Honeysuckle (Class 6), printed p.17 |
+| "Taro's Reward": woodcutter Taro finds a waterfall of saké after caring for his parents; the Emperor rewards children who honour their parents (Japanese folk tale; plot summary only) | India — Honeysuckle (Class 6), printed p.29 |
+| "A Different Kind of School" (E. V. Lucas): a visit to Miss Beam's school, where children take turns being blind, deaf, lame or dumb to learn to be kind and thoughtful (plot summary only) | India — Honeysuckle (Class 6), printed p.56 |
+| "Fair Play": Jumman's aunt transfers her property to him; when he neglects her, Algu the sarpanch gives a fair judgement against his friend (panchayat story; plot summary only) | India — Honeysuckle (Class 6), printed p.84 |
+| "A Game of Chance" (R. K. Laxman): young Rasheed at the Eid fair is tempted by a shopkeeper's tricks and loses his money (plot summary only) | India — Honeysuckle (Class 6), printed p.99 |
+| "The Banyan Tree" (Ruskin Bond): the boy in the banyan tree watches a fight between a mongoose and a cobra, with myna and crow joining in (plot summary only) | India — Honeysuckle (Class 6), printed p.124 |
+| "Three Questions" (Leo Tolstoy): a king seeks answers — the right time, the right people, the most important thing to do — and learns them from a hermit and a wounded enemy (plot summary only) | India — Honeycomb (Class 7), printed p.7 |
+| "A Gift of Chappals": Ravi, Meena and Mridu give away chappals to a needy music master, keep a kitten (Mahendran) secret from Paati, and face the music when the gift is discovered (plot summary only) | India — Honeycomb (Class 7), printed p.18 |
+| "Gopal and the Hilsa Fish": a king challenges Gopal to buy a hilsa fish and bring it home without anyone asking about it; Gopal arrives half-shaven in rags and nobody notices the fish (humorous folk tale; plot summary only) | India — Honeycomb (Class 7), printed p.36 |
+| "The Ashes That Made Trees Bloom": a kind old couple's dog finds treasure and, after death, its ashes make a withered tree bloom for the daimio (Japanese tale, adapted from William Elliot Griffis; plot summary only) | India — Honeycomb (Class 7), printed p.55 |
+| "Quality" (John Galsworthy): Mr Gessler, the German shoemaker in London who makes only the best boots, slowly loses his shop to big firms and dies of slow starvation (plot summary only) | India — Honeycomb (Class 7), printed p.71 |
+| "Expert Detectives" (Sharada Dwivedi): Nishad ("Seven") and his sister Maya turn detectives over Mr Nath, the thin, lonely man who eats little and receives a visitor on Sundays (plot summary only) | India — Honeycomb (Class 7), printed p.85 |
+| "The Invention of Vita-Wonk" (Roald Dahl): Willy Wonka explains how he collects the oldest living things to invent Vita-Wonk, which makes people older (plot summary only) | India — Honeycomb (Class 7), printed p.99 |
+| "A Bicycle in Good Repair" (Jerome K. Jerome): the narrator's friend "repairs" a bicycle — the gear-case, ball-bearings everywhere, and the wheel wobbling forever (humour, from Three Men in a Boat; plot summary only) | India — Honeycomb (Class 7), printed p.126 |
+| "The Best Christmas Present in the World" (Michael Morpurgo, adapted): the narrator restores a roll-top desk and finds a letter from Jim Macpherson, a WWI captain, describing the Christmas truce football match with the Germans; he returns the letter to the aged Connie (plot summary only) | India — Honeydew (Class 8), printed p.9 |
+| "Bepin Choudhury's Lapse of Memory" (Satyajit Ray): Bepin is told by a stranger that he visited Ranchi in 1958, which he cannot remember; the trick is revealed as a friend's joke (plot summary only) | India — Honeydew (Class 8), printed p.59 |
+| "This is Jody's Fawn" (Marjorie Kinnan Rawlings): Jody brings home the fawn whose mother his father killed for snake-bite medicine, and feeds it with his fingers (from The Yearling; plot summary only) | India — Honeydew (Class 8), printed p.86 |
+| "The Great Stone Face – I" (Nathaniel Hawthorne): Ernest, living below a rock face like a great man's face, hears the prophecy that a man resembling the Face will come (plot summary only) | India — Honeydew (Class 8), printed p.120 |
+| "The Great Stone Face – II" (Nathaniel Hawthorne): Ernest grows old, wise and humble; the poet visitor declares Ernest himself is the man who resembles the Great Stone Face (plot summary only) | India — Honeydew (Class 8), printed p.128 |
+| "The Fun They Had" (Isaac Asimov — the book's byline prints "Issac Asimov", a book slip, taught corrected): in 2157 Margie and Tommy find a printed book; their mechanical teachers and strict homework contrasted with the old schools and human teachers (plot summary only) | India — Beehive (Class 9), printed p.5 |
+| "The Little Girl" (Katherine Mansfield): Kezia fears her strict father, makes him a pin cushion, and finds his love after a bad dream (plot summary only) | India — Beehive (Class 9), printed p.32 |
+| "The Snake and the Mirror" (Vaikom Muhammad Basheer): a poor young homeopath, a snake coils round his arm in the night; vanity, fear and the return home to find he was robbed (plot summary only) | India — Beehive (Class 9), printed p.56 |
+| "Packing" (Jerome K. Jerome): Jerome, George and Harris pack for a trip — chaos with the hamper, butter, and Montmorency the dog (humour extract from Three Men in a Boat; plot summary only) | India — Beehive (Class 9), printed p.82 |
+| "The Bond of Love" (Kenneth Anderson): the author's pet sloth bear Bruno (Baba) — his accidents, his trip to Bangalore, and the bond with the author's wife (plot summary only) | India — Beehive (Class 9), printed p.113 |
+| "A Letter to God" (G. L. Fuentes): farmer Lencho's crops are destroyed by hail; he writes to God asking for 100 pesos; post-office staff collect 70; Lencho calls them crooks (faith and irony; plot summary only) | India — First Flight (Class 10), printed p.1 |
+| "Two Stories about Flying" I — "His First Flight" (Liam O'Flaherty): a young seagull, afraid to fly, is left hungry on the ledge until hunger drives him to dive and fly (plot summary only) | India — First Flight (Class 10), printed p.32 |
+| "Two Stories about Flying" II — "Black Aeroplane" (Frederick Forsyth): a pilot flying into a storm over France is guided to safety by a mysterious black aeroplane that then vanishes (plot summary only) | India — First Flight (Class 10), printed p.32 |
+| "The Hundred Dresses – I" (Eleanor Estes): Wanda Petronski, a poor Polish girl teased for claiming she has a hundred dresses; Peggy and Maddie's teasing (plot summary only) | India — First Flight (Class 10), printed p.63 |
+| "The Hundred Dresses – II" (Eleanor Estes): Wanda's hundred drawn dresses win the contest; she has moved away; Miss Mason's letter and the girls' remorse and letter to Wanda (plot summary only) | India — First Flight (Class 10), printed p.73 |
+| "Glimpses of India" I — "A Baker from Goa" (Lucio Rodrigues): the Portuguese-era baker (pader) of a Goan village — his visits, loaves, bangles and the baking profession today (plot summary only) | India — First Flight (Class 10), printed p.85 |
+| "Mijbil the Otter" (Gavin Maxwell): the author gets an otter in Iraq and names him Mijbil; Mij's play in water, the flight to London, Londoners guessing what animal he is (plot summary only) | India — First Flight (Class 10), printed p.102 |
+| "Madam Rides the Bus" (Vallikkannan): eight-year-old Valli secretly saves for and takes her first bus ride to town, refusing help, and returns having seen a dead cow (plot summary only) | India — First Flight (Class 10), printed p.116 |
+| "The Sermon at Benares": the Buddha's first sermon; Kisa Gotami and the mustard-seed lesson that death is common to all (plot summary only) | India — First Flight (Class 10), printed p.133 |
+| "We're Not Afraid to Die… if We Can All Be Together" (Gordon Cook & Alan East): a family's round-the-world voyage; the storm off Australia, the damaged Wavewalker, and survival to Île Amsterdam (plot summary only) | India — Hornbill (Class 11), printed p.13 |
+| "The Adventure" (Jayant Narlikar): historian Gangadharpant Gaitonde finds himself in an India where the Marathas won at Panipat — a science-fiction story of parallel worlds (plot summary only) | India — Hornbill (Class 11), printed p.60 |
+| "Silk Road" (Nick Middleton): the drive from Ravu through the Changtang to Mount Kailash, altitude sickness at Darchen, the kora pilgrimage (travelogue; plot summary only) | India — Hornbill (Class 11), printed p.74 |
+| "The Last Lesson" (Alphonse Daudet): Franz dreads school; a Prussian order ends French teaching in Alsace-Lorraine; M. Hamel's last, patriotic lesson (language loyalty under occupation; plot summary only) | India — Flamingo (Class 12), printed pp.2–10 |
+| "Lost Spring" (Anees Jung): stories of stolen childhood — Saheb the ragpicker of Seemapuri and Mukesh the bangle-maker's son of Firozabad who dreams of being a motor mechanic (child labour, poverty; plot summary only) | India — Flamingo (Class 12), printed pp.13–22 |
+| "The Rattrap" (Selma Lagerlöf — the book's prelims print "Selma Lagelerofs", a book slip, taught corrected): a peddler who sees the world as a rattrap steals a crofter's money, is sheltered by an ironmaster's daughter Edla, and is redeemed by her kindness (plot summary only) | India — Flamingo (Class 12), printed pp.32–45 |
+| "Going Places" (A. R. Barton — the book's prelims print "A.C. Barton", a book slip, taught corrected): Sophie, a school-leaver in a working-class family, fantasises about meeting footballer Danny Casey; her brother Geoff and Jansie ground the dream in reality (plot summary only) | India — Flamingo (Class 12), printed pp.77–87 |
+**Acceptance count: taught in 34 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
