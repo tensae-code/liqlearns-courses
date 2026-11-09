@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,12 @@ Every part traces to its book and page.
 
 **Book 6:** 12
 
+**Book 7:** *English for Nusantara*, Grade 9 (Kelas IX)
+student book — Indonesia, Kemendikbudristek, 2022. Filed
+in english/books/indonesia.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03); re-read page by page in the
+2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | ADJECTIVE ORDER — the order table (Quantity/Number · Quality · Size · Shape · Age · Color · Nationality · Material) with the worked examples ("There are 2, bad, small, old, red, American, plastic shoes"; "There is a tall, black dog"). The table prints "American / Bolivian / Japanese" in both the Nationality and the Material columns, as printed — recorded here as the filing records it | Bolivia, Year 6, Topic 5, p.221 |
@@ -25,7 +31,8 @@ Every part traces to its book and page.
 | The Adjectives and Adverbs box: an adjective comes before the noun — the ground rule this lesson's stacking order stands on | Egypt, Secondary 11 Term 2, Unit 11, Adjectives and Adverbs box, p.54 |
 | Adjective order — the order of adjectives before a noun, in the book's adjective unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 33–34 |
 | Adjective order — the compendium's adjective-order table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 119 |
+| Adjectives in the correct order in sentences | Indonesia, English for Nusantara Grade 9, printed p.208 (stocked 2026-11-09 by the re-verification sweep merge) |
 
-**Acceptance count: taught in 5 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan).**
+**Acceptance count: taught in 6 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia).**
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.

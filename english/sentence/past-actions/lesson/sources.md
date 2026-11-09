@@ -140,6 +140,10 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 57:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 6 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 6 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 58:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 59:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -297,6 +301,9 @@ CITATION CHECK PASSED 2026-11-03).
 | Questions with BE in the past — Was/Were questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 50 |
 | When were you born? — be born, and at/in/on with times and dates | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF pp. 52–53 |
 | The past auxiliary DID — did in questions and negatives | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 56 |
+| The simple past's full form set — negatives, questions and short answers, in the devices unit | Indonesia, English for Nusantara Grade 9, printed p.78 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Was / were for past events, in the time-travel unit | Indonesia, English for Nusantara Grade 9, printed p.152 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Action verbs and the past tense, in the biography unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 1, printed p.24 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 30 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).** Mongolia boxes the -ed frame and drills the

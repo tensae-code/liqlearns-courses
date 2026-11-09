@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia
 
 Every part traces to its book and page.
 
@@ -51,6 +51,8 @@ Basic Education. Filed in english/books/south-africa.md
 
 **Book 10:** 2
 
+**Book 11:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Articles met inside the Year 1 school theme (class supplies; the computer's parts) | Bolivia, Year 1, Theme 3 "My school", p.167 (as filed) |
@@ -63,10 +65,11 @@ Basic Education. Filed in english/books/south-africa.md
 | Articles with geographical names, in the unit's grammar progression (U4) | Armenia, English 10, Unit 4 (as filed in armenia.md) |
 | Definite/indefinite article work inside the workbook's teaching order (with countable/uncountable nouns and proper nouns) | South Africa, English Home Language Grade 5 Workbook 1 (as filed in south-africa.md) |
 | The article a–an — a before a consonant sound, an before a vowel sound, in the animal unit | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp. 21–22 |
+| Articles a / an as the grocery chapter's named grammar — "Use articles (a/an)" | Indonesia, English for Nusantara Grade 7, Chapter 2, printed p.74 |
 
-**Acceptance count: taught in 8 countries (Armenia,
+**Acceptance count: taught in 9 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam).** Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia).** Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -75,4 +78,6 @@ to them at Grade 10; Armenia stocks the
 geographical-names rules; Sudan practises a/an/no
 article inside its SPINE 6 text work. Rwanda teaches
 NO articles system and is cited nowhere in this
-lesson, as required.
+lesson, as required. Indonesia names a/an as its Grade 7
+grocery chapter's grammar (stocked 2026-11-09 by the
+re-verification sweep merge).

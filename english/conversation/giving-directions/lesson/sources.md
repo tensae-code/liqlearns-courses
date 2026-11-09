@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia
 
 Every part traces to its book and page.
 
@@ -66,6 +66,8 @@ the file's head banner stands — agent-assisted read, the
 
 **Book 14:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 15:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -84,9 +86,10 @@ the file's head banner stands — agent-assisted read, the
 | Route talk in dialogue — "Is it far? — No. Now we are behind the hospital. Turn right and then turn right again" | China — English (PEP) Grade 6 Volume 1, Unit 1, printed p.8 |
 | The Recycle directions set — visiting Grandma and Grandpa: route listening with first/then, a lost little boy helped at the police station, directions given by phone over a map | China — English (PEP) Grade 6 Volume 1, Recycle 1, printed pp.32–35 |
 | Asking the way politely as a whole unit — "Could you please tell me where the restrooms are?" | China — English ("Go for it!") Grade 9, Unit 3, printed pp.17–20 |
+| Asking for and giving directions inside the school, with beside / between / behind / in front of / across from | Indonesia, English for Nusantara Grade 7, Chapter 5 "This Is My School," printed p.205 |
 
-**Acceptance count: taught in 9 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China).****
+**Acceptance count: taught in 10 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia).****
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -106,5 +109,7 @@ China carries the route from the classroom out: position
 words in Grade 4, turn-right route talk and a full
 Recycle directions set in Grade 6, and polite way-asking
 as a whole Grade 9 unit (stocked 2026-11-08 by the
-re-verification sweep). Other closed countries join as their books are read (see
+re-verification sweep). Indonesia asks and gives
+directions inside the school in Grade 7 (stocked
+2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
 READING-QUEUE.md).

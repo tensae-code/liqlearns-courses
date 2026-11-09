@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia
 
 Every part traces to its book and page.
 
@@ -62,6 +62,12 @@ file's head banner stands — agent-assisted read, the
 
 **Book 11:** 12
 
+**Book 12:** *English for Nusantara*, Grade 8 (Kelas VIII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-941-7. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -82,9 +88,13 @@ file's head banner stands — agent-assisted read, the
 | Linking words by function — addition (and, also, moreover, furthermore, besides…), sequence (first, secondly, next, finally, then, before…), contrast (however, nevertheless, whereas, unlike…), cause and effect (because, due to, so, therefore, consequently…), example (for example, for instance, such as…), with punctuation notes | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 9–10 |
 | Linking words to relate events — because, and, until, then, before, after, that, but, so, while, since, with, to | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 61 |
 | When and while — linking words for time | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 65 |
+| Subordinating conjunction "when" — clauses for ongoing actions | Indonesia, English for Nusantara Grade 8, Chapter 5, printed p.219 |
+| Transitional words — addition, contrast, illustration, sequence inside the exposition unit | Indonesia, English for Change Grade 11, Unit 2, printed p.39 |
+| Internal conjunction and relational processes, in the argument work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 4, printed pp.138–139 |
+| Temporal connectives — first, then, after that — in the narrative work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 5, printed p.165 |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya).** Bolivia
+**Acceptance count: taught in 7 countries (Bolivia,
+Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia).** Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -101,4 +111,8 @@ anchor "G10 U15" does not survive the filing — Grade
 is cited. And no Libya book in the filing teaches a
 named "when-clause" lesson: Libya is cited here only
 for what its filing holds — the contrast-linker work
-and the fronted-clause comma rule.
+and the fronted-clause comma rule. Indonesia adds its
+Grade 8 "when" clauses, Grade 11 transitional words,
+internal conjunction with relational processes, and
+temporal connectives (stocked 2026-11-09 by the
+re-verification sweep merge).

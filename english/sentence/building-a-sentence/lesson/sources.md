@@ -120,6 +120,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 47:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 5 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 5 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 48:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -225,6 +227,7 @@ CITATION CHECK PASSED 2026-11-03).
 | What makes a sentence complete, explained in the teaching steps — transitive verbs take an object (two printed analysed examples: "She can ride a bicycle" — verb *ride* + direct object *bicycle*; "He can dance salsa"), and complete sentences judged against incomplete ones with the answers printed (1 incomplete — subject only; 2 incomplete — verb only; 3 complete; 4 complete) | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 15, guide printed pp.90–95 |
 | Sentence-combining as a stated outcome of the appointment chapter: "combine short sentences into compound sentences", with the conjunctions named as its grammar focus | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview, printed p.27 |
 | The that-clause as clause-combining: the overview teaches recognising "that introducing a subordinate clause giving more information", worked in the example set — "He checks that my teeth are healthy"; "She knows that her teacher will give them homework today" | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview, printed pp.27–28 |
+| The verb be paradigm stated as Chapter 1's objectives — be affirmative, negative, interrogative and short answers — and used in every chapter after | Indonesia, English for Nusantara Grade 7, Chapter 1 objectives, printed p.14 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 32 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bolivia states the formula;

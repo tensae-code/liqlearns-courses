@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,10 @@ Every part traces to its book and page.
 
 **Book 6:** Academy Stars, Pupil's Book, Year 6 — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. Filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
+**Book 7:** *English for Nusantara*, Grade 8 (Kelas VIII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-941-7. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The blog model with SIX BLOG TIPS — a title that catches attention first among them; the writer's name and date as part of the kind | Egypt, Primary 6 Term 2 (the Wadi El-Hitan blog model, as filed in EGYPT-BOOK-MAP.md) |
@@ -25,5 +29,9 @@ Every part traces to its book and page.
 | Writing a blog about a tourist spot (the unit's writing task) | Cambodia, ENGLISH Grade 10, Unit 28 'Jobs', printed pp.151–156 |
 | Online comments met as reading: an e-project announcement, three pupils' comments matched to the works they comment on | Greece, Think Teen! Grade 7 (Beginners) Student's Book, Unit 9 (Review) 'It's a Masterpiece!', printed pp.127–130 |
 | A functions strand covers reacting to good and bad news — the spoken root of the polite bad-news message | Greece, Think Teen! Grade 8 (Advanced) Workbook, Unit 2, Lesson 5 (as filed in english/books/greece.md) |
+| Creating captions and comments for social-media posts | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.148 |
+| Producing an argumentative-text podcast — the argument text taken to audio for an online audience | Indonesia, Life Today Grade 12, Unit 3, printed p.84 (podcast format only; the argumentative text itself is filed with its own lessons, and no book podcast text is reproduced) |
+| Creating captions and comments for social-media posts | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.148 |
+| Producing an argumentative-text podcast — the argument text taken to audio for an online audience | Indonesia, Life Today Grade 12, Unit 3, printed p.84 (podcast format only; the argumentative text itself is filed with its own lessons, and no book podcast text is reproduced) |
 
-**Acceptance count: taught in 4 countries (Cambodia, Egypt, Greece, Malaysia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. No book's blog text is reproduced.
+**Acceptance count: taught in 5 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.

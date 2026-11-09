@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -70,6 +70,8 @@ lesson is reproduced.
 
 **Book 13:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 14:** *English for Nusantara*, Grade 8 (Kelas VIII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-941-7. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit Seven "congratulating and wishing": Lesson 17 "I Have Got It!" — Omar's exam pass with distinction and the congratulation forms (Congratulations! / Congratulations on… / I congratulate you on…) | Mauritania, Study English Grade 12, Unit Seven, Lesson 17, printed p.52 |
@@ -86,9 +88,10 @@ lesson is reproduced.
 | April Fool's Day vocabulary and talk — fool, costume party, get dressed, show up, stay up all night, embarrassed/embarrassing | China — English ("Go for it!") Grade 9, Unit 12, printed pp.93–95 |
 | Festival and ceremony talk with holiday wishes: the festival set (fireworks, national anthem…), New Year customs, "Wish you a great holiday," "Happy New Year" | Iran, Prospect 3 (Grade 9), Lesson 3 "Festivals and Ceremonies," printed pp.49–61 |
 | The festival set practised in exercises, including matching phrases with pictures | Iran, Prospect 3 Workbook (Grade 9), Lesson 3, printed pp.35–52 (workbook mirror of the student lesson) |
+| Congratulating others and expressing hopes, as a named function of the celebration chapter | Indonesia, English for Nusantara Grade 8, Chapter 2 "I'm Proud of Indonesia!," printed p.52 |
 
-**Acceptance count: taught in 8 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria, Albania, China, Iran).** Albania —
+**Acceptance count: taught in 9 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia).** Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -116,5 +119,5 @@ Grade 5 festival-and-event word set is stocked once, in
 Days and months, where the diff counted it as already in
 course. Iran carries festival talk with holiday wishes —
 "Wish you a great holiday," "Happy New Year" — in Grade 9
-(stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are
+(stocked 2026-11-09 by the re-verification sweep merge). Indonesia congratulates and expresses hopes in its Grade 8 celebration chapter (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are
 read (see READING-QUEUE.md).

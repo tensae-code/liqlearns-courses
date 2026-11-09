@@ -109,6 +109,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 36:** C
 
+**Book 37:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -189,6 +191,7 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessive adjectives — my/your/his/her/its/our/their with the classroom things | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 17–18 |
 | Possessive adjectives — my, your, his, her, its, our, your, their | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 11 |
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
+| Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 29 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the

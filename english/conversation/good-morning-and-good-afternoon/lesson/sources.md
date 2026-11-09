@@ -48,6 +48,7 @@ explains one thing only.
 | Greetings: hello/hi, good morning/afternoon/night, bye | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed p.8 |
 | Greetings and farewells, formal against informal (hello / good morning / afternoon / evening / night against hi / bye / see you / see you soon), with contractions (what is → what's) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.7–8 |
 | Greetings and farewells, formal and informal, with a personal-information table (name, age, country, nationality, address, hobbies) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp. 7–8 |
+| Greeting people and saying goodbye, as Chapter 1's opening work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed p.15 (stocked 2026-11-09 by the re-verification sweep merge) |
 
 **Acceptance count: taught in 25 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
 China teaches the pair inside its colours unit in the first

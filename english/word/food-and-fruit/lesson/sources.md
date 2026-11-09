@@ -197,6 +197,8 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 65:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 66:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -321,6 +323,7 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Bolivian gastronomy: matching typical dishes to their cities | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p.33 |
 | Bolivian typical food: the typical dishes placed on the map (charque, k'alapurka, plato paceño, pique macho, mondongo, saice, surubí, sudado, keperí, majadito) and market/fruit-salad conversations with “Would you like…?” | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp.38–40 |
 | Bolivian gastronomy and a cuisine-history text (with the Urmiri hot-springs reading) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp.76–77 |
+| Describing your favourite food — foods, drinks and snacks by their taste and texture | Indonesia, English for Nusantara Grade 7, Chapter 2 "Culinary and Me," printed p.59 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 33 countries (Bangladesh, Egypt,
 Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Egypt carries the meals and the breakfast plate;

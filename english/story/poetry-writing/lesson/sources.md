@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia
 
 Every part traces to its book and page.
 
@@ -38,6 +38,18 @@ Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
 re-verification sweep (placements:
 liqlearns-courses-work/sweep-2026-11-08/english/
 bangladesh-placements.md); this volume is not covered by
+
+**Book 6:** *English for Nusantara*, Grade 8 (Kelas VIII)
+student book — Indonesia, Kemendikbudristek, 2022,
+ISBN 978-602-427-941-7. Filed in english/books/indonesia.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read
+page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English for Nusantara*, Grade 9 (Kelas IX)
+student book — Indonesia, Kemendikbudristek, 2022. Filed
+in english/books/indonesia.md (FULLY READ + CITATION
+CHECK PASSED 2026-11-03); re-read page by page in the
+2026-11-08 re-verification sweep.
 the old filing in english/books/bangladesh.md.
 
 | Lesson part | Where it comes from |
@@ -53,9 +65,11 @@ the old filing in english/books/bangladesh.md.
 | A poem read for pleasure: "Deathbed" by Imam Al-Ghazali (translated), in the book's Reading for Pleasure reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.267 (stocked 2026-11-08 by the re-verification sweep) |
 | A poem read for pleasure: "'Hope' Is the Thing with Feathers" by Emily Dickinson, in the same reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.269 (stocked 2026-11-08 by the re-verification sweep) |
 | A poem read for pleasure: "Bird" by Pablo Neruda (translated), in the same reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.271 (stocked 2026-11-08 by the re-verification sweep) |
+| Making a simple poem | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.103 |
+| Creating a poem, as the unit's writing step | Indonesia, English for Nusantara Grade 9, printed p.119 |
 
-**Acceptance count: taught in 5 countries (Barbados,
-Ghana, South Sudan, Egypt, Bangladesh).** Barbados's syllabus names
+**Acceptance count: taught in 6 countries (Barbados,
+Ghana, South Sudan, Egypt, Bangladesh, Indonesia).** Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -69,4 +83,7 @@ filings name the forms; no filing's model text is
 reproduced. Bangladesh stocks poems read whole at the top
 of school — the Love lesson's poems and its Reading for
 Pleasure reader's Ghazali, Dickinson and Neruda (added
-2026-11-08 by the re-verification sweep).
+2026-11-08 by the re-verification sweep). Indonesia makes
+poems in both secondary books — a simple poem in Grade 8
+and poem creation as the writing step in Grade 9
+(stocked 2026-11-09 by the re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -22,6 +22,8 @@ Every part traces to its book and page.
 
 **Book 9:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 10:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The past continuous tabled whole at Year 3, Topic 6 | Bolivia, teacher compendium, Year 3 Topic 6 (as filed in english/books/bolivia.md) |
@@ -33,5 +35,6 @@ Every part traces to its book and page.
 | The past continuous — the student book's full treatment: was/were + verb-ing across the book's closing units, with when/while | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 43–52 |
 | The past progressive as the lesson's grammar — past continuous forms and use | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," Grammar, printed pp.71–95 |
 | The grammar practised in the workbook: past-progressive exercises | Iran, Vision 1 Workbook (Grade 10), Lesson 3, Parts II–V, printed pp.46–60 (workbook mirror of the student lesson) |
+| Past continuous with the simple past — actions in progress against finished ones, in the narrative work. Book error noted: the book's Scope page (printed p.xviii) meets the tense with the malformed "While I was swimming, when I saw the sea turtles"; the lesson teaches the corrected shape | Indonesia, English for Nusantara Grade 9, printed p.119 (error at printed p.xviii; stocked 2026-11-09 by the re-verification sweep merge) |
 
-**Acceptance count: taught in 7 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran).** Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia).** Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
