@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan
 
 Every part traces to its book and page.
 
@@ -19,6 +19,8 @@ Every part traces to its book and page.
 
 **Book 9:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 10:** *ریاضی, صنف ۸ (Mathematics, Grade 8)* — Afghanistan, Ministry of Education, Kabul (Dari); the book disagrees with itself on the year — 1399 HS on the cover and title page, 1398 HS on the specifications page — and both printings are carried as filed; no ISBN printed. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The unitary method named and drilled as its own method: many → one → many | Pakistan, Grade 5 student book, Unit 6 — Unitary Method, printed pp. 89–90 |
@@ -36,8 +38,9 @@ Every part traces to its book and page.
 | Regla de tres compuesta: three or more magnitudes, direct/inverse/mixed; 10 workers at 8 h/day finish in 30 days ⇒ 5 workers at 10 h/day need 48 days; parcel 6 kg/50 km costs Bs 10 ⇒ 15 kg/120 km costs Bs 60 | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 112 |
 | Razones, proporciones y regla de tres: simple rule of three (direct and inverse) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 71 |
 | Razones, proporciones y regla de tres: compound rule of three | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 73 |
+| The unitary method, taught inside the financial-calculations chapter beside percent and discount | Afghanistan, Mathematics Grade 8 (Dari), printed pp. 57–58 |
 
-**Acceptance count: taught in 7 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 8 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Syria's Grade 8 Algebra exercises carry the rate-as-unitary-method work the lesson collects: a car's fuel consumption given as litres per 100 km and converted to the distance it covers on one litre.
 
@@ -46,3 +49,5 @@ Rwanda teaches the unitary method inside Year 5's direct-proportion work: find t
 India enters the unitary method from Mathematics Class 6: unitary method: find the value for one unit, then scale (cost of 15 soaps from 12 soaps ₹153.60; envelopes for ₹100).
 
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Regla de tres simple directa; Regla de tres simple inversa; Regla de tres compuesta; from the Compendium's Secundaria 1 section (Grade 7): Razones, proporciones y regla de tres.
+
+Afghanistan enters from its Grade 8 Dari book, where the unitary method is taught inside the financial-calculations chapter, beside percent and discount (printed pp. 57–58).
