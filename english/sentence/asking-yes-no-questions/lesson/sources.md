@@ -141,6 +141,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 48:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 49:** 4
+
+**Book 50:** 7
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -264,6 +268,8 @@ CITATION CHECK PASSED 2026-11-03).
 | Yes/no questions with be as a stated outcome of the weather chapter — "form yes/no questions with be" — over its printed weather question-and-answer talk | Albania, *Akelius A2 Level* teacher's guide, Chapter 32 overview, printed pp.16–17 |
 | Yes/no questions in the will form, printed in the doctor chapter's example set: "Will the patient feel better soon?" — among will statements, questions and negatives | Albania, *Akelius A2 Level* teacher's guide, Chapter 35 "Going to the doctor" overview, printed pp.32–33 |
 | Yes/no questions named in the birthday chapter's outcomes — "ask and respond to yes/no and wh- questions in present simple" — with the printed can question "Can you help me decorate before the party?" in its example set | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 "Birthday Party" overview, printed pp.61–62 |
+| Yes/no questions with do/does and be — short answers, on family and daily life | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 10–11 |
+| Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 **Acceptance count: taught in 32 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bolivia boxes the do/does engine;

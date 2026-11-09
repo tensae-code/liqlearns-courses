@@ -25,7 +25,7 @@ Government of Nepal, Curriculum Development Centre (CDC).
 Filed in english/books/nepal.md (Grade 7 section, FULLY
 READ + CITATION CHECK PASSED).
 
-**Book 5:** Year 3 student's book (Grade 9) — Bolivia.
+**Book 5:** Year 3 English (the compendium's Year 3 covers Grade 9) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (Year 3 section, FULLY
 READ + CITATION CHECK PASSED).
 
@@ -33,6 +33,8 @@ READ + CITATION CHECK PASSED).
 Mongolia, Ministry of Education, Culture, Science and
 Sports. Filed in english/books/mongolia.md (Grade 10
 section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
+
+**Book 7:** 9
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -42,6 +44,7 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Unit 12 (appearances): Reading "Differences between People"; Grammar I: look vs look like (and be like / like); an appearance vocabulary table; writing a paragraph describing a friend | Nepal, English Grade 7, Unit 12, printed pp.118–127 |
 | 2.2 adjectives that describe people: a positive/negative sorting set (quiet, reliable, ruthless, kind, hesitant, modest, patient, generous, neat, naughty, easy-going, lazy, absent-minded, cheerful, brave, selfish, greedy, possessive, witty, clumsy, boastful, sensible, jealous, touchy) with definition matching (hesitant = slow to act; reliable = can be trusted; generous; greedy; selfish; touchy) | Bolivia, Year 3, Topic 2 "Talking about famous people," student p.214 |
 | Unit 4 "Personal Identity": birth-sign personality texts (Aries–Pisces, pp.61–62) and the look vs be discovery (10a, p.62) | Mongolia, English X (Grade 10), Unit 4, printed pp.56–62 |
+| Describing people — the describing-words set in the book's opening unit (the book's glossary prints “Department = apodo” twice — the word it means is nickname) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 14–15 |
 
 **Acceptance count: taught in 5 countries (Bolivia,
 Cambodia, Mongolia, Rwanda, Nepal).** Cambodia carries the

@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -194,6 +194,16 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 64:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 65:** 7
+
+**Book 66:** 10
+
+**Book 67:** 11
+
+**Book 68:** 12
+
+**Book 69:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -347,8 +357,17 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Comparative and superlative of the irregular adjectives as the chapter's named focus, worked in a printed gap-fill worksheet (good / bad / far / many / exciting / fast / strong) and prompted comparisons | Albania, *Akelius A2 Level* teacher's guide, Chapter 33 "Sports" overview, printed p.21; Worksheet 1, printed pp.24–25 |
 | Participle adjectives as the chapter's named grammar focus — the -ed / -ing contrast sets printed in full: "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 "How are you feeling" overview, printed pp.38–39 |
 | The degrees revised as the zoo chapter's grammar focus — "reviewing the degrees of adjectives" — with comparisons set as paragraph homework in its sample plan | Albania, *Akelius A2 Level* teacher's guide, Chapter 37 overview, printed p.43; sample plan, printed pp.45–46 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Qualifying adjectives — describing friends and family (honest, intelligent, generous, friendly, responsible, funny, shy…) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 37–38 |
+| Qualifying adjectives — the qualifying set for people and things | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 55–56 |
+| Adjectives for adventure — the adventure descriptor set (exciting, amazing, astonishing, thrilling, incredible, wonderful, dangerous, risky, frightening, impressive) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 33 |
+| Types of adjectives — qualifying, demonstrative, possessive, numeral, indefinite and interrogative adjectives, each with its job | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 35–37 |
+| Describing people and things — the describing adjective set (intelligent, beautiful, ugly, fat, big, nervous, quiet, slim, tall, short, clever, young, old) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 18 |
+| Opposite adjectives — the opposites set (hot/cold, big/small, long/short, cheap/expensive, easy/difficult, happy/sad, fast/slow, young/old, clean/dirty, good/bad, tall/short, strong/weak, quiet/noisy, beautiful/ugly) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 20 |
+| Adjectives for a trip — the evaluation set (beautiful, clean, safe, excellent, exciting, interesting, exceptional, delicious, dangerous, fascinating, marvellous, famous) and the classifying set (cold, warm, delicious, non-alcoholic) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 57 |
+| Qualifying adjectives — describing people and things with the position rules: before a noun, after to be | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 84 |
+| Adjectives for adventure — the adventure descriptor set in the compendium's presentation (exciting, amazing, astonishing, thrilling, incredible, wonderful, dangerous, risky, frightening, impressive) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 100 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;

@@ -16,6 +16,8 @@ Every part traces to its book and page.
 
 **Book 6:** Tiếng Anh 12 (Global Success) — Vietnam, Vietnam Education Publishing House & Pearson. Filed in english/books/vietnam.md (as filed).
 
+**Book 7:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Intensifiers too and enough (too + adjective + to-infinitive; adjective + enough) — Grammar II of the opinions unit | Nepal, English Grade 8, Unit 18 (pp.226–237) — see grade note below |
@@ -24,6 +26,7 @@ Every part traces to its book and page.
 | Linkers of Result — so … that / such … that, with form rules for adjectives, adverbs and countable/uncountable nouns | Kuwait, Pearls 9B, Learning Unit (space exploration), Lesson 6 Grammar, p.62 |
 | Adjectives and adverbs; so and such — the unit's grammar set | Malaysia, Form 3 Close-Up B1, Unit 12 (as filed in english/books/malaysia.md) |
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
+| Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
 **Acceptance count: taught in 5 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam).**
 

@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -163,6 +163,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 **Book 53:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 54:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 55:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 56:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -274,9 +280,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | The zoo set as a whole chapter's vocabulary — land, pet, sea, wild, zoo, countryside, feed, horse, rabbit, sheep, jungle, monkey, parrot, tiger, snake, camel, desert, hide, lizard, sand, dolphin, ocean, shark, swim, turtle, cheetah, elephant, giraffe, kangaroo, lion — printed as Chapter 37's "Main vocabulary" list | Albania, *Akelius A2 Level* teacher's guide, Chapter 37 "At the zoo" overview, printed p.43 |
 | Animals described and compared in the chapter's printed example sentences — habitat statements in present simple and present continuous, physical-trait descriptions ("big ears of elephants", "long legs of giraffes"), and the comparative "The ocean is bigger than the sea" | Albania, *Akelius A2 Level* teacher's guide, Chapter 37 overview ("Language structures"), printed pp.43–44 |
 | Nature's animals inside the next chapter's set — bird, bear among the nature words, with animal-behaviour sentences in its example set | Albania, *Akelius A2 Level* teacher's guide, Chapter 38 "Nature" overview, printed pp.48–49 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+| Animals: the domestic set and the wild set (squirrel, owl, tiger, fox, monkey, koala, crocodile, lion, giraffe, dog, elephant, cat, hen, toad, cougar, wild pig, zebra) | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.27–32 |
+| Types of animals: farm animals (pig, sheep, horse, goat, cow, bull, rabbit, hen, duck) and wild animals (zebra, tiger, monkey, giraffe, snake, lion, elephant, hippo). Book error noted: “pinguin” printed for penguin in the same book (p.16) | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.19–20 |
+| Animals of my town, classified: domestic, farm, animals from the highlands, animals from tropical areas, insects/birds/aquatic | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.21 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries

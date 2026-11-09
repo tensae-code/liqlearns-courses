@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -134,6 +134,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 60:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
 
 **Book 61:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+**Book 62:** 12
+
+**Book 63:** C
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -276,9 +280,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Third conditional with its formula and one full bilingual example printed in the guide — *If … had* + past participle *…, … would have* + past participle | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 11, guide printed pp.67–72 |
 | Second and third conditionals restated as an explicit review, each with its formula and one example printed in the plan | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 12, guide printed pp.73–77 |
 | All three types named at the top level — Types I and II as Lesson 16's plan grammar, Type III with *should / could / might have* as Lesson 17's; no formula or example is printed in this guide, and the teaching is set as poster and sentence-writing tasks | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lessons 16–17, guide printed pp.93–102 |
+| Conditional sentences in full — zero, first, second and third conditionals, with if/unless in the same unit (the third conditional is structured as “would have/has” in the book — “has” is the book's error, taught corrected: would have + participle) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 26–27 |
+| Conditionals re-taught — the conditional family again in the book's closing units, with modal verbs and wish sentences | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 44–46 |
+| Conditional sentences in an interrogative text — conditionals worked inside questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF pp. 117–118 |
 
-**Acceptance count: taught in 28 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** Libya names the zero and first at
+**Acceptance count: taught in 29 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt

@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados
+countries: Ecuador, Kuwait, India, Barbados, Bolivia
 
 Every part traces to its book and page.
 
@@ -30,6 +30,8 @@ syllabus documents are what the library holds and what
 was read. Filed in english/books/barbados.md (FULLY
 READ + CITATION CHECK PASSED 2026-10-27).
 
+**Book 5:** 9
+
 | Lesson part | Where it comes from |
 |---|---|
 | Silent letters defined — letters in a word not pronounced when the word is spoken; they often show the word's origin or differentiate homophones; intro examples knight, gnome, honor, debt, subtle | Ecuador — Medium Sublevel text, Worksheet 6, printed p.35 |
@@ -50,8 +52,9 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | SILENT-LETTER groups: kn- (knee, knife, knot, know); -gh- (neighbour, daughter, fight, straight); h- (honest, honour, hour, heir); plus gnat, tongue, chalk, whistle | India — Marigold Book Five, the Rip Van Winkle unit (Class 5 filing) |
 | Silent letters named in the word-attack core, beside digraphs, blends and variant consonant sounds | Barbados — Class 1 syllabus body, Reading: Skills and Strategies, printed pp.28–35 (syllabus evidence) |
 | Scope and Sequence row 3.1.4: "Contractions, blends (three letters etc.) and silent letters" | Barbados — Class 1 syllabus, printed p.3 (syllabus evidence) |
+| Silent letters — the silent k and silent t box (know, knife; listen, castle) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed p. 33 |
 
-**Acceptance count: taught in 4 countries (Ecuador, Kuwait, India, Barbados).**
+**Acceptance count: taught in 5 countries (Ecuador, Kuwait, India, Barbados, Bolivia).**
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded

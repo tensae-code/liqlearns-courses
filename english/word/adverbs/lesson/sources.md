@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -151,6 +151,18 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 **Book 53:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 54:** 6
+
+**Book 55:** 7
+
+**Book 56:** 8
+
+**Book 57:** 10
+
+**Book 58:** 12
+
+**Book 59:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -261,8 +273,20 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adverbs formed from adjectives as a named grammar focus — adjective + -ly — with the printed contrast pair inside the body chapter's example set: a slow animal walking slowly; eating popcorn quietly | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed pp.10–11 |
 | Adverbs of time as a named grammar focus — now, soon, then — inside the nature chapter's vocabulary and example sentences | Albania, *Akelius A2 Level* teacher's guide, Chapter 38 overview, printed pp.48–49 |
 | Adverbs of place named in the travel chapter's grammar focus, beside its prepositions of place | Albania, *Akelius A2 Level* teacher's guide, Chapter 39 "Travel" overview, printed p.54 |
-**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Frequency adverbs in a diary — always 100%, usually 90%, generally 80%, often 70%, sometimes 50%, occasionally 30%, seldom 15%, rarely 5%, never 0% | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 23–26 |
+| Frequency adverbs in the family — always/usually/sometimes/rarely/never before the verb but after to be | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 49–50 |
+| Adverbs of frequency — always 100%, sometimes 50%, never 0% with usually/often/rarely named | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 39–40 |
+| Frequency adverbs, the extended set — always, usually, frequently, often, sometimes, occasionally, seldom, rarely, never on the percentage scale | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 13–14 |
+| Adjectives and adverbs — the adverb of manner set and its positions (the book prints “fastly” as the adverb of fast — taught corrected: fast is its own adverb) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 29–31 |
+| Intensifiers — too, quite, really, pretty, very, fairly, strengthening or weakening before the adjective | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 33–34 |
+| Frequency words — once a day, twice a day, three times a day (number + times + a + period) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 32 |
+| Frequency adverbs on the percentage scale — always 100% to never 0%, adding usually/frequently/rarely | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 65 |
+| Frequency adverbs — the bar chart (never 0% to always 100%, adding rarely, seldom, occasionally, generally) and adverb position in statements and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 71 |
+| Adjective–adverb pairs — good/well, fast, late, hard/hardly (the book heads the table “Well, fest, late, hard/hardly” — “fest” is the book's slip for fast, taught corrected) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 75 |
+| Adjectives into adverbs — quick–quickly, easy–easily, bad–badly, happy–happily, beautiful–beautifully, with -ly and -ily | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 97 |
+| Wishes with would, with the frequency-word set (never, almost never, rarely, seldom, sometimes, occasionally, often, frequently, usually, almost always, always) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 115 |
+**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move

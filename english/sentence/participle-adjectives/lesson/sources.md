@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia
 
 Every part traces to its book and page.
 
@@ -12,13 +12,20 @@ Every part traces to its book and page.
 
 **Book 4:** English, Secondary 12 Term 1 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; citation check passed for this book's anchors).
 
+**Book 5:** 11
+
+**Book 6:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | Grammar focus (as named): participle adjectives (-ed and -ing adjectives); the contrast sets "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — TEACHER'S-GUIDE evidence | Albania, Akelius Chapter 36, overview, printed pp.38–39, and sample plan, printed pp.40–41 (the sample-plan page corrected 2026-11-08 by the re-verification sweep — the plan was cited at pp.38–39, which are the overview only) |
 | –ing vs –ed adjectives (boring/bored, amazing/amazed…) to describe situations and feelings — the unit's grammar | Cambodia, ENGLISH Grade 10, Unit 11 "How do you feel?", printed pp.59–64 |
 | Participle adjectives for describing people — a named objective of the unit (UE3) | Mongolia, English IX, Unit 1 "All about me", p.8 |
 | Participle adjectives exercised in review: "The movie was very boring / The student was very tired" | Egypt, Secondary 12 Term 1, Review 2 (printed pp.96–104) |
+| Passive-style -ed expressions — be inspired by, be amazed by, be surprised by, be fascinated by, be impressed by, be interested in, taught with a heroine reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 16 |
+| -ed and -ing adjectives — bored/boring, interested/interesting, excited/exciting, tired/tiring, worried/worrying, surprised/surprising: -ed for how a person feels, -ing for what causes it | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 24–25 |
+| Be inspired by — passive-style -ed expressions (be inspired/amazed/surprised/fascinated/impressed by, be interested in) with a national-heroine text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 93–94 |
 
-**Acceptance count: taught in 4 countries (Albania, Cambodia, Egypt, Mongolia).**
+**Acceptance count: taught in 5 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia).**
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.

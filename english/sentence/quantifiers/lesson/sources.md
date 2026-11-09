@@ -10,7 +10,7 @@ Support Center "KIZUNA". Filed in
 english/books/cambodia.md (FULLY READ + CITATION CHECK
 PASSED, as filed).
 
-**Book 2:** Year 2 English (student's book) — Bolivia.
+**Book 2:** Year 2 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (FULLY READ +
 CITATION CHECK PASSED, as filed).
 
@@ -41,6 +41,8 @@ CITATION CHECK PASSED, as filed).
 **Book 8:** English for Libya (Course Book) — Libya,
 Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's head banner stands — agent-assisted read, the 10-citation spot-check still owed).
 
+**Book 9:** 8
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -53,6 +55,9 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 | Grammar I: quantifiers (many/much, (a) few/(a) little, …) in the charts-and-quantity unit, with a quantity-filled recipe listening | Nepal, English Grade 10, Unit 13, pp.157–171 |
 | QUANTITY NOUNS (5a): a loaf of bread, a slice of sausages, a glass of juice, a cup of tea, a bottle of water, a bowl of rice, a packet of pasta, a carton of milk, a kilo of mutton, a jar of jam — with the SOME/ANY box beside it (p.86) | Mongolia, English VI, Unit 8 "What's Cooking?", pp.85–92 (Quantity Nouns at p.88) |
 | The quantity set — loaf of bread, bunch of carrots, can of lemonade, bottle of water, bag of rice, tin of beans, box of eggs — the song "Cheese, please!" ("Can I have some cheese, please? Sorry, I don't have any."), and the bought sentences ("I bought a box of eggs. I bought a bottle of water.") | Libya, "At the Shop" unit, L1 Shopping, book pp.104–105 |
+| Countable and uncountable nouns — countable rules; uncountable categories (liquids, abstract ideas, powders/grains, mass nouns, states, feelings); some/a few with countable, some/a little with uncountable; irregular plurals child/children, foot/feet, tooth/teeth | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 33 |
+| Some and any — some in positives, any in negatives and questions, for countable and uncountable nouns (the book's own there-is negative model prints “There is not some milk”, which its some/any section itself corrects to any) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 35 |
+| Some and any — the compendium's some/any presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 38 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check

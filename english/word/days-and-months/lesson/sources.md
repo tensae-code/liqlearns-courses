@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -113,6 +113,12 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 **Book 37:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 38:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 3 (Primaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 39:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 40:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -211,8 +217,11 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | Months in order, ordinal numbers extended to thirty-first, and birthdays and dates — “My birthday is on the twenty-second of …” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 12, printed p.116 |
 | Dates with ordinal numbers — “the twelfth of August” — months, and the reading of years (1982 “nineteen eighty-two”, 2000 “two thousand”, 2002 “two thousand and two”) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Unit 6, Lesson 1, printed p.36 |
 | Months and days of the week as a whole lesson's set — January, February, May, June, July, August, September, October, November, December with March and April in the lesson's dialogues; Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — with the time expressions and *when/what* questions worked over them | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 7, guide printed pp.41–46 |
-**Acceptance count: taught in 30 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).** Egypt
+| Days of the week: Monday–Sunday, “what day is it today?”, on Mondays, days take a capital letter | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.22–23 |
+| Months and days of the week: months January–December, days revision, a weekly-routine dialogue (on Thursdays we go shopping…), birthday month/day/date | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp.23–24 |
+| Months of the year: month names with Spanish-based pronunciation guides, in + month against on + day/date, months identified by ordinal position (the twelfth month…) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.25–26 |
+**Acceptance count: taught in 31 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,

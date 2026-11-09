@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ still owed).
 
 **Book 4:** English Matters, Student's Book 9 — Uzbekistan, Macmillan Education, first published 2003 (Uzbek-approved new colour edition), ISBN 978-1-4050-1255-3. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 5:** 11
+
 | Lesson part | Where it comes from |
 |---|---|
 | Idiom Tip: an idiom is a fixed multi-word expression whose meaning can't be deduced from its words — 'spring into action', 'Teamwork makes the dream work'; learners hunt five more hard-work idioms | Egypt, Secondary 11 Term 1, Unit 1, Lesson 1, SB p.13 (as filed in EGYPT-BOOK-MAP.md) |
@@ -27,5 +29,6 @@ still owed).
 | Interpreting idioms, with the book's example: 'raining cats and dogs' = raining heavily | Sierra Leone, JSS handbook, Lesson 111, p.23 (as filed) |
 | Idioms, Phrasal Verbs and Collocations taught together; collocations must be memorised as they follow no rule | Sierra Leone, SSS2, Lessons 27–28, pp.64, 67 (as filed) |
 | Money-idiom matching set: funny money, money doesn't grow on trees, money talks, get your money's worth, spend money like water | Uzbekistan, English Matters 9, Unit 4, Lessons 7–8, printed p.44 |
+| Idioms in sidebars — raining cats and dogs, hit the books, break the ice, piece of cake, under the weather, cold feet, spill the beans, once in a blue moon, by heart, highlighted through the book's units | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 8–10, 34, 37, 48 |
 
-**Acceptance count: taught in 4 countries (Egypt, Libya, Sierra Leone, Uzbekistan).** Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set.
+**Acceptance count: taught in 5 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia).** Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -16,6 +16,16 @@ Note on pages (CORRECTED 2026-10-25, from the full page-by-page read):
 one book page per PDF page, and the printed page number at the foot
 equals the PDF page number. An older note here said two book pages sit
 side by side on one PDF page — that was wrong.
+
+**Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 2:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 5 (Primaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 3:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 4:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 12 (Secundaria 6) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 5:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -148,7 +158,12 @@ rendered page the same day).
 | Greetings dialogues to complete inside the conversation-starters lessons | Uzbekistan — *English Matters* Student's Book 9 (Grade 9), Unit 8, Lessons 3–4, printed p.88 |
 | Hello and your name as the course's opening exchange — the greetings and introductions of Lesson 1 (*be* + what-questions + greetings/introductions), with names spelled aloud (W-I-L-L-I-A-M, S-A-M-M-Y) as the lesson's name work | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lesson 1, guide printed pp.4–9 |
 | The greetings script printed in full — the year's opening lesson prints its greetings and farewells exchange whole (Sammy's and Katie's self-introductions, "Good morning. How are you? — Fine, thanks. And you?", "Goodbye, see you tomorrow") | Venezuela — *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, guide printed pp.4–9 |
-**Acceptance count: taught in 32 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).**
+| Self-introduction dialogue: hello, what is your name, how are you, I am fine, and age statements | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.7–8 |
+| Personal-information questions and answers: name, last name, how old are you, where are you from, what grade are you in (fifth/5º), where do you live, home address (street) | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp.14–15 |
+| Countries and nationalities with the verb to be in full — “Where are you from? — I'm from Bolivia/Brazil” — affirmative, negative with not, questions by inversion, short answers, contractions | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.13–14 |
+| Greeting customs: some people shake hands, wave, hold hands, high five, hug, kiss once, kiss twice | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p.56 |
+| Target-language greeting customs, adding “some people bow” to the student book's set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p.122 |
+**Acceptance count: taught in 33 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North

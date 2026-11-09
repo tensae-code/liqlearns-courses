@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia
 
 Every part traces to its book and page.
 
@@ -20,6 +20,10 @@ Every part traces to its book and page.
 
 **Book 8:** *English Course for Yemen* Pupil's Book 3 and Workbook 4 — Yemen, Ministry of Education and Scientific Research (Crescent course, Garnet). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 9:** 11
+
+**Book 10:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -30,5 +34,7 @@ Every part traces to its book and page.
 | Time for Tenses: the past perfect — the "Too Late" story and the "had + past participle" rule box | Sudan, SPINE 5, Chapter 6 |
 | Past perfect stated in the three-page Grammar Section (printed pp.151–153) | Uzbekistan, English Matters 8, Grammar Section, p.153 |
 | The past perfect in narrative in Book 3, with explicit teaching carried in Workbook 4 | Yemen, English Course for Yemen, Pupil's Book 3; Workbook 4 (as filed) |
+| The past perfect — had + past participle, for the earlier of two past actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 52–53 |
+| The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 105 |
 
-**Acceptance count: taught in 8 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen).**
+**Acceptance count: taught in 9 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia).**

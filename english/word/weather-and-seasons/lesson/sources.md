@@ -57,6 +57,10 @@ Curricular Transition (2024) — Ecuador, MINEDUC. Filed in
 english/books/ecuador.md (Grades 9–10 section, FULLY READ,
 as filed).
 
+**Book 11:** 4
+
+**Book 12:** 8
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -74,6 +78,9 @@ as filed).
 | The tsunami unit — the 26 December 2004 tsunami read whole (Andaman & Nicobar; Phuket), with its weather-and-sea vocabulary in use | India, Class 8 Honeydew, Unit 2 "The Tsunami" |
 | Storm names matched to definitions: cyclone, gale, typhoon, tornado, hurricane, whirlwind | India, Class 10 First Flight, Unit 1 "A Letter to God," Thinking about Language |
 | Extreme weather events listed as global-warming effects: heat waves, droughts, wildfires, floods (with melting ice and rising temperatures) | Ecuador, Superior Sublevel text, Worksheet 4 "Global Warming," printed p.26 |
+| The seasons and the weather of Bolivia — weather words inside the seasons section | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 21–22 |
+| The weather across the regions of Bolivia — a graded reading: the Andes, the valleys and the tropics | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 25–26 |
+| The seasons and weather conditions of Bolivia — a connected set (winter, dry, cold, windy, storm…) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 27–28 |
 
 **Acceptance count: taught in 7 countries (Albania, Bolivia,
 Cambodia, Ecuador, India, Mongolia, Rwanda).** Albania —

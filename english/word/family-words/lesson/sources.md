@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia
 
 Every part traces to its book and page.
 
@@ -42,6 +42,14 @@ liqlearns-courses-work/sweep-2026-11-08/english/
 bangladesh-placements.md); this volume is not covered by
 the old filing in english/books/bangladesh.md.
 
+**Book 7:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 8:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 9:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 10:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -51,9 +59,14 @@ the old filing in english/books/bangladesh.md.
 | Family words matched to definitions: ancestor, relative, sibling, cousin, stepfather, half-brother, nephew, family tree — with Anand's family tree drawn and questioned | Mongolia, English X, Unit 4 "Personal Identity," p.56 |
 | Kinship terms through a family-tree crossword whose answers include cousin, uncle, nephew, father, aunt, mother, sister; unscramble cousin, nephew, father, aunt, uncle, mother | Rwanda, Pupil's Book 6, Unit 5 "Family relationships," pp.64–65 (sounds and spelling p.72) |
 | The family at senior level: "Family Relationship," a reading on family bonds opening the Relationships unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 1, printed p.126 (stocked 2026-11-08 by the re-verification sweep) |
+| Family words: parents, father, mother, children, daughter, son, baby, siblings, brother, sister, grandparents, grandfather, grandmother, uncle, aunt; the pets dog/cat | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.15–17 |
+| Family members: “this is my father/mother/brother/sister”, “Who's this? — He/She is my…”, granddad | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.25–26 |
+| My family: family-tree vocabulary (grandparents, parents, uncle/aunt, siblings, cousin, wife/husband, son/daughter, nickname, pet) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.35–36 |
+| The family tree and possessive nouns — the Saxon 's (“Family's”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp.16–17 |
+| Family activities: things families do together; “The family through time” reading (nuclear, childless, single-parent, grandparent, extended families); customs of our region — regional dress vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF pp.63–64 |
 
-**Acceptance count: taught in 5 countries (Mongolia, North
-Macedonia, Palestine, Rwanda, Bangladesh).** Palestine carries the
+**Acceptance count: taught in 6 countries (Mongolia, North
+Macedonia, Palestine, Rwanda, Bangladesh, Bolivia).** Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds

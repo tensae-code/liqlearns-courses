@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -185,6 +185,18 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 59:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
 
+**Book 60:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 61:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 62:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 63:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 64:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 65:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -302,8 +314,14 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Food worked as classification — Lesson 2's steps print the Activity F food-classification table whole (the same-food / both / second-only columns) inside the continuous-tenses lesson | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 2, guide printed pp.10–16 |
 | Cake ingredients and equipment as the birthday chapter's recipe work — its outcomes name describing cake ingredients and equipment with the cooking verbs mix, bake, add, pour | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 overview, printed p.61 |
 | The ingredients handled in the printed recipe exercises: comprehension questions on the cake (baking powder against baking soda, the purpose of baking paper and of salt), a design-your-own-cake exercise naming at least five ingredients, and a match-the-ingredient-to-its-function exercise (butter among them) | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 Worksheet 1 "Recipe", printed p.64; "More exercises" Exercises 3–4, printed pp.67–68 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Fruits and vegetables: apple, strawberry, watermelon, banana, papaya, orange, pineapple, pear, grape; tomato, potato, onion, carrot, beet, cucumber, pumpkin, celery, lettuce, peas | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.24–27 |
+| Typical food: fruit for a salad (banana, apple, grapes, watermelon), “what fruit do you like”, favourite food, a Bolivian typical-dish word search | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.9–10 |
+| Food: healthy food against junk food, a fruit-and-vegetable health text, fast-food vocabulary (chicken nuggets, wings, corn dog, donuts, fish and chips, fried chicken, fries, hamburger, noodles, onion rings, pizza, sandwich). Book error noted: “honney” printed for honey (p.33 of the same book) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.31–32 |
+| Bolivian gastronomy: matching typical dishes to their cities | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p.33 |
+| Bolivian typical food: the typical dishes placed on the map (charque, k'alapurka, plato paceño, pique macho, mondongo, saice, surubí, sudado, keperí, majadito) and market/fruit-salad conversations with “Would you like…?” | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp.38–40 |
+| Bolivian gastronomy and a cuisine-history text (with the Urmiri hot-springs reading) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp.76–77 |
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the

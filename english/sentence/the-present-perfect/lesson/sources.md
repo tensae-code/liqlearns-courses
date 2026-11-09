@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -102,6 +102,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 37:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
 
+**Book 38:** 11
+
+**Book 39:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -192,10 +196,18 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present perfect against past simple taught in a Language study, with a dialogue flowchart and the big verb-form table (infinitive / past / past participle) | Yemen, *English Course for Yemen* Workbook 3 (Grade 9), Unit 3, Language study, printed pp.47-48 |
 | Present perfect presented against the past perfect — the plan's grammar names the verb *have* in the present perfect and the past perfect, contrasted, with the lesson's past-participle list printed (worked, taken, done, told, wanted, changed) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 6, guide printed pp.36–41 |
 | Present perfect named again as the lesson's grammar, with tag questions in the present and past perfect and the auxiliary HAVE chart worked in the steps; a gapped excerpt of the student dialogue (Lucía, Manuel and Gaby) is printed in the steps' margin — partial and gapped, the closest this guide comes to reproducing student text | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 21, guide printed pp.132–139 |
+| The past participle — as in “I have written the email”, regular -ed and the irregular set | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 13 |
+| The present perfect — have/has + past participle, affirmative, negative and questions, for experiences and recent actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 16–17 |
+| Present perfect signal words — ever, never, for, since, just | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 20–21 |
+| Present perfect adverbs of time — already (affirmative), yet (negative/questions), before | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 25–26 |
+| Past participles of regular and irregular verbs — the participle tables | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 91 |
+| The present perfect — have/has + past participle for actions finished at an unstated time, against the simple past | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 94–95 |
+| Where have you been? — present perfect questions about experience | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 96–97 |
+| Present perfect with already, yet and before — already and before affirmative, yet in negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 97 |
 
 
-**Acceptance count: taught in 24 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 25 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar

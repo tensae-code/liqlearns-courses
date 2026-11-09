@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -146,6 +146,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 **Book 51:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 52:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 3 (Primaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 53:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -275,8 +279,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Countable against uncountable nouns with quantity expressions — countable and uncountable nouns with printed examples, *there was/were*, quantities (a half dozen, a dozen, 10 kgms, a package of, a box of, a piece of; many, a lot of, too many, a little, much, some, few, any) and intensifiers said to show the characteristics of scarabs | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 11, guide printed pp.64–71 |
 | Nouns inside the word-class table printed in the guide — the Part E table of word classes (noun, adjective, adverb, verb) in the dictionary-skills lesson | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 3, guide printed pp.22–27 |
 | Compound nouns as a named grammar focus, with the printed example set — lunchbox, classroom, sunglasses, haircut, bedtime, bedroom | Albania, *Akelius A2 Level* teacher's guide, Chapter 35 overview, printed p.32 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Singular and plural of objects, in the book's own four rules: add -s; add -es (the book says after CH/SH/X/SS); irregular vowel change (man/men, woman/women); -y → -ies (baby/babies, candy/candies). The book's Spanish explanation of the -es rule mis-states it — taught corrected | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.20–21 |
+| Singular and plural nouns, with transport vocabulary (bus, car, bike, truck, train, plane, boat); plural rules +s, +es after s/ss/sh/ch/x/z, consonant + o + es (heroes, tomatoes, potatoes as printed); to-be yes/no questions with short answers | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.27–28 |
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China

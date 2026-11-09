@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -138,6 +138,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 60:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
 
+**Book 61:** 12
+
+**Book 62:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -259,10 +263,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present passive explained in the teaching steps' Grammar emphasis — the passive in the present simple and the present continuous, then active/passive sentence pairs matched and yes/no and wh-questions practised on passive content (the plan itself prints only the fragments *is made by / are made by*) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 22, guide printed pp.140–146 |
 | Past passive in the teaching steps' Grammar emphasis — the passive in the past simple and the past continuous, worked with *was/were* + past participle (locate, damage, raze, rebuild) around the Cariaco earthquake (the lesson's plan foregrounds modal *can* instead — the steps govern, as the country file files it) | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 23, guide printed pp.147–153 |
 | Future passive printed in the guide — active and passive voice in the simple future (*will be* + past participle: "two classrooms will be built in our school this month"; "a health social program will be developed in every city"), converting between the voices both ways, with a worked passive-to-active pair printed | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 24, guide printed pp.154–161 |
+| The passive voice — passive examples across the tenses (past simple, present continuous, present perfect, future will, past continuous, going to, modal must), each paired with its active | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 39 |
+| Impersonal passive expressions — “it is said that… / it is believed that…” in a text about Bolivia | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 40 |
+| The expression “it is said that… / it is believed that…” in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 120 |
 
 
-**Acceptance count: taught in 28 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** Mongolia discovers the shape from the
+**Acceptance count: taught in 29 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense

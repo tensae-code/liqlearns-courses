@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia
 
 Every part traces to its book and page.
 
@@ -112,6 +112,8 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 36:** *Reading (English) Standard One — Pupil's Book Two* (pupil's book) — Tanzania, Tanzania Institute of Education (TIE), © 2019, reprinted 2021, ISBN 978-9987-09-011-2. Filed in english/books/tanzania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 37:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -191,8 +193,9 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | The parts labelled and used in the chapter's printed worksheets: "Label the body parts" (foot, neck, ear, hair, eye, stomach, knee) and "My Body in Action" sentence completion | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 worksheets, printed pp.14–15 |
 | A whole unit on the body: the parts named in a first-person passage — head, two eyes, one nose, two ears, one mouth, two hands, two legs and a stomach — each part with its work: eyes for seeing, nose for smelling, mouth for talking and eating, hands for touching and holding things, ears for hearing, legs for walking and running; food goes to the stomach after eating, and all parts work together | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Seven “My body”, printed p.28 |
 | The body passage exercised line by line: fill-in-the-blanks and short answers drawn straight from the passage, under the passage's own close — the body should be kept clean | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Seven, printed p.29 (the picture opener at p.27) |
-**Acceptance count: taught in 31 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania).**
+| My body: hair, head, eye, ear, mouth, shoulder, nose, arm, stomach, elbow, hand, fingers, knee, leg, foot | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.22–24 |
+**Acceptance count: taught in 32 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia).**
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the

@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia
 
 Every part traces to its book and page.
 
@@ -44,6 +44,18 @@ as filed).
 Uzbekistan. Filed in english/books/uzbekistan.md
 (FULLY READ + CITATION CHECK PASSED, as filed).
 
+**Book 9:** 6
+
+**Book 10:** 7
+
+**Book 11:** 8
+
+**Book 12:** 11
+
+**Book 13:** 12
+
+**Book 14:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -55,9 +67,19 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 | Career jobs — bartender, fashion designer, garment worker, hairdresser, mechanic; tailor, surgeon, assembly worker, cashier, software engineer — with demanding, repetitive, well-paid | Vietnam, Tiếng Anh 9, Unit 12 "Career Choices," printed pp.124–133 |
 | The world of work: five job advertisements read for main ideas; a job application letter; "Unusual jobs" (train pushers, Burj Khalifa window cleaners, golf-ball divers) | Vietnam, Tiếng Anh 12, Unit 5 "The world of work," printed pp.60–71 |
 | Job descriptions with have to / don't have to (dentist, vet, soldier, chef, taxi driver, manager, nurse, shopkeeper, teacher, waitress, postmen and others) and "A day in the life" (a postman's day); job adverts (zoo keeper, tailor, salesperson), a model letter of application, and interviews with should/shouldn't advice | Uzbekistan, English Matters 9, Unit 9 "Job Matters," printed pp.98–109 (descriptions p.100; adverts p.102; interviews p.104) |
+| Occupations — the farming and town occupations set, with photographs and What do you do? | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 16–18 |
+| Professions — the professions set: doctor, teacher, lawyer, engineer, architect, plumber, hairdresser, tailor, mechanic, driver, cook, electrician, farmer, nurse | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 15–16 |
+| Community helpers — the trades and helper professions graded by the community: carpenter, mason, electrician, mechanic, seamstress, shoemaker, plumber, hairdresser, baker, fireman, blacksmith, driver, jeweller, nurse, doctor, lawyer, tailor, painter | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 18–19 |
+| Occupations through a chess player's story — the occupations set in a graded biography | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 6–7 |
+| Careers in the technical branches — career dialogues and text in the technology branch (BTH) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 57–58 |
+| Professions — a word-search and a 36-profession list (the book repeats two entries) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 7–8 |
+| Professions — the professions picture set (artist, farmer, nurse, postman, waiter, secretary, vet, bricklayer, dentist, policeman, architect, singer, manager, baker, astronaut, dressmaker, musician, shoemaker, painter, typist, fisherman) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF pp. 11–12 |
+| Community work — the helping jobs of a community: street sweeper, gardener, policeman, firefighter, nurse, doctor | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 32 |
+| People at work — the occupations of the technology branch (BTH): mechanic, electrician, computer technician, plumber, carpenter, turner; Where does he work? | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 87 |
+| Work in the technology branch — an accounting text (BTH) with its work vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 120 |
 
-**Acceptance count: taught in 4 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam).** Cambodia carries the opening
+**Acceptance count: taught in 5 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia).** Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary

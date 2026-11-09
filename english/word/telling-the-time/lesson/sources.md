@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -106,6 +106,10 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 36:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 37:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 3 (Primaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 38:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -191,8 +195,10 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | Telling the time — o'clock, quarter past, half past, quarter to | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 6, Lesson 2, printed p.52 |
 | A.m./p.m., midday, midnight, at + time and in the morning/afternoon/evening | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 6, Lesson 3, printed p.53 |
 | Telling the time as a whole lesson — the steps work the clock's own mechanics (what time is it; o'clock; a quarter; minutes and seconds; numbers 1–60 for the minutes) beside the lesson's numbers, with the time prepositions *in/on/at* carried from the months lesson before it | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 8, guide printed pp.47–55 |
-**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).** Bangladesh carries
+| The time: “what time is it?”, it is one thirty/fifteen/twenty/forty/forty-five, “my classes start half past eight” | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.18–19 |
+| “When's the movie?”: event words (concert, party, soccer/basketball/volleyball game, movie, dance), days of the week, preposition of time on + morning/afternoon/evening, days written with capitals, telling the time. Book error noted: the appraisal prints mismatched clock–sentence pairs (3:00 beside “It is three fifteen”) — taught corrected | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.29–30 |
+**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;

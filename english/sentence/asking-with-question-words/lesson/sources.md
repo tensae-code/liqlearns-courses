@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -133,6 +133,14 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 48:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 49:** 6
+
+**Book 50:** 8
+
+**Book 51:** 10
+
+**Book 52:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -251,9 +259,15 @@ CITATION CHECK PASSED 2026-11-03).
 | Wh- questions as the body chapter's plan-level language element — "Asking and answering wh- questions" — with the outcome question "Where does it hurt?" in the chapter overview | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed pp.10–11; sample plan, printed pp.12–13 |
 | Wh- questions named in the birthday chapter's outcomes — "ask and respond to yes/no and wh- questions in present simple" | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 overview, printed p.61 |
 | Wh- questions printed inside the feelings chapter's second worksheet — four questions to answer from inside a painting, "What are you doing?" among them (printed twice in the book) | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 Worksheet 2, printed p.42 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
+| Question words — who, what, where, when, why, how in questions about school and family | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 14–15 |
+| Question words — the question-word table with example questions (what, where, when, who, why, how, how many, how much, whose, which) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 16 |
+| Question words — the graded question-word set of the book's review unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 16–17 |
+| Question words — the question-word set with its example questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 10 |
+| Question words — what, who, where, when, why, how, how many, how much, in dialogue frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 31 |
+| Wh- questions — the compendium's Wh- question presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 73 |
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,

@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -101,6 +101,14 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 32:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 33:** 4
+
+**Book 34:** 6
+
+**Book 35:** 7
+
+**Book 36:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -176,7 +184,12 @@ CITATION CHECK PASSED 2026-11-03).
 | “It's mine” — possessive pronouns mine, his, hers, yours set against my, his, her, your | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.63 |
 | The whole possessive paradigm printed in one lesson — possessive pronouns (mine, yours, his, hers, ours, theirs) beside the possessive adjectives (my … their), the possessive *'s* (John's), and *whose*, with IPA transcriptions printed for yours, mine and whose | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 20, guide printed pp.123–130 |
 | Possessive adjectives named as a revision focus — the body chapter's grammar focus closes with "revision of possessive adjectives"; no mine/yours pronoun forms and no possessive example sentences are printed in the guide, and none are claimed here | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed p.10 |
-**Acceptance count: taught in 28 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Possessive adjectives and the Saxon genitive — my/your/his/her/our/their and 's for possession, in the family unit | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 14–15 |
+| Possessives — possessive adjectives (my…their) and possessive pronouns (mine…theirs) side by side, with subject-pronoun matching | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 9–11 |
+| Possessive adjectives — my/your/his/her/its/our/their with the classroom things | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 17–18 |
+| Possessive adjectives — my, your, his, her, its, our, your, their | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 11 |
+| Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 19 |
+**Acceptance count: taught in 29 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from

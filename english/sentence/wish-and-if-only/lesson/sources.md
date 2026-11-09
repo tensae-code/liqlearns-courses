@@ -4,7 +4,7 @@ countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam
 
 Every part traces to its book and page.
 
-**Book 1:** Year 6 English (student's book) — Bolivia.
+**Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (FULLY READ +
 CITATION CHECK PASSED, as filed).
 
@@ -32,6 +32,8 @@ Vietnam Education Publishing House & Pearson. Filed in
 english/books/vietnam.md (FULLY READ + CITATION CHECK
 PASSED, as filed).
 
+**Book 7:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole wish system under its own heading "HOW TO EXPRESS WISHES IN ENGLISH" — wish expresses regret or wanting something different; WISH + Simple Past for a present/future situation ("I wish I ate more vegetables — but I don't"); WISH + Past Continuous; WISH + Past Perfect to change a past situation ("I wish I hadn't done it"); WISH + Would for something to happen or someone to start/stop an annoying thing ("I wish the lesson would end", "I wish you would listen to me!", "I wish you wouldn't borrow my clothes!"); WISH + to-infinitive as formal "want" | Bolivia, Year 6, Theme 4, §1.4 (as filed in bolivia.md) |
@@ -41,6 +43,8 @@ PASSED, as filed).
 | Wish / if only NOT taught as a structure at Form 5 — single practice items inside a Review 3 exercise only | Malaysia, Form 5, Review 3, printed p.82 (as filed) |
 | I wish + past form as the unit's Grammar I, inside the festivals unit, with a three-wishes folk tale as its Extra bit | Nepal, English Grade 7, Unit 4, pp.35–45 |
 | Wish + past simple as a named grammar subheading, "A Closer Look 2" | Vietnam, Tiếng Anh 9, Unit 4 "Remembering the Past", printed p.43 |
+| Expressing wishes — I wish… for present and future regrets, inside the conditionals unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 29, 31 |
+| Wish forms — if only and I wish in the compendium's presentation (wishing for things and for people to act) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 115 |
 
 **Acceptance count: taught in 5 countries (Bolivia,
 Kuwait, Malaysia, Nepal, Vietnam).** Bolivia states the

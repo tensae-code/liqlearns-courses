@@ -49,6 +49,8 @@ Literary Section — Syria, Ministry of Education. Filed
 in english/books/syria.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 9:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
@@ -66,6 +68,10 @@ PASSED 2026-11-03).
 | The expository essay's family named: essay types (how-to/process, compare and contrast, cause and effect, and others); outline a five-paragraph expository essay, then write it | Sierra Leone, SSS2 Term 1, Lessons 45–46, pp.112 and 114 |
 | The four essay types side by side with their features — Persuasive, Expository, Narrative, Descriptive — and a five-paragraph essay drafted | Sierra Leone, SSS3 review lessons, Lesson 129 "Types of Essays Review", p.88 (as filed) |
 | The essay kinds named in a "What is an Essay" reading: interpretive, analytical, argumentative, comparative, problem-and-solution, cause-and-effect | Syria, Emar Student's Book 12, Literary Section, Unit 8 "Essays", printed pp.74–80 |
+| Writing expository texts — what expository/informational texts are (explain, describe, inform), applied to a paragraph about plans after school | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 12 |
+| Writing narrative texts — what a narrative text is (tells a story, real or imaginary), applied to a story about an environmental problem | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 18 |
+| Writing argumentative texts — what an argumentative text is (persuade with your own arguments, agree/disagree, conclusions) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 24 |
+| Expository text characteristics — clarity and objectivity, purpose, organisation patterns, evidence and support, paragraphs with topic sentences, transitions, audience awareness, formal language, conclusion, objective tone, revision | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 31 |
 
 **Acceptance count: taught in 6 countries (Bolivia,
 Malaysia, India, Indonesia, Sierra Leone, Syria).**

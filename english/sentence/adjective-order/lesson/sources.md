@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 5:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Adjectives and Adverbs box, p.54, is among this book's citation-checked anchors).
 
+**Book 6:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | ADJECTIVE ORDER — the order table (Quantity/Number · Quality · Size · Shape · Age · Color · Nationality · Material) with the worked examples ("There are 2, bad, small, old, red, American, plastic shoes"; "There is a tall, black dog"). The table prints "American / Bolivian / Japanese" in both the Nationality and the Material columns, as printed — recorded here as the filing records it | Bolivia, Year 6, Topic 5, p.221 |
@@ -21,6 +23,8 @@ Every part traces to its book and page.
 | Grammar Corner: order of adjectives (opinion, size, age, shape, colour, nationality, material) | Sudan, SPINE 6, Chapter 7 (printed pp.102–118) |
 | Describing things with more than one adjective in the right order ("a big, modern TV", "the big, square, yellow blanket"); adjective order revised in Units 26 and 33 | Cambodia, ENGLISH Grade 10, Unit 21 "What does it look like?", printed pp.111–116 |
 | The Adjectives and Adverbs box: an adjective comes before the noun — the ground rule this lesson's stacking order stands on | Egypt, Secondary 11 Term 2, Unit 11, Adjectives and Adverbs box, p.54 |
+| Adjective order — the order of adjectives before a noun, in the book's adjective unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 33–34 |
+| Adjective order — the compendium's adjective-order table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 119 |
 
 **Acceptance count: taught in 5 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan).**
 

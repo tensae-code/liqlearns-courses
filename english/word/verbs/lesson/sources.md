@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -138,6 +138,14 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 **Book 49:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 50:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 51:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 52:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 53:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -246,8 +254,14 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | Action verbs named as verbs in the body chapter's outcomes — "describe movement with verbs (jump, stretch, fall, move)" — over its printed movement-verb set fall, jump, move, stretch | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed pp.10–11 |
 | Will as a named verb-form focus — "future tense (will) for personal plans, preferences and predictions" — with its full printed example run in statements, questions and negatives | Albania, *Akelius A2 Level* teacher's guide, Chapter 35 overview, printed pp.32–33 |
 | Can as a named verb-form focus — "the verb can expressing ability and possibility" — in the birthday chapter's grammar focus, with can examples in its set | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 overview, printed pp.61–62 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania).**
+| Action verbs in simple-present sentences: play, study, eat, sleep, go, have (lunch), paint, write, read, brush (teeth), cook — with I/we/they subjects | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.23–24 |
+| Action verbs for devices: to plug in, to turn on, to turn off, to connect, in sentences | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.47–48 |
+| Travel action-verb vocabulary (visit, go, eat, drink, take, come, fly, climb…) in the “Traveling around my country” reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p.36 |
+| Irregular verbs: matching base forms to past simples | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p.51 |
+| A ten-group irregular verb list with past simple AND past participle (begin/began/begun … become/became/become) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p.55 |
+| An action verbs list (to visit, go, eat, drink, take, buy, come, travel, fly, climb, dance, run) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p.78 |
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;

@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -179,6 +179,10 @@ PASSED 2026-11-03).
 **Book 58:** *English for Today, Classes XI–XII & Alim* (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. Re-read for the 2026-11-08 re-verification sweep (placements: liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md); this volume is not covered by the old filing in english/books/bangladesh.md.
 
 
+**Book 59:** 6
+
+**Book 60:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -309,8 +313,10 @@ PASSED 2026-11-03).
 | A short story read whole: "A Mother in Mannville" — a writer and an orphan boy who invents a mother (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 3, printed p.132 |
 | A story read whole: "The Story of Shilpi" — a girl's story of early marriage and adolescence (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Nine, Lesson 3, printed p.156 |
 | A named author's short story read whole: "The Old Man at the Bridge" by Ernest Hemingway — an old man displaced by war (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 2, printed p.197 |
-**Acceptance count: taught in 31 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania).** Ghana names the narrative mode; Bangladesh
+| The Ghostly Village — a complete short mystery story, told as plot summary only (the story text itself carries non-standard forms — “had ran aground”, “spreaded”, “cloack” — filed as the book's errors, taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed p. 24 |
+| Killa and Kuri Kuri — a complete Andean tale, told as plot summary only | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 32 |
+**Acceptance count: taught in 32 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,

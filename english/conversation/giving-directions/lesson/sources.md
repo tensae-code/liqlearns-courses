@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia
 
 Every part traces to its book and page.
 
@@ -54,6 +54,12 @@ the file's head banner stands — agent-assisted read, the
 2025-2026. Filed in english/books/kuwait.md (FULLY READ
 + CITATION CHECK PASSED 2026-11-03).
 
+**Book 9:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 10:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 9 (Secundaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -64,9 +70,13 @@ the file's head banner stands — agent-assisted read, the
 | Directions as listening/speaking: Airil directs Howard to the Proclamation of Independence Memorial in Melaka (map work with A Famosa, Christ Church, the Clock Tower), then a model route to a Tourist Information Centre with sequence connectors and turn left/right language | Malaysia, English Form 1, Chapter 13 "I am Malaysian", printed pp.151–162 |
 | Giving Directions as a lesson of its own: a hotel porter gives directions; four questions matched to four answers over a street map ("Go along Main Street. It's on the right, just past the car park." · "It's about five minutes away. Turn left on Bank Street and go straight on until you reach the river. It's on the left." · "It's on Park Avenue, near the cinema. Go along this street and turn left on River Road. It's on the right, opposite the museum.") | Libya, English for Libya Grade 10 Course Book, Unit 3, Lesson 7 "Giving Directions", printed p.39 (Tracks 32–33 add four more map answers) |
 | Imperatives for commands, instructions and directions (affirmative and negative; turn left, go straight, walk forward), with a map-speaking task, in the cultures-and-directions unit | Kuwait, Skyline English Student's Book 5B, Unit 7 "The Culture Compass", Lesson 2 (unit lessons printed pp.42–50) |
+| Giving directions: prepositions of movement (toward, from, until, between, through, along, in/on, over, under) with map sentences | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p.20 |
+| Asking directions (How do I get to…?, Where is the nearest…?, Can you tell me the way to…?, I'm lost) and giving them (go straight ahead, turn left/right, cross, go along/up/down, it's on the corner / next to / in front of / on your left / on your right, take the first/second road, blocks, about 100 meters from here), with map work | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp.37–39 |
+| Asking for and giving directions, with a town map and dialogues | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p.33 |
+| Prepositions of movement and direction phrases (turn left/right, go straight on, go across, on the corner, go through, go past, go up/down, turn around) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF pp.33–34 |
 
-**Acceptance count: taught in 7 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait).**
+**Acceptance count: taught in 8 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues

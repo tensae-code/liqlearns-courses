@@ -4,7 +4,7 @@ countries: Bolivia, Malaysia, Nepal, Yemen
 
 Every part traces to its book and page.
 
-**Book 1:** Year 6 English (student's book) — Bolivia.
+**Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (FULLY READ +
 CITATION CHECK PASSED, as filed).
 
@@ -23,13 +23,16 @@ CITATION CHECK PASSED, as filed).
 Research. Filed in english/books/yemen.md (FULLY READ
 + CITATION CHECK PASSED, as filed).
 
+**Book 5:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
-| REFLEXIVE PRONOUNS — the full set, as the theme's §1 grammar, in the theme that also carries ought to and "might have" for past conjecture | Bolivia, Year 6, Theme 7, §1 (as filed in bolivia.md) |
+| REFLEXIVE PRONOUNS — the full set, as the theme's §1 grammar (Theme 7 stands on its own: ought to and “might have” for past conjecture are Theme 6, §1.5, a separate theme — DESCRIPTION CORRECTED 2026-11-08 by the re-verification sweep) | Bolivia, Year 6, Theme 7, §1 (as filed in bolivia.md) |
 | Reflexive pronouns worked with each other / one another in the final unit of the Form 5 course | Malaysia, Form 5, Unit 12 (as filed in malaysia.md) |
 | Reflexive pronouns inside Unit 4, in the named grammar syllabus — the unit whose language work is the modal set may/must/should/ought to/have to/needn't | Nepal, English Grade 6, Unit 4 (grammar syllabus, as filed in nepal.md) |
 | Reflexive pronouns gathered in the language review, beside past deduction (may/might/could have; must have; cannot/could not have) and verb + object + to-infinitive | Yemen, English Course for Yemen, Book 6, Language review 10, §5.9, p.39 |
 | Reflexive results in the safety warnings ("You'll cut yourself", "You'll poison yourself") — the returning action in the course's warning set | Yemen, English Course for Yemen, Pupil's Book 5, Unit 5 "Safety", p.35 (as filed in yemen.md) |
+| Reflexive pronouns in full — myself, yourself, himself, herself, itself, ourselves, yourselves, themselves: the action falls back on the subject; also for emphasis (“by herself”) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 50–51 |
 
 **Acceptance count: taught in 4 countries (Bolivia,
 Malaysia, Nepal, Yemen).** Bolivia presents the full

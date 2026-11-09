@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -45,7 +45,9 @@ explains one thing only.
 | "Good morning. Welcome to class." among the classroom-English routines that open Grade 2's Term 1 book | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Introduction: Classroom English, printed p.2 |
 | Greetings sorted by time of day in the All about me unit's vocabulary | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, printed pp.9–19 |
 | Greeting words inside the first lesson's set — the greetings/introductions vocabulary of Lesson 1, where the day's greeting words stand among the lesson's frames | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lesson 1, guide printed pp.4–9 |
-**Acceptance count: taught in 24 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).**
+| Greetings: hello/hi, good morning/afternoon/night, bye | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed p.8 |
+| Greetings and farewells, formal against informal (hello / good morning / afternoon / evening / night against hi / bye / see you / see you soon), with contractions (what is → what's) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.7–8 |
+**Acceptance count: taught in 25 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a

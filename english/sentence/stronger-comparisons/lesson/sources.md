@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia
+countries: Egypt, Nepal, Cambodia, Bolivia
 
 Every part traces to its book and page.
 
@@ -12,6 +12,14 @@ Every part traces to its book and page.
 
 **Book 4:** ENGLISH Grade 12 (student's book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE. Filed in english/books/cambodia.md (as filed).
 
+**Book 5:** 8
+
+**Book 6:** 10
+
+**Book 7:** 11
+
+**Book 8:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -19,5 +27,11 @@ Every part traces to its book and page.
 | Comparative and superlative adjectives, then comparative/superlative adverbs; as…as comparisons — on smartphone-ownership charts and a Los Angeles vs San Francisco listening | Nepal, English Grade 7, Unit 9, printed pp.88–96 |
 | Comparatives/superlatives with degree quantifiers and as…as | Cambodia, ENGLISH Grade 12, Unit 9 (as filed in english/books/cambodia.md) |
 | Graded comparatives: not quite as…, not nearly as…, much more…, a little… — comparing London and Cambodia | Cambodia, ENGLISH Grade 12, Unit 28, printed pp.151–156 |
+| Comparatives — the full rule set (short + -er, more + long, y to -ier, good/better, bad/worse), with than | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 29–30 |
+| Comparatives and superlatives — comparatives (+er, more, better, worse) and superlatives with “the” (+est, y to iest, most) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 37–40 |
+| Comparison with AS…AS — equal comparison with adjectives, adverbs and quantity (as much/many as), alongside comparative + than | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 45–46 |
+| Comparative adjectives — small–smaller, big–bigger, long, easy, happy, clean, safe, thin with “smaller than” frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 36 |
+| Comparative and superlative adjectives — the comparison table (adjective, comparative, superlative; good–better–best, bad–worse–worst) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 79 |
+| Comparison with AS…AS — as + adjective + as, with as much/many as | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 104 |
 
-**Acceptance count: taught in 3 countries (Egypt, Nepal, Cambodia).**
+**Acceptance count: taught in 4 countries (Egypt, Nepal, Cambodia, Bolivia).**

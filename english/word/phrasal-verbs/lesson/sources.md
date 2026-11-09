@@ -31,6 +31,16 @@ Vietnam Education Publishing House & Pearson. Filed in
 english/books/vietnam.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 7:** 8
+
+**Book 8:** 9
+
+**Book 9:** 10
+
+**Book 10:** 11
+
+**Book 11:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phrasal verbs (1): the verb + particle idea, with the Remember box (go out, pass down, cut down on, run out of) and look around, come back, hand down, find out, take care of, get on with | Vietnam, Tiếng Anh 9, Unit 1, printed pp.8–17 |
@@ -44,9 +54,14 @@ PASSED 2026-11-03).
 | A second phrasal-verbs chapter: die out, get away, look into, turn down; take off, keep on | Sudan, SPINE 5 (Grade 11), Chapter 8, printed pp.109–124 |
 | Phrasal verbs with LOOK (an 8-item set: look for, look after, look forward to, look up, look up to, look out, look over, look down on); phrasal verbs with GO and with PUT (Year 2) | Bolivia, compendium: Year 1, Topic 5 (student p.171); Year 2, Topic 1, §1.4 |
 | Transitive phrasal verbs — they take an object ("called off" as the worked example; "Hang up your jacket") | Bolivia, compendium: Year 3, Topic 3, §3.2 (student p.216) |
-| Intransitive phrasal verbs — no object; verb + particle inseparable (calm down, woke up, go back) | Bolivia, compendium: Year 3, Topic 4, §2.4 (student p.219) |
+| Intransitive phrasal verbs — no object; verb + particle inseparable (calm down, woke up, go back) | Bolivia, teacher compendium: Year 4, Topic 1, §2.4 (compendium PDF p.73; student folio 193) — CITATION CORRECTED 2026-11-08 by the re-verification sweep: this row previously cited “Year 3, Topic 4, §2.4 (student p.219)”; folio 219 is Year 5's “Surviving on the internet”, not this item |
 | Separable phrasal verbs: the definition and the object-splitting set — put on ("I'll put my jacket on"), take off both ways, turn off, pick up, call back, fill out | Bolivia, compendium: Year 5, Topic 4, §5 (student p.213) |
 | The INSEPARABLE PHRASAL VERBS table: back out of, come across, come down with, face up to, get around, get in, go over, hang around, hear about, keep up with, look after, look forward to | Bolivia, compendium: Year 6, Topic 3, §1.3 (student p.217) |
+| Phrasal verbs with GO and PUT — go on, go about, go along, go away, go for, go after, go against, go ahead; put away, put down, put in, put off, put up (with), put on, put back, put out, with meanings and examples | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 10–11 |
+| Phrasal verbs, the daily-life set — wake up, get up, put on, turn on, work out, look after, sleep in, stay in, go out, come in, turn off, stand up, grow up, clean out, break down | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed p. 21 |
+| Intransitive phrasal verbs — go away, come out, come in, hold on, sit down, grow up, with the get up paradigm (the book classes “hold on” intransitive while its own examples give it an object — noted) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p. 19 |
+| Separable phrasal verbs — clean up, pick up, cheer up, turn on, pay back, take off, try on, put on, turn off, figure out, call off, chop up, look up: the object can split verb and particle | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 27–28 |
+| Inseparable phrasal verbs — verb and particle cannot be split; 24 verbs with meanings (run into, come across, get along with, look after, put up with, turn down, put off, get through, go on, come up with, look for, get by, put in, get over, take in, come back, get away, take off…) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 22–23 |
 
 **Acceptance count: taught in 5 countries (Bolivia,
 Cambodia, Mongolia, Sudan, Vietnam).** Two sourcing

@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia
 
 Every part traces to its book and page.
 
@@ -64,6 +64,12 @@ Semester 2 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in english/books/jordan.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 10:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 11:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 12:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -78,9 +84,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The advice-strength box — Don't … · You should/shouldn't … · It's a good idea to … · It's important (not) to … · It's best to … — beside the SPEED KILLS and TURN IT OFF! posters; then leaflets giving advice as the writing task | Libya, English for Libya Grade 12 Course Book (Literary), Unit 3, Lesson 6 "Speaking — Giving advice", printed p.35; Lesson 7 "Writing — Leaflets giving advice", printed p.36 |
 | HAD BETTER as a named language point — its advice, order and threat uses sorted from examples | India, Beehive Class 9, Unit 7 "Packing", Thinking about Language (unit-level filing; no page is pinned in the country file, and none is claimed here) |
 | Giving advice as a unit function, with should only: "You should work carefully" | Jordan, Team Together Grade 4 Pupil's Book, Semester 2, Unit 7 "Our history", printed pp.28–37 (no had better is recorded anywhere in english/books/jordan.md, and none is claimed from Jordan) |
+| Advice for caring for water at carnival time: imperative advice (turn off the tap while brushing, take shorter baths, don't flush tissue) after a water-scarcity reading | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p.10 |
+| Modal verb SHOULD: should/shouldn't for obligation, recommendation and opinion (no third-person change), practised as health suggestions — doctor dialogue, coronavirus protection, diabetes prevention | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp.47–50 |
+| Advice for caring water / saving water at home | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p.30 |
 
-**Acceptance count: taught in 6 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan).** Malaysia gives
+**Acceptance count: taught in 7 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia).** Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.

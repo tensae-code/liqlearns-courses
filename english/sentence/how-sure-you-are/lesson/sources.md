@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia
 
 Every part traces to its book and page.
 
@@ -40,6 +40,8 @@ and Technology, Curriculum Development Centre. Filed
 in english/books/nepal.md (FULLY READ + CITATION CHECK
 PASSED, as filed).
 
+**Book 7:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -50,9 +52,10 @@ PASSED, as filed).
 | Modals and semi-modals (1): ability, possibility, certainty/deduction, advice (can/could, may/might…) | Malaysia, Form 3 *Close-Up*, Unit 8 "Time to Spare", pp.95–106 |
 | The deduction set returned to at Form 5 | Malaysia, Form 5, Unit 6 (as filed in malaysia.md) |
 | Deduction uses (can't be, must be, might have gone) inside the obligations/rules modal unit | Nepal, English Grade 7, Unit 10, pp.97–106 |
+| Modal verbs of certainty — must/can't/may/might/could for deductions about the present | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 48 |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen).** Egypt prices the
+**Acceptance count: taught in 6 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia).** Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder

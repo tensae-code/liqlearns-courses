@@ -4,7 +4,7 @@ countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vie
 
 Every part traces to its book and page.
 
-**Book 1:** Year 1 English (student's book) — Bolivia.
+**Book 1:** Year 1 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (FULLY READ +
 CITATION CHECK PASSED, as filed).
 
@@ -49,6 +49,8 @@ PASSED, as filed).
 Basic Education. Filed in english/books/south-africa.md
 (FULLY READ + CITATION CHECK PASSED, as filed).
 
+**Book 10:** 2
+
 | Lesson part | Where it comes from |
 |---|---|
 | Articles met inside the Year 1 school theme (class supplies; the computer's parts) | Bolivia, Year 1, Theme 3 "My school", p.167 (as filed) |
@@ -60,6 +62,7 @@ Basic Education. Filed in english/books/south-africa.md
 | "Articles (review and extension)" — the Unit 2 grammar box heading | Vietnam, Tiếng Anh 12, Unit 2, printed p.22 (citation anchor 8 as filed) |
 | Articles with geographical names, in the unit's grammar progression (U4) | Armenia, English 10, Unit 4 (as filed in armenia.md) |
 | Definite/indefinite article work inside the workbook's teaching order (with countable/uncountable nouns and proper nouns) | South Africa, English Home Language Grade 5 Workbook 1 (as filed in south-africa.md) |
+| The article a–an — a before a consonant sound, an before a vowel sound, in the animal unit | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp. 21–22 |
 
 **Acceptance count: taught in 8 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,

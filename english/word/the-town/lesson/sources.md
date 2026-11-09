@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -125,6 +125,14 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 44:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 45:** 7
+
+**Book 46:** 8
+
+**Book 47:** 10
+
+**Book 48:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -213,8 +221,14 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | The places of the community as a whole lesson — bakery, butcher shop, post office, police station, supermarket, market, church, school — with the location prepositions (next to, in front of, across from, behind, between, on the corner of, on the right/left of, around the corner from) and *there is/are* in all forms; the gap version of the lesson's dialogue C is printed in the plan | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 11, guide printed pp.69–74 |
 | The places-and-directions set printed in the guide — police station, church, school, hospital, bank, drugstore, park, coffee shop; to the right/left; at the corner of …; across from …; the lesson's orientation text worked in the answers printed around it | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 15, guide printed pp.93–98 |
 | The town inside the year's word sets — occupation and area headings over the week's lesson (the fireman, and words for amounts and money: budget, income, expenses), the town places riding with the careers vocabulary | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, guide printed pp.4–9 |
-**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).** Egypt
+| Community places — plazuela, museum, park, police station, cinema, zoo, library, church, school, market, bus terminal, hospital, bank, stadium, post office, drugstore, with prepositions of place | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 43–44 |
+| My city — Cochabamba: a descriptive reading with city places | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 49 |
+| Relevant places — police station, airport, bus station, museum, library, cinema, drugstore, market and more, in a speaking map task | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 15–16 |
+| Places around us — the town places named around a picture | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 21 |
+| Lake Titicaca and the Island of the Sun — a reading with place and travel words | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 43 |
+| Relevant places — the same relevant-places set in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 72 |
+**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;

@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -159,6 +159,18 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 52:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 53:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 3 (Primaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 54:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 55:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 5 (Primaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 56:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 6 (Primaria 6) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 57:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 58:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -275,8 +287,15 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | Object pronouns as a named grammar point (in the student-language margin of the music lesson), and the year's possessives gathered — possessive *'s* and *'*, possessive adjectives AND possessive pronouns in one lesson's Building blocks, then the whole paradigm printed with *whose* and IPA | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lessons 13, 14 and 20, guide printed pp.78–83, 87–92 and 123–130 |
 | The pronoun system printed whole in one lesson plan — personal, object, possessive AND reflexive pronouns listed together, with the demonstratives | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 7, guide printed pp.42–46 |
 | The pronoun it as a named grammar focus — "the correct use of the pronoun it" — in the weather chapter, whose example set runs on it-sentences ("It's sunny now, but it's going to rain in the evening") | Albania, *Akelius A2 Level* teacher's guide, Chapter 32 overview, printed pp.16–17 |
-**Acceptance count: taught in 30 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Egypt
+| Self-introductions “I am”: subject pronouns I/he/she/it/we/they/you + the verb to be (am/is/are) | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.7–8 |
+| Personal pronouns and the verb to be: the full am/is/are chart, statements about name/age/occupation/nationality, and the Tarija reading | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp.7–9 |
+| Demonstrative adjectives: this/that (near/far singular), these/those (plural), with is/are agreement and Spanish–English sentence translation | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp.7–8 |
+| Demonstratives re-taught at the Tiwanaku museum — “What are those stones?” (near/far, singular/plural chart). Book errors noted: “sheeps” printed as a plural (p.8) and “This are __ clothes” (p.11) — taught corrected | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp.7–8 |
+| My school – class supplies: demonstratives this is / these are / that is / those are with negative and question forms | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.19–20 |
+| Personal pronouns with pronunciation, replacing nouns with pronouns; the “my personal information” paragraph frame | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp.8–9 |
+| Demonstratives this/that (near/far) and these/those | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.14 |
+**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya

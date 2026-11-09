@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -172,6 +172,18 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 **Book 53:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 54:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 55:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 56:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 3 (Primaria 3) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 57:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 4 (Primaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 58:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 59:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -293,6 +305,16 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Cardinal numbers from 100, including how numbers and dates are read (Grammar Reference section 15) | Uzbekistan, *Fly High ENGLISH 6* (Grade 6), Grammar Reference, printed pp.142–149 |
 | Language structures for reading figures — populations, areas and other numbers filled in from listening | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 2, Lessons 5–6, printed p.18 |
 | The number ladder built across the first year — cardinal numbers 1–10 in the jobs lesson, ordinal numbers named in the family lesson's plan, numbers of 100 upwards in the time lesson (3–5-digit numbers, and 1–60 for minutes), and the full 1–100 set in the famous-births lesson | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lessons 4, 6, 8 and 20, guide printed pp.22–27, 34–40, 47–55 and 135–142 |
+| Numbers 1–20: word forms, counting, “how many are there?” | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.9–10 |
+| Numbers 1–30: 1–20 revision, “how old are you — I am four/six/eight”, the teens, additions in number words, 21–30 built as twenty + one… Book error noted: “fitteen” printed for fifteen | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.11–14 |
+| Numbers 1–50: 0–20, 21–29, the tens 30/40/50, counting classmates and fruit | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.11–12 |
+| Addition and subtraction practice in English: number-word word problems (has five apples… how many in total; ate… how many are left) | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.13–14 |
+| Revision games carrying new ordinal content: months matched to Bolivian holidays, a days crossword whose clues teach the ordinal numbers first–sixth, weather labelling | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp.25–26 |
+| Cardinal numbers and personal information: numbers 0–20, phone numbers read digit by digit (0 = “oh”, “double” for repeats) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.9–10 |
+| The number challenge: cardinal numbers 21–100 (the -teen against -ty patterns and their spelling exceptions), hundreds, ID numbers read digit by digit, pronunciation tips (ee = [i:], y = [ɪ]) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.25–26 |
+| The numbers 1–20 | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.9 |
+| Numerical nomenclature 21–1000: cardinal AND ordinal numbers side by side (ten/tenth, twenty/twentieth, one hundred/hundredth, one thousand/thousandth, 100,000 hundred thousandth), with arithmetic number problems in English | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.15 |
+| Reading numbers aloud: cellphone numbers and identity-card numbers digit by digit, with a pronunciation transcription | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.15 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried
@@ -306,9 +328,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 32 countries (Egypt, India,
+**Acceptance count: taught in 33 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the

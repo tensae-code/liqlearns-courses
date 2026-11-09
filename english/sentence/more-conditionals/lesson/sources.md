@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia
 
 Every part traces to its book and page.
 
@@ -37,6 +37,10 @@ Syria, Ministry of Education. Filed in
 english/books/syria.md (FULLY READ + CITATION CHECK
 PASSED, as filed).
 
+**Book 8:** 12
+
+**Book 9:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -47,10 +51,13 @@ PASSED, as filed).
 | Inverted "Had she studied hard…" inside conditional types 2 and 3 | Nepal, English (secondary), Unit 2, Grammar II (as filed in nepal.md) |
 | Sentence mood including the subjunctive, in the strand's peak book — Grade 5 HL Workbook 2 is the set's only conditional book, and Grade 6 never revisits its peaks | South Africa, English Home Language Grade 5 Workbook 2 (as filed in south-africa.md) |
 | Inversion presented in full — after so/neither/nor, here/there, limiting adverbials, and conditional inversion ("Were I you") — Unit 12 of the year's grammar spine; Workbook prints the full presentation | Syria, Grade 12, Unit 12 "Digital Literacy", pp.90–97 (Workbook); Student's Book Unit 12, pp.116–123 |
+| If and unless — unless = if not, with the conditions family | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 28 |
+| Conditional sentences — the conditionals table inside the compendium's descriptive-texts unit | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 114 |
+| If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 115 |
 
-**Acceptance count: taught in 7 countries (Armenia,
+**Acceptance count: taught in 8 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria).** Armenia teaches mixed conditionals as a named
+Syria, Bolivia).** Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its

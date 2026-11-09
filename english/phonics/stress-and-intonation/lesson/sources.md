@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia
 
 Every part traces to its book and page.
 
@@ -39,6 +39,12 @@ Education and Training (Grade 11: ISBN
 (read in full; citation anchors filed in the country
 file).
 
+**Book 6:** 8
+
+**Book 7:** 10
+
+**Book 8:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -61,8 +67,12 @@ file).
 | Recorded defect, claimed nowhere: Worksheet 6's objectives promise the "th" sound, which is never taught in the worksheet or the book; the worksheet teaches the schwa, consonant clusters and s/z | Ecuador — Superior Sublevel text, Worksheet 6, honest negatives in english/books/ecuador.md |
 | Pronunciation strand as one system: strong and weak forms of auxiliary verbs (U1); elision of vowels — schwa omission, e.g. history, dictionary (U4); sentence stress and rhythm (U5); intonation in statements, commands, and lists — falling vs level-rising (U6); intonation in Wh- and Yes/No questions — falling vs rising (U7); intonation in invitations, suggestions, and polite requests — fall-rise (U8); intonation in choice questions (U9); intonation in question tags — falling vs rising (U10) | Vietnam — Tiếng Anh 11 (Global Success), Units 1, 4, 5, 6, 7, 8, 9, 10, as filed in english/books/vietnam.md |
 | Pronunciation strand: sentence stress and rhythm (U9); intonation in questions (revision, U10) — a summary table of Yes/No, Wh-, choice, and tag questions | Vietnam — Tiếng Anh 12 (Global Success), Units 9–10, as filed in english/books/vietnam.md |
+| Pronunciation tips — the book's pronunciation guidance: stress, sounds and saying words clearly | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 59–60 |
+| Pronunciation tips — the book's pronunciation guidance in its later units | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 49–50 |
+| Pronunciation and spelling — sound–spelling correspondences as exam guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 62 |
+| Pronunciation tips — the compendium's pronunciation guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 82 |
 
-**Acceptance count: taught in 5 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam).**
+**Acceptance count: taught in 6 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia).**
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the

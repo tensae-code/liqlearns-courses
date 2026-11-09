@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia
 
 Every part traces to its book and page.
 
@@ -49,6 +49,12 @@ NOT excluded: its outcomes and Language structures
 pp.24–26) carry a full sports set, and that evidence
 stocks this lesson below.
 
+**Book 6:** 5
+
+**Book 7:** 8
+
+**Book 8:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -58,9 +64,12 @@ stocks this lesson below.
 | Descriptions of football, basketball, badminton and volleyball, and boat-race roles (inside the unit's have to / has to teaching) | Cambodia, Grade 8, Unit 11 "We love to play sports," printed pp.74–79 |
 | Sports vocabulary, actions and results: football, basketball, volleyball, baseball, cricket; kick, hit, throw, catch, score, win, lose, come in first/last; points, goal, hoop — "You kick a ball"; "throw the ball into the hoop" | Albania, Akelius A2 Guide, Chapter 33 "Sports," outcomes and Language structures, printed pp.21–22 (PDF 24–25) — teacher-guide evidence (the chapter's printed Main vocabulary list is a misprint repeating the weather list and is cited nowhere; see the narrowed exclusion above) |
 | Match-report and coaching role-plays worked from the chapter's sports set | Albania, Chapter 33, Worksheets 1–2, printed pp.24–26 (PDF 27–29) — teacher-guide evidence |
+| The world of sports — sports by team size and rules: basketball, volleyball, tennis, badminton, football, racket, shooting, archery, boxing, gymnastics, weightlifting, swimming; Olympic, professional and amateur sport | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 9–11 |
+| Extreme sports — snowboarding, rappelling, skateboarding, mountain biking, caving, scuba diving, sky diving, bungee jumping, balloon tours, with difficulty ratings | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 56 |
+| Free-time activities — hobbies and sport with play, go and do: play soccer, go swimming, do athletics | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 19 |
 
-**Acceptance count: taught in 4 countries (Albania,
-Cambodia, Mexico, Mongolia).** Mexico carries the activity set inside its
+**Acceptance count: taught in 5 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia).** Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;

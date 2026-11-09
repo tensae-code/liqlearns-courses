@@ -155,6 +155,8 @@ PASSED 2026-11-03).
 **Book 43:** Over to You Workbook 12B, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
 **Book 44:** English for Today, Classes XI–XII & Alim (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. Re-read for the 2026-11-08 re-verification sweep (placements: liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md); this volume is not covered by the old filing in english/books/bangladesh.md.
 
+**Book 45:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -245,6 +247,9 @@ PASSED 2026-11-03).
 | PARTIAL - two model essays read as models: 'Umar's dream' and 'Nadia's dream' (a beekeeping essay), the Grade 11 book's only sustained writing models | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Unit 5, printed pp.34-35 |
 | The limit, stated plainly: Yemen has one planned essay lesson and two model essays, but no essay-structure teaching anywhere - no book names an introduction, body or conclusion for an essay, and Pupil's Book 6's honest negatives file no essay-writing teaching in the final book (its writing is set genres: description, news report, application letter, experiment write-up) | Yemen, the held set as filed in english/books/yemen.md (Workbook 4 and Pupil's Book 5 sections; Pupil's Book 6 honest negatives) |
 | An essay read as a model at the top of school: "Limits of the Scientific Method" — an essay on science's limits closing the Environment and Nature unit (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 5, printed p.235 |
+| What is an essay — the essay defined and its parts named | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 24 |
+| How to write an essay — the book's full writing procedure, step by step | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 57 |
+| How to write an essay — the steps and a labelled model essay, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 123 |
 
 **Acceptance count: taught in 21 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh).**
 Bolivia defines the essay and tables its general structure

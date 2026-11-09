@@ -85,6 +85,8 @@ PASSED 2026-11-04).
 Pearson Longman. Filed in english/books/kuwait.md (FULLY
 READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 15:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -101,6 +103,9 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | Reporting verbs and verb patterns, and impersonal reporting structures (It is said/believed that… and passive reporting patterns), with the Grammar Reference entry | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 6, pp.8–9; Grammar Reference, p.69 |
 | Reported speech introduced in a Look box (direct words beside "He said he wanted…"), then reporting with says for standing content ("Samira says her ambition is to expand") and further reported-speech practice | Sudan, SMILE Book 9 (Grade 9 Pupil's Book), Unit 5, Lesson 5, printed p.37; Unit 6, Lessons 4 and 7, printed pp.44 and 47 |
 | Reported speech (statements, with backshift practised by converting the bank-manager text); the grammar reference (pp.65–70) gathers tense, pronoun, time and place changes and other reporting verbs for the year | Kuwait, Over to You Student's Book 10B, Unit 9, pp.21–26; Reference files, pp.65–70 |
+| Direct speech — quoting the exact words, with quotation punctuation | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 14–15 |
+| Reported speech — backshift (the book's past-perfect row of the backshift chart prints the reported form as “she has taken” — taught corrected: she had taken) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 16–17 |
+| Reporting verbs — the reporting-verb set of the book's reported-speech unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 18 |
 
 **Acceptance count: taught in 9 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,

@@ -23,7 +23,7 @@ PASSED, as filed). Teacher's-guide evidence: the guide
 presents and keys the student's unit; cited as guide
 evidence throughout.
 
-**Book 4:** Year 6 English (student's book) — Bolivia.
+**Book 4:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (FULLY READ +
 CITATION CHECK PASSED, as filed).
 

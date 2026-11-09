@@ -58,6 +58,10 @@ english/books/libya.md (read 2026-10-25; the
 file's head banner stands — agent-assisted read, the
 10-citation spot-check still owed).
 
+**Book 10:** 11
+
+**Book 11:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -73,6 +77,11 @@ file's head banner stands — agent-assisted read, the
 | Concessives: although / despite / in spite of, with sentence transformation | Nepal, English Grade 10, Unit 9, printed pp.94–106 |
 | The however / whereas / while hunt in a text, and keyword rewrites with although and so that | Libya, Grade 12 Literary Workbook, Unit 8, Lessons 2–3, book pp.51–52 |
 | The comma rule for clause order, as filed for fronted if-clauses ("when we write the result clause first, there is no comma") | Libya, Grade 8 Teacher's Book, Unit 3 notes (as filed in libya.md) |
+| Contrast connectors BUT and HOWEVER — but joins two sentences mid-sentence with a comma; however starts the contrasting sentence | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 18 |
+| Adverb clauses of time — when, while, as soon as, before, after, with a comma when the clause comes first | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 27 |
+| Linking words by function — addition (and, also, moreover, furthermore, besides…), sequence (first, secondly, next, finally, then, before…), contrast (however, nevertheless, whereas, unlike…), cause and effect (because, due to, so, therefore, consequently…), example (for example, for instance, such as…), with punctuation notes | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 9–10 |
+| Linking words to relate events — because, and, until, then, before, after, that, but, so, while, since, with, to | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 61 |
+| When and while — linking words for time | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 65 |
 
 **Acceptance count: taught in 6 countries (Bolivia,
 Mauritania, Kuwait, Vietnam, Nepal, Libya).** Bolivia

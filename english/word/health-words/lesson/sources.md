@@ -8,7 +8,7 @@ Every part traces to its book and page.
 Filed in english/books/albania.md (Chapter 35 section, FULLY
 READ + CITATION CHECK PASSED).
 
-**Book 2:** Year 4 student's book (Grade 10) — Bolivia.
+**Book 2:** Year 4 English (the compendium's Year 4 covers Grade 10) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
 Filed in english/books/bolivia.md (Year 4 section, FULLY
 READ + CITATION CHECK PASSED).
 
@@ -32,6 +32,8 @@ liqlearns-courses-work/sweep-2026-11-08/english/
 bangladesh-placements.md); this volume is not covered by
 the old filing in english/books/bangladesh.md.
 
+**Book 6:** 10
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -45,6 +47,9 @@ the old filing in english/books/bangladesh.md.
 | Unit 10 "A Healthy Life": should/shouldn't for healthy habits — "What should you do to live a healthy life? I should (get up early / drink a lot of water / eat three meals a day). I shouldn't (eat too much junk food / stay up late)" — with aches in the reader's account | Saudi Arabia, We Can! 3 (Grade 3), Unit 10, printed pp.74–81 |
 | The senior health reading: "Storm and Stresses of Adolescence" — a reading on teenage stress opening the Adolescence unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Nine, Lesson 1, printed p.147 (stocked 2026-11-08 by the re-verification sweep) |
 | The senior fitness reading: "Fitness" — keeping fit, in the Lifestyle unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Ten, Lesson 4, printed p.185 (stocked 2026-11-08 by the re-verification sweep) |
+| Ancestral medicine — Bolivian ancestral medicine and its remedies, taught as a topic in English | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 43–44 |
+| Diseases — the illness and disease set of the book's health unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 51–52 |
+| Illness vocabulary — the compendium's illness set (adding earache, sore throat, cough, shiver, sneeze to the set the filing cited) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 84 |
 
 **Acceptance count: taught in 5 countries (Albania, Bolivia,
 Rwanda, Saudi Arabia, Bangladesh).** Albania carries the symptom set as a

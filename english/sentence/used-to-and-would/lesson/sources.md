@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia
 
 Every part traces to its book and page.
 
@@ -52,6 +52,10 @@ Student's Book — Afghanistan, Ministry of Education.
 Filed in english/books/afghanistan.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 11:** 11
+
+**Book 12:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | used to / didn't use to for past situations AND regular habits, often comparing past and present; would + infinitive for past habits and typical behaviour — NOT past situations; wouldn't for refusal | Egypt, Secondary 11, Term 2, Unit 9, Past Habits box, printed p.29 (via EGYPT-BOOK-MAP.md) |
@@ -67,10 +71,12 @@ CITATION CHECK PASSED 2026-11-03).
 | used to taught through a chart comparing Jane now with her mother at fifteen | Uzbekistan, English Matters 8, Unit 7 (printed pp.74–85), Lessons 3–4, printed p.76 |
 | used to and the past tense, opening unit | Uzbekistan, English Matters 9, Unit 1, Lessons 5–6, printed p.6 |
 | used to for past habits and states, with a parallel would + verb for repeated past actions — BUT the book also prints "Do not use used to in a question or a negative" | Afghanistan, English Grade 11, Unit 5, Grammar, printed pp.68–70 |
+| WOULD for past habits — would + verb for repeated past actions, with used to named alongside | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 32–33 |
+| USED TO — used to + verb for past habits and states that no longer happen | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 34 |
+| The modal WOULD — would for past habits, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 100 |
 
-**Acceptance count: taught in 7 countries
-(Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan).** One correction is recorded as the course
+**Acceptance count: taught in 8 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia).** One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by

@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
 
 Every part traces to its book and page.
 
@@ -148,6 +148,24 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 55:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 56:** 3
+
+**Book 57:** 4
+
+**Book 58:** 5
+
+**Book 59:** 7
+
+**Book 60:** 8
+
+**Book 61:** 10
+
+**Book 62:** 11
+
+**Book 63:** 12
+
+**Book 64:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -293,9 +311,29 @@ CITATION CHECK PASSED 2026-11-03).
 | Present continuous as the whole lesson's grammar — a full set of example sentences printed in the steps' margins, including a short birthday-party paragraph (Ligia's party; Natty taking pictures; children dancing, eating pizza, drinking lemonade) and negatives/interrogatives ("I'm not calling my mom", "He is swimming in the pool now") | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 7, guide printed pp.47–51 |
 | The two present forms named together as the body chapter's revision focus — "revision of simple present and present continuous" — over its printed example set of identification sentences and present-continuous actions | Albania, *Akelius A2 Level* teacher's guide, Chapter 31 overview, printed pp.10–11 |
 | Present simple and present continuous side by side in the nature chapter's printed example set — nature sentences in both forms, the outcomes naming description "in present continuous and present simple" | Albania, *Akelius A2 Level* teacher's guide, Chapter 38 overview, printed pp.48–49 |
-**Acceptance count: taught in 33 countries (Egypt, Ghana,
+| Daily activities in the simple present — routine verbs (wake up, get up, brush, have breakfast, study, play, watch TV, sleep) in first and third person | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp. 26–28 |
+| The present simple — daily-routine verbs with he/she -s (gets up, has breakfast, does homework…) | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 27–28 |
+| Time and daily activities — routine sentences with clock times (I get up at 7:00; she goes to school at 8:30) | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 27–29 |
+| Everyday activities — daily activities in the simple present, with the to be of the unit | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 41–42 |
+| Simple present, negative — don't/doesn't with daily activities (I don't watch TV; he doesn't play football) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 45–46 |
+| The simple present in full — third-person spelling rules (consonant + y to -ies; vowel + y to -s; -es after s/ch/sh/x/o), routines, do/does questions and short answers | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 33–38 |
+| The present continuous — -ing spelling rules (drop final -e; -ie to -ying; stressed-syllable doubling; UK/US -l doubling), affirmative and negative forms | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 43–45 |
+| The present continuous, interrogative — Am/Is/Are questions with short answers, on a shopping scene | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 57–58 |
+| The simple present (review) — the full review treatment: -s/-es/-ies endings, has/does/goes exceptions, negatives and questions | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 15–19 |
+| The present progressive — am/is/are + verb-ing, vs the present simple, in a tense-comparison unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 20–22 |
+| Tense review — present simple, present continuous, present perfect and the past tenses compared in one review unit | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 31–34 |
+| Review of the tenses — present, past and future compared in the book's closing review | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 41–42 |
+| The verb TO BE in the present — am/is/are, its jobs (identity, origin, profession, feelings, age, description), negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 11 |
+| The simple present — daily routines with third-person -s, questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 28 |
+| The present continuous — the time expressions this week, now, right now, at the moment, today, nowadays | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 32 |
+| The present continuous — verb-ing affirmative/negative/interrogative with short answers, and the verbs that never take it (think, believe, know, understand, like, want, need, love…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF pp. 41–42 |
+| Daily routines — the simple present and the past tenses in routine charts | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF pp. 69–70 |
+| The present continuous — the am/is/are + verb-ing chart | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 73 |
+| Present, past and future — the review charts of the three tenses | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 88–89 |
+| Review of the tenses — the compendium's review chart of present, past and future | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 109 |
+**Acceptance count: taught in 34 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's

@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia
 
 Every part traces to its book and page.
 
@@ -64,6 +64,10 @@ english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).
 
+**Book 11:** 8
+
+**Book 12:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -80,9 +84,12 @@ still owed).
 | Verbs + to-infinitive or -ing — the two starter lists: to (want, promise, need, refuse, decide; hope in the examples) / -ing (enjoy, finish, keep, avoid) | Egypt, Preparatory 9 Term 2, Unit 9, Tip p.42 (as filed in EGYPT-BOOK-MAP.md) |
 | Verbs + infinitive or -ing in FOUR classes: to only, -ing only, both with no change in meaning (love, like, hate, prefer, start, begin, continue), both WITH a difference in meaning (remember, forget, regret, stop, try) | Egypt, Secondary 10 Term 1, Unit 4 (p.63) (as filed in EGYPT-BOOK-MAP.md) |
 | Verb patterns as a system — to-infinitive vs gerund, meaning-change verbs (stop / remember / try / forget) drilled as the unit's grammar | Egypt, Secondary 12 Term 2, Unit 9, Lesson 3 (as filed in EGYPT-BOOK-MAP.md) |
+| Likes and dislikes with -ing — like/love/hate/enjoy + verb-ing, in hobbies and free time | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 37–38, 41 |
+|  Likes and dislikes in full — I/you/we/they like; he/she likes; do/does questions; -ing spelling rules (double consonant, drop -e, -ie to -y) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 39 |
+| Free time — I like + verb-ing for free-time activities | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 39 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam).** Cambodia
+**Acceptance count: taught in 7 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia).** Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives

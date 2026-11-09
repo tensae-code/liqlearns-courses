@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -136,6 +136,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 43:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
 
+**Book 44:** 5
+
+**Book 45:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -224,9 +228,11 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The house and its rooms as a whole lesson — bedroom, kitchen, bathroom, dining room, living room, hall, floor, washing machine, radio, television, clothes, watch, house, room, garden, roof, floor — with the continuous form introduced over them | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 10, guide printed pp.62–68 |
 | The house at work in the *going to* year — gapped dialogues D and K printed in Lesson 21's overview (work and home vocabulary, possessive 's, plans and vacation) | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 21, guide printed pp.131–138 |
 | The house vocabulary inside the year's opening lesson — the careers lesson's printed word set runs from astronaut to housewife | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, guide printed pp.4–9 |
-**Acceptance count: taught in 31 countries (Egypt, Libya,
+| Describing my house — rooms, furniture and garden words, saying where things are | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 12–13 |
+| Places and things of my house — rooms and furniture named and located | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 22 |
+**Acceptance count: taught in 32 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set

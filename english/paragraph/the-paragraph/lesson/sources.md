@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -146,6 +146,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 53:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full. The held copy ends at Lesson 24 Part 3.
 
+**Book 54:** 12
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -260,10 +262,11 @@ CITATION CHECK PASSED 2026-11-03).
 | Write your paragraph — a blank lined template page following the model, built from the friend-interview work of the same worksheet | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 4, printed p.30 |
 | The paragraph's core named in the guide's own steps — the Keep in mind note on the topic sentence and the main idea ("The topic sentence expresses the main idea of the paragraph"), with the scanning/skimming procedures printed in full around it and a titled reading worked for main idea, topic and topic sentence | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
 | Paragraph writing set as the year's real writing task — students write a paragraph about their group (Lesson 18, Part 4) and a group "dream vacation" paragraph (Lesson 24, Part 4); the guides set and guide the writing but print no model paragraph | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lessons 18 and 24, guide printed pp.109–115 and 152–158 |
+| The paragraph — what a paragraph is, inside the linking-words unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 10 |
 
-**Acceptance count: taught in 30 countries (Bangladesh,
+**Acceptance count: taught in 31 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia).** Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across

@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -114,6 +114,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 24:** *Fly High ENGLISH 5* (student's book) — Uzbekistan, O'qituvchi, Tashkent 2007, ISBN 978-9943-02-055-9. Filed in english/books/uzbekistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 25:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full.
+
+**Book 26:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 2 (Primaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 27:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
+
+**Book 28:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -356,7 +362,10 @@ sound is learned.
 | The alphabet A–Z as the book's first unit — each letter with its name in transcription and a pictured animal word (Aa for snake through Zz for zebra), letter recognition, copying the letters in a handwriting grid, spelling your own name aloud | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 1, printed pp.7–8 |
 | The alphabet re-taught in review — an ABC song and a 26-item alphabet caterpillar | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Learning Review for Units 1–6, printed pp.142–149 |
 | The alphabet taught inside the first lesson — the guide's steps work the alphabet points carried in the student book (student pp.13–14, Part K poster work) with spelling names aloud (W-I-L-L-I-A-M, S-A-M-M-Y) as the lesson's name work | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 1, guide printed pp.4–9 |
-**Acceptance count: taught in 28 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).**
+| The alphabet spelling: letter names pronounced (Aa “ei”, Bb “bi”… Zz “zed”), spelling and completing words | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.15–16 |
+| The alphabet and subject personal pronouns: spelling surnames (“How do you spell it?”), subject pronouns, the conjunctions and/or box, capital letters for proper nouns and “I”. Book error noted: the unit title misprints “PRONUONS” for pronouns | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.11–12 |
+| The alphabet and spelling names (the ABC song) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.9 |
+**Acceptance count: taught in 29 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung

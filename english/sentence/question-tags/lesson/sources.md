@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia
 
 Every part traces to its book and page.
 
@@ -53,6 +53,10 @@ CITATION CHECK PASSED 2026-10-26).
 Teacher's-book evidence only: the guide keys the student
 edition by page and reproduces no student lesson in full.
 
+**Book 9:** 12
+
+**Book 10:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-tags box in EIGHT RULES: positive → negative tag; negative → positive; same auxiliary; no auxiliary → do/does/did; "I am" → "aren't I"; everyone → singular verb but plural pronoun ("Everyone knows the answer, don't they?"); Let's → "shall we?"; imperatives → "will you? / won't you?" — filed as the fullest tag statement of Egypt's run | Egypt, Secondary 12 Term 2, Unit 12, Lesson 3 "School Life" (Language in Context) |
@@ -65,10 +69,12 @@ edition by page and reproduces no student lesson in full.
 | The Grammar Reference entry: tag questions, to check whether something is true or ask for agreement; negative tags after positive sentences ("Your family is big, isn't it? / You live with your parents, don't you?") | Mongolia, English VIII, Grammar Reference, pp.151–157 |
 | TAG QUESTIONS discovery and fill-the-tag sets ("You have already met your cousins, haven't you?") | Mongolia, English X, Module 2, Unit 4 "Personal Identity", pp.56–60 |
 | Tag questions in the present and past perfect, affirmative and negative, including the auxiliary HAVE chart worked in the steps — teacher's-guide evidence, with a gapped excerpt of the student dialogue printed in the steps' margin | Venezuela, My Victory Teacher's Book 4 (Grade 10), Lesson 21, guide printed pp.132–139 |
+| Tag questions — positive statement + negative tag and back, with intonation notes and short answers | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 11–12 |
+| Tag questions — the compendium's tag-question table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 111 |
 
-**Acceptance count: taught in 7 countries (Egypt,
+**Acceptance count: taught in 8 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela).** Egypt states the whole system in one
+Venezuela, Bolivia).** Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the

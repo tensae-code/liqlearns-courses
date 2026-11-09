@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia
 
 Every part traces to its book and page.
 
@@ -47,6 +47,14 @@ liqlearns-courses-work/sweep-2026-11-08/english/
 bangladesh-placements.md); this volume is not covered by
 the old filing in english/books/bangladesh.md.
 
+**Book 8:** 7
+
+**Book 9:** 9
+
+**Book 10:** 12
+
+**Book 11:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -65,9 +73,18 @@ the old filing in english/books/bangladesh.md.
 | A young life read for action: "The Greta Effect" — Greta Thunberg and youth climate action, in the Environment and Nature unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 2, printed p.221 (stocked 2026-11-08 by the re-verification sweep) |
 | A biography read whole: "The Wizard of Apple" — Steve Jobs (24 February 1955 – 5 October 2011) and Apple's turnaround, with a dialogue on his contribution to ICT as the lesson's writing | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Seven, Lesson 6, printed p.98 (stocked 2026-11-08 by the re-verification sweep) |
 | A biography read from a biography: "Jobs' Childhood," from Walter Isaacson's biography — the adopted, bored schoolboy and the teacher who motivated him | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Seven, Lesson 7, printed p.100 (stocked 2026-11-08 by the re-verification sweep) |
+| Famous people — reading and writing about famous people, with life facts in the past | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 31–32 |
+| Biographies of Bolivian heroes — Simón Bolívar, Remigio Etcheverry, Eduardo Cañoto: life stories as models | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 13–14 |
+| Be born and life dates — writing lives with was born, dates and places | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 19–20 |
+| Famous people — biographical writing on famous people, with life stories as models | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 43–44 |
+| Talking about famous people — short life texts (artists, scientists, footballers) with the past of to be | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF pp. 50–51 |
+| Genoveva Ríos — a national heroine's life as a biography model | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 92 |
+| Important people of Bolivia — short biographies of national figures | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 93 |
+| Speeches on national figures — a conversation about the footballer Remigio Etcheverry | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 116 |
+| Biographies of heroes and footballers — national biographies as writing models | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 117 |
 
-**Acceptance count: taught in 5 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh).** Egypt states the full
+**Acceptance count: taught in 6 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh, Bolivia).** Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a

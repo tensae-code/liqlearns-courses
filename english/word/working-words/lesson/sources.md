@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece
+countries: Greece, Bolivia
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -23,6 +23,10 @@ publication year printed). Filed in english/books/greece.md
 (Grade 11 (EPAL) — English for Office Clerks section, FULLY
 READ + CITATION CHECK PASSED).
 
+**Book 3:** 11
+
+**Book 4:** C
+
 | Lesson part | Where it comes from |
 |---|---|
 | The course shape: 22 units plus 2 revision units in 5 thematic sections — A Hotel Services (Units 1–8, pp.23–148), B Food and Beverage Service (Units 9–15), C Tourist Services (Units 16–20), D Jobs and Business Correspondence (Units 21–23), E Tourism (Unit 24); a glossary of approximately 2,000 words (printed pp.373–412) | Greece, Hotel and Tourist Trade, prologue (printed p.7) and contents (printed pp.10–20) |
@@ -32,8 +36,10 @@ READ + CITATION CHECK PASSED).
 | Unit 4 "Hotel Facilities (1)": the Athenian Hotel advertisement — 24-hour room service, salon, sauna, laundry, currency exchange; the board-basis set — half-board, full-board/American plan, European plan, bed and breakfast, continental vs English breakfast, self-catering | Greece, Hotel and Tourist Trade, Unit 4, printed pp.67–82 |
 | "Things to keep in mind": the anatomy of a business letter — headed notepaper, receiver's address, date, greeting, optional subject line, opening, body, complimentary close, signature — and the abbreviations of commercial correspondence | Greece, English for Office Clerks, preliminary section, printed pp.9–10 |
 | Unit 1 "Getting a job" (the school-leaver Maria Petrou's road into office work); Unit 2 "Communications and office practice" (choosing the channel: letter, memo, circular, notice board…); Unit 3 "Commercial correspondence – Exports": one full transaction in model letters — inquiry, order, acknowledgement, complaint — each with its standard phrases; the final alphabetical Vocabulary | Greece, English for Office Clerks, Units 1–3, printed pp.13–211; Vocabulary printed pp.375–405 |
+| Working tools — the factory tool set in a reading (wrench, measuring tape, screwdriver — the book prints “Tap measure” for tape measure, taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 14 |
+| Factory working tools and electrical tools — the mechanical set and the electrical set (voltmeter, ammeter, ohmmeter, multimeter, wire stripper, pliers, screwdrivers, soldering iron, oscilloscope, cable cutter…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 91–92 |
 
-**Acceptance count: taught in 1 country (Greece).** This is
+**Acceptance count: taught in 2 countries (Greece, Bolivia).** This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the whole stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and

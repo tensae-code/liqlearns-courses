@@ -128,6 +128,14 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 52:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 53:** 5
+
+**Book 54:** 6
+
+**Book 55:** 9
+
+**Book 56:** 10
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -270,6 +278,17 @@ CITATION CHECK PASSED 2026-11-03).
 | Past simple against past continuous — regular against irregular (cleaned, played against went), the continuous with *when* and *while* for simultaneous and interrupted actions, and a complete short paragraph printed in the guide for the teacher to read aloud, with its three comprehension questions | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 6, guide printed pp.35–41 |
 | The past system worked through printed fragments — a verb table printed from a reading (hit, was, affected, left, died, disappeared, evacuated, received), gapped listening sentences printed with their answers, and a printed past-time-expressions table (yesterday, last night/week …, … ago, in 1945) | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 1, guide printed pp.4–9 |
 | Past continuous with *when/while* in the cinema lesson — the *Hermano (Brother)* reading printed in full as a handout, and Activity I printed in full (verb-ing and past-continuous completions) | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 3, guide printed pp.17–22 |
+| The past of TO BE — was/were for people and places in the past | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 21–22 |
+| The simple past in sentences — past-time sentences with yesterday, last week, ago | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 23–25 |
+| Regular verbs in the past — -ed, -d, consonant + y to -ied, doubled final consonant, with ago time markers | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 19–21 |
+| The past of TO BE — was/were + place/time phrases (I was at home) | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 22–23 |
+| Life stories in the past — past-tense narration of lives, with time order | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 7–12 |
+| Irregular verbs, first set — the irregular past forms introduced (the reading prints “She forgot his backpack” — taught corrected: her backpack) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 16–17 |
+| The past on vacation — regular -ed spelling (y to ied, doubled consonant), negatives with did not/didn't, Did…? questions | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 25–30 |
+| The simple past (review) — the book's review treatment of regular and irregular past | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 8–9 |
+| Questions with BE in the past — Was/Were questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 50 |
+| When were you born? — be born, and at/in/on with times and dates | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF pp. 52–53 |
+| The past auxiliary DID — did in questions and negatives | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 56 |
 **Acceptance count: taught in 30 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).** Mongolia boxes the -ed frame and drills the

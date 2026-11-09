@@ -12,11 +12,14 @@ Every part traces to its book and page.
 
 **Book 4:** *English Matters* Student's Book 9 — Uzbekistan, Macmillan Education (Uzbek-approved edition; Book 9 first published 2003, ISBN 978-1-4050-1255-3). Filed in english/books/uzbekistan.md (as filed).
 
+**Book 5:** 10
+
 | Lesson part | Where it comes from |
 |---|---|
 | The future continuous carried in Secondary 11 Term 2's future work | Egypt, Secondary 11 Term 2 (as filed in EGYPT-BOOK-MAP.md) |
 | FUTURE CONTINUOUS heading — affirmative, negative and interrogative — with a writing task of five sentences about the following week ("I will be travelling to Santa Cruz the next Monday") | Bolivia, teacher compendium, Year 4 Topic 5.2 and the FUTURE CONTINUOUS section (as filed in english/books/bolivia.md) |
 | Future continuous in Unit 5's grammar run, beside the future perfect forms | Malaysia, Form 5, Unit 5 (as filed in english/books/malaysia.md) |
 | Future progressive (future continuous) taught in the secondary grammar peak | Uzbekistan, English Matters 9, Unit 2 (as filed in english/books/uzbekistan.md) |
+| The future continuous — the student book's full treatment (the book models the negative throughout as “will be not + verb-ing” — “I will be not dancing” — taught corrected: will not be dancing, the order the compendium prints) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 52–55 |
 
 **Acceptance count: taught in 4 countries (Egypt, Bolivia, Malaysia, Uzbekistan).**

@@ -137,6 +137,10 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 57:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 58:** 6
+
+**Book 59:** 10
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -253,6 +257,8 @@ CITATION CHECK PASSED 2026-11-03).
 | WILL as the guide's one named future form — Chapter 35's grammar focus: "future tense (will) for personal plans, preferences and predictions", with a full printed example run ("Your temperature is very high. I will check if you have a fever"; "Will the patient feel better soon?"; "I don't feel well so I will go to the doctor") | Albania, *Akelius A2 Level* teacher's guide, Chapter 35 overview, printed pp.32–33 |
 | Will reinforced in the birthday chapter's outcomes — "use will for upcoming birthdays and party plans" — with printed examples ("The guests will arrive at three o'clock") | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 overview, printed pp.61–62 |
 | GOING TO in example sentences only — never a named focus anywhere in the guide: "It's sunny now, but it's going to rain in the evening" (weather chapter); "The fastest person is going to win" (sports chapter); "My tooth hurts, so I am going to see the dentist" (appointment chapter) — filed as examples only, not as taught grammar | Albania, *Akelius A2 Level* teacher's guide, Chapter 32 overview, printed p.17; Chapter 33 overview, printed p.22; Chapter 34 overview, printed pp.27–28 |
+| Going to for plans — be going to + verb for plans and predictions | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 12–13 |
+| Be going to — the student book's full treatment: plans, intentions and predictions, with the future-time words (the book's going-to question table swaps the he/she short answers — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 25–28 |
 **Acceptance count: taught in 29 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
