@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -56,6 +56,20 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 17:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 18:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 19:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -77,9 +91,13 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Writing a descriptive text — the charity shop described whole | Indonesia, English for Nusantara Grade 9, Chapter 4, printed p.244 |
 | Describing an athlete and writing the description — present simple with physical-description words, over a great athlete | Indonesia, Work in Progress Grade 10, Chapter 1 "Great Athletes," printed p.3 |
 | A teacher-guide unit, "Today's Life," in which people and daily life are the speaking and writing ground, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 5, printed p.187 — teacher-guide evidence only; no student text exists for this unit in the set, so no description content is cited from it |
+| Describing people: height and build, hair and eyes, wearing clothes, has got — what does she look like | Mauritania, Study English, Grade 7, printed pp.37–39 |
+| Identifying people by clothes and accessories: the girl in a veil, the boy with curly hair (in + clothes, with + body/accessories) | Mauritania, Study English, Grade 7, printed pp.40–41 |
+| Describing and identifying people, with who/whose/that/which used in the descriptions | Mauritania, Study English, Grade 9, printed pp.9–12 |
+| Character and personality: what is he/she like — sociable, humble, open-minded, easy-going, nervous, and their opposites | Mauritania, Study English, Grade 9, printed pp.13–16 |
 
-**Acceptance count: taught in 8 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia).** Cambodia carries the
+**Acceptance count: taught in 9 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania).** Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -102,3 +120,7 @@ Grade 9, and an athlete described whole in Grade 10
 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania describes people in Grade 7 (looks and clothes) and
+again in Grade 9 (who/whose descriptions and character words)
+(stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -10,6 +10,13 @@ explains one thing only.
 **Country:** Libya · **Book:** English for Libya, Primary 2 Pupils
 Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 122 pp, image-only — read as pages).
+
+**Country:** Mauritania · **Book:** Study English, 1st Year
+Secondary School (Student's Book) (Ministry of National
+Education and Educational System Reform / IPN, 2025 printing;
+re-read page by page in the 2026-11-08 re-verification sweep —
+the english/books/mauritania.md filing covers the 6th Year
+book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,6 +46,8 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | The frame itself, in the opener's grammar: "What's his/her name? / His/Her name's…" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.4 |
 | The family version — "Who's he? — He's my grandpa / Who's she? — She's my mother / Who are they? — They're my sisters" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed p.10 |
 | "What's his/her name?" in the school opener, with the possessives his/her | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
+| Asking about another person: what's his/her name, where is he/she from, where does he/she live, how old is he/she | Mauritania, Study English, Grade 7, printed pp.16–19 |
+| Talking about others at length — name, origin, residence, parents' jobs, and a fuller nationality list | Mauritania, Study English, Grade 7, printed pp.42–45 |
 
 **Correction note (2026-11-08, whole-arc audit):** the
 lesson text previously stated the answer "is just the name."
@@ -49,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 14 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador).**
+**Acceptance count: taught in 15 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -75,6 +84,10 @@ its Grade 4 book names father's name among the items of
 its personal-information exchange.
 Counts grow as other closed countries' books are read.
 Nepal joined 2026-11-03 with Libya's form itself: its Grade 1 book asks "What's her/his name?" inside its first unit's naming work (Unit 1, printed pp.1–6), and its Grade 2 book asks "What's his name?" inside its occupations unit (Unit 2, printed pp.8–12).
+Mauritania asks about another person whole — name, origin,
+home, age — and talks about others at length in its Grade 7
+book (stocked 2026-11-09 by the Mauritania re-verification
+sweep merge).
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (PEP), Grade 3 Volume 2* — China, People's

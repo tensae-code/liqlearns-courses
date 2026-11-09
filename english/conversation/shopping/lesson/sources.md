@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -47,6 +47,13 @@ lesson: Goal 80 sits in the copy's Workbook Goals 65–96.
 
 **Book 12:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 13:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 1 "Shops And Shopping": shop words and the dialogue frame "Can I help you? / I want to buy …, please / Anything else? / No, thanks" (Unit 1, Selling Food) | Cambodia, Grade 5, Chapter 1, Unit 1, printed pp.8–11; the frame's "Can I help you?" is a citation anchor at printed p.10 |
@@ -66,9 +73,10 @@ lesson: Goal 80 sits in the copy's Workbook Goals 65–96.
 | Buying and selling phrases, with asking and stating a price (a 5,000-rupiah pencil case) | Indonesia, English for Nusantara Kids Grade 5, printed p.91 |
 | Grocery-shopping vocabulary — units, weight and volume words for food shopping | Indonesia, English for Nusantara Grade 7, Chapter 2, printed p.74 |
 | Asking and saying prices — "How much is it? It is 50,000 rupiahs" | Indonesia, English for Nusantara Grade 9, Chapter 4, printed p.230 |
+| Shopping and identifying things: can I have that jacket, which one, how much is it / are those, prices in MRU | Mauritania, Study English, Grade 7, printed pp.23–24 |
 
-**Acceptance count: taught in 8 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 9 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -95,3 +103,6 @@ and asking and saying prices in Grade 9 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania shops in its Grade 7 book — identifying things and
+prices in ouguiya (MRU) (stocked 2026-11-09 by the Mauritania
+re-verification sweep merge).

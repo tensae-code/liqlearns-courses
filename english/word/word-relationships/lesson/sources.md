@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania
 
 Every part traces to its book and page.
 
@@ -39,6 +39,14 @@ READ + CITATION CHECK PASSED).
 
 **Book 8:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 9:** English Guide, 1st Year Secondary School
+(Teacher's Guide) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Teacher evidence: the guide samples one
+lesson per unit (its own printed p.7) and gives plans and keys
+for the student book. Re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -57,9 +65,10 @@ READ + CITATION CHECK PASSED).
 | The opening lesson's word set | Iran, Vision 2 (Grade 11), Lesson 1, New Words & Expressions, printed pp.15–47 |
 | Synonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 1, Vocabulary Development, printed p.27 |
 | Antonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 3, Vocabulary Development, printed pp.81–107 |
+| Synonyms and antonyms named as taught content for describing things, in the guide's Unit Eight content list (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.25 |
 
-**Acceptance count: taught in 6 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 7 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -75,3 +84,6 @@ sort: word webs in Grades 5 and 6, word families and
 opposites, and sorting words into categories (stocked
 2026-11-08 by the re-verification sweep). Other closed countries join as
 their books are read (see READING-QUEUE.md).
+Mauritania's Grade 7 teacher guide names synonyms and antonyms
+as taught content (teacher evidence; stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).

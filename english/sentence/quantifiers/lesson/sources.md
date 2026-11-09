@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania
 
 Every part traces to its book and page.
 
@@ -45,6 +45,13 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 
 **Book 10:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 11:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -61,15 +68,17 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 | Some and any — some in positives, any in negatives and questions, for countable and uncountable nouns (the book's own there-is negative model prints “There is not some milk”, which its some/any section itself corrects to any) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 35 |
 | Some and any — the compendium's some/any presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 38 |
 | The first one/many counting of things, in the classroom: "One blackboard, one TV, many desks and chairs" | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.5 |
+| Quantity words: many/much (countable against uncountable), few/a few, little/a little | Mauritania, Study English, Grade 8, printed pp.17–18 |
+| Containers and partitives — a packet/kilo/slice/piece/loaf/sack/tin/can/bottle/glass/cup of — with the meal words starter/main course/dessert (the book glosses dessert as food taken "before or after" the main course — dessert comes after; taught corrected) | Mauritania, Study English, Grade 8, printed pp.18–19 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 9 countries (Bolivia,
+**Acceptance count: taught in 10 countries (Bolivia,
 Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal, China).** Cambodia runs the whole family across three
+Nepal, China, Mauritania).** Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -83,3 +92,6 @@ stocks the family in Pearls 7A. China carries the
 strand's first step: one against many, counted over the
 classroom's own things in Grade 4 (stocked 2026-11-08 by
 the re-verification sweep).
+Mauritania teaches the quantity words and the containers set
+in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).

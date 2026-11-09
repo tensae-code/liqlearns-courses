@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -48,6 +48,20 @@ the old filing in english/books/bangladesh.md.
 
 **Book 13:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Let's Elevate Our English, Edisi Revisi 2024*, Grade 11 teacher guide — Indonesia, Kemendikbudristek, ISBN 978-623-388-212-5. TEACHER GUIDE ONLY — a different book from the 2021 student book, sharing no unit with it; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 14:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 15:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -72,9 +86,11 @@ the old filing in english/books/bangladesh.md.
 | The vocabulary of the lesson's reading: the healthy-lifestyle word set | Iran, Vision 2 (Grade 11), Lesson 2, New Words & Expressions, printed pp.49–79 |
 | A workbook-only reading on modern lifestyle and technology: easy access, creativity and fast communication set against the harm — blood pressure, sleep problems, gaming, headset hearing harm — facts only | Iran, Vision 2 Workbook (Grade 11), Lesson 2, Part I Reading, printed pp.27–29 (workbook-only text; not in the student book) |
 | A teacher-guide unit on staying healthy — health-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 4, printed p.223 — teacher-guide evidence only |
+| Obligation and health advice — must/mustn't, should, have to — with the illness words (sore throat, bad cough, fever, stomachache, sprained ankle) | Mauritania, Study English, Grade 7, printed pp.66–68 |
+| The health discussion lesson: an HIV/AIDS dialogue — describing, adjectives against adverbs of manner, and prevention talk (the book itself makes the text's subject a lesson) | Mauritania, Study English, Grade 11, printed pp.24–26 |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia).** Albania carries the symptom set as a
+**Acceptance count: taught in 9 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -99,3 +115,6 @@ topic level in its Grade 11 teacher guide — teacher-
 guide evidence only (stocked 2026-11-09 by the
 re-verification sweep merge). Other closed countries join as their books are read
 (see READING-QUEUE.md).
+Mauritania advises on illness in Grade 7 and discusses
+HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).

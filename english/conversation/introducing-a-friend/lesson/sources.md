@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -10,6 +10,20 @@ explains one thing only.
 **Country:** Libya · **Book:** English for Libya, Primary 1,
 Teacher's Book (CERC / Ministry of Education, Libya; verified on
 disk 2026-10-25: %PDF, 190 pp).
+
+**Country:** Mauritania · **Book:** Study English, 1st Year
+Secondary School (Student's Book) (Ministry of National
+Education and Educational System Reform / IPN, 2025 printing;
+re-read page by page in the 2026-11-08 re-verification sweep —
+the english/books/mauritania.md filing covers the 6th Year
+book only).
+
+**Country:** Mauritania · **Book:** English Guide, 1st Year
+Secondary School (Teacher's Guide) (Ministry of National
+Education and Educational System Reform / IPN, 2025 printing;
+re-read page by page in the 2026-11-08 re-verification sweep —
+the english/books/mauritania.md filing covers the 6th Year
+book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -78,7 +92,9 @@ how-old-are-you), not here.
 | The frame on family — “This is my family” — as a numbered lesson of the All about me unit | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, printed p.13 |
 | “This is my friend” — the frame as a review lesson's own title, worked as a full personal letter with 19 gaps | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Learning Review for Units 1–6, printed pp.142–149 |
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
-**Acceptance count: taught in 28 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela).**
+| Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
+| The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
+**Acceptance count: taught in 29 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -137,6 +153,10 @@ the Egypt sections below were already in the file but missing
 from the count.)
 Nepal joined 2026-11-03: its Grade 2 book presents a friend by name and role — "Who is she? She is my friend, Preeti" (Unit 2, printed pp.8–12) — its Grade 7 book names introducing others as its first unit's speaking work (Unit 1, printed pp.1–9), and its Grade 6 teacher's guide does the same in its own first unit, cited for its own teaching as a guide to a different, unheld textbook (Unit 1, printed pp.5–11).
 Armenia joined 2026-11-03: its Grade 3 book introduces another person by name with "This is …" from its first lesson (Starter Unit, Lesson 1, printed p.3), then "This is Jack" in the classmates lesson (Unit 1.1 "My Classmates", printed pp.9–32).
+Mauritania introduces other people in its Grade 7 book, and
+its teacher guide adds the formal/informal register of
+introductions as teacher evidence (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Egypt Primary 2 Term 1 added 2026-10-25** (same country, the
 next-year layer): *English — Primary 2 — Term 1* (MoE Egypt with the

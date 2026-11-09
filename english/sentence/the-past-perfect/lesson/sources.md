@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania
 
 Every part traces to its book and page.
 
@@ -26,6 +26,13 @@ Every part traces to its book and page.
 
 **Book 11:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 12:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -41,5 +48,9 @@ Every part traces to its book and page.
 | The past perfect — had + past participle, for the earlier of two past actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 52–53 |
 | The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
 | The past perfect in talk: the lesson's Listening & Speaking work | Iran, Vision 3 (Grade 12), Lesson 3, Listening & Speaking, printed p.89 |
+| The past perfect: had + past participle, affirmative, negative and questions (the pollution text's vocabulary box glosses "exhausts" as "extremely tired" — in the text they are vehicle and factory emissions; taught corrected) | Mauritania, Study English, Grade 11, printed pp.52–54 |
 
-**Acceptance count: taught in 10 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran).** Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania).** Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+Mauritania teaches the past perfect in its Grade 11 book, over
+a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).

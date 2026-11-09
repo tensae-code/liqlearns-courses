@@ -68,6 +68,20 @@ file's head banner stands — agent-assisted read, the
 
 **Book 14:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 16:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -92,6 +106,8 @@ file's head banner stands — agent-assisted read, the
 | Transitional words — addition, contrast, illustration, sequence inside the exposition unit | Indonesia, English for Change Grade 11, Unit 2, printed p.39 |
 | Internal conjunction and relational processes, in the argument work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 4, printed pp.138–139 |
 | Temporal connectives — first, then, after that — in the narrative work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 5, printed p.165 |
+| Sentence connectors joining main and subordinate clauses: and, but, because, however, besides (the book's own example prints a semicolon before because — "We didn't have class; because the teacher was absent"; taught corrected) | Mauritania, Study English, Grade 11, printed pp.31–33 |
+| Coordinating conjunctions — FANBOYS: for, and, nor, but, or, yet, so — joining equal words, phrases and clauses | Mauritania, Study English, Grade 13, printed pp.11–13 |
 
 **Acceptance count: taught in 7 countries (Bolivia,
 Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia).** Bolivia
@@ -116,3 +132,6 @@ Grade 8 "when" clauses, Grade 11 transitional words,
 internal conjunction with relational processes, and
 temporal connectives (stocked 2026-11-09 by the
 re-verification sweep merge).
+The sweep also stocked Mauritania's Grade 11 sentence
+connectors and Grade 13's FANBOYS conjunctions (stocked
+2026-11-09 by the Mauritania re-verification sweep merge).

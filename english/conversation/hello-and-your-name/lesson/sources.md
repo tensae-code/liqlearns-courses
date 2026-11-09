@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -26,6 +26,13 @@ side by side on one PDF page — that was wrong.
 **Book 4:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 12 (Secundaria 6) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
 **Book 5:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
+**Book 6:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -165,7 +172,9 @@ rendered page the same day).
 | Countries and nationalities with the verb to be in full — “Where are you from? — I'm from Bolivia/Brazil” — affirmative, negative with not, questions by inversion, short answers, contractions | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.13–14 |
 | Greeting customs: some people shake hands, wave, hold hands, high five, hug, kiss once, kiss twice | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p.56 |
 | Target-language greeting customs, adding “some people bow” to the student book's set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p.122 |
-**Acceptance count: taught in 33 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
+| Greetings and leave-taking: hello/hi, how are you, I'm fine, goodbye/bye-bye | Mauritania, Study English, Grade 7, printed pp.9–10 |
+| Talking about yourself: my name is…, I am from…, I live in…, my nationality | Mauritania, Study English, Grade 7, printed pp.13–15 |
+**Acceptance count: taught in 34 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -230,6 +239,9 @@ joins this list, and the count grows — that count is the acceptance
 points.
 Nepal joined 2026-11-03: its Grade 1 book opens on the exchange itself — "Hello, what's your name?" with "I'm …" answers (Unit 1, printed pp.1–6) — its Grade 2 book re-opens on "Hello! I'm Mr. Gurung. What is your name? My name is Pukar" (Unit 1, printed pp.1–7), and its Grade 6 book carries greetings, introductions and leave-taking as a whole unit's dialogues (Unit 5, printed pp.38–47).
 Armenia joined 2026-11-03: its Grade 3 book opens on meeting and naming — Starter Lesson 1, "Let's meet Nare!" (printed p.3) — and introduces others by name, "This is Jack", in Unit 1, "My Friends and I" (printed pp.9–32).
+Mauritania's Grade 7 book opens with the greeting exchange and
+the talking-about-yourself frame (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Egypt KG2 added 2026-10-25** (same country, the recall layer):
 English KG2 Term 1, book p.2 — a page headed "Greetings — Listen,

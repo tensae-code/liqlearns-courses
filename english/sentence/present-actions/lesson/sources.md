@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -171,6 +171,13 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 66:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 **Book 67:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA Kelas XI) student book — Indonesia, Kemendikbudristek, first edition 2021, ISBN 978-602-244-863-1 (limited use in Sekolah Penggerak schools; single author Rida Afrilyasanti). The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 68:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -343,9 +350,13 @@ CITATION CHECK PASSED 2026-11-03).
 | Study-habits talk — the present simple worked over how you study | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.183 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The present tense revised in context, as a unit's mind-map grammar | Indonesia, English for Change Grade 11, Unit 2, printed p.46 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The simple present as a Grammar Focus forms table (the table prints the singular question as "Does vaccine saves millions of lives each year?" — a book error; the course teaches the corrected "Does vaccine save…", and the error is recorded here, never taught as fact) | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11 (2021 edition), Unit 4, Grammar Focus, printed p.136 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 34 countries (Egypt, Ghana,
+| The verb be in the present (am/is/are and contractions), with the adjectives good/fine/okay | Mauritania, Study English, Grade 7, printed pp.9–10 |
+| The simple present of ordinary verbs, full paradigm — affirmative, negative with do/does not, questions with do/does, third-person -s | Mauritania, Study English, Grade 7, printed p.21 |
+| The simple present of live and have, all persons, affirmative and negative | Mauritania, Study English, Grade 7, printed p.47 |
+| Daily routine and habitual actions in the present, with the sequencers then / after that (the book's remember box in this span, printed p.59, prints the wrong third-person models "she write, it write"; taught corrected — she writes, it writes) | Mauritania, Study English, Grade 7, printed pp.58–60 |
+**Acceptance count: taught in 35 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -361,6 +372,10 @@ the every-day face over routines and the third-person
 -s in Grade 3, sets the two faces against each other
 in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across primary — routines and frequency in Grade 4, the full simple paradigm and the simple/continuous contrast in Grade 5, and both boxes restated in Grade 6. Kazakhstan teaches both faces whole at Grade 5 in two series at once — the simple in full, the continuous in full, and the two contrasted — and sets them against each other again, stative verbs noted, in Grade 6's Full Blast!. Iraq carries the continuous in two whole printed emails in Grade 3, teaches it for actions now in Grade 4, sets the simple against the continuous as a choice in Grade 6, and re-tables both in Grade 10. Ethiopia teaches the present continuous from Grade 3 with its printed be + V-ing formula, defines it for things happening at the time of speaking in Grade 4, pairs it with the simple present in Grade 6, and revisits it including its future use in Grade 9. South Africa stocks both faces in full: the present continuous arrives at the very start, in Grade 1 FAL's "I am writing" classroom-action frame, is taught in sentences in Grade 5 HL, and is revised with the past continuous in Grade 6 HL, while the present simple runs through every book from Grade 2 HL's opening am/is/are gap-fills. Syria introduces the present continuous in Grade 2 beside present-simple routines, sets usually against now as an explicit tense contrast in Grade 3, and teaches the simple for facts, the continuous, and the two contrasted in Grade 6. South Sudan joined 2026-11-03, for the every-day face in full and the right-now face not at all: its Secondary 1 Student's Book teaches the present simple whole in Unit 1, with the don't/doesn't negatives stated in its Teacher's Guide, while the present continuous is never taught as a topic in its primary books — it appears there in captions and model texts only, and is not counted as teaching here. Nepal carries both faces from the first year — the present continuous whole in Grade 1, extended in Grade 2, the simple present and the continuous contrasted in Grade 6 and again in Grade 7, the continuous taught twice in Grade 9, and the four present tenses gathered in Grade 8Armenia teaches the present simple as a full system in Grade 4, sets the two presents against each other in Grade 6, and revises the present tenses whole in Grade 12. Kuwait teaches the present simple whole in Grade 7, present-simple negatives in Grade 3, and the present continuous in Grades 4, 6 and 7, with the continuous also used for future plans in Grade 7. Rwanda carries present-simple routine frames in Primary 1, boxes -ing forms for things happening now and the continuous for picture description in Primary 2, and names both the Present Continuous and the Present Simple in Primary 6. Other closed countries join as their books are read
 (see READING-QUEUE.md).
+Mauritania builds the whole present-tense base in its Grade 7
+book — be, the full simple-present paradigm, live/have, and
+the daily-routine present (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania
 
 Every part traces to its book and page.
 
@@ -46,6 +46,13 @@ english/books/china.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-29). Example evidence only: China stocks
 the make + person pattern, not the have/get system.
 
+**Book 8:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CAUSATIVE box as one system: have + person + infinitive, get + person + to + infinitive; passive have/get + object + past participle ("She is getting her eyes checked"); and MAKE (forced), LET and ALLOW (permission) beside them | Egypt, Secondary 12 Term 1, Unit 5, Lesson 3 (Language in Context, pp.74–76) (as filed in EGYPT-BOOK-MAP.md) |
@@ -55,9 +62,10 @@ the make + person pattern, not the have/get system.
 | Causative verbs — have/get something done; make/let/have/get someone do (Grammar I) | Nepal, English Grade 8, Unit 6, printed pp.64–78 |
 | Active and passive causatives (have/get + someone + bare/to-infinitive; have/get + something + past participle) | Vietnam, Tiếng Anh 12, Unit 6 "Artificial intelligence", pp.76–87 |
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
+| The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 5 countries (China,
-Egypt, Malaysia, Nepal, Vietnam).** Egypt states the
+**Acceptance count: taught in 6 countries (China,
+Egypt, Malaysia, Nepal, Vietnam, Mauritania).** Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -69,3 +77,7 @@ at Grade 12. China is counted for its make + person
 pattern only, which this lesson uses as an example
 inside make — it stocks nothing of the have/get
 system, and no part of the lesson claims it does.
+Mauritania teaches the causative whole in its Grade 13 book —
+have/get someone to do, have/get something done, and the
+experienced causative (stocked 2026-11-09 by the Mauritania
+re-verification sweep merge).

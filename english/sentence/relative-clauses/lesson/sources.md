@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -94,6 +94,21 @@ CHECK PASSED 2026-11-03).
 
 **Book 19:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 20:** English Guide, 1st Year Secondary School
+(Teacher's Guide) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Teacher evidence: the guide samples one
+lesson per unit (its own printed p.7) and gives plans and keys
+for the student book. Re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 21:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -118,10 +133,12 @@ CHECK PASSED 2026-11-03).
 | Relative clauses as the lesson's grammar | Iran, Vision 3 (Grade 12), Lesson 2, Grammar, printed p.57 |
 | The grammar practised in the workbook: relative-clause exercises | Iran, Vision 3 Workbook (Grade 12), Lesson 2, Parts II–IV, printed pp.31–42 (workbook mirror of the student lesson) |
 | Adjective (relative) clauses, in the fairy-tale unit's language work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.90 |
+| Identifying people with whose-relative clauses, in the guide's own practice answers (teacher evidence; one printed answer, "The man whose car under the tree is a director", drops the verb — book error, taught corrected) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.29 |
+| Describing and identifying people with who and whose (the exercises repeat the Grade 9 book's set) | Mauritania, Study English, Grade 10, printed pp.25–26 |
 
-**Acceptance count: taught in 12 countries (Cambodia,
+**Acceptance count: taught in 13 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia, Mauritania).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -146,3 +163,7 @@ flag 1 of the sweep's China diff). Uzbekistan is
 NOT counted: its English Matters 8 relative-clause
 evidence is one gap-fill exercise with no rule, which
 does not meet this lesson's taught-as-a-system bar.
+Mauritania practises whose-clauses in its Grade 7 teacher
+guide (teacher evidence) and who/whose descriptions in Grade
+10 (stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

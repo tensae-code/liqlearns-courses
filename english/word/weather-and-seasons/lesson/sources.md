@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania
 
 Every part traces to its book and page.
 
@@ -69,6 +69,13 @@ as filed).
 
 **Book 16:** English for Schools — Prospect 2, Grade 8 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 17:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -96,9 +103,10 @@ as filed).
 | The five-season picture talk — spring, summer, autumn, winter and the snowy-season page | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.18 |
 | Seasons and weather talk: the seasons and the weather words asked as "What's the weather like in…? — It's sunny" and "Is it cold in winter? — Yes, it is" | Iran, Prospect 2 (Grade 8), Lesson 6 "My Village," weather strand, printed pp.48–53 |
 | The village, seasons and weather set practised in reading and writing exercises, including making weather flashcards | Iran, Prospect 2 Workbook (Grade 8), Lesson 6, printed pp.31–40 (workbook mirror of the student lesson) |
+| The season words — spring, summer, autumn/fall, winter (a vocabulary list only) | Mauritania, Study English, Grade 7, printed p.45 |
 
-**Acceptance count: taught in 9 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran).** Albania —
+**Acceptance count: taught in 10 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania).** Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -122,3 +130,6 @@ talk inside its Grade 8 village lesson, with weather
 flashcards in the workbook (stocked 2026-11-09 by the
 re-verification sweep merge). Other closed countries join as their books are read
 (see READING-QUEUE.md).
+Mauritania names the four seasons in a Grade 7 vocabulary list
+(stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

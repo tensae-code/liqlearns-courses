@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -142,6 +142,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 62:** C
 
+**Book 63:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The PASSIVE discovery — the active/passive pair ("Edison invented the light bulb in 1879." → "The light bulb was invented by Edison in 1879.") and the rule as printed: "The passive is formed with be + past participle," + transformations | Mongolia, English X, Unit 6 "Inventions," p.86 |
@@ -266,10 +273,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The passive voice — passive examples across the tenses (past simple, present continuous, present perfect, future will, past continuous, going to, modal must), each paired with its active | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 39 |
 | Impersonal passive expressions — “it is said that… / it is believed that…” in a text about Bolivia | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 40 |
 | The expression “it is said that… / it is believed that…” in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
+| The passive voice in process instructions for protecting the environment — be + past participle with sequencers and imperatives (waste is reduced, plastic is recycled, leaks must be fixed) (the text glosses deforestation as "the leaning of trees" — for clearing; taught corrected) | Mauritania, Study English, Grade 13, printed pp.17–19 |
 
 
-**Acceptance count: taught in 29 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia).** Mongolia discovers the shape from the
+**Acceptance count: taught in 30 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania).** Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -297,6 +305,9 @@ Grade 10, infinitive/gerund and impersonal forms at
 Grade 11, and the whole tense system with its reasons
 at Grade 12. Greece opens the passive with the present simple form at Grade 6, gives the past form and the by-agent their systematic treatment at Grade 8 Advanced (Grade 9's single formation is consolidation at that level, not an advance), notices the passive's choice against the active at Grade 10, and tables the full tense-by-tense system in Αγγλικά 2. Kazakhstan brings the passive in at Grade 7 (Excel's present and past simple passive, by against with), works it in English Plus Grade 8's simple forms alone — its passive stops there, with no causative and no impersonal passive — and completes it at Grade 9, where Laser adds the two sentence patterns including say/believe and Full Blast! tables the whole system: continuous, perfect, modal and impersonal forms; no primary book in the set teaches it at all. Iraq opens the passive at Grade 8 in a process text with its Active and passive box and the can passive, works present and past passives on factual texts at Grade 9, carries the passive in several tenses through the Grade 10 petroleum text, spreads it across tenses with the causative at Grade 11, and closes with all eight forms in Grade 12's Reference and the passive flow chart of its recycling process description. Ethiopia stocks the passive richly: present simple and present continuous passives and the simple past passive in Grade 5, active and passive voice in Grade 6, present and modal passives for process description in Grade 10, present passives for processes and a complete all-tenses passive paradigm table in Grade 11, and the voice revised across the tenses in Grade 12. South Africa stocks this lesson in full: Grade 5 HL carries the set's one full passive lesson — the passive voice defined, "The action is done to the subject," with active→passive conversions, the active voice named alongside it — Grade 6 HL revises the definition with conversions started for the learner, and Grade 5 FAL works the passive form as short conversion exercises. Syria meets the passive inductively at Grade 8 in the present and past simple, extends it across all tenses in the Grade 9 Workbook's full table, and revises it across tenses at Grade 12 in both held tracks — the literary Student's Book (present, past, present perfect, present continuous and future passive) and the scientific Workbook's tense-by-tense table. South Sudan joined 2026-11-03: Secondary 2 teaches the passive voice across tenses in its Student's Book Unit 5 language practice, its Teacher's Guide states the use and keys the practice, and the Secondary 3 Teacher's Guide — cited as a guide only, its Student's Book being link-only and not read — extends the passive to the past simple, explicitly adding on to Secondary 2. Nepal teaches the passive first at Grade 6 (present and past simple, in the held part of its truncated copy), is absent from Grade 7, teaches it across tenses with a full chart at Grade 8, once at Grade 9 with a full tense table, again with get/have passives at Grade 11, and twice in Grade 12. Kuwait builds the passive across its set: Pearls 7A teaches the present simple and modal passive, practised in its verified companion Workbook 7A, and 9B teaches the passive in present continuous, past continuous and present perfect forms only. Over to You 10B teaches the passive in mixed tenses, and Workbook 12B — workbook only — adds passive with modal verbs. Rwanda teaches the passive once only, in P5 Unit 8 on crafts — craft texts and question-and-answer frames built on it, a guided writing task instructing "Most of your sentences should be in the passive voice", and a passive gap-fill test, with the form ("Subject + verb to be + Past Participle") stated in its Teacher's Guide — and its own Unit 4 summary's claim of passive teaching is not counted, since that unit never teaches it. Other closed countries join as their
 books are read (see READING-QUEUE.md).
+Mauritania works the passive inside environment process
+instructions in its Grade 13 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
 Schools, Book Four* (MoES/RIES, 2013; full read in

@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -174,6 +174,34 @@ sweep, flag 1). Filed in english/books/indonesia.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read
 page by page in the 2026-11-08 re-verification sweep.
 
+**Book 61:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 62:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 63:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 64:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -298,8 +326,13 @@ page by page in the 2026-11-08 re-verification sweep.
 | Wishes with would, with the frequency-word set (never, almost never, rarely, seldom, sometimes, occasionally, often, frequently, usually, almost always, always) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 | Adverbs of time, place and manner, in the fairy-tale unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.63 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Modal adverbs, in the argument work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 5, printed p.163 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| Frequency adverbs — always/usually/sometimes/often/rarely/never — placed before the verb | Mauritania, Study English, Grade 7, printed pp.58–60 |
+| Adverbs formed with -ly and the irregulars (good→well, bad→badly, far→far) (the reading text glosses the greenhouse effect as an "atmospheric hearing phenomenon" — for heating; taught corrected) | Mauritania, Study English, Grade 9, printed pp.46–49 |
+| Adverbs of manner (-ly; good→well, hard, fast), over the same global-warming text as the Grade 9 book | Mauritania, Study English, Grade 10, printed pp.16–18 |
+| Frequency adverbs and their position: before ordinary verbs, after be, between auxiliary and main verb; how often…? | Mauritania, Study English, Grade 10, printed pp.38–40 |
+| Adverbs of manner (adjective + -ly) for describing people and actions | Mauritania, Study English, Grade 11, printed pp.21–23 |
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania).**
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -316,6 +349,10 @@ closed countries join as their books are read (see
 READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries the frequency set in Grade 4 (Unit 5), adjective/adverb formation and the position of adverbs in Grade 11 (Unit 2), and adverbs as a named grammar — frequency adverbs above all — in Grade 12 (Unit 7).
 Armenia joined 2026-11-03: it carries adverbs of frequency as a grammar lesson with their position in the sentence in Grade 4 (Unit 2.4, printed p.52), adverbs of frequency again inside the Grade 6 sports unit (Unit 2.3, printed pp.40–44), and adverbs compared like adjectives with adverb position work in Grade 7 (Unit 1, printed p.15; Unit 4, printed p.80).
+Mauritania teaches adverbs across four books — frequency in
+Grade 7, -ly formation in Grades 9–10, position in Grade 10,
+manner in Grade 11 (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **South Africa added 2026-11-03** — South Africa builds the adverb kinds year by year in the HL strand. Grade 3 Workbook 2 teaches adverbs answering how, when and where (printed pp.27, 29). Grade 4 Workbook 2 names adverbs of manner (printed pp.7, 11), degree (printed p.97) and place (printed p.98), and sets adjective against adverb (printed p.110). Grade 5 Workbook 2 classifies adverbs of manner, place and time (printed pp.29, 66), and Grade 6 Workbook 2 sorts adverbs into manner, place, time and frequency together (printed p.66).
 

@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania
 
 Every part traces to its book and page.
 
@@ -117,6 +117,13 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 39:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA Kelas XI) student book — Indonesia, Kemendikbudristek, first edition 2021, ISBN 978-602-244-863-1 (limited use in Sekolah Penggerak schools). The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 
+**Book 40:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -198,9 +205,10 @@ CITATION CHECK PASSED 2026-11-03).
 | A whole journey retold under the full signpost set named in a Study Box — First / Then / After that / Finally — the fullest presentation of the set in any held Syria book | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 6, printed p.19 |
 | A recipe as a sequence of cooking steps — the steps ordered first / then… ("A Special Recipe") | Indonesia, English for Nusantara Kids Grade 5, printed p.40 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Sequence words as a narrative's own named set, in the legend unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11 (2021 edition), Unit 1, printed p.26 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Describing a sequence of actions — first, then, next, after that, finally, later — making Mauritanian tea and giving a recipe step by step | Mauritania, Study English, Grade 8, printed pp.31–33 |
 
-**Acceptance count: taught in 24 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria).** Egypt prints the law and the set;
+**Acceptance count: taught in 25 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -253,6 +261,9 @@ signposts, stating that they are always followed by
 commas. Rwanda stocks the full set, finally included, in P2 — the letter's journey told with first / then / next / after that / finally — and two shorter sets without finally: P3's then, after that, next, before and P5's First of all / Then / Afterwards. Syria stocks the full set, finally included, at Grade 5 in its older York Press course: Unit 6 retells a whole journey under a Study Box of First / Then / After that / Finally (printed p.19), and Unit 3 matches a place description in numbered paragraphs to pictures (printed p.13). Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania sequences a tea-making and a recipe with the full
+connector set in its Grade 8 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).
 

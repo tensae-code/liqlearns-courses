@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania
 
 Every part traces to its book and page.
 
@@ -47,6 +47,13 @@ READ + CITATION CHECK PASSED 2026-11-06).
 
 **Book 7:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Would you like to be an explorer? — Yes, I would. / No, I wouldn't." — the "Would you like…?" offer with its would-answers | Syria, English for Starters 5, Unit 2, printed pp.8–10 (the exchange as listed in the book's contents) |
@@ -59,9 +66,10 @@ READ + CITATION CHECK PASSED 2026-11-06).
 | "Shall I…?" and "Would you like me to…?" — the help-offer pair, taught on the apologising-and-offers page | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 4 "Cool jobs", printed p.56 (read directly in the pupil's book) |
 | Offering to help, as classroom work: "Let's clean the classroom! Let me clean the windows. Let me help you" | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.7 |
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
+| Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Malaysia, Mongolia, Nepal, Syria, China).** Syria opens the lesson
+**Acceptance count: taught in 7 countries (Cambodia,
+Malaysia, Mongolia, Nepal, Syria, China, Mauritania).** Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -78,3 +86,6 @@ help-offer at its youngest: offering to clean the
 classroom in Grade 4, and the table's "Help yourself"
 beside it (stocked 2026-11-08 by the re-verification
 sweep).
+Mauritania offers help and things, with accepting and
+declining, in its Grade 8 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).

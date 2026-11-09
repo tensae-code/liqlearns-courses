@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -114,6 +114,13 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 40:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 41:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The clock's two hands named — the short, red hand is the hour hand; the long, blue hand is the minute hand; say and complete o'clock times | Bangladesh, English for Today Class 4, Unit 13 "Telling the Time," pp.26–27 |
@@ -204,8 +211,9 @@ english/books/jordan.md (Grade 3 Pupil's Book Semester 1 section, FULLY READ + C
 | “When's the movie?”: event words (concert, party, soccer/basketball/volleyball game, movie, dance), days of the week, preposition of time on + morning/afternoon/evening, days written with capitals, telling the time. Book error noted: the appraisal prints mismatched clock–sentence pairs (3:00 beside “It is three fifteen”) — taught corrected | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.29–30 |
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Bangladesh carries
+| Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
+**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -225,6 +233,9 @@ half times pictured in its Photo Dictionary. Jordan carries o'clock saying insid
 countries join as their
 books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 with the fullest time teaching in this file beside the deepest other entries: Grade 3's first unit teaches the whole clock — o'clock, half and quarter past/to, minutes past/to — over a child's day (Unit 1, printed pp.1–9), keyed by its true companion guide; Grade 2 teaches o'clock and half past (Unit 10, printed pp.56–61); and its Grade 1 teacher's guide teaches the hours with a hand-moved clock in its own lesson for a different, unheld workbook (Lesson 78, printed pp.288–314).
+Mauritania tells the time whole in its Grade 7 book — o'clock,
+half past, quarter to, a.m./p.m. (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
 (MoES/RIES, 2012; full read in english/books/laos.md). Laos's

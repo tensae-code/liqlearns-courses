@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -34,6 +34,13 @@ section, FULLY READ + CITATION CHECK PASSED).
 
 **Book 9:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 10:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, Unit 6 "Hundreds": money enters — cost and Riel prices ("An orange costs 900 Riels"), "How much does an orange cost?", dozen, a restaurant-buying reading | Cambodia, ENGLISH Grade 5, Chapter 4, Unit 6, printed pp.86–89 |
@@ -47,9 +54,10 @@ section, FULLY READ + CITATION CHECK PASSED).
 | Money and the value of things — "An Expensive Book": what things cost and what they are worth | Indonesia, English for Nusantara Kids Grade 5, printed p.105 |
 | Personal money-management vocabulary, in the money unit | Indonesia, English for Change Grade 11, Unit 5, printed p.183 |
 | A unit on the future method of payment — payment and digital-money themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide (no student book held), Unit 4, printed p.147 — teacher-guide evidence only |
+| At the market: ordering goods, how much/how many, countable and uncountable nouns, some/any, asking and giving prices | Mauritania, Study English, Grade 8, printed pp.34–36 |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Uzbekistan, Sudan, China, Indonesia).** Cambodia carries the asking — the
+**Acceptance count: taught in 6 countries (Cambodia,
+Uzbekistan, Sudan, China, Indonesia, Mauritania).** Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -68,3 +76,6 @@ a Grade 12 unit on the future method of payment (stocked
 2026-11-09 by the re-verification sweep merge). Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania works the market — quantities, some/any and prices
+in ouguiya — in its Grade 8 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).

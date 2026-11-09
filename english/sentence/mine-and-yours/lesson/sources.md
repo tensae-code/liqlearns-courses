@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -111,6 +111,14 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 37:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 38:** English Guide, 1st Year Secondary School
+(Teacher's Guide) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Teacher evidence: the guide samples one
+lesson per unit (its own printed p.7) and gives plans and keys
+for the student book. Re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 "That's Mine" — its objectives seat the genitive 's, possessive adjectives, and possessive pronouns as one ownership unit | Mongolia, English VI, Unit 4 (opens p.41) |
@@ -192,7 +200,8 @@ CITATION CHECK PASSED 2026-11-03).
 | Possessive adjectives — my, your, his, her, its, our, your, their | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 11 |
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 29 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
+**Acceptance count: taught in 30 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania).**
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -218,6 +227,10 @@ airport in the Pupil's Book, and the stand-alone rule
 stated in the Activity Book's LOOK box, the noun after
 *mine* shown crossed out. Ethiopia teaches possession as a named grammar point in Grade 4 — pronouns and possession with his/her and "Whose…?" — and meets possessive pronouns in a Grade 5 possessives exercise that uses "ours"; it does not table the full standalone mine/yours system. South Africa stocks this lesson in full: Grade 4 HL teaches possessive pronouns with the adjective and pronoun forms contrasted — my/mine, your/yours — Grade 3 HL teaches the possessive pronoun set, and Grade 3 FAL teaches my, your, his, her, its, our, their; the workbook sets present adjective and pronoun forms together under the one possessive heading. Syria teaches the standalone set whole in Grade 5 — mine, yours, his, hers, ours, theirs under a Whose…? question — and sets possessive adjectives against possessive pronouns in Grade 6. Nepal carries mine and yours from Grade 2's "Mine is big," through Grade 3's whose-chant pronoun set (keyed by its true companion guide), to Grade 5's whole possessions unit with the I/my/mine table; Armenia carries possessive pronouns as a headed grammar lesson in Grade 4 — the my / your / his / her / our / their set against the subject pronouns, with the your/you're contrast (Unit 1.2, printed p.17) — and the standalone forms (mine/yours type) at work for comparisons in Grade 7 (Unit 2, printed p.35); Rwanda stocks this lesson in part only, on the same split Indonesia is filed on: Primary 1 teaches possessive 's under "Whose book is this? — It is Mary's" (Unit 6, printed p.42) and the possessive adjectives my / her / his / their (Unit 1, printed p.7), but no held Rwanda book teaches the standalone mine / yours forms, and none is claimed; Other closed countries join as their
 books are read (see READING-QUEUE.md).
+Mauritania's Grade 7 teacher guide names the possessive case
+('s / s') in its Unit Ten content list (teacher evidence;
+stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
 Schools, Book Two* (MoES/RIES; full read in

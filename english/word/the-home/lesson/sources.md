@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -142,6 +142,13 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 46:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 47:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -235,9 +242,10 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Activities at home — the household-chores word set: cooking, mopping the floor | Indonesia, English for Nusantara Kids Grade 3, printed p.62 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The kitchen and its utensils as a vocabulary set | Indonesia, English for Nusantara Kids Grade 5, printed p.33 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Household activities — the chores vocabulary of the home unit | Indonesia, English for Nusantara Grade 7, Chapter 3 "Home Sweet Home," printed p.117 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 32 countries (Egypt, Libya,
+| The house — rooms and household objects; there is; do/does … have? questions | Mauritania, Study English, Grade 7, printed pp.25–26 |
+**Acceptance count: taught in 33 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -256,6 +264,9 @@ by the re-verification sweep merge); Iran carries the rooms with the where-quest
 and yes/no short answers, widened in its Photo Dictionary to
 house types and furniture. Jordan carries the ten home words with the where-question in Grade 2, the furniture set with there is/are in Grade 3, and the whole house — rooms, furniture, chores — again in Grade 8; Greece carries the rooms and the bedroom furniture in pictures in its Grade 2 Workpack — the room cards themselves carry no printed words — and the household chores in Grade 4; Kazakhstan carries the first room with its furniture in Grade 1 Smiles, the whole home — six rooms and fifteen furniture words with there is/are — in its Grade 3 Express book, and rooms, furniture and appliances as a full module in Grade 5 Excel; Iraq carries the house three years running — the cutaway house set in Grade 1, the rooms toured with Where's …? in Grade 2, and the whole house counted room by room in Grade 3; South Africa carries the rooms and furniture with the position question — "Where is the fridge? The fridge is in the kitchen." — in Grade 1 FAL Theme 3, and the home word set across the "Around the house" theme in Grade 2 HL; Syria carries the five rooms with the where-question and in / on in Grade 1, rooms and furniture with there is / there are in Grade 4, and houses around the world in Grade 5; South Sudan carries the home twice in its first two years — "Our home" in Primary 1 (the house and its people, kitchen things, farm animals and chores) and "Our home" again in Primary 2 (things at home, the family tree, and who does what at home); Nepal carries the home in Grade 1's family unit — the family set, have got, and a house reading with the cat placed under, on and in — in Grade 11's "The Tattered Blanket" home-life reading, and, as a non-companion guide's own teaching, in its Grade 2 guide's "My House" lesson with the rooms named; Kuwait carries the rooms of the house written from a word bank on a cutaway house in the older course's Grade 1 activity book — cited for its own teaching only, not as a Skyline companion — and room–activity matching opening the dream-home writing lesson in Grade 7; Rwanda carries the home whole in its first year — Unit 7 "Home" (pp.45–51), the unit its own Contents omits — with the rooms, the furniture, the place words and a full bedroom description, and household work at home in its Grade 2, Grade 4 and Grade 6 books. Other closed countries join as
 their books are read (see READING-QUEUE.md).
+Mauritania's Grade 7 book teaches the house with there is and
+do/does have questions (stocked 2026-11-09 by the Mauritania
+re-verification sweep merge).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
 (MoES/RIES, 2012; full read in english/books/laos.md). Laos

@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -54,6 +54,13 @@ English, Pupil's Book 6 (pupil's book) section, FULLY READ
 
 **Book 11:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 12:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Requests: can you / will you for casual requests, could you / would you / would you mind for formal ones — the distinction stated in the book's own notes; barbecue help, a wedding, and exam preparation at school | Cambodia, ENGLISH Grade 8, Unit 8 "Helping family and friends", printed pp.56–61 |
@@ -69,9 +76,11 @@ English, Pupil's Book 6 (pupil's book) section, FULLY READ
 | Making a request and responding to one, in the kitchen chapter | Indonesia, English for Nusantara Kids Grade 5, printed p.33 |
 | Asking politely for what you want — borrowing a book from the library | Indonesia, English for Nusantara Kids Grade 5, printed p.119 |
 | Asking with could you… / can you… — the polite request forms of the online-class unit | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.171 |
+| Polite requests when eating out: ordering a starter, a main course and a drink, and asking for the bill | Mauritania, Study English, Grade 8, printed pp.16–17 |
+| Requests to borrow and lend: can/could/may I, can/could you, do/would you mind + -ing, do you mind if…, I wonder if you could…; borrow against lend | Mauritania, Study English, Grade 8, printed pp.20–23 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 7 countries (Cambodia,
+Malaysia, Syria, Bolivia, China, Indonesia, Mauritania).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -91,3 +100,6 @@ Indonesia asks politely three times up: borrowing with
 requests and borrowing a book in Grade 5, and the
 could you… / can you… forms in Grade 7 (stocked
 2026-11-09 by the re-verification sweep merge).
+Mauritania asks politely at the table and for borrowing and
+lending in its Grade 8 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).

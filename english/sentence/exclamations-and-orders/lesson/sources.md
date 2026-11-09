@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -52,6 +52,27 @@ english/books/rwanda.md.
 
 **Book 18:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 19:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 20:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 21:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -77,9 +98,12 @@ english/books/rwanda.md.
 | Simple instructions recapped in the Chapter 0 opening block | Indonesia, English for Nusantara Grade 7, Chapter 0, printed p.1; the same recap block at Grade 9, Chapter 0, printed p.1 |
 | Imperatives with always / never, for online safety — "Never click it!" | Indonesia, English for Nusantara Grade 9, Chapter 5, printed p.268 |
 | Imperatives as the grammar of a procedure text (the money-management unit's mind map) | Indonesia, English for Change Grade 11, Unit 5, printed p.182 |
+| Classroom instructions: imperatives and negative imperatives (don't + verb) | Mauritania, Study English, Grade 7, printed pp.27–29 |
+| Expressing admiration: What a…!, How…!, superlative + I have ever seen, never…such a (the book's vocabulary box at printed p.42 defines admiration as gratitude — wrong; taught corrected) | Mauritania, Study English, Grade 8, printed pp.40–42 |
+| Expressing admiration: What a…!, such a…!, the cheapest bike I have ever bought | Mauritania, Study English, Grade 10, printed pp.30–32 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia).** A plan-anchor
+**Acceptance count: taught in 8 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania).** A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -105,3 +129,6 @@ always/never safety imperatives in Grade 9, and
 imperatives named as a procedure text's grammar in
 Grade 11 (stocked 2026-11-09 by the re-verification
 sweep merge).
+Mauritania gives classroom orders in Grade 7 and the
+admiration exclamations in Grades 8 and 10 (stocked 2026-11-09
+by the Mauritania re-verification sweep merge).

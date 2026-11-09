@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania
 
 Every part traces to its book and page.
 
@@ -50,6 +50,21 @@ PASSED, as filed).
 
 **Book 11:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 12:** Study English, 6th Year Secondary School —
+Mauritania, Ministry of National Education and Educational
+System Reform, National Pedagogic Institute (IPN), 2025
+printing. Filed in english/books/mauritania.md (Grade 12 —
+Study English, 6th Year Secondary School section, FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
+re-verification sweep.
+
+**Book 13:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -66,9 +81,13 @@ PASSED, as filed).
 | The "It must belong to Carla" mystery story — deducing owners and past events with could/might/must | China — English ("Go for it!") Grade 9, Unit 8, printed p.61 |
 | Modals as the lesson's grammar — may/might/must and their kin for how sure you are, with the lesson's See Also prepositions beside them | Iran, Vision 1 (Grade 10), Lesson 4 "Gender and Brain," Grammar and See Also, printed pp.97–119 |
 | The modals practised in the workbook: modal and See Also exercises | Iran, Vision 1 Workbook (Grade 10), Lesson 4, Parts II–V, printed pp.64–79 (workbook mirror of the student lesson) |
+| May/might for possibility and probability, permission, wishes and requests — May your wounds heal!; this insect might be poisonous | Mauritania, Study English, Grade 12, printed pp.10–12 |
+| Prediction and modal shades: will for prediction; must/should/ought to across obligation, probability, prediction and advice | Mauritania, Study English, Grade 12, printed pp.13–15 |
+| The modal verbs chart: ability (can, could, be able to), deduction (must strong, might/may/could possible, can't impossible), requests (can informal, could polite, would formal) | Mauritania, Study English, Grade 13, printed pp.38–40 |
+| Certainty and uncertainty: must, have to, definitely for certainty; might/may/could, probably/possibly/likely for uncertainty (the reading text is a short story, held as a plot summary only: Amina, torn about boarding a plane to a new country, talks herself from doubt to confidence and boards) | Mauritania, Study English, Grade 13, printed pp.44–46 |
 
-**Acceptance count: taught in 8 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran).** Egypt prices the
+**Acceptance count: taught in 9 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania).** Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -88,3 +107,7 @@ clues and the "It must belong to Carla" story (stocked
 modals as its Grade 10 fourth lesson's grammar, with
 workbook practice (stocked 2026-11-09 by the
 re-verification sweep merge).
+Mauritania grades the modals in Grade 12 (may/might; the
+prediction shades) and charts the whole system — ability,
+deduction, requests, certainty — in Grade 13 (stocked
+2026-11-09 by the Mauritania re-verification sweep merge).

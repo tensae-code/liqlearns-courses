@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -138,6 +138,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 **Book 62:** 12
 
 **Book 63:** C
+
+**Book 64:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -283,9 +290,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Conditional sentences in full — zero, first, second and third conditionals, with if/unless in the same unit (the third conditional is structured as “would have/has” in the book — “has” is the book's error, taught corrected: would have + participle) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 26–27 |
 | Conditionals re-taught — the conditional family again in the book's closing units, with modal verbs and wish sentences | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 44–46 |
 | Conditional sentences in an interrogative text — conditionals worked inside questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF pp. 117–118 |
+| Real conditionals: the zero conditional (if + present, present) and the first conditional (if + present, will + verb) | Mauritania, Study English, Grade 9, printed pp.25–28 |
 
-**Acceptance count: taught in 29 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia).** Libya names the zero and first at
+**Acceptance count: taught in 30 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania).** Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -305,6 +313,9 @@ teaches zero, first and second together and the third
 conditionals at Grade 11, and recaps the whole 0–3
 system in Grade 12's Grammar Reference. Greece's split stands plainly: primary teaches Types 1 and 2 only; the Grade 8 streams add Type 0 and unless; Grade 9's ceiling is Types 1–2 (no Type 0 as a named form, no Type 3, no mixed); and the system is completed only at Grade 10, where Αγγλικά 1 tables Types 0–3, adds mixed conditionals, the if-alternatives and inverted conditionals. Kazakhstan's system is filed as Types 0–3 across the set, and the split by series stands plainly: Excel Grade 7 tables zero, first and second on one spread and Excel Grade 9 tables Types 1–3 with wishes; English Plus holds the third conditional back to its Grade 9 Unit 9, long after first and second; Full Blast! works Types 0/1/2 in Module 7 and the Type 3 a term later in Module 9 — and no Kazakhstan book teaches mixed or inverted conditionals, so the set's ceiling is the four plain types. Iraq climbs the ladder across the whole school: the first conditional boxed at Grade 7, first and second together at Grade 9, zero and first at Grade 10, first (Unit 3) and second (Unit 5) again at Grade 11, and the complete system 0–3 tabulated in Grade 12's Reference with wish/if only — and its split stands plainly too: no mixed conditionals as a category and no inversion anywhere in the Iraq set, so its ceiling is likewise the four plain types. Ethiopia stocks conditionals richly: Types I, II and III in Grade 6 (never Type 0 there), I and II in Grade 8, zero and first then second and third with a four-type summary table in Grade 9, types 0–3 systematised in Grade 10, a full zero–III table with unless and third-conditional inversion in Grade 11, and "Tense Balance in Conditional Sentences" revision in Grade 12. South Africa stocks conditionals with its limits stated plainly: Grade 5 HL carries a conditional-sentences lesson built on the conditional clause with if and unless and a sentence-mood lesson using "If I were fitter…", and Grade 5 FAL works if…then conditional frames in both workbooks — but no numbered conditional types and no Type 2/3 system are taught anywhere in the set. Syria teaches the zero and first conditionals in Grade 7, adds the second conditional in Grade 8 (stated in full in the Workbook), and completes the plain system with conditionals II and III in Grade 12 — and its split stands plainly too: mixed conditionals are never named anywhere in the set, so its ceiling is the four plain types. South Sudan joined 2026-11-03: its student's books teach the first conditional only — Secondary 2's Unit 6 language practice, named "conditional type 1" in its Teacher's Guide — with second-conditional forms appearing only in the Secondary 3 Teacher's Guide's answer key (guide-cited, its Student's Book not read), no third conditional anywhere, and "unless" defined and practised back in Primary 4. Nepal teaches conditionals from Grade 7 — second, first and zero split across that book — works types 1, 2 and 3 together at Grade 8, splits types 2–3 and type 1 across Grade 9 (where the type 0 is never named), tables the full plain system at Grade 10, and returns to conditional sentences at Grade 12. Pakistan joined 2026-11-04 through one book read in under the user's ruling: English X (Grade 10) teaches the first, second and third conditionals, each with its own printed rule box (Units 6, 10 and 13), and no zero conditional anywhere — and Pakistan's counted books teach no conditional at all, so this book alone carries the country here. Kuwait teaches the first conditional in isolation in Skyline 5B and Pearls 6A and the third conditional in isolation in Pearls 9B. No held Kuwait book contrasts the conditional types as a set before Over to You 10B, whose grammar reference tables the whole system; the second conditional as a system arrives only in 10B. Rwanda teaches the first conditional only — named in P5 Unit 7, stated as IF 1 with its comma rule in P6 Unit 3 and worked again in P6 Units 4 and 8 — with no second or third conditional anywhere in the set. Other closed countries join as their books
 are read (see READING-QUEUE.md).
+Mauritania teaches the zero and first conditionals in its
+Grade 9 book (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **Laos Grade 9 added 2026-10-27** — *English for Secondary
 Schools, Book Four* (MoES/RIES, 2013; full read in

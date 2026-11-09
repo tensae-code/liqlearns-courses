@@ -1,11 +1,18 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
 hello-and-your-name lesson on 2026-10-25, under his rule: one lesson
 explains one thing only.
+
+**Country:** Mauritania · **Book:** Study English, 1st Year
+Secondary School (Student's Book) (Ministry of National
+Education and Educational System Reform / IPN, 2025 printing;
+re-read page by page in the 2026-11-08 re-verification sweep —
+the english/books/mauritania.md filing covers the 6th Year
+book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -49,8 +56,9 @@ explains one thing only.
 | Greetings and farewells, formal against informal (hello / good morning / afternoon / evening / night against hi / bye / see you / see you soon), with contractions (what is → what's) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.7–8 |
 | Greetings and farewells, formal and informal, with a personal-information table (name, age, country, nationality, address, hobbies) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp. 7–8 |
 | Greeting people and saying goodbye, as Chapter 1's opening work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed p.15 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
 
-**Acceptance count: taught in 25 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
+**Acceptance count: taught in 26 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -93,6 +101,9 @@ plans the two as consecutive sections.
 Counts grow as other closed countries' first books are read.
 Nepal joined 2026-11-03 with the pair itself, in full — its Grade 2 book opens on good morning / afternoon / evening and good night as one greeting set (Unit 1, printed pp.1–7), over Grade 1's "Good morning, Miss" (Unit 1, printed pp.1–6); its Grade 1 teacher's guide also practises good morning/afternoon in its own opening lessons, cited for its own teaching as a guide to a different, unheld workbook (Lessons 1–5, printed pp.50–96).
 Armenia joined 2026-11-03 with guide-only partial stock, recorded plainly as such: its pupil books teach hello/hi/goodbye but print no "Good morning/Good afternoon" exchange; the stock is the Grade 7 Methodological Guide's "Classroom Language Exponents" list (printed p.48), which names "Good morning/ afternoon/ evening (everyone/ class)" as teacher greeting phrases.
+Mauritania teaches the time-of-day greetings as one set in its
+Grade 7 book (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **China added 2026-10-29** — **Book:** *Compulsory Education
 Textbook · English (Grade 3 starting point), Grade 3 Volume 1* —

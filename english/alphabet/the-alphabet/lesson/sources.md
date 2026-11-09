@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -120,6 +120,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 27:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
 **Book 28:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
+
+**Book 29:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -365,7 +372,8 @@ sound is learned.
 | The alphabet spelling: letter names pronounced (Aa “ei”, Bb “bi”… Zz “zed”), spelling and completing words | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.15–16 |
 | The alphabet and subject personal pronouns: spelling surnames (“How do you spell it?”), subject pronouns, the conjunctions and/or box, capital letters for proper nouns and “I”. Book error noted: the unit title misprints “PRONUONS” for pronouns | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.11–12 |
 | The alphabet and spelling names (the ABC song) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.9 |
-**Acceptance count: taught in 29 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
+| The alphabet, capital and small letters A–Z | Mauritania, Study English, Grade 7, printed p.14 |
+**Acceptance count: taught in 30 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -395,6 +403,9 @@ key word and a rhyme per letter, in thematic order, with a
 song for every letter. Kazakhstan joined 2026-11-03: three of its Grade 3 books teach the alphabet — the Express book in three letter groups (a–h, i–q, r–z) with an Alphabet poster at the back, Top Stars in its opening Alphabet lesson, and the Macmillan book on a "Learn the alphabet" page with the alphabet song; its Grade 1 Smiles book teaches no alphabet at all, and that limit is recorded in the country file. Iraq joined 2026-11-03: its Grade 1 Pupil and Activity Book shows the whole alphabet first in a picture spread (printed pp.4–5), teaches the letters in groups across Units 1–4 with example words and tracing, and closes the pupil half with the alphabet as a picture dictionary (printed pp.86–88). Ethiopia joined 2026-11-03: its Grade 1 Student's Book is the alphabet book — small and capital alphabet charts and two alphabet songs with letter-by-letter teaching in Unit 1 (printed pp.1–26), the remaining letters completed in Unit 8 (printed pp.109–132), and its Grade 1 Teacher's Guide plans the same alphabet teaching in Unit 1 (printed pp.5–46). Syria joined 2026-11-03: its Grade 1 Pupil's Book teaches the letters one or two per unit across the year, each with its example word, closes the year with an alphabet caterpillar song recapping all letters a–z in order (Unit 24, printed pp.75–77), and backs the book with a two-spread alphabetical picture dictionary (printed pp.95–96), while its Grade 1 Workbook traces and copies every letter and reviews them all in its Handwriting Practice (printed pp.83–90). Other closed countries join
 as their first English books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 in two layers: its held Grade 1 student's book gives the letter shapes in four-line copy work (Unit 2, printed pp.7–14) and the full capital alphabet once, at printed p.50, with no lowercase chart and no letter names — and its Grade 1 teacher's guide teaches the whole alphabet letter by letter, Aa–Zz, in its own 58-lesson Alphabet sequence, cited for its own teaching as a guide to a different, unheld workbook (Lessons 15–72, printed pp.97–278).
+Mauritania prints the full alphabet, capitals and small
+letters, in its Grade 7 book (stocked 2026-11-09 by the
+Mauritania re-verification sweep merge).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
 Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in

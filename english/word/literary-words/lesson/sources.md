@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania
 
 Every part traces to its book and page.
 
@@ -20,6 +20,13 @@ still owed).
 
 **Book 7:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 8:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
@@ -35,5 +42,9 @@ still owed).
 | Peace as a literature theme: "Peace in Literature" — literary texts on peace | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 4, printed p.208 (stocked 2026-11-08 by the re-verification sweep) |
 | The vocabulary of the travel lesson's reading text | Iran, Vision 1 (Grade 10), Lesson 3, New Words & Expressions, printed pp.71–95 |
 | The vocabulary of the art-and-culture lesson's reading text | Iran, Vision 2 (Grade 11), Lesson 3, New Words & Expressions, printed pp.81–107 |
+| Writing genres and literature words: poetry, prose, article, short story, novel, play, genre | Mauritania, Study English, Grade 13, printed pp.11–12 |
 
-**Acceptance count: taught in 6 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran).** Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 7 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania).** Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+Mauritania names the writing genres in its Grade 13 book
+(stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

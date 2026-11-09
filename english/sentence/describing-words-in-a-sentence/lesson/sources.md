@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania
 
 Every part traces to its book and page.
 
@@ -144,6 +144,13 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 51:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 52:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -261,9 +268,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The -ed / -ing describing words inside their sentence sets: "I feel annoyed. My brother annoys me. He is annoying"; "This movie is boring" | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
 | Prepositions in front of / between, named in the school chapter's opener for describing the school | Indonesia, English for Nusantara Kids Grade 3, Chapter 4 opener, printed p.90 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Prepositions in / under at work — "Where is the pencil? It is in the pencil case" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5, printed p.116 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 32 countries (Bangladesh,
+| Describing things: size/colour/shape adjectives (adjectives never take -s), the possessive pronouns mine/yours/his/her/its/ours/theirs, what colour is…, what's it like | Mauritania, Study English, Grade 7, printed pp.35–36 |
+**Acceptance count: taught in 33 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania).** Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -284,6 +292,9 @@ Grade 3, builds its comparatives system in Grade 4,
 and adds comparative adverbs and the sense verbs in
 Grade 6. Greece seats sense verbs + adjective at Grade 5, builds comparatives and superlatives there and runs comparison — adjectives, as…as and adverbs — through a whole Grade 6 unit, restating the system at Grade 8. Kazakhstan names adjective position at Grade 5, makes it the writing point of a Grade 6 town description, and states the stacking order — opinion, size/length, type, colour — in its Grade 6 Full Blast!. Iraq states adjective order three times over: size → colour → material as a Grade 6 Activity Book LOOK box, the full Opinion–Size–Age–Shape–Colour–Origin–Material table in its Grade 9 Student's Book, and general-before-colour again in Grade 11. Ethiopia stocks the describing-writing parts only: descriptive writing with appearance and personality adjectives in Grade 7, adjectives and adverbs as grammar in Grade 8, and adjectives for descriptive writing again in Grade 11 — it adds no adjective-order table, sense-verb home or comparatives system to this lesson. South Africa stocks this lesson in full: Grade 4 HL uses adjectives describing nouns inside sentences, Grade 6 HL teaches the adjective's two sentence positions — "The small dog / The dog is small" — and Grade 3 HL drills adjective sets in sentences. Syria lands description after the sense verbs in Grade 3 — the cakes taste delicious, it looks beautiful — states adjective order (opinion – size – shape – age – colour) in Grade 6, and teaches comparatives and superlatives in the same Grade 6 book. South Sudan joined 2026-11-03: its Primary 5 Pupil's Book teaches adjectives describing nouns, its Primary 4 Pupil's Book notes comparatives and compares adverbs, Secondary 1 and Secondary 2 teach comparatives — Secondary 2 with superlatives — and Secondary 4 teaches adjective order. Nepal carries describing words in sentences from Grade 2's doll sentences and opposites set, through Grade 6's comparatives and Grade 9's adjectives, adverbs and comparison, to Grade 12's adjective order, with big/small adjectives also taught, as its own teaching, in the Grade 1 guideArmenia seats describing words in first sentences in Grade 3, makes describing people a whole unit's work in Grade 6, and teaches adjective order as a named point in Grade 7. Kuwait stocks this lesson in part only, with an adjective bank for describing homes in Grade 7 and describing-places vocabulary worked into advertisements in the Grade 12 workbook. Rwanda stocks describing words from Primary 2's -y weather adjectives, through Primary 4's appearance and personality adjectives with their comparatives and Primary 5's comparative and superlative sets, to Primary 6's stated rule that adjectives are placed before nouns to modify the noun. Other closed countries join as their books are read
 (see READING-QUEUE.md).
+Mauritania describes things — size, colour, shape and the
+possessive pronouns — in its Grade 7 book (stocked 2026-11-09
+by the Mauritania re-verification sweep merge).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read

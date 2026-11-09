@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -68,6 +68,42 @@ the file's head banner stands — agent-assisted read, the
 
 **Book 15:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 16:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 17:** English Guide, 1st Year Secondary School
+(Teacher's Guide) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Teacher evidence: the guide samples one
+lesson per unit (its own printed p.7) and gives plans and keys
+for the student book. Re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 18:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 19:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 20:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -87,9 +123,15 @@ the file's head banner stands — agent-assisted read, the
 | The Recycle directions set — visiting Grandma and Grandpa: route listening with first/then, a lost little boy helped at the police station, directions given by phone over a map | China — English (PEP) Grade 6 Volume 1, Recycle 1, printed pp.32–35 |
 | Asking the way politely as a whole unit — "Could you please tell me where the restrooms are?" | China — English ("Go for it!") Grade 9, Unit 3, printed pp.17–20 |
 | Asking for and giving directions inside the school, with beside / between / behind / in front of / across from | Indonesia, English for Nusantara Grade 7, Chapter 5 "This Is My School," printed p.205 |
+| Prepositions of location: in, on, at, between, behind, in front of, above, below, across, next to, under | Mauritania, Study English, Grade 7, printed pp.33–34 |
+| Map reading and following directions with landmarks, as the unit's stated objective (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.23 |
+| Asking for and giving directions — head/go down/pass/cross/turn, prepositions of place, direct and indirect direction questions | Mauritania, Study English, Grade 9, printed pp.43–45 |
+| Directions to the stadium: go straight, turn right, blocks, on your left, with the location prepositions | Mauritania, Study English, Grade 10, printed pp.11–12 |
+| The location of public buildings, and direct against indirect questions (the book prints "Can you tell where the director's office is, please?" — the pronoun object is dropped; taught corrected) | Mauritania, Study English, Grade 10, printed pp.13–15 |
+| Idiomatic prepositions of place: in bed (sleeping) against on the bed; at home, at work, at/in school; at the hospital (visiting or working) against in hospital (a patient) | Mauritania, Study English, Grade 13, printed p.30 |
 
-**Acceptance count: taught in 10 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia).****
+**Acceptance count: taught in 11 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania).****
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -113,3 +155,9 @@ re-verification sweep). Indonesia asks and gives
 directions inside the school in Grade 7 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania teaches directions across four of its books —
+location prepositions and map reading in Grade 7 (the guide as
+teacher evidence), routes and indirect questions in Grades
+9–10, and the idiomatic place prepositions in Grade 13
+(stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

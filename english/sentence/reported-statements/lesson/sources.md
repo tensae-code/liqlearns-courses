@@ -89,6 +89,20 @@ READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 16:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 17:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 18:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -109,6 +123,9 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | Reported speech — backshift (the book's past-perfect row of the backshift chart prints the reported form as “she has taken” — taught corrected: she had taken) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 16–17 |
 | Reporting verbs — the reporting-verb set of the book's reported-speech unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 18 |
 | Reported speech worked across the fairy-tale unit — statements retold with backshift | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed pp.92–104 |
+| Reported speech with a past reporting verb — the backshift chart: present→past, present continuous→past continuous, will→would, present perfect→past perfect, simple past→past perfect, past perfect unchanged | Mauritania, Study English, Grade 11, printed pp.27–30 |
+| Reported speech with a present reporting verb — no tense change — and quoted speech with quotation marks | Mauritania, Study English, Grade 11, printed pp.43–45 |
+| Reported speech, the advanced table: future continuous→conditional continuous, present perfect continuous→past perfect continuous, simple past→past perfect or simple past | Mauritania, Study English, Grade 13, printed pp.20–22 |
 
 **Acceptance count: taught in 10 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
@@ -134,3 +151,7 @@ Kuwait's 10B converts a whole text and gathers the
 changes in its reference. Indonesia works reported speech
 across its Grade 11 fairy-tale unit (stocked 2026-11-09
 by the re-verification sweep merge).
+The sweep also stocked Mauritania's Grade 11 backshift chart
+and present-reporting-verb lesson, and Grade 13's advanced
+table (stocked 2026-11-09 by the Mauritania re-verification
+sweep merge).

@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -106,6 +106,21 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 39:** C
 
+**Book 40:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 41:** Study English, 6th Year Secondary School —
+Mauritania, Ministry of National Education and Educational
+System Reform, National Pedagogic Institute (IPN), 2025
+printing. Filed in english/books/mauritania.md (Grade 12 —
+Study English, 6th Year Secondary School section, FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -204,10 +219,13 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect — have/has + past participle for actions finished at an unstated time, against the simple past | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 94–95 |
 | Where have you been? — present perfect questions about experience | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 96–97 |
 | Present perfect with already, yet and before — already and before affirmative, yet in negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 97 |
+| The present perfect for recent and unspecified past and experience — already, recently, lately, never, yet, just, ever, for, since; have you ever…? | Mauritania, Study English, Grade 11, printed pp.13–16 |
+| Present perfect duration: already and yet in statements and questions; for + length of time, since + point in time | Mauritania, Study English, Grade 11, printed pp.49–51 |
+| The present perfect for duration up to now: have/has + past participle with since, for, recently, yet, already, ever, never | Mauritania, Study English, Grade 12, printed pp.28–30 |
 
 
-**Acceptance count: taught in 25 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 26 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -231,6 +249,10 @@ for this tense on 2026-11-03 and never teaches it (its
 books' own honest negatives say so at Grades 6 and 9).
 Ethiopia teaches the Present Perfect Simple in Grade 5, the Present Perfect Tense in Grade 6, and in Grade 9 teaches it in Unit 8 and contrasts simple past with present perfect, with since/for, in Unit 9. South Africa stocks this tense from a single HL lesson only: the present perfect is introduced once, in the final theme of Grade 6 HL Workbook 1, and no FAL book teaches or names any perfect tense — that single lesson is the whole set's present-perfect teaching. Syria brings the present perfect in at Grade 6 — just/yet first, then ever/never with for/since and How long…? — and runs it again as its own unit in Grade 7, with the rule stated in the Workbook. Nepal brings the tense in at Grade 8 — present perfect against past simple in two full passes — teaches it again with since/for at Grade 9, and sets it against the past simple with been/gone at Grade 11; no Nepal primary book teaches it. Kuwait's stock is narrow and stated plainly: Skyline 5B teaches the present perfect with just only, with no ever/never/already/yet and no past-simple contrast lesson anywhere in the held set. Over to You Workbook 12A — workbook only, for a Student's Book not held — recycles present perfect simple and continuous in its Grammar assistant and works tense choice in Unit 5. Other closed countries join as their
 books are read (see READING-QUEUE.md).
+Mauritania teaches the present perfect in Grade 11 —
+experience, then duration with for/since — and again for
+duration in Grade 12 (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary
 Schools, Book Three* (MoES/RIES, 2012; full read in

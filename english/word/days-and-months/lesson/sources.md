@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -123,6 +123,13 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 
 **Book 42:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 43:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -227,8 +234,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | Months of the year: month names with Spanish-based pronunciation guides, in + month against on + day/date, months identified by ordinal position (the twelfth month…) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.25–26 |
 | Days and months recapped in the Chapter 0 opening block, with in / on used with dates | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 31 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
+| The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
+| The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
+**Acceptance count: taught in 32 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -247,6 +256,9 @@ shows each, per the standing rule for when books differ.
 Jordan carries the days listened to and circled in its first Learning Club, the days with the week's activities and the months by seasons in Grade 3, and the thirty-days rhyme completed with month names in Grade 6; Greece carries both halves in full — the seven days acted by snowmen and traced as cut-out cards in Grade 2, all twelve months grouped by their seasons in the same pack, then the days on a Grade 4 school timetable and the months inside its Grade 4 time unit; Kazakhstan carries the days inside its Grade 3 Smiles Time module and all twelve months in the same book's Glossary, days and months-and-seasons in Grade 5 English Plus, and the months with ordinals 1st–100th in Grade 4 Top Stars; Iraq carries both halves in full — the seven days Sunday-first with their song in Grade 2, the months in a rhyme with birthdays in Grade 4, and the months whole again in Grade 7 book with the thirty-days rhyme, the full ordinals and written dates — so its week joins the Sunday-first books; Ethiopia carries both halves, with its own week order — the days Monday–Sunday taught as starting on Monday, with the "A week has seven days" song (printed p.31) — and the months as the Ethiopian calendar's 13 months mapped onto the Gregorian month names and seasons in Grade 3, with the "Thirty days have September…" rhyme (printed p.27); South Africa carries both halves in full — the days in Grade 1 HL Workbook 2, Grade 1 FAL and on a Grade 2 FAL calendar, and the months with birthday calendars in Grade 1 HL Workbook 2 and Grade 2 FAL, and on a Grade 3 FAL calendar; Syria carries both halves — the days with routines and a days song in Grade 2, the months with seasons and weather in Grade 3, and dates with ordinals in Grade 6; Syria's books do not state which day its school week starts on in the units filed, and no week-start order is claimed for it here; South Sudan joined 2026-11-03: months half only — month names worked inside the seasons in Primary 3 Unit 6, with no days-of-the-week teaching in the Primary 1–3 books filed; Kuwait carries the days from the older course's Grade 1 activity book and its months from Grade 3's dates lesson, with in/on and a class birthday chart; Rwanda carries both halves in full, twice — days, months, month lengths and calendar-making in its Grade 2 time unit, and days, months, ordinals and written dates in its Grade 3 time unit. Other closed countries join as their books are read (see
 READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries the days Sunday–Saturday in Grade 1 (Unit 9, Saturday the holiday), the months on a weather chart with the capital-letter rule for days and months in Grade 3 (Units 6 and 8), and Months of the Year as a named lesson in its Grade 2 teacher's guide, cited for its own teaching as a guide to a different, unheld workbook (Lesson 30, printed pp.112–126).
+Mauritania ties the days and the months to the ordinals in its
+Grade 7 book (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read

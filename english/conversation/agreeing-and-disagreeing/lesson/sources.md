@@ -41,6 +41,27 @@ READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 6:** *Compulsory Education Textbook · English (PEP), Grade 3 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2012, ISBN 978-7-107-25247-1. Filed in english/books/china.md (China — English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 8:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 9:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Free-time activities; like / love / hate / don't mind + -ing; agreeing and disagreeing with preferences ("So do I", "Neither do I", "I don't") | Cambodia, ENGLISH Grade 10, Unit 8 "Leisure activities", printed pp.41–46 |
@@ -52,6 +73,9 @@ READ + CITATION CHECK PASSED 2026-10-26).
 | The argument frame box: claim ("In my view / I think…") → 2–3 reasons ("First… Second… Finally…") → conclusion; the writing task argues the other side | Mauritania, Study English, Grade 12, Lesson 7 "Should Students Bring Their Cell Phones to School?", printed pp.23–24 |
 | The opinion/agreement phrase bank ("I agree / I disagree / you're right / you're wrong / Nonsense!") in Noura's argument with her grandmother | Mauritania, Study English, Grade 12, Lesson 8 "Noura and Her Grandmother", printed p.26 |
 | Agreeing with a negative, as its own small exchange inside the likes unit: "Me, neither" | China — English (PEP) Grade 3 Volume 2, Unit 5, printed p.52 |
+| Agreeing and disagreeing: I do agree, I disagree, you're right, I think so | Mauritania, Study English, Grade 9, printed pp.57–59 |
+| Agreeing and disagreeing, polite against informal (I'm afraid I can't agree; nonsense; you're mistaken; definitely; absolutely) | Mauritania, Study English, Grade 10, printed pp.27–29 |
+| Agreeing fully and partially, asking for clarification of an opinion, and disagreeing (I couldn't agree more; I agree up to a point; could you explain…; that's not how I see it), in a violent-sports argument text | Mauritania, Study English, Grade 13, printed pp.35–37 |
 
 **Acceptance count: taught in 6 countries (Cambodia,
 Mauritania, Mongolia, Nepal, Uzbekistan, China).** Mongolia
@@ -68,3 +92,7 @@ full phrase bank from its argument lessons. China carries
 the smallest first step of the strand: agreeing with a
 negative — "Me, neither" — inside its Grade 3 likes unit
 (stocked 2026-11-08 by the re-verification sweep).
+The sweep also stocked Mauritania's other agreement teaching:
+the Grade 9 forms, the Grade 10 polite/informal set, and Grade
+13's full and partial agreement with clarification (stocked
+2026-11-09 by the Mauritania re-verification sweep merge).

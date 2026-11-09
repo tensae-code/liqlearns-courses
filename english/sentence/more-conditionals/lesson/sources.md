@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania
 
 Every part traces to its book and page.
 
@@ -41,6 +41,13 @@ PASSED, as filed).
 
 **Book 9:** C
 
+**Book 10:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -54,10 +61,11 @@ PASSED, as filed).
 | If and unless — unless = if not, with the conditions family | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 28 |
 | Conditional sentences — the conditionals table inside the compendium's descriptive-texts unit | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 114 |
 | If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
+| The unreal (second) conditional: if + simple past, would/could + verb; if I were you (one dialogue line in the book, printed p.55, breaks off with no result clause — defective as printed) | Mauritania, Study English, Grade 11, printed pp.55–57 |
 
-**Acceptance count: taught in 8 countries (Armenia,
+**Acceptance count: taught in 9 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia).** Armenia teaches mixed conditionals as a named
+Syria, Bolivia, Mauritania).** Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -71,3 +79,6 @@ inverted Had in one Grade 10 unit; Syria presents
 inversion in full at Grade 12. Kuwait stocks the third
 conditional base, and South Africa the subjunctive
 mood at Grade 5 HL Workbook 2.
+Mauritania teaches the unreal conditional in its Grade 11 book
+(stocked 2026-11-09 by the Mauritania re-verification sweep
+merge).

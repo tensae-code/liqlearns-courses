@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania
 
 Every part traces to its book and page.
 
@@ -49,6 +49,13 @@ lesson is reproduced.
 
 **Book 6:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 7:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Invitations (Study Box: "I'm going to go shopping / to the cinema / to a football match. Would you like to come? — Yes, please, I'd love to. / I'm sorry. I'd like to, but I'm afraid I can't."); pupil-A/pupil-B invitation role-cards with reasons for refusing | Syria, English for Starters 5, Unit 21 "Making invitations / films and the cinema", printed pp.61–63 |
@@ -59,9 +66,10 @@ lesson is reproduced.
 | A party invitation conversation (listening); Speaking: making invitations and responding; Reading II: an informal invitation email (Rahim invites Pratik to a business-opening ceremony) and a formal invitation card; Writing II: an invitation message; Project: a birthday invitation card; Extra bit: inviting/accepting/declining expressions | Nepal, ENGLISH Grade 8, Unit 10 (invitations), printed pp.116–127 |
 | Writing party invitations with time, date and place — the written invitation inside the birthday chapter (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 40 "Birthday Party," printed pp.61–63 (PDF 64–66) — teacher-guide evidence |
 | Polite offers and invitations: “Would you like to go shopping with me? — Yes, I would love to” | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p.42 |
+| Inviting, and accepting and declining invitations (would you like to…, how about + -ing, let's) | Mauritania, Study English, Grade 8, printed pp.12–15 |
 
-**Acceptance count: taught in 5 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria).** Albania — teacher-guide
+**Acceptance count: taught in 6 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria, Mauritania).** Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -76,3 +84,6 @@ with set expressions — in Chapter 5. Nepal gives
 invitations a whole Grade 8 unit, from the heard party
 invitation to the written message, the formal card and
 the birthday-card project.
+Mauritania invites — and accepts and declines — in its Grade 8
+book (stocked 2026-11-09 by the Mauritania re-verification
+sweep merge).

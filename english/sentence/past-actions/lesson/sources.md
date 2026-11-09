@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania
 
 Every part traces to its book and page.
 
@@ -143,6 +143,20 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 58:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 **Book 59:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 60:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 61:** Study English, 5th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -304,9 +318,11 @@ CITATION CHECK PASSED 2026-11-03).
 | The simple past's full form set — negatives, questions and short answers, in the devices unit | Indonesia, English for Nusantara Grade 9, printed p.78 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Was / were for past events, in the time-travel unit | Indonesia, English for Nusantara Grade 9, printed p.152 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Action verbs and the past tense, in the biography unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 1, printed p.24 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 30 countries (Bolivia, Ghana,
+| The simple past, all forms — regular -ed, the irregular second form, didn't + base, did-questions — in a history-of-science reading text | Mauritania, Study English, Grade 9, printed pp.33–35 |
+| Simple past spelling and forms: add -ed, consonant + y → -ied, verbs ending in -e add -d; common irregulars (broke, got, went, saw, ran, put) | Mauritania, Study English, Grade 11, printed pp.7–9 |
+**Acceptance count: taught in 31 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -324,6 +340,9 @@ then irregular — sets the past continuous against it
 in Grade 5, and re-teaches the simple past in Grade 8.
 Greece stages the past in Grade 5 — affirmative first, then negatives and questions, then the continuous and the two pasts together — combines the two boxes in Grade 6, and rebuilds the narrative past at Grade 7. Kazakhstan starts the lexical past at Grade 4 in Smiles (the other Grade 4 books stop at *was/were*), stages regular and irregular past inside one Grade 5 Excel module, and gives the tense its questions and negatives in both Grade 5 and Grade 6 English Plus. Iraq carries the past first in its Grade 3 stories, teaches it explicitly in Grade 4 — went, saw, had, did, played, was/were, did-questions and There was/were — and tables the past forms whole in its Grade 7 Student's Book reference. Ethiopia introduces the simple past in Grade 4 with regular and irregular forms, teaches it in full — affirmative, negative and interrogative — in Grade 5, returns to it in Grade 7, and contrasts it with the present perfect in Grade 9. South Africa makes the past a spine of the whole set: Grade 1 Workbook 2 rewrites in the past with -ed and "Yesterday I…" strips, Grade 2 Workbook 2 sets out the -ed system with its rule and the irregular verbs, Grade 4 Workbook 1 tabulates regular and irregular past forms, and Grade 2 FAL teaches past -ed heard as /t/ after a past-tense narrative. Syria compresses the whole past system into Grade 3's final units — was/were and there was/were, regular -ed, could/couldn't — then stages it again in Grade 4, regular past first and irregular past with did/didn't second. South Sudan joined 2026-11-03: its Primary 4 Pupil's Book states the past tense in a Unit 8 NOTE with its conversion table, and its Secondary 1 Student's Book teaches the past simple in full — -ed spelling rules, didn't negatives and did questions — in Unit 3. Nepal carries the past from Grade 2, where past continuous and past simple arrive together, through did/didn't phone talk in Grade 3 and present→past conversion in Grade 4, to Grade 5's did-questions, past perfect and four-past-tenses table, and Grade 6's past simple and past continuous unitArmenia sets past simple against past continuous in Grade 7, teaches the past perfect and used to in Grade 8, and revises the past tenses whole in Grade 12. Kuwait teaches the past simple from Grade 2, was/were in Grade 3, the past continuous with when in Grade 4, the past system including used to in Grade 6, and the past perfect in Grade 9. Rwanda boxes the past tense in Primary 2 — regular -ed and the irregular changes — uses the past simple without stating a paradigm in Primary 3, names the simple past in Primary 4 and again in Primary 6, and names it only in a unit summary in Primary 5. Other closed countries join as their books
 are read (see READING-QUEUE.md).
+Mauritania teaches the simple past in Grade 9 and its spelling
+system in Grade 11 (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

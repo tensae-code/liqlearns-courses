@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -62,6 +62,13 @@ the old filing in english/books/bangladesh.md.
 
 **Book 16:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 17:** Study English, 1st Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -83,10 +90,11 @@ the old filing in english/books/bangladesh.md.
 | Talking about where your family is from — the family's origins and places | Indonesia, English for Nusantara Kids Grade 3, printed p.47 |
 | The family-members set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
+| Introducing your family in a message: family members, parents' jobs, brothers and sisters, likes | Mauritania, Study English, Grade 7, printed pp.46–47 |
 
-**Acceptance count: taught in 9 countries (Mongolia, North
+**Acceptance count: taught in 10 countries (Mongolia, North
 Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
-Indonesia).** Palestine carries the
+Indonesia, Mauritania).** Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds
@@ -108,3 +116,6 @@ Grade 3, with talk about where the family is from — and
 repeats the set as a Chapter 0 recap at Grades 7 and 9
 (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their
 books are read (see READING-QUEUE.md).
+Mauritania introduces the family in a written message in its
+Grade 7 book (stocked 2026-11-09 by the Mauritania re-
+verification sweep merge).

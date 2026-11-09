@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Indonesia, Mauritania
 
 Every part traces to its book and page.
 
@@ -20,6 +20,13 @@ Every part traces to its book and page.
 
 **Book 8:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 9:** Study English, 7th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The blog model with SIX BLOG TIPS — a title that catches attention first among them; the writer's name and date as part of the kind | Egypt, Primary 6 Term 2 (the Wadi El-Hitan blog model, as filed in EGYPT-BOOK-MAP.md) |
@@ -33,5 +40,9 @@ Every part traces to its book and page.
 | Producing an argumentative-text podcast — the argument text taken to audio for an online audience | Indonesia, Life Today Grade 12, Unit 3, printed p.84 (podcast format only; the argumentative text itself is filed with its own lessons, and no book podcast text is reproduced) |
 | Creating captions and comments for social-media posts | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.148 |
 | Producing an argumentative-text podcast — the argument text taken to audio for an online audience | Indonesia, Life Today Grade 12, Unit 3, printed p.84 (podcast format only; the argumentative text itself is filed with its own lessons, and no book podcast text is reproduced) |
+| Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
 
-**Acceptance count: taught in 5 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 6 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+Mauritania comments on posts with a positive/negative phrase
+set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
+re-verification sweep merge).

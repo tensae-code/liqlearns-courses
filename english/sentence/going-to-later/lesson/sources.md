@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania
 
 Every part traces to its book and page.
 
@@ -141,6 +141,35 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 59:** 10
 
+**Book 60:** Study English, 2nd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 61:** Study English, 3rd Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2026 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 62:** Study English, 4th Year Secondary School
+(Student's Book) — Mauritania, Ministry of National Education
+and Educational System Reform, National Pedagogic Institute
+(IPN), 2025 printing. Re-read page by page in the 2026-11-08
+re-verification sweep (the english/books/mauritania.md filing
+covers the 6th Year book only).
+
+**Book 63:** Study English, 6th Year Secondary School —
+Mauritania, Ministry of National Education and Educational
+System Reform, National Pedagogic Institute (IPN), 2025
+printing. Filed in english/books/mauritania.md (Grade 12 —
+Study English, 6th Year Secondary School section, FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -260,8 +289,12 @@ CITATION CHECK PASSED 2026-11-03).
 | GOING TO in example sentences only — never a named focus anywhere in the guide: "It's sunny now, but it's going to rain in the evening" (weather chapter); "The fastest person is going to win" (sports chapter); "My tooth hurts, so I am going to see the dentist" (appointment chapter) — filed as examples only, not as taught grammar | Albania, *Akelius A2 Level* teacher's guide, Chapter 32 overview, printed p.17; Chapter 33 overview, printed p.22; Chapter 34 overview, printed pp.27–28 |
 | Going to for plans — be going to + verb for plans and predictions | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 12–13 |
 | Be going to — the student book's full treatment: plans, intentions and predictions, with the future-time words (the book's going-to question table swaps the he/she short answers — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 25–28 |
-**Acceptance count: taught in 29 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania).** Bolivia tables going to whole and names its
+| Future plans and intentions: be going to + verb, the present continuous for fixed arrangements, the present simple for timetabled events | Mauritania, Study English, Grade 8, printed pp.47–50 |
+| The simple future will/shall, all forms, with future time expressions | Mauritania, Study English, Grade 9, printed pp.39–42 |
+| Plans and intentions (the present continuous + time adverb, be going to, the present simple for schedules) | Mauritania, Study English, Grade 10, printed pp.41–43 |
+| Will against be going to: future facts and predictions against plans, decisions, intentions and evidence-based predictions | Mauritania, Study English, Grade 12, printed pp.16–17 |
+**Acceptance count: taught in 30 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -281,6 +314,10 @@ occur only incidentally inside other texts (see
 english/books/indonesia.md, honest negatives). Iraq runs *going to* for plans through its Grade 4 school-trip unit, boxes the full paradigm in Grade 5, divides *going to* plans from *will* predictions in Grade 6, and states the pair as one box — plans against certainties — in its Grade 9 Student's Book. Ethiopia sets will / is going to / shall / are to in substitution tables in Grade 3, teaches the simple future with will in Grade 5, groups simple future, going to and the present continuous for intention and plan in Grade 6, and contrasts going to vs will in Grade 7. South Africa stocks this lesson in full: Grade 4 FAL teaches the future with will, going to and shall together, Grade 3 FAL teaches the future tense explicitly with will, and HL writes the future with Tomorrow/will frames in Grade 3 and teaches it with will in Grade 5. Syria meets going to for plans in Grade 5, sets be going to against will by job in Grade 6 — predictions with present evidence, plans against instant decisions — and tables the will/going to contrast in Grade 9. South Sudan joined 2026-11-03: its Primary 4 Pupil's Book teaches going to with adverbs of time, its Primary 3 Pupil's Book tables present, past and future and quotes shall/will futures, its Primary 2 Pupil's Book carries will for future intentions in stories and models only, and its Secondary 4 Student's Book practises will/shall futures. Nepal carries going to first as a whole primary unit in Grade 5 (going to and will for plans), then as the will/going-to contrast in Grade 8 and Grade 11 and inside Grade 9's gathered future forms, with the three-way future contrast also taught, as its own teaching, by the Grade 6 guide; Nepal's Grades 3 and 4 books are not counted here — their filings record going to as never taught as a topic in those booksArmenia opens the future with be going to for plans in Grade 4, sets the three forward forms side by side and adds Future Continuous and Future Perfect in Grade 9, and revises the future forms whole in Grade 12. Kuwait teaches going to in Grades 3 and 4, will in Grades 2 and 4, and will for plans and won't for promises in Grade 6. Rwanda teaches going to in every primary book from Primary 2 on — boxed with will in Primary 2, for plans in Primary 3, as a named topic in Primary 4, in picture sentences and a substitution frame in Primary 5, and in three named uses in Primary 6. Other finished
 countries join as their books are read (see
 READING-QUEUE.md).
+Mauritania plans in Grade 8, futures with will/shall in Grade
+9, plans again in Grade 10, and sets will against going to in
+Grade 12 (stocked 2026-11-09 by the Mauritania re-verification
+sweep merge).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
 Schools, Book Two* (MoES/RIES; full read in
