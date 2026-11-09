@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China
 
 Every part traces to its book and page.
 
@@ -45,6 +45,8 @@ english/books/malaysia.md (Malaysia — English, Grade 6,
 Academy Stars Pupil's Book — DIRECT READ section, FULLY
 READ + CITATION CHECK PASSED 2026-11-06).
 
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Would you like to be an explorer? — Yes, I would. / No, I wouldn't." — the "Would you like…?" offer with its would-answers | Syria, English for Starters 5, Unit 2, printed pp.8–10 (the exchange as listed in the book's contents) |
@@ -55,9 +57,11 @@ READ + CITATION CHECK PASSED 2026-11-06).
 | Telling requests from offers; polite requests and offers in question form with can/could — "Could you pass me that knife, please?", "Can I help you?"; accepting and rejecting politely | Cambodia, ENGLISH Grade 10, Unit 16 "Requests and offers", printed pp.87–92 |
 | Making and accepting offers as the unit's speaking work; the project of collecting offer expressions from real life | Nepal, ENGLISH Grade 8, Unit 17 (the offers unit), printed pp.214–225 |
 | "Shall I…?" and "Would you like me to…?" — the help-offer pair, taught on the apologising-and-offers page | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 4 "Cool jobs", printed p.56 (read directly in the pupil's book) |
+| Offering to help, as classroom work: "Let's clean the classroom! Let me clean the windows. Let me help you" | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.7 |
+| The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Malaysia, Mongolia, Nepal, Syria).** Syria opens the lesson
+**Acceptance count: taught in 6 countries (Cambodia,
+Malaysia, Mongolia, Nepal, Syria, China).** Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -69,4 +73,8 @@ teaches the Shall I / Would you like me to help-offer pair.
 The plan's shorthand "Nepal G10 U17" for this lesson was
 checked against the filing: Nepal's offers unit is Grade 8
 Unit 17 (Grade 10 Unit 17 is Agreeing and disagreeing, and
-is cited in that lesson instead).
+is cited in that lesson instead). China carries the
+help-offer at its youngest: offering to clean the
+classroom in Grade 4, and the table's "Help yourself"
+beside it (stocked 2026-11-08 by the re-verification
+sweep).

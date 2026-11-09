@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -50,6 +50,8 @@ the old filing in english/books/bangladesh.md.
 
 **Book 10:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 11:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -64,9 +66,10 @@ the old filing in english/books/bangladesh.md.
 | My family: family-tree vocabulary (grandparents, parents, uncle/aunt, siblings, cousin, wife/husband, son/daughter, nickname, pet) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.35–36 |
 | The family tree and possessive nouns — the Saxon 's (“Family's”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp.16–17 |
 | Family activities: things families do together; “The family through time” reading (nuclear, childless, single-parent, grandparent, extended families); customs of our region — regional dress vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF pp.63–64 |
+| The family set a second time up — family members, uncles and aunts, cousins, parents, baby | China — English (PEP) Grade 4 Volume 1, Unit 6, printed p.59 |
 
-**Acceptance count: taught in 6 countries (Mongolia, North
-Macedonia, Palestine, Rwanda, Bangladesh, Bolivia).** Palestine carries the
+**Acceptance count: taught in 7 countries (Mongolia, North
+Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China).** Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds
@@ -76,5 +79,8 @@ in-laws, great grandfather, nephew — twice, at Grades 9
 and 10; Rwanda carries the tree as a crossword map in its
 final primary year; Bangladesh carries the family as a
 senior reading on family bonds (added 2026-11-08 by the
-re-verification sweep). Other closed countries join as their
+re-verification sweep). China carries the family set a
+second time up in Grade 4, widening it with uncles, aunts
+and cousins (stocked 2026-11-08 by the re-verification
+sweep). Other closed countries join as their
 books are read (see READING-QUEUE.md).

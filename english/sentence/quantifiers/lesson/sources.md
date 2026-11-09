@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China
 
 Every part traces to its book and page.
 
@@ -43,6 +43,8 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 
 **Book 9:** 8
 
+**Book 10:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -58,15 +60,16 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 | Countable and uncountable nouns — countable rules; uncountable categories (liquids, abstract ideas, powders/grains, mass nouns, states, feelings); some/a few with countable, some/a little with uncountable; irregular plurals child/children, foot/feet, tooth/teeth | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 33 |
 | Some and any — some in positives, any in negatives and questions, for countable and uncountable nouns (the book's own there-is negative model prints “There is not some milk”, which its some/any section itself corrects to any) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 35 |
 | Some and any — the compendium's some/any presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 38 |
+| The first one/many counting of things, in the classroom: "One blackboard, one TV, many desks and chairs" | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.5 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 8 countries (Bolivia,
+**Acceptance count: taught in 9 countries (Bolivia,
 Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal).** Cambodia runs the whole family across three
+Nepal, China).** Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -76,4 +79,7 @@ heading; Libya teaches the same handles as a shopping
 set with its song. Nepal gathers the family, (a) few /
 (a) little included, at Grade 10; Malaysia pairs
 countability and quantifiers at Form 3, and Kuwait
-stocks the family in Pearls 7A.
+stocks the family in Pearls 7A. China carries the
+strand's first step: one against many, counted over the
+classroom's own things in Grade 4 (stocked 2026-11-08 by
+the re-verification sweep).

@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -36,6 +36,10 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 
 **Book 8:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 9:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 10:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | School subjects as one vocabulary set: Spanish, History, Mathematics, Biology, Geography, Physical Education, Arts, Technology, Civics and Ethics, English | Mexico, Grade 7, Project 2, Vocabulary, p.23 |
@@ -48,9 +52,12 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 | The school: places in the school (classroom, computer room/lab, laboratory, principal's office, library, playground, music room, school yard, wash rooms, café, gym, teacher's room, secretary's office, nurse's office, soccer field) described with adjectives; adjective opposites (happy/sad, fast/slow, bright/dark…) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.13–15 |
 | Class supplies vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.13 |
 | The school: “My school” reading, places in the school (teacher's room, schoolyard, bathroom, playground), describing adjectives | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p.31 |
+| The schoolbag dialogue — "What's in your schoolbag? — An English book, a maths book, three storybooks…" | China — English (PEP) Grade 4 Volume 1, Unit 2, printed pp.12–15 |
+| School book words as a set — English book, Chinese book, maths book, storybook, schoolbag | China — English (PEP) Grade 4 Volume 1, Unit 2, printed p.15 |
+| School subjects inside teacher talk — music, art, science, maths, English, Chinese teacher, and the head teacher | China — English (PEP) Grade 5 Volume 1, Unit 1, printed pp.4–5 |
 
-**Acceptance count: taught in 6 countries (Mexico, Mongolia,
-Rwanda, Saudi Arabia, Uzbekistan, Bolivia).** Mexico carries the
+**Acceptance count: taught in 7 countries (Mexico, Mongolia,
+Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -59,5 +66,8 @@ Uzbekistan carries the subjects as a wordsearch set
 inside its education unit; Saudi Arabia carries the
 school unit with subjects inside it, at the evidence
 state stated in the table — opener-level, claimed as no
-more than that. Other closed countries join as their
+more than that. China names the subjects inside its
+teacher talk (the music teacher, the head teacher) and
+lists the school books a bag holds (stocked 2026-11-08 by
+the re-verification sweep). Other closed countries join as their
 books are read (see READING-QUEUE.md).
