@@ -90,6 +90,12 @@ about the other person, and close the talk.*
   starting-and-ending-a-conversation ✅ (3 lessons — the likes,
   opinion and conversation-frame teaching of Indonesia's Grades
   3, 6, 7, 8, 10, 11 and 12 books that no lesson housed)
+- **Sweep additions (2026-11-09, Mauritania re-verification sweep
+  merge):** asking-for-clarification-and-repetition ✅ ·
+  expressing-gratitude ✅ · expressing-sympathy ✅ ·
+  likes-dislikes-and-preferences ✅ (4 lessons — the clarification,
+  gratitude, sympathy and likes/preferences teaching of
+  Mauritania's Grades 7, 8, 10 and 13 books that no lesson housed)
 
 ## Unit 6 — Word Kinds
 *End of unit: the learner knows what each kind of word does.*
@@ -322,6 +328,10 @@ should have.*
   Years 2–3 for can/could; Secundaria 3 for have to;
   Secundaria 5 with compendium Year 5 for the must/should/
   have to comparison)
+- **Sweep additions (2026-11-09, Mauritania re-verification sweep
+  merge):** obligation-must-have-to-need-to-ought-to-shall ✅
+  (1 lesson — Mauritania's Grade 13 five-word obligation
+  comparison, set beside have-to-obligation)
 
 ## Unit 27 — The Small Words That Point
 *End of unit: the learner commands articles, quantities, the
@@ -329,12 +339,20 @@ some/any/no/every grid, and reflexive pronouns.*
 - articles ✅ · quantifiers ✅ · someone-anyone-no-one ✅ ·
   reflexive-pronouns ✅ (catch-up build 2026-11-07 — 4 lessons,
   80 question items)
+- **Sweep additions (2026-11-09, Mauritania re-verification sweep
+  merge):** demonstratives-this-that-these-those ✅ (1 lesson —
+  Mauritania's Grade 7 demonstratives, the pointing words
+  themselves, which the unit named but no lesson taught)
 
 ## Unit 28 — Comparing More Deeply
 *End of unit: the learner can grade comparisons finely and
 link two changes together.*
 - stronger-comparisons ✅ · double-comparatives ✅ (catch-up
   build 2026-11-07 — 2 lessons, 34 question items)
+- **Sweep additions (2026-11-09, Mauritania re-verification sweep
+  merge):** similarity-and-difference ✅ (1 lesson — Mauritania's
+  Grades 9–10 similarity and difference set: the same as,
+  different from, similar to, like, alike, both…and, as…as)
 
 ## Unit 29 — The Passive in Every Tense
 *End of unit: the learner can turn a sentence into the
@@ -418,6 +436,11 @@ object clauses.*
   fixing-sentence-errors ✅ · cleft-sentences ✅ ·
   object-clauses ✅ (catch-up build 2026-11-07 — 5 lessons,
   80 question items)
+- **Sweep additions (2026-11-09, Mauritania re-verification sweep
+  merge):** expressing-purpose ✅ ·
+  alternatives-either-or-neither-nor ✅ (2 lessons — Mauritania's
+  Grade 9–10 purpose set: used for, in order to, so that; and
+  its Grade 13 alternatives: either…or, neither…nor, whether/if)
 
 ## Unit 32 — Habits and Orders
 *End of unit: the learner can talk about past habits and
@@ -561,6 +584,33 @@ Unit 12; noun-phrases in Unit 13; recount-text in
 Unit 36; and checking-facts-online in Unit 42. The
 English path now stands
 at **185 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-09 (MAURITANIA).**
+The Mauritania sweep merge stocked the 127 items the fresh
+page-by-page re-read of its 8 books (138 teaching items;
+11 already in the course) found missing. The old filing
+had read only the Grade 12 (6AS) book and declared
+Mauritania complete on it; the Grades 7–11 and 13 student
+books and the Grade 7 teacher guide had never been read,
+so 110 items were stocked into 57 existing lessons and
+the book errors they carry are taught corrected with the
+error noted (among them the 1AS "she write, it write"
+verb models, the 2AS dessert gloss, the 3AS "atmospheric
+hearing phenomenon", the 1906 first-car claim, and the
+7AS Internet/Web conflation); the summarising lesson's
+Grade 12 paragraph-summarising drill page was corrected
+from printed p.20 to p.21. Stories and readings are
+stocked as plot summaries only; the teacher guide is
+cited as teacher evidence only, for the content beyond
+the student book. It built 9 new lessons:
+asking-for-clarification-and-repetition, expressing-gratitude,
+expressing-sympathy and likes-dislikes-and-preferences
+in Unit 5; obligation-must-have-to-need-to-ought-to-shall
+in Unit 26; demonstratives-this-that-these-those in
+Unit 27; similarity-and-difference in Unit 28; and
+expressing-purpose and alternatives-either-or-neither-nor
+in Unit 31. The English path now stands
+at **194 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

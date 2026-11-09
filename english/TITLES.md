@@ -67,6 +67,10 @@ its own subtitle folder with its own lesson + questions):
   likes-and-hobbies · stating-and-giving-opinions ·
   starting-and-ending-a-conversation (added 2026-11-09 by
   the Indonesia re-verification sweep merge — **Unit 5,
+  Conversation**) · asking-for-clarification-and-repetition ·
+  expressing-gratitude · expressing-sympathy ·
+  likes-dislikes-and-preferences (added 2026-11-09 by
+  the Mauritania re-verification sweep merge — **Unit 5,
   Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
@@ -125,7 +129,15 @@ its own subtitle folder with its own lesson + questions):
   Are You?**) · the-present-continuous · noun-phrases
   (added 2026-11-09 by the Indonesia re-verification sweep
   merge — **Unit 12, Now, Before, Later** and **Unit 13,
-  Joining and Describing**)
+  Joining and Describing**) ·
+  demonstratives-this-that-these-those ·
+  similarity-and-difference · expressing-purpose ·
+  alternatives-either-or-neither-nor ·
+  obligation-must-have-to-need-to-ought-to-shall
+  (added 2026-11-09 by the Mauritania re-verification sweep
+  merge — **Unit 27, The Small Words That Point**,
+  **Unit 28, Comparing More Deeply**, **Unit 31, Linking
+  and Fixing Sentences** and **Unit 26, How Sure Are You?**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
