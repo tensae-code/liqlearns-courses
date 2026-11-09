@@ -120,6 +120,10 @@ about the other person, and close the talk.*
   countries-and-nationalities ✅ · podcast-words ✅ (5 lessons —
   the word sets Bolivia's books teach that no lesson housed:
   Primaria 2; Secundaria 2 and 5; compendium Years 1, 3 and 5)
+- **Sweep addition (2026-11-08, China re-verification sweep
+  merge):** school-and-classroom-things ✅ (1 lesson — the school
+  and classroom word sets China's primary books teach that no
+  lesson housed: Grade 3 Volume 1; Grade 4 Volumes 1–2)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -493,6 +497,26 @@ someone-anyone-no-one), a theme description corrected
 corrected from "(student's book)" to teacher-compilation
 evidence in 9 lessons. The English path now stands at
 **176 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-08 (CHINA).**
+The China sweep merge stocked the 237 items the fresh
+page-by-page re-read of its 9 books (462 teaching items;
+224 already in the course, 1 excluded as a review-only
+table that teaches nothing new) found missing — the
+reading was genuine; the failure was stocking, with whole
+units sitting behind lessons that carried no China
+citation. One item first stocked into
+congratulating-and-wishing was removed again in the same
+merge: the Grade 5 festival word set, which the diff
+counts as already in course via days-and-months, is cited
+once, there. The merge also corrected the present-perfect
+lesson (China's Grade 9 row: the book's present perfect is
+review use, not a Grammar-appendix section) and noted the
+Grade 6 Volume 2 pronunciation appendix's error (the
+letter group "qu" printed as /k/; taught corrected as
+/kw/). It built 1 new lesson inside Unit 7:
+school-and-classroom-things. The English path now stands
+at **177 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

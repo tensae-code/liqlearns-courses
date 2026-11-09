@@ -84,7 +84,10 @@ its own subtitle folder with its own lesson + questions):
   catch-up build) · shapes · music-words · cooking-words ·
   countries-and-nationalities · podcast-words (5 added
   2026-11-08 by the Bolivia re-verification sweep merge —
-  **Unit 7, Words for the World**)
+  **Unit 7, Words for the World**) ·
+  school-and-classroom-things (added 2026-11-08 by the
+  China re-verification sweep merge — **Unit 7, Words for
+  the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
