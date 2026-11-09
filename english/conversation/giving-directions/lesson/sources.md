@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -60,6 +60,12 @@ the file's head banner stands — agent-assisted read, the
 
 **Book 11:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 12:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 13:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 14:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Directions whole: "Excuse me. Where's the (post office)? It's (far from here / just around the corner). How long does it take? Go (straight) and you'll find it on your (left/right); in front of / behind you / opposite / next to the school" | Saudi Arabia, We Can! 3, Unit 11 "Hanging Out in Town", printed pp.82–89 |
@@ -74,9 +80,13 @@ the file's head banner stands — agent-assisted read, the
 | Asking directions (How do I get to…?, Where is the nearest…?, Can you tell me the way to…?, I'm lost) and giving them (go straight ahead, turn left/right, cross, go along/up/down, it's on the corner / next to / in front of / on your left / on your right, take the first/second road, blocks, about 100 meters from here), with map work | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp.37–39 |
 | Asking for and giving directions, with a town map and dialogues | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p.33 |
 | Prepositions of movement and direction phrases (turn left/right, go straight on, go across, on the corner, go through, go past, go up/down, turn around) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF pp.33–34 |
+| Classroom position as the first directions — "Where is it? — It's near/in/on/under the window", with near new | China — English (PEP) Grade 4 Volume 1, Unit 1, printed pp.2–4 |
+| Route talk in dialogue — "Is it far? — No. Now we are behind the hospital. Turn right and then turn right again" | China — English (PEP) Grade 6 Volume 1, Unit 1, printed p.8 |
+| The Recycle directions set — visiting Grandma and Grandpa: route listening with first/then, a lost little boy helped at the police station, directions given by phone over a map | China — English (PEP) Grade 6 Volume 1, Recycle 1, printed pp.32–35 |
+| Asking the way politely as a whole unit — "Could you please tell me where the restrooms are?" | China — English ("Go for it!") Grade 9, Unit 3, printed pp.17–20 |
 
-**Acceptance count: taught in 8 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia).**
+**Acceptance count: taught in 9 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China).****
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -92,5 +102,9 @@ chapter. Libya gives directions a lesson of its own at
 the hotel desk, four questions and four full routes over
 a street map. Kuwait names the grammar of the route —
 imperatives for directions — inside its culture unit.
-Other closed countries join as their books are read (see
+China carries the route from the classroom out: position
+words in Grade 4, turn-right route talk and a full
+Recycle directions set in Grade 6, and polite way-asking
+as a whole Grade 9 unit (stocked 2026-11-08 by the
+re-verification sweep). Other closed countries join as their books are read (see
 READING-QUEUE.md).

@@ -62,11 +62,9 @@ lesson is reproduced.
 
 **Book 9:** *Compulsory Education Textbook · English (PEP), Grade 3 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2012 edition, ISBN 978-7-107-24467-4 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 3 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
-**Book 10:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (China — English Grade 5 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+**Book 10:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
-**Book 11:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
-
-**Book 12:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+**Book 11:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -80,7 +78,6 @@ lesson is reproduced.
 | The same pairing practised, the sympathy side in a hang-gliding accident dialogue | Syria, Emar Workbook 12 (Literary), Unit 2, printed pp.9–15 |
 | Birthday and celebration language whole: the word set (birthday, party, age, special, plan, decorate, arrive, balloon, invite, gift, card, wrap, candle, guest, hope), "Happy birthday," planning a party, and comparing birthday traditions (stocked 2026-11-08 by the re-verification sweep; the chapter's invitation writing is stocked in Inviting) | Albania, Akelius A2 Guide, Chapter 40 "Birthday Party," printed pp.61–63 (PDF 64–66) — teacher-guide evidence |
 | The "Happy birthday!" greeting as its own exchange, inside the birthday unit | China — English (PEP) Grade 3 Volume 1, Unit 6, printed p.57 |
-| Festival and event words as a calendar set — New Year's Day, Tree Planting Day, Children's Day, Mother's Day, Father's Day, Teachers' Day, Mid-Autumn Day, National Day, Thanksgiving, Christmas, Dragon Boat Festival, summer/winter vacation | China — English (PEP) Grade 5 Volume 2, Unit 3, printed pp.22–28 |
 | Farewell language as a set — "Good luck! Have a good trip! Keep in touch. Take care. Write soon", with the goodbye chant ("Don't be late for the party") | China — English (PEP) Grade 6 Volume 2, printed p.50 |
 | April Fool's Day vocabulary and talk — fool, costume party, get dressed, show up, stay up all night, embarrassed/embarrassing | China — English ("Go for it!") Grade 9, Unit 12, printed pp.93–95 |
 
@@ -106,8 +103,10 @@ pairs congratulating with expressing sympathy in one
 Everyday English slot, in both its Student's Book and its
 Workbook. China carries the greeting at its smallest —
 "Happy birthday!" as its own exchange in Grade 3 — then
-the festival calendar as a word set in Grade 5, the
-farewell set ("Good luck! Keep in touch. Take care.") in
-Grade 6, and the April Fool's Day words at Grade 9
-(stocked 2026-11-08 by the re-verification sweep). Other closed countries join as their books are
+the farewell set ("Good luck! Keep in touch. Take care.")
+in Grade 6, and the April Fool's Day words at Grade 9
+(stocked 2026-11-08 by the re-verification sweep). Its
+Grade 5 festival-and-event word set is stocked once, in
+Days and months, where the diff counted it as already in
+course. Other closed countries join as their books are
 read (see READING-QUEUE.md).

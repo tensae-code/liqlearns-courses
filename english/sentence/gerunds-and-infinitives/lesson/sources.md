@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -68,6 +68,8 @@ still owed).
 
 **Book 12:** C
 
+**Book 13:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -87,9 +89,10 @@ still owed).
 | Likes and dislikes with -ing — like/love/hate/enjoy + verb-ing, in hobbies and free time | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 37–38, 41 |
 |  Likes and dislikes in full — I/you/we/they like; he/she likes; do/does questions; -ing spelling rules (double consonant, drop -e, -ie to -y) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 39 |
 | Free time — I like + verb-ing for free-time activities | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 39 |
+| Study methods talked with by + -ing — "How do you learn English? — I learn by studying with a group. Do you learn by reading aloud? You can read faster by reading word groups. One way is by listening to tapes" | China — English ("Go for it!") Grade 9, Unit 1, printed pp.1–4 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia).** Cambodia
+**Acceptance count: taught in 8 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China).** Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -103,4 +106,7 @@ Grammar Corner in both senior SPINE books. Vietnam
 runs verbs + to-infinitive / V-ing at Grade 9, then
 gerunds as subjects and objects, noun-modifying
 to-infinitives and perfect gerunds as three named
-Grade 11 boxes.
+Grade 11 boxes. China works the -ing form as the way of
+doing a thing — by studying, by reading aloud, by
+listening to tapes — inside its how-to-learn unit
+(stocked 2026-11-08 by the re-verification sweep).

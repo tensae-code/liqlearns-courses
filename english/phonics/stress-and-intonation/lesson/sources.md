@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -45,6 +45,8 @@ file).
 
 **Book 8:** C
 
+**Book 9:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -71,8 +73,14 @@ file).
 | Pronunciation tips — the book's pronunciation guidance in its later units | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 49–50 |
 | Pronunciation and spelling — sound–spelling correspondences as exam guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 62 |
 | Pronunciation tips — the compendium's pronunciation guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 82 |
+| Pronunciation tips: linked sounds in speech (follow me please, is it far, where is the restaurant) | China — English (PEP) Grade 6 Volume 1, Unit 1, printed p.9 |
+| Pronunciation tips: more linking (come and have a look, pictures of, stop at a red light) | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.19 |
+| Pronunciation tips: word stress — 'lesson, 'dinner against to'night, to'morrow | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.29 |
+| Pronunciation tips: sentence stress — saying the strong words clearly (We can share. I like dancing. He lives on a farm) | China — English (PEP) Grade 6 Volume 1, Unit 4, printed p.43 |
+| Pronunciation tips: pausing at // marks in long sentences | China — English (PEP) Grade 6 Volume 1, Unit 5, printed p.53 |
+| Pronunciation tips: linking a consonant to the next vowel (next day, can't go, count to, don't be) | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.63 |
 
-**Acceptance count: taught in 6 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia).**
+**Acceptance count: taught in 7 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China).**
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -86,5 +94,10 @@ schwa alone, in one full worksheet opening (its
 clusters and s/z work belong to other lessons). Vietnam
 stocks the system as a system: weak forms, elision,
 sentence stress and rhythm, and an intonation pattern
-for every sentence kind across Grades 11–12. Counts
+for every sentence kind across Grades 11–12. China runs
+a pronunciation tip in every Grade 6 unit — linking,
+word stress, sentence stress, pausing, linking again —
+the strand its filing claimed and the course had not
+stocked (sweep flag 4; stocked 2026-11-08 by the
+re-verification sweep). Counts
 grow as other closed countries' books are read.

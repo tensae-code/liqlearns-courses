@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia
+countries: Egypt, Nepal, Cambodia, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 
 **Book 8:** C
 
+**Book 9:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -33,5 +35,6 @@ Every part traces to its book and page.
 | Comparative adjectives — small–smaller, big–bigger, long, easy, happy, clean, safe, thin with “smaller than” frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 36 |
 | Comparative and superlative adjectives — the comparison table (adjective, comparative, superlative; good–better–best, bad–worse–worst) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 79 |
 | Comparison with AS…AS — as + adjective + as, with as much/many as | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
+| The superlative in use — "I'm the tallest!", "That's the tallest dinosaur in this hall" | China — English (PEP) Grade 6 Volume 2, Unit 1, printed pp.2–4 |
 
-**Acceptance count: taught in 4 countries (Egypt, Nepal, Cambodia, Bolivia).**
+**Acceptance count: taught in 5 countries (Egypt, Nepal, Cambodia, Bolivia, China).** China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).

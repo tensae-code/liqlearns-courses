@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia
+countries: Cambodia, Malaysia, Syria, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -44,6 +44,10 @@ English, Pupil's Book 6 (pupil's book) section, FULLY READ
 
 **Book 6:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Requests: can you / will you for casual requests, could you / would you / would you mind for formal ones — the distinction stated in the book's own notes; barbecue help, a wedding, and exam preparation at school | Cambodia, ENGLISH Grade 8, Unit 8 "Helping family and friends", printed pp.56–61 |
@@ -53,9 +57,11 @@ English, Pupil's Book 6 (pupil's book) section, FULLY READ
 | Polite formulae for requesting, mined from a telephone conversation, with a role-played video call | Malaysia, ENGLISH FORM 1, Chapter 2 "It's a Small World", printed pp.13–24 |
 | The request exponents "Can/Could you…?" among the free-time unit's language of requests, beside apologies and suggestions | Syria, English Pupil's Book 6, Unit 7 "Free time", printed pp.36–39 |
 | Magic words: please, sorry, thank you, excuse me | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed p.7 |
+| Asking the way politely — "Excuse me. Can you help me? How can I get to the science museum?" | China — English (PEP) Grade 6 Volume 1, Unit 1, printed pp.3–6 |
+| Permission asked politely, in detail — get ears pierced, choose their own clothes, work at night, cut hair, wear that silly earring, take photos with a flash in a museum ("Do you think we may be allowed to take photos if we don't use a flash?") | China — English ("Go for it!") Grade 9, Unit 7, printed pp.49–50 |
 
-**Acceptance count: taught in 4 countries (Cambodia,
-Malaysia, Syria, Bolivia).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 5 countries (Cambodia,
+Malaysia, Syria, Bolivia, China).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -66,4 +72,7 @@ Form 1. Syria's Grade 6 book carries the Can/Could
 request exponents in its free-time unit. The plan's
 shorthand "Syria" for this lesson is pinned here to the
 Grade 6 Pupil's Book's Unit 7 exponents, the Syria filing
-entry that states them.
+entry that states them. China asks politely twice up:
+the way-asking opener in Grade 6 ("Excuse me. Can you
+help me?") and permission-asking in detail at Grade 9
+(stocked 2026-11-08 by the re-verification sweep).

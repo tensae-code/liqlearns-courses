@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -56,6 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 12:** C
 
+**Book 13:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | used to / didn't use to for past situations AND regular habits, often comparing past and present; would + infinitive for past habits and typical behaviour — NOT past situations; wouldn't for refusal | Egypt, Secondary 11, Term 2, Unit 9, Past Habits box, printed p.29 (via EGYPT-BOOK-MAP.md) |
@@ -74,9 +76,11 @@ CITATION CHECK PASSED 2026-11-03).
 | WOULD for past habits — would + verb for repeated past actions, with used to named alongside | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 32–33 |
 | USED TO — used to + verb for past habits and states that no longer happen | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 34 |
 | The modal WOULD — would for past habits, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 100 |
+| used to for past habits and states as a whole unit — "I used to be short. Paula used to be really quiet. You used to be short, didn't you? Did he use to wear glasses? I didn't use to be popular" | China — English ("Go for it!") Grade 9, Unit 4, printed pp.25–28 |
+| Childhood likes and fears with used to — "I used to be afraid of the dark / being alone / flying / high places / giving a speech in public"; things you used to like (P.E. class, painting pictures, music class, ants and other insects) | China — English ("Go for it!") Grade 9, Unit 4, printed pp.28–29 |
 
-**Acceptance count: taught in 8 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia).** One correction is recorded as the course
+**Acceptance count: taught in 9 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China).** One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -89,4 +93,9 @@ for habits and states, would for repeated actions)
 stands and is cited. Cambodia is the set's fullest
 witness, carrying used to from Grade 9 to the Grade 12
 be/get used to consolidation; Egypt states the
-used-to/would line most sharply.
+used-to/would line most sharply. China gives used to a
+whole Grade 9 unit — habits, states, questions and
+negatives in standard form, and the childhood fears set
+beside it (stocked 2026-11-08 by the re-verification
+sweep; the unit was behind this lesson with no China
+citation at all).
