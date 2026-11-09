@@ -11,7 +11,7 @@ Every part traces to its book and page.
 **Book 5:** *Mathematics, Grade 1, Teuxos B pupil book (chapters 33–64)* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 6:** *Mathematics 2, Part I* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Toán 1, Tập Một + Tập Hai; Toán 2, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
-**Book 8:** *Differentiated Learning (DL) workbook, Level 2* (student workbook, task sheets only) — Ghana. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 8:** *Differentiated Learning (DL) workbook, Level 2* (student workbook, task sheets only) — Ghana. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Student-workbook evidence: this book is the pupils' own task-sheet workbook; Ghana's set holds no pupil textbook (no taught exposition) at all.
 **Book 9:** *Mathématiques, Grade 1 and Grade 2 student books* — Mauritania. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 1 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 original / 2020 reprint (one book held twice, ISBN 978-9932-00-174-3, counted once). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Mathematics, Grade 2 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2020, ISBN 978-9932-406-23-4. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
@@ -235,12 +235,17 @@ Every part traces to its book and page.
 **Book 171:** *Mathematics, Primary 2, Term 1 (Japanese-collaboration series)* — Egypt, Ministry of Education and Technical Education, © 2026/2027 (one work in Arabic and English editions; ISBN 978-633-8530-14-3). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 172:** *Mathematics, Primary 3, Term 1 (Japanese-collaboration series)* — Egypt, Ministry of Education and Technical Education, © 2025/2026 (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 173:** *Differentiated Learning (DL) Teacher Guide, Lower Primary, Modules 1–5* (teacher guide) — Ghana, GES/UNICEF, © MoE/GES 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 174:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 175:** *Differentiated Learning (DL) Teacher Guide, Upper Primary, Modules 1–5* (teacher guide) — Ghana, GES/UNICEF, © MoE/GES 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 176:** *DL Mathematics Workbook for Upper Primary, Level 1 (Basic 4–6)* (student workbook, task sheets only) — Ghana, GES/UNICEF, © MoE/GES 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Student-workbook evidence: task sheets only, no taught exposition; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Subtracting ones; subtracting tens; subtracting tens and ones; more subtracting tens and ones (without regrouping) | Libya, Grade 1 pupil's book Pt 2, Unit 16 — Numbers to 100, pp.74–79 |
 | Subtracting two-digit numbers without regrouping | Jordan, Grade 1 Student Book Term 1, p.26 |
 | Subtraction WITHOUT regrouping within 100 | Vietnam, Toán 1, p.44 |
-| Subtracting 1-digit numbers, then 1- and 2-digit numbers to 20 | Ghana, DL teacher guides, Module 2 (teacher evidence) |
+| Subtracting 1-digit numbers, then 1- and 2-digit numbers to 20 | Ghana, DL teacher guides, Module 1, Week 8 (teacher evidence) |
 | Borrowing from hundreds to tens (137 − 54 = 83); borrowing in both ones and tens places (137 − 59 = 78) | Egypt, Primary 2 Term 1 (Japanese-collaboration series), Chapter 8, Lessons 8-3–8-4, pp.108–111 |
 | The written (column) subtraction algorithm: 77 − 32; cases 60 − 14, 100 − 82 | Kazakhstan, Grade 2 (Zhakupova set, Part 2), Section 2A, pp.18–20 |
 | Vertical subtraction with borrowing (ch.35) | Greece, Grade 1 Teuxos B, Unit 6, ch.35 |
@@ -585,6 +590,35 @@ Every part traces to its book and page.
 | Subtracting two-digit numbers | Armenia, Mathematics 2, Part I, printed p. 28 |
 | Subtraction of natural numbers; moving left on the coordinate ray | Armenia, Mathematics 5, §2.4, printed p. 45 |
 | When the subtrahend is a sum | Armenia, Mathematics 5, §2.11, printed p. 68 |
+| Subtracting 1- and 2-digit numbers to 20, then two 2-digit numbers to 100 | Ghana, DL Teacher Guide, Lower Primary, Module 2, Week 8, Lesson 1, printed p. 64 (teacher evidence only) |
+| Subtracting 1-digit from 2-digit numbers with regrouping (100-chart method); then two 2-digit numbers | Ghana, DL Teacher Guide, Lower Primary, Module 3, Week 5, Lesson 1, printed p. 86 (teacher evidence only) |
+| Subtraction word problems | Ghana, DL Teacher Guide, Lower Primary, Module 3, Week 6, Lesson 2, printed p. 92 (teacher evidence only) |
+| Subtracting 1-digit from 2-digit numbers with regrouping (subtraction frame and chart) | Ghana, DL Teacher Guide, Lower Primary, Module 4, Week 5, Lesson 1, printed p. 86 (teacher evidence only) |
+| Subtraction word problems | Ghana, DL Teacher Guide, Lower Primary, Module 4, Week 6, Lesson 2, printed p. 92 (teacher evidence only) |
+| Subtracting two 2-digit numbers (frame and chart) | Ghana, DL Teacher Guide, Lower Primary, Module 5, Week 5, Lesson 1, printed p. 86 (teacher evidence only) |
+| Activity Book, Activity 8: Subtraction of Whole Numbers Using the Subtraction Frame (with lettered variants) | Ghana, DL Teacher Guide, Lower Primary, printed p. 138 (teacher evidence only) |
+| Subtraction of 1-digit number from 2-digit number on the 100-chart | Ghana, DL Workbook, Lower Primary Level 2, Module 3, Lesson 5, printed p. 39 (student workbook — task sheets only) |
+| Subtracting a 1-digit number from a 2-digit number: frames, columns, chart jumps | Ghana, DL Workbook, Lower Primary Level 2, Module 4, Lesson 5, printed p. 59 (student workbook — task sheets only) |
+| Subtraction in column — Be able to solve subtraction by column method without regrouping. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 26, printed p. 26 (teacher evidence only) |
+| Subtraction with regrouping (1) — Be able to solve subtraction by column method with regrouping once. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 27, printed p. 27 (teacher evidence only) |
+| Subtraction with regrouping (2) — Be able to solve subtraction by column method with regrouping twice. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 28, printed p. 28 (teacher evidence only) |
+| Subtract by making 10s — Be able to solve addition and subtraction by making 10s. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 32, printed p. 32 (teacher evidence only) |
+| Subtracting a 1-digit number from a 2-digit number, with regrouping | Ghana, DL Teacher Guide, Upper Primary, Module 1, Week 5, Lesson 1, printed p. 18 (teacher evidence only) |
+| Subtraction word problems (two 2-digit numbers) | Ghana, DL Teacher Guide, Upper Primary, Module 1, Week 6, Lesson 2, printed p. 24 (teacher evidence only) |
+| Subtraction of two 2-digit numbers | Ghana, DL Teacher Guide, Upper Primary, Module 2, Week 5, Lesson 1, printed p. 52 (teacher evidence only) |
+| Subtraction of a 2-digit number from a 3-digit number | Ghana, DL Teacher Guide, Upper Primary, Module 3, Week 5, Lesson 1, printed p. 86 (teacher evidence only) |
+| Subtraction of two 3-digit numbers | Ghana, DL Teacher Guide, Upper Primary, Module 4, Week 3, Lesson 1, printed p. 78 (teacher evidence only) |
+| Modelling subtraction word problems | Ghana, DL Teacher Guide, Upper Primary, Module 4, Week 4, Lesson 2, printed p. 84 (teacher evidence only) |
+| Subtraction of 3-digit numbers from 4-digit numbers | Ghana, DL Teacher Guide, Upper Primary, Module 5, Week 3, Lesson 1, printed p. 78 (teacher evidence only) |
+| Subtraction word problems | Ghana, DL Teacher Guide, Upper Primary, Module 5, Week 4, Lesson 2, printed p. 84 (teacher evidence only) |
+| Subtraction word problems (second week) | Ghana, DL Teacher Guide, Upper Primary, Module 5, Week 5, Lesson 2, printed p. 88 (teacher evidence only) |
+| Activity Book, Activity 10: Subtraction of Whole Numbers Using the Subtraction Frame (with lettered variants) | Ghana, DL Teacher Guide, Upper Primary, Activity Book, Activity 10, printed p. 168 (teacher evidence only) |
+| Activity Book, Activity 11: Subtraction of Whole Numbers Using the Number Chart (with lettered variants) | Ghana, DL Teacher Guide, Upper Primary, Activity Book, Activity 11, printed p. 182 (teacher evidence only) |
+| Activity Book, Activity 12: Subtraction of a 2-digit from a 3-digit number (with lettered variants) | Ghana, DL Teacher Guide, Upper Primary, Activity Book, Activity 12, printed p. 195 (teacher evidence only) |
+| Activity Book, Activity 13: Subtraction Using the Decomposition Method (with lettered variants) | Ghana, DL Teacher Guide, Upper Primary, Activity Book, Activity 13, printed p. 201 (teacher evidence only) |
+| Subtraction of 1-digit number from 2-digit number: frames, chart, columns | Ghana, DL Workbook, Upper Primary Level 1, Module 1, Lesson 5, printed p. 10 (student workbook — task sheets only) |
+| Subtraction of 2-digit numbers: mats and chart | Ghana, DL Workbook, Upper Primary Level 1, Module 2, Lesson 5, printed p. 31 (student workbook — task sheets only) |
+| Subtraction of a 2-digit number from a 3-digit number: mats and wheels | Ghana, DL Workbook, Upper Primary Level 1, Module 3, Lesson 5, printed p. 11 (student workbook — task sheets only) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Indonesia Grade 5

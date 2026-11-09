@@ -338,6 +338,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 160:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 161:** *Applied Mathematics, Grade 11, Term 1* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 162:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 163:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -681,6 +684,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Rectangular parallelepiped | Armenia, Geometry 10, §9.26, printed p. 81 |
 | Pyramid | Armenia, Geometry 10, §10.27, printed p. 86 |
 | Regular pyramid | Armenia, Geometry 10, §10.28, printed p. 87 |
+| Standard B5.3.2.2: Demonstrate an understanding of volume of common 3D shapes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.3.2.2, printed p. 100 (curriculum evidence only) |
+| Standard B9.3.2.1: Derive the formulas for determining the surface area of prisms (i.e. cuboid and triangular prism) and use to solve problems | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.2.1, printed p. 205 (curriculum evidence only) |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,

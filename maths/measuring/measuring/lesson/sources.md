@@ -394,6 +394,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 216:** *Mathematics, Grade 3 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only. (Body-depth note corrected by the 2026-11-08 re-verification sweep: the guide's body text layer is font-broken, so the earlier characterisation of which chapters receive detailed body guidance is unverified and is not repeated; what the re-read establishes is its complete syllabus appendix, guide PDF pp. 31–42, covering all 12 chapters with period counts.)
 **Book 217:** *Mathematics, Grade 4 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: partial companion — detailed only for student ch. 1, 2 and 4, and it swaps chapters 3 and 4; never follow its chapter order for the student book.
 
+**Book 218:** *NaCCA Standards-Based Curriculum, Basic 1–3* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 219:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -938,6 +941,15 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Units of measurement; measuring tools | Armenia, Geometry 7, §2.5, printed p. 14 |
 | Distance from a point to a line | Armenia, Geometry 7, §16.38, printed p. 126 |
 | Distance between parallel lines | Armenia, Geometry 7, §16.39, printed p. 128 |
+| Standard B1.3.3.1: Demonstrate an understanding of Measurement | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B1.3.3.1, printed p. 17 (curriculum evidence only) |
+| Standard B2.3.2.1: Demonstrate that the length of an object does not change with its placement or direction | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B2.3.2.1, printed p. 35 (curriculum evidence only) |
+| Standard B2.3.3.1: Use non-standard units for measuring lengths, heights, mass and distance around objects | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B2.3.3.1, printed p. 36 (curriculum evidence only) |
+| Standard B2.3.3.2: Use standard units to measure lengths, heights, mass and distance around objects. cont’d | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B2.3.3.2, printed p. 38 (curriculum evidence only) |
+| Standard B3.3.2.1: Demonstrate that the length of an object does not change with its placement or direction | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B3.3.2.1, printed p. 66 (curriculum evidence only) |
+| Standard B3.3.3.1: Demonstrate an understanding of a metre and centimetre (cm, m) units for measuring length | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B3.3.3.1, printed p. 67 (curriculum evidence only) |
+| Standard B3.3.3.2: Demonstrate an understanding of kilogram and gram (Kg, g) unit for measuring mass and millitre and litre (ml, l) for measuring capacity | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B3.3.3.2, printed p. 68 (curriculum evidence only) |
+| Find the distance of two points — Be able to find the distance between the two points on a number line whose calibration is 1. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 92, printed p. 92 (teacher evidence only) |
+| Find the distance of two points — Be able to find the distance between the two points on a number line whose calibration is bigger than 1. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 93, printed p. 93 (teacher evidence only) |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the

@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana
 
 Every part traces to its book and page.
 
@@ -210,6 +210,9 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 126:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 127:** *Mathematics, Grade 11, Term 1, General track (Literary section)* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (Deposit no. 10555/2015; ISBN 978-977-706-012-7). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 128:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
+**Book 129:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 130:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -590,8 +593,14 @@ CITATION CHECK PASSED 2026-11-05).
 | Monotonicity intervals and extrema of a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 9, printed p. 206 (teacher evidence) |
 | Scheme of investigating a function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 10, printed p. 238 (teacher evidence) |
 | Inverse function | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 4, Part 11, printed p. 249 (teacher evidence) |
+| Standard B4.2.1.3: Represent, describe and extend patterns and relationships, using charts and tables, to solve problems | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.2.1.3, printed p. 32 (curriculum evidence only) |
+| Standard B7.2.1.1: Derive the rule for a set of points of a relation, draw a table of values to graph the relation in a number plane and make predictions about subsequent elements of the re | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.2.1.1, printed p. 27 (curriculum evidence only) |
+| Standard B8.2.1.1: Demonstrate the ability to draw table of values for a linear relation, graph the relation in a number plane, determine the gradient of the line and use it to write equati | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B8.2.1.1, printed p. 112 (curriculum evidence only) |
+| Standard B9.2.1.1: Demonstrate the ability to construct tables of values for pairs of linear relations, graph the relations in a number plane and determine the intersection of the lines to | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.2.1.1, printed p. 180 (curriculum evidence only) |
 
 **Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia).**.** Egypt carries the
+
+Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
 and range in Preparatory 3 (at the book's printed folios,
 corrected by the 2026-11-08 re-verification sweep), relations

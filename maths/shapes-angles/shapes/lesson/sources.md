@@ -404,6 +404,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 244:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 **Book 245:** *Mathematics, Grade 9 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: companions the student book fully; guide Unit 1 = student Unit 2 (the number-system unit), Sets as primer Unit 1' — cite by student unit numbers.
 
+**Book 246:** *NaCCA Standards-Based Curriculum, Basic 1–3* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 247:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 248:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -953,6 +957,17 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Parallelogram | Armenia, Geometry 10, §7.20, printed p. 64 |
 | Rectangle, rhombus | Armenia, Geometry 10, §7.21, printed p. 66 |
 | Trapezoid | Armenia, Geometry 10, §7.22, printed p. 68 |
+| Standard B1.3.1.1: Analyse attributes of two- dimensional shapes and three-dimensional objects to develop general concept about their properties | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B1.3.1.1, printed p. 15 (curriculum evidence only) |
+| Standard B2.3.1.1: Describe and analyse 2D shapes and 3D objects | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B2.3.1.1, printed p. 33 (curriculum evidence only) |
+| Standard B3.3.1.1: Analyse the relationships among and between 2-D shapes and 3-D objects according to a variety of attributes, including measurement | Ghana, NaCCA Standards-Based Curriculum, Basic 1–3, Standard B3.3.1.1, printed p. 64 (curriculum evidence only) |
+| Identify regular shapes (1) — Be able to identify regular shapes from several different polygons (triangles, rhombi, rectangles and squares). | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 81, printed p. 81 (teacher evidence only) |
+| Identify regular shapes (2) — Be able to identify regular shapes from several different polygons (a pentagon, hexagon and octagon). | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 82, printed p. 82 (teacher evidence only) |
+| Understand quadrilaterals — Understand the characteristics of different types of quadrilaterals. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 87, printed p. 87 (teacher evidence only) |
+| Identify 3D objects (1) — Be able to identify the names of 3D objects (cylinder and prisms). | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 88, printed p. 88 (teacher evidence only) |
+| Identify 3D objects (2) — Be able to identify the names of 3D objects (cone, pyramid and sphere). | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 89, printed p. 89 (teacher evidence only) |
+| Draw 3D objects — Be able to draw 3D objects from their names. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 91, printed p. 91 (teacher evidence only) |
+| Standard B5.3.1.1: Identify and sort quadrilaterals, including rectangles, squares, trapezoids, parallelograms, and rhombuses, according to their attributes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.3.1.1, printed p. 94 (curriculum evidence only) |
+| Standard B6.3.1.1: Demonstrate understanding of prisms | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B6.3.1.1, printed p. 144 (curriculum evidence only) |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family

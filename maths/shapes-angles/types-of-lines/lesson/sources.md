@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana
 
 Every part traces to its book and page.
 
@@ -65,6 +65,8 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 40:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Mathematics, Grade 7, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, ISBN 978-7-107-24620-3. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Volume 1 (Chapters 1–4) is not held, and no Grade 8 book is in hand.
+
+**Book 43:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -178,8 +180,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | The inclined line (թեք) to a plane/line | Armenia, Geometry 7, §16.40, printed p. 130 |
 | Intersecting lines: adjacent supplementary and vertically opposite angles, with the proof that opposite angles are equal; perpendiculars — the foot, the unique perpendicular through a point, the perpendicular as the shortest segment, distance from a point to a line | China, Grade 7 Volume 2, Ch. 5, printed pp. 2–10 |
 | The eight angles cut by a transversal (corresponding, alternate interior, same-side interior); parallel lines defined; the parallel postulate and transitivity; the three tests for parallelism and the three matching properties | China, Grade 7 Volume 2, Ch. 5, printed pp. 11–25 |
+| Understand perpendicular — Understand what is perpendicular. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 84, printed p. 84 (teacher evidence only) |
+| Understand parallel — Understand what is parallel and its relation to perpendicular. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 86, printed p. 86 (teacher evidence only) |
 
 **Acceptance count: taught in 15 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+
+Ghana also contributes to this lesson as teacher evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 
 India stocks types of lines from Math-Magic Class 2 and Mathematics Class 6–7, 9: standing, slanting, sleeping lines; point and line; intersecting lines and their point of intersection; basic terms.
 

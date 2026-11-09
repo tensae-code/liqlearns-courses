@@ -190,6 +190,9 @@ textbook.
 **Book 101:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 102:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 103:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 104:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -204,7 +207,7 @@ textbook.
 | Reflecting over axes; reflecting over lines; reflecting over any line; rotations; translation; transformation consolidation — describing types "according to their characteristics" | South Africa, Grade 9 Book 1, Term 4, WS105 Reflecting over axes; WS106 Reflecting over lines; WS107 Reflecting over any line; WS108 Rotations; WS109 Translation; WS110 Transformation, pp.108–131 |
 | Central symmetry; axial symmetry; the exterior angle; relative positions of a line and a circle | Greece, Euclidean Geometry Volume A (Grades 10–11), Ch.3 Triangles (central symmetry, axial symmetry) |
 | Transformations in the plane | Mauritania, 4AS (Grade 10) student book, "Transformations dans le plan", p.170 |
-| Reflection introduced in the Grade 6 geometry block | Ghana, JICA Primary Mathematics Teacher Manual B6, Lesson 104 (reflection) — teacher evidence only; Ghana's set holds no pupil textbook |
+| Reflection introduced in the Grade 6 geometry block | Ghana, JICA Primary Mathematics Teacher Manual B6, Lesson 94 (reflection) — teacher evidence only; Ghana's set holds no pupil textbook |
 | Translation, reflection and rotation on squared paper, coordinates of vertices, tiling patterns, enlarging and reducing by coordinates | Laos, Grade 5 student book, L46–L50 and L53–L54, printed pp. 112–135 |
 | Reflection in a line, symmetric figures, reflection of angles, segments and circles | Laos, Grade 6 student book, L17 and L19, printed pp. 129–155 |
 | Axial and central symmetry | Laos, Grade 7 student book, L12–L13, printed pp. 43–58 |
@@ -372,6 +375,10 @@ textbook.
 | What motion is in geometry | Armenia, Geometry 11, §10.1, printed p. 111 |
 | Main properties of motion | Armenia, Geometry 11, §10.2, printed p. 114 |
 | Acquaintance with some kinds of motion | Armenia, Geometry 11, §10.3, printed p. 115 |
+| Standard B5.3.4.2: Perform a single transformation (i.e. reflection) on a 2D shape | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.3.4.2, printed p. 106 (curriculum evidence only) |
+| Standard B7.3.3.1: Perform a single transformation (i.e. reflection and translation) on a 2D shape using graph paper (including technology) and describe the properties of the image under th | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.3.1, printed p. 72 (curriculum evidence only) |
+| Standard B8.3.3.1: Perform a single transformation (i.e. rotation) on a 2D shape using graph paper (including technology) and describe the properties of the image under the transformation ( | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B8.3.3.1, printed p. 151 (curriculum evidence only) |
+| Standard B9.3.3.1: Demonstrate understanding of how to perform an enlargement on a geometrical shape given a scale factor and describe the properties of the image under the transformation ( | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.3.1, printed p. 209 (curriculum evidence only) |
 
 **Acceptance count: taught in 33 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with

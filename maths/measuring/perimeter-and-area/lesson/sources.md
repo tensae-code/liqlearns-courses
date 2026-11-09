@@ -409,6 +409,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 206:** *Mathematics, Primary 3, Term 2, "Education 2.0" series* — Egypt, Ministry of Education and Technical Education, 2025–2026 (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 207:** *Mathematics, Grade 7 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
+**Book 208:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 209:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -813,6 +816,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Heron's formula | Armenia, Geometry 8, §8.18, printed p. 53 |
 | Area of a rhombus | Armenia, Geometry 8, §9.19, printed p. 56 |
 | Area of a trapezoid | Armenia, Geometry 8, §9.20, printed p. 57 |
+| Standard B4.3.3.1: Demonstrate understanding of perimeter of regular and irregular shapes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.3.3.1, printed p. 39 (curriculum evidence only) |
+| Standard B4.3.3.2: Demonstrate an understanding of area of regular and irregular 2-D shapes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.3.3.2, printed p. 41 (curriculum evidence only) |
+| Standard B5.3.2.1: Estimate and measure perimeter and surface area of 2-D shapes using centimetre and metre | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.3.2.1, printed p. 97 (curriculum evidence only) |
+| Standard B7.3.2.2: Derive the formula for determining the area of a triangle and use it to solve problems | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.2.2, printed p. 64 (curriculum evidence only) |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with

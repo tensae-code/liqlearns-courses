@@ -1,6 +1,6 @@
 # Sources — Bearings
 
-countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia
+countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Ghana
 
 Every part traces to its book and page.
 
@@ -15,6 +15,8 @@ Every part traces to its book and page.
 **Book 7:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Математик IX (Mathematics, Grade 9)* — Mongolia, Ministry of Education, first edition, Ulaanbaatar 2015. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 10:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -35,8 +37,12 @@ Every part traces to its book and page.
 | Definition — bearings: angle with north measured clockwise; three-figure notation (060°, 330°); Polaris points north | Mongolia, Математик VIII (Grade 8), printed p. 142 |
 | Bearing calculations between towns; method with a parallel north line; back bearings | Mongolia, Математик VIII (Grade 8), printed p. 143 |
 | Measuring the angle with north — bearings | Mongolia, Математик IX (Grade 9), printed p. 89 |
+| Standard B7.3.2.3: Demonstrate understanding of bearings, vector and its components using real life cases | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.2.3, printed p. 67 (curriculum evidence only) |
+| Standard B9.3.2.2: Solve problems involving bearings and addition/subtraction of vectors | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.2.2, printed p. 208 (curriculum evidence only) |
 
 **Acceptance count: taught in 8 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia).**
+
+Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 Sierra Leone carries the fullest course — eight lessons from compass bearings to mixed rule-choice problems in SSS 2 Term 3. Libya carries bearings inside its sine/cosine-rule chapter in Grade 11 Science, with problems combining triangles and bearings. Nepal carries three-figure bearings, the ±180° reverse rule and scale-drawn journeys in its Grade 8 student book (student book only — its Grade 8 guide is a mismatch guide and is not cited). Jordan opens its Grade 10 trigonometry-applications unit with bearing from north. South Sudan carries bearings clockwise from north as three figures in Secondary 1, beside right-angled trigonometry and navigation problems.
 
 Malaysia meets bearings inside its Additional Mathematics triangle work rather than as a chapter of its own: three-figure bearings fix the positions, and the sine rule does the rest.

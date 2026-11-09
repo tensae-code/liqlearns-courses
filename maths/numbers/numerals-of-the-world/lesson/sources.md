@@ -1,6 +1,6 @@
 # Sources — Numerals of the World
 
-countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, Armenia
+countries: Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, Armenia, Ghana
 
 Every part traces to its book and page.
 
@@ -51,6 +51,11 @@ Every part traces to its book and page.
 **Book 35:** *İlkokul Matematik 3. Sınıf Ders Kitabı, 1. Kitap* (Primary School Mathematics, Grade 3 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9897-6; approved by the Talim ve Terbiye Kurulu, decision no. 164290654 dated 13/07/2026; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *Mathematics 3, Part 1* (student) — Armenia, Samvel Harutyunyan, Astghik gratun, 2024. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 38:** *JICA Primary Mathematics Teacher Manual, Basic 4* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 39:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 40:** *JICA Primary Mathematics Teacher Manual, Basic 5* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 41:** *JICA Primary Mathematics Teacher Manual, Basic 6* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -105,7 +110,18 @@ Every part traces to its book and page.
 | Roman numbers D to M (500–1,000) (book error taught corrected: the CMIX working prints 900 + 9 = 999 before concluding 909; 900 + 9 = 909) | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 90 |
 | Roman rules summarised: smaller-before-larger subtracts, V/L/D never subtracted, no symbol for zero | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 93 |
 | Armenian and Roman numeral systems (non-positional systems) | Armenia, Mathematics 3, Part 1, Ch. I §8, printed p. 31 |
+| Understand Roman numerals (1) — Understand how to the meaning of Roman numerals up to 30. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 4, Lesson 16, printed p. 16 (teacher evidence only) |
+| Understand Roman numerals (2) — Be able to convert Hindu Arabic numerals and Roman numerals up to 30 and vice versa. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 4, Lesson 17, printed p. 17 (teacher evidence only) |
+| Standard B4.1.1.2: Demonstrate understanding of Roman numerals up XXX (30) | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.1.1.2, printed p. 7 (curriculum evidence only) |
+| Standard B5.1.1.2: Demonstrate understanding of Roman Numerals up to C (i.e. 100) | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.1.1.2, printed p. 59 (curriculum evidence only) |
+| Standard B6.1.1.2: Demonstrate understanding of Roman Numerals up to C (i.e. 100) | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B6.1.1.2, printed p. 119 (curriculum evidence only) |
+| Understand Roman numerals — Be able to convert Hindu Arabic and Roman numerals up to 100 and vice versa. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 5, Lesson 13, printed p. 13 (teacher evidence only) |
+| Understand Roman numerals — Be able to convert Hindu Arabic and Roman numerals up to 100 and vice versa. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 6, Lesson 13, printed p. 13 (teacher evidence only) |
+| Add and subtract — Be able to add and subtract Roman numerals. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 6, Lesson 14, printed p. 14 (teacher evidence only) |
+| Add and subtract — Be able to find the missing numbers in Roman numerals. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 6, Lesson 16, printed p. 16 (teacher evidence only) |
 **Acceptance count: taught in 25 countries (Bangladesh, Cambodia, Ethiopia, Jordan, Kazakhstan, Laos, Nepal, Sierra Leone, South Africa, South Sudan, Vietnam, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, Armenia).** Laos carries Roman numerals at full strength in Grade 6 — all seven signs, both rules, conversions to MMMCMXCIX — and its own Lao digits in Grade 1. Ethiopia carries its own Ge'ez numerals, from 1–10 in Grade 3 to counting numerals to 100 in Grade 4. Nepal carries the three-script matching (Devanagari, Hindu-Arabic, Roman) in Grade 2 and the lakh reading of Devanagari-digit numbers in Grade 3. Bangladesh carries the South Asian naming ladder whole: ayut and lakh in Class 3, ajut, lac, nijut and crore with the 1,00,000 grouping in Class 4, and Roman rules in Class 6. Cambodia carries Khmer numeral writing with stroke order in Grade 1 and the "saen" name for 100,000 in Grade 4. South Africa carries ancient Egyptian numerals as a working system in its Grade 5 and Grade 6 workbooks. Jordan carries the Hindi/Indian digits as a named Grade 3 lesson. Sierra Leone carries Roman numerals from clocks to conversions to 100 in JSS 3. South Sudan carries the Roman 1–50 table in Primary 5. Vietnam carries Roman numerals as a "getting to know" introduction only, as filed. Kazakhstan carries Roman, Egyptian and old Slavic numerals as extra reading only, optional as filed. North Macedonia enters from its main set — Grade 6 (2023).
+
+Ghana also contributes to this lesson as curriculum and teacher evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 
 Rwanda names the Hindu-Arabic, Roman and Chinese numeral systems as three common systems, with the ten Hindu-Arabic digits 0–9, in P4.
 

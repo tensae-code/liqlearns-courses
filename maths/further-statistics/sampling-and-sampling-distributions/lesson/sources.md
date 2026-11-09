@@ -34,7 +34,7 @@ Every part traces to its book and page.
 | Sampling as its own chapter (Échantillonnage) across the senior streams | Mauritania, 6AS-M, Ch. 13, p.181; 6AS-C, Ch. 14, p.202; 6AS-D, Ch. X, p.169 |
 | Population 50, sample 12, the variable — the words fixed on one case | Nicaragua, Grade 9, Unit 8, pp.149–158 |
 | Kinds of data — the discrete / continuous / ordinal / nominal chart | Kazakhstan, Grade 8 NIS, Ch. 7, pp.104–132 |
-| Kinds of data — discrete against continuous, definitions and examples (teacher evidence) | Ghana, JICA B6 teacher manual, Lessons 99–108 (teacher evidence) |
+| Kinds of data — discrete against continuous, definitions and examples (teacher evidence) | Ghana, JICA B6 teacher manual, Lesson 99 (teacher evidence) |
 | Kinds of data drilled — tickets sold discrete, toothpaste types nominal, weights and income continuous (workbook evidence) | Kuwait, Grade 11 T1 Exercise Workbook, Unit 6, pp.85–86 (workbook evidence) |
 | Stratified and systematic sampling drilled, incl. the paint-company strata (workbook evidence) | Kuwait, Grade 11 T1 Exercise Workbook, Unit 6, pp.87–88 and p.99 (workbook evidence) |
 | Estimating a population from a sample | Indonesia, Grade 9, Bab 4, pp.215–282 |

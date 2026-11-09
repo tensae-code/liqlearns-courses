@@ -314,6 +314,10 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 176:** *Mathematics, Secondary 1 (Grade 10), Term 1, "First Form Secondary"* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 177:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: its syllabus carries the same eight chapters as the student book in a different order (measurement first, lines and angles last).
 
+**Book 178:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+**Book 179:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+**Book 180:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -651,6 +655,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Criteria of parallelism of lines | Armenia, Geometry 7, §11.30, printed p. 85 |
 | Theorems on angles formed by two parallel lines and a transversal | Armenia, Geometry 7, §12.32, printed p. 97 |
 | Sum of a triangle's angles | Armenia, Geometry 10, §6.16, printed p. 53 |
+| Identify the size of angles — Be able to identify the three different types of angles (e.g. acute, right or obtuse angle). | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 83, printed p. 83 (teacher evidence only) |
+| Standard B5.3.3.3: Demonstrate an understanding of angles | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B5.3.3.3, printed p. 103 (curriculum evidence only) |
+| Standard B7.3.1.1: Demonstrate understanding of angles including adjacent, vertically opposite, complementary, supplementary and use them to solve problems | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.1.1, printed p. 47 (curriculum evidence only) |
+| Standard B8.3.1.1: Demonstrate understanding and use of the relationship between parallel lines and alternate and corresponding angles and use the sum of angles in a triangle to deduce the | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B8.3.1.1, printed p. 123 (curriculum evidence only) |
+| Standard B9.3.1.1: Apply the properties of angles at a point, angles on a straight line, vertically opposite angles, corresponding, angles to solve problems | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.1.1, printed p. 196 (curriculum evidence only) |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and

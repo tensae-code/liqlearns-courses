@@ -223,6 +223,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 101:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 102:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 103:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -244,7 +246,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry inside the coordinate unit (pp.73–77) | Egypt, Grade 5 Term 2, Unit 10, pp.73–77 |
 | Symmetry: recognition and construction (Bài 21–22) | Vietnam, Toán 6 v1, Bài 21–22 |
 | 3-D objects, patterns, symmetry (ws 48–54, pp.130–143) | South Africa, Grade 4 Book 1, ws 48–54, pp.130–143 |
-| Geometry and Measurement: symmetry — fold-and-cut paper; lines of symmetry — teacher-manual evidence only | Ghana, JICA Teacher Manual B4, Lessons 89–107 (teacher evidence, not pupil-book teaching) |
+| Geometry and Measurement: symmetry — fold-and-cut paper; lines of symmetry — teacher-manual evidence only | Ghana, JICA Teacher Manual B4, Lessons 89 and 91 (teacher evidence, not pupil-book teaching) |
 | Shapes on grids and symmetry | Laos, Grade 3 student book, L2, printed p. 10 |
 | Translation, reflection and symmetry on squared paper, axes of symmetry, translation combined with reflection, translation and rotation about a point | Laos, Grade 5 student book, L46–L50, printed pp. 112–123 |
 | Reflection in a line, symmetric figures, axes of symmetry of triangles, rhombuses, rectangles and squares; perpendicular bisector and angle bisector | Laos, Grade 6 student book, L17 and L19–L20, printed pp. 129–166 |
@@ -369,6 +371,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry of shapes about horizontal and vertical lines revised; drawing the mirror image of shapes on squared paper | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 202 |
 | Symmetry in traditional carpet and kilim motifs; finding and drawing the symmetry lines of woven patterns | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 207 |
 | lines of symmetry found by paper folding: square has 4, rectangle has 2 | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 272 |
+| Standard B4.3.1.1: Identify the lines of symmetry of regular and irregular 2D shapes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.3.1.1, printed p. 36 (curriculum evidence only) |
 
 **Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
@@ -386,7 +389,7 @@ in Grade 7 and planes of symmetry in Grade 8. Egypt carries
 symmetry inside its Grade 5 coordinate unit. Vietnam carries
 recognition and construction of symmetry in Grade 6. South
 Africa carries symmetry in its Grade 4 pattern work. Ghana's
-evidence is teacher-manual only (JICA B4 Lessons 89–107,
+evidence is teacher-manual only (JICA B4 Lessons 89 and 91,
 fold-and-cut paper): no pupil textbook in Ghana's set teaches
 symmetry, and the lesson words Ghana that way throughout. The
 ladder's fold rule was not needed: the stock proved rich enough
