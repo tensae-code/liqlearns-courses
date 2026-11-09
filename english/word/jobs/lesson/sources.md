@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -60,6 +60,12 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 
 **Book 16:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 17:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 18:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 19:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -88,9 +94,12 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 | Job advertisements and career choices inside the jobs unit | China — English (PEP) Grade 6 Volume 1, Unit 5, printed pp.50–51 |
 | Work duties — "What does your mother do? — She is a secretary" and the duties talk | China — English (PEP) Grade 6 Volume 1, Unit 5, printed pp.48–51 |
 | Future jobs — what children want to be, with the unit's future-job texts | China — English (PEP) Grade 6 Volume 1, Unit 5, printed pp.52–53 |
+| Talking about scientists: the conversation on famous Iranian scientists | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," Conversation, printed pp.71–95 |
+| A workbook-only reading, "Who is a scientist?": what scientists do and who counts as one — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 3, Part I Reading, printed pp.44–45 (workbook-only text; not in the student book) |
+| Jobs and opening times in the services lesson: "What's her job? She's an employee"; "What time does it open? It opens at 8 in the morning" | Iran, Prospect 3 (Grade 9), Lesson 4 "Services," printed pp.63–75 |
 
-**Acceptance count: taught in 6 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China).** Cambodia carries the opening
+**Acceptance count: taught in 7 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran).** Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary

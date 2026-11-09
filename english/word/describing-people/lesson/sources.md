@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran
 
 Every part traces to its book and page.
 
@@ -38,6 +38,14 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** English for Schools — Vision 3, Grade 12 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -48,9 +56,14 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Unit 4 "Personal Identity": birth-sign personality texts (Aries–Pisces, pp.61–62) and the look vs be discovery (10a, p.62) | Mongolia, English X (Grade 10), Unit 4, printed pp.56–62 |
 | Describing people — the describing-words set in the book's opening unit (the book's glossary prints “Department = apodo” twice — the word it means is nickname) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 14–15 |
 | Personality and appearance change words: friendly, outgoing, serious, humorous, silent, active, brave, quiet, helpful; straight/curly hair, tall, short | China — English ("Go for it!") Grade 9, Unit 4, printed pp.25–26 |
+| Personality adjectives with the person question: the set (shy, angry, brave, hard-working, funny…) asked as "What's your friend like? — He's very funny" | Iran, Prospect 3 (Grade 9), Lesson 1 "Personality," printed pp.15–27 |
+| The personality set practised: form-choice, unscrambling, picture-matching and sentence-writing exercises; the workbook also carries one short new reading per lesson (a Japan text in this lesson) | Iran, Prospect 3 Workbook (Grade 9), Lesson 1, printed pp.7–20 (workbook mirror of the student lesson) |
+| Talking about a great person: the conversation on Dr Gharib (born in Tehran in 1288), with the lesson's Interesting Facts on helping others and listening to elders | Iran, Vision 3 (Grade 12), Lesson 1 "Sense of Appreciation," Conversation, printed pp.15–41 |
+| The vocabulary of the lesson's reading: the appreciation word set | Iran, Vision 3 (Grade 12), Lesson 1, New Words & Expressions, printed pp.15–41 |
+| A workbook-only reading on respecting elders: elders were once children; their experience, failures and successes; care starting with parents as first teachers — summary only | Iran, Vision 3 Workbook (Grade 12), Lesson 1, Part I Reading, printed pp.10–12 (workbook-only text; not in the student book) |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China).** Cambodia carries the
+**Acceptance count: taught in 7 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran).** Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -61,6 +74,10 @@ meanings matched; Mongolia carries the look-vs-be discovery
 at Grade 10 beside its personality texts. China joins the
 sorting sets with its Grade 9 personality and
 appearance-change words (stocked 2026-11-08 by the
-re-verification sweep). Other closed
+re-verification sweep). Iran carries the personality set
+with "What's your friend like?" in Grade 9, and describing
+a great person — Dr Gharib — with its word set and a
+workbook-only reading on respecting elders in Grade 12
+(stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

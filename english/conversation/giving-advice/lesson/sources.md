@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -76,6 +76,8 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 15:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 16:** English for Schools — Prospect 2, Grade 8 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -96,9 +98,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Advice-giving inside the week unit — telling a friend what to do | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.19 |
 | Advice inside the transport unit — "You should take the No. 57 bus" and its set | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.18–19 |
 | Study advice — how to learn, with should and the study-habit talk | China — English ("Go for it!") Grade 9, Unit 1, printed p.8 |
+| Advice for a health problem with Why don't you…?: "What's wrong? — I have a headache" answered by "Why don't you go to the dentist?" — advice inside a health conversation | Iran, Prospect 2 (Grade 8), Lesson 4 "My Health," printed pp.34–39 |
 
-**Acceptance count: taught in 8 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China).** Malaysia gives
+**Acceptance count: taught in 9 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran).** Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -119,6 +122,9 @@ advice function is "You should work carefully", and no
 had better is recorded in its filing. China gives
 advice inside its week and transport units in primary
 school, and study advice — how to learn — at Grade 9
-(stocked 2026-11-08 by the re-verification sweep). Other closed
+(stocked 2026-11-08 by the re-verification sweep). Iran
+gives advice for a health problem with Why don't you…? in
+Grade 8 (stocked 2026-11-09 by the re-verification sweep
+merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia
+countries: Palestine, Bolivia, Mongolia, Iran
 
 Every part traces to its book and page.
 
@@ -24,6 +24,8 @@ CITATION CHECK PASSED 2026-10-26).
 
 **Book 4:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 1 (Primaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 5:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six first colours — red, green, white, blue, black, yellow — with umbrella as the carrier word, and the pattern "What colour? Red and black." | Palestine, Grade 1 Part 2, Unit 12 "Colours," p.16 |
@@ -34,9 +36,10 @@ CITATION CHECK PASSED 2026-10-26).
 | The colour mixing chart: red+yellow=orange, yellow+blue=green, blue+red=violet (and the chart's further mixes) | Mongolia, English X, Unit 5, p.72 |
 | Primary colours red, yellow and blue; secondary colours orange, green and violet; black, white and gray as neutral colours | Mongolia, English X, Unit 5, Self-Check colour text, pp.76–79 |
 | The colour set as the pupil book teaches it: red, yellow, green, brown, blue, orange, black, pink, and the extended set violet, sky blue, light green, gray | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.10–12 |
+| The colours check in the opening unit | Iran, Prospect 1 (Grade 7), Welcome unit, printed p.4 |
 
-**Acceptance count: taught in 3 countries (Palestine, Bolivia,
-Mongolia).** Palestine carries the first six colours with the
+**Acceptance count: taught in 4 countries (Palestine, Bolivia,
+Mongolia, Iran).** Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing

@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran
 
 Every part traces to its book and page.
 
@@ -57,6 +57,8 @@ edition by page and reproduces no student lesson in full.
 
 **Book 10:** C
 
+**Book 11:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-tags box in EIGHT RULES: positive → negative tag; negative → positive; same auxiliary; no auxiliary → do/does/did; "I am" → "aren't I"; everyone → singular verb but plural pronoun ("Everyone knows the answer, don't they?"); Let's → "shall we?"; imperatives → "will you? / won't you?" — filed as the fullest tag statement of Egypt's run | Egypt, Secondary 12 Term 2, Unit 12, Lesson 3 "School Life" (Language in Context) |
@@ -71,10 +73,11 @@ edition by page and reproduces no student lesson in full.
 | Tag questions in the present and past perfect, affirmative and negative, including the auxiliary HAVE chart worked in the steps — teacher's-guide evidence, with a gapped excerpt of the student dialogue printed in the steps' margin | Venezuela, My Victory Teacher's Book 4 (Grade 10), Lesson 21, guide printed pp.132–139 |
 | Tag questions — positive statement + negative tag and back, with intonation notes and short answers | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 11–12 |
 | Tag questions — the compendium's tag-question table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 111 |
+| Tag questions in talk: the lesson's Listening & Speaking work, with the lesson's See Also tag questions beside it | Iran, Vision 3 (Grade 12), Lesson 1, Listening & Speaking, printed pp.31–32 |
 
-**Acceptance count: taught in 8 countries (Egypt,
+**Acceptance count: taught in 9 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela, Bolivia).** Egypt states the whole system in one
+Venezuela, Bolivia, Iran).** Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the

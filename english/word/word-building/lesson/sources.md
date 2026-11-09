@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran
 
 Every part traces to its book and page.
 
@@ -45,6 +45,10 @@ Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 
 **Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -55,9 +59,11 @@ Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 | Prefixes and suffixes circled on a real worksheet page (un-, re-, -ful, -less, -ness), in the Teachers' Day theme | South Africa, English Home Language, Grade 3, Workbook 2, printed p.102 |
 | The Grade 5 Workbook 1 language spine, in teaching order: prefixes and suffixes → synonyms, among the year's named skills | South Africa, English Home Language, Grade 5, Workbook 1, grammar/language spine |
 | The Grammar appendix, word-formation block: compounding (classroom, blackboard, worldwide, good-looking, overcome, fifty-four, everything); derivation with prefixes (un-, dis-, bi-, inter-, re-, tele-) and suffixes (-or/-er, -ist, -ese, -tion, -ful, -ing, -ed, -al, -able, -less, -ly); conversion (show → a show, water → to water, slow → to slow down, walk → a walk, look → a look); shortening (telephone → phone, airplane → plane, laboratory → lab, mathematics → math, advertisement → ad, examination → exam, influenza → flu; initial-letter words CD, CCTV, NBA, UFO, UN, USA, WWF) | China — English ("Go for it!") Grade 9, Grammar appendix, printed pp.153–155 |
+| Prefixes and suffixes: building words with word parts, as the lesson's vocabulary work | Iran, Vision 2 (Grade 11), Lesson 2, printed pp.49–79 |
+| Word part families: how words are built from their parts, in the dictionary lesson | Iran, Vision 3 (Grade 12), Lesson 2, printed pp.43–69 |
 
-**Acceptance count: taught in 6 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China).** Barbados
+**Acceptance count: taught in 7 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran).** Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation

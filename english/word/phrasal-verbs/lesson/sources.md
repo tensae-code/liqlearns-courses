@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran
 
 Every part traces to its book and page.
 
@@ -41,6 +41,8 @@ PASSED 2026-11-03).
 
 **Book 11:** 12
 
+**Book 12:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phrasal verbs (1): the verb + particle idea, with the Remember box (go out, pass down, cut down on, run out of) and look around, come back, hand down, find out, take care of, get on with | Vietnam, Tiếng Anh 9, Unit 1, printed pp.8–17 |
@@ -62,9 +64,10 @@ PASSED 2026-11-03).
 | Intransitive phrasal verbs — go away, come out, come in, hold on, sit down, grow up, with the get up paradigm (the book classes “hold on” intransitive while its own examples give it an object — noted) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p. 19 |
 | Separable phrasal verbs — clean up, pick up, cheer up, turn on, pay back, take off, try on, put on, turn off, figure out, call off, chop up, look up: the object can split verb and particle | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 27–28 |
 | Inseparable phrasal verbs — verb and particle cannot be split; 24 verbs with meanings (run into, come across, get along with, look after, put up with, turn down, put off, get through, go on, come up with, look for, get by, put in, get over, take in, come back, get away, take off…) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 22–23 |
+| Phrasal verbs as the lesson's See Also grammar | Iran, Vision 2 (Grade 11), Lesson 2, See Also, printed pp.49–79 |
 
-**Acceptance count: taught in 5 countries (Bolivia,
-Cambodia, Mongolia, Sudan, Vietnam).** Two sourcing
+**Acceptance count: taught in 6 countries (Bolivia,
+Cambodia, Mongolia, Sudan, Vietnam, Iran).** Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and

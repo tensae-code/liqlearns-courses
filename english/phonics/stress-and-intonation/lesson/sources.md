@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -47,6 +47,10 @@ file).
 
 **Book 9:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -79,8 +83,15 @@ file).
 | Pronunciation tips: sentence stress — saying the strong words clearly (We can share. I like dancing. He lives on a farm) | China — English (PEP) Grade 6 Volume 1, Unit 4, printed p.43 |
 | Pronunciation tips: pausing at // marks in long sentences | China — English (PEP) Grade 6 Volume 1, Unit 5, printed p.53 |
 | Pronunciation tips: linking a consonant to the next vowel (next day, can't go, count to, don't be) | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.63 |
+| Falling intonation for *to be* statements, as the lesson's Language Melody | Iran, Prospect 3 (Grade 9), Lesson 1 "Personality," Language Melody, printed p.20 |
+| Rising intonation for surprises, as the lesson's Language Melody | Iran, Prospect 3 (Grade 9), Lesson 5 "Media," Language Melody, printed pp.81–93 |
+| Review intonation practice closing the book's melody strand (the book heads this strand only "Review," where every other lesson names its pattern — a labelling gap in the book, recorded as printed) | Iran, Prospect 3 (Grade 9), Lesson 6 "Health and Injuries," Review, printed pp.95–107 |
+| Falling intonation, opening the senior Pronunciation strand | Iran, Vision 1 (Grade 10), Lesson 1, Pronunciation, printed p.32 |
+| Rising intonation | Iran, Vision 1 (Grade 10), Lesson 2, Pronunciation, printed pp.43–69 |
+| Emphatic stress | Iran, Vision 1 (Grade 10), Lesson 3, Pronunciation, printed pp.71–95 |
+| Rising intonation | Iran, Vision 1 (Grade 10), Lesson 4, Pronunciation, printed pp.97–119 |
 
-**Acceptance count: taught in 7 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China).**
+**Acceptance count: taught in 8 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran).**
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -99,5 +110,10 @@ a pronunciation tip in every Grade 6 unit — linking,
 word stress, sentence stress, pausing, linking again —
 the strand its filing claimed and the course had not
 stocked (sweep flag 4; stocked 2026-11-08 by the
-re-verification sweep). Counts
+re-verification sweep). Iran runs a Language Melody
+strand through every Prospect 3 lesson in Grade 9 — a
+named intonation pattern per lesson — and continues it
+as the Pronunciation strand of Vision 1 in Grade 10:
+falling, rising, emphatic stress, rising (stocked
+2026-11-09 by the re-verification sweep merge). Counts
 grow as other closed countries' books are read.

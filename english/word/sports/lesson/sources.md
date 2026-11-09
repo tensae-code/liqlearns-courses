@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -59,6 +59,10 @@ stocks this lesson below.
 
 **Book 10:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 11:** English for Schools — Prospect 2, Grade 8 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** English for Schools — Prospect 2, Grade 8 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -73,9 +77,11 @@ stocks this lesson below.
 | Free-time activities — hobbies and sport with play, go and do: play soccer, go swimming, do athletics | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 19 |
 | "Let's go boating" — the go + -ing sport frame inside the nature-park unit | China — English (PEP) Grade 5 Volume 1, Unit 6, printed p.58 |
 | New sports words — go cycling, ice-skate, play badminton | China — English (PEP) Grade 6 Volume 2, Unit 3, printed p.37 |
+| Hobbies and free-time activities: "Do you have any hobbies?"; "What's your hobby? — Playing tennis"; "What do you do in your free time? — I usually go shopping" — the hobby set asked beside the sports set | Iran, Prospect 2 (Grade 8), Lesson 7 "My Hobbies," printed pp.54–59 |
+| The hobbies set practised in reading and writing exercises, with a magazine page on hobbies and a summer-programme task | Iran, Prospect 2 Workbook (Grade 8), Lesson 7, printed pp.41–50 (workbook mirror of the student lesson) |
 
-**Acceptance count: taught in 6 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China).** Mexico carries the activity set inside its
+**Acceptance count: taught in 7 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran).** Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -88,6 +94,8 @@ only its misprinted vocabulary list is excluded, for the
 reason stated above. China carries sport inside its
 nature and travel units — go boating, go cycling,
 ice-skate, play badminton (stocked 2026-11-08 by the
-re-verification sweep). Other closed
+re-verification sweep). Iran carries the hobbies and
+free-time set in Grade 8, asked as "What's your hobby?"
+(stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran
 
 Every part traces to its book and page.
 
@@ -66,6 +66,10 @@ lesson is reproduced.
 
 **Book 11:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 12:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 13:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit Seven "congratulating and wishing": Lesson 17 "I Have Got It!" — Omar's exam pass with distinction and the congratulation forms (Congratulations! / Congratulations on… / I congratulate you on…) | Mauritania, Study English Grade 12, Unit Seven, Lesson 17, printed p.52 |
@@ -80,9 +84,11 @@ lesson is reproduced.
 | The "Happy birthday!" greeting as its own exchange, inside the birthday unit | China — English (PEP) Grade 3 Volume 1, Unit 6, printed p.57 |
 | Farewell language as a set — "Good luck! Have a good trip! Keep in touch. Take care. Write soon", with the goodbye chant ("Don't be late for the party") | China — English (PEP) Grade 6 Volume 2, printed p.50 |
 | April Fool's Day vocabulary and talk — fool, costume party, get dressed, show up, stay up all night, embarrassed/embarrassing | China — English ("Go for it!") Grade 9, Unit 12, printed pp.93–95 |
+| Festival and ceremony talk with holiday wishes: the festival set (fireworks, national anthem…), New Year customs, "Wish you a great holiday," "Happy New Year" | Iran, Prospect 3 (Grade 9), Lesson 3 "Festivals and Ceremonies," printed pp.49–61 |
+| The festival set practised in exercises, including matching phrases with pictures | Iran, Prospect 3 Workbook (Grade 9), Lesson 3, printed pp.35–52 (workbook mirror of the student lesson) |
 
-**Acceptance count: taught in 7 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria, Albania, China).** Albania —
+**Acceptance count: taught in 8 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania, China, Iran).** Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -108,5 +114,7 @@ in Grade 6, and the April Fool's Day words at Grade 9
 (stocked 2026-11-08 by the re-verification sweep). Its
 Grade 5 festival-and-event word set is stocked once, in
 Days and months, where the diff counted it as already in
-course. Other closed countries join as their books are
+course. Iran carries festival talk with holiday wishes —
+"Wish you a great holiday," "Happy New Year" — in Grade 9
+(stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are
 read (see READING-QUEUE.md).

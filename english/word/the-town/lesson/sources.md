@@ -137,6 +137,8 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 50:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 5 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 5 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 51:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -233,6 +235,8 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Places around us — the town places named around a picture | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 21 |
 | Lake Titicaca and the Island of the Sun — a reading with place and travel words | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 43 |
 | Relevant places — the same relevant-places set in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 72 |
+| A village described and located beside the city lesson: "It's a mountain village," famous for its sunflower fields, in West Azerbaijan (the book prints "West Azarbaijan" on its Map and in the lesson; taught corrected) | Iran, Prospect 2 (Grade 8), Lesson 6 "My Village," printed pp.48–53 |
+| Services talk: the service set (hire, recharge, emergency…) with jobs and opening times — "What time does it open? — It opens at 8 in the morning" | Iran, Prospect 3 (Grade 9), Lesson 4 "Services," printed pp.63–75 |
 **Acceptance count: taught in 31 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the first set twice (Primary 1's
@@ -243,7 +247,10 @@ carries a second town set located with near / next to /
 behind and worked over maps; Indonesia carries a whole
 neighbourhood on one map, with directions and the position
 set; Iran carries the city described and located whole, and
-the widest pictured places set in this lesson; Sierra Leone
+the widest pictured places set in this lesson, and adds its
+village described beside the city and a services lesson with
+opening times (stocked 2026-11-09 by the re-verification
+sweep merge); Sierra Leone
 carries the community word-web and directions by landmarks.
 Jordan carries a town set located and directed in its Grade 3 booster, a whole Our town unit in Grade 4, and the buildings set with the parts of a building in Grade 6; Greece carries the city facilities set with its place phrases in Grade 4, the park and road signs of its Around the City unit, and directions over real maps in Grade 5; Kazakhstan carries the town buildings in its Grade 3 Express buildings module, the town set with directions language in its Grade 3 Macmillan Dictionary, and a town asked about and written up as a brochure in Grade 5 English Plus; Iraq carries a whole My town unit in Grade 3 — six town places on a street scene, the town described with there is / there isn't and directed over a map — and describing places as its own box in Grade 9 book; Ethiopia carries only the describing side of this lesson — town against country in its Grade 7 reading "Living in Rural and Urban Areas: Advantages and Disadvantages" with speaking on where one lives, and the big city described in its Grade 9 reading "Life in a Big City" — no town-places word set, locating frame or directions work is filed for Ethiopia, and none is claimed here; South Africa carries the town set — shops, the library, asking about places — in Grade 1 FAL Theme 12 "About town," flats, maps and directions in Grade 3 HL, and map work with directions again in Grade 6 FAL; Syria carries a places-to-go set and a then-and-now My Town unit in Grade 3, and a whole Places in My Town unit with a Giving Directions unit beside it in Grade 4 — Syria, unlike Ethiopia here, files the word set, the locating prepositions and the directions work together; South Sudan carries its town as "Our Payam" in Primary 3 — the Payam places named as one set, with the Fangak map to role-play directions over — and directions themselves as the Primary 5 health unit's language lesson, prepositions of place and direction phrases worked on a town map; Nepal carries the town through directions: asking the way and five direction-writing tasks to town places in Grade 3 (keyed by its true companion guide), map directions to the ATM booth, museum, hospital and post office in Grade 6, and street-map locating and direction-giving in Grade 9; Kuwait carries neighbourhood places — police station, post office, clinic, barber, garage, supermarket — with opposite and nearby in Grade 2, and shops in the older course's Grade 2 activity book, cited for its own teaching only; Rwanda carries the town whole twice — a Places in the community unit in Grade 3, with the buildings set, the place prepositions and direction words, and an Our District unit in Grade 4 over the map of Butare — with the city/town words in its Grade 1 home unit and tourist places in Grade 6 filed as partial sets. Other
 closed countries join as their books are read (see

@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran
 
 Every part traces to its book and page.
 
@@ -36,6 +36,16 @@ the old filing in english/books/bangladesh.md.
 
 **Book 7:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** English for Schools — Prospect 2, Grade 8 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 9:** English for Schools — Prospect 2, Grade 8 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** English for Schools — Vision 2, Grade 11 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -53,9 +63,15 @@ the old filing in english/books/bangladesh.md.
 | Diseases — the illness and disease set of the book's health unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 51–52 |
 | Illness vocabulary — the compendium's illness set (adding earache, sore throat, cough, shiver, sneeze to the set the filing cited) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 84 |
 | Table manners quiz and talk: in India eat with your hands; in China don't stick chopsticks into food, the youngest person is not expected to start eating first, don't point at anyone with chopsticks, don't hit an empty bowl; in Korea the eldest starts; in France put bread on the table, not on the plate | China — English ("Go for it!") Grade 9, Unit 10, printed pp.77–79 |
+| Health problems named and answered with advice: the problem set (headache, flu, toothache and the lesson's other problems), "Are you OK? — No, I have a headache," "What's wrong?" and the advice frame "Why don't you go to the dentist?" | Iran, Prospect 2 (Grade 8), Lesson 4 "My Health," printed pp.34–39 |
+| The health-problems set practised in reading and writing exercises | Iran, Prospect 2 Workbook (Grade 8), Lesson 4, printed pp.19–24 (workbook mirror of the student lesson) |
+| A workbook-only reading, "Microbes": microbes everywhere — bacteria (one cell, many of them helpful) and viruses (they need a living cell and usually make you sick) — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 2, Part I Reading, printed pp.26–28 (workbook-only text; not in the student book) |
+| Talking about lifestyle and health habits as a conversation | Iran, Vision 2 (Grade 11), Lesson 2 "A Healthy Lifestyle," Conversation, printed pp.49–79 |
+| The vocabulary of the lesson's reading: the healthy-lifestyle word set | Iran, Vision 2 (Grade 11), Lesson 2, New Words & Expressions, printed pp.49–79 |
+| A workbook-only reading on modern lifestyle and technology: easy access, creativity and fast communication set against the harm — blood pressure, sleep problems, gaming, headset hearing harm — facts only | Iran, Vision 2 Workbook (Grade 11), Lesson 2, Part I Reading, printed pp.27–29 (workbook-only text; not in the student book) |
 
-**Acceptance count: taught in 6 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China).** Albania carries the symptom set as a
+**Acceptance count: taught in 7 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -70,5 +86,10 @@ stress and keeping fit (added 2026-11-08 by the
 re-verification sweep). China joins with its Grade 9
 table-manners quiz and talk — table customs from India,
 China, Korea and France (stocked 2026-11-08 by the
-re-verification sweep). Other closed countries join as their books are read
+re-verification sweep). Iran carries health problems with an advice frame in
+Grade 8, a workbook-only reading on microbes in Grade 10, and
+the healthy-lifestyle conversation and word set in Grade 11,
+with a workbook-only reading on modern lifestyle and
+technology (stocked 2026-11-09 by the re-verification sweep
+merge). Other closed countries join as their books are read
 (see READING-QUEUE.md).

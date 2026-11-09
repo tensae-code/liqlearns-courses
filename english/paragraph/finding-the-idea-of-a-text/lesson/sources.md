@@ -43,6 +43,8 @@ PASSED 2026-11-03).
 Grade 12 — Iran, OERP. Filed in english/books/iran.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 43:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 **Book 9:** English Language SSS3 Pupil Handbook, Term 2
 — Sierra Leone, Ministry of Basic and Senior Secondary
 Education. Filed in english/books/sierra-leone.md
@@ -150,6 +152,12 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole-text law stated in the teacher's own strategy notes: a main idea represents the whole text, not one or two paragraphs — drilled repeatedly across texts, beside notes on how to teach the main idea | Indonesia, Work in Progress, Grade 10 Teacher Guide, the strategy notes (as filed) |
 | Skimming taught as a named strategy over the Reading, then paragraph-matching and main-idea circling on the same text | Iran, Vision 2, Lesson 2, Reading and strategy, pp.58–60 |
 | Question Generation: read, find the main points, make a question per point — then skim the same reading's main idea | Iran, Vision 3, Lesson 1, Reading strategy, pp.25–26 |
+| The reading worked for its idea: "A Wonderful Liquid" — the habits-and-health reading | Iran, Vision 1 (Grade 10), Lesson 2, Reading, printed p.50 |
+| The reading worked for its idea: "No Pain No Gain," with the T. Saffarzadeh news text | Iran, Vision 1 (Grade 10), Lesson 3, Reading, printed pp.80–82 |
+| The reading worked for its idea: "Iran: A True Paradise" | Iran, Vision 1 (Grade 10), Lesson 4, Reading, printed p.105 |
+| The reading worked for its idea: "Art, Culture and Society" | Iran, Vision 2 (Grade 11), Lesson 3, Reading, printed pp.90–94 |
+| The reading worked for its idea: "Earth for our Children" | Iran, Vision 3 (Grade 12), Lesson 3, Reading, printed pp.71–99 |
+| The "What You Learned" texts: a short closing text closing every senior lesson, worked as reading — the Vision 1 set | Iran, Vision 1 (Grade 10), What You Learned texts, Lesson 1 printed p.24, Lesson 2 printed p.52, Lesson 3 printed p.82, Lesson 4 printed p.105 |
 | Highlighting as the main-idea hunt in pen: main ideas and key points, phrases not whole sentences, practised on a sharks paragraph and back on the Reading | Iran, Vision 3, Lesson 2, Reading strategy, p.53 |
 | Identifying Main Idea as a named lesson: stated vs implied main ideas, checked against topic sentences and subheadings (the practice text is a NASA-based report on a type of star) | Sierra Leone, SSS3 Term 2, Lesson 82, p.83 |
 | The main idea carried by a text's frame: in formal letters the heading and opening paragraph carry the main idea — the idea hunt worked on a formal letter | Sierra Leone, SSS3 Term 2, Lesson 95, p.112 |

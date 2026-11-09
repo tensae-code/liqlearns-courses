@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam
+countries: Ghana, Libya, Rwanda, Vietnam, Iran
 
 Every part traces to its book and page.
 
@@ -14,6 +14,10 @@ file's head banner stands — agent-assisted read, the
 
 **Book 4:** Tiếng Anh 12 (Global Success) — Vietnam, Vietnam Education Publishing House & Pearson, © 2024, ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 5:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 6:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SQ3R named in full — Survey, Question, Read, Recite, Review — with skim/scan drilled in 3–4 minutes | Ghana, NaCCA Basic 4–6 curriculum, Comprehension strand (curriculum evidence, as filed in ghana.md); SQ3R again in full at JHS (p.175) |
@@ -21,5 +25,7 @@ file's head banner stands — agent-assisted read, the
 | Skimming explained and practised on a two-line extract; scanning explained on a counting extract; table of contents and index named as the finding tools | Rwanda, Pupil's Book 6, Unit 6, printed pp.75–77 |
 | Reading tip — Scanning a text for information: look for clues in the questions (capitals for names, a number for an age), raced over a webpage of pen-friends | Libya, Grade 7 Course Book, Unit 8, Lesson 2, p.89 (as filed in libya.md) |
 | Exam Strategies: reading-comprehension strategies sorted by question type — main ideas, specific information, negative factual information, inferences, referents, vocabulary | Vietnam, Tiếng Anh 12, Appendix 2, printed pp.145–146 |
+| Reference words: using the words a text points back with, as the lesson's reading strategy | Iran, Vision 2 (Grade 11), Lesson 3, Reading strategy, printed pp.81–107 |
+| Note-taking: taking notes on a reading as the lesson's named strategy | Iran, Vision 3 (Grade 12), Lesson 3, Reading strategy, printed pp.71–99 |
 
-**Acceptance count: taught in 4 countries (Ghana, Libya, Rwanda, Vietnam).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type.
+**Acceptance count: taught in 5 countries (Ghana, Libya, Rwanda, Vietnam, Iran).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -49,6 +49,14 @@ the old filing in english/books/bangladesh.md.
 
 **Book 12:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 13:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 14:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 15:** English for Schools — Vision 2, Grade 11 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -71,9 +79,16 @@ the old filing in english/books/bangladesh.md.
 | A river-pollution conversation and an interview — Jason and Susan on air, land and water pollution, with the solutions: take the bus or subway, ride a bike, bring a shopping bag, throw rubbish in bins | China — English ("Go for it!") Grade 9, Unit 13, printed pp.97–98 |
 | Reading: "Rethink, Reuse, Recycle!" — a house in the UK built out of rubbish, bags made from old clothes in Hong Kong, metal art from old cars in Shanghai (the reading's prefixes/suffixes sidebar rides with it, as the sweep's diff routes the item here) | China — English ("Go for it!") Grade 9, Unit 13, printed p.102 |
 | The then/now/2050 story page — cavemen, today, and 2050 (robots cooking and washing up; earth with many trees and clean rivers against more and more buildings) with its environment message ("Heal the world! Make it a better place!") | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.41 |
+| Visiting nature: the conversation on a visit to the Museum of Nature and Wildlife (an elephant missing one tusk; a wild cat) | Iran, Vision 1 (Grade 10), Lesson 1 "Understanding People," Conversation, printed pp.15–41 |
+| The observatory conversation: planets, moons, the Sun's light and the red planet Mars in talk | Iran, Vision 1 (Grade 10), Lesson 2 "A Healthy Lifestyle," Conversation, printed pp.43–69 |
+| The nature word set of the healthy-lifestyle lesson's reading | Iran, Vision 1 (Grade 10), Lesson 2, New Words & Expressions, printed pp.43–69 |
+| A workbook-only reading, "Simple ways to protect wildlife": Iran's Mashhad centre rescue work, Bedouin desert-rose boats, the Andean condor (3.3 m wingspan) — summary only | Iran, Vision 1 Workbook (Grade 10), Lesson 1, Part I Reading, printed pp.8–9 (workbook-only text; not in the student book) |
+| A workbook-only reading, "Cultures and Lifestyles": Tasmania farming forth, Istanbul heritage sites, Nigerian languages (more than 400) — summary only | Iran, Vision 2 Workbook (Grade 11), Lesson 3, Part I Reading, printed pp.46–48 (workbook-only text; not in the student book) |
+| Clean energy in talk: a wind-turbines conversation ("I used a wind turbine to produce electricity") | Iran, Vision 3 (Grade 12), Lesson 3 "Renewable Energy," Conversation, printed pp.71–99 |
+| The renewable-energy word set of the lesson's reading | Iran, Vision 3 (Grade 12), Lesson 3, New Words & Expressions, printed pp.71–99 |
 
-**Acceptance count: taught in 7 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China).** Albania carries the place set and
+**Acceptance count: taught in 8 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran).** Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -89,5 +104,9 @@ re-verification sweep). China carries the nature word set
 in Grade 5 and at Grade 9 a whole save-the-earth unit —
 pollution by kind, a pollution interview with its
 solutions, and the recycle reading (stocked 2026-11-08
-by the re-verification sweep, flag 6). Other closed countries join as
+by the re-verification sweep, flag 6). Iran carries
+nature in talk across the senior years — a wildlife-museum
+visit, an observatory conversation, a wildlife-protection
+workbook reading, and renewable energy in Grade 12
+(stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md).

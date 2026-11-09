@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -39,6 +39,8 @@ lesson: Goal 80 sits in the copy's Workbook Goals 65–96.
 
 **Book 8:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 1 "Shops And Shopping": shop words and the dialogue frame "Can I help you? / I want to buy …, please / Anything else? / No, thanks" (Unit 1, Selling Food) | Cambodia, Grade 5, Chapter 1, Unit 1, printed pp.8–11; the frame's "Can I help you?" is a citation anchor at printed p.10 |
@@ -54,9 +56,10 @@ lesson: Goal 80 sits in the copy's Workbook Goals 65–96.
 | Shop talk: asking for help, trying on, sizes — "Can I help you? Can I try them on? Size 6, please" | China — English (PEP) Grade 4 Volume 2, Unit 6, printed pp.56–58 |
 | Size and fit judgements — too small, too big, just right | China — English (PEP) Grade 4 Volume 2, Unit 6, printed p.58 |
 | Buying for plans — dictionary, comic book, word book, postcard — with "Where/When are you going? What are you going to buy?" | China — English (PEP) Grade 6 Volume 1, Unit 3, printed pp.26–27 |
+| Shopping talk: the handicrafts conversation — "It is 85 dollars … 20 percent discount" | Iran, Vision 2 (Grade 11), Lesson 3, Conversation, printed p.85 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China).** Cambodia gives the
+**Acceptance count: taught in 7 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the

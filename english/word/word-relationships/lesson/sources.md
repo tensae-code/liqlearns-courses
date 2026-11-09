@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran
 
 Every part traces to its book and page.
 
@@ -37,6 +37,8 @@ READ + CITATION CHECK PASSED).
 
 **Book 7:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (China — English Grade 6 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -51,9 +53,13 @@ READ + CITATION CHECK PASSED).
 | Word families and opposites — the opening unit's word-group work | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.10 |
 | A word web built over the holiday text, in the Recycle | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.42 |
 | Word categories — sorting words into their families, in the Recycle | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.44 |
+| The opening lesson's conversation, worked as vocabulary in use | Iran, Vision 2 (Grade 11), Lesson 1, Conversation, printed pp.15–47 |
+| The opening lesson's word set | Iran, Vision 2 (Grade 11), Lesson 1, New Words & Expressions, printed pp.15–47 |
+| Synonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 1, Vocabulary Development, printed p.27 |
+| Antonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 3, Vocabulary Development, printed pp.81–107 |
 
-**Acceptance count: taught in 5 countries (Barbados,
-Tanzania, South Africa, Vietnam, China).** Barbados names all four
+**Acceptance count: taught in 6 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded

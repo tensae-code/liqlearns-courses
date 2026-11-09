@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran
 
 Every part traces to its book and page.
 
@@ -65,6 +65,10 @@ as filed).
 
 **Book 14:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (China — English Grade 5 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 15:** English for Schools — Prospect 2, Grade 8 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 16:** English for Schools — Prospect 2, Grade 8 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -90,9 +94,11 @@ as filed).
 | Weather in your city — children's weather talk for Sydney, London and Beijing | China — English (PEP) Grade 4 Volume 2, Unit 3, printed pp.25–28 |
 | Season words as a whole unit — spring, summer, autumn (fall), winter, with "Which season do you like best?" | China — English (PEP) Grade 5 Volume 2, Unit 2, printed pp.12–18 |
 | The five-season picture talk — spring, summer, autumn, winter and the snowy-season page | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.18 |
+| Seasons and weather talk: the seasons and the weather words asked as "What's the weather like in…? — It's sunny" and "Is it cold in winter? — Yes, it is" | Iran, Prospect 2 (Grade 8), Lesson 6 "My Village," weather strand, printed pp.48–53 |
+| The village, seasons and weather set practised in reading and writing exercises, including making weather flashcards | Iran, Prospect 2 Workbook (Grade 8), Lesson 6, printed pp.31–40 (workbook mirror of the student lesson) |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China).** Albania —
+**Acceptance count: taught in 9 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran).** Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -111,5 +117,8 @@ list. China carries a whole weather unit in Grade 4 —
 words, conversations and children's weather talk for
 three cities — and a whole season unit in Grade 5 around
 "Which season do you like best?" (stocked 2026-11-08 by
-the re-verification sweep). Other closed countries join as their books are read
+the re-verification sweep). Iran carries seasons-and-weather
+talk inside its Grade 8 village lesson, with weather
+flashcards in the workbook (stocked 2026-11-09 by the
+re-verification sweep merge). Other closed countries join as their books are read
 (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran
 
 Every part traces to its book and page.
 
@@ -119,6 +119,8 @@ PASSED 2026-11-03).
 
 **Book 33:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 34:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -195,9 +197,10 @@ PASSED 2026-11-03).
 | Listening and speaking built on retelling a friend's memory from notes, closing the memories unit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 10, Lesson 4, printed pp.105–108 |
 | A four-part story to read, match and put in order, then predict its ending — "What do you think happened next?" — the telling-back set as the task | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 18, printed p.55 |
 | Retelling a book character's story from memory set as a whole-book quiz item — "Tell the story of Queen Zenobia" | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 25 (Revision 5), printed p.74 |
+| Narrating a story as the lesson's Listening & Speaking work — telling a story aloud in the travel lesson | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," Listening & Speaking, printed pp.71–95 |
 
-**Acceptance count: taught in 23 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 24 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);

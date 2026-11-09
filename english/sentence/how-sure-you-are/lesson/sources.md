@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -46,6 +46,10 @@ PASSED, as filed).
 
 **Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -60,9 +64,11 @@ PASSED, as filed).
 | Guessing feelings from a story — "Sara's feelings. How do they feel? — They feel worried" (certainty talk over a read text) | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.65 |
 | Modal inference for past possibility — "He could have been a scientist", "It might have belonged to…", weighing possibilities from clues | China — English ("Go for it!") Grade 9, Unit 8, printed pp.57–60 |
 | The "It must belong to Carla" mystery story — deducing owners and past events with could/might/must | China — English ("Go for it!") Grade 9, Unit 8, printed p.61 |
+| Modals as the lesson's grammar — may/might/must and their kin for how sure you are, with the lesson's See Also prepositions beside them | Iran, Vision 1 (Grade 10), Lesson 4 "Gender and Brain," Grammar and See Also, printed pp.97–119 |
+| The modals practised in the workbook: modal and See Also exercises | Iran, Vision 1 Workbook (Grade 10), Lesson 4, Parts II–V, printed pp.64–79 (workbook mirror of the student lesson) |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China).** Egypt prices the
+**Acceptance count: taught in 8 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran).** Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -78,4 +84,7 @@ Unit 10 is cited. China carries the deduction set twice
 up: guessing feelings from a story in Grade 6, and at
 Grade 9 a whole mystery unit — modal inference over
 clues and the "It must belong to Carla" story (stocked
-2026-11-08 by the re-verification sweep).
+2026-11-08 by the re-verification sweep). Iran teaches
+modals as its Grade 10 fourth lesson's grammar, with
+workbook practice (stocked 2026-11-09 by the
+re-verification sweep merge).

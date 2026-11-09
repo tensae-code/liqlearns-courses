@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria
+countries: Albania, Cambodia, Mongolia, Syria, Iran
 
 Every part traces to its book and page.
 
@@ -41,6 +41,8 @@ vocabulary lists, "Language structures" example sets and
 worksheets; no student's book is held and no platform
 lesson is reproduced.
 
+**Book 6:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Suggestions with "Why don't we…?", "Let's…" and "We/You could…" (Study Box), in a walk-planning dialogue that uses a weather forecast and a compass | Syria, English for Starters 5, Unit 3 "Giving suggestions / making plans", printed pp.11–13 |
@@ -49,9 +51,10 @@ lesson is reproduced.
 | Making suggestions with "Let's… / Why don't we…"; positive responses ("That's a good idea") and polite refusals ("I don't feel like it") | Cambodia, ENGLISH Grade 10, Unit 17 "Why don't we…?", printed pp.93–98 |
 | The suggestion forms listed together — "How about/What about + verb-ing; Let's + verb; Why don't + verb" — with approving/rejecting phrases ("I don't think so / I think it sounds great / It's perfect / I'd love to / I'd rather… / I prefer to…") | Mongolia, English VII, Unit 2 "Nice Ideas", printed p.26 (unit opens p.24) |
 | "want" and "would like" for desires, preferences and future plans — "I want to travel to all the countries" — the wanting that stands behind a suggestion or a plan (stocked 2026-11-08 by the re-verification sweep; filed here as the preference/plan use — the chapter names no suggestion exponents of its own) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed p.54 (PDF 57) — teacher-guide evidence |
+| Suggestion formulae in the food lesson: "Let's have… / How about some…?" | Iran, Prospect 1 (Grade 7), Lesson 8, printed pp.42–45 |
 
-**Acceptance count: taught in 4 countries (Albania, Cambodia,
-Mongolia, Syria).** Albania — teacher-guide evidence —
+**Acceptance count: taught in 5 countries (Albania, Cambodia,
+Mongolia, Syria, Iran).** Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a

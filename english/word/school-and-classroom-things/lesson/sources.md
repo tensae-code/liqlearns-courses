@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China
+countries: China, Iran
 
 Every part traces to its book and page.
 
@@ -10,6 +10,8 @@ Every part traces to its book and page.
 
 **Book 3:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2013, ISBN 978-7-107-27387-2. Filed in english/books/china.md (China — English Grade 4 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 4:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The school-supplies word set — ruler, pencil, eraser, crayon, bag, pen, pencil box, book — with "I have a/an…" | China — English (PEP) Grade 3 Volume 1, Unit 1, printed pp.4–8 |
@@ -18,8 +20,9 @@ Every part traces to its book and page.
 | The school-rooms word set, first part — teachers' office, library, playground, garden, first floor, second floor | China — English (PEP) Grade 4 Volume 2, Unit 1, printed p.5 |
 | The school-rooms word set, second part — computer room, music room, art room, gym | China — English (PEP) Grade 4 Volume 2, Unit 1, printed p.8 |
 | The lesson's example sentences ("I have a ruler", "I have an eraser") | The course's own workings on the books' stocked word sets and the book's own "I have a/an…" frame — no sentence is quoted from the books |
+| Classroom objects named in the opening unit — the things in the classroom | Iran, Prospect 1 (Grade 7), Welcome unit, printed p.5 |
 
-**Acceptance count: taught in 1 country (China).**
+**Acceptance count: taught in 2 countries (China, Iran).** Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep

@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran
 
 Every part traces to its book and page.
 
@@ -24,6 +24,8 @@ Every part traces to its book and page.
 
 **Book 10:** C
 
+**Book 11:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -38,5 +40,6 @@ Every part traces to its book and page.
 | The past perfect in narrative in Book 3, with explicit teaching carried in Workbook 4 | Yemen, English Course for Yemen, Pupil's Book 3; Workbook 4 (as filed) |
 | The past perfect — had + past participle, for the earlier of two past actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 52–53 |
 | The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
+| The past perfect in talk: the lesson's Listening & Speaking work | Iran, Vision 3 (Grade 12), Lesson 3, Listening & Speaking, printed p.89 |
 
-**Acceptance count: taught in 9 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia).**
+**Acceptance count: taught in 10 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran).** Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran
 
 Every part traces to its book and page.
 
@@ -47,6 +47,14 @@ lesson is reproduced.
 
 **Book 8:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 10:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 11:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 12:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transport: car, bus, bike, van, taxi — Pattern: "How many taxis? Five taxis," counting combined objects ("How many taxis and bikes?"), first whole-word writing (v_an, _ike, _axi, _ar, _us) | Palestine, Grade 1 Part 2, Unit 11 "Transport," p.10 (writing p.15) |
@@ -61,9 +69,14 @@ lesson is reproduced.
 | Ways of travelling, asked and answered: "How do you come/go to school? — I come on foot. I often go by subway / by bus / by bike" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.12–15 |
 | Travel words as a set — by bus, by taxi, by plane, by ship, by train, by subway, on foot | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.15 |
 | Road safety from dialogue — in the USA people on bikes must wear a helmet; bus numbers (the No. 57 bus); the signs "You must stop" and "Don't touch the door" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.16 |
+| Travel talk as a conversation: the travel set (tickets, fill out, receptionist…) — "Are you visiting Tehran?"; "I'm interested in…, How about you?" | Iran, Prospect 3 (Grade 9), Lesson 2 "Travel," printed pp.29–41 |
+| The travel set practised: form-choice, unscrambling, picture-matching and sentence-writing exercises | Iran, Prospect 3 Workbook (Grade 9), Lesson 2, printed pp.21–34 (workbook mirror of the student lesson) |
+| Finding a good tourist destination, as a conversation | Iran, Vision 1 (Grade 10), Lesson 4 "Traveling the World," Conversation, printed pp.97–119 |
+| The tourism word set: tourism, destination, attractions and the reading's vocabulary | Iran, Vision 1 (Grade 10), Lesson 4, New Words & Expressions, printed pp.97–119 |
+| A workbook-only reading, "How to be a good traveler": read about attractions before travel, learn local words, respect local people and holy places, protect nature — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 4, Part I Reading, printed pp.62–63 (workbook-only text; not in the student book) |
 
-**Acceptance count: taught in 6 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China).** Albania — teacher-guide evidence —
+**Acceptance count: taught in 7 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran).** Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -79,5 +92,9 @@ China carries the how-do-you-go exchange whole — "How do
 you come/go to school?" with by bus / by bike / on foot —
 and its road-safety talk inside the same unit (stocked
 2026-11-08 by the re-verification sweep, which found the
-whole transport block unstocked). Other closed countries join as their books are read (see
+whole transport block unstocked). Iran carries travel as
+a conversation in Grade 9 and tourism — choosing a
+destination, the tourism word set and a workbook-only
+reading on being a good traveler — in Grade 10 (stocked
+2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
 READING-QUEUE.md).

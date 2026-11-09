@@ -53,6 +53,10 @@ PASSED 2026-11-03).
 Filed in english/books/iran.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 55:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 56:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 **Book 11:** Language Arts JSS 1 Pupil Handbooks,
 Terms 2–3 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
@@ -162,6 +166,9 @@ CITATION CHECK PASSED 2026-11-03).
 | The question words tabled as a catch-up reference: what/who/when/where/which and the rest, each with an example and a gloss | Indonesia, English for Nusantara Grade 7, Chapter 0, section G "WH-Questions," printed p.9 |
 | Wh- questions about the past stated as their own grammar lesson: the five question words with did + base verb, and Wh- questions with was/were | Indonesia, English for Nusantara Grade 8, Chapter 4, Unit 2, Language Focus, printed p.212 |
 | Wh- questions as a whole lesson's grammar: Wh- questions with to be and with do/does, practised over jobs, places, people and times, then over opening times, working days, who helps, where, why and how — with falling intonation on Wh- questions as the lesson's voice work | Iran, Prospect 3, Lesson 4 "Services," Grammar p.69 and Language Melody |
+| The services set practised: Wh- questions and frequency adverbs in workbook exercises | Iran, Prospect 3 Workbook (Grade 9), Lesson 4, printed pp.53–66 (workbook mirror of the student lesson) |
+| Asking about details, as the lesson's Listening & Speaking work | Iran, Vision 1 (Grade 10), Lesson 2, Listening & Speaking, printed pp.43–69 |
+| Asking about obligations and necessities, as the lesson's Listening & Speaking work | Iran, Vision 1 (Grade 10), Lesson 4, Listening & Speaking, printed pp.97–119 |
 | The six question words as the frame for talking about special occasions: Who/Where/When/What/Why/How | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 106 "Oral Narrative (My Family)" |
 | The question words named as the signals of the question mark, inside the punctuation pair | Sierra Leone, JSS 1 Term 3 Handbook, Lesson 114 "Punctuation" |
 | The falling voice of the Wh- question, set against the rising yes/no question in the intonation lesson | Sierra Leone, JSS 1 Term 2 Handbook, Lesson 58 "Punctuation and Intonation" |
@@ -281,7 +288,10 @@ how many, whose, how much — and a page that sorts the family
 by the answer each word takes; Indonesia tables the family
 as reference and states the past Wh- lesson outright; Iran
 gives the family a whole grammar lesson across be and
-do/does, with its falling voice; Sierra Leone frames
+do/does, with its falling voice, and adds workbook practice
+on the services lesson and Vision 1's asking-about-details
+and asking-about-obligations speaking work (stocked
+2026-11-09 by the re-verification sweep merge); Sierra Leone frames
 occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much

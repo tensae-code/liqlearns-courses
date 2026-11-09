@@ -38,6 +38,8 @@ PASSED 2026-11-03).
 Filed in english/books/iran.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 58:** English for Schools — Prospect 3, Grade 9 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2418-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 **Book 8:** Language Arts JSS 1 Pupil Handbook,
 Term 1 — Sierra Leone, Ministry of Basic and Senior
 Secondary Education. Filed in english/books/sierra-leone.md
@@ -153,6 +155,7 @@ CITATION CHECK PASSED 2026-11-03).
 | The book's printed irregular-past table — build–built, see–saw, light–lit, go–went, take–took, eat–ate — set under the camping email the past work builds on | Indonesia, English for Nusantara Kids Grade 6, Chapter 5, printed p.148 |
 | The Past Simple stated outright: regular verbs formed with -d/-ed/-ied, irregular verbs learned as wholes, with a table sorting the dialogues' verbs into the two classes | Indonesia, English for Nusantara Grade 8, Chapter 1, Unit 1, Language Focus, printed p.31 |
 | Regular simple past on the full frame: affirmative / negative with didn't / Did…? questions, and past Wh- questions — with was/were and there was / there were beside it | Iran, Prospect 3, Lesson 5 "Media," Grammar, pp.87–88 |
+| The media lesson's past set practised: workbook exercises on media vocabulary and the past tense (regular, and the past of *to be*) | Iran, Prospect 3 Workbook (Grade 9), Lesson 5, printed pp.67–82 (workbook mirror of the student lesson) |
 | Irregular simple past on the same frame (worked verb speak – spoke), with an alphabetical base-form / past-simple table of about 70 verbs closing the book | Iran, Prospect 3, Lesson 6 "Health and Injuries," Grammar, pp.101–102; Irregular Verbs, printed pp.131–133 |
 | The simple past as its own lesson pair: completed past actions, regular -ed plus a table of common irregulars (leave–left, meet–met, do–did, see–saw, run–ran, was/were), then past time markers — yesterday, last year, three months ago — placed at the start or end of a sentence | Sierra Leone, JSS 1 Term 1 Handbook, Lessons 31–32 |
 | The past rebuilt for the senior exam, regular first: -ed formation, then irregular forms that do not take -ed, in statements, questions and negatives | Sierra Leone, SSS 1 Term 1 Handbook, Lesson 19, printed p.34, and Lesson 20, printed p.37 |

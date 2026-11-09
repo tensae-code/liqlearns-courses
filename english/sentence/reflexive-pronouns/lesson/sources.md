@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran
 
 Every part traces to its book and page.
 
@@ -25,6 +25,8 @@ Research. Filed in english/books/yemen.md (FULLY READ
 
 **Book 5:** 12
 
+**Book 6:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | REFLEXIVE PRONOUNS — the full set, as the theme's §1 grammar (Theme 7 stands on its own: ought to and “might have” for past conjecture are Theme 6, §1.5, a separate theme — DESCRIPTION CORRECTED 2026-11-08 by the re-verification sweep) | Bolivia, Year 6, Theme 7, §1 (as filed in bolivia.md) |
@@ -33,9 +35,10 @@ Research. Filed in english/books/yemen.md (FULLY READ
 | Reflexive pronouns gathered in the language review, beside past deduction (may/might/could have; must have; cannot/could not have) and verb + object + to-infinitive | Yemen, English Course for Yemen, Book 6, Language review 10, §5.9, p.39 |
 | Reflexive results in the safety warnings ("You'll cut yourself", "You'll poison yourself") — the returning action in the course's warning set | Yemen, English Course for Yemen, Pupil's Book 5, Unit 5 "Safety", p.35 (as filed in yemen.md) |
 | Reflexive pronouns in full — myself, yourself, himself, herself, itself, ourselves, yourselves, themselves: the action falls back on the subject; also for emphasis (“by herself”) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 50–51 |
+| The self pronouns as the lesson's See Also grammar — the reflexive set beside the past progressive | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," See Also, printed pp.71–95 |
 
-**Acceptance count: taught in 4 countries (Bolivia,
-Malaysia, Nepal, Yemen).** Bolivia presents the full
+**Acceptance count: taught in 5 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran).** Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -45,4 +48,7 @@ carries the reflexive/each-other choice in its final
 units; the filing excerpt verified for this build
 names the set's presence at course level rather than
 a single presentation page, and that limit is stated
-here rather than a page invented.
+here rather than a page invented. Iran adds the self
+pronouns as a See Also grammar in its Grade 10 travel
+lesson (stocked 2026-11-09 by the re-verification sweep
+merge).

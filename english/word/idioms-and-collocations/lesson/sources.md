@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran
 
 Every part traces to its book and page.
 
@@ -30,6 +30,8 @@ still owed).
 
 **Book 11:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 12:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Idiom Tip: an idiom is a fixed multi-word expression whose meaning can't be deduced from its words — 'spring into action', 'Teamwork makes the dream work'; learners hunt five more hard-work idioms | Egypt, Secondary 11 Term 1, Unit 1, Lesson 1, SB p.13 (as filed in EGYPT-BOOK-MAP.md) |
@@ -48,5 +50,7 @@ still owed).
 | A Proverbs appendix of six ("A friend in need is a friend indeed", "Better to ask the way than go astray", "Like father, like son" among them) | China — English (PEP) Grade 6 Volume 1, Proverbs appendix, printed p.80 |
 | A Proverbs appendix of four ("Less is more", "All work and no play makes Jack a dull boy", "All's well that ends well", "Life is what you make it") | China — English (PEP) Grade 6 Volume 2, Appendix 5, printed p.61 |
 | Idioms named inside a story: the reading "The Winning Team" carries a strategy box on recognising idioms and phrases in a story (a heavy weight on his shoulders, let … down, kick him off, pull together, to start with, neither … nor) | China — English ("Go for it!") Grade 9, Unit 11, printed pp.86–87 |
+| Collocations taught in the appreciation lesson | Iran, Vision 3 (Grade 12), Lesson 1, printed p.27 |
+| Proverbs in the renewable-energy lesson | Iran, Vision 3 (Grade 12), Lesson 3, printed pp.71–99 |
 
-**Acceptance count: taught in 6 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China).** Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing).
+**Acceptance count: taught in 7 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran).** Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing).
