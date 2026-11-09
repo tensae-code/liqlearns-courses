@@ -183,6 +183,20 @@ PASSED 2026-11-03).
 
 **Book 60:** 12
 
+**Book 61:** English (PEP), Grade 3 Volume 1 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 62:** English (PEP), Grade 3 Volume 2 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 63:** English (PEP), Grade 4 Volume 1 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 64:** English (PEP), Grade 4 Volume 2 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 65:** English (PEP), Grade 5 Volume 1 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 66:** English (PEP), Grade 5 Volume 2 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 67:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -190,6 +204,49 @@ PASSED 2026-11-03).
 | Story reading across the secondary years — whole stories read, sequenced, and answered from, in every year's book | Egypt, Secondary student books (as filed in the book map) |
 | What a story is made of, named and taught outright: "A story often has a setting (when and where), characters (who) and a plot (what happens)" — with a fill-in story frame worked on a story the book has just told | China, Grade 6 Volume 1, Recycle 2, pp.68–69 |
 | Whole stories in performance form: two complete play scripts bound as an appendix (The three little pigs; Little Red-Cap), narrator parts included | China, Grade 6 Volume 2, Appendix 6, pp.62–68 |
+| Story time tale (plot summary only): Zip hides and Zoom guesses who is there before they play together (stocked 2026-11-08 by the re-verification sweep, which found all 44 Story time tales unstocked) | China — English (PEP) Grade 3 Volume 1, Unit 1, printed p.11 |
+| Story time tale (plot summary only): Zoom names flower colours and Zip surprises him with a kite | China — English (PEP) Grade 3 Volume 1, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zoom and Zip build a puppet step by step — head first, then body, arms and legs | China — English (PEP) Grade 3 Volume 1, Unit 3, printed p.31 |
+| Story time tale (plot summary only): Zoom leads a growing follow-me chain of animals, finally lured by Zip's carrot | China — English (PEP) Grade 3 Volume 1, Unit 4, printed p.45 |
+| Story time tale (plot summary only): Zoom orders a restaurant meal and a cat steals his fish | China — English (PEP) Grade 3 Volume 1, Unit 5, printed p.55 |
+| Story time tale (plot summary only): the animals throw Zoom a surprise birthday party with a many-candled cake | China — English (PEP) Grade 3 Volume 1, Unit 6, printed p.65 |
+| Story time tale (plot summary only): Zip and Zoom play teacher-and-student; a written card tricks Zoom | China — English (PEP) Grade 3 Volume 2, Unit 1, printed p.11 |
+| Story time tale (plot summary only): Zoom's mother appears in costume; she is an actress | China — English (PEP) Grade 3 Volume 2, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zoom quizzes Zip on look-alike animal pairs — tiger/lion, fox/wolf, zebra/horse, monkey/gorilla | China — English (PEP) Grade 3 Volume 2, Unit 3, printed p.31 |
+| Story time tale (plot summary only): at an $8 buffet Zoom piles up food, ends too full and asks for a doggy bag | China — English (PEP) Grade 3 Volume 2, Unit 5, printed p.55 |
+| Story time tale (plot summary only): Zoom and Zip race to pick and count apples — Zoom ends with 17, Zip with only three, yet Zip cries "I won!" | China — English (PEP) Grade 3 Volume 2, Unit 6, printed p.65 |
+| Story time tale (plot summary only): a bee flies round the classroom and lands on the light, the fan, the wall and the blackboard | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.11 |
+| Story time tale (plot summary only): Zoom packs every book, his schoolbag is too heavy, and a dog knocks the books out in class | China — English (PEP) Grade 4 Volume 1, Unit 2, printed p.21 |
+| Story time tale (plot summary only): the animals work together to pull up one giant turnip | China — English (PEP) Grade 4 Volume 1, Unit 3, printed p.31 |
+| Story time tale (plot summary only): Zoom and Zip swap glasses and neither can see properly | China — English (PEP) Grade 4 Volume 1, Unit 4, printed p.45 |
+| Story time tale (plot summary only): Zip shows his family photos; the last "family member", a baseball player, is Zip himself | China — English (PEP) Grade 4 Volume 1, Unit 6, printed p.65 |
+| Story time tale (plot summary only): a hippo guides the animals on a tour of Zoom's school; at lunch Zoom is missing — he is found in the lunch room, full | China — English (PEP) Grade 4 Volume 2, Unit 1, printed p.11 |
+| Story time tale (plot summary only): on April 1st Zip moves the clock and tricks Zoom into panicking about being late | China — English (PEP) Grade 4 Volume 2, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zoom flies to see sick Zip, lands in the wrong cold city weather and catches a cold himself; "Bless you!" | China — English (PEP) Grade 4 Volume 2, Unit 3, printed p.31 |
+| Story time tale (plot summary only): at the farm Zoom says he likes vegetables, milk, chicken and mutton while making a hat for the cow | China — English (PEP) Grade 4 Volume 2, Unit 4, printed p.45 |
+| Story time tale (plot summary only): Zoom cuts up his dad's old T-shirt to make a Zip costume for the school party | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.55 |
+| Story time tale (plot summary only): Zoom works in a clothes shop, quotes 50 yuan, sixteen dollars and ninety-one for the same skirt, and is fired | China — English (PEP) Grade 4 Volume 2, Unit 6, printed p.65 |
+| Story time tale (plot summary only): the new PE teacher everyone expects to be tall and strong is a small rabbit who scores ten goals | China — English (PEP) Grade 5 Volume 1, Unit 1, printed p.11 |
+| Story time tale (plot summary only): Zoom shops for the new school year (notebooks, pencils, ruler, crayons, a football) but there is not enough money for the football | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zip and Zoom cook a farm dinner of salad and fresh milk together | China — English (PEP) Grade 5 Volume 1, Unit 3, printed p.31 |
+| Story time tale (plot summary only): a rat escapes a hungry snake by promising to sing and dance, and tricks it into throwing him into the lake | China — English (PEP) Grade 5 Volume 1, Unit 4, printed p.45 |
+| Story time tale (plot summary only): a kicked tin can is passed from animal to animal until Zoom helps it get home to the recycling bin | China — English (PEP) Grade 5 Volume 1, Unit 5, printed p.55 |
+| Story time tale (plot summary only): Zoom and Zip visit a nature park; a monkey breaks Zoom's camera card while they photograph a koala | China — English (PEP) Grade 5 Volume 1, Unit 6, printed p.65 |
+| Story time tale (plot summary only): Zip's busy-week timetable — nuts collected Monday to Wednesday, dried Thursday, eaten with friends Friday — and he forgets his Saturday show | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.11 |
+| Story time tale (plot summary only): a koala visits from Australia, where Christmas comes in summer, and enjoys a white Christmas in China | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zoom practises for the May 4th singing test, turns down a party, football and TV, and sings well | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.45 |
+| Story time tale (plot summary only): Zoom and Zip watch animals at the river; the monkeys copy them taking pictures back | China — English (PEP) Grade 5 Volume 2, Unit 5, printed p.55 |
+| Story time tale (plot summary only): at the cinema Zoom eats popcorn loudly through a gorilla film and is hushed; the "Keep clean!" sign is the twist | China — English (PEP) Grade 5 Volume 2, Unit 6, printed p.65 |
+| Story time tale (plot summary only): in London, Zoom asks the way to fish and chips near the London Eye and the Thames, then orders three large portions and gets a stomach ache | China — English (PEP) Grade 6 Volume 1, Unit 1, printed p.11 |
+| Story time tale (plot summary only): Amy's British cousin Annie visits; in London you look right before crossing, and the double-decker bus door is on the other side | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zip teaches Zoom to swim step by step; lesson "Learn by doing" | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.31 |
+| Story time tale (plot summary only): unusual jobs — lion tamer, bee farmer, computer game tester, magician's assistant, nut cracker — Zoom and Zip reject them all | China — English (PEP) Grade 6 Volume 1, Unit 5, printed p.55 |
+| Story time tale (plot summary only): Zoom secretly plants popcorn seeds to "make" popcorn for Zip's TV night and is still waiting at the end | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.65 |
+| Story time tale (plot summary only): Zoom's busy weekend told hour by hour (washed his schoolbag, park, homework, fishing, cleaned his room, grandparents, football, TV) | China — English (PEP) Grade 6 Volume 2, Unit 2, printed p.21 |
+| Story time tale (plot summary only): Zoom dreams he went to the moon by spaceship, saw Chang'e, the rabbit and the tree, and took pictures he cannot find when he wakes | China — English (PEP) Grade 6 Volume 2, Unit 3, printed p.31 |
+| Story time tale (plot summary only): Zip is moving to America because his father has a new job there; he promises to write to Zoom | China — English (PEP) Grade 6 Volume 2, printed p.51 |
+| Story writing set as work: write a story like "The Winning Team" from your notes (what happened, when, where, how it made you feel and why, what you learned) | China — English ("Go for it!") Grade 9, Unit 9, printed p.88 |
+| Story writing set as work: write a story about your lucky or unlucky day ("I will always remember the date… This was the luckiest/unluckiest day of my life… Then/After that… Finally… What a lucky/an unlucky day!") | China — English ("Go for it!") Grade 9, Unit 12, printed p.96 |
 | What a narrative is made of, tabled on the story itself: "The Legend of The Holy Stone" re-read inside a Structures / Text / Language Features table labelling Orientation, Complication and Resolution, with setting, action verbs and sequence words glossed in the margin | Indonesia, Grade 11 Tingkat Lanjut, Unit 1, Reading, pp.10–12 (the story at pp.5–7) |
 | The narrative re-taught whole in the book's own summary: narrative text defined — generic structure, characterisation, and its six language features | Indonesia, Grade 11 Tingkat Lanjut, Concluding Section 1, Summary, pp.101–105 |
 | The pupil's own story built on the same furniture: character/setting/plot mind maps and a story planner, proofread and presented | Indonesia, Grade 11 Tingkat Lanjut, Unit 1, Writing and Speaking, pp.30–38 |
@@ -321,7 +378,10 @@ teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
 characters, plot) and binds complete play scripts to
-perform. Indonesia tables the narrative's own stages
+perform; the 2026-11-08 re-verification sweep also
+stocked China's 43 Story time tales and Grade 9
+story-writing tasks — every primary PEP book closes each
+unit with a Zoom-and-Zip tale, all previously unstocked. Indonesia tables the narrative's own stages
 (Orientation, Complication, Resolution — and a Coda at
 Grade 9) on the stories themselves and re-teaches the
 definition whole; Sierra Leone names characters, setting

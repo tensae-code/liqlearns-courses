@@ -115,6 +115,10 @@ PASSED 2026-11-03).
 **Book 30:** English For Rwandan Primary Schools — Pupil's Book 6 (Pupil's Book) — Rwanda, Rwanda Education Board (REB), © 2019, no edition statement printed, no ISBN printed. Filed in english/books/rwanda.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 31:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
+**Book 32:** English (PEP), Grade 5 Volume 1 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 33:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -124,6 +128,9 @@ PASSED 2026-11-03).
 | Comprehension and summarising strands: "main ideas in sequence order"; main ideas in own words ("Do not write the same words as the author") | Ghana, NaCCA JHS curriculum (as filed) |
 | The fill-in retell: a story ("Robin and the Ant") read, then retold by filling its frame; and a retell-it-by-phone task on a told story, worked through the book's story frame (setting / characters / plot) | China, Grade 6 Volume 1, pp.62 and 68–69 |
 | The dated diary recount: a day sorted into Bad and Good columns, then the pupil's own "bad but good day" written on the printed frame — a recount told back in order | China, Grade 6 Volume 2, Unit 3, Read and write, pp.28–29 |
+| Recycle story work: "In a dark, dark wood" — a building-up story read, numbered and retold, word-"friends" found; then write your own story the same way (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Recycle 2, printed pp.68–69 |
+| Read and retell: "Robin has BDS" — a story text about finding a place (map, compass, BDS, stars); fill the blanks and retell (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 1, Unit 1, printed pp.8–9 |
+| Reading a two-part story and telling it on: "The Shirt of a Happy Man" (Part I in reading, Part II in listening) — an unhappy king needs the shirt of a happy man; the prime minister (power), banker (money) and singer (fame) are all unhappy; a poor man with nothing is happy; learners predict and discuss endings (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 13, printed pp.83–85 |
 | A story built to be retold from pictures alone: a wordless two-page farm story — told by retelling, not reading (topic and picture citation only; the book prints no English anywhere, so the telling is the pupil's own) | Mongolia, English V (Grade 5), Unit 10, exercise 4, printed pp.102–103 |
 | Retelling named in the chapter's own objectives — "participate in, retell and rewrite an imaginative story" — and practised in sound: the song retells the mouse-deer story in past forms after pupils predict its five-picture sequence | Indonesia, Grade 5, Chapter 6, Objectives, printed p.152, and pp.154–156 |
 | The telling-back performed: My Turn completes a gapped sequel narration of the mouse-deer story and performs it in narrator/character roles | Indonesia, Grade 5, Chapter 6, pp.163–164 |

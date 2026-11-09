@@ -25,6 +25,10 @@ single letters.
 | **th** — voiced set against unvoiced set | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.40 |
 | **ng / nk** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 5, printed p.50 |
 | **wh** on one Let's spell page | China — English (PEP) Grade 5 Volume 2, Unit 6, printed p.60 |
+| **y** as a vowel sound on one Let's spell page — happy, baby, windy, sunny, sorry, candy, many, family, party (stocked 2026-11-08 by the re-verification sweep, flag 3) | China — English (PEP) Grade 5 Volume 1, Unit 1, printed p.6 |
+| **ai / ay** on one Let's spell page — rainy, rainbow, paint, wait; say, way, birthday, Monday (stocked 2026-11-08 by the re-verification sweep, flag 3) | China — English (PEP) Grade 5 Volume 1, Unit 5, printed p.50 |
+| **ou / ow** on one Let's spell page — house, mouse, sound, count, about (stocked 2026-11-08 by the re-verification sweep, flag 3) | China — English (PEP) Grade 5 Volume 1, Unit 6, printed p.60 |
+| Vowel-sound review sorting — group words by their vowel sound (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, printed p.60 |
 | The Grade 8 spelling-and-pronunciation sets, one set per lesson: **ch, sh** · **ee, ay** · **oo** (long and short) · **ea** (with ch again) · **th, ph, wh** · **th** in both values · **ow, ou** | Iran — English for Schools, Prospect 2 (Grade 8), Lessons 1–7, printed pp.12–59 (ee/ay and the st- blend at p.21; oo at p.29; ch/ea at p.36; th in both values at p.51; the whole run checked at Review 3, printed pp.60–63) |
 | Digraph lessons worked from the block's own story or poem: **kn** (silent k) · **ph** · **wr** · **sh** · **th** | Sierra Leone — Language Arts Primary 2: kn, Term 2 Lessons 76–77 (the "Knife" Tiny Tale); ph, Term 2 Lesson 87 ("Friends Forever"); wr, Term 2 Lesson 99 ("Wiggle Your Fingers"); sh, Term 2 Lesson 113 ("Musa Go-Go"); th, Term 3 Lesson 122 ("Good Neighbours") |
 | **sh / ch** on one phonics lesson — shelf, shop, chair, chick (the Activity Book adds shirt, shell, cheese, chain) | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 2, printed pp.16–23 |
@@ -37,7 +41,7 @@ single letters.
 | **wh** — what, when, wheel, whistle, whale | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 4, printed pp.32–39 |
 | **ng / -ing** (king, ring; milking, singing) and **ck** (clock, black, backpack, truck) | Jordan — Team Together Grade 3 Pupil's Book, Semester 2: Unit 5, printed pp.8–15; Unit 7, printed pp.24–31 |
 | The Grade 7 revisit, tabulated as the semester's phonics line — hard and soft **c**, **tch**, and voiced/unvoiced **th** | Jordan — Team Together Grade 7 Teacher's Book, Semester 1, Scope and sequence, TB pp.2–3 |
-| Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
+| Review stock: a grouping task sorting ch, sh, th, ng, nk with the blends, and pronunciation-pattern reference tables. Book error noted, taught corrected: Appendix 8 (printed p.70) gives the letter group "qu" the sound /k/ (examples quick, quite, question); qu is /kw/ in those words, and the course teaches /kw/ | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.49; Appendices, printed pp.70–71 |
 | The **s / sh** contrast drilled as a tongue-twister on sea shells — /s/ against /ʃ/ — in the teacher's pronunciation support for the drills, with the tapescript printed | Greece — Think Teen! Grade 7 Beginners Teacher's Book, Unit 2 lesson notes, printed p.18 |
 | Word-ending sounds as a pronunciation set closing the lesson: **/ŋ/** and the **-s** endings **/s/–/z/–/ɪz/** | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 1 "People and Places" (Unit 1, printed pp.6–21; lesson opens printed p.6) |
 | **-ed pronunciation** separated out as its own work, beside the lie / lay confusion | Greece — Think Teen! Grade 8 Advanced Workbook, Unit 2, Lesson 4 "Mysteries of Our World" (Unit 2, printed pp.22–35; lesson opens printed p.22) |
@@ -336,6 +340,8 @@ PASSED 2026-10-29). Where Egypt grows this lesson book by book
 and Barbados sets it as a programme, China runs it as a ladder:
 one spelling-sound group per unit, each with a chant, a grouping
 task and sentence writing.
+
+**China — sweep addition 2026-11-08** — **Book:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29). The re-verification sweep stocked this book's vowel-sound review sorting and three Grade 5 Volume 1 Let's spell pages the filing had claimed but the course had not stocked (sweep flag 3), and noted the Grade 6 Volume 2 Appendix 8 error — "qu" printed as /k/ — on the review-stock row, taught corrected as /kw/.
 
 **Iran added 2026-11-03** — **Book:** *English for Schools —
 Prospect 2*, Grade 8 Student Book — Iran, Ministry of

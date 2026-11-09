@@ -146,6 +146,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 52:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
 
+**Book 53:** English (PEP), Grade 5 Volume 1 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 54:** English (PEP), Grade 5 Volume 2 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 55:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -155,6 +161,20 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | The unseen-passage comprehension of the examination years — a passage never seen before, questions answerable from it alone | Egypt, Secondary examination reading work (as filed in the book map) |
 | Answering in graded shapes, one book's ladder — first, written questions on a postcard text, answers lifted from the postcard itself | China, Grade 4 Volume 2, Unit 3, Read and write, p.29 |
 | The tick table: tick what you can see, checked against a four-part farm text | China, Grade 4 Volume 2, Unit 4, Read and write, p.43 |
+| Read and write: read a school floor-plan text and fill the table; write school sentences (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 2, Unit 1, printed p.9 |
+| Read and write: Robin's e-mail advertisement "Who can be my friend?" — read it, tick what Robin can/can't do, write "I can… I can't…" sentences (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Unit 4, printed p.43 |
+| Read and write: "Robin draws" — a park description text to tick true sentences from; write questions and answers about a nature park (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Unit 6, printed p.63 |
+| Recycle reading set: a park-map dialogue to read and complete ("Are there any lakes in the forest?…") (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Recycle 2, printed pp.66–67 |
+| Read and write: "Robin likes them all!" — four short season texts with photos; read and tick; write "I like … best because…" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.19 |
+| Reading answered from the text: Wei Fen's story "How I Learned to Learn English" — she fell in love with Toy Story, watched faces and expressions, listened for key words, looked new words up (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 1, printed p.3 |
+| A long dialogue text answered from the text: "Fun Times Park — Always a Fun Time!" — Alice and He Wei choose rides and ask where the restrooms are (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 3, printed p.19 |
+| Reading: "The Difficult Search for American Products in the US" — Kang Jian in San Francisco finds toys, shoes and even American flags made in China; the reference words those/it/they must be traced (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 5, printed p.35 |
+| Listening answered from the text: the Weifang kite festival — kites of silk or paper, an international festival every April (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 5, printed p.37 |
+| Listening text: "The History of Potato Chips" — invented by mistake in 1853 by the cook George Crum (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 6, printed p.45 |
+| Reading (debate article): "Should I Be Allowed to Make My Own Decisions?" — Liu Yu, a fifteen-year-old running star from Shandong, against his parents' worries (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 7, printed pp.54–55 |
+| Reading: "What Do You Feel Like Watching Today?" — kinds of movies matched to feelings (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 11, printed p.67 |
+| Two opinion texts set against each other: Teresa Lopez (Cali, Colombia — relaxed about time) against Marc LeBlanc (Lausanne, Switzerland — always on time) (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 10, printed p.75 |
+| Reading: "Save the Sharks!" — a fact-sheet passage: around 70 million sharks caught and traded a year, numbers fallen by over 90 per cent in 20–30 years (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 13, printed p.99 |
 | Multiple choice: choose-the-answer questions on a packing text | China, Grade 4 Volume 2, Unit 5, Read and write, p.53 |
 | The picture-only answer: advertisement questions where two answers live only in the pictured price tags, not in the text — the text alone is not enough, and the book knows it | China, Grade 4 Volume 2, Unit 6, Read and write, p.63 |
 | True/false statements judged against a letter | China, Grade 4 Volume 2, Recycle 2, p.69 |
