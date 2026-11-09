@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt
 
 Every part traces to its book and page.
 
@@ -63,6 +63,10 @@ Every part traces to its book and page.
 **Book 40:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 41:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 44:** *Mathematics, Preparatory 3 (Grade 9), Term 1, Student's Book (Sahara edition)* — Egypt, Ministry of Education and Technical Education, original edition 2018–2019, revised/approved 2023–2024 (the held file binds Terms 1 and 2 together; Term 1 is pp. 4–75). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 45:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 46:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -205,7 +209,16 @@ Every part traces to its book and page.
 | Applying coordinates in solving geometry problems | Armenia, Geometry 8, §16.39, printed p. 107 |
 | Equation of a line | Armenia, Geometry 8, §21.51, printed p. 140 |
 | Equation of a circle | Armenia, Geometry 8, §21.52, printed p. 142 |
-**Acceptance count: taught in 20 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| The distance between two points | Egypt, Prep 2 (Grade 8) Term 2 (new curriculum), U3 L4, printed p. 79 |
+| The coordinates of the midpoint of a line segment | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L4, printed p. 58 |
+| Dividing a line segment internally and externally | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L6, printed p. 65 |
+| The slope of a straight line; the conditions for parallel and perpendicular lines | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L7, printed p. 70 |
+| The slope of a straight line; the equation of a straight line | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U3 L5, printed p. 86 |
+| Analytic geometry — the position vector; addition; finding an unknown value; magnitudes, directions and their representations | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L1, printed p. 94 |
+| The equation of a straight line in vector form | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L2, printed p. 99 |
+| The parametric and Cartesian forms of the equation of a straight line | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L3, printed p. 107 |
+| General applications on the equations of a straight line | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L4, printed p. 111 |
+**Acceptance count: taught in 21 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 
@@ -229,3 +242,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Graph of a linear function; Relative positions of two straight lines from their k and b values: intersecting,…; Graph of a linear equation in two variables.
 
 Armenia enters through its Geometry 11; Geometry 8. From its books: distance formula between two points; coordinates of a segment's midpoint; distance between points given by coordinates; applying coordinates in solving geometry problems; equation of a line; equation of a circle.
+
+Egypt enters through its Prep and Secondary books, stocked by the 2026-11-08 re-verification sweep: the distance between two points in Prep 2's new Term 2 book; midpoint, section division and slope in Prep 3's old-series Term 1 book; slope and the line's equation in Prep 3's new-curriculum book; and analytic geometry with the vector, parametric and Cartesian forms of the line in Secondary 1 Term 2.

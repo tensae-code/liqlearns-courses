@@ -197,6 +197,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 98:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 99:** *Mathematics 3, Part 1* (student) — Armenia, Samvel Harutyunyan, Astghik gratun, 2024. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 100:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 101:** *Mathematics, Secondary 1 (Grade 10), Term 1, "First Form Secondary"* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -206,6 +207,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Congruence in plane shapes; congruent polygons (corresponding sides equal, corresponding angles equal, vertices named in matching order); triangle congruence cases SSS, SAS, ASA and AAS | Egypt, Grade 8 Term 1, Unit 3 Geometry, 3-1 Congruence, printed pp.62–69 |
 | Similarity of polygons (two conditions: corresponding angles equal, corresponding sides proportional) and the similarity ratio; similarity of triangles including AA, using similarity to find unknown lengths; dilation (centre, factor k, enlargement for k > 1, reduction for 0 < k < 1, image similar with unchanged angles) | Egypt, Preparatory 3 NEW Term 1, Unit 3 Geometry, 3-1 Similarity of polygons p.48; 3-2 Similarity of triangles p.55; 3-3 Dilation p.62 |
 | Similarity of polygons (definition, similarity ratio, perimeters and drawing scale); similarity of triangles (cases, the Thales pyramid-height story); area ratio equals the square of the similarity ratio, proved first for triangles | Egypt, Secondary 1 old Term 1, Unit 2 Similarity, 2-1 Similarity of polygons p.32; 2-2 Similarity of triangles p.36; 2-3 Relation between the areas of two similar polygons p.45 |
+| Similarity of polygons | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U3 L2, printed p. 55 |
+| The geometric mean (the mean proportional) | Egypt, Secondary 1 (Grade 10) Term 1, U2 L4, printed p. 36 |
+| Areas of similar polygons | Egypt, Secondary 1 (Grade 10) Term 1, U2 L5, printed p. 45 |
+| Similarity of triangles — AA, SSS, SAS | Egypt, Secondary 1 (Grade 10) Term 1, U2 L7, printed p. 62 |
 | First congruence criterion (SAS), second criterion (ASA), congruence criteria for right triangles; congruent triangles defined by matching sides and angles | Kazakhstan, Geometry 7 (Smirnov & Tuyakov, Mektep 2017), §8 first congruence criterion (SAS); §9 second criterion (ASA); §10 isosceles triangles and right-triangle criteria (chapter pp.34–76) |
 | Similarity transformations (all distances multiplied by one k); homothety (centre, coefficient, a homothety is a similarity transformation); similarity criteria for triangles I (two equal angles), II (two sides proportional + included angle), III (three sides proportional); area ratio of similar figures = k² | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 2 Transformations of the plane, §2.4 similarity transformations and homothety; §2.5 similarity criteria; §2.6 applications of similarity (area ratio k²), pp.72–107 |
 | Congruent triangles chapter (first congruence case and the following cases) | Vietnam, Toán 7 Volume 1, Chapter IV "Tam giác bằng nhau" (Congruent triangles), p.60 |
@@ -456,8 +461,11 @@ volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
 Jordan carries congruence, scale drawing, similarity and
 enlargement in Grade 7 and the three similarity cases plus
 dilation in Grade 8. Egypt carries congruence with AAS in Grade
-8, similarity and dilation in Preparatory 3, and the proved
-area-ratio theorem in Secondary 1. Kazakhstan carries the
+8, similarity and dilation in Preparatory 3 — in both the old
+series and the new curriculum — and the proved
+area-ratio theorem in Secondary 1, with the geometric mean and
+triangle similarity in Secondary 1 Term 1 (rows completed by
+the 2026-11-08 re-verification sweep). Kazakhstan carries the
 congruence criteria in Grade 7 Geometry and the similarity
 transformations, homothety and the three criteria in Grade 9
 Geometry. Vietnam carries congruent triangles in Grade 7 and

@@ -207,10 +207,23 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 123:** *Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream* — Armenia, Gegham Gevorgyan and Artur Sahakyan, student book, ISBN 978-9939-961-34-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 124:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 125:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 2* (teacher guide) — Armenia, Limush, 2025. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
+**Book 126:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 127:** *Mathematics, Grade 11, Term 1, General track (Literary section)* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (Deposit no. 10555/2015; ISBN 978-977-706-012-7). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 128:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
-| Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples; polynomial functions (constant, linear and quadratic) and their graphs | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-1 Cartesian product p.2; 1-2 Relations p.8; 1-3 Function p.11; 1-4 Polynomial functions p.14 (French contents-page numbers) |
+| Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-2 Cartesian product p.13; 1-3 Relations p.16; 1-4 Function (application) p.19 (printed folios — an earlier version of this row carried the French contents-page numbers 2/8/11/14; corrected in the 2026-11-08 re-verification sweep) |
+| Relations and functions (review) | Egypt, Grade 9 Term 2 (old series), Unit 1, Lesson 4, printed p. 15 |
+| Relations and functions | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U1 L4, printed p. 22 |
+| Real numbers (the concept) | Egypt, Grade 11 General Term 1 (Literary), FIRST EDITION 2015/2016, U1 L1, printed p. 4 |
+| Intervals | Egypt, Grade 11 General Term 1 (Literary), U1 L2, printed p. 11 |
+| Operations on intervals | Egypt, Grade 11 General Term 1 (Literary), U1 L3, printed p. 16 |
+| Absolute value | Egypt, Grade 11 General Term 1 (Literary), U1 L4, printed p. 23 |
+| Real numbers (the concept) | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L1, printed p. 4 |
+| Intervals | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L2, printed p. 11 |
+| Operations on intervals | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L3, printed p. 15 |
+| Absolute value | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L4, printed p. 21 |
 | Sign of a function: where a constant, linear or quadratic function is positive, negative or zero, read from its graph; quadratic inequalities solved by the graph of the related quadratic function | Egypt, Secondary 1 old Term 1, Unit 1 Algebra, relations and functions, 1-4 Sign of a function p.20; 1-5 Quadratic inequalities in one variable p.27 |
 | The inverse function: inverse pairs and their graphs; the logarithmic function and its graph; exponential function and its applications | Egypt, Pure Mathematics Grade 11 Term 1 Science, Unit 2 Exponents, Logarithms and their Applications, 2-4 The inverse function p.67; 2-2 Exponential Function p.58; 2-5 Logarithmic function p.72 |
 | Functions — deciding whether a relation is a function; interpreting graphical representations; the quadratic function, its properties and graph; geometric transformations of quadratic functions (translations/stretches of the parabola) | Jordan, Grade 9 Term 1, Unit 2 "Relations and Functions", p.50; L1 Functions p.52; L2 Interpreting graphical representations p.64; L3 The quadratic function p.74; L4 Geometric transformations of quadratic functions p.87 |
@@ -580,7 +593,11 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Acceptance count: taught in 36 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia).**.** Egypt carries the
 fullest build — Cartesian product, relation, function, domain
-and range in Preparatory 3; the sign of a function in
+and range in Preparatory 3 (at the book's printed folios,
+corrected by the 2026-11-08 re-verification sweep), relations
+and functions again in Prep 3's new curriculum, real numbers,
+intervals and absolute value opening Grade 11 General Term 1 in
+both its editions; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
 carries deciding whether a relation is a function, the
 quadratic function and its graph in Grade 9, and piecewise

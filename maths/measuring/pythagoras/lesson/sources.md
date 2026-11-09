@@ -161,10 +161,12 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 69:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part Two* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, second edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 **Book 71:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
+| The converse of Pythagoras' theorem | Egypt, Prep 2 (Grade 8) Term 2 (new curriculum), U3 L1, printed p. 57 |
 | Areas of plane figures — Pythagoras' theorem (Ch.1, pp.113–132) | Greece, Grade 8, Part B, Ch.1, pp.113–132 |
 | Metric relations (Ch.9, pp.43–68): orthogonal projections; Pythagoras' theorem | Greece, Euclidean Geometry Vol. B, Ch.9, pp.43–68 |
 | Pythagoras' theorem and its converse (§10, pp.60–63) | Armenia, Geometry 8, §10, pp.60–63 |
@@ -340,6 +342,8 @@ India enters Pythagoras from Mathematics Class 7–8, 10: pythagoras property a�
 
 
 Mongolia enters through its ministry textbook Математик VIII (Grade 8): the theorem with an area-dissection proof and its converse stated, worked through roofs, ladders, kites and lake widths, a Pythagorean-triple generator (2mn, m² − n², m² + n²) set as prove-or-disprove, and Euclid's altitude-on-the-hypotenuse relations.
+
+Egypt states the theorem and its converse in Prep 2 (Grade 8) Term 1 and returns to the converse in the new-curriculum Term 2 book (row stocked by the 2026-11-08 re-verification sweep).
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática de la Belleza* (Grade 9). From its books: from Grade 8: construction activity — right triangle 6-8-10 cm; legs (catetos) and hypotenuse named; squares built on the three sides; from Grade 9: right triangles named — legs (catetos) and hypotenuse defined; the theorem discovered by building squares on the three sides and comparing areas.
 

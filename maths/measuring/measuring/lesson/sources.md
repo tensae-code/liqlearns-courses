@@ -388,6 +388,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 210:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 211:** *Mathematics 3, Part 1* (student) — Armenia, Samvel Harutyunyan, Astghik gratun, 2024. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 212:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 213:** *Mathematics, Primary 1, Term 1 (Japanese-collaboration series)* — Egypt, Ministry of Education and Technical Education, © 2025/2026 (one work in Arabic, English and French editions; project lead Maki Komizo; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 214:** *Mathematics, Primary 5, Term 1, "Discover" (Discovery Education) series* — Egypt, Ministry of Education and Technical Education (French edition ISBN 978-1-61708-831-5). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -395,6 +397,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The kilometre (p.86); gram and kilogram (p.88); litre and millilitre (p.90) | Jordan, Grade 3 Student Book Term 2, Unit 11, L2–L4, pp.86–90 |
 | Measuring mass: half a kilogram, 1 kg, 5 kg, 10 kg, 100 kg; applications on measuring mass | Egypt, Grade 2 Term 1 old series, Chapter 3 (mass), pp.60–81 |
 | Units of length (pp.56–67): 1 cm = 10 mm; readings like 4 cm 7 mm and 9 cm 3 mm; measuring from the non-zero mark | Egypt, Grade 2 Term 1 new series, Chapter 5, pp.56–67 |
+| How can we measure — comparing with a tape / non-standard unit lengths side by side | Egypt, Primary 1 Term 1 (Japanese-collaboration series), Lesson 5-2, printed pp. 56–57 |
+| Comparing lengths when the ends do not line up — indirect comparison | Egypt, Primary 1 Term 1 (Japanese-collaboration series), Lesson 5-3, printed pp. 58–59 |
+| Deciliter (dL) and capacity | Egypt, Grade 2 Term 1 new series, Lesson 7-1, printed pp. 98–99 |
+| Liter (L) and capacity — 1 L = 10 dL | Egypt, Grade 2 Term 1 new series, Lesson 7-2, printed pp. 100–101 |
+| Milliliter (mL) and capacity — 1 L = 1,000 mL, 1 dL = 100 mL; capacity calculations in one unit | Egypt, Grade 2 Term 1 new series, Lesson 7-3, printed pp. 102–103 |
+| Decimal numbers and the metric system | Egypt, Primary 5 Term 1 (Discover), U5 C5.1 L7, printed p. 105 |
+| Measurement, decimal numbers and powers of ten | Egypt, Primary 5 Term 1 (Discover), U5 C5.1 L8, printed p. 108 |
 | Measuring length, centimetre (p.60); measuring and weighing (p.122) | Kazakhstan, Grade 1 Part 1, pp.60, 118–124 |
 | How do we measure mass? (p.6); comparing objects by volume (p.10); how do we measure volume? (p.14) | Kazakhstan, Grade 1 Part 2, Section 3, pp.6–18 |
 | Units of length — non-standard units (Bài 26) | Vietnam, Toán 1 v2, Bài 26 |
@@ -929,9 +938,13 @@ single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
 kilogram, litre and millilitre) and the kilometre in Grade 3.
-Egypt carries mass in its old Grade 2 series and the full
+Egypt carries first length comparison in Primary 1
+(Japanese-collaboration series), mass in its old Grade 2 series
+and the full
 length-units chapter with 1 cm = 10 mm readings in its new Grade
-2 series. Libya carries mass from balance comparison in Grade 1
+2 series, capacity in decilitres, litres and millilitres in the
+same new series, and decimals with the metric system in Primary
+5 (rows completed by the 2026-11-08 re-verification sweep). Libya carries mass from balance comparison in Grade 1
 through kilograms and grams in Grade 2 to litres and millilitres
 in Grade 3. Mauritania carries the kilogram in Grade 2, litre
 parts in Grades 4 and 5, and metre and gram parts and multiples

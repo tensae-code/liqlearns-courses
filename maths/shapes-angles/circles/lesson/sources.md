@@ -298,12 +298,30 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 155:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 156:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 157:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 158:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 159:** *Applied Mathematics, Grade 11, Term 1* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
 | Circumference of the circle (p.84); area of the circle (p.91); GeoGebra lab exploring the approximate ratio π (p.82) | Jordan, Grade 7 Student's Book Term 2, Unit 7, L1–L2, pp.82–91 |
 | The circle: basic definitions — centre, radius, diameter, chord, secant, tangent, arc (4-1, p.39) | Egypt, Grade 9 Term 2, Unit 4, 4-1, p.39 |
+| Areas of sectors and segments of a circle | Egypt, Prep 2 (Grade 8) Term 2 (new curriculum), U3 L2, printed p. 64 |
+| Central angles and minor arcs | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-2, printed p. 46 |
+| The circumcircle of a triangle | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-3, printed p. 54 |
+| Inscribed angles and major arcs | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-4, printed p. 58 |
+| The inscribed angle subtended by a semicircle | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-5, printed p. 64 |
+| The inscribed angle theorem | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-6, printed p. 71 |
+| Tangent segments drawn from one point | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-7, printed p. 79 |
+| Finding an unknown arc measure | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-8, printed p. 85 |
+| The angle formed by intersecting chords | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-9, printed p. 88 |
+| Cyclic quadrilaterals | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-10, printed p. 93 |
+| Applications on arcs and angles | Egypt, Grade 9 Term 2 (old series), Unit 4, 4-11, printed p. 100 |
+| The equation of a circle | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U4 L1, printed p. 135 |
+| The general form of the equation of a circle | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U4 L2, printed p. 139 |
+| The position of a point relative to a circle | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U4 L3, printed p. 142 |
+| The circle | Egypt, Grade 11 Applied, Term 1, U3 L3, printed p. 78 |
 | Measurement of the circle: inscribed angles; regular polygons; circumference; arc length; area of a circular disc; area of a circular sector (pp.175–198) | Greece, Grade 8, Part B, Ch.3, pp.175–198 |
 | Measurement of the circle: definition of a regular polygon; circle measurement (pp.89–114) | Greece, Euclidean Geometry Vol. B, Ch.11, pp.89–114 |
 | Circle, arc and degree (p.101) | Armenia, Mathematics 5, §4.3, p.101 |
@@ -557,7 +575,13 @@ the parts with d = 2r in JSS 1 and both formulas in JSS 2.
 Mauritania carries radius and diameter in Grade 5 and
 circumference and disc area in Grade 6. Libya carries radius,
 diameter, circumference and area in Grade 6, with pi as 3.14 and
-as 22/7. Egypt carries the circle's definitions in Grade 9.
+as 22/7. Egypt carries the circle's definitions in Grade 9 and
+the full circle unit in Grade 9 Term 2's old series — central
+and inscribed angles, tangents, cyclic quadrilaterals — areas
+of sectors and segments in Prep 2's new Term 2 book, the
+equation of a circle in Secondary 1 Term 2, and the circle in
+Grade 11 Applied (rows completed by the 2026-11-08
+re-verification sweep).
 Greece carries circle measurement in Grades 8 and 11. Armenia
 carries circle, arc and degree in Grade 5 and the circle chapter
 in Geometry 9. Vietnam carries centre, radius and diameter in

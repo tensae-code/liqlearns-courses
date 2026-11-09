@@ -242,6 +242,8 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 122:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 123:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+**Book 124:** *Mathematics, Preparatory 1 (Grade 7), Term 1, new curriculum (Vision 2030)* — Egypt, Ministry of Education and Technical Education (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 125:** *Mathematics, Preparatory 3 (Grade 9), Term 1, Student's Book (Sahara edition)* — Egypt, Ministry of Education and Technical Education, original edition 2018–2019, revised/approved 2023–2024 (the held file binds Terms 1 and 2 together; Term 1 is pp. 4–75). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -251,6 +253,14 @@ CITATION CHECK PASSED 2026-11-04).
 | Ratio, fractions and percent are the same comparison | Sierra Leone, JSS 1 Term 2, L48 Ratios and fractions/percentages/decimals, printed p.6; Libya, Grade 6, Unit 4, ratio and fractions, printed pp.47–66; Ghana, JICA B6 teacher manual, L67–68 relation of ratio to fractions and multiplication (teacher evidence); South Africa, Grade 7 Book 1, WS7 Ratio, WS8 Rate, printed pp.14–27 |
 | Unit rate and best buy | Egypt, Grade 6 Term 2, Unit 10, L1–3 Unit rate pp.32–37 (Basma, 570 jumps in 6 minutes; best-buy popcorn); Armenia, Grade 6, Ch.2 §2.2 Equality of ratios, recipes p.50; South Africa, Grade 7 Book 1, WS8 Rate, printed pp.14–27; South Africa, Grade 9 Book 1, R7 Ratio and rate |
 | Proportion: two ratios equal; cross multiplication | Armenia, Grade 6, Ch.2 §2.3 Cross multiplication p.56; Egypt, Grade 6 Term 2, Unit 9, L5–6 Proportion pp.24–30 (cross-multiplication); Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (proportions, cross products — "crosswise I find x"); Sierra Leone, JSS 1 Term 2, L66 Simple proportion, cross-multiplication, printed p.60 |
+| Direct proportion | Egypt, Primary 6 Term 2 (Student Edition), U4 C4.2 L1, printed p. 22 |
+| Finding missing values in a table by ratio | Egypt, Primary 6 Term 2 (Student Edition), U5 C5.2 L3, printed p. 38 |
+| Equal ratios | Egypt, Primary 6 Term 2 (Student Edition), U5 C5.2 L4, printed p. 40 |
+| Unit rates | Egypt, Primary 6 Term 2 (Student Edition), U5 C5.2 L5, printed p. 42 |
+| Ratios — a : b | Egypt, Prep 1 (Grade 7) Term 1 (new curriculum), U1 L1, printed p. 2 |
+| Thales' theorem | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L1, printed p. 25 |
+| Thales' corollaries | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L2, printed p. 27 |
+| Triangle similarity — AA, SSS, SAS | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U3 L3, printed p. 32 |
 | Direct proportion and the rule of three | Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (direct and inverse proportion, rule of three); Armenia, Grade 6, Ch.2 §2.4 Direct proportion p.59; Mauritania, Grade 6, proportionality and uniform motion p.77 |
 | Scale and maps | Armenia, Grade 6, Ch.2 §2.5 Map and scale p.63; Greece, Grade 6, ch.59 Scale as ratio, printed pp.143–144; Vietnam, Grade 5 Volume 2, Theme 7, Bài 36–39 Ratio, map scale, finding two numbers from sum and ratio / difference and ratio, printed pp.4–15; Mauritania, Grade 6, proportionality and map scale p.81 |
 | Working together; joint work, whole = 1 | Armenia, Grade 6, Ch.2 §2.6 Working together p.66; Kazakhstan, Grade 5, Ch.3 §3.15 Joint work (whole = 1) |
@@ -468,7 +478,12 @@ course — ratio, equality of ratios and recipes, cross
 multiplication, direct proportion, map and scale, working
 together; Jordan teaches ratio and equivalent ratios in Grade 6;
 Egypt teaches ratio, equivalent ratios, proportion with
-cross-multiplication, unit rate and best buy in Grade 6 Term 2;
+cross-multiplication, unit rate and best buy in Grade 6 Term 2 —
+with direct proportion, table values by ratio, equal ratios and
+unit rates in the Primary 6 Term 2 book, ratio from the first
+lesson of Prep 1's new curriculum, and Thales' theorem with
+triangle similarity in Prep 3's old series (rows completed by
+the 2026-11-08 re-verification sweep);
 Greece teaches ratio, equivalent ratios, proportions, cross
 products, direct and inverse proportion, the rule of three, and
 scale as a ratio in Grade 6; Sierra Leone teaches ratio,

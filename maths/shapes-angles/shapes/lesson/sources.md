@@ -393,11 +393,19 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 233:** *Mathematics 5* (student) — Armenia, Smbat Gogyan and Narine Ravoyeva, 2023. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 234:** *Geometry 9* — Armenia, Saribek Elibeki Hakobyan and Nare Arghuti Ghazaryan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 235:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 236:** *Mathematics, Primary 1, Term 2 (Japanese-collaboration series)* — Egypt, Ministry of Education and Technical Education, © 2025/2026 (one work in Arabic, English and French editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 237:** *Mathematics, Primary 2, Term 1, "Discover" (Education 2.0) series* — Egypt, Ministry of Education and Technical Education, 2025–2026 (one work in Arabic, English and French editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
 | Triangle classification by angles and sides; square, trapezium, kite named together | Egypt, Grade 5 Term 2, Unit 10 (2D figures), pp.54–58 (L2 Tricky Triangles, pp.54–58) |
+| Different shapes, Part 1 — recognising and naming plane shapes | Egypt, Primary 1 Term 2 (Japanese-collaboration series), Lesson 10-1, printed pp. 6–8 |
+| Different shapes, Part 2 | Egypt, Primary 1 Term 2 (Japanese-collaboration series), Lesson 10-2, printed pp. 9–10 |
+| Making shapes, Part 1 — composing shapes from triangle pieces; counting unit triangles in a figure | Egypt, Primary 1 Term 2 (Japanese-collaboration series), Lesson 15-1, printed pp. 44–45 |
+| Making shapes, Part 2 — building figures from sticks; counting triangles and squares inside a figure | Egypt, Primary 1 Term 2 (Japanese-collaboration series), Lesson 15-2, printed pp. 46–47 |
+| Making shapes, Part 3 | Egypt, Primary 1 Term 2 (Japanese-collaboration series), Lesson 15-3, printed pp. 48–49 |
+| Attributes of 2-dimensional shapes | Egypt, Primary 2 Term 1 (old Discover series), Ch. 5 L. 1, printed p. 59 |
 | Polygons (p.66); classifying triangles by side lengths (p.70); triangle angle-sum activity (p.74); classifying triangles by angle measures (p.76); classifying quadrilaterals (p.81) | Jordan, Grade 5 Student Book Term 2, Unit 9 (geometry), pp.62–91 |
 | Quadrilaterals as the opening lesson of the shapes unit | Jordan, Grade 6 Student Book Term 2, Unit 7, L1 Quadrilaterals, p.80 |
 | The parallelogram (p.77); recognising a parallelogram (p.84); special cases of the parallelogram — rectangle, rhombus, square (p.91) | Jordan, Grade 8 Student Book Term 2, Unit 7, L2–L4, pp.77–91 |
@@ -932,8 +940,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
-with its special cases. Egypt carries polygons by vertices in
-Grade 3 and the triangle/trapezium/kite sorting in Grade 5.
+with its special cases. Egypt carries first plane shapes and
+shape-making in Primary 1 (Japanese-collaboration series),
+2-dimensional shape attributes in Primary 2 (old Discover),
+polygons by vertices in
+Grade 3 and the triangle/trapezium/kite sorting in Grade 5
+(rows completed by the 2026-11-08 re-verification sweep).
 Greece carries polygons including regular polygons in Grade 6.
 Armenia carries the proof-level triangle and quadrilateral
 chapters in Geometry 7 and 8. Kazakhstan carries polygons and

@@ -335,6 +335,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 157:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 158:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 159:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 160:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 161:** *Applied Mathematics, Grade 11, Term 1* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -344,6 +346,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume of the sphere and its surface area (p.132) | Jordan, Grade 8 Student Book Term 2, Unit 8, L3, p.132 |
 | Understanding volume and capacity: geometric shapes around us (pp.88–92); measuring volume by counting unit cubes (pp.93–95); finding a formula — V = base area × height (pp.100–103); V = l × w × h, Senet boards 30×8×6 = 1,440 cm³ (pp.104–107); compound shapes (pp.108–110) | Egypt, Grade 5 Term 2, Unit 11, pp.88–113 |
 | Surface area of cuboid (pp.94–97); surface area of prism and pyramid (pp.98–100); volume with fractional sides (pp.101–102); volume of cuboid with known ratios (pp.103–104) | Egypt, Grade 6 Term 2, Unit 13, pp.94–104 |
+| Surface area and volume of a solid | Egypt, Prep 2 (Grade 8) Term 2 (new curriculum), U3 L3, printed p. 71 |
+| Surface area and volume of a sphere | Egypt, Grade 11 Applied, Term 1, U3 L2, printed p. 73 |
 | Problems on finding the edge length and volume of a rectangular parallelepiped (L147–148, pp.65, 69); nets (L161–162, pp.115, 119) | Kazakhstan, Grade 4 Part 4, L147–148, pp.65–69; L161–162, pp.115–119 |
 | Perimeter, rectangle/square area, cuboid/cube volume formulas (§1.11) | Kazakhstan, Grade 5 (Atamura, 2017), §1.11 |
 | Volume (p.38) | Armenia, Mathematics 6, §1.10, p.38 |
@@ -682,7 +686,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
-cuboid, prism and pyramid surface areas in Grade 6. Jordan
+cuboid, prism and pyramid surface areas in Grade 6, surface area
+and volume of a solid in Prep 2's new Term 2 book, and surface
+area and volume of a sphere in Grade 11 Applied (rows completed
+by the 2026-11-08 re-verification sweep). Jordan
 carries the prism and pyramid in Grade 5, the rectangular prism's
 volume in Grade 6, the prism/cylinder and pyramid/cone volumes
 and surface areas in Grade 7, and the sphere in Grade 8.

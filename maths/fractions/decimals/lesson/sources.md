@@ -304,6 +304,14 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Multiplying decimals: count the places | Kazakhstan, Grade 5, Ch.4 §4.5 Multiplying a decimal by a natural number p.45, §4.6 Multiplying decimals p.51; Egypt, Grade 5 Term 1, Unit 5, L1 Multiplying by Powers of Ten pp.92–94, L2 Multiplying Decimals by Whole Numbers pp.95–96, L3 Multiplying Tenths by Tenths pp.97–98, L5 Multiplying Decimals through the Hundredths Place pp.101–102; Jordan, Grade 6 Term 1, Unit 3, L1 Multiplying decimals p.67; Greece, Grade 5 Teuxos B, Unit 5, ch.29 Multiplying decimals, printed pp.17–18; Armenia, Grade 6, Ch.1 §1.8 Multiplying decimals p.30; Sierra Leone, Primary 5 Term 3, L132 Multiplication of Decimal Numbers p.31 (teacher plans) |
 | Dividing decimals: make the divisor whole first | Kazakhstan, Grade 5, Ch.4 §4.7 Dividing a decimal by a natural number p.57, §4.8 Dividing a decimal by a decimal p.65; Egypt, Grade 6 Term 2, Unit 8, L4 Analyzing Multiplying and Dividing Fractions and Decimals pp.11–14 (3.66 ÷ 0.3); Jordan, Grade 6 Term 1, Unit 3, L2 Dividing decimals p.74; Greece, Grade 5 Teuxos B, Unit 5, ch.30 Dividing decimals, printed pp.19–20; Armenia, Grade 6, Ch.1 §1.9 Dividing decimals p.34; Sierra Leone, Primary 5 Term 3, L133 Division of Decimal Numbers p.33 (teacher plans) |
 | ×/÷ by 10, 100, 1000: move the point | Libya, Grade 5, Unit 9, Multiply by 10, 100, 1000 p.142, Divide by 10, 100, 1000 p.152; Kazakhstan, Grade 5, Ch.4 §4.9 Multiplying and dividing a decimal by 10, 100, 1000… and by 0,1; 0,01; 0,001…, p.72; Egypt, Grade 5 Term 1, Unit 5, L1 Multiplying by Powers of Ten pp.92–94; Greece, Grade 3, Unit 6, ch.33 Multiplication and division by 10, 100 and 1,000, printed pp.1–14; Sierra Leone, JSS 1 Term 1, L29 Multiplying and Dividing Whole Numbers and Decimals by Powers of 10, p.77 |
+| Adding and subtracting decimals (to the hundredths) | Egypt, Primary 5 Term 1 (Discover), U1 C1.2 L4, printed p. 34 |
+| Adding and subtracting decimals to the thousandths place | Egypt, Primary 5 Term 1 (Discover), U1 C1.2 L6, printed p. 40 |
+| Dividing fractions and decimal numbers | Egypt, Primary 5 Term 1 (Discover), U4 C4.2 L4, printed p. 99 |
+| Multiplying decimal numbers | Egypt, Primary 5 Term 1 (Discover), U4 C4.2 L6, printed p. 103 |
+| Ordering decimal numbers | Egypt, Primary 5 Term 1 (Discover), U5 C5.2 L4, printed p. 112 |
+| Rounding decimal numbers | Egypt, Primary 5 Term 1 (Discover), U5 C5.2 L5, printed p. 114 |
+| Decimal numbers and the number line | Egypt, Primary 5 Term 1 (Discover), U5 C5.2 L6, printed p. 116 |
+| The order of operations | Egypt, Primary 5 Term 1 (Discover), U5 C5.2 L7, printed p. 118 |
 | South Africa's decimal path: tenths on a metre line, then systematic to two places | South Africa, Grade 5 Book 1, ws 40 first decimals (tenths on a measuring line); Grade 6 Book 1, ws 52–61 decimal notation, adding/subtracting, comparing/ordering and multiplying with decimals, printed pp.128–159; Grade 7 Book 1, WS42–47 Decimals (place value, ordering, writing fractions as decimals, addition/subtraction, multiplication, division and rounding), printed pp.98–109 |
 | Mauritania's honest limit (stated, not forced): no decimals before Grade 5 | Mauritania, Grade 1–4 student books: no decimals — filed in maths/books/mauritania.md (Bands A–B). Mauritania's decimal teaching used here is Grade 5, decimal numbers concept and parts p.15, ordering p.38; Grade 6, decimals reading/ordering p.33, multiplication/division p.41, multiplying/dividing by 10, 100, 1000 p.45, decimal fractions p.72 |
 | Decimal numbers through litres (0.5 L, 1.25 L), tenths and hundredths on a number line; whole-number, decimal and fraction links (1/2 = 0.5, 1/4 = 0.25) | Laos, Grade 4 student book (new series), ch. 7, printed p. 64; ch. 10, printed p. 100 |
@@ -668,8 +676,10 @@ powers of ten and rounding; Jordan carries tenths and hundredths
 in Grade 4, thousandths with all four operations in Grade 5, and
 decimal multiplication and division in Grade 6; Egypt carries
 decimals to thousandths with addition and subtraction in Grade 5
-Term 1, decimal multiplication in the same term, and decimal
-division in Grade 6; Greece carries decimal fractions in Grade 3,
+Term 1 — including ordering, rounding and the number line at the
+book's printed folios — decimal multiplication in the same term, and decimal
+division in Grade 6 (rows completed by the 2026-11-08
+re-verification sweep); Greece carries decimal fractions in Grade 3,
 three-place decimals in Grade 4, and the full operations in Grade
 5; Armenia carries the whole decimal chapter in Grade 6; Sierra
 Leone carries tenths decimals in Primary 4 (teacher plans),

@@ -406,6 +406,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 203:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 204:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 205:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 206:** *Mathematics, Primary 3, Term 2, "Education 2.0" series* — Egypt, Ministry of Education and Technical Education, 2025–2026 (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -414,6 +415,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of a composite shape (p.114) | Jordan, Grade 5 Student Book Term 2, Unit 9, L4, p.114 |
 | Area of a parallelogram (p.87); area of a triangle — activity (p.94) and lesson (p.95); area of a trapezium (p.101) | Jordan, Grade 6 Student Book Term 2, Unit 7, L2–L4, pp.87–101 |
 | Perimeter of polygons; perimeter and area together; area from dimensions; different perimeters for the same area; different areas for the same perimeter (Chapter 5, printed pp.62–82) | Egypt, Grade 3 Term 1 old edition, Chapter 5, printed pp.62–82 |
+| Exploring perimeter — a unit count of a figure's outline | Egypt, Primary 3 Term 2 (old Education 2.0 series), Ch. 8 L. 1, printed p. 18 |
+| Area — the number of squares that cover a figure | Egypt, Primary 3 Term 2 (old Education 2.0 series), Ch. 8 L. 2, printed p. 21 |
+| Comparing areas and perimeters | Egypt, Primary 3 Term 2 (old Education 2.0 series), Ch. 8 L. 3, printed p. 24 |
 | Area and perimeter unit (folios 59–67): finding the perimeter; area by counting and by formula | Egypt, Grade 4 Term 1, Unit 4, folios 59–67 |
 | Garden perimeter (Unit 10, area and perimeter work) | Egypt, Grade 5 Term 2, Unit 10 |
 | Area of parallelogram, triangle and trapezium: L1 area of parallelogram; L2 area of the right-angled triangle (pp.85–87); L3 area of acute and obtuse triangles (pp.88–89); L4 area of trapezium (pp.90–92) | Egypt, Grade 6 Term 2, Concept 12.1, L1–L4, pp.82–92 |
@@ -815,8 +819,10 @@ and composite areas in JSS 2. Jordan carries perimeter and area
 from Grade 3 through the parallelogram, triangle and trapezium
 areas in Grade 6. Egypt carries the whole investigation — same
 area with different perimeters and same perimeter with different
-areas — from Grade 3, and the parallelogram, triangle and
-trapezium areas in Grade 6. Greece carries the parallelogram
+areas — from Grade 3 (with perimeter and area explored as counts
+in Primary 3 Term 2), and the parallelogram, triangle and
+trapezium areas in Grade 6 (rows completed by the 2026-11-08
+re-verification sweep). Greece carries the parallelogram
 area by slanting and the triangle as half the parallelogram in
 Grade 6. Kazakhstan carries the perimeter formulas in Grade 2
 and the rectangle, square and right-triangle areas in Grade 3.

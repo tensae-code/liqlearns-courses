@@ -239,12 +239,19 @@ textbook.
 **Book 147:** *Algebra 7* — Armenia, Smbat Gogyan and Vachagan Dilanyan, Qarakusi series. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 148:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 149:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 150:** *Mathematics, Primary 6, Term 2, Student Edition (Discovery Education)* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
 | Writing the equation of a line in slope–intercept form (assumed prior learning); solving a system of two linear equations graphically | Jordan, Grade 8 Term 2, Unit 6 "Systems of linear equations", p.38; L1 Solving a system graphically p.40 (opener lists slope–intercept form among prior learning) |
 | Slope m = tan of the inclination angle; equal slopes for parallels; product −1 for perpendiculars; equation of the straight line y = mx + b from slope and y-intercept, and other forms including through a point with a given slope | Egypt, Preparatory 3 NEW Term 1, Unit 3 Geometry, 3-6 The relation between the slopes of two parallel and perpendicular straight lines p.80; 3-7 Equation of the straight line p.86 |
+| The coordinate plane | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L1, printed p. 64 |
+| Plotting points on the coordinate plane | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L2, printed p. 66 |
+| Distance between two points on a number line | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L3, printed p. 69 |
+| Reflections on the coordinate plane | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L4, printed p. 72 |
+| Graphing polygons on the coordinate plane | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L5, printed p. 74 |
+| Distance on the coordinate plane | Egypt, Primary 6 Term 2 (Student Edition), U6 C6.1 L6, printed p. 77 |
 | Coordinates of a vector AB = (x₂ − x₁; y₂ − y₁) and distance |AB| = √((x₂−x₁)² + (y₂−y₁)²); midpoint coordinates; centroid coordinates as the average of the three corners; the equation of a line (direction and normal vectors, two-point form, general form ax + by + c = 0, slope form y = kx + r); angle between lines via gradients | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 1 Vectors in the plane, §1.5 coordinates and distance formula; §1.7 applications (equation of a line, centroid), pp.12–71 |
 | The concept of a function and the graph of a function; first-degree function and its graph; the slope (coefficient) of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII "First-degree equations and first-degree functions", Bài 27 Khái niệm hàm số và đồ thị của hàm số p.40; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 Hệ số góc của đường thẳng (Slope of a straight line) p.51 |
 | Interpreting graphs; x-intercept and y-intercept ("The point at which the line crosses the y-axis is called the y-intercept"); gradient ("Gradient = change in y / change in x"; direction read left to right — up to the right is positive, down is negative — with worked gradients such as 5/2 = 2,5 and 2/4 = 0,5); tables of ordered pairs; sketching and comparing graphs (e.g. y = −3x + 2 tabulated and plotted) | South Africa, Grade 9 Book 1, Term 3, WS88a/b Interpreting graphs; WS89 x-intercept and y-intercept; WS90a/b Interpreting graphs: gradient; WS91 Use tables of ordered pairs; WS96a/b Compare and sketch graphs, pp.60–91 |
@@ -480,7 +487,9 @@ textbook.
 **Acceptance count: taught in 37 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
-ordered pairs. Egypt carries the slope rules (m = tan θ,
+ordered pairs. Egypt carries the coordinate plane itself —
+plotting, reflections, polygons and distance — in Primary 6
+Term 2, and the slope rules (m = tan θ,
 parallels equal, perpendiculars product −1) and the line
 equation y = mx + b. Kazakhstan carries the proved
 coordinate machinery — distance, midpoint, centroid, and

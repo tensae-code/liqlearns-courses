@@ -1,6 +1,6 @@
 # Sources — Modulus and Absolute Value
 
-countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh
+countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt
 
 Every part traces to its book and page.
 
@@ -35,6 +35,7 @@ Every part traces to its book and page.
 **Book 21:** *Algebra 8* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 **Book 23:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+**Book 24:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -84,8 +85,9 @@ Every part traces to its book and page.
 | Root of a negative number's square | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.5, printed p. 9 (teacher evidence) |
 | Equation and inequality with modulus | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 7.4, printed p. 36 (teacher evidence) |
 | Absolute value — the |x| formula and values | Bangladesh, Class 8 student book, Exp. 2 Real Numbers in Everyday Life, printed p. 33 (experience printed pp. 25–46) |
+| Absolute value | Egypt, Grade 11 General Term 1 (Arabic edition), U1 L4, printed p. 31 |
 
-**Acceptance count: taught in 11 countries (Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 12 countries (Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Matemática Para La Vida* (Grade 7). From its books: from Grade 7: absolute value — Absolute value defined as the distance from a number to 0: |−4| = |4| = 4; for a < 0 the absolute value is −a.
 
@@ -102,3 +104,5 @@ Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (
 Armenia enters through its Mathematics 6 (student); the Algebra and Elements of Mathematical Analysis 12 teacher guide, Semester 1 (teacher evidence; the student book is not held); Algebra 8 (Mikayelyan); the Algebra 8 methodological guide (teacher evidence; it companions a different, unheld Gogyan student book, not the held Mikayelyan book). From its books: absolute value of a number; opposite integers; definition and properties of absolute value/modulus; simplest modulus equations; solving mixed equations and inequalities containing modulus; modulus of a number; equations containing modulus; inequalities containing modulus; root of a negative number's square; equation and inequality with modulus.
 
 Bangladesh enters through its NCTB course — *Mathematics, Class Eight* (National Curriculum 2022, academic year 2024), stocked by the 2026-11-08 re-verification sweep. From its books: from Class 8: absolute value — the |x| formula and values (Exp. 2 Real Numbers in Everyday Life, printed p. 33).
+
+Egypt enters through its Grade 11 General Term 1 book (Arabic edition), stocked by the 2026-11-08 re-verification sweep: absolute value.
