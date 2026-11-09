@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -107,6 +107,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 45:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capitalisation as its own strand: "capitals for particular places and DAYS OF THE WEEK, and to begin the first word of a sentence"; PUNCTUATION OPENS (B2.5.2.1): "FULL STOPS at the end of sentences and QUESTION MARKS at the end of questions" | Ghana, NaCCA B1–B3 curriculum, Basic 2, Strand 5 (Capitalisation / Punctuation) |
@@ -180,9 +186,10 @@ covers the 6th Year book only).
 | The punctuation rule stated outright in the sentence lesson: start with a capital letter, end with a period | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.29 |
 | Capital letters as an explicit learning outcome — Lesson 2's plan prints the capital-letter set inside its wordcard answers (I, I'm, Mr, Mrs, Miss, Miss, Sammy, June), so the capitalised forms themselves are the teacher's printed material | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 2, guide printed pp.10–15 |
 | Spelling names aloud; capital letters for proper names and sentence starts; contractions of be and have; the possessive adjective my | Mauritania, Study English, Grade 7, printed p.15 |
+| A named language point in the teacher notes: punctuation in writing sentences is an important teaching point — group versions of sentences, only one grammatically acceptable — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 1–3 (Notes for the Teacher), printed pp.1–8 (unit notes) |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania).** Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 26 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India).** India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and

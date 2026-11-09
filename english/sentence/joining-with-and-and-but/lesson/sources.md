@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India
 
 Every part traces to its book and page.
 
@@ -115,6 +115,12 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 44:** 8
 
+**Book 45:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | COMPOUND SENTENCES open (B3.5.9.1): "join simple sentences with the coordinating conjunction AND — 'The boy woke up' + 'The boy prayed' → 'The boy woke up and prayed' — then AND and BUT in groups" | Ghana, NaCCA B1–B3 curriculum, Basic 3, Strand 5 |
@@ -197,9 +203,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Conjunctions again as the feelings chapter's plan-level language elements — "Conjunctions (but, so, and)" — its outcomes comparing and contrasting feelings with but, so, because, and, or | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed p.38; sample plan, printed pp.40–41 |
 | Connectors and/but — coordinating conjunctions to add or contrast, with riddles as practice | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 49–50 |
 | Connectors AND and BUT — the compendium's and/but presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 44 |
+| Form noticed in the Notes: conjunctions used to express contrast — cited from the book's Notes | India — Hornbill (Class 11), Noticing form in Landscape of the Soul, printed p.40 (Notes) |
 
 
-**Acceptance count: taught in 28 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania).**
+**Acceptance count: taught in 29 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India).** India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however

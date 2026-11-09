@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -145,6 +145,18 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2026 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+
+**Book 65:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 66:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -291,9 +303,11 @@ covers the 6th Year book only).
 | Conditionals re-taught — the conditional family again in the book's closing units, with modal verbs and wish sentences | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 44–46 |
 | Conditional sentences in an interrogative text — conditionals worked inside questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF pp. 117–118 |
 | Real conditionals: the zero conditional (if + present, present) and the first conditional (if + present, will + verb) | Mauritania, Study English, Grade 9, printed pp.25–28 |
+| If-clauses as named work: notice sentences beginning with "if" (present tense + will), and rewrite pairs of sentences as one sentence beginning with If | India — Honeycomb (Class 7), Working with Language in A Gift of Chappals, printed p.30 |
+| UNLESS = if not as a named point: negative conditionals for the present and the future ("Unless you work harder you will fail"), learners predict endings | India — Beehive (Class 9), Thinking about Language in The Fun They Had, Unit 1 |
 
-**Acceptance count: taught in 30 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania).** Libya names the zero and first at
+**Acceptance count: taught in 31 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt

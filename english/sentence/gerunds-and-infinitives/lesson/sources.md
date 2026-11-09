@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -90,6 +90,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 17:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -114,9 +120,10 @@ colophon; cited once.
 | Infinitives taught in the lesson's Writing work | Iran, Vision 2 (Grade 11), Lesson 3, Writing, printed p.102 |
 | Gerunds and infinitives: verb + -ing against to + verb, gerund and infinitive phrases, and the verb patterns (can't imagine working, hope to pass, feel like doing, decide not to buy) | Mauritania, Study English, Grade 13, printed pp.15–16 |
 | Sentences with two verbs: verb + to-infinitive or verb + gerund — the first verb decides the shape | Mexico, Grade 9, Project 6 "Everything We Create Is Art", printed p. 43 |
+| To-infinitives after verbs (determined to live, managed to conceal) — sentences completed with to-verbs | India — Beehive (Class 9), Thinking about Language in The Sound of Music, printed p.24 |
 
-**Acceptance count: taught in 11 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico).** Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 12 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India).** India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives

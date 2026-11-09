@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India
 
 Every part traces to its book and page.
 
@@ -164,6 +164,18 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 60:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 61:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -298,9 +310,11 @@ cited once.
 | Wh-questions in the simple present, with do/does and with be | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed pp. 37–39 |
 | The question words who / where / when / why / what / how reviewed for asking about food, culture and identity | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 47 |
 | Past simple wh-questions (wh-word + did + subject + base verb), with “ago” for past time | Mexico, Grade 7, Project 16 "Indigenous and Afro-Mexican Communities: History and Contributions to the National Identity", printed p. 150 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+| A questions poem read whole: "Why?" — a curious little boy is always asking why: why wood swims and lead sinks, why the sun shines, what makes the clouds, why flowers die | India — Marigold Book Four (Class 4), Unit 4, printed pp.59–72 |
+| Question words as named work: what, who, where, when, why, which, how, and what each asks about (actions/things, people, place, time…) | India — Honeycomb (Class 7), Working with Language in The Ashes unit pages, printed p.64 |
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,

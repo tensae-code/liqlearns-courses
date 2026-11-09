@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India
 
 Every part traces to its book and page.
 
@@ -123,6 +123,12 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 48:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 
+**Book 49:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT box written as a board paradigm: affirmative Subject + Verb + Complement on "play," negative with do/does not, and the DO–DOES interrogative box beside it — the sentence's three-part formula stated as the book's own grammar frame | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -228,9 +234,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentence-combining as a stated outcome of the appointment chapter: "combine short sentences into compound sentences", with the conjunctions named as its grammar focus | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview, printed p.27 |
 | The that-clause as clause-combining: the overview teaches recognising "that introducing a subordinate clause giving more information", worked in the example set — "He checks that my teeth are healthy"; "She knows that her teacher will give them homework today" | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview, printed pp.27–28 |
 | The verb be paradigm stated as Chapter 1's objectives — be affirmative, negative, interrogative and short answers — and used in every chapter after | Indonesia, English for Nusantara Grade 7, Chapter 1 objectives, printed p.14 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 32 countries (Bangladesh,
+| A named language point in the teacher notes: "there" and "it" used as empty subjects, clarified through examples — the note itself names the taught point | India — Honeysuckle (Class 6), Language point in A Game of Chance unit (Notes for the Teacher, Units 8–10), printed pp.96–98 (unit notes) |
+**Acceptance count: taught in 33 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one

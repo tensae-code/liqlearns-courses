@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India
 
 Every part traces to its book and page.
 
@@ -82,6 +82,18 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 17:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 18:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Adverb clauses of time: the definition (a subordinate clause showing the time when something happens; it can join sentences or go to the beginning to emphasise the time) and the before / until / after examples | Bolivia, Year 5, Topic 4, section 4 (topic opens student p.213) |
@@ -108,9 +120,12 @@ covers the 6th Year book only).
 | Temporal connectives — first, then, after that — in the narrative work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 5, printed p.165 |
 | Sentence connectors joining main and subordinate clauses: and, but, because, however, besides (the book's own example prints a semicolon before because — "We didn't have class; because the teacher was absent"; taught corrected) | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Coordinating conjunctions — FANBOYS: for, and, nor, but, or, yet, so — joining equal words, phrases and clauses | Mauritania, Study English, Grade 13, printed pp.11–13 |
+| Sentences with two clauses as named work: identifying the part that tells when/why/how long (subordinate clauses) | India — Beehive (Class 9), Thinking about Language in Reach for the Top, printed p.105 |
+| Transitions noticed: the chatty, rambling style — marking how one idea leads to the next (thematic coherence devices) | India — Flamingo (Class 12), Noticing transitions in Poets and Pancakes, printed p.66 |
+| Discourse linkers and signallers noticed: linkers joining stretches of text; signallers announcing topic shifts ("Which brings me to…", "But let me tell you…") | India — Flamingo (Class 12), Noticing discourse linkers and signallers in The Interview, printed pp.74–75 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia).** Bolivia
+**Acceptance count: taught in 8 countries (Bolivia,
+Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India).** India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait

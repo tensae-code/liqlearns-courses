@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -202,6 +202,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 67:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -330,8 +336,9 @@ colophon; cited once.
 | Will against going to — predictions, promises and spontaneous decisions against intentions, plans and evidence-based predictions — with if-clauses introduced | Mexico, Grade 8, Project 11 "Ethical Principles in the Use of Natural Resources", printed p. 96 |
 | Will against going to, the differences reviewed | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 144 |
 | Will for decisions made at the moment of speaking against going to for plans made before | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 100 |
-**Acceptance count: taught in 31 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico).** Bolivia tables going to whole and names its
+| The FUTURE in four forms as named work: the book takes five sentences from the two Great Stone Face parts and states the verbs are in four different forms denoting four important ways of expressing future time; naturalness choices and a dialogue completed with WILL or GOING TO | India — Honeydew (Class 8), Working with Language in The Great Stone Face, Unit 10 |
+**Acceptance count: taught in 32 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India).** India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for

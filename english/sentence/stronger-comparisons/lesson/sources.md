@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -71,6 +71,25 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 16:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 17:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 18:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -93,8 +112,12 @@ differ only in cover wording and colophon; cited once.
 | Superlatives (the -est, the most; far→farthest/furthest, good→best, bad→worst), with adverbs of manner revised | Mauritania, Study English, Grade 11, printed pp.34–38 |
 | Comparative and superlative adjectives in the full rule table: -er/-est, consonant doubling, -y → -ier/-iest, more/most, good → better/best, bad → worse/worst | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed pp. 101–102 |
 | Comparatives and superlatives again, with as…as / not as…as equality comparisons | Mexico, Grade 8, Project 9 "Large and Small Quantities", printed p. 80 |
+| Similes completed as comparisons: as busy as a (bee), as slow as…, as black as… | India — Marigold Book Two (Class 2), Unit 7, printed pp.105–121 |
+| Comparative sentences made on the story's own model — "If I were only larger, how much happier I could be" — with taller, thinner, smaller, cleverer, younger, older | India — Marigold Book Three (Class 3), Unit 4 Let's write, printed p.40 |
+| Comparison word sets said aloud: biggest, smaller/smallest, richer/richest, big/bigger (with quiet/quite, fellow/shallow) | India — Marigold Book Three (Class 3), Unit 7 Say aloud, printed p.74 |
+| Degrees of comparison stated formally (two things: -er/more; three or more: -est/most) and wrong comparisons corrected | India — Marigold Book Five (Class 5), Unit 7 language work |
 
-**Acceptance count: taught in 7 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico).** China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 8 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India).** India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked

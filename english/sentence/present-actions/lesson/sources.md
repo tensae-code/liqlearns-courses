@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -200,6 +200,12 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 71:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -384,9 +390,11 @@ differ only in cover wording and colophon; cited once.
 | The present continuous in its final, full paradigm (am/is/are + -ing), as the closing adventure's review grammar | Mexico, Grade 7, Project 19 "Collaboration, Communication, and the Satisfaction of Achieving a Common Goal", printed p. 174 |
 | Frequency adverbs given percentages: always 100%, usually 80–90%, often 50–70%… | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 15 |
 | The simple present against the present progressive, reviewed side by side | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 17 |
-**Acceptance count: taught in 36 countries (Egypt, Ghana,
+| The simple present tense as named work: it says what happens all the time or is true in general; find ten examples in the text | India — Honeycomb (Class 7), Working with Language in Fire: Friend and Foe, printed p.120 |
+| A named language point in the teacher notes: simple present contrasted with present continuous (I walk to school every morning / Today I am taking a bus) — the note itself names the taught point | India — Honeycomb (Class 7), Language point in Fire unit (Notes for the Teacher, Units 8–10), printed pp.111–113 (unit notes) |
+**Acceptance count: taught in 37 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's

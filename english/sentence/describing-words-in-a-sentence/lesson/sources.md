@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -151,6 +151,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 53:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight pictured adjective + noun pairs — a fresh mango, a bad mango, a clean shirt, a dirty shirt, a new bike, an old bike, a happy cat, an angry cat — description seated before the noun in every pair | Bangladesh, English for Today Class 4, Unit 22 "Tune up!", pp.44–45 |
@@ -269,9 +275,10 @@ covers the 6th Year book only).
 | Prepositions in front of / between, named in the school chapter's opener for describing the school | Indonesia, English for Nusantara Kids Grade 3, Chapter 4 opener, printed p.90 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Prepositions in / under at work — "Where is the pencil? It is in the pencil case" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5, printed p.116 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Describing things: size/colour/shape adjectives (adjectives never take -s), the possessive pronouns mine/yours/his/her/its/ours/theirs, what colour is…, what's it like | Mauritania, Study English, Grade 7, printed pp.35–36 |
-**Acceptance count: taught in 33 countries (Bangladesh,
+| Similes opened out as a system: "as cold as ice" explained, then as white as snow, as slow as a tortoise, as sweet as honey — and learners coin their own | India — Marigold Book Five (Class 5), Unit 7 language work |
+**Acceptance count: taught in 34 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania).** Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India).** India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures

@@ -1,6 +1,6 @@
 # Sources — Non-defining relative clauses
 
-countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen
+countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India
 
 Every part traces to its book and page.
 
@@ -57,6 +57,12 @@ Scientific Research; the ministry re-issue of the
 Crescent course. Filed in english/books/yemen.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 10:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining and non-defining relative clauses in one Grammar Box: defining = necessary information, "that" may replace who/whom/which, the pronoun may be dropped when it is the object; non-defining = extra information, set off by commas, "that" never used, whose included | Egypt, Secondary 11 Term 1, Unit 6, Grammar Box (p.77) (as filed in EGYPT-BOOK-MAP.md) |
@@ -68,9 +74,10 @@ Crescent course. Filed in english/books/yemen.md
 | Relative clauses referring to a whole sentence (non-defining, with which) — the unit's own grammar heading | Vietnam, Tiếng Anh 12, Unit 3 "Green living", pp.32–43 (grammar heading, printed p.35) |
 | Non-defining relative clauses presented in Language review 2 | Yemen, Pupil's Book 5 (Grade 11), Unit 3 "The United Kingdom", Language review 2 (p.23) |
 | Prepositions in relative clauses (defining vs non-defining, preposition final or fronted), reviewed | Yemen, Pupil's Book 6 (Grade 12), Language review 4 (p.15) |
+| Grammar as named work: non-defining relative clauses; negatives used for emphasis; metaphors identified in the text | India — First Flight (Class 10), Grammar in A Letter to God (What We Have Done), printed p.13 |
 
-**Acceptance count: taught in 5 countries (Egypt,
-Malaysia, Mongolia, Vietnam, Yemen).** Egypt states
+**Acceptance count: taught in 6 countries (Egypt,
+Malaysia, Mongolia, Vietnam, Yemen, India).** India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
 both kinds and all three hard rules in a single
 Secondary 11 box. Malaysia teaches defining and
 non-defining together twice — Form 3 Unit 4 and Form 4

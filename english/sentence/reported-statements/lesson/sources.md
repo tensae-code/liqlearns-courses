@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India
 
 Every part traces to its book and page.
 
@@ -114,6 +114,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 20:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -140,10 +146,11 @@ colophon; cited once.
 | Direct speech against reported speech: quotation marks, and pronoun and tense changes (the book's Achilles example), with monologue lines rewritten from direct into reported speech | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed pp. 119, 122 |
 | The reported-speech backshift table reviewed whole: present → past, past → past perfect, present perfect → past perfect — “going back one tense” | Mexico, Grade 9, Project 18 "Reliable Information", printed p. 170 |
 | Reported suggestions taught beside the statements: reporting verbs suggested, proposed, recommended + that…, -ing or to-infinitive (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 16 "Fake News and Post-Truth", printed p. 142 |
+| Reported speech as named work: what comic-book characters say in speech bubbles must be put into reported speech to repeat it | India — Honeycomb (Class 7), Working with Language in Gopal and the Hilsa Fish, printed p.42 |
 
-**Acceptance count: taught in 11 countries (Armenia,
+**Acceptance count: taught in 12 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan, Indonesia, Mexico).** Mauritania prints the fullest single
+Nepal, Sudan, Indonesia, Mexico, India).** India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade

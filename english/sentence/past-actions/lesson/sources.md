@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -179,6 +179,12 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 64:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -346,9 +352,10 @@ differ only in cover wording and colophon; cited once.
 | There was / there were for past situations, and could for past possibilities, in the Conquest adventure | Mexico, Grade 8, Project 3 "The Conquest of Mexico-Tenochtitlan", printed p. 32 |
 | The simple past with its time expressions: yesterday, last night, ten minutes ago | Mexico, Grade 8, Project 4 "Something From Another World", printed p. 44 |
 | Was/were — the verb to be in the simple past — for feelings and situations | Mexico, Grade 8, Project 19 "The Mexican Revolution and Its People", printed p. 156 |
-**Acceptance count: taught in 32 countries (Bolivia, Ghana,
+| The pattern look/looked: fill in past forms (pick, bark, want, talk, wish, pull, help), beside phrases of quantity (a glass of, a box of, a sheet of, a bunch of, a herd of, a pack of) | India — Marigold Book Three (Class 3), Unit 4 word building, printed pp.38–40 |
+**Acceptance count: taught in 33 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India).** India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,

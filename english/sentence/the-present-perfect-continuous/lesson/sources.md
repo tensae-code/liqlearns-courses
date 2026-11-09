@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India
 
 Every part traces to its book and page.
 
@@ -62,6 +62,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 27:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the 2013 student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
 
+**Book 28:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The box "Describing action that continues from the past: Present perfect continuous tense — The pilot has been flying for two hours. I have been waiting for the bus since four o'clock." | Libya, Grade 8 Course Book, Unit 3, Lesson 6 "Transport," p.38 |
@@ -116,10 +122,11 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Present perfect simple against continuous practised as choice and gap-fill, keyed to that review | Yemen, *English Course for Yemen* Work Book 6 (Grade 12), Unit 3, lesson 3.5 (Unit 3, printed pp.29-40) |
 | The ceiling, stated plainly: Books 1-5 never present the form - Pupil's Book 5's honest negatives file it absent there, and Grade 12's own Unit 6 recycles it in use ('present perfect (continuous) experience language', printed p.47) without re-teaching it | Yemen, the held set as filed in english/books/yemen.md (Pupil's Book 5 and Pupil's Book 6 sections) |
 | The tense as one lesson's grammar emphasis — the steps have students copy the structure from the student book's chart and write example sentences, then order words into present-perfect-continuous statements (Part I); the chart itself is not reproduced in the guide, and the plan's own printed formula omits *been* ("S+have/has+verb +ing+Complement") — that defective formula is filed in the country file and is NOT relied on here | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 13, guide printed pp.77–81 |
+| FOR vs SINCE taught through examples from the unit's play ("Bhaiya has been studying in the same class for two years" / "Munna was flying kites since morning") — the book's own pairing; the second pairing is non-standard and is filed as printed, taught corrected | India — Marigold Book Five (Class 5), Unit 4 language work |
 
 
-**Acceptance count: taught in 19 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela).** Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 20 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the

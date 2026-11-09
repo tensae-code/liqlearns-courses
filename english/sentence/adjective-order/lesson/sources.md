@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India
 
 Every part traces to its book and page.
 
@@ -22,6 +22,12 @@ in english/books/indonesia.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03); re-read page by page in the
 2026-11-08 re-verification sweep.
 
+**Book 8:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | ADJECTIVE ORDER — the order table (Quantity/Number · Quality · Size · Shape · Age · Color · Nationality · Material) with the worked examples ("There are 2, bad, small, old, red, American, plastic shoes"; "There is a tall, black dog"). The table prints "American / Bolivian / Japanese" in both the Nationality and the Material columns, as printed — recorded here as the filing records it | Bolivia, Year 6, Topic 5, p.221 |
@@ -32,7 +38,8 @@ CHECK PASSED 2026-11-03); re-read page by page in the
 | Adjective order — the order of adjectives before a noun, in the book's adjective unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 33–34 |
 | Adjective order — the compendium's adjective-order table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 119 |
 | Adjectives in the correct order in sentences | Indonesia, English for Nusantara Grade 9, printed p.208 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The order in which adjectives occur in a noun phrase (size, colour…) — the order noticed in sentences from the story | India — Honeydew (Class 8), Working with Language in The Best Christmas Present in the World, printed p.19 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia).**
+**Acceptance count: taught in 7 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.

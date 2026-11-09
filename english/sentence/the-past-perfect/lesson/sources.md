@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -44,6 +44,24 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 14:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 15:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 16:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -61,8 +79,11 @@ colophon; cited once.
 | The past perfect in talk: the lesson's Listening & Speaking work | Iran, Vision 3 (Grade 12), Lesson 3, Listening & Speaking, printed p.89 |
 | The past perfect: had + past participle, affirmative, negative and questions (the pollution text's vocabulary box glosses "exhausts" as "extremely tired" — in the text they are vehicle and factory emissions; taught corrected) | Mauritania, Study English, Grade 11, printed pp.52–54 |
 | The past perfect tense (had + past participle), taught as its own named tense | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 66 |
+| The PAST PERFECT taught as the "earlier past" ("When I reached the station, the train had left"), with fill-ins and a Past vs Earlier-past sorting exercise | India — Honeydew (Class 8), Working with Language in The Best Christmas Present in the World, Unit 1 |
+| Form noticed in the Notes: the past perfect used to recount the remote past — cited from the book's Notes | India — Hornbill (Class 11), Noticing form in The Portrait of a Lady, printed p.10 (Notes) |
+| Form noticed: the past perfect — form picked out of the story and its use explained | India — Flamingo (Class 12), Noticing form in The Last Lesson, printed p.10 |
 
-**Acceptance count: taught in 12 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico).** Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India).** India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).

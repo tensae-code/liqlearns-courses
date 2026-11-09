@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -142,6 +142,18 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 44:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 45:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -251,10 +263,12 @@ colophon; cited once.
 | The present perfect with for/since and “how long” | Mexico, Grade 9, Project 2 "The Independence of Latin America During the 19th Century", printed p. 20 |
 | The present perfect with just, yet and already | Mexico, Grade 9, Project 3 "Traditions", printed p. 28 |
 | Present perfect against simple past: the difference between the two pasts | Mexico, Grade 9, Project 3 "Traditions", printed p. 30 |
+| Present-perfect writing frames: "Write three new things you have done in the last three years" ("I have started…") and three things NOT done | India — Marigold Book Five (Class 5), Unit 5 language work |
+| A named language point in the teacher notes: two tense forms used together — simple past and present perfect (I have seen the Taj; He has arrived; I have finished my work) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 
 
-**Acceptance count: taught in 27 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 28 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar

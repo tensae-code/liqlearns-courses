@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -48,6 +48,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 11:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mixed conditionals and wish / if only for past situations, taught through space-history counterfactuals (Apollo 11; Valentina Tereshkova), with a creative paragraph rewriting a pivotal moment | Armenia, English 11, §6.2 Grammar, pp.164–168 |
@@ -62,10 +68,11 @@ covers the 6th Year book only).
 | Conditional sentences — the conditionals table inside the compendium's descriptive-texts unit | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 114 |
 | If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 | The unreal (second) conditional: if + simple past, would/could + verb; if I were you (one dialogue line in the book, printed p.55, breaks off with no result clause — defective as printed) | Mauritania, Study English, Grade 11, printed pp.55–57 |
+| Language work in the Notes: idiomatic expressions; respectively vs respectfully (frequently misused forms); conditional sentences for unreal and hypothetical conditions — cited from the book's Notes | India — Hornbill (Class 11), Language work in The Adventure, printed p.73 (Notes) |
 
-**Acceptance count: taught in 9 countries (Armenia,
+**Acceptance count: taught in 10 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,
-Syria, Bolivia, Mauritania).** Armenia teaches mixed conditionals as a named
+Syria, Bolivia, Mauritania, India).** India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its

@@ -1,6 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania
+countries: Bolivia, Iran, Indonesia, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -33,6 +33,12 @@ Study English, 6th Year Secondary School section, FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
 re-verification sweep.
 
+**Book 10:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Can/can't for ability — the chart and “Can you drive a car?” questions, with a community reading | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 12–13 |
@@ -45,8 +51,9 @@ re-verification sweep.
 | Can / cannot for ability in a primary chapter — "I can see the trees. I cannot catch the ball" | Indonesia, English for Nusantara Kids Grade 4, printed p.107 |
 | Ability and inability: can/can't/cannot, can-questions and short answers (the book's model exchange at printed p.48 mismatches its answer — "Can you speak English? … Of course he can"; taught corrected) | Mauritania, Study English, Grade 7, printed pp.48–50 |
 | Can/could for ability, probability, suggestion and surprise — He can drive a car; You can't be serious | Mauritania, Study English, Grade 12, printed pp.7–9 |
+| Ability with can/cannot as talk time: the road-safety rhyme "Stop, Look and Listen" before crossing, and sentences with can/cannot (I ___ hear the sound of cars / the train whistle / the dogs barking) — the placements marked this NEW LESSON NEEDED: ability-with-can; it is stocked here because Can for Ability already teaches exactly this (routing noted 2026-11-09 by the India re-verification sweep merge) | India — Marigold Book Three (Class 3), Unit 6 Talk time, printed p.60 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Iran, Indonesia, Mauritania).**
+**Acceptance count: taught in 5 countries (Bolivia, Iran, Indonesia, Mauritania, India).** India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania

@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -59,6 +59,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 15:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The past continuous tabled whole at Year 3, Topic 6 | Bolivia, teacher compendium, Year 3 Topic 6 (as filed in english/books/bolivia.md) |
@@ -80,8 +86,9 @@ colophon; cited once.
 | The past progressive (was/were + -ing) for interrupted past actions — “Automatons were becoming more popular” | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 53 |
 | Past simple against past continuous, reviewed side by side | Mexico, Grade 8, Project 7 "A Poet With the Wings of a Painter", printed p. 62 |
 | Simple past against past progressive: “They were singing songs” | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed p. 12 |
+| Past continuous interrupted by past simple ("I was trying to climb over the fence when the giant saw me") | India — Marigold Book Five (Class 5), Unit 7 language work |
 
-**Acceptance count: taught in 10 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico).** Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India).** India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
