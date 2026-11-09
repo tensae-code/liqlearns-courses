@@ -318,6 +318,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 179:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 **Book 180:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 181:** *Ευκλείδεια Γεωμετρία Α΄ Λυκείου, Τόμος Α (Euclidean Geometry, Volume A), Grade 10 pupil book* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-5177-5. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -327,6 +329,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angle concept and its units; the protractor; zero, acute, right, obtuse, straight and reflex angles; adjacent, complementary and supplementary angles; angles on a straight line; perpendicularity; angles around a point (4-1, printed 69–76); parallelism and the transversal's eight angles — corresponding, alternate, interior (4-2, printed 77–83); triangle interior sum by cut-and-rearrange (4-3, printed 84–89); quadrilateral interior sum 360° (4-4, printed 90–97); polygon interior sum (n−2)×180° (4-5, printed 98–103) | Egypt, Grade 7 Term 1, Unit 4, 4-1 to 4-5, printed pp.69–103 |
 | Angles formed by the intersection of two straight lines and a transversal | Egypt, Secondary 1 (Grade 10) Term 1, U3 L3, printed p. 90 |
 | Angles: acute, right, obtuse (ch.57, pp.139–140); drawing angles with a protractor; angle sums of triangle and quadrilateral (ch.58, pp.141–142) | Greece, Grade 6 pupil book, ch.57–58, printed pp.139–142 |
+| Angles with parallel sides (§4.4 «Γωνίες με πλευρές παράλληλες») | Greece, Euclidean Geometry Vol. A (Grade 10), Ch. 4, §4.4, printed p. 84 |
 | Angle, measuring angles (p.105) | Armenia, Mathematics 5, §4.4, p.105 |
 | Sum of a triangle's angles (§13); relations between a triangle's sides and angles (§§13–17, pp.107–140) | Armenia, Geometry 7, Chapter IV, §§13–17, pp.107–140 |
 | Types of angles (p.6); right, acute and obtuse angles, building a right angle with a set square | Kazakhstan, Grade 2 Part 3, Section 3A, pp.6–16 |

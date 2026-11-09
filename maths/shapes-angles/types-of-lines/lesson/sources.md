@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -67,6 +67,8 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 42:** *Mathematics, Grade 7, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, ISBN 978-7-107-24620-3. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Volume 1 (Chapters 1–4) is not held, and no Grade 8 book is in hand.
 
 **Book 43:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
+
+**Book 44:** *Ευκλείδεια Γεωμετρία Α΄ Λυκείου, Τόμος Α (Euclidean Geometry, Volume A), Grade 10 pupil book* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-5177-5. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -182,8 +184,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | The eight angles cut by a transversal (corresponding, alternate interior, same-side interior); parallel lines defined; the parallel postulate and transitivity; the three tests for parallelism and the three matching properties | China, Grade 7 Volume 2, Ch. 5, printed pp. 11–25 |
 | Understand perpendicular — Understand what is perpendicular. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 84, printed p. 84 (teacher evidence only) |
 | Understand parallel — Understand what is parallel and its relation to perpendicular. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 86, printed p. 86 (teacher evidence only) |
+| Parallel lines opened: introduction (§4.1 «Εισαγωγή»); the transversal of two lines and Euclid's postulate (§4.2 «Τέμνουσα δύο ευθειών – Ευκλείδειο αίτημα») | Greece, Euclidean Geometry Vol. A (Grade 10), Ch. 4, §§4.1–4.2, printed p. 80 |
+| Constructing a parallel line (§4.3 «Κατασκευή παράλληλης ευθείας») | Greece, Euclidean Geometry Vol. A (Grade 10), Ch. 4, §4.3, printed p. 83 |
 
-**Acceptance count: taught in 15 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 16 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Ghana also contributes to this lesson as teacher evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 
@@ -211,3 +215,5 @@ Tanzania enters through the pupil's book of its Tanzania Institute of Education 
 Armenia enters through its Mathematics 1, Part 1 (student textbook-notebook, 2025); Geometry 7. From its books: point; straight and curved lines; the broken line (բեկյալ, polyline); point, line, plane; definition of parallel lines; the inclined line (թեք) to a plane/line.
 
 China enters through its Grade 7 Volume 2 （下册） book — the whole of Chapter 5: intersecting lines and perpendiculars, the eight angles cut by a transversal, and parallel lines with their tests and properties.
+
+Greece enters through its Ευκλείδεια Γεωμετρία (Euclidean Geometry), Τόμος Α for Grade 10 — Chapter 4 opens the theory of parallels: the transversal of two lines with Euclid's postulate, and the construction of a line parallel to a given line (rows stocked by the 2026-11-08 re-verification sweep).

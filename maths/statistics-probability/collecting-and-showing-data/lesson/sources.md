@@ -351,6 +351,12 @@ Every part traces to its book and page.
 **Book 256:** *NaCCA Standards-Based Curriculum, Basic 1–3* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 **Book 257:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 258:** *Στατιστική Επιχειρήσεων (Business Statistics), Grade 11 ΕΠΑΛ (Β΄ ΕΠΑΛ, Διοίκησης και Οικονομίας), ministry book code 24-0199* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education; no ISBN is printed in the file. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
+**Book 259:** *Μαθηματικά Δ΄ Δημοτικού (Mathematics, Grade 4 pupil book)* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-2556-1. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
+**Book 260:** *Μαθηματικά Δ΄ Δημοτικού — Τετράδιο Εργασιών, Τεύχος Δ (Mathematics, Grade 4 workbook, Teuxos D)* (workbook) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-2557-8 / 978-960-06-2561-5. Workbook practice only — it practises the pupil book's chapters and teaches nothing beyond them. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What data is; collecting data; analysing data and forms of presentation; grouping data; histogram | Armenia, Algebra 7, Chapter 4, §4.1 p.90, §4.2 p.93, §4.3 p.99, §4.5 p.105 |
@@ -375,6 +381,10 @@ Every part traces to its book and page.
 | Statistics and its applications — the least-squares method | Egypt, Prep 3 (Grade 9) Term 1 (old series, 2018–2019 Student's Book), U2 L4, printed p. 38 |
 | Collecting, organising and representing data; characteristic values of data | Greece, Grade 5, Unit 4, Chapters 22–23, printed pp.61–64 |
 | Displaying data with bar charts and pictograms; classifying data; other graph types (line graph, pie diagram) | Greece, Grade 6, Unit 4, Chapters 45–47, printed pp.109–114 |
+| Dealing with information (ch.56 «Διαχειρίζομαι πληροφορίες») | Greece, Grade 4 pupil book, ch.56, printed pp.138–139 |
+| Dealing with information — workbook practice mirroring pupil ch.56 | Greece, Grade 4 Workbook Teuxos D, printed pp.40–41 |
+| What statistics is (Ch. 1): general introduction; object and purpose of statistics («Αντικείμενο και σκοπός της στατιστικής»); the statistics of businesses; population and variables («Πληθυσμός – Μεταβλητές»); descriptive statistics — concept and content; inferential statistics — concept and content | Greece, Business Statistics (Στατιστική Επιχειρήσεων), Grade 11 ΕΠΑΛ, Ch. 1, printed pp.15–23 |
+| Statistics in business management (Ch. 2): the modern administration of businesses (management); market research and advertising («Έρευνες αγορών – Διαφήμιση»); taking business decisions; quality management and effective administration; the position of statistics in the unified financial space | Greece, Business Statistics (Στατιστική Επιχειρήσεων), Grade 11 ΕΠΑΛ, Ch. 2, printed pp.31–37 |
 | Choosing the most appropriate representation — frequency tables, pie charts, stem-and-leaf weighed against each other | Jordan, Grade 8 Term 2, Unit 9, Lesson 2, p.154 |
 | Frequency tables with classes; histograms, including frequency density | Jordan, Grade 9 Term 2, Unit 8, Lessons 2–3, pp.135–144 |
 | Sources of statistical data; types of data; collecting data; methods of collection; common errors; sampling | Libya, Grade 11 Statistics (Science), Chapter 1, printed pp.5–22 |

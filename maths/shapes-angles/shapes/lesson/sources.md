@@ -408,6 +408,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 247:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 **Book 248:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 249:** *Ευκλείδεια Γεωμετρία Β΄ Λυκείου, Τόμος Β (Euclidean Geometry, Volume B), Grade 11 pupil book* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-5317-5. The second volume of the same Euclidean Geometry work as Τόμος Α (Grade 10). Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -422,6 +424,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Quadrilaterals as the opening lesson of the shapes unit | Jordan, Grade 6 Student Book Term 2, Unit 7, L1 Quadrilaterals, p.80 |
 | The parallelogram (p.77); recognising a parallelogram (p.84); special cases of the parallelogram — rectangle, rhombus, square (p.91) | Jordan, Grade 8 Student Book Term 2, Unit 7, L2–L4, pp.77–91 |
 | Geometric shapes; polygons including regular polygons | Greece, Grade 6 pupil book, ch.56, printed pp.137–138 |
+| Transforming a polygon into an equivalent (equal-area) polygon (§10.6 «Μετασχηματισμός πολυγώνου σε ισοδύναμό του») | Greece, Euclidean Geometry Vol. B (Grade 11), Ch. 10, §10.6, printed p. 84 |
 | Triangle: elements and kinds; the three congruence criteria; triangle classification | Armenia, Geometry 7, Chapter II, §§5–10, pp.34–76 |
 | Polygons; quadrilaterals chapter — parallelogram properties and criteria, rectangle, rhombus, square | Armenia, Geometry 8, Chapter I, §§1–5, pp.3–38 |
 | Polygons (p.6); classifying polygons; rectangle and square (p.8) | Kazakhstan, Grade 2 Part 3, Section 3A, pp.6–16 |
