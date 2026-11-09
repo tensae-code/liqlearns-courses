@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh
 
 Every part traces to its book and page.
 
@@ -31,6 +31,15 @@ english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).
 
+**Book 5:** English for Today, Classes XI–XII & Alim
+(Student's Book) — Bangladesh, National Curriculum and
+Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
+2nd ed. October 2024. Re-read for the 2026-11-08
+re-verification sweep (placements:
+liqlearns-courses-work/sweep-2026-11-08/english/
+bangladesh-placements.md); this volume is not covered by
+the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Poetry forms — bio poems, colour poems, limericks (and post cards) — begin at Class 3 in the shared grid (syllabus evidence only) | Barbados, Primary Language Arts Syllabus, Scope and Sequence, pp.1–9 (Class 4 printing, as filed) |
@@ -40,9 +49,13 @@ still owed).
 | African poems by function — dirges, lullabies, war and praise songs (curriculum evidence only) | Ghana, NaCCA JHS curriculum, Basic 7, Strand 5, p.35 (as filed) |
 | Poems by type — sonnet, acrostic, haiku — composed and performed (curriculum evidence only) | Ghana, NaCCA JHS curriculum, Basic 8, Strand 5, p.67 (as filed) |
 | The poem steps — choose a topic; feelings and images; adjectives and comparisons; short lines; rhyme optional — worked on the Wordsworth excerpt, with a 4-line poem task carrying one adjective, one comparison, one feeling word | Egypt, Secondary 12 Term 2, Unit 11, Lesson 5 |
+| Poems read inside a reading lesson: "Love" — readings and poems on love closing the Relationships unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 4, printed p.142 (stocked 2026-11-08 by the re-verification sweep) |
+| A poem read for pleasure: "Deathbed" by Imam Al-Ghazali (translated), in the book's Reading for Pleasure reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.267 (stocked 2026-11-08 by the re-verification sweep) |
+| A poem read for pleasure: "'Hope' Is the Thing with Feathers" by Emily Dickinson, in the same reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.269 (stocked 2026-11-08 by the re-verification sweep) |
+| A poem read for pleasure: "Bird" by Pablo Neruda (translated), in the same reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.271 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Barbados,
-Ghana, South Sudan, Egypt).** Barbados's syllabus names
+**Acceptance count: taught in 5 countries (Barbados,
+Ghana, South Sudan, Egypt, Bangladesh).** Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -53,4 +66,7 @@ ingredients. The shapes' frames (the bio poem's lines,
 the colour poem's senses, the limerick's five-line
 AABBA) are taught in this course's own words — the
 filings name the forms; no filing's model text is
-reproduced.
+reproduced. Bangladesh stocks poems read whole at the top
+of school — the Love lesson's poems and its Reading for
+Pleasure reader's Ghazali, Dickinson and Neruda (added
+2026-11-08 by the re-verification sweep).

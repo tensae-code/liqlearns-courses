@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh
 
 Every part traces to its book and page.
 
@@ -28,6 +28,15 @@ combo) — Saudi Arabia, Ministry of Education. Filed in
 english/books/saudi-arabia.md (Book 3 — Grade 2 section,
 FULLY READ + CITATION CHECK PASSED).
 
+**Book 6:** English for Today, Classes XI–XII & Alim
+(Student's Book) — Bangladesh, National Curriculum and
+Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
+2nd ed. October 2024. Re-read for the 2026-11-08
+re-verification sweep (placements:
+liqlearns-courses-work/sweep-2026-11-08/english/
+bangladesh-placements.md); this volume is not covered by
+the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -37,9 +46,12 @@ FULLY READ + CITATION CHECK PASSED).
 | Unit 8 "Saving the Earth": environment phrases built and sorted into Problems and Solutions (climate change, wind power, organic farming, a water shortage, air pollution…) for endangered animals | Mongolia, English VIII (Grade 8), Unit 8, printed p.106 |
 | Unit 7 "Environment": nature words matched to pictures (wild animals, a forest, mountains, a desert, birds, a river, the ocean, a lake, a waterfall, a glacier); local nature discussion; Earth-facts true/false | Mongolia, English VII (Grade 7), Module 3 "All About Nature," Unit 7, printed p.94 |
 | Unit 4 "Beautiful Nature": nature description by pointing — "Look! It's a (snake). It's (short/long, beautiful/ugly). I love the (mountains)" | Saudi Arabia, We Can! 2 (Grade 2), Unit 4, printed p.28 |
+| The senior environment unit's water reading: "Water, Water Everywhere…" — water scarcity | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 1, printed p.218 (stocked 2026-11-08 by the re-verification sweep) |
+| The senior environment unit's species reading: "Endangered Species" | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 3, printed p.224 (stocked 2026-11-08 by the re-verification sweep) |
+| The senior environment unit's justice reading: "What Is Environmental Justice?" | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 4, printed p.230 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Albania, Mexico,
-Mongolia, Saudi Arabia).** Albania carries the place set and
+**Acceptance count: taught in 5 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh).** Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -48,5 +60,8 @@ Mongolia carries nature twice: the Grade 7 picture-matched
 environment unit and the Grade 8 problems-and-solutions
 sorting that this lesson's third level is built on; Saudi
 Arabia carries the first pointing set — snake, mountains —
-for the youngest learners. Other closed countries join as
+for the youngest learners; Bangladesh carries the senior
+environment unit — water scarcity, endangered species and
+environmental justice (added 2026-11-08 by the
+re-verification sweep). Other closed countries join as
 their books are read (see READING-QUEUE.md).

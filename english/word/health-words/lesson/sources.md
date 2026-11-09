@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh
 
 Every part traces to its book and page.
 
@@ -23,6 +23,15 @@ copy is the Term 3 extract) — Saudi Arabia, Ministry of
 Education. Filed in english/books/saudi-arabia.md (Book 5 —
 Grade 3 section, FULLY READ + CITATION CHECK PASSED).
 
+**Book 5:** English for Today, Classes XI–XII & Alim
+(Student's Book) — Bangladesh, National Curriculum and
+Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
+2nd ed. October 2024. Re-read for the 2026-11-08
+re-verification sweep (placements:
+liqlearns-courses-work/sweep-2026-11-08/english/
+bangladesh-placements.md); this volume is not covered by
+the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -34,9 +43,11 @@ Grade 3 section, FULLY READ + CITATION CHECK PASSED).
 | Unit 7 "Hygiene and Health": Talking about Illness (p.135) and the doctor–patient dialogue (Magezi's food poisoning, pp.135–136), which learners then imitate with cough, typhoid or malaria | Rwanda, P.5 Learner's Book, Unit 7, printed pp.125–139 (dialogue pp.135–136) |
 | The illness-warning sentence table built on the first conditional: "If you do not [wash your hands], you will get diarrhoea" (p.136); the unit summary names the conditional at p.139 | Rwanda, P.5 Learner's Book, Unit 7, printed pp.136, 139 |
 | Unit 10 "A Healthy Life": should/shouldn't for healthy habits — "What should you do to live a healthy life? I should (get up early / drink a lot of water / eat three meals a day). I shouldn't (eat too much junk food / stay up late)" — with aches in the reader's account | Saudi Arabia, We Can! 3 (Grade 3), Unit 10, printed pp.74–81 |
+| The senior health reading: "Storm and Stresses of Adolescence" — a reading on teenage stress opening the Adolescence unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Nine, Lesson 1, printed p.147 (stocked 2026-11-08 by the re-verification sweep) |
+| The senior fitness reading: "Fitness" — keeping fit, in the Lifestyle unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Ten, Lesson 4, printed p.185 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia).** Albania carries the symptom set as a
+**Acceptance count: taught in 5 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -46,5 +57,7 @@ Rwanda carries the fullest visit — a printed doctor–patient
 dialogue learners re-play with new illnesses, and the
 if-you-do-not warning table; Saudi Arabia carries the
 healthy-life half — should/shouldn't habits and aches in
-Grade 3. Other closed countries join as their books are read
+Grade 3; Bangladesh carries the senior readings — teenage
+stress and keeping fit (added 2026-11-08 by the
+re-verification sweep). Other closed countries join as their books are read
 (see READING-QUEUE.md).

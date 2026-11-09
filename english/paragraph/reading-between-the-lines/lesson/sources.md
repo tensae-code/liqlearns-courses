@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh
 
 Every part traces to its book and page.
 
@@ -16,6 +16,8 @@ still owed).
 file's head banner stands — agent-assisted read, the
 10-citation spot-check still owed).
 
+**Book 5:** English for Today, Classes XI–XII & Alim (Student's Book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. Re-read for the 2026-11-08 re-verification sweep (placements: liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md); this volume is not covered by the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inference taught as a named reading move, beside Fact vs Opinion in the same Reading Tips box | Egypt, Preparatory 8 Term 1, Unit 5, Lesson 1, Reading Tips, p.74 (as filed in EGYPT-BOOK-MAP.md) |
@@ -24,5 +26,6 @@ file's head banner stands — agent-assisted read, the
 | Literary Analysis — Author's Tone, Author's Purpose, Author's Audience, Author's Point of View (MCQ), on the poem 'Little Things' | Pakistan, English 5, Text 4, printed p.23 |
 | Comprehension row 3.4.10 — 'moods/feelings, tones of text and author's point of view', beginning at Class 4 | Barbados, Language Arts Syllabus, Class 4, Scope and Sequence (syllabus evidence, as filed in barbados.md) |
 | Reading tip — Drawing conclusions from a text: you won't always find the exact information; work out where it must be, read that part carefully, work out the answer (Unit 8, Lesson 4) | Libya, English for Libya Grade 8 Course Book (as filed in libya.md) |
+| Reading pictures, not words: "Opinions through Images" — reading pictures and posters and forming opinions from them, closing the Peace and Conflict unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 5, printed p.213 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Barbados, Egypt, Libya, Pakistan).** Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out.
+**Acceptance count: taught in 5 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh).** Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep).

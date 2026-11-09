@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh
 
 Every part traces to its book and page.
 
@@ -32,6 +32,21 @@ evidence only: Ghana holds no government pupil textbook
 for English; what is cited is what the curriculum
 prescribes, worded as such.
 
+**Book 6:** English for Today, Dakhil Classes Nine and
+Ten (Student's Book) — Bangladesh, National Curriculum
+and Textbook Board (NCTB), Dakhil (madrasa) stream,
+revised for 2025. Filed in english/books/bangladesh.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26).
+
+**Book 7:** English for Today, Classes XI–XII & Alim
+(Student's Book) — Bangladesh, National Curriculum and
+Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
+2nd ed. October 2024. Re-read for the 2026-11-08
+re-verification sweep (placements:
+liqlearns-courses-work/sweep-2026-11-08/english/
+bangladesh-placements.md); this volume is not covered by
+the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -41,12 +56,26 @@ prescribes, worded as such.
 | Writing the biography of a famous person, set inside the Olympics unit | Armenia, English 7, Unit 5, printed p.119 |
 | Biography and autobiography named among the kinds whose sequence of events learners analyse and compare (curriculum evidence only) | Ghana, NaCCA JHS curriculum, Basic 9, Strand 5 (as filed) |
 | An autobiography named among the article kinds for a youth magazine (curriculum evidence only) | Ghana, NaCCA curriculum, Basic 7, Strand 4 (as filed) |
+| A life read as legend: "Khona," the legendary woman of wise sayings, in the Myths and Literature unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 4, printed p.62 (stocked 2026-11-08 by the re-verification sweep) |
+| Lives of notable women read together: "Great Women" — women in history, in the History unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Four, Lesson 2, printed p.77 (stocked 2026-11-08 by the re-verification sweep) |
+| A life story read from the life itself: "Frederick Douglass," from his life as an enslaved man who learned to read | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Five, Lesson 5, printed p.99 (stocked 2026-11-08 by the re-verification sweep) |
+| A swimmer's life: "Brojen Das: On Crossing the English Channel," in the Youthful Achievers unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Seven, Lesson 1, printed p.114 (stocked 2026-11-08 by the re-verification sweep) |
+| A mountaineering life read: "Scaling a Mountain Peak" | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Seven, Lesson 2, printed p.118 (stocked 2026-11-08 by the re-verification sweep) |
+| Young lives read together: "The Unbeaten Girls" — young women achievers | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Seven, Lesson 3, printed p.121 (stocked 2026-11-08 by the re-verification sweep) |
+| A young life read for action: "The Greta Effect" — Greta Thunberg and youth climate action, in the Environment and Nature unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 2, printed p.221 (stocked 2026-11-08 by the re-verification sweep) |
+| A biography read whole: "The Wizard of Apple" — Steve Jobs (24 February 1955 – 5 October 2011) and Apple's turnaround, with a dialogue on his contribution to ICT as the lesson's writing | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Seven, Lesson 6, printed p.98 (stocked 2026-11-08 by the re-verification sweep) |
+| A biography read from a biography: "Jobs' Childhood," from Walter Isaacson's biography — the adopted, bored schoolboy and the teacher who motivated him | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Seven, Lesson 7, printed p.100 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Egypt,
-Ghana, South Sudan, Armenia).** Egypt states the full
+**Acceptance count: taught in 5 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh).** Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
 famous person's biography as a unit's writing; Ghana —
 curriculum evidence only — names both kinds among the
-life-writings whose event sequence is studied.
+life-writings whose event sequence is studied. Bangladesh
+reads lives through its last four school years — Khona,
+great women, Douglass, Brojen Das, the Unbeaten Girls and
+Greta Thunberg in the senior book, and the two Steve Jobs
+lessons closing the Dakhil Classes 9–10 People Who Stand
+Out unit (added 2026-11-08 by the re-verification sweep).

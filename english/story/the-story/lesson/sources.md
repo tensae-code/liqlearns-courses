@@ -176,6 +176,8 @@ PASSED 2026-11-03).
 
 **Book 57:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
 
+**Book 58:** *English for Today, Classes XI–XII & Alim* (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. Re-read for the 2026-11-08 re-verification sweep (placements: liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md); this volume is not covered by the old filing in english/books/bangladesh.md.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -301,6 +303,12 @@ PASSED 2026-11-03).
 | Complete short stories read whole through a whole first-year book — nine story units (The wrong fish; The foolish rats; The magic tree; My dream; Miss Furaha; Never miss classes; The Hen and the Kite; My game; Mr Mouse), each one to two pages and closed by its own exercises; the book's Introduction names its aim as developing “competencies in story-telling” while mastering English | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Introduction, printed p. vi; the story units, printed pp.7–49 |
 | A story inside a story: the narrator reads “The magic tree” out of her own new storybook — the lazy king under the tree, the voice that twice tells him to be good to his people, the branch that turns into a big hand — then looks at the tree by her own house to check whether it is magic (plot summary only) | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Four, printed pp.14–18 |
 | A complete story carried inside a health chapter: "Tommy's accident" — a boy is hurt playing football behind his house and his father calls the emergency services (plot summary only — the guide describes this platform reading; its text is not printed in the guide) (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 35 "Going to the doctor," printed p.34 (PDF 37) — teacher-guide evidence |
+| Myth tales read at senior level: "Myths of Bengal" — Bengali myth tales (plot summaries only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 1, printed p.51 |
+| A Greek myth read whole: "Icarus" — Icarus flies too close to the sun (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 2, printed p.55 |
+| A legend read whole: "The Legend of Gazi" (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 3, printed p.60 |
+| A short story read whole: "A Mother in Mannville" — a writer and an orphan boy who invents a mother (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 3, printed p.132 |
+| A story read whole: "The Story of Shilpi" — a girl's story of early marriage and adolescence (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Nine, Lesson 3, printed p.156 |
+| A named author's short story read whole: "The Old Man at the Bridge" by Ernest Hemingway — an old man displaced by war (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 2, printed p.197 |
 **Acceptance count: taught in 31 countries (Bangladesh,
 Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;

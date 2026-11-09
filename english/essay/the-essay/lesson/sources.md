@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh
 
 Every part traces to its book and page.
 
@@ -153,6 +153,7 @@ PASSED 2026-11-03).
 **Book 41:** Over to You Student's Book 10B, Grade 10 — Kuwait, Pearson Longman, Simon Haines, First Edition 2009, reprinted through 2025/2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 **Book 42:** Over to You Workbook 12A, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
 **Book 43:** Over to You Workbook 12B, Grade 12 — Kuwait, Pearson Longman. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Workbook only — the matching Student's Book is not held; cited only for its own practice content.
+**Book 44:** English for Today, Classes XI–XII & Alim (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. Re-read for the 2026-11-08 re-verification sweep (placements: liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md); this volume is not covered by the old filing in english/books/bangladesh.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -243,8 +244,9 @@ PASSED 2026-11-03).
 | PARTIAL - the course's one full composition lesson: a planned writing lesson for an essay on 'Prevention is better than cure' - plan, notes, draft, check, rewrite in best handwriting | Yemen, *English Course for Yemen* Workbook 4 (Grade 10), Unit 6, lesson 6.14 (Unit 6, printed pp.76-98) |
 | PARTIAL - two model essays read as models: 'Umar's dream' and 'Nadia's dream' (a beekeeping essay), the Grade 11 book's only sustained writing models | Yemen, *English Course for Yemen* Pupil's Book 5 (Grade 11), Unit 5, printed pp.34-35 |
 | The limit, stated plainly: Yemen has one planned essay lesson and two model essays, but no essay-structure teaching anywhere - no book names an introduction, body or conclusion for an essay, and Pupil's Book 6's honest negatives file no essay-writing teaching in the final book (its writing is set genres: description, news report, application letter, experiment write-up) | Yemen, the held set as filed in english/books/yemen.md (Workbook 4 and Pupil's Book 5 sections; Pupil's Book 6 honest negatives) |
+| An essay read as a model at the top of school: "Limits of the Scientific Method" — an essay on science's limits closing the Environment and Nature unit (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 5, printed p.235 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen).**
+**Acceptance count: taught in 21 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh).**
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -326,3 +328,5 @@ READING-QUEUE.md).
 **Afghanistan checked 2026-11-04 — not stocked.** No essay writing is taught in any of the nine books: Grade 10's honest negatives record that the word "essay" never occurs in that book, Grade 11's only occurrence is a vocabulary-list item, and Grade 12 teaches no extended writing at all. The set's writing ceiling is the paragraph, letters (friendly, formal, application) and one memo. Nothing is stocked.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Academy Stars Year 6: the opinion essay: topic sentences, introduction, two argument paragraphs, conclusion, with Bart's sugar essay as the model (pp.114–115).
+
+**Bangladesh added 2026-11-08 (re-verification sweep)** — 1 book stocks this lesson: **Book:** *English for Today, Classes XI–XII & Alim* (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. The volume was never covered by the old country filing; the sweep re-read it and stocked its one essay item: "Limits of the Scientific Method," an essay on the limits of science read as a model at the close of the Environment and Nature unit (Unit Twelve, Lesson 5, printed p.235). Stated plainly: the book reads this essay; it does not anatomise the essay form, and no essay-structure teaching is claimed for Bangladesh.

@@ -33,6 +33,15 @@ Board (REB), © 2019, no ISBN printed. Filed in
 english/books/rwanda.md (Grade 6 section, FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
+**Book 6:** English for Today, Classes XI–XII & Alim
+(student's book) — Bangladesh, National Curriculum and
+Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised
+2nd ed. October 2024. Re-read for the 2026-11-08
+re-verification sweep (placements:
+liqlearns-courses-work/sweep-2026-11-08/english/
+bangladesh-placements.md); this volume is not covered by
+the old filing in english/books/bangladesh.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -41,9 +50,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Relatives sentences (great grandfather, daughter-in-law, mother-in-law, niece) and Jack Adams's family tree — four generations, Jonathan Adams to Kristy Adams — plus draw your own tree | Mongolia, English IX, Unit 1 "All about me," p.8 |
 | Family words matched to definitions: ancestor, relative, sibling, cousin, stepfather, half-brother, nephew, family tree — with Anand's family tree drawn and questioned | Mongolia, English X, Unit 4 "Personal Identity," p.56 |
 | Kinship terms through a family-tree crossword whose answers include cousin, uncle, nephew, father, aunt, mother, sister; unscramble cousin, nephew, father, aunt, uncle, mother | Rwanda, Pupil's Book 6, Unit 5 "Family relationships," pp.64–65 (sounds and spelling p.72) |
+| The family at senior level: "Family Relationship," a reading on family bonds opening the Relationships unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 1, printed p.126 (stocked 2026-11-08 by the re-verification sweep) |
 
-**Acceptance count: taught in 4 countries (Mongolia, North
-Macedonia, Palestine, Rwanda).** Palestine carries the
+**Acceptance count: taught in 5 countries (Mongolia, North
+Macedonia, Palestine, Rwanda, Bangladesh).** Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds
@@ -51,5 +61,7 @@ only the book's opening (printed pp.3–11), and nothing
 beyond that is claimed; Mongolia carries the wide tree —
 in-laws, great grandfather, nephew — twice, at Grades 9
 and 10; Rwanda carries the tree as a crossword map in its
-final primary year. Other closed countries join as their
+final primary year; Bangladesh carries the family as a
+senior reading on family bonds (added 2026-11-08 by the
+re-verification sweep). Other closed countries join as their
 books are read (see READING-QUEUE.md).

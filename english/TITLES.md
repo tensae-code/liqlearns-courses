@@ -83,6 +83,9 @@ its own subtitle folder with its own lesson + questions):
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
 - Sentence → building-a-sentence · capital-and-full-stop ·
+  introductory-there (added 2026-11-08 by the Bangladesh
+  re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
   asking-yes-no-questions · asking-with-question-words ·
   present-actions · past-actions · going-to-later ·
   joining-with-and-and-but · describing-words-in-a-sentence ·

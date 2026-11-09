@@ -133,6 +133,10 @@ tell the time.*
 *End of unit: the learner can build a whole sentence and end it
 properly.*
 - building-a-sentence ✅ · capital-and-full-stop ✅
+- **Sweep addition (2026-11-08, Bangladesh re-verification
+  sweep merge):** introductory-there ✅ (1 lesson — the
+  introductory there of the Class Eight Language Point box,
+  which no lesson housed)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
@@ -431,6 +435,17 @@ of the Akelius A2 teacher's guide found missing (26 of its
 lessons inside Unit 6: prepositions-in-and-into and
 prepositions-of-movement. The English path now stands at
 **163 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-08 (BANGLADESH).**
+The Bangladesh sweep merge stocked the 56 items the fresh
+re-read of its 9 books (420 teaching items; 364 already in
+the course) found missing — 54 from the Classes XI–XII &
+Alim volume the old filing never covered, and the two
+Steve Jobs lessons of Classes 9–10 Unit Seven — stocked
+the "lodge complaint" outcome of Classes 9–10 Unit Twelve
+as outcome evidence in complaint-letters, and built 1 new
+lesson inside Unit 10: introductory-there. The English
+path now stands at **164 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

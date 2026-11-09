@@ -1,6 +1,6 @@
 # Sources — Complaint letters
 
-countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana
+countries: Greece, Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -34,6 +34,14 @@ NaCCA. Filed in english/books/ghana.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26). Curriculum evidence
 only.
 
+**Book 6:** English for Today, Dakhil Classes Nine and
+Ten (Student's Book) — Bangladesh, National Curriculum
+and Textbook Board (NCTB), Dakhil (madrasa) stream,
+revised for 2025. Filed in english/books/bangladesh.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26). Outcome
+evidence only for this lesson: the book states the
+outcome and teaches no complaint lesson (see the row).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The complaint pair whole: two complaint dialogues (noise; a hot room, blurred TV, no soap, too few hangers) with the manager apologising and promising specific action; the functional tables — apologising, promising to take action; the writing pair — a guest's letter of complaint (slow breakfast service, unhelpful receptionists, raised prices) and the manager's apologetic reply (staff illness, untrained replacements) | Greece, Hotel and Tourist Trade, Unit 6 "Dealing with Complaints", printed pp.99–112 (writing at the unit's close) |
@@ -41,12 +49,17 @@ only.
 | The letter of complaint taught by name; formal letters for a range of purposes — complaint, request, business and application — in formal style, no slang or contractions, respectful tone, both addresses | Sierra Leone, Primary 6 Term 2, Lesson 109 "Letter of Complaint" (PDF p.107, as filed); JSS formal-letters lessons 61–62 (as filed) |
 | The email of complaint as a taught genre with a full model, among the Grade 12 writing genres | Jordan, High Note Grade 12, writing spine (Semester 1), as filed |
 | Formal writing kinds named as curriculum outcomes — applications, invitations, email; formal letters to the Headmaster/mistress, Director of Education, Assembly Man/woman, SMC and PTA chairmen | Ghana, NaCCA curricula, formal-writing strand (as filed) — curriculum evidence only |
+| The complaint named as a learning outcome and taught nowhere in the unit: Unit 12 "Roots" prints "lodge complaint" among its learning outcomes on the unit opener — and no lesson in the unit teaches complaint writing (outcome evidence only, stated exactly; stocked 2026-11-08 by the re-verification sweep, which found the outcome in the fresh read and no complaint lesson behind it) | Bangladesh, English for Today, Dakhil Classes Nine and Ten, Unit Twelve opener, printed p.151 |
 
-**Acceptance count: taught in 5 countries (Greece,
-Uzbekistan, Sierra Leone, Jordan, Ghana).** Greece teaches
+**Acceptance count: taught in 6 countries (Greece,
+Uzbekistan, Sierra Leone, Jordan, Ghana, Bangladesh).** Greece teaches
 the complaint and its apologetic reply as one worked pair;
 Uzbekistan reads a formal complaint and corrects a
 style-mixed one; Sierra Leone names the letter of
 complaint and lists complaint among the formal purposes;
 Jordan teaches the complaint email with a model; Ghana
-carries the formal kinds in its curriculum.
+carries the formal kinds in its curriculum. Bangladesh
+names "lodge complaint" as a printed learning outcome in
+its Classes 9–10 book and teaches no complaint lesson
+behind it — outcome evidence only (added 2026-11-08 by
+the re-verification sweep).
