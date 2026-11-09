@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 
 **Book 8:** C
 
+**Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
@@ -34,5 +36,6 @@ Every part traces to its book and page.
 | Make a recipe — ordering the instructions of a sandwich recipe | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 38 |
 | A peanut soup recipe — a complete recipe as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 102 |
 | Coffee production — the steps of making coffee, as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
+| Writing: a paragraph about a product your town/city is famous for — what it is, what it is made of/from, who it is made by, where it is made, what it can do, why it is special | China — English ("Go for it!") Grade 9, Unit 5, printed p.40 |
 
-**Acceptance count: taught in 5 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia).** Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia the infographic-to-process move. All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.
+**Acceptance count: taught in 6 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China).** Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.

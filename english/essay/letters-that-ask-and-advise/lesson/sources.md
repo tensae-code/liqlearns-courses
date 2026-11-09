@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone
+countries: Barbados, Ghana, Jordan, Sierra Leone, China
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -28,19 +28,28 @@ Basic and Senior Secondary Education. Filed in
 english/books/sierra-leone.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 5:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The primary letter kinds — invitation, praise, request, sympathy, apology — inside the primary writing syllabus | Barbados, Language Arts Syllabi, writing strand (as filed) — syllabus evidence |
 | Formal letters to authorities as named curriculum outcomes — letters to the Headmaster/mistress, Director of Education, Assembly Man/woman, SMC and PTA chairmen — inside formal writing (both addresses, heading, signature) | Ghana, NaCCA curricula, formal-writing strand (as filed) — curriculum evidence only |
 | The letter to the editor taught with a full model — a letter responding to an article about private funding of the arts — with Active Writing work on hedging | Jordan, Grade 12 Student's Book, Semester 2, Unit 3, Lesson 6A, printed pp.24–25 |
 | Features of an official letter to a person in authority (chairman of a board, managers, councillors, chiefs, ministers); formal letters for a range of purposes in formal style — no slang or contractions, respectful tone, both addresses | Sierra Leone, JSS formal-letters lessons 61–62 (as filed) |
+| Writing: a letter to a pen pal coming to China, giving advice on how to behave properly (table manners, house rules, going out) | China — English ("Go for it!") Grade 9, Unit 10, printed p.80 |
+| Writing: a letter to the city mayor about the environmental problems in your town/city ("I think that… We should/could… I suggest…") | China — English ("Go for it!") Grade 9, Unit 13, printed p.104 |
 
-**Acceptance count: taught in 4 countries (Barbados,
-Ghana, Jordan, Sierra Leone).** Barbados names the five
+**Acceptance count: taught in 5 countries (Barbados,
+Ghana, Jordan, Sierra Leone, China).** Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
-the editor letter with hedging as its craft. The
+the editor letter with hedging as its craft. China joins
+with two advice letters of its own — to a visiting pen
+pal on behaviour, and to the city mayor about the
+environment (stocked 2026-11-08 by the re-verification
+sweep; the mayor letter closes flag 6 of that sweep's
+China diff). The
 catch-up plan also named Malaysia (Form 4 enquiry /
 editor / advice modules; Form 5 letter to an authority)
 and Mongolia (Grade 10 advice letter): neither anchor

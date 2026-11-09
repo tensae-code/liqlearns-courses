@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China
 
 Every part traces to its book and page.
 
@@ -36,6 +36,8 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 7:** 9
 
+**Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -45,9 +47,10 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | 2.2 adjectives that describe people: a positive/negative sorting set (quiet, reliable, ruthless, kind, hesitant, modest, patient, generous, neat, naughty, easy-going, lazy, absent-minded, cheerful, brave, selfish, greedy, possessive, witty, clumsy, boastful, sensible, jealous, touchy) with definition matching (hesitant = slow to act; reliable = can be trusted; generous; greedy; selfish; touchy) | Bolivia, Year 3, Topic 2 "Talking about famous people," student p.214 |
 | Unit 4 "Personal Identity": birth-sign personality texts (Aries–Pisces, pp.61–62) and the look vs be discovery (10a, p.62) | Mongolia, English X (Grade 10), Unit 4, printed pp.56–62 |
 | Describing people — the describing-words set in the book's opening unit (the book's glossary prints “Department = apodo” twice — the word it means is nickname) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 14–15 |
+| Personality and appearance change words: friendly, outgoing, serious, humorous, silent, active, brave, quiet, helpful; straight/curly hair, tall, short | China — English ("Go for it!") Grade 9, Unit 4, printed pp.25–26 |
 
-**Acceptance count: taught in 5 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal).** Cambodia carries the
+**Acceptance count: taught in 6 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China).** Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -55,6 +58,9 @@ Primary 6; Nepal carries the frame grammar — look, look
 like, be like — as a named teaching point; Bolivia carries
 the sorting skill, good adjectives against bad with
 meanings matched; Mongolia carries the look-vs-be discovery
-at Grade 10 beside its personality texts. Other closed
+at Grade 10 beside its personality texts. China joins the
+sorting sets with its Grade 9 personality and
+appearance-change words (stocked 2026-11-08 by the
+re-verification sweep). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

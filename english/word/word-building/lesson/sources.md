@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China
 
 Every part traces to its book and page.
 
@@ -43,6 +43,8 @@ Workbook 2 section, FULLY READ + CITATION CHECK PASSED).
 Education. Filed in english/books/south-africa.md (Grade 5
 Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 
+**Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -52,9 +54,10 @@ Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 | Pronunciation: syllable counting, inside Unit 5 | Nepal, ENGLISH Grade 8, Unit 5, printed pp.51–63 |
 | Prefixes and suffixes circled on a real worksheet page (un-, re-, -ful, -less, -ness), in the Teachers' Day theme | South Africa, English Home Language, Grade 3, Workbook 2, printed p.102 |
 | The Grade 5 Workbook 1 language spine, in teaching order: prefixes and suffixes → synonyms, among the year's named skills | South Africa, English Home Language, Grade 5, Workbook 1, grammar/language spine |
+| The Grammar appendix, word-formation block: compounding (classroom, blackboard, worldwide, good-looking, overcome, fifty-four, everything); derivation with prefixes (un-, dis-, bi-, inter-, re-, tele-) and suffixes (-or/-er, -ist, -ese, -tion, -ful, -ing, -ed, -al, -able, -less, -ly); conversion (show → a show, water → to water, slow → to slow down, walk → a walk, look → a look); shortening (telephone → phone, airplane → plane, laboratory → lab, mathematics → math, advertisement → ad, examination → exam, influenza → flu; initial-letter words CD, CCTV, NBA, UFO, UN, USA, WWF) | China — English ("Go for it!") Grade 9, Grammar appendix, printed pp.153–155 |
 
-**Acceptance count: taught in 5 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa).** Barbados
+**Acceptance count: taught in 6 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China).** Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -64,5 +67,11 @@ Scheme of Work (mapped) evidence: its Year 6 plan works
 worded as mapped here, never as a pupil's-book read; Nepal
 carries syllable counting as pronunciation work; South
 Africa carries the parts circled and used inside real
-workbook pages. Other closed countries join as their books
+workbook pages. China joins with the fullest single
+statement of the system — its Grade 9 Grammar appendix's
+word-formation block: compounding, derivation, conversion
+and shortening in one block (the earlier claim that China
+stocked this lesson was false until the re-verification
+sweep stocked it, 2026-11-08 — flag 7 of the sweep's
+China diff). Other closed countries join as their books
 are read (see READING-QUEUE.md).

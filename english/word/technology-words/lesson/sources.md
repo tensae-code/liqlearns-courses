@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China
 
 Every part traces to its book and page.
 
@@ -44,6 +44,8 @@ the old filing in english/books/bangladesh.md.
 
 **Book 10:** 11
 
+**Book 11:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1 computer hardware/software: the Magaly reading and collocations (scan a document, upload a photo, print a document); the parts of the computer numbered 1–6 — 1. DRIVE ("reads CD/DVD discs" as printed), 2. MONITOR (output device), 3. KEYBOARD (principal input device), 4. MOUSE (pointing device), 5. MODEM/ROUTER (network signal), 6. PRINTER | Bolivia, Year 2, Topic 6 "Convivencia intercultural a través del uso de la tecnología," student p.177 |
@@ -62,10 +64,11 @@ the old filing in english/books/bangladesh.md.
 | Internet activity verbs — browse, search, download, upload, like, comment, stream, chat, inbox, post, share, trending, bookmark, with definitions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 56 |
 | Parts of the computer — CPU, keyboard, monitor, mouse, pendrive, printer, speakers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 13 |
 | Hackers steal 40 million credit card numbers — a news text with its technology vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
+| Invention words and uses: shoes with special heels, shoes with lights, hot ice-cream scoop (runs on electricity), style, pioneer, fridge, earthquake, biscuit, cookie, instrument, basket | China — English ("Go for it!") Grade 9, Unit 6, printed pp.41–45 |
 | Technical English for the technology branch (BTH), electronics career — the career's word set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 106 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Vietnam,
-Sudan, Bangladesh).** Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 5 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China).** Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -73,5 +76,7 @@ unit of its final school year. Sudan carries the field at
 both ends of school: the Grade 7 gadget unit and SPINE 5's
 Modern Technology chapter. Bangladesh reads technology in
 education in its senior book's opening unit (added
+2026-11-08 by the re-verification sweep). China joins with
+its Grade 9 invention words and their uses (stocked
 2026-11-08 by the re-verification sweep). Other closed countries join as
 their books are read (see READING-QUEUE.md).

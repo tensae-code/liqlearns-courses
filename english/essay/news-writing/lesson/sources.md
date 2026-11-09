@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 5:** English Matters, Student's Book 8 (Grade 8) — Uzbekistan, Macmillan Education, ISBN 978-1405-01254-6, first published 2002. Filed in english/books/uzbekistan.md (read 2026-11-03, as filed).
 
+**Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headlines and news stories; subject–verb–object word order ('There was a big storm last night') | Cambodia, ENGLISH Grade 12, Unit 15 'In the news', printed pp.81–86 (Lesson A) |
@@ -24,5 +26,7 @@ Every part traces to its book and page.
 | Reading II: a news report ('Pokhara International Airport Inaugurated'); Writing II: a news report from clues (a hospital in Doti); Project: designing a newspaper front page | Nepal, English Grade 10, Unit 19, printed pp.238–253 |
 | A news-style report read as a reader first: 'Nepal is the First Country to Double its Tiger Population' (adapted from ntnc.org.np) | Nepal, English Grade 8, Unit 13, printed pp.157–171 |
 | Verb tenses in reporting news items; weather, political, business and sports news extracts; journalistic language set against personal-letter conventions; present-perfect forms used inside the news gap-fills (never named as a tense in this book) | Uzbekistan, English Matters 8, Unit 5 'News Matters', Lessons 1–4, printed pp.50–55 |
+| Reading: "Strange Happenings in My Town", a newspaper-style article (strange noises, Victor's and Helen's opposite guesses, police find nothing; choose the best title) | China — English ("Go for it!") Grade 9, Unit 8, printed p.59 |
+| Writing: finish a newspaper article, "No More Mystery in the Neighborhood", in three parts (background, how it was solved, how people feel now) | China — English ("Go for it!") Grade 9, Unit 8, printed p.64 |
 
-**Acceptance count: taught in 4 countries (Cambodia, Egypt, Nepal, Uzbekistan).** Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work. Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced.
+**Acceptance count: taught in 5 countries (Cambodia, Egypt, Nepal, Uzbekistan, China).** Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced.

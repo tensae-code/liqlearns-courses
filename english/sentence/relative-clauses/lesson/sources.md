@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China
 
 Every part traces to its book and page.
 
@@ -86,6 +86,8 @@ Education, Sixteenth edition 2026. Filed in
 english/books/south-africa.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-03).
 
+**Book 16:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -105,10 +107,12 @@ CHECK PASSED 2026-11-03).
 | Relative clauses with who/which in the learning unit | Sudan, SMILE Book 9, Unit 7, Lesson 1, printed p.49 |
 | Relative pronouns (which, that, who) joining sentences — the set's first relative-clause work; "We use relative pronouns to refer to a noun mentioned before" | South Africa, English Home Language Grade 5 Workbook 2, grammar spine (anchor, printed p.5) |
 | The drop stated a second time: the pronoun may be dropped when it is the object (in the defining/non-defining box) | Egypt, Secondary 11 Term 1, Unit 6, Grammar Box p.77 (as filed in EGYPT-BOOK-MAP.md) |
+| Preferences worked through relative clauses: "What kind of music do you like? I love music that/which I can sing along with. She likes musicians who play different kinds of music. I prefer movies that give me something to think about" | China — English ("Go for it!") Grade 9, Unit 9, printed pp.65–68 |
+| The Grammar appendix, clauses block: objective clauses (that, whether/if, wh- words) and attributive (relative) clauses with that/which/who/whom, and the relative adverbs where, when, why | China — English ("Go for it!") Grade 9, Grammar appendix, printed pp.152–153 |
 
-**Acceptance count: taught in 9 countries (Cambodia,
+**Acceptance count: taught in 10 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam).** Cambodia names the defining system
+Sudan, Vietnam, China).** Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -124,7 +128,12 @@ who/which/whose at Grade 9 Unit 8 and states the
 defining rule with object omission at Unit 9. Sudan
 works who/which clauses in SMILE Book 9. South Africa's
 first relative-clause work is relative pronouns joining
-sentences in the Grade 5 HL Workbook 2. Uzbekistan is
+sentences in the Grade 5 HL Workbook 2. China joins with
+relative clauses worked through preferences at Grade 9 and
+the clauses block of its Grammar appendix (the earlier
+claim that China stocked this lesson was false until the
+re-verification sweep stocked these two parts, 2026-11-08 —
+flag 1 of the sweep's China diff). Uzbekistan is
 NOT counted: its English Matters 8 relative-clause
 evidence is one gap-fill exercise with no rule, which
 does not meet this lesson's taught-as-a-system bar.

@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -55,6 +55,8 @@ the old filing in english/books/bangladesh.md.
 
 **Book 11:** C
 
+**Book 12:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -82,9 +84,10 @@ the old filing in english/books/bangladesh.md.
 | Important people of Bolivia — short biographies of national figures | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 93 |
 | Speeches on national figures — a conversation about the footballer Remigio Etcheverry | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 116 |
 | Biographies of heroes and footballers — national biographies as writing models | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 117 |
+| Writing: a passage about the person or event from junior high school you will never forget (describe it, explain how you feel about it, explain how it changed your life) | China — English ("Go for it!") Grade 9, Unit 14, printed p.112 |
 
-**Acceptance count: taught in 6 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh, Bolivia).** Egypt states the full
+**Acceptance count: taught in 7 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China).** Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -96,3 +99,6 @@ great women, Douglass, Brojen Das, the Unbeaten Girls and
 Greta Thunberg in the senior book, and the two Steve Jobs
 lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
+China joins with its Grade 9 writing of an unforgettable
+person or event from junior high school (stocked
+2026-11-08 by the re-verification sweep).

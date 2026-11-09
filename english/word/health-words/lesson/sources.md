@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China
 
 Every part traces to its book and page.
 
@@ -34,6 +34,8 @@ the old filing in english/books/bangladesh.md.
 
 **Book 6:** 10
 
+**Book 7:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -50,9 +52,10 @@ the old filing in english/books/bangladesh.md.
 | Ancestral medicine — Bolivian ancestral medicine and its remedies, taught as a topic in English | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 43–44 |
 | Diseases — the illness and disease set of the book's health unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 51–52 |
 | Illness vocabulary — the compendium's illness set (adding earache, sore throat, cough, shiver, sneeze to the set the filing cited) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 84 |
+| Table manners quiz and talk: in India eat with your hands; in China don't stick chopsticks into food, the youngest person is not expected to start eating first, don't point at anyone with chopsticks, don't hit an empty bowl; in Korea the eldest starts; in France put bread on the table, not on the plate | China — English ("Go for it!") Grade 9, Unit 10, printed pp.77–79 |
 
-**Acceptance count: taught in 5 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh).** Albania carries the symptom set as a
+**Acceptance count: taught in 6 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -64,5 +67,8 @@ if-you-do-not warning table; Saudi Arabia carries the
 healthy-life half — should/shouldn't habits and aches in
 Grade 3; Bangladesh carries the senior readings — teenage
 stress and keeping fit (added 2026-11-08 by the
+re-verification sweep). China joins with its Grade 9
+table-manners quiz and talk — table customs from India,
+China, Korea and France (stocked 2026-11-08 by the
 re-verification sweep). Other closed countries join as their books are read
 (see READING-QUEUE.md).

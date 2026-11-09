@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam
+countries: Egypt, Kuwait, Malaysia, Vietnam, China
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 
 **Book 5:** Tiếng Anh 11 (Global Success) (student's book) — Vietnam, Vietnam Education Publishing House & Pearson. Filed in english/books/vietnam.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The short article defined — 'a piece of writing that gives information or ideas about a topic in a clear and simple way'; structure: Title (catchy), Introduction, Body, Conclusion; 100–110 words | Egypt, Preparatory 9 Term 2, Unit 8, Lesson 6 writing (as filed in EGYPT-BOOK-MAP.md) |
@@ -23,5 +25,6 @@ Every part traces to its book and page.
 | Writing: article — getting readers' attention with a direct, less formal tone and rhetorical questions; model article analysed by paragraph | Malaysia, Form 5 KPM textbook, Unit 4, Writing, printed pp.52–53 |
 | Writing: an article (120–150 words) about the advantages and disadvantages of living in a smart city; model 'Living in a smart city: Good or bad?' | Vietnam, Tiếng Anh 11 (Global Success), Unit 3, printed pp.28–37 |
 | Writing: an article (150–180 words) about the pros and cons of self-study | Vietnam, Tiếng Anh 11 (Global Success), Unit 8, printed pp.86–95 |
+| Writing: an article for a newspaper or magazine about your favourite kind of music/movie and your favourite song/movie | China — English ("Go for it!") Grade 9, Unit 9, printed p.72 |
 
-**Acceptance count: taught in 4 countries (Egypt, Kuwait, Malaysia, Vietnam).** Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles. All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced.
+**Acceptance count: taught in 5 countries (Egypt, Kuwait, Malaysia, Vietnam, China).** Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced.

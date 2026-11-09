@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -12,6 +12,14 @@ this lesson's building.)
 Literary Course Book — Libya, Ministry of Education
 (Garnet Publishing). Filed in english/books/libya.md
 (FULLY READ 2026-10-25).
+
+**Book:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -64,8 +72,23 @@ Literary Course Book — Libya, Ministry of Education
 | A sustained reading — “My Bolivia”: activities around Bolivia and its protected areas (Amboró, Madidi, Tipnis, Iñau) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 99 |
 | Sustained readings — “I had never suffered cyberbullying”, the cyber impact of the internet and safe internet use | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 104–105 |
 | A sustained reading — free-time and holiday activities in our community | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 113 |
+| A four-seasons poem read as a poem — spring flowers, summer heat, autumn leaves, winter snow | China — English (PEP) Grade 5 Volume 2, Unit 2, printed p.15 |
+| A poem read whole: "Bed in Summer" — reluctant to get up on a summer morning, reluctant to go to bed at night | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.35 |
+| A sustained reading: "Different ways to go to school" — walking, cycling, bus, boat, train and sled, in China, Germany, the UK and Alaska | China — English (PEP) Grade 6 Volume 1, Unit 2, printed p.18 |
+| A song studied whole: "Hush, little baby" — a lullaby of promised gifts | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.34 |
+| A story read whole: "What a dream!" — Amy dreams she is inside a peach with a hat flying after its owner, while her mother cannot wake her | China — English (PEP) Grade 6 Volume 2, Unit 3, printed pp.38–39 |
+| A reading read whole: "Full Moon, Full Feelings" — the Mid-Autumn Festival story of Chang'e and Hou Yi | China — English ("Go for it!") Grade 9, Unit 2, printed p.11 |
+| A reading read whole: Halloween in North America — trick or treating, scary costumes and stories | China — English ("Go for it!") Grade 9, Unit 2, printed p.13 |
+| A reading read whole: "From Shy Girl to Pop Star" — Candy Wang, shy at school, finds her voice singing in public | China — English ("Go for it!") Grade 9, Unit 4, printed p.27 |
+| A reading read whole: "Beauty in Common Things" — sky lanterns, paper cutting and clay art, China's traditional arts | China — English ("Go for it!") Grade 9, Unit 5, printed pp.38–39 |
+| A reading read whole: "An Accidental Invention" — tea discovered when leaves fell into Shen Nong's boiling water | China — English ("Go for it!") Grade 9, Unit 6, printed p.43 |
+| A poem read whole: "Mom Knows Best" — a son's life from baby to adult, and a mother's constant love | China — English ("Go for it!") Grade 9, Unit 8, printed p.51 |
+| A reading read whole: "Stonehenge — Can Anyone Explain Why It Is There?" | China — English ("Go for it!") Grade 9, Unit 8, printed p.62 |
+| A reading read whole: "Life Is Full of the Unexpected" — eerie coincidences in the narrator's life | China — English ("Go for it!") Grade 9, Unit 12, printed p.91 |
+| A survey read whole: the April Fool's hoaxes — the spaghetti harvest, "Big Ben" becoming "Big Mac", UK calls ending, trucks shrinking | China — English ("Go for it!") Grade 9, Unit 12, printed pp.94–95 |
+| A poem read whole: "I Remember" — looking back on junior high school | China — English ("Go for it!") Grade 9, Unit 14, printed p.107 |
 
-**Acceptance count: taught in 7 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia)** — the
+**Acceptance count: taught in 8 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one complete novella in the author's own
@@ -78,7 +101,7 @@ than re-sourced. Kuwait binds a complete graded retelling into
 its Student's Book 10B: Treasure Island, simplified and
 abridged, in five episodes reaching the story's end — a
 graded retelling, not the original text, with no questions
-on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. Other closed countries join as their
+on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. China joins the same way (2026-11-08, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — fifteen sustained readings, poems and a song across Grades 5–9, filed as plot summaries only. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and exactly: Grade 12's Unit 13 (printed pp.97–144) prints John Steinbeck's novella *The Pearl* COMPLETE, Chapters 1–6, inside the textbook — a complete book-length text bound into the schoolbook, like Libya's readers. But it is the ORIGINAL novella text, not a graded retelling, and Pakistan has no graded readers.
@@ -106,3 +129,5 @@ books are read (see READING-QUEUE.md).
 **Bangladesh added 2026-11-08 (re-verification sweep)** — 1 book stocks this lesson: **Book:** *English for Today, Classes XI–XII & Alim* (student's book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 295 pp; 1st ed. July 2015, revised 2nd ed. October 2024. The volume was never covered by the old country filing; the sweep re-read it (contents level with lesson pages read visually; placements in liqlearns-courses-work/sweep-2026-11-08/english/bangladesh-placements.md) and stocked its long-reading items here. Stated plainly, because this lesson's bar matters: the book carries NO complete book-length text and no complete graded reader, so Bangladesh does not join the five complete-text countries above on their terms. What it stocks is the long-reading ladder itself at Bangladesh's scale: eighteen sustained lesson-length readings across its twelve units (Units One, Two, Five, Six, Eight, Nine, Ten and Eleven, printed pp.14–202) — the longest reading the Bangladesh school course sets — and the three complete short works of its bound-in Reading for Pleasure reader (printed pp.245, 256, 260), filed as plot summaries only. The sweep's diff routed these items to this lesson under the everything-goes-in ruling (2026-11-06); they are stocked with the distinction stated, not smoothed over. Book error noted and taught corrected: the Reading for Pleasure preface (printed p.242) prints "The collection is based spans centuries" — a grammar error in the book, never absorbed.
 
 **Bolivia added 2026-11-08 (re-verification sweep)** — 8 student books and the teacher compendium stock this lesson: **Books:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grades 4 and 5 (Primaria 4–5), Grades 7–12 (Secundaria 1–6) — Bolivia, Ministerio de Educación, Texto oficial 2024; and the *Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024* (Área Lengua Extranjera) — TEACHER-COMPILATION EVIDENCE, cited as such, never as a student's book. All filed in english/books/bolivia.md; the student books were read for the first time by the sweep (the old filing never read them). Stated plainly, as with Bangladesh above: Bolivia's books carry NO complete book-length text and no complete graded reader, so Bolivia does not join the five complete-text countries on their terms. What it stocks is the long-reading ladder at Bolivia's scale — 31 sustained lesson-length readings and complete songs across Grades 4–12 and the compendium's Years 1–6: festival and tradition readings, history readings, touristic-place texts, social-issue readings and whole songs studied in class. Songs and stories are filed as plot summaries only; no song or story text is transcribed. The sweep's diff routed these items to this lesson under the everything-goes-in ruling (2026-11-06); they are stocked with the distinction stated, not smoothed over.
+
+**China added 2026-11-08 (re-verification sweep)** — 4 books stock this lesson: **Books:** *Compulsory Education Textbook · English (PEP)*, Grade 5 Volume 2 (People's Education Press with Lingo Learning Inc., Canada, first edition October 2014, ISBN 978-7-107-29086-2), Grade 6 Volume 1 (2013 edition, ISBN 978-7-107-27999-5, printed in the back-cover barcode), Grade 6 Volume 2 (first edition October 2014, ISBN 978-7-107-29071-8); and *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (complete volume; People's Education Press with Cengage Learning, © 2014, ISBN 978-7-107-28027-6, printed in the back-cover barcode). All filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29). Stated plainly, as with Bangladesh and Bolivia above: China's books carry NO complete book-length text and no complete graded reader, so China does not join the five complete-text countries on their terms. What it stocks is the long-reading ladder at China's scale — fifteen sustained unit readings, poems and a song across Grades 5–9: festival and culture readings (the Chang'e story, Halloween, China's traditional arts), invention and mystery readings (tea's discovery, Stonehenge, April Fool's hoaxes), poems ("Bed in Summer", "Mom Knows Best", "I Remember") and the "Hush, little baby" lullaby. Poems, songs and stories are filed as plot summaries only; no text is transcribed. The sweep's diff routed these items to this lesson under the everything-goes-in ruling (2026-11-06); they are stocked with the distinction stated, not smoothed over.
