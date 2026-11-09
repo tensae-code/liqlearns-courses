@@ -16,6 +16,7 @@ Book (Garnet / CERC, © 2019; verified on disk 2026-10-25: %PDF,
 | Asking names about other people: "What's her name? — Muna. · What's his name? — Kareem." | Libya Primary 2 Pupils Book, Unit 2 Lesson 1, book pp.18–19 |
 | Third people named by role with he/she: "This is Mr Jones. He's a teacher." · "She's a student." — drilled by read-and-tick captions | China — English (PEP) Grade 3 Volume 2, Unit 1, printed pp.8–9 |
 | Family members named and identified one by one — father (dad), mother (mum), grandmother (grandma), grandfather (grandpa) — with the identification question "Is she your mother?" | China — English (PEP) Grade 3 Volume 2, Unit 2, printed pp.15, 17, 18 (the long/short pairing is repeated in Appendix 1, p.70) |
+| "What's his/her name? — His/Her name is…" with "Who is he?" — the lesson's own question asked whole (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 3, printed pp.24–27 |
 | Naming third people inside the family set: "This is my grandfather, Bill." worked through six named portraits — Bill (grandfather), Ann (mother), Bob (father), Doris (grandmother), Tom (brother), Lucy (sister) | North Macedonia — EXTRA and Friends, Pupil's Book 2, Module 1, Lesson 1, printed p.4 |
 | Asking about a third person with "Who is that boy/girl/man/woman?" — answered with he/she and the person's place in your world: "He's my friend Erfan · She's my classmate Parisa · He's my teacher Mr. Karimi · She's my teacher Miss/Mrs. Bahrami" (Iran asks the same third-person question with *who*, not with *what's his/her name*) | Iran — Prospect 1 (Grade 7), Lesson 2 "My Classmates," Practice 2, printed pp.10–13 |
 | Asking about a third person with "Who is he/she?" — answered "He is my father" over the family photo, carried by its own song, and a year of school later "He/She is my teacher" for the school staff (Indonesia's question word is likewise *who*, not the name question) | Indonesia — English for Nusantara Kids, Grade 3, Chapter 2 (objectives printed p.34; family section printed pp.35–46, the "Who is she/he?" song at p.40) and Chapter 6 (objectives printed p.150) |
@@ -81,6 +82,8 @@ Education Press (with Lingo Learning Inc., Canada), first
 edition October 2012, ISBN 978-7-107-25247-1. Filed in
 english/books/china.md (China — English Grade 3 Volume 2 —
 FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**China — sweep addition 2026-11-08** — **Book:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013-approved edition, ISBN 978-7-107-26554-9 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 4 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29). The re-verification sweep stocked the "What's his/her name?" exchange from this book (table row below); China was already stocked in this lesson, so the countries line and acceptance count do not move.
 
 **North Macedonia added 2026-10-29** — **Book:** *EXTRA and
 Friends — Pupil's Book 2* (Jenny Dooley – Virginia Evans) —

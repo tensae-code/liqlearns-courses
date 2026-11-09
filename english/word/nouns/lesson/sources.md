@@ -150,6 +150,8 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 53:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 54:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -166,6 +168,7 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Circle the noun; sort nouns into person / place / thing; sort nouns against verbs — the term's own review work, the model for this lesson's questions | Egypt, Primary 2 Term 2, Final Review, pp.106–108 |
 | The deeper kinds waiting past this lesson's top level — common, proper, collective, abstract nouns | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand (recorded in CURRICULUM stocking notes; proper names are touched in this lesson only as special names with capitals) |
 | Plural spelling classes worked as a completion table — one banana / two bananas, sandwich → sandwiches; pear, potato, carrot, tomato, noodle, dress, hamburger, box, onion, class sorted into their plural spellings | China, Grade 5 Volume 1, Unit 3, "Let's wrap it up," p.30 |
+| Small things and their plurals — candy/candies, notebook, toy/toys, key/keys (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 3, printed p.18 |
 | Countable and uncountable nouns sorted as one work set — sixteen food words (cabbage, sugar, spinach, potato, cucumber, rice, celery, pepper, corn, milk, tofu, carrot, garlic, salt, soup) sorted by whether they can be counted, after singular/plural choice work (bear/bears, bowl/bowls, carrot/carrots, spinach/spinaches) | Indonesia, Grade 5, Chapter 1 "Buying Some Mangoes and Spinach," pp.25–26, 29 |
 | Measure words for the uncountables — a bag of garlic, a bunch of spinach, a bottle, a basket, a spoonful of salt — with How many…? / How much…? as the chapter's quantity frames | Indonesia, Grade 5, Chapter 1, pp.18–22 |
 | The noun taught as a word kind in its own right: person/animal, place, thing, idea; regular and irregular plurals; common vs proper nouns, with capitalisation corrections (Avicenna, Damavand, Milad Tower, the Persian Gulf); noun markers a/an, the, this/that, these/those and possessives | Iran, Vision 1 (Grade 10), Lesson 1, Writing section, pp.34–39 |

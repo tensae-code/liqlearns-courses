@@ -133,6 +133,10 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 48:** C
 
+**Book 49:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 2 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 2 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 50:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 5 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 5 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -143,6 +147,8 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | City life as a whole lesson — Oyshi and her family live in a city; school with her father, home with her mother — set against Osman's village life in the lesson before (pp.72–75) | Bangladesh, English for Today Class 3, "Oyshi's city life," pp.76–80 |
 | A whole later unit on the same world: "Around Town" (Unit 5) with "Going Places" after it (Unit 6) | Mongolia, English VIII, contents p.4: Unit 5 opens at printed p.64, Unit 6 at p.78 |
 | A second town set with its locating frame: science museum, post office, bookstore, cinema, hospital — inside "Where is the …? — It's near / next to / behind …" | China, Grade 6 Volume 1, Unit 1, pp.4–5 |
+| School places and floors — "Where's the library? — It's on the first/second floor; It's next to the art room" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 2, Unit 1, printed pp.2–5 |
+| Village words — village, house, building, bridge, tree (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Unit 6, printed p.62 |
 | Map talk over a town map, and a listening map check | China, Grade 6 Volume 1, Unit 1, pp.5, 10 |
 | Directions as depth over a real map: turn left, turn right, go straight, crossing — worked on a Beijing map | China, Grade 6 Volume 1, Unit 1, p.7 |
 | A whole neighbourhood on one map — mosque, church, market, school, playgroup, soccer field, the grocery shop and the friends' houses on Garuda Street and Merpati Street — with directions: turn right / turn left / go straight / cross the street, on the left/right side of the street, at the end of the street | Indonesia, Grade 5, Chapter 3 "Visiting Bara's House," pp.63–64 (route story pp.67–72) |

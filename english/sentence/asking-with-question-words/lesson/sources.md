@@ -141,6 +141,10 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 52:** C
 
+**Book 53:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 54:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 6 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 6 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -149,6 +153,8 @@ CITATION CHECK PASSED 2026-11-03).
 | "What time do you wake up?" Q&A — the when-question answered whole with an at-time | Egypt, Primary 3 Term 1, Daily Routines lesson, p.25 |
 | "How many days are there in a week?" — "There are 7 days in a week" (the count question in its first home) | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1, p.6 |
 | "Where is my car?" — the where-question run as a guessing game over in/on/under, travelling with its Is it …? partner | China, English Grade 3 Volume 2, Unit 4, pp.36–45 |
+| The lost-and-found dialogue — "I lost my schoolbag. — What colour is it? — It's blue and white. — What's in it?" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 2, printed p.17 |
+| Grammar box: turning statements about people into What/How/Where questions ("Mary has a cat → What does Mary have? He goes by bus → How does he go?") (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 1, printed p.54 |
 | "How many … do you see? / do you have?" with the full 11–20 band and a class-survey speaking task | China, English Grade 3 Volume 2, Unit 6, pp.56–65 (numbers pp.59, 62; survey p.61) |
 | The question-word shelf of one volume: Where's …?, What time is it?, How many …?, How much …?, Whose …?, What colour …?, "What's the weather like …?" | China, English Grade 4 Volume 2, pp.4–5, 7, 12–21, 22–28, 36, 41, 46–51, 52, 56–63 |
 | The question words sorted as a family — a wrap-up page separating when / what / where / which / whose / why by the answer each one takes, and a spelling page lining the wh- words up with their sound-alikes | China, English Grade 5 Volume 2, pp.20, 60 |

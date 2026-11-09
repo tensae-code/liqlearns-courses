@@ -110,6 +110,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 35:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
 **Book 36:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
+**Book 37:** English (PEP), Grade 4, Volume 1 (student book) — China, People's Education Press (with Lingo Learning Inc.). Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -118,6 +120,8 @@ CITATION CHECK PASSED 2026-11-03).
 | A method/process text "told with sequence words (wash and peel, …)" — the process home of the signposts | Bangladesh, English for Today (the method text, as filed) |
 | Linking words when/but/after worked over a feelings text — sequence and turning words together in recount writing | Egypt, Secondary writing work (as filed in the book map) |
 | A dated diary entry set as the model recount — the day told in its order — with a bad-column/good-column sort of its events and a pupil writing frame to tell their own day the same way | China, English Grade 6 Volume 2, Unit 3, pp.28–29 |
+| Salad-making instructions in order — pass me the bowl, cut the vegetables, use the spoon… (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.52 |
+| Retelling Mike's busy Saturday from pictures in order — In the morning… Then… After that… Next… In the afternoon… In the evening… Finally… (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.45 |
 | The sequencers named as a set for writing game steps — First, Second, Next, Then, After that, Finally — drilled in "What do we do first / next / after that?" exchanges before pupils write a game's steps themselves | Indonesia, English for Nusantara Kids Grade 6, Chapter 4, section B, printed pp.115–116 |
 | The same signposts ordering a past recount: a zoo trip told with first / after that / next / finally, inside the past-tense chapter | Indonesia, English for Nusantara Kids Grade 6, Chapter 3, printed pp.74–80 |
 | TIME CONNECTIVES as their own Language Focus: First / Next / After that / Finally, with a full table of beginning, middle and ending connectives, inside the recount chapter | Indonesia, English for Nusantara Grade 8, Chapter 1, Unit 2, Language Focus, printed p.47 |

@@ -118,6 +118,8 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 45:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-guide evidence for a digital course: it prints the Akelius A2 course's chapter vocabulary lists, "Language structures" example sets and worksheets; no student's book is held and no platform lesson is reproduced.
 **Book 46:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
+**Book 47:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 5 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 5 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -126,6 +128,7 @@ CITATION CHECK PASSED 2026-11-03).
 | Sentence-building from a substitution table — seven animals × eats × seven foods — "Make seven meaningful sentences and read them aloud," with pairwork writing two sentences each for an animal (living place + food) | Bangladesh, English for Today Class 2, animals unit, Lesson 2 "Their food," pp.88–89 |
 | Word order set as a standing exercise kind in the books' self-checks — jumbled words to stand in sentence order, unit after unit (Units 2, 5, 6, 9 self-checks) | Mongolia, English VI, Self-Check sections (as filed in the Grade 6 filing) |
 | This/these, that/those taught as one sentence system — "What are these? They're tomatoes." against "What are those? They're sheep / horses," the deliberate contrast seated in Read and write, and the same system run over clothes | China, English Grade 4 Volume 2, Units 4–5, pp.37–38, 41, 43, 48–53 |
+| The be-grammar box — am/is/are matched to I/you/we/they/he/she/it (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.10 |
 | Sentence types stated as reference — affirmative, negative and Yes/No and WH- questions in present and past be forms, with subject-verb agreement — and sentence structure named as verbal and nominal sentences | Indonesia, English for Nusantara Grade 8, Chapter 0, sections F–G, printed pp.9–13 |
 | The simple sentence built from its parts — subject and verb defined and hunted in model sentences, then objects and additional information (place/time/manner), with sentence-or-fragment sorting, unscrambles and subject/verb/object analysis, closing in five simple sentences of the pupil's own | Iran, Vision 2, Lesson 1, Writing: Simple Sentences, pp.37–45 |
 | Sentence building stated as a rule: every sentence needs a subject and a verb, the parts of speech recombined to build sentences | Sierra Leone, JSS 1 Term 1 Handbook, Lesson 10 "Sentence Building" |

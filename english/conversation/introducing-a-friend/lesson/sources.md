@@ -16,6 +16,7 @@ disk 2026-10-25: %PDF, 190 pp).
 | The full audio dialog of the "Sarah's Little Fish" story: "Hello, Nadia. Who's this? — This is my friend, Sarah. — Hello, Sarah. — Hello, Zeinah." | Teacher's Book, Track 108 dialog (the story lesson, Unit 9) |
 | Third-person introductions with the meeting frame: "Mr Jones, this is Miss Green." · "Dad, this is Mr Jones." · "This is my brother, Sam." — answered by "Nice to meet you. — Nice to meet you, too." | China — English (PEP) Grade 3 Volume 1, printed pp.13, 14, 61 (meeting frame pp.13, 17) |
 | Introducing where a person is from: "Where are you from? — I'm from + country", with flags and landmark photographs | China — English (PEP) Grade 3 Volume 2, Unit 1, printed pp.2–5, 7 |
+| Greeting customs by country, taught as meeting knowledge — Brazil: kiss; the United States: shake hands; Japan: bow; Mexico: shake hands; Korea: bow (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 10, printed p.73 |
 | Introductions in pictures only: children meeting and introducing each other outdoors, a new boy joining — the book prints no English, so this row cites topic and picture, never wording | Mongolia — English V (Grade 5), Unit 1, printed p.10 |
 | Introducing others as a named function: "This is my friend / classmate / English teacher …" with the nice-to-meet-you pair, over the new classmate's arrival — "This is Ali" · "Nice to meet you (too)" · "Welcome to our school" | Iran — Prospect 1 (Grade 7), Lesson 2 "My Classmates," printed pp.10–13 |
 | Introducing a relative or friend to a classmate as a role play, with a third pupil as a guest from another country; and the origin frame that goes with it: "Where are you from? — (I'm/We're from) Iran" | Iran — Prospect 2 (Grade 8), Lesson 1 "My Nationality," printed pp.12–17 |
@@ -177,6 +178,8 @@ Lingo Learning Inc., Canada), first edition October 2012, ISBN
 978-7-107-25247-1. Filed in english/books/china.md (China —
 English Grade 3 Volume 2 — FULLY READ + CITATION CHECK PASSED
 2026-10-29).
+
+**China — sweep addition 2026-11-08** — **Book:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29). The re-verification sweep stocked the greeting-customs set from this book (table row below); China was already stocked in this lesson, so the countries line and acceptance count do not move.
 
 **Mongolia Grade 5 added 2026-10-29** — **Book:** *English V*
 (the copy prints only "GRADE 5"; N. Mira, I. Saingergel,

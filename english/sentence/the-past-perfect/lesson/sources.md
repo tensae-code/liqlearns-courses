@@ -28,6 +28,8 @@ Every part traces to its book and page.
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
 | The tense as Unit 12's structure, carried by the frames "By the time …, … had already …" and "Before …, … had …" | China, Grade 9, Unit 12, Grammar Focus p.92 |
+| The oversleeping stories the tense is taught through — Mary overslept: her brother had already gotten in the shower, the bus had already gone, the teacher had started teaching; Kevin's alarm clock didn't go off (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 12, printed pp.89–90 |
+| The tense inside the book's Irregular Verbs appendix work (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Irregular Verbs appendix, printed pp.184–185 |
 | The past perfect (had + past participle) for the earlier of two past actions, inside the Grade 7 book's past-tense work | Nepal, English Grade 7 (as filed in english/books/nepal.md) |
 | Past perfect simple taught at Form 3 and returned to at Form 5 | Malaysia, Form 3 Unit 7; Form 5 Unit 4 (as filed in english/books/malaysia.md) |
 | Past Perfect with "before" and "after" — form table, sequencing tasks, a "My Achievement" writing task | Kuwait, English Pearls 9B, L2 Grammar, p.21 |

@@ -171,6 +171,8 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 58:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 59:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -181,6 +183,7 @@ english/books/jordan.md (Grade 7 Pupil's Book Semester 1 section, FULLY READ + C
 | The whose-forms box: my / your (with name+'s beside them) | Egypt, Primary 2 Term 1, p.51 |
 | Possessive pronouns standing alone — mine, yours, his, hers, theirs — and the indefinite set that follows them in the later years | Ghana, NaCCA English Curriculum B4–6, Grammar Usage strand |
 | he/she at work telling people apart from the first year: "This is Mr Jones. He's a teacher." / "She's a student." — drilled again in read-and-tick captions | China, Grade 3 Volume 2, Unit 1, pp.8–9 |
+| his/her possessive adjectives inside descriptions — "His name is…", "Her shoes are…" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 3, printed pp.27–29 |
 | The whose-forms with names and family words: "Whose …? — They're John's. / It's my brother's." — and standing alone: "Whose coat is this? — It's mine." / "They're your father's." | China, Grade 4 Volume 2, Unit 5 "My clothes," pp.46–51 |
 | Possessive pronouns standing alone as the complete set — mine, yours, his, hers, ours, theirs (with its for animals) — taught through "Whose … is this? — It's mine / It's his" and re-tested in a mixed wrap-up | China, Grade 5 Volume 2, Unit 5 "Whose dog is it?," pp.46–49 (wrap-up p.54) |
 | The later kinds, recorded here as NOT this lesson: object forms (me, him, us, them), reflexive, relative, reciprocal pronouns | Ghana, NaCCA English Curriculum JHS 1–3, Strand 3; Egypt, Preparatory books (see the book maps) |

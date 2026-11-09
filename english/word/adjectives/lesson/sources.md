@@ -204,6 +204,8 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 69:** C
 
+**Book 70:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -219,6 +221,8 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Character adjectives under the question "What's he/she like?": polite, shy, helpful, hard-working, clever — with kind, strict, funny in the unit's talks | China, Grade 5 Volume 1, Unit 1 "What's he like?," pp.4, 7–8 |
 | Taste adjectives on food: sweet, hot, fresh, healthy, delicious | China, Grade 5 Volume 1, Unit 3, p.28 |
 | Feeling adjectives: angry, afraid, sad, worried, happy, ill | China, Grade 6 Volume 1, Unit 6, p.59 |
+| Describing with adjectives inside a chant — the cat is fat, the pig is big — with the first position words on/in inside the same chant (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 3 Volume 1, Unit 4, printed p.39 |
+| Describing places with quality words — interesting, fascinating, inexpensive, quiet, uncrowded, big, beautiful, convenient, safe, clean (a museum is fascinating; a restroom must be clean) (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 3, printed p.21 |
 | Size and age pairs in pictures only: two cats, one big and one small; a family row standing tall/short and old/young (picture citation only; the book prints no English wording) | Mongolia, English V (Grade 5), Unit 5, printed pp.49, 52 |
 | The two describing questions kept apart — "What is he like?" (character: kind, patient, strong, friendly) against "What does she look like?" (appearance) — with a bingo word grid of describing words (short, straight, white, boring, black, cute, weak, patient, tall, gray, strong, curly, cheerful, confident, smart, pretty) | Indonesia, Grade 3, Chapter 6 "My Teachers," pp.169–172 (grid p.176) |
 | Taste and texture adjectives as a printed glossary — taste: sweet, sour, delicious/yummy, bitter, spicy, salty, fresh; texture: soft, hard, crunchy, chewy, creamy — then used to describe picnic dishes | Indonesia, Grade 4, Chapter 2 "Meal Time," glossary p.41 (use pp.44–45) |

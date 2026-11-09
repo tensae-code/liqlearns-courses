@@ -136,6 +136,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 56:** 10
 
+**Book 57:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 6 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 6 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | PAST SIMPLE box — subject + verb-ed + rest, positive and negative — and the "Do you remember these verbs?" matching list of irregular pasts (went, had, took, came, saw, gave, ate, drank, could, was/were…) | Mongolia, English VI, Unit 6 "School Trips," Lesson 2, p.64 (box and list as filed) |
@@ -144,6 +146,9 @@ CITATION CHECK PASSED 2026-11-03).
 | The SIMPLE PAST opened in the strand (with the past continuous beside it: "use simple past and the past continuous forms…") — the past as the tense of narratives and recounts | Ghana, NaCCA B4–B6 curriculum, Strand 5 (as filed) |
 | The past staged in two units: the regular -ed set first, with its formation table and time ladder, then the irregular set (rode, hurt, fell, ate, took, bought, went, saw) with a 54-pair reference table behind it | China, English Grade 6 Volume 2, Unit 2, pp.12–21 (table p.20, ladder p.17); Unit 3, pp.22–31 (table p.69) |
 | was/were + could/couldn't for past states and change — "there was/were (no)…", "… years ago", before/now change talk | China, English Grade 6 Volume 2, Unit 4, pp.32–41 |
+| The first full past-tense story text — Zac the squirrel sings for the Monkey King, is thrown out of the tree, and his hurt tail turns bushy (lived, liked, sang, was, shouted, threw) (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.45 |
+| The Before/Now/In the future poster — Bill's poster of himself at 5, at 12 and in the future, and design your own (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.47 |
+| Sharing school memories in the perfect-and-past mix — "I remember meeting all of you in Grade 7. I have learned to play the keyboard. I remember being a volunteer. I remember scoring two goals in a row during a soccer competition" (stocked 2026-11-08 by the re-verification sweep) | China — English ("Go for it!") Grade 9, Unit 14, printed pp.105–106 |
 | The past simple as the recount tense in a whole primary chapter: "Did you see…? — Yes, I did!," "Where did you go?," with last weekend / two weeks ago, over a zoo trip retold in time order | Indonesia, English for Nusantara Kids Grade 6, Chapter 3, printed pp.67–94 (core pp.74–80) |
 | The book's printed irregular-past table — build–built, see–saw, light–lit, go–went, take–took, eat–ate — set under the camping email the past work builds on | Indonesia, English for Nusantara Kids Grade 6, Chapter 5, printed p.148 |
 | The Past Simple stated outright: regular verbs formed with -d/-ed/-ied, irregular verbs learned as wholes, with a table sorting the dialogues' verbs into the two classes | Indonesia, English for Nusantara Grade 8, Chapter 1, Unit 1, Language Focus, printed p.31 |

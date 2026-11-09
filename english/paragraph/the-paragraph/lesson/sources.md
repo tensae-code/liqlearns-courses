@@ -156,6 +156,8 @@ CITATION CHECK PASSED 2026-11-03).
 | A model paragraph set before the learner, then "WRITE A PARAGRAPH about your favourite…" — model first, own paragraph after | Bangladesh, English for Today Class 5 (as filed) |
 | Examination paragraphs of set length in the senior years (a paragraph of 150–180 words as a writing task) — the paragraph as the judged unit of writing | Egypt, Secondary writing tasks (as filed in the book map) |
 | A guided-writing ladder, one frame per unit, each fed by a read-and-match model paragraph on the facing page: write about your classroom, your classmate, your room, your family | China, English Grade 4 Volume 1, pp.9, 29, 43, 63 |
+| Read and write: read "What is in your schoolbag?" and write about your desk (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 2, printed p.19 |
+| Read and write: read a dinner dialogue and write "I'd like some…" sentences (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.53 |
 | A formal complaint letter set as the reading text, with the manager's reply to complete — connected prose of paragraph length with a real job to do | China, English Grade 6 Volume 2, Unit 2, pp.18–19 |
 | The series' first guided paragraph: a "My Busy Morning" text built on always + sequence words, as the writing outcome of the morning-routine chapter | Indonesia, English for Nusantara Kids Grade 4, Chapter 1, printed p.11 |
 | A simple descriptive paragraph about a person as a whole chapter's writing outcome, built on the chapter's describing work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed pp.13–56 |

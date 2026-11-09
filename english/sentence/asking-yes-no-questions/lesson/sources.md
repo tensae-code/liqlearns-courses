@@ -145,6 +145,8 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 50:** 7
 
+**Book 51:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -157,6 +159,9 @@ CITATION CHECK PASSED 2026-11-03).
 | Yes/no location guesses travelling with the Where question — "Where is my car? … Is it in the desk? — No. / Yes, it is." | China, English Grade 3 Volume 2, Unit 4, pp.36–45 (core pp.38–39, 41–43) |
 | A shelf of yes/no shapes in one volume: Is this/that …?, Do you have …?, Are these/those …? ("No, they aren't."), Is it …? for weather, Can I …? for permission | China, English Grade 4 Volume 2, pp.3–4, 7–8, 23, 24, 29, 38, 41, 48, 56, 58 |
 | Be-questions about people with short answers — "Is he young? No, he isn't. He's old. Is he funny? Yes, he is." — and "Do you often …?" for habits | China, English Grade 5 Volume 1, Unit 1, p.4; Unit 2, pp.12, 17 |
+| Location yes/no questions — "Where is she? Is she in the study? — Yes, she is. / No, she isn't." (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 4, printed p.38 |
+| Plural position questions — "Where are the keys? Are they on the table? — No, they aren't. They're on the fridge" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 4 Volume 1, Unit 4, printed p.41 |
+| Can-questions as a set — "Can you swim / cook / play ping-pong / play basketball / speak English? — Yes, I can. / No, I can't" (stocked 2026-11-08 by the re-verification sweep) | China — English (PEP) Grade 5 Volume 1, Unit 4, printed pp.41–42 |
 | Asking what a place has — "Is there a river in the park? — Yes, there is. / No, there isn't." and the plural twin "Are there any tall buildings in the nature park? — No, there aren't.", with count answers ("Are there any lakes on the mountain? — Yes, there is one."); six mixed Is there …? / Are there …? questions over one picture in the wrap-up | China, English Grade 5 Volume 1, Unit 6, pp.57–59, 61–62, 64 |
 | The does-type question as a system — "Does he live in Sydney? — No, he doesn't" / "Does Oliver do word puzzles every day? — Yes, he does" | China, English Grade 6 Volume 1, Unit 4, pp.40–41 |
 | Did-you…? frames over the staged past tense, regular verbs first | China, English Grade 6 Volume 2, Unit 2, pp.16–17 |
