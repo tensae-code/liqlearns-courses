@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India
 
 Every part traces to its book and page.
 
@@ -43,6 +43,30 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 14:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 15:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 16:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 17:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Idiom Tip: an idiom is a fixed multi-word expression whose meaning can't be deduced from its words — 'spring into action', 'Teamwork makes the dream work'; learners hunt five more hard-work idioms | Egypt, Secondary 11 Term 1, Unit 1, Lesson 1, SB p.13 (as filed in EGYPT-BOOK-MAP.md) |
@@ -64,5 +88,9 @@ colophon; cited once.
 | Collocations taught in the appreciation lesson | Iran, Vision 3 (Grade 12), Lesson 1, printed p.27 |
 | Proverbs in the renewable-energy lesson | Iran, Vision 3 (Grade 12), Lesson 3, printed pp.71–99 |
 | Everyday English collected: the words and phrases in English learners use every day, found on social networks, tabled to complete | Mexico, Grade 9, Project 19 "Social Media and Their Importance in the Transmission of Current Cultural and Artistic Manifestations", printed p. 175 |
+| Proverbs taught as a list (Old is gold; As you sow so shall you reap; Unity is strength; A friend in need is a friend indeed) | India — Marigold Book Five (Class 5), Unit 2 language work |
+| Phrases from a box used in sentences (out of luck, mystery, true to his word, chores, semester, between you and me, look up) — unknown words looked up in a dictionary | India — Honeysuckle (Class 6), Working with Language in Who Did Patrick's Homework?, printed p.11 |
+| Reading sentences for what they show — fear, pride in appearance, humour (idiomatic lines like "I was turned to stone") | India — Beehive (Class 9), Thinking about Language in The Snake and the Mirror, printed p.59 |
+| Words worked in About the Unit: borrowings enriching English; idiomatic/figurative expressions | India — Flamingo (Class 12), Working with words in The Last Lesson, printed pp.11–12 (About the Unit) |
 
-**Acceptance count: taught in 8 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico).** Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India).** India joins with proverbs taught as a list in Class 5, phrase work in Class 6, idiomatic lines read for what they show in Class 9, and borrowings worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with collocations and proverbs in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt defines the idiom outright and sends learners hunting more. Libya teaches collocations by matching at Grade 7, sorts make/do/have at Grade 12, and stocks do the washing-up / make a cake in its Grade 5 workbook. Sierra Leone teaches idioms and proverbs at every level — explain in own words, then write with them — and states that collocations follow no rule and must be memorised. Uzbekistan stocks a themed money-idiom set. China stocks the proverb as a running strand: one proverb inside the Grade 3 fruit unit, then a printed Proverbs appendix closing each book from Grade 5 up — six proverbs a book, gathered one per unit — and at Grade 9 names idioms inside a story, with a box teaching learners to spot them as they read (stocked 2026-11-08 by the re-verification sweep, which found these rows missing). Mexico's Grade 9 book collects the English words and phrases learners already use every day, found on social networks (stocked 2026-11-09 by the Mexico re-verification sweep merge).

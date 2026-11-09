@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China
+countries: Greece, Bolivia, China, India
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -31,6 +31,12 @@ READ + CITATION CHECK PASSED).
 
 **Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The course shape: 22 units plus 2 revision units in 5 thematic sections — A Hotel Services (Units 1–8, pp.23–148), B Food and Beverage Service (Units 9–15), C Tourist Services (Units 16–20), D Jobs and Business Correspondence (Units 21–23), E Tourism (Unit 24); a glossary of approximately 2,000 words (printed pp.373–412) | Greece, Hotel and Tourist Trade, prologue (printed p.7) and contents (printed pp.10–20) |
@@ -44,8 +50,10 @@ READ + CITATION CHECK PASSED).
 | Factory working tools and electrical tools — the mechanical set and the electrical set (voltmeter, ammeter, ohmmeter, multimeter, wire stripper, pliers, screwdrivers, soldering iron, oscilloscope, cable cutter…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 91–92 |
 | Toy and thing words as a first things set: cap, ball, car, boat, map, toy box | China — English (PEP) Grade 3 Volume 2, Unit 4, printed p.42 |
 | Material words as a set, inside the made-of unit: chopstick, coin, silver, steel, cotton (with fork, blouse, glass, grass, leaf) | China — English ("Go for it!") Grade 9, Unit 5, printed pp.33–38 |
+| Field-specific vocabulary worked: ironworks terms (maw, clatter etc.); culture-specific game names (Mjölis) and regional words for a small farmer | India — Flamingo (Class 12), Thinking about language in The Rattrap, printed pp.44–45 |
+| Working vocabulary of a field: legal-procedure vocabulary (deposition etc.) | India — Flamingo (Class 12), Working with words in Indigo, printed p.55 |
 
-**Acceptance count: taught in 3 countries (Greece, Bolivia, China).** This is
+**Acceptance count: taught in 4 countries (Greece, Bolivia, China, India).** India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and

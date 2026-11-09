@@ -207,6 +207,13 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 65:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -345,6 +352,9 @@ differ only in cover wording and colophon; cited once.
 | Cardinal numbers 0–50 | Mauritania, Study English, Grade 7, printed p.14 |
 | Saying and writing phone numbers digit by digit, and spelling surnames | Mauritania, Study English, Grade 7, printed pp.18–19 |
 | Scientific notation used for very large and very small quantities | Mexico, Grade 8, Project 9 "Large and Small Quantities", printed p. 74 |
+| A counting poem read whole: "One Little Kitten" (Carolyn Graham) — one kitten, two cats, three butterflies on to fifteen donkeys, feelings named inside it (sad, brave, happy, nervous) | India — Marigold (Class 1), Unit 3, printed pp.29–41 |
+| A counting story the book begins and children continue: "Counting Clouds" — one little cloud, two little clouds…; the child writes what the fifth and sixth clouds did | India — Marigold Book Two (Class 2), Unit 4 story-completion, printed pp.54–71 |
+| Counting in verse, read whole: "On My Blackboard I can Draw" — one house, one green door, two gates, three steps, four chimneys, five windows, six marigolds | India — Marigold Book Two (Class 2), Unit 7, printed pp.105–121 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried
@@ -360,7 +370,7 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 
 **Acceptance count: taught in 35 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico).** India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the

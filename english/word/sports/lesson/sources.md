@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India
 
 Every part traces to its book and page.
 
@@ -82,6 +82,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 16:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -102,9 +108,10 @@ colophon; cited once.
 | Extracurricular activities talk — the clubs and sports after class | Indonesia, English for Nusantara Grade 7, Chapter 5, printed p.219 |
 | The games project (Modified Games Factory): modify a game's rules and reflect on decision-making — “Think Before You Act” | Mexico, Grade 7, Project 8 "Think Before You Act: Games and Decision-Making", printed p. 70 |
 | The games-strategy project: strategies and creativity in modified target, striking, fielding and court games | Mexico, Grade 9, Project 9 "Building Creative, Tactical and Strategic Thinking", printed p. 80 |
+| A wordsearch as sports work: twelve cricket words hidden in a grid (over, boundary, stumps…) found from clues | India — Honeycomb (Class 7), Working with Language in The Story of Cricket, printed p.149 |
 
-**Acceptance count: taught in 8 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia).** Mexico carries the activity set inside its
+**Acceptance count: taught in 9 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India).** India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;

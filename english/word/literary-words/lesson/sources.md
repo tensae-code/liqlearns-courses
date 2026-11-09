@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -38,6 +38,18 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 10:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 11:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
@@ -55,8 +67,11 @@ cited once.
 | The vocabulary of the art-and-culture lesson's reading text | Iran, Vision 2 (Grade 11), Lesson 3, New Words & Expressions, printed pp.81–107 |
 | Writing genres and literature words: poetry, prose, article, short story, novel, play, genre | Mauritania, Study English, Grade 13, printed pp.11–12 |
 | The women's-history vocabulary set, matched to its definitions: suffrage, empowerment, activists, privilege, feminism, social movement, gender, sexism, patriarchy, equity | Mexico, Grade 7, Project 15 "Reconstructing the Unknown Past of Women", printed pp. 131–132 |
+| Language work in the Notes: Latin expressions commonly used in English; connotations; literal vs figurative meanings — cited from the book's Notes | India — Hornbill (Class 11), Language work in The Ailing Planet, printed p.49 (Notes) |
+| Literary devices identified in phrases from the text: hyperbole, metaphor, simile | India — Flamingo (Class 12), Thinking about language in Lost Spring, printed p.20 |
+| Words worked in About the Unit: metaphorical expressions | India — Flamingo (Class 12), Working with words in Going Places, printed p.88 (About the Unit) |
 
-**Acceptance count: taught in 8 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico).** Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 9 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India).** India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).

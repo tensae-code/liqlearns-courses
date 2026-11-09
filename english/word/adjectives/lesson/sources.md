@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -206,6 +206,24 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 70:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 71:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 72:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 73:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition as questions, and the rule that finds adjectives: "Adjectives tell us about the things – are they big, small, happy, sad? • Adjectives and nouns go together." | Libya, Grade 5 Pupils Book, Unit 6, "Let's check!" box |
@@ -370,8 +388,11 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | Adjectives for a trip — the evaluation set (beautiful, clean, safe, excellent, exciting, interesting, exceptional, delicious, dangerous, fascinating, marvellous, famous) and the classifying set (cold, warm, delicious, non-alcoholic) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 57 |
 | Qualifying adjectives — describing people and things with the position rules: before a noun, after to be | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 84 |
 | Adjectives for adventure — the adventure descriptor set in the compendium's presentation (exciting, amazing, astonishing, thrilling, incredible, wonderful, dangerous, risky, frightening, impressive) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 100 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| Describing words written for pictures from a list (beautiful, black, red, happy, tall, fat — a ___ woman, a ___ rose, a ___ peacock), beside th- say-aloud sets | India — Marigold Book Three (Class 3), Unit 2 Say aloud / Word building, printed pp.14–21 |
+| Describing words chosen for a person (thoughtful, hardworking, loving, honest, considerate, trustworthy, kind) | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
+| Language work in the Notes: picturesque phrases; uncommon adjectives; the predominant active voice in narration; guessing meanings of foreign words from context — cited from the book's Notes | India — Hornbill (Class 11), Language work in Silk Road, printed p.84 (Notes) |
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;

@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India
 
 Every part traces to its book and page.
 
@@ -49,6 +49,36 @@ Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 
 **Book 10:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 11:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 12:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 13:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 14:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 15:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Class 1 word-work run: suffixes s, es, ies, ed, ied, ing; prefixes (un-fair → unfair, dis-honest); roots; compound words; syllabication | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -61,9 +91,15 @@ Workbook 1 section, FULLY READ + CITATION CHECK PASSED).
 | The Grammar appendix, word-formation block: compounding (classroom, blackboard, worldwide, good-looking, overcome, fifty-four, everything); derivation with prefixes (un-, dis-, bi-, inter-, re-, tele-) and suffixes (-or/-er, -ist, -ese, -tion, -ful, -ing, -ed, -al, -able, -less, -ly); conversion (show → a show, water → to water, slow → to slow down, walk → a walk, look → a look); shortening (telephone → phone, airplane → plane, laboratory → lab, mathematics → math, advertisement → ad, examination → exam, influenza → flu; initial-letter words CD, CCTV, NBA, UFO, UN, USA, WWF) | China — English ("Go for it!") Grade 9, Grammar appendix, printed pp.153–155 |
 | Prefixes and suffixes: building words with word parts, as the lesson's vocabulary work | Iran, Vision 2 (Grade 11), Lesson 2, printed pp.49–79 |
 | Word part families: how words are built from their parts, in the dictionary lesson | Iran, Vision 3 (Grade 12), Lesson 2, printed pp.43–69 |
+| Three words made using the letters of a given word (blackboard → black, board, back; mother, vegetable, thousand, helicopter) | India — Marigold Book Three (Class 3), Unit 9 word building, printed pp.88–96 |
+| Letters unscrambled to form names of flowers (sweet pea, marigold, jasmine, lotus, mogra, dahila, phlox, pansy, hibiscus) | India — Marigold Book Four (Class 4), Unit 7 word building, printed pp.113–133 |
+| Nouns made from words by adding -ness or -ity | India — Honeysuckle (Class 6), Working with Language in How the Dog Found Himself a New Master!, printed p.22 |
+| Words used both as nouns and verbs (play, etc.) used appropriately in sentences | India — Honeysuckle (Class 6), Working with Language in A Game of Chance, printed p.104 |
+| A named language point in the teacher notes: forming nouns by adding -ness and -ity, and adverbs by adding -ly to adjectives — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 8–10 (Notes for the Teacher), printed pp.107–108 (unit notes) |
+| A spelling rule worked: "i" before "e" except after "c" — completing words with ie/ei (believe, receive, weird, seize, reign, grief, pierce…) and testing the rule | India — Beehive (Class 9), Thinking about Language in The Bond of Love, printed p.117 |
 
-**Acceptance count: taught in 7 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran).** Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 8 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India).** India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation

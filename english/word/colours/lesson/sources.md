@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India
 
 Every part traces to its book and page.
 
@@ -32,6 +32,12 @@ CITATION CHECK PASSED 2026-10-26).
 
 **Book 8:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 9:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six first colours — red, green, white, blue, black, yellow — with umbrella as the carrier word, and the pattern "What colour? Red and black." | Palestine, Grade 1 Part 2, Unit 12 "Colours," p.16 |
@@ -46,9 +52,10 @@ CITATION CHECK PASSED 2026-10-26).
 | The colour set as the classroom chapter's key words (red…) | Indonesia, English for Nusantara Kids Grade 3, Chapter 5 opener, printed p.115 |
 | The colours set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
+| The course's very first poem is a colour lesson: "A Happy Child" — a red house, a green tree, the sun; colour questions (the colour of the house, the tree, the sun) and happy/sad feelings work | India — Marigold (Class 1), Unit 1, printed pp.1–15 |
 
-**Acceptance count: taught in 5 countries (Palestine, Bolivia,
-Mongolia, Iran, Indonesia).** Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 6 countries (Palestine, Bolivia,
+Mongolia, Iran, Indonesia, India).** India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing

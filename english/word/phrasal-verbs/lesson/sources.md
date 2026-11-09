@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India
 
 Every part traces to its book and page.
 
@@ -43,6 +43,36 @@ PASSED 2026-11-03).
 
 **Book 12:** English for Schools — Vision 2, Grade 11 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 13:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 14:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 15:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 16:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 17:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phrasal verbs (1): the verb + particle idea, with the Remember box (go out, pass down, cut down on, run out of) and look around, come back, hand down, find out, take care of, get on with | Vietnam, Tiếng Anh 9, Unit 1, printed pp.8–17 |
@@ -65,9 +95,14 @@ PASSED 2026-11-03).
 | Separable phrasal verbs — clean up, pick up, cheer up, turn on, pay back, take off, try on, put on, turn off, figure out, call off, chop up, look up: the object can split verb and particle | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 27–28 |
 | Inseparable phrasal verbs — verb and particle cannot be split; 24 verbs with meanings (run into, come across, get along with, look after, put up with, turn down, put off, get through, go on, come up with, look for, get by, put in, get over, take in, come back, get away, take off…) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 22–23 |
 | Phrasal verbs as the lesson's See Also grammar | Iran, Vision 2 (Grade 11), Lesson 2, See Also, printed pp.49–79 |
+| Long phrases replaced with phrases from a box (look after, swallow, make it up, keep mum, go into, ease one's conscience, as ill luck would have it, a tight spot, take chances, my heart sank) | India — Honeysuckle (Class 6), Working with Language in Fair Play, printed p.92 |
+| Phrases with "look" studied and used (look after, look down on, look in on, look into, look out, look up, look up to) | India — Honeycomb (Class 7), Working with Language in Quality, printed p.78 |
+| Phrasal verbs with "break" matched to meanings — broke out, broke off, broke down, broke away, broke up, broke into | India — Beehive (Class 9), Thinking about Language in Kathmandu, printed p.130 |
+| Phrases with "fly" matched to meanings (fly a flag, fly into a rage, fly high, fly the coop); words meaning the same as fly (swoop, flit, flutter, glide, soar…) | India — First Flight (Class 10), Language in Two Stories about Flying, printed p.41 |
+| Language work in the Notes: "ship" terms as homonyms; compound words with "-ship"; phrasal verbs; English words derived from Indian languages — cited from the book's Notes | India — Hornbill (Class 11), Language work in We're Not Afraid to Die, printed p.21 (Notes) |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Cambodia, Mongolia, Sudan, Vietnam, Iran).** Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 7 countries (Bolivia,
+Cambodia, Mongolia, Sudan, Vietnam, Iran, India).** India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and

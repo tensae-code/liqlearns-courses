@@ -76,6 +76,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 18:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather outcomes: name weather conditions; describe weather with adjectives; express temperature (hot, cold, warm, cool, high, low, freeze, degrees); ask/answer weather questions | Albania, Akelius A2 Guide, Chapter 32 "The weather," overview, printed p.16 (PDF 19) |
@@ -104,9 +110,11 @@ covers the 6th Year book only).
 | Seasons and weather talk: the seasons and the weather words asked as "What's the weather like in…? — It's sunny" and "Is it cold in winter? — Yes, it is" | Iran, Prospect 2 (Grade 8), Lesson 6 "My Village," weather strand, printed pp.48–53 |
 | The village, seasons and weather set practised in reading and writing exercises, including making weather flashcards | Iran, Prospect 2 Workbook (Grade 8), Lesson 6, printed pp.31–40 (workbook mirror of the student lesson) |
 | The season words — spring, summer, autumn/fall, winter (a vocabulary list only) | Mauritania, Study English, Grade 7, printed p.45 |
+| Poem read whole: "Clouds" — little clouds come on a hot day and bring rain, and everyone sings and dances; the seasons in India named as hot and cold | India — Marigold (Class 1), Unit 9, printed pp.98–109 |
+| Weather and season words worked from a diary text: downpour, floods, mist, cloudy, power cuts, cold, umbrella… sorted and used | India — Honeydew (Class 8), Working with Language in A Short Monsoon Diary, printed p.114 |
 
 **Acceptance count: taught in 10 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania).** Albania —
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania).** India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday

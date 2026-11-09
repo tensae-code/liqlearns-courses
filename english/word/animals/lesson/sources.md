@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -169,6 +169,19 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 
 **Book 56:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 57:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 58:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The farm dialog (Noor and Ziad): "Look at the cow!" — "The cow is big." — "The duck is small." — "Do you see the horse?" — "The chicken is small." — "I love farm animals!" | Egypt, Primary 1 Term 1, Unit 5 "On the Farm," Lesson 1, p.85 |
@@ -283,9 +296,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 2 section, FULLY READ + C
 | Animals: the domestic set and the wild set (squirrel, owl, tiger, fox, monkey, koala, crocodile, lion, giraffe, dog, elephant, cat, hen, toad, cougar, wild pig, zebra) | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.27–32 |
 | Types of animals: farm animals (pig, sheep, horse, goat, cow, bull, rabbit, hen, duck) and wild animals (zebra, tiger, monkey, giraffe, snake, lion, elephant, hippo). Book error noted: “pinguin” printed for penguin in the same book (p.16) | Bolivia, Texto de Aprendizaje (English), Grade 2 (Primaria 2) student book, printed pp.19–20 |
 | Animals of my town, classified: domestic, farm, animals from the highlands, animals from tropical areas, insects/birds/aquatic | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.21 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+| Animal sounds in verse, read whole: "Strange Talk" — the frog says croak-croak, the duck quack-quack, the pig wee-wee, the pups bow-wow | India — Marigold Book Two (Class 2), Unit 10, printed pp.160–174 |
+| Animals matched with their sounds (horse neighs, dog barks, sheep bleats, cat mews, elephant trumpets, tiger roars, cow moos) and with their young ones (horse/colt, dog/puppy, cat/kitten, cow/calf, pig/piglet, tiger/cub, sheep/lamb, goat/kid, duck/duckling); animals sorted into Domestic and Wild | India — Marigold Book Three (Class 3), Unit 7 word work, printed pp.67–72 |
+| "The Ship of the Desert" (S. K. Ram): the Lion questions the Camel — food stored in its hump, 200 bottles of water drunk at a time, thorny bushes eaten with its thick tongue, thick padded feet for hot sand (plot summary only) | India — Marigold Book Three (Class 3), Unit 10, printed pp.97–108 |
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries

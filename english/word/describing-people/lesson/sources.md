@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -91,6 +91,24 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 22:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 23:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 24:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -118,9 +136,12 @@ differ only in cover wording and colophon; cited once.
 | Character and personality: what is he/she like — sociable, humble, open-minded, easy-going, nervous, and their opposites | Mauritania, Study English, Grade 9, printed pp.13–16 |
 | The Identity project: a mural of the different ways of being a teenager — describing people as identity and inclusion | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed p. 20 |
 | The Portraits project: portraiture from the Nacho López photographic library used to describe people and to work against discrimination | Mexico, Grade 8, Project 2 "You, Me, Us… Portraits as Reflections of Other Worlds", printed p. 20 |
+| A discussion text read whole: "Class Discussion" (Gervase Phinn) — Jane hardly says a word; she is quiet by nature; the unit teaches what a discussion is and describing people's nature (naughty, lively, sharing, studious, quiet, friendly, helpful, cheerful) | India — Marigold Book Five (Class 5), Unit 6, printed p.94 |
+| People described in a paragraph each: Gerrard and the Intruder, using given character words (smart, witty, nonchalant…); the play converted into a story of 150–200 words | India — Beehive (Class 9), Writing in If I Were You, printed p.145 |
+| A description written: a person or animal you know well and love (what they do, what they feel) | India — First Flight (Class 10), Writing in Mijbil the Otter, printed p.114 |
 
-**Acceptance count: taught in 10 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico).** Cambodia carries the
+**Acceptance count: taught in 11 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India).** India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in

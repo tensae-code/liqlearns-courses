@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -202,6 +202,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 65:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -331,8 +337,9 @@ covers the 6th Year book only).
 | Adverbs of manner (-ly; good→well, hard, fast), over the same global-warming text as the Grade 9 book | Mauritania, Study English, Grade 10, printed pp.16–18 |
 | Frequency adverbs and their position: before ordinary verbs, after be, between auxiliary and main verb; how often…? | Mauritania, Study English, Grade 10, printed pp.38–40 |
 | Adverbs of manner (adjective + -ly) for describing people and actions | Mauritania, Study English, Grade 11, printed pp.21–23 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania).**
+| Adverbs as named work: adjectives + -ly (completely, awfully, sorrowfully, nonchalantly…), found in the story and used in sentences | India — Beehive (Class 9), Thinking about Language in The Fun They Had, printed p.9 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India).** India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move

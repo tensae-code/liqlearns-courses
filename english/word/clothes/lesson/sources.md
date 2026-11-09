@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China
+countries: Bolivia, Cambodia, Mongolia, China, India
 
 Every part traces to its book and page.
 
@@ -32,6 +32,12 @@ CHECK PASSED 2026-10-26).
 
 **Book 7:** *Compulsory Education Textbook · English (PEP), Grade 4 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2013, ISBN 978-7-107-27387-2. Filed in english/books/china.md (China — English Grade 4 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Typical clothes of the regions (Altiplano colourful for cold; valleys/oriental white for hot), clothes and colours taught together; production: a wallpaper of typical clothes of your region; closing model text "Typical clothes from my region" (the tipoy dress) | Bolivia, Year 1 (Grade 7), Topic 6 "Typical clothes," student p.173 |
@@ -47,9 +53,10 @@ CHECK PASSED 2026-10-26).
 | Clothes action phrases — put on your shirt, take off your hat, hang up your dress, wash your skirt, put away your pants | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.49 |
 | Choosing clothes to wear — "I want to wear my blue pants / my yellow dress" | China — English (PEP) Grade 4 Volume 2, Unit 5, printed p.52 |
 | Shop goods named inside the clothes book: gloves, scarf, umbrella, sunglasses | China — English (PEP) Grade 4 Volume 2, Unit 6, printed p.59 |
+| Clothes words matched to pictures (shirt, socks, cap, trousers, belt, shoes), in the bath poem's unit | India — Marigold (Class 1), Unit 2 word work, printed pp.16–28 |
 
-**Acceptance count: taught in 4 countries (Bolivia, Cambodia,
-Mongolia, China).** Bolivia carries the set as typical regional
+**Acceptance count: taught in 5 countries (Bolivia, Cambodia,
+Mongolia, China, India).** India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit

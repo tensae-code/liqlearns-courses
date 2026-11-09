@@ -131,13 +131,19 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 **Book 46:** English for Schools — Vision 3, Grade 12 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
 
+**Book 47:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a dictionary gives — spelling, pronunciation, meaning, word class; examples printed in italics; synonyms and antonyms given; words made by prefixes and suffixes; a verb shown in its simple present tense with past form and past participle — taught on a reproduced dictionary page for 'fit' (fit → fitful, fitment, fitness, fitness centre, fitted, fitter, fitting, fixture) with sentence matching | Bangladesh, English for Today Class 8, Unit Four "Check Your Reference," Lesson 2 "Using a Dictionary," pp.36–38 |
 | Alphabetical order explained — words by first letter, then the next (dark, deep, doctor); guide words at the top of the page; arrange word sets in order; find the words between 'tea' and 'technique'; state the dictionary order of the fit-family list | Bangladesh, Class 8, Unit Four, Lesson 3 "Looking Up Words in a Dictionary," pp.39–40 |
 | A word may have more than one meaning — 'dry' given three (not wet; with very little rain; not interesting); synonyms and antonyms DEFINED (same or almost the same / the opposite); find two meanings each for the fit family | Bangladesh, Class 8, Unit Four, Lesson 4 "Meanings of Words," pp.40–41 |
 | Synonyms and antonyms worked as pairwork with matching tables (handy–useful, mend–fix, damage–harm, jealous–envious, annoy–irritate, view–sight…) | Bangladesh, Class 8, Unit Four, Lesson 5 "Synonyms and Antonyms," pp.40–42 |
-| A Picture Dictionary at the back of the book — the alphabet as a finding tool, words in letter order with their pictures — carried by every Marigold year (Class 1: pp.121–122; Class 2: pp.175–176) | India, Marigold Book One and Book Two, Picture Dictionary sections |
+| A Picture Dictionary at the back of the book — the alphabet as a finding tool, words in letter order with their pictures — carried by the first two Marigold years only (Class 1: pp.121–122; Class 2: pp.175–176); Marigold Books Three, Four and Five close without one (wording corrected 2026-11-09 by the India re-verification sweep merge: this row earlier claimed the Picture Dictionary was "carried by every Marigold year"; the sweep's fresh read found one in Classes 1 and 2 only) | India, Marigold Book One and Book Two, Picture Dictionary sections |
 | The book's own Dictionary at the back — the year's words A–W with meanings, pp.178–184, after the Grammar Reference | Mongolia, English X, back matter (contents p.5; filed in the Grade 10 filing) |
 | The book's own finding tools, modelled for the learner: per-unit word lists, then an A–Z vocabulary with IPA and the page each word is taught on — with the two-tier mastery note (bold = listen, speak, read, write; plain = recognise); "dictionary" itself is a taught word in the book | China, Grade 6 Volume 1, back matter, pp.72–78 (the word "dictionary," p.27) |
 | Looking words up taught as a learner's habit: a "Using Dictionaries" sidebar inside the reading on how to become a successful learner, beside the first unit's own dictionary work in its story of learning English | China, Grade 9, Unit 1, Section B reading, p.6 |
@@ -204,9 +210,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 1 section, FULLY READ + 
 | A workbook-only reading, "Hints for learning a language better": extra learning outside class, dictionary use ("A dictionary is your best friend") and day-to-day improvement hints — facts only | Iran, Vision 2 Workbook (Grade 11), Lesson 1, Part I Reading, printed pp.10–12 (workbook-only text; not in the student book) |
 | The vocabulary of the dictionary lesson's reading | Iran, Vision 3 (Grade 12), Lesson 2 "Look it Up!," New Words & Expressions, printed pp.43–69 |
 | A workbook-only reading on dictionaries: what a dictionary is, alphabetical order, "dictionary" from the Latin "dictio," dictionary types, IPA pronunciation information, bilingual volumes — and "pajamas", "bazaar" and "paradise" entering English from Persian — facts only | Iran, Vision 3 Workbook (Grade 12), Lesson 2, Part I Reading, printed pp.28–30 (workbook-only text; not in the student book) |
+| Dictionary work on many meanings: the many meanings/uses of erupt, surge, trace, undistinguished, casualty in a dictionary, with examples | India — Beehive (Class 9), Thinking about Language in My Childhood, printed p.73 |
 
 **Acceptance count: taught in 22 countries (Bangladesh, India,
-Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** Bangladesh
+Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia

@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
 
 Every part traces to its book and page.
 
@@ -149,6 +149,12 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 48:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -243,9 +249,10 @@ covers the 6th Year book only).
 | The kitchen and its utensils as a vocabulary set | Indonesia, English for Nusantara Kids Grade 5, printed p.33 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Household activities — the chores vocabulary of the home unit | Indonesia, English for Nusantara Grade 7, Chapter 3 "Home Sweet Home," printed p.117 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The house — rooms and household objects; there is; do/does … have? questions | Mauritania, Study English, Grade 7, printed pp.25–26 |
-**Acceptance count: taught in 33 countries (Egypt, Libya,
+| Parts of a house named and coloured (roof, door, windows, walls, floor, plants, dustbin) | India — Marigold (Class 1), Unit 4 word work, printed pp.42–52 |
+**Acceptance count: taught in 34 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set

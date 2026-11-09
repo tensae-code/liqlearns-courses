@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -116,6 +116,12 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 38:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 39:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The body unit set: head, hand, finger, leg, face, nose, mouth — taught by "Listen and touch" on the child's own body (numbers 7–10 traced alongside) | Palestine, Grade 1 Part 1, Unit 4 "My body," p.22 |
@@ -197,8 +203,9 @@ english/books/jordan.md (Grade 2 Pupil's Book Semester 1 section, FULLY READ + C
 | The body passage exercised line by line: fill-in-the-blanks and short answers drawn straight from the passage, under the passage's own close — the body should be kept clean | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Seven, printed p.29 (the picture opener at p.27) |
 | My body: hair, head, eye, ear, mouth, shoulder, nose, arm, stomach, elbow, hand, fingers, knee, leg, foot | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.22–24 |
 | The parts of the body as a chapter's own set — eyes, nose, ears | Indonesia, English for Nusantara Kids Grade 4, printed p.107 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 32 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia).**
+| A body poem read whole: "Noses" (Aileen Fisher) — the nose is the funniest thing, stuck out in the middle of the face with two holes where the breathing goes | India — Marigold Book Four (Class 4), Unit 2, printed pp.17–36 |
+**Acceptance count: taught in 33 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India).** India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the

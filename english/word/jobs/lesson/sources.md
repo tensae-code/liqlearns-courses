@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India
 
 Every part traces to its book and page.
 
@@ -68,6 +68,24 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 
 **Book 20:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 21:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 22:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 23:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -100,9 +118,12 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 | A workbook-only reading, "Who is a scientist?": what scientists do and who counts as one — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 3, Part I Reading, printed pp.44–45 (workbook-only text; not in the student book) |
 | Jobs and opening times in the services lesson: "What's her job? She's an employee"; "What time does it open? It opens at 8 in the morning" | Iran, Prospect 3 (Grade 9), Lesson 4 "Services," printed pp.63–75 |
 | The jobs of the school itself — teacher, librarian — the staff set of a primary chapter | Indonesia, English for Nusantara Kids Grade 3, printed p.152 |
+| Jobs matched to people: a person who sails a ship, flies a spaceship, draws or paints, checks teeth, brings letters, works in school, makes sick people well, flies an aeroplane (sailor, astronaut, artist, dentist, postman, teacher, doctor, pilot) | India — Marigold (Class 1), Unit 10 word work, printed pp.110–120 |
+| People who help us matched to their work (postman brings our letters, cobbler mends our shoes, librarian works in a library, driver, dramatist, teacher, nurse, musician, astronaut, clown), and new words made by adding -ful, -ly, -ish (playful, beautiful, lovely, slowly, childish, foolish, babyish) | India — Marigold Book Three (Class 3), Unit 8 Let's write / Word building, printed pp.79–86 |
+| Jobs matched to what they do (navigator, architect, politician, counsellor…) and careers columns read (adventurous/creative/thinker types) | India — Honeysuckle (Class 6), Working with Language in Who I Am, printed p.76 |
 
-**Acceptance count: taught in 8 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia).** Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 9 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India).** India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary

@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -83,6 +83,13 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 18:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -112,9 +119,10 @@ colophon; cited once.
 | The healthcare catalogue project: the tools, machines and instruments of healthcare, and how they extend what human bodies can do | Mexico, Grade 8, Project 14 "Use of Tools, Machines, and Instruments in the Healthcare Field", printed p. 110 |
 | The blood-types project: researching blood types in the community, probability and transfusions, with a blood-donation campaign | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 98 |
 | The healthy-habits project: experiencing and presenting active, healthy habits | Mexico, Grade 9, Project 16 "Experience Active and Healthy Habits", printed p. 146 |
+| A daily-routine song as health teaching: "Brush, brush, brush your teeth" — the whole family brushes every day | India — Marigold Book Two (Class 2), Unit 1, printed pp.1–19 |
 
-**Acceptance count: taught in 10 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico).** Albania carries the symptom set as a
+**Acceptance count: taught in 11 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India).** India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the

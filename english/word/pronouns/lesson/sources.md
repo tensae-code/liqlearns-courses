@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -191,6 +191,25 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 62:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 63:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 64:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The set's title and every plain definition, kept in the book's own words: "Personal Pronouns — Words We Use Instead of Names" — I: "When you talk about yourself" · he: "When you talk about a boy or a man" · she: "When you talk about a girl or a woman" · it: "When you talk about an animal or a thing" · we: "When you talk about yourself and others together" · they: "When you talk about more than one person, animal, or thing" · you: "When you talk to one person or to a group" | Egypt, Primary 1 Term 2, p.27 |
@@ -317,8 +336,11 @@ cited once.
 | Demonstratives this/that (near/far) and these/those | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.14 |
 | Subject pronouns I/you/he/she/it introduced, with the wh-words how/what/where | Mauritania, Study English, Grade 7, printed pp.11–12 |
 | The subject-pronoun and object-pronoun tables set out whole (I/me, you, he/him, she/her, it, we/us, they/them) | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed p. 25 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico).** Egypt
+| Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
+| The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
+| Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya

@@ -1,6 +1,6 @@
 # Sources — Choosing your register
 
-countries: Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico
+countries: Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India
 
 Every part traces to its book and page.
 
@@ -27,6 +27,12 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 8:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Register named in the book's own question — 'How would the register (or way of speaking)…' — where a policeman's way of speaking is set against a naughty boy's, in the dialogue weeks | South Africa, English HL Grade 6 Workbook 1, printed p.53 |
@@ -39,5 +45,6 @@ cited once.
 | The online half of manners: "Etiquette Netiquette" — online manners | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Ten, Lesson 2, printed p.178 (stocked 2026-11-08 by the re-verification sweep) |
 | Register taught as an article: "Could You Please…?" — direct questions set against polite requests, changing how you speak to different people, the longer polite forms ("Could you please…?", "May I ask…?", "Excuse me, I wonder if you can help me") | China — English ("Go for it!") Grade 9, Unit 3, printed p.22 |
 | Slang named as slang: Mexican chido and chamba set beside English “ain't” and “let's bounce” — the informal words learners meet, marked as informal | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 81 |
+| Register chosen by ear: colloquial/teenage slang in the story ("chuffed", "nosey", "gawky") — list ten more such words | India — Flamingo (Class 12), Thinking about language in Going Places, printed p.87 |
 
-**Acceptance count: taught in 7 countries (Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico).** South Africa names register in a workbook question and works it through dialogues. Uzbekistan teaches formal/informal style through invitations, pair words and a deliberately mixed letter to fix. Barbados rules the dialect question in its syllabus: discriminate by place and circumstance, and build the switch (syllabus evidence, worded as such). Jordan stocks the two soft tools — hedging as a writing skill and vague language as a named set. Bangladesh teaches manners themselves as the senior register work — etiquette around the world and netiquette online (added 2026-11-08 by the re-verification sweep). China teaches the switch itself — say it directly or say it politely, and change it for the person in front of you (added 2026-11-08 by the re-verification sweep). Mexico names slang as slang — chido and chamba set beside “ain't” and “let's bounce”, informal words marked as informal (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Barbados, Jordan, South Africa, Uzbekistan, Bangladesh, China, Mexico, India).** India joins with colloquial and teenage slang listed from the story in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). South Africa names register in a workbook question and works it through dialogues. Uzbekistan teaches formal/informal style through invitations, pair words and a deliberately mixed letter to fix. Barbados rules the dialect question in its syllabus: discriminate by place and circumstance, and build the switch (syllabus evidence, worded as such). Jordan stocks the two soft tools — hedging as a writing skill and vague language as a named set. Bangladesh teaches manners themselves as the senior register work — etiquette around the world and netiquette online (added 2026-11-08 by the re-verification sweep). China teaches the switch itself — say it directly or say it politely, and change it for the person in front of you (added 2026-11-08 by the re-verification sweep). Mexico names slang as slang — chido and chamba set beside “ain't” and “let's bounce”, informal words marked as informal (stocked 2026-11-09 by the Mexico re-verification sweep merge).

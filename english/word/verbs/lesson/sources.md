@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -146,6 +146,12 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 
 **Book 53:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 54:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The formal definition in words: "Verb: A verb is a word that expresses an action." — in the same box that defines noun and pronoun and names the three "parts of speech" | Bangladesh, English for Today Class 3, "Joyful school time 2," GRAMMAR FOCUS box, pp.68–71 |
@@ -261,8 +267,10 @@ english/books/jordan.md (Grade 10 Student's Book Semester 1 section, FULLY READ 
 | Irregular verbs: matching base forms to past simples | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p.51 |
 | A ten-group irregular verb list with past simple AND past participle (begin/began/begun … become/became/become) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p.55 |
 | An action verbs list (to visit, go, eat, drink, take, buy, come, travel, fly, climb, dance, run) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p.78 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| Action words found inside a poem read whole: "How Creatures Move" — the lion walks, the squirrel leaps, flies crawl, seals dive and swim, the worm wiggles, the monkey swings; the poem's action words are underlined in the book | India — Marigold Book Three (Class 3), Unit 10, printed pp.97–108 |
+| Creatures matched to their movement words (lions walk, squirrels leap, flies crawl, seals dive, worms wiggle, monkeys swing, birds hop) and movement words arranged from slow to fast (walk…run) | India — Marigold Book Three (Class 3), Unit 10 word work, printed pp.97–108 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;

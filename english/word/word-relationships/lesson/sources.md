@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India
 
 Every part traces to its book and page.
 
@@ -69,6 +69,42 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 12:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 13:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 14:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 15:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 16:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 17:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -90,9 +126,19 @@ colophon; cited once.
 | Synonyms and antonyms named as taught content for describing things, in the guide's Unit Eight content list (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.25 |
 | The Identity Handbook project: a scrapbook of the words and phrases that give a person identity | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed p. 96 |
 | A reading on how Indigenous languages shaped Spanish: Náhuatl, Zapotec, Purépecha and Maya loanwords (topic summary only) | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 62 |
+| Rhyming pairs from a box (found/sound, cold/bold, took/look, sand/hand, mummy/tummy) and opposite words filled in from a box (hot, short, straight, soft, small, outside) | India — Marigold Book Three (Class 3), Unit 4 word building, printed pp.34–42 |
+| Words that sound the same but are spelt differently and mean differently, each used in a sentence (i/eye, week/weak, in/inn, no/know, not/knot, of/off, bye/by, our/hour, need/knead, see/sea, here/hear, eight/ate, two/too) | India — Marigold Book Three (Class 3), Unit 10 Say aloud, printed p.107 |
+| One word, many meanings: the word "tip" matched to its uses (finger tips, tip of your nose, tip the water out, on the tip of your tongue, tip the boat over, tip him a rupee, tip of the bat, police were tipped off) | India — Honeycomb (Class 7), Working with Language in Expert Detectives, printed p.93 |
+| Synonyms as named work: glad, happy, pleased, delighted, thrilled, overjoyed — words closely related in meaning | India — Beehive (Class 9), Thinking about Language in The Little Girl, printed p.36 |
+| Choosing the word that substitutes for a word in the text (faltered = became weak; at odds = in disagreement; proclaimed = declared) | India — Beehive (Class 9), Thinking about Language in A Truly Beautiful Mind, printed p.49 |
+| Confusable word pairs chosen correctly (site/cite, principle/principal, continuously/continually, affect/effect, artist/artiste, collage/college, host/hoist) | India — Beehive (Class 9), Thinking about Language in If I Were You, printed p.143 |
+| Homophones in the Mandela chapter's language work — words spelt/pronounced alike with different meanings (wound/wound; desert his dessert) checked in a dictionary; the chapter also carries the heteronym exercise ("The bandage was wound around the wound…") | India — First Flight (Class 10), Language in Mandela chapter, printed p.28 |
+| Homophones in the play's language work (too close / to close; present the present) checked in a dictionary; the unit also carries the heteronym exercise ("too close to the door to close it…") | India — First Flight (Class 10), Language in The Proposal, printed p.161 |
+| Common words worked in the Notes: different uses of "tell" and "take"; words for ways of walking; semantically related word groups (dictionary enrichment) — cited from the book's Notes | India — Hornbill (Class 11), Working with words in The Portrait of a Lady, printed p.10 (Notes) |
+| Words worked in About the Unit: synonyms chosen to reflect personal attitudes | India — Flamingo (Class 12), Working with words in The Rattrap, printed p.45 (About the Unit) |
 
-**Acceptance count: taught in 8 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 9 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India).** India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded

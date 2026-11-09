@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India
 
 Every part traces to its book and page.
 
@@ -35,6 +35,24 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 7:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 9:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 10:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1, Lesson 5 "Time": compound words (foot+ball, hour+glass, sun+dial…) inside the sundials/water-clock/hourglass reading | Sudan, SMILE Book 7 (Grade 7), Unit 1, Lesson 5, printed pp.1–8 |
@@ -44,9 +62,12 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Compound nouns named as the chapter's grammar focus | Albania, A2 Chapter 35 "Going to the doctor," grammar focus, printed p.32 |
 | Sports compound nouns in the Grade 9 year's spine, at Unit 3 "Sports and fitness" | Mongolia, English IX (Grade 9), Unit 3, printed p.34 (year's spine as filed) |
 | Compound words worked as vocabulary building — coffee shop, cell phone and their set | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.20 |
+| Two words made from one word: butterfly → butter + fly; everywhere, inside, outside, sunlight | India — Marigold Book Three (Class 3), Unit 5 word building, printed p.51 |
+| Compound words made in the unit — moon + light = moonlight, break + fast = breakfast, good + night, day + break, water + fall, rain + bow — with opposites found in the poem | India — Marigold Book Four (Class 4), Unit 5 word building, printed pp.73–90 |
+| Language work in the Notes: adjectival collocations; common medical terms; extinction of language and language preservation — cited from the book's Notes | India — Hornbill (Class 11), Language work in Discovering Tut, printed p.30 (Notes) |
 
-**Acceptance count: taught in 6 countries (Albania,
-Barbados, Mongolia, Sudan, Vietnam, China).** Sudan carries the
+**Acceptance count: taught in 7 countries (Albania,
+Barbados, Mongolia, Sudan, Vietnam, China, India).** India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar

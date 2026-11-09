@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -152,6 +152,25 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 54:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 55:** Marigold Book Two — Textbook in English for
+Class II — India, NCERT (this scan's prelims are stamped
+2020-21, its content pages footer-stamped 2019-20). Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 56:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 57:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in its three-sort form: "Nouns — person, place, thing," taught with the "Life in the City" text (Karim) and sorting work | Egypt, Primary 2 Term 2, Unit 4, Lesson 3 "Language in Use," p.68 |
@@ -284,8 +303,11 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Compound nouns as a named grammar focus, with the printed example set — lunchbox, classroom, sunglasses, haircut, bedtime, bedroom | Albania, *Akelius A2 Level* teacher's guide, Chapter 35 overview, printed p.32 |
 | Singular and plural of objects, in the book's own four rules: add -s; add -es (the book says after CH/SH/X/SS); irregular vowel change (man/men, woman/women); -y → -ies (baby/babies, candy/candies). The book's Spanish explanation of the -es rule mis-states it — taught corrected | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.20–21 |
 | Singular and plural nouns, with transport vocabulary (bus, car, bike, truck, train, plane, boat); plural rules +s, +es after s/ss/sh/ch/x/z, consonant + o + es (heroes, tomatoes, potatoes as printed); to-be yes/no questions with short answers | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.27–28 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| Singular to plural as word work: bench, brush, glass, box, bus, tomato, deer, sheep | India — Marigold Book Two (Class 2), Unit 8 word work, printed pp.122–140 |
+| Opposites matched (downward/upward, slowly/fast, little/big, slender/fat, mighty/weak, day/night) and One and Many columns (carrot/carrots, turnip/turnips, potato/potatoes, tomato/tomatoes, onion/onions) | India — Marigold Book Three (Class 3), Unit 3 word work, printed pp.25–32 |
+| Collective nouns taught as a set — a herd of cows, fleet of ships, brood of chicks, bundle of sticks, bunch of flowers, pack of wolves, flock of sheep, school of fish | India — Honeysuckle (Class 6), Working with Language in How the Dog Found Himself a New Master!, printed p.22 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China

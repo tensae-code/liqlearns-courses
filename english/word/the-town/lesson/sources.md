@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -145,6 +145,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 54:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 55:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -246,8 +252,9 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | The school's own facilities as a vocabulary set — classroom, library, canteen | Indonesia, English for Nusantara Kids Grade 3, printed p.92 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Places at school — library, school yard | Indonesia, English for Nusantara Kids Grade 4, printed p.94 (stocked 2026-11-09 by the re-verification sweep merge) |
 | School buildings — the facilities vocabulary of the school chapter | Indonesia, English for Nusantara Grade 7, Chapter 5 "This Is My School," printed p.205 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 31 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
+| A town poem read whole: "Sing a Song of People" (Lois Lenski) — city people walking fast or slow, on sidewalks, buses, subways, taxis and elevators, with hats and umbrellas | India — Marigold Book Five (Class 5), Unit 9, printed p.148 |
+**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;

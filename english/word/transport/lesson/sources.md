@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India
 
 Every part traces to its book and page.
 
@@ -55,6 +55,12 @@ lesson is reproduced.
 
 **Book 12:** English for Schools — Vision 1, Grade 10 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 13:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transport: car, bus, bike, van, taxi — Pattern: "How many taxis? Five taxis," counting combined objects ("How many taxis and bikes?"), first whole-word writing (v_an, _ike, _axi, _ar, _us) | Palestine, Grade 1 Part 2, Unit 11 "Transport," p.10 (writing p.15) |
@@ -74,9 +80,10 @@ lesson is reproduced.
 | Finding a good tourist destination, as a conversation | Iran, Vision 1 (Grade 10), Lesson 4 "Traveling the World," Conversation, printed pp.97–119 |
 | The tourism word set: tourism, destination, attractions and the reading's vocabulary | Iran, Vision 1 (Grade 10), Lesson 4, New Words & Expressions, printed pp.97–119 |
 | A workbook-only reading, "How to be a good traveler": read about attractions before travel, learn local words, respect local people and holy places, protect nature — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 4, Part I Reading, printed pp.62–63 (workbook-only text; not in the student book) |
+| Means of transport sorted into Land, Air and Water (bus, car, train, bicycle, truck / aeroplane, helicopter / ship, boat, steamer) | India — Marigold Book Three (Class 3), Unit 6 word building, printed p.55 |
 
-**Acceptance count: taught in 7 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran).** Albania — teacher-guide evidence —
+**Acceptance count: taught in 8 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India).** India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
