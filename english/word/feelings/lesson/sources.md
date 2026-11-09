@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia
 
 Every part traces to its book and page.
 
@@ -34,6 +34,10 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *English for Nusantara Kids*, Grade 6 (Kelas VI) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-245-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -46,9 +50,11 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Feeling words as a whole unit — happy, sad, angry, afraid, worried, excited, ill, with "How do you feel?" | China — English (PEP) Grade 6 Volume 1, Unit 6, printed p.58 |
 | Feelings by weather and by mood — the unit's closing set ("hot day, cold weather, happy, sad, angry, worried, excited") | China — English (PEP) Grade 6 Volume 1, Unit 6, printed pp.66–67 |
 | The sad-movie unit whole: "Sad movies make me cry", crying/laughing, sad–happy, bored, interested, scared, relaxed — feelings worked through film and music | China — English ("Go for it!") Grade 9, Unit 11, printed pp.65–70 |
+| Talking about feelings — "Are you (sad)?" — the feelings check of the body chapter | Indonesia, English for Nusantara Kids Grade 4, printed p.117 |
+| Expressing your feelings about after-school club activities | Indonesia, English for Nusantara Kids Grade 6, printed p.129 |
 
-**Acceptance count: taught in 5 countries (Albania, Bolivia,
-Mexico, Mongolia, China).** Bolivia carries the widest single
+**Acceptance count: taught in 6 countries (Albania, Bolivia,
+Mexico, Mongolia, China, Indonesia).** Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -61,5 +67,9 @@ cause frame. China carries a whole feelings unit in
 Grade 6 ("How do you feel?") and at Grade 9 works the
 feelings through film and music — "Sad movies make me
 cry" (stocked 2026-11-08 by the re-verification sweep).
+Indonesia asks "Are you (sad)?" in its Grade 4 book and
+has learners express their feelings about club activities
+in Grade 6 (stocked 2026-11-09 by the re-verification
+sweep merge).
 Other closed countries join as their books
 are read (see READING-QUEUE.md).

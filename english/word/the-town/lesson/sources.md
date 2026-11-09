@@ -139,6 +139,12 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 51:** English for Schools — Prospect 3, Grade 9 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 52:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 53:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 54:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -237,6 +243,9 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Relevant places — the same relevant-places set in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 72 |
 | A village described and located beside the city lesson: "It's a mountain village," famous for its sunflower fields, in West Azerbaijan (the book prints "West Azarbaijan" on its Map and in the lesson; taught corrected) | Iran, Prospect 2 (Grade 8), Lesson 6 "My Village," printed pp.48–53 |
 | Services talk: the service set (hire, recharge, emergency…) with jobs and opening times — "What time does it open? — It opens at 8 in the morning" | Iran, Prospect 3 (Grade 9), Lesson 4 "Services," printed pp.63–75 |
+| The school's own facilities as a vocabulary set — classroom, library, canteen | Indonesia, English for Nusantara Kids Grade 3, printed p.92 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Places at school — library, school yard | Indonesia, English for Nusantara Kids Grade 4, printed p.94 (stocked 2026-11-09 by the re-verification sweep merge) |
+| School buildings — the facilities vocabulary of the school chapter | Indonesia, English for Nusantara Grade 7, Chapter 5 "This Is My School," printed p.205 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 31 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the first set twice (Primary 1's
@@ -246,7 +255,9 @@ Mongolia carries a whole senior unit on the same world; China
 carries a second town set located with near / next to /
 behind and worked over maps; Indonesia carries a whole
 neighbourhood on one map, with directions and the position
-set; Iran carries the city described and located whole, and
+set, and names the school's own facilities and buildings
+at Grades 3, 4 and 7 (stocked 2026-11-09 by the
+re-verification sweep merge); Iran carries the city described and located whole, and
 the widest pictured places set in this lesson, and adds its
 village described beside the city and a services lesson with
 opening times (stocked 2026-11-09 by the re-verification

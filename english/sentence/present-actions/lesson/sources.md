@@ -166,6 +166,12 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 64:** C
 
+**Book 65:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 66:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 67:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA Kelas XI) student book — Indonesia, Kemendikbudristek, first edition 2021, ISBN 978-602-244-863-1 (limited use in Sekolah Penggerak schools; single author Rida Afrilyasanti). The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -333,6 +339,10 @@ CITATION CHECK PASSED 2026-11-03).
 | The present continuous — the am/is/are + verb-ing chart | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 73 |
 | Present, past and future — the review charts of the three tenses | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 88–89 |
 | Review of the tenses — the compendium's review chart of present, past and future | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 109 |
+| The morning routine as present-tense talk — get up, take a shower, have breakfast — with its vocabulary set | Indonesia, English for Nusantara Kids Grade 4, printed p.3 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Study-habits talk — the present simple worked over how you study | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.183 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The present tense revised in context, as a unit's mind-map grammar | Indonesia, English for Change Grade 11, Unit 2, printed p.46 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The simple present as a Grammar Focus forms table (the table prints the singular question as "Does vaccine saves millions of lives each year?" — a book error; the course teaches the corrected "Does vaccine save…", and the error is recorded here, never taught as fact) | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11 (2021 edition), Unit 4, Grammar Focus, printed p.136 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 34 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt boxes the every-day face inside

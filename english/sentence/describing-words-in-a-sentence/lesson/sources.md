@@ -259,6 +259,8 @@ CITATION CHECK PASSED 2026-11-03).
 | Comparison sentences as the weather chapter's printed examples: "Summer is the hottest time of the year"; "In fall, the temperatures are lower than in summer" — comparative and superlative forms inside full sentences | Albania, *Akelius A2 Level* teacher's guide, Chapter 32 overview, printed pp.16–17 |
 | Irregular comparisons inside sports sentences: "I can kick further than the other players"; "I'm good at basketball, but I am better at running" | Albania, *Akelius A2 Level* teacher's guide, Chapter 33 overview, printed pp.21–22 |
 | The -ed / -ing describing words inside their sentence sets: "I feel annoyed. My brother annoys me. He is annoying"; "This movie is boring" | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
+| Prepositions in front of / between, named in the school chapter's opener for describing the school | Indonesia, English for Nusantara Kids Grade 3, Chapter 4 opener, printed p.90 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Prepositions in / under at work — "Where is the pencil? It is in the pencil case" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5, printed p.116 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 32 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bangladesh pictures the before-home in
@@ -271,7 +273,8 @@ youngest books seat description after be from the first
 year; China adds describing people and animals by their
 parts and the pool's fullest single comparatives system;
 Indonesia teaches the like/look-like describing pair at
-Grade 3 and comparing in print at Grade 11; Iran places
+Grade 3, the place prepositions in front of / between and
+in / under inside its Grade 3 school chapters, and comparing in print at Grade 11; Iran places
 the adjective in both its homes and tables comparison
 with its irregular set; Sierra Leone states the
 before-noun / after-is homes, sorts quality adjectives,

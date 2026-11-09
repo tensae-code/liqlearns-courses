@@ -184,6 +184,12 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 
 **Book 59:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 60:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 61:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 62:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -316,6 +322,9 @@ english/books/jordan.md (Grade 5 Pupil's Book Semester 1 section, FULLY READ + C
 | The numbers 1–20 | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.9 |
 | Numerical nomenclature 21–1000: cardinal AND ordinal numbers side by side (ten/tenth, twenty/twentieth, one hundred/hundredth, one thousand/thousandth, 100,000 hundred thousandth), with arithmetic number problems in English | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.15 |
 | Reading numbers aloud: cellphone numbers and identity-card numbers digit by digit, with a pronunciation transcription | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p.15 |
+| Numbers 1 to 55 as a chapter's recycled-words set | Indonesia, English for Nusantara Kids Grade 4, Chapter 6 opener, printed p.129 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Numbers in context again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried

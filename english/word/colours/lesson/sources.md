@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -26,6 +26,12 @@ CITATION CHECK PASSED 2026-10-26).
 
 **Book 5:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 6:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six first colours — red, green, white, blue, black, yellow — with umbrella as the carrier word, and the pattern "What colour? Red and black." | Palestine, Grade 1 Part 2, Unit 12 "Colours," p.16 |
@@ -37,9 +43,12 @@ CITATION CHECK PASSED 2026-10-26).
 | Primary colours red, yellow and blue; secondary colours orange, green and violet; black, white and gray as neutral colours | Mongolia, English X, Unit 5, Self-Check colour text, pp.76–79 |
 | The colour set as the pupil book teaches it: red, yellow, green, brown, blue, orange, black, pink, and the extended set violet, sky blue, light green, gray | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.10–12 |
 | The colours check in the opening unit | Iran, Prospect 1 (Grade 7), Welcome unit, printed p.4 |
+| The colour set as the classroom chapter's key words (red…) | Indonesia, English for Nusantara Kids Grade 3, Chapter 5 opener, printed p.115 |
+| The colours set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
+| The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
 
-**Acceptance count: taught in 4 countries (Palestine, Bolivia,
-Mongolia, Iran).** Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 5 countries (Palestine, Bolivia,
+Mongolia, Iran, Indonesia).** Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing

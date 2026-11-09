@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -46,6 +46,14 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 12:** English for Schools — Vision 3, Grade 12 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 13:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *Bahasa Inggris: Work in Progress*, Grade 10 (SMA/SMK/MA Kelas X) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-897-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -61,9 +69,14 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Talking about a great person: the conversation on Dr Gharib (born in Tehran in 1288), with the lesson's Interesting Facts on helping others and listening to elders | Iran, Vision 3 (Grade 12), Lesson 1 "Sense of Appreciation," Conversation, printed pp.15–41 |
 | The vocabulary of the lesson's reading: the appreciation word set | Iran, Vision 3 (Grade 12), Lesson 1, New Words & Expressions, printed pp.15–41 |
 | A workbook-only reading on respecting elders: elders were once children; their experience, failures and successes; care starting with parents as first teachers — summary only | Iran, Vision 3 Workbook (Grade 12), Lesson 1, Part I Reading, printed pp.10–12 (workbook-only text; not in the student book) |
+| Describing a thing by its shape and colour — "My Blue Robot," a toy described whole | Indonesia, English for Nusantara Kids Grade 4, printed p.70 |
+| Describing people — physical features and personality traits as a chapter's named work | Indonesia, English for Nusantara Grade 7, Chapter 1, printed p.40 |
+| Describing a school festival — a descriptive text about an event and its people | Indonesia, English for Nusantara Grade 7, Chapter 5, printed p.231 |
+| Writing a descriptive text — the charity shop described whole | Indonesia, English for Nusantara Grade 9, Chapter 4, printed p.244 |
+| Describing an athlete and writing the description — present simple with physical-description words, over a great athlete | Indonesia, Work in Progress Grade 10, Chapter 1 "Great Athletes," printed p.3 |
 
-**Acceptance count: taught in 7 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran).** Cambodia carries the
+**Acceptance count: taught in 8 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia).** Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -78,6 +91,11 @@ re-verification sweep). Iran carries the personality set
 with "What's your friend like?" in Grade 9, and describing
 a great person — Dr Gharib — with its word set and a
 workbook-only reading on respecting elders in Grade 12
+(stocked 2026-11-09 by the re-verification sweep merge).
+Indonesia carries describing across its ladder: a toy by
+shape and colour in Grade 4, people's features and traits
+and a school festival in Grade 7, a descriptive text in
+Grade 9, and an athlete described whole in Grade 10
 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

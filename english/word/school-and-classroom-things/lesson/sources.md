@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran
+countries: China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 
 **Book 4:** English for Schools — Prospect 1, Grade 7 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2207-3. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 5:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The school-supplies word set — ruler, pencil, eraser, crayon, bag, pen, pencil box, book — with "I have a/an…" | China — English (PEP) Grade 3 Volume 1, Unit 1, printed pp.4–8 |
@@ -21,8 +23,9 @@ Every part traces to its book and page.
 | The school-rooms word set, second part — computer room, music room, art room, gym | China — English (PEP) Grade 4 Volume 2, Unit 1, printed p.8 |
 | The lesson's example sentences ("I have a ruler", "I have an eraser") | The course's own workings on the books' stocked word sets and the book's own "I have a/an…" frame — no sentence is quoted from the books |
 | Classroom objects named in the opening unit — the things in the classroom | Iran, Prospect 1 (Grade 7), Welcome unit, printed p.5 |
+| The things in the classroom as a primary chapter's own vocabulary set — "Things in the Classroom," with "What is this? This is a desk" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5 opener, printed p.116 (stocked 2026-11-09 by the Indonesia re-verification sweep merge) |
 
-**Acceptance count: taught in 2 countries (China, Iran).** Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (China, Iran, Indonesia).** Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep

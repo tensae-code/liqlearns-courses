@@ -119,6 +119,10 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 
 **Book 40:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
 
+**Book 41:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 42:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "How many days are there in a week?" — "There are 7 days in a week"; the seven days listened and repeated Saturday-first (Egypt's school week); the list teaching after/before with arrows | Egypt, Primary 1 Term 2, Unit 1 "My Week," Lesson 1 "Days of the Week," p.6 |
@@ -221,6 +225,8 @@ english/books/jordan.md (Grade 6 Activity Book Semester 2 section, FULLY READ + 
 | Days of the week: Monday–Sunday, “what day is it today?”, on Mondays, days take a capital letter | Bolivia, Texto de Aprendizaje (English), Grade 3 (Primaria 3) student book, printed pp.22–23 |
 | Months and days of the week: months January–December, days revision, a weekly-routine dialogue (on Thursdays we go shopping…), birthday month/day/date | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp.23–24 |
 | Months of the year: month names with Spanish-based pronunciation guides, in + month against on + day/date, months identified by ordinal position (the twelfth month…) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp.25–26 |
+| Days and months recapped in the Chapter 0 opening block, with in / on used with dates | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 31 countries (Bangladesh,
 Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the days first (its school-week

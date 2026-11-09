@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia
 
 Every part traces to its book and page.
 
@@ -40,6 +40,14 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 
 **Book 10:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 11:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | School subjects as one vocabulary set: Spanish, History, Mathematics, Biology, Geography, Physical Education, Arts, Technology, Civics and Ethics, English | Mexico, Grade 7, Project 2, Vocabulary, p.23 |
@@ -55,9 +63,14 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 | The schoolbag dialogue — "What's in your schoolbag? — An English book, a maths book, three storybooks…" | China — English (PEP) Grade 4 Volume 1, Unit 2, printed pp.12–15 |
 | School book words as a set — English book, Chinese book, maths book, storybook, schoolbag | China — English (PEP) Grade 4 Volume 1, Unit 2, printed p.15 |
 | School subjects inside teacher talk — music, art, science, maths, English, Chinese teacher, and the head teacher | China — English (PEP) Grade 5 Volume 1, Unit 1, printed pp.4–5 |
+| The things in my backpack — school supplies named and described | Indonesia, English for Nusantara Kids Grade 3, "Things in my Backpack," printed p.134 |
+| Activities at school as a vocabulary set — write, count, paint, do experiment | Indonesia, English for Nusantara Kids Grade 4, printed p.85 |
+| The school-subjects set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
+| Describing a class schedule — subjects with their days and times ("My Class Schedule") | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.155 |
+| The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
 
-**Acceptance count: taught in 7 countries (Mexico, Mongolia,
-Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China).** Mexico carries the
+**Acceptance count: taught in 8 countries (Mexico, Mongolia,
+Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -69,5 +82,10 @@ state stated in the table — opener-level, claimed as no
 more than that. China names the subjects inside its
 teacher talk (the music teacher, the head teacher) and
 lists the school books a bag holds (stocked 2026-11-08 by
-the re-verification sweep). Other closed countries join as their
+the re-verification sweep). Indonesia carries the
+backpack's supplies and the activities of the school day
+at primary level (Grades 3–4), the subjects recap in its
+Chapter 0, and the class schedule described whole at
+Grade 7 (stocked 2026-11-09 by the re-verification sweep
+merge). Other closed countries join as their
 books are read (see READING-QUEUE.md).

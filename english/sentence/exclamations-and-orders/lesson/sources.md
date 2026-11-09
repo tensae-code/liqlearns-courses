@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia
 
 Every part traces to its book and page.
 
@@ -42,6 +42,16 @@ english/books/rwanda.md.
 
 **Book 13:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 14:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *English for Nusantara Kids*, Grade 6 (Kelas VI) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-245-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -62,9 +72,14 @@ english/books/rwanda.md.
 | Rules language as orders — "Work quietly! Talk quietly! Keep your desk clean! Keep to the right! Take turns", with the library signs "Quiet, please!" and "No eating!" | China — English (PEP) Grade 5 Volume 2, Unit 6, printed pp.57–62 |
 | Traffic rules with must — "Stop and wait at a red light. Slow down and stop at a yellow light. Go at a green light. Don't go at the red light!" | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.12–17 |
 | Exclamatory sentences as a taught set: "What a great day! What fun the Water Festival is! How pretty the dragon boats were! How delicious the food is!" | China — English ("Go for it!") Grade 9, Unit 2, printed pp.9–12 |
+| A simple instruction in the games chapter — "Throw the ball" | Indonesia, English for Nusantara Kids Grade 4, printed p.107 |
+| Hygiene instructions as orders — "Wash your hands, Brush your teeth" | Indonesia, English for Nusantara Kids Grade 6, printed p.39 |
+| Simple instructions recapped in the Chapter 0 opening block | Indonesia, English for Nusantara Grade 7, Chapter 0, printed p.1; the same recap block at Grade 9, Chapter 0, printed p.1 |
+| Imperatives with always / never, for online safety — "Never click it!" | Indonesia, English for Nusantara Grade 9, Chapter 5, printed p.268 |
+| Imperatives as the grammar of a procedure text (the money-management unit's mind map) | Indonesia, English for Change Grade 11, Unit 5, printed p.182 |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China).** A plan-anchor
+**Acceptance count: taught in 7 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia).** A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -83,3 +98,10 @@ language and traffic rules with must in Grades 5 and 6 —
 and at Grade 9 teaches the exclamatory sentence outright:
 the What…! and How…! set inside its festival unit
 (stocked 2026-11-08 by the re-verification sweep).
+Indonesia gives orders from its primary books up: a
+game instruction and hygiene orders in Grades 4 and 6,
+the instructions recap in its Chapter 0 blocks,
+always/never safety imperatives in Grade 9, and
+imperatives named as a procedure text's grammar in
+Grade 11 (stocked 2026-11-09 by the re-verification
+sweep merge).
