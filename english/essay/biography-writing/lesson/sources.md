@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India
 
 Every part traces to its book and page.
 
@@ -89,6 +89,48 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 16:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 17:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 18:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 19:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 20:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 21:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 22:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -121,9 +163,26 @@ colophon; cited once.
 | The hidden-history project: researching women's social prominence across history — the Candaces, Hypatia of Alexandria, Sojourner Truth | Mexico, Grade 7, Project 15 "Reconstructing the Unknown Past of Women", printed p. 128 |
 | A full biography reading: Matilde Montoya, Mexico's first female doctor (topic summary only) | Mexico, Grade 8, Project 5 "Matilde, Our First Female Doctor", printed p. 42 |
 | A collective biography reading: the Mexican women artists Lola Álvarez Bravo, Amalia Hernández and María Izquierdo (topic summary only) | Mexico, Grade 9, Project 6 "Everything We Create Is Art", printed p. 44 |
+| A life read whole: "Helen Keller" — deaf and blind after an illness, taught by Anne Sullivan to read, write and speak (plot summary only) | India — Marigold Book Four (Class 4), Unit 5, printed pp.73–90 |
+| A life read whole: "An Indian-American Woman in Space: Kalpana Chawla" — from Karnal to NASA, and the Columbia disaster of 2003 (plot summary only) | India — Honeysuckle (Class 6), printed p.45 |
+| A life read whole: "The Summit Within" (H. P. S. Ahluwalia) — climbing Everest: the physical climb and the inner summit of the mind; why mountains are climbed (plot summary only) | India — Honeydew (Class 8), printed p.75 |
+| A life read whole: "A Visit to Cambridge" (Firdaus Kanga) — the writer, a wheelchair user, meets physicist Stephen Hawking in Cambridge and talks about courage, disability and achievement (plot summary only) | India — Honeydew (Class 8), printed p.96 |
+| A life read whole: "The Sound of Music" I (Deborah Cowley) — Evelyn Glennie, the deaf musician who learnt to feel music through vibrations (plot summary only) | India — Beehive (Class 9), printed p.17 |
+| A life read whole: "The Sound of Music" II — Bismillah Khan, the shehnai maestro of Banaras and the Ganga (plot summary only) | India — Beehive (Class 9), printed p.17 |
+| Biography as writing work: two paragraphs, one on each musician, on working hard and knowing where you are going | India — Beehive (Class 9), Writing in The Sound of Music, printed p.27 |
+| A life read whole: "A Truly Beautiful Mind" — Albert Einstein, the "world citizen": E = mc², his letter to Roosevelt and his work for world peace (plot summary only) | India — Beehive (Class 9), printed p.46 |
+| A life read whole: "My Childhood" (A. P. J. Abdul Kalam) — Kalam's birth at Rameswaram, his parents, three close friends, the new teacher and Sivasubramania Iyer, earning his first wages (plot summary only) | India — Beehive (Class 9), printed p.68 |
+| A life read whole: "Reach for the Top" I — Santosh Yadav, the mountaineer who scaled Everest twice, from a Haryana village against custom (plot summary only) | India — Beehive (Class 9), printed p.99 |
+| A life read whole: "Reach for the Top" II — Maria Sharapova, the Siberian tennis player who reached world number one at eighteen (plot summary only) | India — Beehive (Class 9), printed p.99 |
+| A life read whole: "Nelson Mandela: Long Walk to Freedom" — his inauguration as South Africa's first Black president, the history of apartheid, and his thoughts on freedom and oppression (plot summary only) | India — First Flight (Class 10), printed p.16 |
+| A life read whole: "The Portrait of a Lady" (Khushwant Singh) — the author's grandmother: village life, the city school, her religious routine, and her peaceful death among sparrows (plot summary only) | India — Hornbill (Class 11), printed p.3 |
+| A life read whole: "Deep Water" (William Douglas) — his fear of water (the Y.M.C.A. pool incident, the bully at the beach) and learning to swim with an instructor until the fear is conquered (autobiographical; plot summary only) | India — Flamingo (Class 12), printed pp.23–31 |
+| Narration worked as biography craft: first-person vs third-person narration — rewrite a paragraph as an observer | India — Flamingo (Class 12), Thinking about language in Deep Water, printed p.30 |
+| A life read whole: "Indigo" (Louis Fischer, from The Life of Mahatma Gandhi) — Gandhi at Champaran, 1917: sharecroppers' indigo grievances, civil disobedience, the settlement that ended tinkathia (plot summary only) | India — Flamingo (Class 12), printed pp.46–55 |
+| A life read whole: "Poets and Pancakes" (Asokamitran) — the Gemini Studios make-up department, the office-boy, Subbu, the legal adviser, and the baffling visit of poet Stephen Spender (humorous account; plot summary only) | India — Flamingo (Class 12), printed pp.57–66 |
 
-**Acceptance count: taught in 8 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico).** Egypt states the full
+**Acceptance count: taught in 9 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India).** India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a

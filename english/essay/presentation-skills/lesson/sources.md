@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India
 
 Every part traces to its book and page.
 
@@ -57,6 +57,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 11:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -72,9 +78,10 @@ colophon; cited once.
 | The Movement Fair project: designing educational and recreational activities and reaching goals by collective dialogue | Mexico, Grade 7, Project 19 "Collaboration, Communication, and the Satisfaction of Achieving a Common Goal", printed p. 168 |
 | The Traditions speaking task: choose a photographed cultural tradition and present it to the class | Mexico, Grade 9, Project 3 "Traditions", printed p. 26 |
 | The Chemical Reactions project: experiments demonstrating chemical reactions, presented with dissemination posters | Mexico, Grade 9, Project 17 "Chemical Reactions: Transforming Humankind and the World", printed p. 154 |
+| How a debate works, in the teacher notes: proposition, preparing an outline of points, 4–5 minute limit, addressing the chair, submitting/questioning/concluding arguments — the note itself names the taught point | India — Beehive (Class 9), Speaking in The Fun They Had (Notes for the Teacher, Units 1–3), printed pp.1–4 (unit notes) |
 
-**Acceptance count: taught in 6 countries (Syria,
-Indonesia, Bolivia, Cambodia, China, Mexico).** Syria prints the
+**Acceptance count: taught in 7 countries (Syria,
+Indonesia, Bolivia, Cambodia, China, Mexico, India).** India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with

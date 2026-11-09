@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India
 
 Every part traces to its book and page.
 
@@ -37,6 +37,18 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 9:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 10:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headlines and news stories; subject–verb–object word order ('There was a big storm last night') | Cambodia, ENGLISH Grade 12, Unit 15 'In the news', printed pp.81–86 (Lesson A) |
@@ -52,5 +64,7 @@ colophon; cited once.
 | The news project: write a news article or a popular-science text, with a campaign for a culture of peace | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 10 |
 | The historical-newscast project: a newscast on the causes and development of the Second World War | Mexico, Grade 9, Project 14 "Extra, Extra! The World Is at War Again!", printed p. 128 |
 | The infodemic project: telling trustworthy from untrustworthy news, and the right to information | Mexico, Grade 9, Project 15 "Democracy and the Right to Information in the Age of Infodemic", printed p. 138 |
+| A newspaper report written from given notes (Einstein's handwritten manuscript unearthed, 21 August 2005) | India — Beehive (Class 9), Writing in A Truly Beautiful Mind, printed p.51 |
+| The interview turned into a short newspaper report of its salient points | India — Flamingo (Class 12), Writing after The Interview, printed p.75 |
 
-**Acceptance count: taught in 6 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico).** Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico, India).** India joins with a newspaper report written from notes in Class 9, and the interview turned into a newspaper report in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge).

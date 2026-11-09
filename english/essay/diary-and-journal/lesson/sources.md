@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China
+countries: Malaysia, Nepal, Egypt, China, India
 
 Every part traces to its book and page.
 
@@ -48,6 +48,30 @@ as Book 3).
 
 **Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 11:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 12:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 13:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The diary entry as a writing genre with informal features, taught as the unit's writing lesson | Malaysia, Academy Stars Year 6, Unit 2 "Life in the past", pp.28–29 (direct read) |
@@ -61,9 +85,17 @@ as Book 3).
 | A diary entry read and taken apart phrase by phrase (Heba's entry, London, 28 November 2020), then a diary entry about a day living abroad as the writing kind | Egypt, Secondary 11 Term 2, Unit 7, Lesson 4 (as filed) |
 | A diary kept across the Recycle pages — daily entries worked as the week's writing | China — English (PEP) Grade 5 Volume 1, Recycle 1, printed pp.32–35 |
 | A diary entry as the unit's writing — a dated personal entry, read and written | China — English ("Go for it!") Grade 9, Unit 10, printed p.56 |
+| Writing as diary/letter: imagine you are Jim, returned home after the war — write about your town and the war's end | India — Honeydew (Class 8), Writing in The Best Christmas Present in the World, printed p.20 |
+| A diary read whole: "A Short Monsoon Diary" (Ruskin Bond) — diary entries from Mussoorie, June to August: the first monsoon showers, mist, leeches, wild dahlias, and the late-August cobra and mongoose (plot summary only) | India — Honeydew (Class 8), printed p.109 |
+| Diary-shaped writing: write about your own childhood and how your perception of your parents has changed | India — Beehive (Class 9), Writing in The Little Girl, printed p.38 |
+| A travelogue read whole: "Kathmandu" (Vikram Seth) — Pashupatinath temple's chaos and the quiet Baudhnath stupa; flute sellers and Kathmandu's streets (plot summary only) | India — Beehive (Class 9), printed p.127 |
+| A diary entry as the basis of a travelogue: imagine you visited Pashupatinath with Vikram Seth and note what you saw and did | India — Beehive (Class 9), Writing in Kathmandu, printed p.133 |
+| A diary read whole: "From the Diary of Anne Frank" — diary entries: writing as a friend (Kitty), Mr Keesing the maths teacher, the essay punishment "A Chatterbox", life in hiding (plot summary only) | India — First Flight (Class 10), printed p.48 |
+| Diary writing taught as a named point: private diary vs general diary (appointments, meetings, things to be done); diaries as historical documents (Samuel Pepys) | India — First Flight (Class 10), Taught point in Anne Frank chapter (What We Have Done), printed pp.59–60 |
+| Experience narrated as diary-shaped writing: narrate an experience that changed your opinion of someone/something | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
 
-**Acceptance count: taught in 4 countries (Malaysia,
-Nepal, Egypt, China).** Malaysia teaches the diary entry as a
+**Acceptance count: taught in 5 countries (Malaysia,
+Nepal, Egypt, China, India).** India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed

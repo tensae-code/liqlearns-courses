@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India
 
 Every part traces to its book and page.
 
@@ -148,6 +148,30 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 54:** 12
 
+**Book 55:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 56:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 57:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 58:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided Composition: "two coherent paragraphs by leading questions ('My Home')" — the paragraph written as answers to leading questions | Ghana, NaCCA B1–B3 curriculum, Basic 3, writing strands (as filed) |
@@ -265,10 +289,18 @@ CITATION CHECK PASSED 2026-11-03).
 | The paragraph's core named in the guide's own steps — the Keep in mind note on the topic sentence and the main idea ("The topic sentence expresses the main idea of the paragraph"), with the scanning/skimming procedures printed in full around it and a titled reading worked for main idea, topic and topic sentence | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
 | Paragraph writing set as the year's real writing task — students write a paragraph about their group (Lesson 18, Part 4) and a group "dream vacation" paragraph (Lesson 24, Part 4); the guides set and guide the writing but print no model paragraph | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lessons 18 and 24, guide printed pp.109–115 and 152–158 |
 | The paragraph — what a paragraph is, inside the linking-words unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 10 |
+| A named language point in the teacher notes: rearranging phrases to construct sentences, and sentences to construct a paragraph — cohesion and coherence — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 8–10 (Notes for the Teacher), printed pp.107–108 (unit notes) |
+| Paragraph writing from knowledge: a short account of what life in Rameswaram in the 1940s must have been like | India — Beehive (Class 9), Writing in My Childhood, printed p.77 |
+| A paragraph written from a poem: a paragraph (optionally humorous) arising from the poem on being called "coloured" | India — First Flight (Class 10), Writing in Mandela chapter, printed p.28 |
+| A paragraph narrated from experience: being alone/away from home in a thunderstorm | India — First Flight (Class 10), Writing in Two Stories about Flying, printed p.42 |
+| A page written (about three paragraphs) on a set topic — planning something on your own / an unforgettable journey / traffic and road safety concerns | India — First Flight (Class 10), Writing in Madam Rides the Bus, printed p.128 |
+| A page written (about three paragraphs) on a set topic — teaching someone a difficult idea / helping each other through difficult times / being unique vs one among billions | India — First Flight (Class 10), Writing in The Sermon at Benares, printed p.138 |
+| A paragraph of ~100 words written: arguing for or against studying three languages at school | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
+| A paragraph of 200–250 words written on a paradox (e.g. bangle makers' misery vs the beauty of bangles), notes first | India — Flamingo (Class 12), Writing in Lost Spring, printed p.21 |
 
-**Acceptance count: taught in 31 countries (Bangladesh,
+**Acceptance count: taught in 32 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia).** Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India).** India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across

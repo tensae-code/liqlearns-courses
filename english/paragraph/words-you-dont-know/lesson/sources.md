@@ -94,6 +94,24 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 27:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 28:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 29:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -144,9 +162,14 @@ colophon; cited once.
 | Opposite meanings worked as a pair dialogue: a good day against a bad day, winning against losing, completed from a word bank (bad, win) | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Six, Exercise 3, printed p.26 |
 | One word, two meanings: Mr Mouse means the computer mouse, not the animal — the mouth/mouse mix-up talked through (“Where is my mouth?”; “I cannot catch a mouse”) until the word's two meanings stand apart, the fill-ins naming what a mouse can also be | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Twelve, printed pp.46–49 |
 | A listening on two coined words: understanding “infodemic” and “infocracy”, the phenomena they name | Mexico, Grade 9, Project 15 "Democracy and the Right to Information in the Age of Infodemic", printed p. 140 |
+| Phrases matched to meanings (unprecedented space tragedy, certified flight instructor, space mission, super specialisation, encyclopaedic knowledge, awe-inspiring, in this age) | India — Honeysuckle (Class 6), Working with Language in Kalpana Chawla, printed p.51 |
+| Words matched to meanings using paragraph numbers (homesick, practically, it pains me, appreciate, thoughtless, exercise, relief, ghastly); lines from the story re-worded in your own words | India — Honeysuckle (Class 6), Working with Language in A Different Kind of School, printed p.63 |
+| The different meaning of "round" in the story; words generally associated with trees used differently in a paragraph | India — Honeysuckle (Class 6), Working with Language in The Banyan Tree, printed p.133 |
+| Words matched to meanings (fainted, wounded, awoke, forgive, faithful, pity, beds, return) and three used in sentences | India — Honeycomb (Class 7), Working with Language in Three Questions, printed p.15 |
+| Words/phrases matched to meanings (slaving, chaos, rummage, scrape out, stumble over, accomplish, uncanny, a row) and used in a paragraph | India — Beehive (Class 9), Thinking about Language in Packing, printed p.88 |
 
 **Acceptance count: taught in 22 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico).** India's senior books print the
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a

@@ -61,6 +61,36 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 9:** Marigold — Textbook in English for Class I —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 10:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 11:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 12:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 13:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A complete play script read: "The robbery" (Inspector Fox deduces that the photographer "borrowed" the dinosaur egg); then play-script writing with stage directions as the unit's writing work | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 10 "It's a mystery!", printed pp.122–123 (the script) and pp.128–129 (the writing) |
@@ -74,9 +104,14 @@ colophon; cited once.
 | The Stop Racism role-play: role-play activities on scenarios of injustice, and recognising racism in the media | Mexico, Grade 9, Project 10 "Stop Racism!", printed p. 90 |
 | The play-script project: write and stage a script adapting a known story to a current community problem | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed p. 116 |
 | The dramatic-text concepts named: protagonist, antagonist, plot, conflict, theme, act, scene, dialogue, monologue, props, set design | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed p. 118 |
+| A mini-play inside the pupil's book: "Mother Hen and the Chicks" — a mother hen and her chicks, as a little play (adapted from E. H. Grassam, The Beacon Readers) | India — Marigold (Class 1), Unit 3, printed pp.29–41 |
+| A story told as a narrated play: "Neha's Alarm Clock" — Neha wakes at six though she has no alarm clock; the birds, and mother, are her alarm | India — Marigold Book Four (Class 4), Unit 1, printed pp.1–16 |
+| A play in three scenes: "My Elder Brother" (adapted from Munshi Premchand's Hindi story Bade Bhai Sahab) — Bhaiya, five years older, keeps repeating classes yet scolds; Munna tops his class; Bhaiya's printed study timetable | India — Marigold Book Five (Class 5), Unit 4, printed p.64 |
+| A one-act play read whole: "If I Were You" (Douglas James) — playwright Gerrard outwits an intruder who plans to kill him and steal his identity | India — Beehive (Class 9), printed p.138 |
+| A one-act play read whole: "The Browning Version" (Terence Rattigan) — schoolmaster Crocker-Harris, dry and feared, is mocked by pupil Taplow, yet shows unexpected feeling at his leaving (extract; plot summary only) | India — Hornbill (Class 11), printed p.50 |
 
 **Acceptance count: taught in 6 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh, Mexico).** Malaysia reads a play script
+Ghana, Barbados, India, Bangladesh, Mexico).** India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;

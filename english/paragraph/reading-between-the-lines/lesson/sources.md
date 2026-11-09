@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India
 
 Every part traces to its book and page.
 
@@ -35,6 +35,18 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 10:** Hornbill — Textbook in English for Class XI —
+India, NCERT, 2020-21 printing (chapter footers stamped
+2019-20). Filed in english/books/india.md (FULLY READ +
+CITATION CHECK PASSED 2026-10-26); re-read page by page in
+the 2026-11-08 re-verification sweep.
+
+**Book 11:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inference taught as a named reading move, beside Fact vs Opinion in the same Reading Tips box | Egypt, Preparatory 8 Term 1, Unit 5, Lesson 1, Reading Tips, p.74 (as filed in EGYPT-BOOK-MAP.md) |
@@ -49,5 +61,8 @@ colophon; cited once.
 | Telling fact from opinion, as taught reading work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 4, printed p.129 |
 | A text that defines its terms: racism, prejudice and stereotypes, and how racist acts work (topic summary only) | Mexico, Grade 9, Project 10 "Stop Racism!", printed p. 92 |
 | The misleading-statistics case: the “IMPORTANT COMPANY HIRING” false-information example — misleading statistics spotted with central tendency and dispersion | Mexico, Grade 9, Project 18 "Reliable Information", printed p. 168 |
+| Reading between the lines as the text's own work: "Landscape of the Soul" (Nathalie Trouveroy) — European vs Chinese painting: Leonardo's realism against Wu Daozi's landscape you enter; two ways of seeing art (topic summary only) | India — Hornbill (Class 11), printed p.34 |
+| Reading between the lines as the text's own work: "The Interview" Part I (Christopher Silvester — the book's prelims print "Christopher Sylvester", a book slip, taught corrected): the interview as a genre — its defenders and its famous refusers (Kipling, V.S. Naipaul, Saul Bellow etc.) (topic summary only) | India — Flamingo (Class 12), printed pp.68–75 |
+| Reading between the lines as the text's own work: "The Interview" Part II — Mukund Padmanabhan's interview with Umberto Eco: Eco on The Name of the Rose, his scholarship, and the "interstices" — empty spaces — in which he works (topic summary only) | India — Flamingo (Class 12), printed pp.68–75 |
 
-**Acceptance count: taught in 8 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico).** Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India).** India joins with two ways of seeing art in Class 11, and the interview read as a genre in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge).

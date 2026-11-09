@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -38,6 +38,18 @@ Study English, 6th Year Secondary School section, FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
 re-verification sweep.
 
+**Book 7:** First Flight — Textbook in English for Class X —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 8:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Interview preparation advice — dress, punctuality, phone, body language; preparing for an interview and talking about experience; the information interviewers ask for; answering interview questions with quality adjectives (reliable, punctual, co-operative) | Cambodia, Grade 12, Unit 31 "At a job interview", printed pp.169–174 (teacher's-book spread as filed) |
@@ -46,9 +58,12 @@ re-verification sweep.
 | A full job-interview dialogue; the text "Tips for interviews"; ordering the job-seeking strategy steps | Laos, Book Seven (Grade 12), Unit 10, Lesson 3, pp.138–142 |
 | Job interviews as a speaking unit: useful phrases for buying thinking time, interview etiquette and body language, 20 sample interview questions, pair interview practice | Armenia, English 11, §1.8 Speaking, pp.28–30 |
 | The present perfect in a job interview: experience questions — have you had any job experience, I have already done a training | Mauritania, Study English, Grade 12, printed pp.31–32 |
+| Career writing as interview preparation: write a paragraph or two on making a career of your hobby (after consulting an expert/reference work) | India — First Flight (Class 10), Writing in Hundred Dresses, printed p.82 |
+| Interviewing as a thing to do (About the Unit): interview a person you admire and record it in writing | India — Flamingo (Class 12), Things to do in The Interview, printed p.76 (About the Unit) |
+| Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Egypt, Libya, Laos, Armenia, Mauritania).** Cambodia prepares and
+**Acceptance count: taught in 7 countries (Cambodia,
+Egypt, Libya, Laos, Armenia, Mauritania, India).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported

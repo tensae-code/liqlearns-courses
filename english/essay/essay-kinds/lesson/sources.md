@@ -66,6 +66,12 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 13:** Beehive — Textbook in English for Class IX —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
@@ -93,9 +99,10 @@ colophon; cited once.
 | Hortatory exposition met on digital life — the "Netiquette" exposition — closing in recommendation | Indonesia, Life Today Grade 12, Unit 3, printed p.113 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The discussion text met at its unit's opening — the two-sided kind itself (its structure pages are cited in the row above) | Indonesia, Life Today Grade 12, Unit 4, printed p.160 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The compendium project: an argumentative text for a Compendium of Stories, Sayings, and Proverbs in Spanish and an Indigenous language | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 60 |
+| Argumentative writing as an essay kind: argue for or against keeping pets only by those committed to their care (or on snake charmers continuing in their profession) | India — Beehive (Class 9), Writing in The Bond of Love, printed p.121 |
 
 **Acceptance count: taught in 7 countries (Bolivia,
-Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico).**
+Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico).** India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions

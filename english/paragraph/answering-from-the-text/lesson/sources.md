@@ -185,6 +185,42 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 59:** Marigold Book Four — Textbook in English for
+Class IV — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 60:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 61:** Honeysuckle — Textbook in English for Class VI
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 62:** Honeycomb — Textbook in English for Class VII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 63:** Honeydew — Textbook in English for Class VIII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 64:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "'Think as you read' questions sit inside the text at each break to check factual comprehension as the learner goes" — answering from the carrier while reading | India, Flamingo, About the Book apparatus (as filed; Hornbill's apparatus is twin) |
@@ -349,8 +385,18 @@ colophon; cited once.
 | The chinampas reading: true/false comprehension on how the floating gardens are planted and worked | Mexico, Grade 8, Project 13 "Floating Gardens", printed p. 110 |
 | The community appeal text “Urgent Help to Build Shelters in Jacarandas”, read and answered from | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 146 |
 | The reading “What Experiment Is It?”: identifying experiments from their descriptions | Mexico, Grade 9, Project 17 "Chemical Reactions: Transforming Humankind and the World", printed p. 156 |
+| A comprehension passage set apart with its own questions: "The Blue Jackal" (Panchatantra tale) — the jackal dyed blue in a dyer's tub rules the animals as king until his full-moon howling betrays him (plot summary only) | India — Marigold Book Four (Class 4), Unit 9 comprehension passage, printed pp.150–165 |
+| A comprehension passage set for answering from: Oliver, nine years old in the orphanage, asks for more soup — "Please sir, I want some more" (Dickens's Oliver Twist, printed in the book with NO source credit — book slip; plot summary only) | India — Marigold Book Five (Class 5), Unit 4 comprehension passage |
+| A reading passage set for answering from: Meena plucks a mango; her grandmother gives the larger piece to Raju "because he is a boy"; Meena protests; her father divides it equally — the child is asked who SHOULD have got the larger piece (plot summary only) | India — Marigold Book Five (Class 5), Unit 10 reading passage |
+| An expository text read and answered from: "Desert Animals" — how desert animals survive: kangaroo rats, camels, snakes, mongooses; water and heat adaptations (topic summary only) | India — Honeysuckle (Class 6), printed p.112 |
+| An expository text read and answered from: "Fire: Friend and Foe" — what fire is, the fire triangle (fuel, heat, oxygen), how fires are fought, water and carbon dioxide, fire safety (topic summary only) | India — Honeycomb (Class 7), printed p.114 |
+| A history text read and answered from: "The Story of Cricket" (Ramachandra Guha) — cricket's history from English villages, its laws and equipment, and how the game changed with India, television and commerce (topic summary only) | India — Honeycomb (Class 7), printed p.139 |
+| A picture/text history read and answered from: "Glimpses of the Past" (S. D. Sawant) — India 1757–1857 in pictures and short texts: the coming of the British, oppressive laws, Ram Mohan Roy, the revolts and 1857 (topic summary only) | India — Honeydew (Class 8), printed p.36 |
+| A reading read and answered from: "Glimpses of India" II — "Coorg" (Lokesh Abrol): Coorg (Kodagu), coffee country between Mysore and Mangalore — its people, martial traditions, wildlife and adventure sports (topic summary only) | India — First Flight (Class 10), printed p.85 |
+| A reading read and answered from: "Glimpses of India" III — "Tea from Assam" (Arup Kumar Datta): Rajvir and Pranjol's train journey to Assam's tea gardens; legends and history of tea (topic summary only) | India — First Flight (Class 10), printed p.85 |
+| A text read and answered from: "Discovering Tut: the Saga Continues" (A. R. Williams) — the CT scan of Tutankhamun's mummy in 2005 and what forensic science found about the boy king's death (topic summary only) | India — Hornbill (Class 11), printed p.22 |
 **Acceptance count: taught in 33 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico).** India builds the carrier hunt into the page and
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico).** India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves

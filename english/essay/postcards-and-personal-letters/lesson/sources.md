@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India
 
 Every part traces to its book and page.
 
@@ -40,6 +40,30 @@ still owed).
 
 **Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** Marigold Book Three — Textbook in English for
+Class III — India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 10:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 11:** First Flight — Textbook in English for Class X
+— India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
+**Book 12:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The model postcard read, then your own written: Omar's postcard from Jeddah (the page is headed "Phonics" in print although its goal is postcard writing, as filed) | Saudi Arabia, We Can! 3 Workbook, Goal 96, printed p.234 |
@@ -54,9 +78,14 @@ still owed).
 | Pen-pal letters as a whole unit's writing — writing to a pen pal about hobbies and life | China — English (PEP) Grade 6 Volume 1, Unit 4, printed pp.37–40 |
 | Letters at senior level — a personal letter read and written | China — English ("Go for it!") Grade 9, Unit 2, printed p.16 |
 | Personal letters inside the feelings unit | China — English ("Go for it!") Grade 9, Unit 11, printed p.78 |
+| A letters poem read whole: "What's in the Mailbox?" — the postman brings letters for Mother and Dad but never for the child, who decides to write letters so friends will answer | India — Marigold Book Three (Class 3), Unit 8, printed pp.77–87 |
+| A real thank-you letter read carefully: Devu's letter to his grandfather — address, date, "Dear Grandfather", thanking him for the Panchatantra book | India — Marigold Book Three (Class 3), Unit 8 letter reading, printed pp.77–87 |
+| A model letter with its parts LABELLED in the margin: writer's address / date / greeting / introduction / body / ending / closing | India — Marigold Book Five (Class 5), Unit 4 model letter |
+| Listening to a personal letter (Jaya to Arti) and completing a table about it (apology, address, dates) | India — First Flight (Class 10), Listening in A Letter to God, printed p.12 |
+| A short letter written to someone you know about having learnt something new | India — Flamingo (Class 12), Writing after Deep Water, printed p.30 |
 
-**Acceptance count: taught in 5 countries (Saudi
-Arabia, Mongolia, Malaysia, Egypt, China).** Egypt models the
+**Acceptance count: taught in 6 countries (Saudi
+Arabia, Mongolia, Malaysia, Egypt, China, India).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding

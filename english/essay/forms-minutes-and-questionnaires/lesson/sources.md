@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China
+countries: Albania, Ghana, Greece, South Africa, China, India
 
 Every part traces to its book and page.
 
@@ -16,6 +16,18 @@ Every part traces to its book and page.
 
 **Book 6:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** Marigold Book Five — Textbook in English for
+Class V — India, NCERT, 2019-2020 printing in this scan.
+Filed in english/books/india.md (FULLY READ + CITATION CHECK
+PASSED 2026-10-26); re-read page by page in the 2026-11-08
+re-verification sweep.
+
+**Book 8:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Form-filling from a guest's answers — the registration form's fields (name, nationality, address, passport number, dates, room, arrival, nights, departure) and the receptionist's questions that fill it | Greece, the hotel registration-form unit (as filed in english/books/greece.md) |
@@ -25,5 +37,7 @@ Every part traces to its book and page.
 | Multi-page connected writing (letters, diaries, articles, plays) present throughout the set — the strand these short instruments belong to | South Africa, DBE Rainbow Workbooks (as filed in english/books/south-africa.md) |
 | Filling out forms as a taught skill in its own right: the appointment form and its fields; following and giving instructions for forms; printing, copying and signing documents (form, fill out, reception, waiting room, spell, print/printer, sign/signature) — "fill out the form" (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 34 "Making an appointment," printed pp.27–31 (PDF 30–34) — teacher-guide evidence (the chapter's sample plan is misheaded "Topic: Sports" in the book — a printing error; its outcomes and activities are appointments and forms throughout) |
 | A real form to fill in — the camp form: which job you want to do, parents' jobs, where they work, phone number, parent's signature | China — English (PEP) Grade 6 Volume 1, Unit 5, printed p.53 |
+| A NOTICE taught by its four questions (who is to meet / when / where / what are they to do — Sheela's notice for the Annual Day play), then the pupil writes a notice | India — Marigold Book Five (Class 5), Unit 6 writing |
+| A notice written for a school bulletin board (announcement / requirement / rule) | India — Flamingo (Class 12), Writing after The Last Lesson, printed p.11 |
 
-**Acceptance count: taught in 5 countries (Albania, Ghana, Greece, South Africa, China).** Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 6 countries (Albania, Ghana, Greece, South Africa, China, India).** India joins with the notice taught by its four questions in Class 5, and a bulletin-board notice written in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence — carries form-filling as a skill in its own right: the form filled out, printed, copied and signed, inside its appointments chapter. Ghana's part is curriculum evidence throughout and is worded so: the NaCCA programme names minutes, programme agendas and focused-question research projects; no pupil's-book page is claimed for Ghana. Filing note, stated plainly: the catch-up plan named 'questionnaires' for Ghana, but the word does not occur in the Ghana filing; the questionnaire is therefore taught from the curriculum's focused-question research projects, worded as such, and from the form discipline of the Greece books — and the survey questionnaire of Sudan's SPINE 5 (report-writing lesson) is its book-built twin. Greece supplies both sides of form-filling; South Africa the connected-writing strand. China supplies a real child's form — the camp form, filled with jobs, phone number and a parent's signature (stocked 2026-11-08 by the re-verification sweep).

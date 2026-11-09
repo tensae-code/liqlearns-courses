@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India
 
 Every part traces to its book and page.
 
@@ -166,6 +166,12 @@ PASSED 2026-11-03).
 
 **Book 46:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 47:** Flamingo — English Core Course for Class XII —
+India, NCERT, 2020-21 printing. Filed in
+english/books/india.md (FULLY READ + CITATION CHECK PASSED
+2026-10-26); re-read page by page in the 2026-11-08 re-
+verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The essay's definition — "an essay is a piece of writing that usually has five or more paragraphs, about one topic with several main points" — and the GENERAL ESSAY STRUCTURE table: Introduction ("it tells what your topic and main ideas are"); Topic 1/2/3 ("state your points/arguments, explore both sides of debate in a better answer"); Conclusion ("the same information as the introductory paragraph, written from a different perspective") | Bolivia compendium, the essay-structure grammar/writing section (as filed) |
@@ -260,8 +266,9 @@ PASSED 2026-11-03).
 | How to write an essay — the book's full writing procedure, step by step | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 57 |
 | How to write an essay — the steps and a labelled model essay, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 123 |
 | Writing: "How I've Changed!" — a two-paragraph composition (paragraph 1 general changes; paragraph 2 the most important change and how it happened) | China — English ("Go for it!") Grade 9, Unit 4, printed p.32 |
+| An essay written in five paragraphs: recounting overcoming a fear in an activity | India — Flamingo (Class 12), Writing after Deep Water, printed p.30 |
 
-**Acceptance count: taught in 22 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China).**
+**Acceptance count: taught in 23 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India).** India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
