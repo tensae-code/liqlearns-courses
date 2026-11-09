@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -20,6 +20,10 @@ Literary Course Book — Libya, Ministry of Education
 **Book:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014 (this copy 4th printing, November 2017), ISBN 978-7-107-29071-8. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
 **Book:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -87,8 +91,10 @@ Literary Course Book — Libya, Ministry of Education
 | A reading read whole: "Life Is Full of the Unexpected" — eerie coincidences in the narrator's life | China — English ("Go for it!") Grade 9, Unit 12, printed p.91 |
 | A survey read whole: the April Fool's hoaxes — the spaghetti harvest, "Big Ben" becoming "Big Mac", UK calls ending, trucks shrinking | China — English ("Go for it!") Grade 9, Unit 12, printed pp.94–95 |
 | A poem read whole: "I Remember" — looking back on junior high school | China — English ("Go for it!") Grade 9, Unit 14, printed p.107 |
+| Talking about your favourite book — reading talked about as a habit, in the library chapter | Indonesia, English for Nusantara Kids Grade 5, printed p.138 (stocked 2026-11-09 by the re-verification sweep merge) |
+| A narrative read whole: "The Breakers of Limitations from Gurung Mali" — a village brings renewable power against the odds (plot summary only; the story's text is not reproduced) | Indonesia, Life Today Grade 12, Unit 1, printed p.11 (stocked 2026-11-09 by the re-verification sweep merge) |
 
-**Acceptance count: taught in 8 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China)** — the
+**Acceptance count: taught in 9 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one complete novella in the author's own
@@ -101,7 +107,7 @@ than re-sourced. Kuwait binds a complete graded retelling into
 its Student's Book 10B: Treasure Island, simplified and
 abridged, in five episodes reaching the story's end — a
 graded retelling, not the original text, with no questions
-on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. China joins the same way (2026-11-08, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — fifteen sustained readings, poems and a song across Grades 5–9, filed as plot summaries only. Other closed countries join as their
+on the story printed in the book. Syria binds a complete graded reader into the back of a primary pupil's book — the Snow White retelling in *English for Starters 5* (printed pp.79–87) with a per-page multiple-choice check (printed p.88). Bolivia joins the same way Bangladesh does (2026-11-08, re-verification sweep): its schoolbooks carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — 31 lesson-length readings and songs (seventeen in the student books, fourteen in the teacher compendium), filed as plot summaries only. China joins the same way (2026-11-08, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is its long-reading ladder — fifteen sustained readings, poems and a song across Grades 5–9, filed as plot summaries only. Indonesia joins the same way (2026-11-09, re-verification sweep): its books carry no complete book-length text either, so it does not join the five complete-text countries on their terms; what it stocks is talking about your favourite book in Grade 5 and one sustained narrative read whole in Grade 12 — "The Breakers of Limitations from Gurung Mali," filed as a plot summary only. Other closed countries join as their
 books are read (see READING-QUEUE.md).
 
 **Pakistan added 2026-11-03** — 1 book stocks this lesson: **Book:** *English 12* (student's book) — Pakistan, issued by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority), Revised National Curriculum 2023, no ISBN printed. All filed in english/books/pakistan.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Filed plainly and exactly: Grade 12's Unit 13 (printed pp.97–144) prints John Steinbeck's novella *The Pearl* COMPLETE, Chapters 1–6, inside the textbook — a complete book-length text bound into the schoolbook, like Libya's readers. But it is the ORIGINAL novella text, not a graded retelling, and Pakistan has no graded readers.

@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia
 
 Every part traces to its book and page.
 
@@ -28,6 +28,12 @@ section, FULLY READ + CITATION CHECK PASSED).
 
 **Book 6:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, Unit 6 "Hundreds": money enters — cost and Riel prices ("An orange costs 900 Riels"), "How much does an orange cost?", dozen, a restaurant-buying reading | Cambodia, ENGLISH Grade 5, Chapter 4, Unit 6, printed pp.86–89 |
@@ -38,9 +44,12 @@ section, FULLY READ + CITATION CHECK PASSED).
 | Unit 4 "At the market," Lesson 2 "How much does it cost?": British money (pound, pence, each); the Remember-box price questions — "How much do cabbages cost? They cost 40p each" and "How much does meat cost? It costs £3.99 a kilo"; Lesson 1 prices in soums | Uzbekistan, Fly High English 6, Unit 4, printed pp.24–25 |
 | Prices at the shop: "How much are these pants? — They're cheap/expensive, £4.99" | China — English (PEP) Grade 4 Volume 2, Unit 6, printed pp.61–62 |
 | The price question as a speaking drill — "How much is it? — It's 12 yuan" | China — English (PEP) Grade 6 Volume 1, Unit 3, printed p.26 |
+| Money and the value of things — "An Expensive Book": what things cost and what they are worth | Indonesia, English for Nusantara Kids Grade 5, printed p.105 |
+| Personal money-management vocabulary, in the money unit | Indonesia, English for Change Grade 11, Unit 5, printed p.183 |
+| A unit on the future method of payment — payment and digital-money themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide (no student book held), Unit 4, printed p.147 — teacher-guide evidence only |
 
-**Acceptance count: taught in 4 countries (Cambodia,
-Uzbekistan, Sudan, China).** Cambodia carries the asking — the
+**Acceptance count: taught in 5 countries (Cambodia,
+Uzbekistan, Sudan, China, Indonesia).** Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -51,6 +60,11 @@ about/around softening for prices that are not exact. China
 carries the shop-price exchange in Grade 4 (cheap/expensive
 judgements beside it) and the price question as a set drill
 in Grade 6 (stocked 2026-11-08 by the re-verification
-sweep). Other
+sweep). Indonesia carries money at three heights: the
+value of things in Grade 5 ("An Expensive Book"),
+personal money-management vocabulary in Grade 11, and —
+as teacher-guide evidence only, no student book held —
+a Grade 12 unit on the future method of payment (stocked
+2026-11-09 by the re-verification sweep merge). Other
 closed countries join as their books are read (see
 READING-QUEUE.md).

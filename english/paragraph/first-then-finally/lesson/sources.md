@@ -112,6 +112,10 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 37:** English (PEP), Grade 4, Volume 1 (student book) — China, People's Education Press (with Lingo Learning Inc.). Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 38:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 39:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA Kelas XI) student book — Indonesia, Kemendikbudristek, first edition 2021, ISBN 978-602-244-863-1 (limited use in Sekolah Penggerak schools). The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -192,6 +196,8 @@ CITATION CHECK PASSED 2026-11-03).
 | Sequencing as the recipe work's stated skill — "follow a simple recipe in English, sequencing the baking process" — with a printed order-the-steps exercise (seven cake-making steps to number 1–7) | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 outcomes, printed p.61; "More exercises" Exercise 5, printed p.68 |
 | A place description in numbered paragraphs matched to pictures — the Tal Shihab Waterfalls told paragraph by paragraph in its order | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 3, printed p.13 |
 | A whole journey retold under the full signpost set named in a Study Box — First / Then / After that / Finally — the fullest presentation of the set in any held Syria book | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 6, printed p.19 |
+| A recipe as a sequence of cooking steps — the steps ordered first / then… ("A Special Recipe") | Indonesia, English for Nusantara Kids Grade 5, printed p.40 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Sequence words as a narrative's own named set, in the legend unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11 (2021 edition), Unit 1, printed p.26 (stocked 2026-11-09 by the re-verification sweep merge) |
 
 **Acceptance count: taught in 24 countries (Bangladesh,
 Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria).** Egypt prints the law and the set;

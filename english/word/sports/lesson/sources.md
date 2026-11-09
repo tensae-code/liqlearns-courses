@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -63,6 +63,10 @@ stocks this lesson below.
 
 **Book 12:** English for Schools — Prospect 2, Grade 8 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 13:** *English for Nusantara Kids*, Grade 6 (Kelas VI) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-245-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -79,9 +83,11 @@ stocks this lesson below.
 | New sports words — go cycling, ice-skate, play badminton | China — English (PEP) Grade 6 Volume 2, Unit 3, printed p.37 |
 | Hobbies and free-time activities: "Do you have any hobbies?"; "What's your hobby? — Playing tennis"; "What do you do in your free time? — I usually go shopping" — the hobby set asked beside the sports set | Iran, Prospect 2 (Grade 8), Lesson 7 "My Hobbies," printed pp.54–59 |
 | The hobbies set practised in reading and writing exercises, with a magazine page on hobbies and a summer-programme task | Iran, Prospect 2 Workbook (Grade 8), Lesson 7, printed pp.41–50 (workbook mirror of the student lesson) |
+| The materials needed to play a game — naming what a game takes | Indonesia, English for Nusantara Kids Grade 6, printed p.99 |
+| Extracurricular activities talk — the clubs and sports after class | Indonesia, English for Nusantara Grade 7, Chapter 5, printed p.219 |
 
-**Acceptance count: taught in 7 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran).** Mexico carries the activity set inside its
+**Acceptance count: taught in 8 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia).** Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -96,6 +102,6 @@ nature and travel units — go boating, go cycling,
 ice-skate, play badminton (stocked 2026-11-08 by the
 re-verification sweep). Iran carries the hobbies and
 free-time set in Grade 8, asked as "What's your hobby?"
-(stocked 2026-11-09 by the re-verification sweep merge). Other closed
+(stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).
