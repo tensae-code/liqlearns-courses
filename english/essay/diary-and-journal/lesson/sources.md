@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt
+countries: Malaysia, Nepal, Egypt, China
 
 Every part traces to its book and page.
 
@@ -44,6 +44,10 @@ Book and Workbook) — Egypt, Ministry of Education.
 Filed in english/EGYPT-BOOK-MAP.md (same filing state
 as Book 3).
 
+**Book 8:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The diary entry as a writing genre with informal features, taught as the unit's writing lesson | Malaysia, Academy Stars Year 6, Unit 2 "Life in the past", pp.28–29 (direct read) |
@@ -55,13 +59,18 @@ as Book 3).
 | The travel journal — a dated first-person model (15 July 2025, Luxor), a five-step guide (basics, what happened, feelings, sensory details, reflection), and the three-entry mini journal extension | Egypt, Secondary 10 Term 2, Unit 12, Lesson 5, pp.91–92 |
 | The Diary Tip Box — date and day, "Dear Diary", opening line, body of events and feelings, closing thought/wish — with a 5–6-sentence diary task | Egypt, Secondary 12 Term 2, Unit 10, Lesson 5 |
 | A diary entry read and taken apart phrase by phrase (Heba's entry, London, 28 November 2020), then a diary entry about a day living abroad as the writing kind | Egypt, Secondary 11 Term 2, Unit 7, Lesson 4 (as filed) |
+| A diary kept across the Recycle pages — daily entries worked as the week's writing | China — English (PEP) Grade 5 Volume 1, Recycle 1, printed pp.32–35 |
+| A diary entry as the unit's writing — a dated personal entry, read and written | China — English ("Go for it!") Grade 9, Unit 10, printed p.56 |
 
-**Acceptance count: taught in 3 countries (Malaysia,
-Nepal, Egypt).** Malaysia teaches the diary entry as a
+**Acceptance count: taught in 4 countries (Malaysia,
+Nepal, Egypt, China).** Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
 parts at Primary 4, the sectioned desert diary with its
 Structure Tip at Preparatory 8, the personal and travel
 journals defined and modelled at Secondary 10, and the
-Tip Box restated at Secondary 12.
+Tip Box restated at Secondary 12. China keeps a diary
+across its Grade 5 Recycle pages and sets a dated entry
+as writing again at Grade 9 (stocked 2026-11-08 by the
+re-verification sweep).

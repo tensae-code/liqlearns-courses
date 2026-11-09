@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China
 
 Every part traces to its book and page.
 
@@ -33,6 +33,8 @@ Mongolia, Ministry of Education, Culture, Science and
 Sports. Filed in english/books/mongolia.md (Grade 9
 section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1, Lesson 5 "Time": compound words (foot+ball, hour+glass, sun+dial…) inside the sundials/water-clock/hourglass reading | Sudan, SMILE Book 7 (Grade 7), Unit 1, Lesson 5, printed pp.1–8 |
@@ -41,9 +43,10 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Compound words in the Class 1 word-work run, printed hyphenated: sea-side, to-day, cup-board, as printed; Class 2: compound words split into their parts | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51); Class 2, syllabus body (printed pp.19–52) |
 | Compound nouns named as the chapter's grammar focus | Albania, A2 Chapter 35 "Going to the doctor," grammar focus, printed p.32 |
 | Sports compound nouns in the Grade 9 year's spine, at Unit 3 "Sports and fitness" | Mongolia, English IX (Grade 9), Unit 3, printed p.34 (year's spine as filed) |
+| Compound words worked as vocabulary building — coffee shop, cell phone and their set | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.20 |
 
-**Acceptance count: taught in 5 countries (Albania,
-Barbados, Mongolia, Sudan, Vietnam).** Sudan carries the
+**Acceptance count: taught in 6 countries (Albania,
+Barbados, Mongolia, Sudan, Vietnam, China).** Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -52,5 +55,7 @@ Barbados prints the hyphenated set (sea-side, to-day,
 cup-board) and the splitting skill in its primary syllabi;
 Mongolia carries sports compound nouns in its Grade 9
 spine; Albania names compound nouns as a grammar focus
-inside its doctor chapter. Other closed countries join as
+inside its doctor chapter. China works compound words as
+vocabulary building in Grade 5 — coffee shop, cell phone
+(stocked 2026-11-08 by the re-verification sweep). Other closed countries join as
 their books are read (see READING-QUEUE.md).

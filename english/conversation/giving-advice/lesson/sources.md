@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China
 
 Every part traces to its book and page.
 
@@ -70,6 +70,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 12:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
 
+**Book 13:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 14:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 15:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -87,9 +93,12 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Advice for caring for water at carnival time: imperative advice (turn off the tap while brushing, take shorter baths, don't flush tissue) after a water-scarcity reading | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p.10 |
 | Modal verb SHOULD: should/shouldn't for obligation, recommendation and opinion (no third-person change), practised as health suggestions — doctor dialogue, coronavirus protection, diabetes prevention | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp.47–50 |
 | Advice for caring water / saving water at home | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p.30 |
+| Advice-giving inside the week unit — telling a friend what to do | China — English (PEP) Grade 5 Volume 1, Unit 2, printed p.19 |
+| Advice inside the transport unit — "You should take the No. 57 bus" and its set | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.18–19 |
+| Study advice — how to learn, with should and the study-habit talk | China — English ("Go for it!") Grade 9, Unit 1, printed p.8 |
 
-**Acceptance count: taught in 7 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia).** Malaysia gives
+**Acceptance count: taught in 8 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China).** Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -107,6 +116,9 @@ India sorts had better by its three jobs — advice, order
 and threat — in Beehive's "Packing" unit. Jordan is
 counted for should-advice only, exactly as filed: its
 advice function is "You should work carefully", and no
-had better is recorded in its filing. Other closed
+had better is recorded in its filing. China gives
+advice inside its week and transport units in primary
+school, and study advice — how to learn — at Grade 9
+(stocked 2026-11-08 by the re-verification sweep). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).

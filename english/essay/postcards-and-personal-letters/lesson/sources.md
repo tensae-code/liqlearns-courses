@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China
 
 Every part traces to its book and page.
 
@@ -32,6 +32,14 @@ english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
 formal citation check for the pre-law Egypt reads is
 still owed).
 
+**Book 5:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27981-1. Filed in english/books/china.md (China — English Grade 5 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 6:** *Compulsory Education Textbook · English (PEP), Grade 5 Volume 2* — China, People's Education Press (with Lingo Learning Inc., Canada), first edition October 2014, ISBN 978-7-107-29086-2. Filed in english/books/china.md (China — English Grade 5 Volume 2 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 7:** *Compulsory Education Textbook · English (PEP), Grade 6 Volume 1* — China, People's Education Press (with Lingo Learning Inc., Canada), 2013 edition, ISBN 978-7-107-27999-5 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 6 Volume 1 — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The model postcard read, then your own written: Omar's postcard from Jeddah (the page is headed "Phonics" in print although its goal is postcard writing, as filed) | Saudi Arabia, We Can! 3 Workbook, Goal 96, printed p.234 |
@@ -40,12 +48,22 @@ still owed).
 | The postcard kept as a reference kind — plan and useful phrases — among email, informal letter and email, story, review and report | Malaysia, Form 3 Close-Up B1, Writing Reference, printed pp.176–181 |
 | The postcard modelled whole: greeting, past-tense holiday news with advice, "Wish you were here!", closing + name, address side with name and country, a real photo of the place (Dahab's Blue Hole) | Egypt, Primary 5 Term 1, Unit 5, p.89 |
 | The friendly letter's printed five-part checklist — greeting (Dear + name), introduction (say why you are writing), body (details or stories), closing (end politely), signature — with a full model letter and a word bank (time words, feeling words, action words, closings) | Egypt, Primary 5 Term 1, Unit 1, p.22 |
+| Letters as the unit's writing — friendly letters read and written | China — English (PEP) Grade 5 Volume 1, Unit 3, printed p.29 |
+| A pen-pal letter — writing to a new friend abroad | China — English (PEP) Grade 5 Volume 2, Unit 1, printed p.9 |
+| Letter writing as the unit's writing work | China — English (PEP) Grade 5 Volume 2, Unit 4, printed p.34 |
+| Pen-pal letters as a whole unit's writing — writing to a pen pal about hobbies and life | China — English (PEP) Grade 6 Volume 1, Unit 4, printed pp.37–40 |
+| Letters at senior level — a personal letter read and written | China — English ("Go for it!") Grade 9, Unit 2, printed p.16 |
+| Personal letters inside the feelings unit | China — English ("Go for it!") Grade 9, Unit 11, printed p.78 |
 
-**Acceptance count: taught in 4 countries (Saudi
-Arabia, Mongolia, Malaysia, Egypt).** Egypt models the
+**Acceptance count: taught in 5 countries (Saudi
+Arabia, Mongolia, Malaysia, Egypt, China).** Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
 the adjective upgrade; Malaysia names the card's two
 disciplines, linking words and the correct amount, and
-keeps its plan in the Writing Reference.
+keeps its plan in the Writing Reference. China writes
+letters up the whole ladder — friendly letters and a
+pen-pal letter in Grade 5, a pen-pal unit in Grade 6,
+personal letters again at Grade 9 (stocked 2026-11-08
+by the re-verification sweep).
