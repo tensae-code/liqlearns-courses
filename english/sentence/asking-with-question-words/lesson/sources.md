@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico
 
 Every part traces to its book and page.
 
@@ -153,6 +153,17 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 58:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 59:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The question-words table — Who, What, Where, Why, When, How long, How many — each with an example question and the shape of its answer ("I am an engineer" / "In Boston" / "At 7:00" / "For a week" / "Ten") | Mongolia, English VI, Grammar Reference, Unit 10 question words (pp.118–127 span, as filed) |
@@ -284,9 +295,12 @@ CITATION CHECK PASSED 2026-11-03).
 | Question words — the question-word set with its example questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 10 |
 | Question words — what, who, where, when, why, how, how many, how much, in dialogue frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 31 |
 | Wh- questions — the compendium's Wh- question presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 73 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+| Wh-questions in the simple present, with do/does and with be | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed pp. 37–39 |
+| The question words who / where / when / why / what / how reviewed for asking about food, culture and identity | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 47 |
+| Past simple wh-questions (wh-word + did + subject + base verb), with “ago” for past time | Mexico, Grade 7, Project 16 "Indigenous and Afro-Mexican Communities: History and Contributions to the National Identity", printed p. 150 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico).** Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -307,7 +321,7 @@ occasion talk on the six words and names them as the
 question mark's signals; Jordan
 drills what/who/how-old in Grade 1, when and how much
 in Grade 3, and How…? questions in Grade 5. Greece works how many / how much as a taught pair and what are you doing? at Grade 4, gathers the Wh- family in its Grade 4 final self-assessment, and sets wh-questions as a lesson's grammar in its Grade 7 Beginners workbook. Kazakhstan names question words as a module point at Grade 5, lists who / where / when / what at Grade 3, and teaches the family whole — preposition placement and subject–object questions included — at Grade 9. Iraq systematises the wh- words as a set in its Grade 4 Pupil's Book — who, what, when, where, how, why — and returns to present and past simple question formation in depth in its Grade 9 Student's Book. Ethiopia teaches the Wh-question words as a named lesson in Grade 1 — what, where, why, how, who, which, when — works who/what/how/why questions in its role-model unit, and returns to 'Wh…' questions in Grade 4 (printed p.63). South Africa stocks this lesson in full: its Grade 3 FAL Workbook 1 sets out the wh-question words in a table and has learners make their own questions, Grade 5 HL turns statements into questions with where, what and when and frames a news report with who, what, when, where, why, and Grade 6 FAL runs an alien interview on wh- questions. Syria works wh-questions in its Grade 5 senses unit, names question words in its Grade 5 jobs unit, and gives the family a whole unit at Grade 8 — question words as the Student's Book's grammar point and a full question-words table, who/whom included, in the Workbook. South Sudan joined 2026-11-03: its Primary 1 Teacher's Guide names the question words as a class with model questions, and its Primary 3 Pupil's Book works where-questions in the Payam unit. Nepal carries the question words in Grade 6's transformation and question-practice work, in Grade 8's question-formation grammar and Grade 9's wh-question grammar, and — as its own teaching — in the Grade 6 guide's whole wh-question unit; Armenia checks the question words as a set — How old / What colour / When / Where — in English 3, Part 1's Progress Check Units 1–3 (printed pp.94–99), and teaches wh-questions as a headed grammar lesson in English 6, Unit 2.2 (printed pp.35–39), worked again with statements in Unit 2.4 (printed pp.45–47). Kuwait works wh-questions with be in Grade 1, past-simple wh-questions and wh-questions with do/does in Grade 2, and past-simple questions again in Grade 4. Rwanda works the question words as frames from Primary 1 — what, what colour, how old and how many as whole dialogs — adds what time in Primary 2, how many and what/where over jobs in Primary 4, and how big / how many / what frames in Primary 6; no Rwanda book tables the family as a system, and none is claimed. Other closed countries join as their books are read
-(see READING-QUEUE.md).
+(see READING-QUEUE.md). Mexico's Grade 7 book teaches wh-questions in the present, reviews the question words for asking about food, culture and identity, and builds past wh-questions with “ago” (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 4 added 2026-10-27** — *English for Lao Primary
 Schools, Student's Book 2, Grade 4* (MoES/RIES, 2012; full read

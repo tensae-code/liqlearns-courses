@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico
 
 Every part traces to its book and page.
 
@@ -199,6 +199,17 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 66:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 67:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -324,8 +335,11 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Bolivian typical food: the typical dishes placed on the map (charque, k'alapurka, plato paceño, pique macho, mondongo, saice, surubí, sudado, keperí, majadito) and market/fruit-salad conversations with “Would you like…?” | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp.38–40 |
 | Bolivian gastronomy and a cuisine-history text (with the Urmiri hot-springs reading) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp.76–77 |
 | Describing your favourite food — foods, drinks and snacks by their taste and texture | Indonesia, English for Nusantara Grade 7, Chapter 2 "Culinary and Me," printed p.59 (stocked 2026-11-09 by the re-verification sweep merge) |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
+| The Culture Fair project: an exhibition on the traditional food and literature of an English-speaking country | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 46 |
+| A listening with food at its heart: “Anansi Goes to Lunch” — three invitations describing African, American and Italian food; learners identify who, where and what food | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 50 |
+| Natural against processed foods — the supermarket sort: seeds, radish and asparagus against cookies, soda and canned tuna | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 155 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -339,7 +353,7 @@ itself, and a country's eating habits sorted into a table;
 Sierra Leone carries foods categorised from a poem, and
 favourite foods as the pupils' own writing. Jordan carries the first food set with I like in Grade 1, two sets with Do you like…? in Grade 2, the picnic set with food shopping in Grade 4, and food with containers, prices and ordering in Grade 8; Greece carries the food pyramid with its eighteen flashcards in the Grade 2 Workpack, party shopping and sandwich-making in Grade 4, and foods sorted by health with their containers in Grade 7 Beginners; Kazakhstan carries the first food set with I like / I don't like in Grade 1 Smiles, a seventeen-word food and drink set sorted good and bad for teeth in its Grade 3 Express book, and healthy against junk food with the container phrases in Grade 4 Smiles; Iraq carries the ten-word fruit set with I like / I don't like and the café set with offers in Grade 2, the food sets with likes and wants in Grade 3, and the container phrases there and again with countable against uncountable food in Grade 5; Ethiopia carries food crops sorted into vegetables, fruits, legumes, cereals and root vegetables and the healthy-food set in Grade 2, and vegetable names matched to pictures in Grade 4; South Africa carries food with fruit and vegetables, likes and dislikes and polite requests in Grade 1 FAL Theme 7, cooking vocabulary sorted into fruit, vegetables, meat and grain in Grade 2 FAL, and a fruit-salad recipe read and rewritten in Grade 4 HL; Syria carries the first food set with I like in Grade 1, restaurant requests in Grade 3, food with how much / how many and countable against uncountable in Grade 5, and tasty food with taste adjectives and cooking verbs in Grade 6; South Sudan carries food as "Nutrition" three years running — foods named, food types and keeping food safe in Primary 1, foods sorted healthy and unhealthy with the three food groups speaking for themselves in Primary 2, and the food groups again with a healthy-eating poem in Primary 3; Nepal carries food and fruit in its Grade 3 picnic unit's fruit-by-season grouping, keyed by the true companion guide, in Grade 5's priced quantities and partitives, and — as the guides' own teaching, those guides keying to newer workbooks that are not held — in the Grade 1 guide's rice-and-curry, fruits and vegetables lessons and the Grade 2 guide's whole Fruits and Vegetables theme; Kuwait carries a full Grade 1 food unit, "Yummy Food", with shopping and ice-cream reading texts, and food and drink words at a restaurant in the older course's Grade 1 activity book, cited for its own teaching only; Rwanda carries food from its first year — the likes-and-dislikes food set in Grade 1, a whole Food unit with countable against uncountable foods and the food groups in Grade 2, market foods in Grade 3, traditional against modern food in Grade 4, and food groups with a balanced diet in Grade 5 — fruit carried inside those food sets, not as a standalone fruit set. Other closed
 countries join as their
-books are read (see READING-QUEUE.md).
+books are read (see READING-QUEUE.md). Mexico's Grade 7 book works food as culture: a Culture Fair on an English-speaking country's food and literature, the “Anansi Goes to Lunch” listening, and the natural-against-processed supermarket sort (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — South Africa teaches food in its first FAL year: Grade 1 Workbook 1 Theme 7 (printed pp.62–67) teaches food with fruit and vegetables, likes and dislikes, and polite requests. Grade 2 FAL Workbook 2 sorts cooking vocabulary into fruit, vegetables, meat and grain (printed pp.34–35), and Grade 4 HL Workbook 1 reads and rewrites a fruit-salad recipe (printed p.52).
 

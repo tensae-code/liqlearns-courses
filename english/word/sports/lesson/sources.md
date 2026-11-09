@@ -4,12 +4,16 @@ countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
-**Book 1:** Uérakua anapu uantakua. Projects and
-Readings. First Grade. Secondary (Grade 7) — Mexico,
-Secretaría de Educación Pública (SEP), Primera edición
-2024, ISBN 978-607-579-568-3. Filed in
-english/books/mexico.md (FULLY READ + CITATION CHECK
-PASSED 2026-10-26).
+**Book 1:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
 
 **Book 2:** English IX — Student's Book, Grade 9 —
 Mongolia, Ministry of Education, Culture, Science and
@@ -67,6 +71,17 @@ stocks this lesson below.
 
 **Book 14:** *English for Nusantara*, Grade 7 (SMP/MTs Kelas VII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-885-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -85,6 +100,8 @@ stocks this lesson below.
 | The hobbies set practised in reading and writing exercises, with a magazine page on hobbies and a summer-programme task | Iran, Prospect 2 Workbook (Grade 8), Lesson 7, printed pp.41–50 (workbook mirror of the student lesson) |
 | The materials needed to play a game — naming what a game takes | Indonesia, English for Nusantara Kids Grade 6, printed p.99 |
 | Extracurricular activities talk — the clubs and sports after class | Indonesia, English for Nusantara Grade 7, Chapter 5, printed p.219 |
+| The games project (Modified Games Factory): modify a game's rules and reflect on decision-making — “Think Before You Act” | Mexico, Grade 7, Project 8 "Think Before You Act: Games and Decision-Making", printed p. 70 |
+| The games-strategy project: strategies and creativity in modified target, striking, fielding and court games | Mexico, Grade 9, Project 9 "Building Creative, Tactical and Strategic Thinking", printed p. 80 |
 
 **Acceptance count: taught in 8 countries (Albania,
 Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia).** Mexico carries the activity set inside its
@@ -104,4 +121,4 @@ re-verification sweep). Iran carries the hobbies and
 free-time set in Grade 8, asked as "What's your hobby?"
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set.

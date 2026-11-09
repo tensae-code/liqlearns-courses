@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico
 
 Every part traces to its book and page.
 
@@ -152,6 +152,38 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 55:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+
+**Book 56:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 57:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 58:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -313,8 +345,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-03).
 | A reading answered from itself: "The Dead Sea" — the salty lake between Jordan, the West Bank and Israel, more than 400 m below sea level, where no plants or animals live and people float easily — answered by comprehension and true/false questions | Albania, Chapter 38, printed pp.52–53 (PDF 55–56) — teacher-guide evidence |
 | A science reading answered from itself: "Space travel" — the astronaut Antoni prepares for a mission: team roles (pilots, scientists, mechanics), spacewalks, protective clothing, robots, countdown and lift-off — with comprehension and true/false work | Albania, Chapter 39 "Travel," printed pp.56–58 (PDF 59–61) — teacher-guide evidence |
 | A science reading answered from itself: "Exploring the planets" — the eight planets and their special features (Mercury's hot and cold sides, Venus's long day, Earth's moon and oceans, Mars, Jupiter's red spot, Saturn's rings, Uranus's cold and seasons, Neptune's winds and icy volcano) — with comprehension and true/false work | Albania, Chapter 39, printed pp.59–60 (PDF 62–63) — teacher-guide evidence |
-**Acceptance count: taught in 32 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania).** India builds the carrier hunt into the page and
+| The data text “That's the Question!”: children and teenagers get under 60 minutes of daily physical activity — figures to read and answer from | Mexico, Grade 7, Project 6 "Technical Solutions to the Problems and Needs of the Community", printed p. 58 |
+| The chinampas reading: true/false comprehension on how the floating gardens are planted and worked | Mexico, Grade 8, Project 13 "Floating Gardens", printed p. 110 |
+| The community appeal text “Urgent Help to Build Shelters in Jacarandas”, read and answered from | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 146 |
+| The reading “What Experiment Is It?”: identifying experiments from their descriptions | Mexico, Grade 9, Project 17 "Chemical Reactions: Transforming Humankind and the World", printed p. 156 |
+**Acceptance count: taught in 33 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico).** India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -361,7 +397,7 @@ true/false with correction, and reference and inference
 questions on every reading, and Pearls 9B sends pupils
 to find the evidence in the text in its cause-and-effect
 linker work. Rwanda answers from the text as its standing comprehension work from P1 up — passages, stories, graphs and sample papers all closed by questions on the text itself — with skimming and scanning named as reading skills in P5 and P6, but no not-given answering shape in any read book. Tanzania answers from the text as its one book's fixed cycle — every unit's story, passage or poem closed by fill-in-the-blanks, short-answer questions and a word-bank completion drawn from the text itself, two questions per unit stepping out to the pupil's own life — with no named scanning or not-given answering strategy in the book, so that naming rests on the other countries. Other closed countries join as their
-books are read (see READING-QUEUE.md).
+books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 3 Workbook 1*, *English First Additional Language, Grade 3 Workbook 1* and *English Home Language, Grade 4 Workbook 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. Comprehension questions answered in writing from the text run through the whole set: the Grade 3 Home Language book's standing instruction is that answers are written in full sentences from the passage; the Grade 3 First Additional Language book answers seven written comprehension questions on a health article (printed pp.22–23); and the Grade 4 Home Language book answers comprehension and writes a 40–50-word summary of a story (Theme 1). South Africa's comprehension is literal-level — inference appears only as occasional "Why do you think…?" questions.
 

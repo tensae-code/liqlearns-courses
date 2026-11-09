@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -109,6 +109,17 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 22:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -135,10 +146,12 @@ covers the 6th Year book only).
 | Adjective (relative) clauses, in the fairy-tale unit's language work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.90 |
 | Identifying people with whose-relative clauses, in the guide's own practice answers (teacher evidence; one printed answer, "The man whose car under the tree is a director", drops the verb — book error, taught corrected) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.29 |
 | Describing and identifying people with who and whose (the exercises repeat the Grade 9 book's set) | Mauritania, Study English, Grade 10, printed pp.25–26 |
+| Relative pronouns who / whose / whom / which / that: “whose house we bought” | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 70 |
+| Adjective clauses: noun + that/who/which + verb… | Mexico, Grade 9, Project 9 "Building Creative, Tactical and Strategic Thinking", printed p. 84 |
 
-**Acceptance count: taught in 13 countries (Cambodia,
+**Acceptance count: taught in 14 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia, Mauritania).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -166,4 +179,4 @@ does not meet this lesson's taught-as-a-system bar.
 Mauritania practises whose-clauses in its Grade 7 teacher
 guide (teacher evidence) and who/whose descriptions in Grade
 10 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Mexico's Grade 9 book teaches relative pronouns and adjective clauses inside its legacy and creative-thinking adventures (stocked 2026-11-09 by the Mexico re-verification sweep merge).

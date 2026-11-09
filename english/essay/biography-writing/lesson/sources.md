@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico
 
 Every part traces to its book and page.
 
@@ -57,6 +57,38 @@ the old filing in english/books/bangladesh.md.
 
 **Book 12:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 13:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 14:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 15:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The biography structure whole — who / when and where / what / why important; introduction, early life, major achievements, later life, conclusion; past tense, third person, dates and linking words — with the model biography of Naguib Mahfouz (1911–2006, Cairo Trilogy, Nobel 1988) and a 180–200-word biography task | Egypt, Secondary 12 Term 2, Unit 12, Lesson 5 |
@@ -85,9 +117,13 @@ the old filing in english/books/bangladesh.md.
 | Speeches on national figures — a conversation about the footballer Remigio Etcheverry | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 116 |
 | Biographies of heroes and footballers — national biographies as writing models | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 117 |
 | Writing: a passage about the person or event from junior high school you will never forget (describe it, explain how you feel about it, explain how it changed your life) | China — English ("Go for it!") Grade 9, Unit 14, printed p.112 |
+| A biography paragraph: Robert Frost (1874–1963), read as the adventure's biography model | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 84 |
+| The hidden-history project: researching women's social prominence across history — the Candaces, Hypatia of Alexandria, Sojourner Truth | Mexico, Grade 7, Project 15 "Reconstructing the Unknown Past of Women", printed p. 128 |
+| A full biography reading: Matilde Montoya, Mexico's first female doctor (topic summary only) | Mexico, Grade 8, Project 5 "Matilde, Our First Female Doctor", printed p. 42 |
+| A collective biography reading: the Mexican women artists Lola Álvarez Bravo, Amalia Hernández and María Izquierdo (topic summary only) | Mexico, Grade 9, Project 6 "Everything We Create Is Art", printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Egypt,
-Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China).** Egypt states the full
+**Acceptance count: taught in 8 countries (Egypt,
+Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico).** Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -101,4 +137,4 @@ lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
-2026-11-08 by the re-verification sweep).
+2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia, Mexico
 
 Every part traces to its book and page.
 
@@ -52,6 +52,27 @@ CHECK PASSED 2026-11-03); re-read page by page in the
 2026-11-08 re-verification sweep.
 the old filing in english/books/bangladesh.md.
 
+**Book 8:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 9:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Poetry forms — bio poems, colour poems, limericks (and post cards) — begin at Class 3 in the shared grid (syllabus evidence only) | Barbados, Primary Language Arts Syllabus, Scope and Sequence, pp.1–9 (Class 4 printing, as filed) |
@@ -67,9 +88,12 @@ the old filing in english/books/bangladesh.md.
 | A poem read for pleasure: "Bird" by Pablo Neruda (translated), in the same reader | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.271 (stocked 2026-11-08 by the re-verification sweep) |
 | Making a simple poem | Indonesia, English for Nusantara Grade 8, Chapter 3, printed p.103 |
 | Creating a poem, as the unit's writing step | Indonesia, English for Nusantara Grade 9, printed p.119 |
+| The poetry-reading project: how poetry and literary forms play with words, prepared and performed | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 78 |
+| Two short texts studied whole: the prose piece “The Versatility of Hands” and José Juan Tablada's shape poem “The Dagger” (summaries only) | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed pp. 78–79 |
+| Poetry and art vocabulary matched word to meaning: painter, contemplate, sensations, imagination, poetry, heart, peace | Mexico, Grade 8, Project 7 "A Poet With the Wings of a Painter", printed p. 56 |
 
-**Acceptance count: taught in 6 countries (Barbados,
-Ghana, South Sudan, Egypt, Bangladesh, Indonesia).** Barbados's syllabus names
+**Acceptance count: taught in 7 countries (Barbados,
+Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico).** Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -86,4 +110,4 @@ Pleasure reader's Ghazali, Dickinson and Neruda (added
 2026-11-08 by the re-verification sweep). Indonesia makes
 poems in both secondary books — a simple poem in Grade 8
 and poem creation as the writing step in Grade 9
-(stocked 2026-11-09 by the re-verification sweep merge).
+(stocked 2026-11-09 by the re-verification sweep merge). Mexico plays with words in Grade 7 — a poetry reading prepared and performed, a prose piece and a shape poem studied whole — and matches poetry and art vocabulary in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).

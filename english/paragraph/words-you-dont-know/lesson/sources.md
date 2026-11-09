@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico
 
 Every part traces to its book and page.
 
@@ -83,6 +83,17 @@ CHECK PASSED 2026-11-03).
 
 **Book 25:** *Reading (English) Standard One — Pupil's Book Two* (pupil's book) — Tanzania, Tanzania Institute of Education (TIE), © 2019, reprinted 2021, ISBN 978-9987-09-011-2. Filed in english/books/tanzania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
+**Book 26:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every unit's opening instruction — "Notice these expressions in the text. Infer their meaning from the context" — standing at the head of the reading apparatus in both senior books, with vocabulary work built around inferring before checking | India, Hornbill (Class XI) and Flamingo (Class XII), the About the Book / unit apparatus (as filed) |
@@ -132,9 +143,10 @@ CHECK PASSED 2026-11-03).
 | More same-meaning pairs built the same way inside the next unit's closing dialogue — jumping rope and skipping rope, buy and purchase, hate and dislike, speak and talk | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Eleven, printed p.44 |
 | Opposite meanings worked as a pair dialogue: a good day against a bad day, winning against losing, completed from a word bank (bad, win) | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Six, Exercise 3, printed p.26 |
 | One word, two meanings: Mr Mouse means the computer mouse, not the animal — the mouth/mouse mix-up talked through (“Where is my mouth?”; “I cannot catch a mouse”) until the word's two meanings stand apart, the fill-ins naming what a mouse can also be | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Twelve, printed pp.46–49 |
+| A listening on two coined words: understanding “infodemic” and “infocracy”, the phenomena they name | Mexico, Grade 9, Project 15 "Democracy and the Right to Information in the Age of Infodemic", printed p. 140 |
 
-**Acceptance count: taught in 21 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania).** India's senior books print the
+**Acceptance count: taught in 22 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico).** India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -164,7 +176,7 @@ Grade 11 returns to contextual guessing in Unit 3
 and to guessing from context in Units 6 and 10, and
 its Grade 4 teacher's guide carries a guessing-meanings
 lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8); South Sudan joined 2026-11-03: it stocks the guessing in part — its Primary 3 Teacher's Guide's Introduction names the strategies for getting unstuck on a word (re-read, context clues, infer meaning, locate key words, predictions, word attack, printed pp.iv–x) — but that teaching sits in the guide's Introduction only, and no read South Sudan pupil's book practises guessing a word's meaning from its context as a lesson (the definition-and-matching vocabulary work elsewhere in the series is not this lesson). Tanzania joined 2026-11-04 in part: it teaches the word-relationship stock outright — synonyms named as synonyms (until/till; opponent, rival, enemy; buy/purchase; hate/dislike; speak/talk), opposites worked in dialogue, and one word's two meanings (mouse) talked apart — the very stock other countries' methods spend on unknown words, but it teaches no guessing from context anywhere, so the context ladder rests on the other countries. Other closed countries join as their
-books are read (see READING-QUEUE.md).
+books are read (see READING-QUEUE.md). Mexico's Grade 9 book listens for two coined words — “infodemic” and “infocracy” — and works them out from their context (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).
 

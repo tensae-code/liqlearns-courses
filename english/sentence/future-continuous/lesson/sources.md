@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico
 
 Every part traces to its book and page.
 
@@ -14,6 +14,17 @@ Every part traces to its book and page.
 
 **Book 5:** 10
 
+**Book 6:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The future continuous carried in Secondary 11 Term 2's future work | Egypt, Secondary 11 Term 2 (as filed in EGYPT-BOOK-MAP.md) |
@@ -21,5 +32,6 @@ Every part traces to its book and page.
 | Future continuous in Unit 5's grammar run, beside the future perfect forms | Malaysia, Form 5, Unit 5 (as filed in english/books/malaysia.md) |
 | Future progressive (future continuous) taught in the secondary grammar peak | Uzbekistan, English Matters 9, Unit 2 (as filed in english/books/uzbekistan.md) |
 | The future continuous — the student book's full treatment (the book models the negative throughout as “will be not + verb-ing” — “I will be not dancing” — taught corrected: will not be dancing, the order the compendium prints) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 52–55 |
+| The future progressive (will be + -ing): “We will be implementing energy-saving policies” | Mexico, Grade 9, Project 12 "Technical Solutions Using Sustainable Energies", printed p. 112 |
 
-**Acceptance count: taught in 4 countries (Egypt, Bolivia, Malaysia, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico).** Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).

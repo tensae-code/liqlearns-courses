@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -55,6 +55,17 @@ PASSED 2026-11-03).
 
 **Book 11:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 12:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
@@ -81,9 +92,10 @@ PASSED 2026-11-03).
 | Arguing for and against: the argumentative text's structure | Indonesia, Life Today Grade 12, Unit 2, printed p.70 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Hortatory exposition met on digital life — the "Netiquette" exposition — closing in recommendation | Indonesia, Life Today Grade 12, Unit 3, printed p.113 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The discussion text met at its unit's opening — the two-sided kind itself (its structure pages are cited in the row above) | Indonesia, Life Today Grade 12, Unit 4, printed p.160 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The compendium project: an argumentative text for a Compendium of Stories, Sayings, and Proverbs in Spanish and an Indigenous language | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 60 |
 
-**Acceptance count: taught in 6 countries (Bolivia,
-Malaysia, India, Indonesia, Sierra Leone, Syria).**
+**Acceptance count: taught in 7 countries (Bolivia,
+Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico).**
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -91,4 +103,4 @@ and conclusions as separate skills; India names the
 essay's four characteristics; Indonesia gives three
 kinds labelled structures of their own; Sierra Leone
 builds the five-paragraph essay and lessons for its
-kinds; Syria names the kind family outright.
+kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge).

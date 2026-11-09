@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -38,6 +38,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 13:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 14:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The past continuous tabled whole at Year 3, Topic 6 | Bolivia, teacher compendium, Year 3 Topic 6 (as filed in english/books/bolivia.md) |
@@ -56,9 +77,12 @@ covers the 6th Year book only).
 | The past progressive, full paradigm — affirmative, negative, yes/no questions (a re-teach of the past continuous) | Mauritania, Study English, Grade 11, printed pp.17–20 |
 | Simultaneous past actions, deeper: the past continuous for the longer action, the simple past for the event; while only with continuous actions, when for the event | Mauritania, Study English, Grade 11, printed pp.39–42 |
 | Duration in the past with the past continuous (a re-teach, over the "Sidi's Evening" text) | Mauritania, Study English, Grade 11, printed pp.46–48 |
+| The past progressive (was/were + -ing) for interrupted past actions — “Automatons were becoming more popular” | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 53 |
+| Past simple against past continuous, reviewed side by side | Mexico, Grade 8, Project 7 "A Poet With the Wings of a Painter", printed p. 62 |
+| Simple past against past progressive: “They were singing songs” | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed p. 12 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania).** Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico).** Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico teaches the past progressive in Grade 8 (interrupted actions, then a past-simple contrast review) and contrasts simple past with past progressive again in Grade 9 (stocked 2026-11-09 by the Mexico re-verification sweep merge).

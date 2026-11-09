@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico
 
 Every part traces to its book and page.
 
@@ -147,6 +147,17 @@ CITATION CHECK PASSED 2026-11-03).
 
 **Book 51:** Compulsory Education Textbook · English (Grade 3 starting point), Grade 4 Volume 1 (student book) — China, People's Education Press (PEP) with Lingo Learning Inc. (Canada). Filed in english/books/china.md (Grade 4 Volume 1 section, FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 52:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The SIMPLE PRESENT frame in three shapes — affirmative Subject + Verb + Complement, negative with do/does not — and the DO–DOES interrogative box standing beside them as the question shape | Bolivia compendium, the Daily activities text (T8, compendium p.178) |
@@ -275,9 +286,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Yes/no questions named in the birthday chapter's outcomes — "ask and respond to yes/no and wh- questions in present simple" — with the printed can question "Can you help me decorate before the party?" in its example set | Albania, *Akelius A2 Level* teacher's guide, Chapter 40 "Birthday Party" overview, printed pp.61–62 |
 | Yes/no questions with do/does and be — short answers, on family and daily life | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 10–11 |
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
-**Acceptance count: taught in 32 countries (Bangladesh,
+| Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
+**Acceptance count: taught in 33 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -292,7 +304,7 @@ simple-present questions as a system; Jordan
 asks do, does, be, have-got and can yes/no questions
 with their short answers across Grades 2–3. Greece asks is there…? / are there…? and does it…? with their short answers at Grade 4, and tables the present and past question forms inside its Grade 5 systems. Kazakhstan asks be questions with short answers at Grade 3, carries the present simple into questions and short answers there, and names Present Simple and Present Continuous questions as language-focus points in its Grade 5–6 English Plus books. Iraq asks Is it a …? with plain Yes / No answers in Grade 1, teaches Do you …? — Yes, I do. / No, I don't. as the central new question form of its Grade 3 health unit, and splits question formation by verb type in Grade 6 — *be* inverts, other verbs take Do/Does. Ethiopia names the question types outright in Grade 9 — wh-questions, yes/no questions, and questions beginning with an auxiliary or modal — and tables question forms (wh- and yes/no) again in Grade 11. South Africa changes statements into questions in Grade 6 Workbook 1 — interrogatives, with "Was she…?" and "Did they…?" started for the learner — turns statements into questions across a theme in Grade 5 Workbook 1, and does the same in its Grade 6 FAL Workbook 2. Syria asks be, there, continuous and have-got yes/no questions with their short answers from the first years — Is it…? and Is there…? in Grade 1, Is your sister swimming…? and Have you got…? / Has she got…? in Grade 2. South Sudan joined 2026-11-03, in part only: its Secondary 1 Student's Book asks past yes/no questions with did inside the past-simple system, and its Teacher's Guide states the don't/doesn't negative order the student's book itself does not state; no present do/does question formation is claimed. Nepal carries the yes/no question from its first frame in Grade 1 ("Is this an ant? — Yes, it is / No, it isn't") through transformation and short-answer lessons in Grade 6 to named formation lessons in Grades 8 and 9, with the inversion and do/does/did teaching also carried, as its own teaching, by the Grade 6 guide; Armenia asks yes/no questions with be from its first unit — "Is he ten? Yes, he is." in English 3, Part 1, Unit 1.1 (in Unit 1, printed pp.9–32), with he/she statements beside them — and revises be questions at the start of Grade 4 in English 4, Part 1's Starter Lesson (printed pp.3–13), with There is/There isn't beside them. Kuwait asks present-continuous, can, did and do/does yes/no questions with their short answers in its Grade 1 and Grade 2 Skyline books, and works present-simple yes/no questions again in Grade 7. Rwanda asks have-got, be and do/does yes/no questions from Primary 1, can and be questions with their short answers in Primary 2, be questions over animal classes in Primary 4, and did questions inside the named Past Simple in Primary 6. Other
 closed countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Mexico's Grade 7 book builds yes/no questions both ways — with be and with do/does — inside its identity adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
 Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in

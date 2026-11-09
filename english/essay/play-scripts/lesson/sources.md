@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -50,6 +50,17 @@ liqlearns-courses-work/sweep-2026-11-08/english/
 bangladesh-placements.md); this volume is not covered by
 the old filing in english/books/bangladesh.md.
 
+**Book 8:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A complete play script read: "The robbery" (Inspector Fox deduces that the photographer "borrowed" the dinosaur egg); then play-script writing with stage directions as the unit's writing work | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 10 "It's a mystery!", printed pp.122–123 (the script) and pp.128–129 (the writing) |
@@ -60,9 +71,12 @@ the old filing in english/books/bangladesh.md.
 | Skits and plays as a writing kind: "Skits, plays, in Standard English" (Class 1 scope and sequence, row 4.2.5); skits and plays "using Standard English dialogue" in the writing strand | Barbados, Language Arts Syllabi, Class 1, printed p.7 and the Class 1 syllabus body — syllabus evidence only |
 | A whole one-act play printed entire — Chekhov's "The Proposal" (1888–89) — and a five-exchange script written from a prose excerpt as the unit's speaking work | India, First Flight, Class 10, Unit 11 "The Proposal" (as filed) |
 | The same play read for pleasure at the top of school: Chekhov's "The Proposal" — a farcical marriage proposal — printed as the drama piece of the senior book's Reading for Pleasure reader (plot summary only is filed; no play text is carried into the lesson) | Bangladesh, English for Today, Classes XI–XII & Alim, Reading for Pleasure, printed p.273 (stocked 2026-11-08 by the re-verification sweep) |
+| The Stop Racism role-play: role-play activities on scenarios of injustice, and recognising racism in the media | Mexico, Grade 9, Project 10 "Stop Racism!", printed p. 90 |
+| The play-script project: write and stage a script adapting a known story to a current community problem | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed p. 116 |
+| The dramatic-text concepts named: protagonist, antagonist, plot, conflict, theme, act, scene, dialogue, monologue, props, set design | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed p. 118 |
 
-**Acceptance count: taught in 5 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh).** Malaysia reads a play script
+**Acceptance count: taught in 6 countries (Malaysia,
+Ghana, Barbados, India, Bangladesh, Mexico).** Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -70,4 +84,4 @@ Barbados sets skits and plays in Standard English from
 Class 1; India prints a full one-act play and sets the
 prose-to-script conversion. Bangladesh prints the same
 Chekhov play in its senior book's Reading for Pleasure
-reader (added 2026-11-08 by the re-verification sweep).
+reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge).

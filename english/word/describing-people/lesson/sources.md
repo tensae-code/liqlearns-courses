@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -70,6 +70,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 20:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 21:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -95,9 +116,11 @@ covers the 6th Year book only).
 | Identifying people by clothes and accessories: the girl in a veil, the boy with curly hair (in + clothes, with + body/accessories) | Mauritania, Study English, Grade 7, printed pp.40–41 |
 | Describing and identifying people, with who/whose/that/which used in the descriptions | Mauritania, Study English, Grade 9, printed pp.9–12 |
 | Character and personality: what is he/she like — sociable, humble, open-minded, easy-going, nervous, and their opposites | Mauritania, Study English, Grade 9, printed pp.13–16 |
+| The Identity project: a mural of the different ways of being a teenager — describing people as identity and inclusion | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed p. 20 |
+| The Portraits project: portraiture from the Nacho López photographic library used to describe people and to work against discrimination | Mexico, Grade 8, Project 2 "You, Me, Us… Portraits as Reflections of Other Worlds", printed p. 20 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania).** Cambodia carries the
+**Acceptance count: taught in 10 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico).** Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -123,4 +146,4 @@ READING-QUEUE.md).
 Mauritania describes people in Grade 7 (looks and clothes) and
 again in Grade 9 (who/whose descriptions and character words)
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge).

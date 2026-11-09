@@ -1,6 +1,6 @@
 # Sources — News writing
 
-countries: Cambodia, Egypt, Nepal, Uzbekistan, China
+countries: Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico
 
 Every part traces to its book and page.
 
@@ -16,6 +16,27 @@ Every part traces to its book and page.
 
 **Book 6:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 7:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 8:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headlines and news stories; subject–verb–object word order ('There was a big storm last night') | Cambodia, ENGLISH Grade 12, Unit 15 'In the news', printed pp.81–86 (Lesson A) |
@@ -28,5 +49,8 @@ Every part traces to its book and page.
 | Verb tenses in reporting news items; weather, political, business and sports news extracts; journalistic language set against personal-letter conventions; present-perfect forms used inside the news gap-fills (never named as a tense in this book) | Uzbekistan, English Matters 8, Unit 5 'News Matters', Lessons 1–4, printed pp.50–55 |
 | Reading: "Strange Happenings in My Town", a newspaper-style article (strange noises, Victor's and Helen's opposite guesses, police find nothing; choose the best title) | China — English ("Go for it!") Grade 9, Unit 8, printed p.59 |
 | Writing: finish a newspaper article, "No More Mystery in the Neighborhood", in three parts (background, how it was solved, how people feel now) | China — English ("Go for it!") Grade 9, Unit 8, printed p.64 |
+| The news project: write a news article or a popular-science text, with a campaign for a culture of peace | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 10 |
+| The historical-newscast project: a newscast on the causes and development of the Second World War | Mexico, Grade 9, Project 14 "Extra, Extra! The World Is at War Again!", printed p. 128 |
+| The infodemic project: telling trustworthy from untrustworthy news, and the right to information | Mexico, Grade 9, Project 15 "Democracy and the Right to Information in the Age of Infodemic", printed p. 138 |
 
-**Acceptance count: taught in 5 countries (Cambodia, Egypt, Nepal, Uzbekistan, China).** Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced.
+**Acceptance count: taught in 6 countries (Cambodia, Egypt, Nepal, Uzbekistan, China, Mexico).** Filing note, stated plainly: the catch-up plan named Nepal Grade 8 Unit 14 for this lesson, but the filing shows Grade 8 Unit 14 is conditionals (printed pp.172–188) and carries no news writing; Nepal's news stock is therefore taken from Grade 10 Unit 19 (the news report from clues) and Grade 8 Unit 13 (the news-style report read), as filed. Cambodia opens the kind with headlines; Egypt supplies the five W's and the from-notes build; Uzbekistan supplies the tense work; China joins with a newspaper-style mystery article to read and a three-part newspaper article to finish (stocked 2026-11-08 by the re-verification sweep). Headlines, leads and bodies in this lesson are stated in LiqLearns' own words; no book's news text is reproduced. Mexico writes news in Grade 8 (a news article or popular-science text with a culture-of-peace campaign) and in Grade 9 (a Second World War historical newscast and the infodemic project) (stocked 2026-11-09 by the Mexico re-verification sweep merge).

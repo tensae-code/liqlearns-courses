@@ -8,10 +8,16 @@ Every part traces to its book and page.
 Filed in english/books/albania.md (Chapter 38 section, FULLY
 READ + CITATION CHECK PASSED).
 
-**Book 2:** Uérakua anapu uantakua. Projects and Readings,
-First Grade, Secondary (Grade 7) — Mexico. Filed in
-english/books/mexico.md (Grade 7 section, FULLY READ +
-CITATION CHECK PASSED).
+**Book 2:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
 
 **Book 3:** English VIII — Student's Book, Grade 8 —
 Mongolia, Ministry of Education, Culture, Science and
@@ -63,6 +69,27 @@ the old filing in english/books/bangladesh.md.
 
 **Book 19:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 20:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 21:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -97,6 +124,11 @@ the old filing in english/books/bangladesh.md.
 | A teacher-guide unit on saving the earth — environment-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 3, printed p.153 — teacher-guide evidence only |
 | A teacher-guide unit on natural wonders — environment-themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 1, printed p.31 — teacher-guide evidence only |
 | A teacher-guide unit on global warming and its impact — environment-themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 3, printed p.105 — teacher-guide evidence only |
+| The Trash project: community manual and poster work on trash and caring for health and the environment — waste treated as a “glocal” issue | Mexico, Grade 7, Project 12 "Trash", printed p. 108 |
+| The coral-reef project: research a reef (or another environment topic) and present the findings | Mexico, Grade 7, Project 3 "The Amazing World of Coral Reefs", printed p. 28 |
+| The climate-probability project: probability, chance and uncertainty language used about climate-change phenomena, with solutions proposed | Mexico, Grade 8, Project 10 "I Predict the Phenomena", printed p. 84 |
+| The water-protection project: exploring how to protect the environment, especially water, and organising a river or environment action | Mexico, Grade 8, Project 11 "Ethical Principles in the Use of Natural Resources", printed p. 90 |
+| The sustainable-energy project: renewable against non-renewable energies compared for environmental impact, with alternatives proposed | Mexico, Grade 9, Project 12 "Technical Solutions Using Sustainable Energies", printed p. 108 |
 
 **Acceptance count: taught in 9 countries (Albania, Mexico,
 Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia).** Albania carries the place set and
@@ -120,4 +152,4 @@ nature in talk across the senior years — a wildlife-museum
 visit, an observatory conversation, a wildlife-protection
 workbook reading, and renewable energy in Grade 12
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the renewable-energy vocabulary in its Grade 12 student book, and four environment units at topic level in its two teacher guides — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
-their books are read (see READING-QUEUE.md).
+their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set.

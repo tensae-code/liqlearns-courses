@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -79,6 +79,17 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 16:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gerunds and verb patterns — verbs followed by -ing, with hate to ride vs forget to call / forget calling contrasted in the travel-problems text; "Rules for Gerunds" | Cambodia, Grade 9, Unit 29 "Sightseeing in Thailand", printed pp.182–187 (Lesson B heading, printed p.185) |
@@ -102,9 +113,10 @@ covers the 6th Year book only).
 | Gerunds taught in the lesson's Writing work | Iran, Vision 2 (Grade 11), Lesson 2, Writing, printed p.72 |
 | Infinitives taught in the lesson's Writing work | Iran, Vision 2 (Grade 11), Lesson 3, Writing, printed p.102 |
 | Gerunds and infinitives: verb + -ing against to + verb, gerund and infinitive phrases, and the verb patterns (can't imagine working, hope to pass, feel like doing, decide not to buy) | Mauritania, Study English, Grade 13, printed pp.15–16 |
+| Sentences with two verbs: verb + to-infinitive or verb + gerund — the first verb decides the shape | Mexico, Grade 9, Project 6 "Everything We Create Is Art", printed p. 43 |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania).** Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 11 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico).** Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -124,4 +136,4 @@ listening to tapes — inside its how-to-learn unit
 (stocked 2026-11-08 by the re-verification sweep).
 Mauritania teaches gerunds and infinitives with their verb
 patterns in its Grade 13 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 9 book teaches sentences with two verbs — the first verb decides between the to-infinitive and the gerund (stocked 2026-11-09 by the Mexico re-verification sweep merge).

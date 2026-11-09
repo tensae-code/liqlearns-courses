@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -157,6 +157,27 @@ and Educational System Reform, National Pedagogic Institute
 (IPN), 2025 printing. Re-read page by page in the 2026-11-08
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
+
+**Book 62:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 63:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -320,9 +341,14 @@ covers the 6th Year book only).
 | Action verbs and the past tense, in the biography unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 1, printed p.24 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The simple past, all forms — regular -ed, the irregular second form, didn't + base, did-questions — in a history-of-science reading text | Mauritania, Study English, Grade 9, printed pp.33–35 |
 | Simple past spelling and forms: add -ed, consonant + y → -ied, verbs ending in -e add -d; common irregulars (broke, got, went, saw, ran, put) | Mauritania, Study English, Grade 11, printed pp.7–9 |
-**Acceptance count: taught in 31 countries (Bolivia, Ghana,
+| The simple past with regular verbs (-ed), inside the women's-history adventure (“Marie Curie discovered radioactivity”) | Mexico, Grade 7, Project 15 "Reconstructing the Unknown Past of Women", printed p. 135 |
+| The simple past with regular and irregular verbs together | Mexico, Grade 7, Project 16 "Indigenous and Afro-Mexican Communities: History and Contributions to the National Identity", printed p. 144 |
+| There was / there were for past situations, and could for past possibilities, in the Conquest adventure | Mexico, Grade 8, Project 3 "The Conquest of Mexico-Tenochtitlan", printed p. 32 |
+| The simple past with its time expressions: yesterday, last night, ten minutes ago | Mexico, Grade 8, Project 4 "Something From Another World", printed p. 44 |
+| Was/were — the verb to be in the simple past — for feelings and situations | Mexico, Grade 8, Project 19 "The Mexican Revolution and Its People", printed p. 156 |
+**Acceptance count: taught in 32 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania).** Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico).** Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -342,7 +368,7 @@ Greece stages the past in Grade 5 — affirmative first, then negatives and ques
 are read (see READING-QUEUE.md).
 Mauritania teaches the simple past in Grade 9 and its spelling
 system in Grade 11 (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Mexico's past spine starts in Grade 7 (regular verbs, then regular and irregular together) and continues in Grade 8 with there was/were + could, past time expressions, and was/were for feelings and situations (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

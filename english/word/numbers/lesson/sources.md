@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -197,6 +197,16 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 64:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -334,6 +344,7 @@ covers the 6th Year book only).
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Cardinal numbers 0–50 | Mauritania, Study English, Grade 7, printed p.14 |
 | Saying and writing phone numbers digit by digit, and spelling surnames | Mauritania, Study English, Grade 7, printed pp.18–19 |
+| Scientific notation used for very large and very small quantities | Mexico, Grade 8, Project 9 "Large and Small Quantities", printed p. 74 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried
@@ -347,9 +358,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 34 countries (Egypt, India,
+**Acceptance count: taught in 35 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico).** Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -366,7 +377,7 @@ countries join as their books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03 with the whole climb in its own order: counting 1–10 in Grade 1 (Unit 5), number words 11–50 and written numbers to 97 in Grade 2 (Unit 3), numbers in words to three figures (514–799) in Grade 3 (Unit 3, keyed in its companion guide), and the ordinals first–tenth in Grade 4 (Unit 10).
 Mauritania counts 0–50 in its Grade 7 book and says phone
 numbers digit by digit (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge).
+re-verification sweep merge). Mexico's Grade 8 book uses scientific notation for very large and very small quantities (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 3 added 2026-10-27** — *English for Primary Schools,
 Textbook Grade 3* (MoES/RIES, 2021 revised edition; full read in

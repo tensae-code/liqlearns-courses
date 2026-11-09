@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -62,6 +62,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 16:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 17:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -88,9 +109,12 @@ covers the 6th Year book only).
 | A teacher-guide unit on staying healthy — health-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 4, printed p.223 — teacher-guide evidence only |
 | Obligation and health advice — must/mustn't, should, have to — with the illness words (sore throat, bad cough, fever, stomachache, sprained ankle) | Mauritania, Study English, Grade 7, printed pp.66–68 |
 | The health discussion lesson: an HIV/AIDS dialogue — describing, adjectives against adverbs of manner, and prevention talk (the book itself makes the text's subject a lesson) | Mauritania, Study English, Grade 11, printed pp.24–26 |
+| The healthcare catalogue project: the tools, machines and instruments of healthcare, and how they extend what human bodies can do | Mexico, Grade 8, Project 14 "Use of Tools, Machines, and Instruments in the Healthcare Field", printed p. 110 |
+| The blood-types project: researching blood types in the community, probability and transfusions, with a blood-donation campaign | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 98 |
+| The healthy-habits project: experiencing and presenting active, healthy habits | Mexico, Grade 9, Project 16 "Experience Active and Healthy Habits", printed p. 146 |
 
-**Acceptance count: taught in 9 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania).** Albania carries the symptom set as a
+**Acceptance count: taught in 10 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -117,4 +141,4 @@ re-verification sweep merge). Other closed countries join as their books are rea
 (see READING-QUEUE.md).
 Mauritania advises on illness in Grade 7 and discusses
 HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge).

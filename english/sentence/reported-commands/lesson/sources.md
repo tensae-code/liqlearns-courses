@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico
 
 Every part traces to its book and page.
 
@@ -32,6 +32,17 @@ Vietnam Education Publishing House & Pearson, © 2024,
 ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md
 (FULLY READ + CITATION CHECK PASSED 2026-11-03).
 
+**Book 6:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported commands — imperative → to-infinitive, negative → not to; the filed practice anchor "not to eat with fingers" | Mauritania, Study English Grade 12, Unit Five, Lesson 13 "At the Restaurant", pp.40–41 |
@@ -40,9 +51,11 @@ ISBN 978-604-0-39370-8. Filed in english/books/vietnam.md
 | Reported commands and requests as the unit's named grammar | Nepal, English Grade 10, Unit 4 "Reporting Commands", pp.34–47 |
 | Reported commands — a command reported with tell changed to its past told plus infinitive, drilled in Exercise 2; the book's model "Mother told Gatete to sweep the house"; the filing's honest limit: reporting in this book is limited to reported commands with told + infinitive (Unit 9) and direct-speech punctuation (Unit 6) — no reported statements or questions | Rwanda, Pupil's Book 6, Unit 9 "Maintaining harmony in the family", pp.110–123 (imperatives p.113; reported commands p.115) |
 | Reported speech narrowed to orders, requests, offers and advice: reporting verbs (ask, tell, advise, command, order, instruct, invite, encourage, persuade, remind, warn) with object + to-infinitive; offer/propose/agree/demand without an object; negatives with not + to-infinitive; the filing's limit: no reported statements or questions in this book | Vietnam, Tiếng Anh 12 (Global Success), Unit 10 "Lifelong learning", printed pp.128–139 |
+| Reported commands: a reporting verb like tell, advise or ask, + to-infinitive | Mexico, Grade 9, Project 16 "Experience Active and Healthy Habits", printed p. 152 |
+| Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 
-**Acceptance count: taught in 4 countries (Mauritania,
-Nepal, Rwanda, Vietnam).** Mauritania states the
+**Acceptance count: taught in 5 countries (Mauritania,
+Nepal, Rwanda, Vietnam, Mexico).** Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -55,4 +68,4 @@ P.5's Unit 9 is agriculture and the P.5 book teaches no
 reported speech; the commands stand in P.6, Unit 9.
 Vietnam caps the lesson with the eleven-verb bank and
 the not-before-to rule, in a book that teaches no other
-reported speech.
+reported speech. Mexico's Grade 9 book teaches reported commands with tell, advise or ask + to-infinitive (stocked 2026-11-09 by the Mexico re-verification sweep merge).

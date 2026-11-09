@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico
 
 Every part traces to its book and page.
 
@@ -35,6 +35,28 @@ Center "KIZUNA". Filed in english/books/cambodia.md
 
 **Book 8:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 9:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 10:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -46,9 +68,13 @@ Center "KIZUNA". Filed in english/books/cambodia.md
 | A child's own presentation worked over: Mike's PPT presentation about his school life, and spotting the mistakes in Bill's spoken version of it | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.46 |
 | Preparing and presenting your own graduation speech — how you have changed, who helped you most, advice you were given, what you will do after you graduate, what you are looking forward to | China — English ("Go for it!") Grade 9, Unit 14, printed p.109 |
 | Presenting in a group debate — holding a side and speaking it before the class | Indonesia, English for Change Grade 11, Unit 4, printed p.131 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The Art and Healthy Living project: learners propose artistic activities (dance and other arts) to promote physical and mental health in the community, and present the proposal | Mexico, Grade 7, Project 1 "Art and Healthy Living", printed p. 10 |
+| The Movement Fair project: designing educational and recreational activities and reaching goals by collective dialogue | Mexico, Grade 7, Project 19 "Collaboration, Communication, and the Satisfaction of Achieving a Common Goal", printed p. 168 |
+| The Traditions speaking task: choose a photographed cultural tradition and present it to the class | Mexico, Grade 9, Project 3 "Traditions", printed p. 26 |
+| The Chemical Reactions project: experiments demonstrating chemical reactions, presented with dissemination posters | Mexico, Grade 9, Project 17 "Chemical Reactions: Transforming Humankind and the World", printed p. 154 |
 
-**Acceptance count: taught in 5 countries (Syria,
-Indonesia, Bolivia, Cambodia, China).** Syria prints the
+**Acceptance count: taught in 6 countries (Syria,
+Indonesia, Bolivia, Cambodia, China, Mexico).** Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -57,4 +83,4 @@ presentation as real class work. China presents twice: a
 child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
-sweep).
+sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge).

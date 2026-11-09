@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico
 
 Every part traces to its book and page.
 
@@ -220,6 +220,27 @@ PASSED 2026-11-03).
 
 **Book 75:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Let's Elevate Our English, Edisi Revisi 2024*, Grade 11 teacher guide — Indonesia, Kemendikbudristek, ISBN 978-623-388-212-5. TEACHER GUIDE ONLY — a different book from the 2021 student book, sharing no unit with it; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 76:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 77:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development names the four modes — "expository, narrative, description, argument" — narrative standing as the story's mode among the kinds of writing | Ghana, NaCCA JHS curriculum, Paragraph Development (as filed) |
@@ -406,8 +427,11 @@ PASSED 2026-11-03).
 | A named author's short story read whole: "The Old Man at the Bridge" by Ernest Hemingway — an old man displaced by war (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 2, printed p.197 |
 | The Ghostly Village — a complete short mystery story, told as plot summary only (the story text itself carries non-standard forms — “had ran aground”, “spreaded”, “cloack” — filed as the book's errors, taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed p. 24 |
 | Killa and Kuri Kuri — a complete Andean tale, told as plot summary only | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 32 |
-**Acceptance count: taught in 32 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia).** Ghana names the narrative mode; Bangladesh
+| The literary festival project: organising a festival of literary texts — stories handled as whole pieces to present | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 36 |
+| “The Kindness Princess” — a complete tale read in class: a princess must reunite four kingdoms in three days to break a sorcerer's curse (plot summary only) | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 39 |
+| The La Llorona project: an artistic proposal combining art forms with the characters of the legend of La Llorona | Mexico, Grade 8, Project 20 "The Arts: A Path to the Expression of Our Environment", printed p. 160 |
+**Acceptance count: taught in 33 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico).** Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -460,7 +484,7 @@ solution, moral — is completed for The Honest Woodcutter,
 and its favourite-story organiser works character, events
 in first/then/finally order and lesson on a model paragraph
 about Alice in Wonderland before the pupil's own story. Rwanda stocks the story in part — complete stories are read whole from P1 up, stories and fables are named topics in P2 and P5, Telling Stories is a named topic in P4, and story writing is set work through the set (narrations and alternative endings in P4, plan–draft–revise story work in P5, set-title stories in P6) — but no read Rwanda book names the story's furniture (setting, characters, plot) as a taught set, so that naming rests on the other countries. Tanzania stocks the story in part — one whole Standard One reading book of complete short stories (The wrong fish, The foolish rats, The magic tree, The Hen and the Kite among them), its Introduction naming story-telling as the course's own aim — but no read Tanzania book names the story's furniture (setting, characters, plot) as such, so that naming rests on the other countries. Other closed countries join as their books are read (see
-READING-QUEUE.md).
+READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's literary festival and the complete tale “The Kindness Princess”, and its Grade 8 book's La Llorona artistic proposal (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and ends with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129); the First Additional Language Grade 6 Workbook 2 analyses story elements (worksheet 83, printed p.58); and the Home Language Grade 4 Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4).
 

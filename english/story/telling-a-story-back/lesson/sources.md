@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico
 
 Every part traces to its book and page.
 
@@ -124,6 +124,16 @@ PASSED 2026-11-03).
 **Book 35:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 
+**Book 36:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Retelling with a word box" as a set lesson form; the form repeated across the classes as "word-box cloze retelling" — the load-bearing words given, the sentences the learner's own | Bangladesh, English for Today (as filed) |
@@ -201,9 +211,10 @@ PASSED 2026-11-03).
 | Retelling a book character's story from memory set as a whole-book quiz item — "Tell the story of Queen Zenobia" | Syria — *English for Starters 5*, Pupil's Book (York Press), Unit 25 (Revision 5), printed p.74 |
 | Narrating a story as the lesson's Listening & Speaking work — telling a story aloud in the travel lesson | Iran, Vision 1 (Grade 10), Lesson 3 "Traveling the World," Listening & Speaking, printed pp.71–95 |
 | Writing and retelling a narrative text — the story told, then told back in the learner's own telling | Indonesia, Life Today Grade 12, Unit 1, printed p.33 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The anthology project: an anthology of short folktales or legends in English, gathered for retelling | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 128 |
 
-**Acceptance count: taught in 24 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran).** Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 25 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico).** Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -242,7 +253,7 @@ teaching — and Workbook 12A, workbook only, has pupils order
 the 11 sentences of a model story, noting its sequencing
 words and pronoun links, before a past-event description.
 Rwanda stocks the telling-back in part: retelling is set as a task in three pupil's books — the P1 story retold and resequenced, the P3 story read by the teacher for retelling, and the P6 fable read for retelling beside the unit's summaries and retellings — but no own-words retelling aim or comparison with the original is stated, so that framing rests on the other countries. Syria stocks the telling-back in part: its Grade 5 *English for Starters 5* (York Press) sets a four-part story to order and then predict its ending (Unit 18, printed p.55), and its closing whole-book quiz sets a character's story to retell from memory — "Tell the story of Queen Zenobia" (Revision 5, printed p.74) — retelling set as tasks, with no own-words retelling aim stated, so that framing rests on the other countries too. Other closed countries join as
-their books are read (see READING-QUEUE.md).
+their books are read (see READING-QUEUE.md). Mexico's Grade 8 book gathers an anthology of short folktales and legends in English, to retell (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English First Additional Language, Grade 2 Workbook 2* and *English Home Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa teaches retelling by name, which Ethiopia did not: the Grade 4 Home Language book's picture story "Jabu scrambles eggs" is retold and written by the learner (printed p.12), its folk tale is retold in sequence (printed pp.44–49) and the hare-and-tortoise race is retold as a sports report (printed p.108); the Grade 2 First Additional Language Workbook 2 retells the Ugly Duckling in five sentences from its mini-book (printed pp.14–16) and retells "The storm" in four parts with First/Next/Then/Lastly (printed pp.54–55); and the Grade 6 Home Language Workbook 2 retells "Rabbit warns of an earthquake" from a picture mind map (printed pp.36–41).
 

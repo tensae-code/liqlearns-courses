@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico
 
 Every part traces to its book and page.
 
@@ -45,6 +45,17 @@ PASSED 2026-11-03); re-read page by page in the
 formal citation check for the pre-law Egypt reads is
 still owed).
 
+**Book 8:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Narrative techniques to manipulate time — backstory, flashback and flash forward, foreshadowing — named as Basic 9's narrative-technique set (curriculum evidence only) | Ghana, NaCCA JHS curriculum, Basic 9, Strand 4 (as filed) |
@@ -57,9 +68,11 @@ still owed).
 | The Mystery Story Tip Box — 4 steps: think of a mystery, create a detective, add clues AND red herrings (2–3 real clues and 1 red herring), solve it so the answer fits the clues — with a clue hunt (the stolen lunchbox), a finish-the-story (the missing paintbrush), and a 1-page mystery story task with title, detective, clues, surprise ending | Egypt, Secondary 12 Term 2, Unit 9, Lesson 5 |
 | Narrative text types by their time shape — linear against flashback and fractured structures | Indonesia, English for Change Grade 11, Unit 5, printed p.167 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Creating a fairy tale — the story kind built as the unit's writing work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.65 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Literary genres sorted in a discussion table — stories, theatre scripts and poems the learners have read or know, with their authors and genre named | Mexico, Grade 7, Project 4 "A World of Words, Stories, and Readings", printed p. 37 |
+| What makes the types of writing different: songs, stories, poems, plays and novels compared in one diagram | Mexico, Grade 7, Project 9 "Let's Play With Words!", printed p. 79 |
 
-**Acceptance count: taught in 4 countries (Ghana,
-South Sudan, Indonesia, Egypt).** Ghana's curriculum
+**Acceptance count: taught in 5 countries (Ghana,
+South Sudan, Indonesia, Egypt, Mexico).** Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -71,4 +84,4 @@ could not be confirmed in the Indonesia filing and is
 not counted or taught here; the confirmed ending stock
 above stands in its place. Indonesia's Grade 11 books add
 narrative types by time shape and fairy-tale creation
-(stocked 2026-11-09 by the re-verification sweep merge).
+(stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sorts literary genres in a discussion table and compares the types of writing — songs, stories, poems, plays and novels — in one diagram (stocked 2026-11-09 by the Mexico re-verification sweep merge).

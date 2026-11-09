@@ -203,7 +203,8 @@ serve one idea, in time order.*
 *End of unit: the learner can read a whole text, find its main idea,
 work through words they do not know, and answer from the text.*
 - finding-the-idea-of-a-text ✅ · words-you-dont-know ✅ ·
-  answering-from-the-text ✅
+  answering-from-the-text ✅ · listening-to-an-interview ✅
+  (sweep addition 2026-11-09 — Mexico)
 
 ## Unit 16 — The Essay
 *End of unit: the learner can plan and write a first essay, with an
@@ -291,7 +292,9 @@ question's shape.*
 and ordered, and write spoken words with speech marks.*
 - reported-statements ✅ · reported-questions ✅ ·
   reported-commands ✅ · speech-marks ✅ (catch-up build
-  2026-11-07 — 4 lessons, 76 question items)
+  2026-11-07 — 4 lessons, 76 question items) ·
+  reported-offers-requests-and-suggestions ✅ (sweep
+  addition 2026-11-09 — Mexico)
 
 ## Unit 23 — Joining with Who and Which
 *End of unit: the learner can join sentences with relative
@@ -611,6 +614,30 @@ Unit 27; similarity-and-difference in Unit 28; and
 expressing-purpose and alternatives-either-or-neither-nor
 in Unit 31. The English path now stands
 at **194 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-09 (MEXICO).**
+The Mexico sweep merge stocked the items the fresh
+page-by-page re-read of its 3 secondary books (120
+placements) found missing. The old filing had read only
+the Grade 7 book (FULLY READ + CITATION CHECK PASSED
+2026-10-26); the Grade 8 and Grade 9 books were never in
+the reading queue, never read and never filed, so 114 of
+the 120 placements were missing and are now stocked —
+137 provenance rows across 54 existing lessons, the
+diff's finer line splits and three placements bullets
+the diff had not listed carried with them. The three
+grades' Secundaria and Telesecundaria records are one
+book per grade (the Grade 7 pair byte-identical; the
+Grade 8 and 9 pairs differing only in cover wording and
+colophon) and are cited once. Book errors are taught
+corrected with the error noted (the Grade 7 "Excercise"
+misprint); the books' garbled finger-and-awl erasing
+instruction is cited nowhere. Stories and readings are
+stocked as plot summaries only. It built 2 new lessons:
+listening-to-an-interview in Unit 15, and
+reported-offers-requests-and-suggestions in Unit 22.
+The English path now stands
+at **196 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

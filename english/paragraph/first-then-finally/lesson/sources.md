@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -124,6 +124,17 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 41:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Linking words" Tip: "Linking words make the story clear and easy to follow. First, Then, After that, Finally" — the set printed as a writing law | Egypt, Secondary, the writing Tip (p.70 of its book, as filed in the book map) |
@@ -206,9 +217,11 @@ covers the 6th Year book only).
 | A recipe as a sequence of cooking steps — the steps ordered first / then… ("A Special Recipe") | Indonesia, English for Nusantara Kids Grade 5, printed p.40 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Sequence words as a narrative's own named set, in the legend unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11 (2021 edition), Unit 1, printed p.26 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Describing a sequence of actions — first, then, next, after that, finally, later — making Mauritanian tea and giving a recipe step by step | Mauritania, Study English, Grade 8, printed pp.31–33 |
+| Sequencing a text: the steps of a science experiment put in order | Mexico, Grade 9, Project 4 "Is the Desert Tortoise… Endangered?", printed p. 34 |
+| The sequence words themselves as a vocabulary set: first, second, then, next, after that, finally, furthermore | Mexico, Grade 9, Project 4 "Is the Desert Tortoise… Endangered?", printed p. 36 |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania).** Egypt prints the law and the set;
+**Acceptance count: taught in 26 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico).** Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -263,7 +276,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania sequences a tea-making and a recipe with the full
 connector set in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 9 book sequences a science experiment's steps, and names the sequence words themselves (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).
 

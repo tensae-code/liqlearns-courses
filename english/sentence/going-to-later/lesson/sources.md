@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -170,6 +170,38 @@ Study English, 6th Year Secondary School section, FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
 re-verification sweep.
 
+**Book 64:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 65:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 66:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | BE GOING TO full table — affirmative/negative/interrogative/short answers for all persons on "visit" — with its note (future idea, intention or prediction); completion exercise ("parents are going to go shopping on Sunday; study at UMSA"); "1.2 interviews about future plans" | Bolivia compendium, Trimester 2 text (p.194) |
@@ -293,8 +325,13 @@ re-verification sweep.
 | The simple future will/shall, all forms, with future time expressions | Mauritania, Study English, Grade 9, printed pp.39–42 |
 | Plans and intentions (the present continuous + time adverb, be going to, the present simple for schedules) | Mauritania, Study English, Grade 10, printed pp.41–43 |
 | Will against be going to: future facts and predictions against plans, decisions, intentions and evidence-based predictions | Mauritania, Study English, Grade 12, printed pp.16–17 |
-**Acceptance count: taught in 30 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania).** Bolivia tables going to whole and names its
+| Will and going to — predictions and decisions | Mexico, Grade 7, Project 18 "Individual Goals That Encourage the Collective Well-Being", printed p. 165 |
+| The uses of will run whole: future, predictions, decisions, offers, requests, threats and predictable habits | Mexico, Grade 8, Project 10 "I Predict the Phenomena", printed p. 90 |
+| Will against going to — predictions, promises and spontaneous decisions against intentions, plans and evidence-based predictions — with if-clauses introduced | Mexico, Grade 8, Project 11 "Ethical Principles in the Use of Natural Resources", printed p. 96 |
+| Will against going to, the differences reviewed | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 144 |
+| Will for decisions made at the moment of speaking against going to for plans made before | Mexico, Grade 9, Project 11 "I Guess, Then I Make Decisions", printed p. 100 |
+**Acceptance count: taught in 31 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico).** Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -317,7 +354,7 @@ READING-QUEUE.md).
 Mauritania plans in Grade 8, futures with will/shall in Grade
 9, plans again in Grade 10, and sets will against going to in
 Grade 12 (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge).
+sweep merge). Mexico contrasts will and going to in every grade: predictions and decisions (Grade 7), the full uses of will and two difference reviews (Grade 8), and decisions made at the moment of speaking against plans made before (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
 Schools, Book Two* (MoES/RIES; full read in

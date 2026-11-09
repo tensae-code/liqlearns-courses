@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -179,6 +179,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 69:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 70:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Daily Routines lesson: the routine set with photo sentences at clock times, and the full Present Simple routines box with its spelling work | Egypt, Primary 3 Term 1, Daily Routines lesson (L4), pp.19–26 (the box, p.23) |
@@ -354,9 +375,18 @@ covers the 6th Year book only).
 | The simple present of ordinary verbs, full paradigm — affirmative, negative with do/does not, questions with do/does, third-person -s | Mauritania, Study English, Grade 7, printed p.21 |
 | The simple present of live and have, all persons, affirmative and negative | Mauritania, Study English, Grade 7, printed p.47 |
 | Daily routine and habitual actions in the present, with the sequencers then / after that (the book's remember box in this span, printed p.59, prints the wrong third-person models "she write, it write"; taught corrected — she writes, it writes) | Mauritania, Study English, Grade 7, printed pp.58–60 |
-**Acceptance count: taught in 35 countries (Egypt, Ghana,
+| The simple present taught whole: affirmative and negative forms and the third-person -s/-es | Mexico, Grade 7, Project 1 "Art and Healthy Living", printed p. 12 |
+| The simple present at work: a dialogue completion and a weekly health-habits table to fill in the tense (the table misprints “Excercise” — taught corrected) | Mexico, Grade 7, Project 1 "Art and Healthy Living", printed pp. 13–14 |
+| Adverbs of frequency (always / usually / often…) and their position — with be and with other verbs | Mexico, Grade 7, Project 3 "The Amazing World of Coral Reefs", printed p. 29 |
+| The present progressive (be + verb-ing) for actions happening now and unfinished actions | Mexico, Grade 7, Project 6 "Technical Solutions to the Problems and Needs of the Community", printed p. 56 |
+| The bright line drawn inside one adventure: the simple present for habits against the present progressive for now and temporary actions | Mexico, Grade 7, Project 7 "Is That Reading?!", printed p. 67 |
+| Time expressions matched to their tenses — saying when or how often things happen, across past, present and future | Mexico, Grade 7, Project 10 "Technology in the Development of Societies", printed p. 94 |
+| The present continuous in its final, full paradigm (am/is/are + -ing), as the closing adventure's review grammar | Mexico, Grade 7, Project 19 "Collaboration, Communication, and the Satisfaction of Achieving a Common Goal", printed p. 174 |
+| Frequency adverbs given percentages: always 100%, usually 80–90%, often 50–70%… | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 15 |
+| The simple present against the present progressive, reviewed side by side | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed p. 17 |
+**Acceptance count: taught in 36 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania).** Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico).** Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -375,7 +405,7 @@ in Grade 6, and re-teaches both in Grade 8. Greece builds both faces across prim
 Mauritania builds the whole present-tense base in its Grade 7
 book — be, the full simple-present paradigm, live/have, and
 the daily-routine present (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 7 book carries the present system as its spine — the simple present, frequency adverbs, the progressive, and the habit-against-now contrast — and its Grade 8 book adds percentage frequency adverbs and a present-against-progressive review (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 6 added 2026-10-27** — *English for Secondary
 Schools, Book One* (MoES/RIES, 2010; full read in

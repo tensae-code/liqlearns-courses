@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -72,6 +72,16 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 16:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | used to / didn't use to for past situations AND regular habits, often comparing past and present; would + infinitive for past habits and typical behaviour — NOT past situations; wouldn't for refusal | Egypt, Secondary 11, Term 2, Unit 9, Past Habits box, printed p.29 (via EGYPT-BOOK-MAP.md) |
@@ -94,9 +104,10 @@ covers the 6th Year book only).
 | Childhood likes and fears with used to — "I used to be afraid of the dark / being alone / flying / high places / giving a speech in public"; things you used to like (P.E. class, painting pictures, music class, ants and other insects) | China — English ("Go for it!") Grade 9, Unit 4, printed pp.28–29 |
 | Past habits: used to + verb, didn't use to, did you use to…? (the transport-history reading claims the first internal-combustion car was produced in 1906 — false, the Benz Patent-Motorwagen is 1885/86; taught corrected) | Mauritania, Study English, Grade 9, printed pp.50–52 |
 | Past habits with used to, over the same transport-history text as the Grade 9 book, with the same 1906 first-car error | Mauritania, Study English, Grade 10, printed pp.19–21 |
+| Used to + verb and used to be + adjective/noun: past habits and changed states, mastered as a structure | Mexico, Grade 8, Project 5 "Matilde, Our First Female Doctor", printed p. 50 |
 
-**Acceptance count: taught in 10 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania).** One correction is recorded as the course
+**Acceptance count: taught in 11 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico).** One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -117,4 +128,4 @@ sweep; the unit was behind this lesson with no China
 citation at all).
 Mauritania teaches used to in Grade 9 and repeats the same
 transport text in Grade 10 (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico's Grade 8 book masters used to as a named structure — past habits and changed states (stocked 2026-11-09 by the Mexico re-verification sweep merge).

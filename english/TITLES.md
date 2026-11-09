@@ -137,14 +137,20 @@ its own subtitle folder with its own lesson + questions):
   (added 2026-11-09 by the Mauritania re-verification sweep
   merge — **Unit 27, The Small Words That Point**,
   **Unit 28, Comparing More Deeply**, **Unit 31, Linking
-  and Fixing Sentences** and **Unit 26, How Sure Are You?**)
+  and Fixing Sentences** and **Unit 26, How Sure Are You?**) ·
+  reported-offers-requests-and-suggestions (added 2026-11-09
+  by the Mexico re-verification sweep merge — **Unit 22,
+  Telling What People Said**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
 - Paragraph → the-paragraph · first-then-finally ·
   finding-the-idea-of-a-text · words-you-dont-know ·
   answering-from-the-text (built 2026-10-27 — **Units 14–15**:
-  The Paragraph · Reading Whole Texts)
+  The Paragraph · Reading Whole Texts) ·
+  listening-to-an-interview (added 2026-11-09 by the
+  Mexico re-verification sweep merge — **Unit 15, Reading
+  Whole Texts**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·

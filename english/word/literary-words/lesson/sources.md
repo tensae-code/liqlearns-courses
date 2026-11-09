@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -27,6 +27,17 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 9:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 'The Many Kinds of Literature': the five kinds — novels, poetry, drama, folktales, essays — taken one by one; literature collocations (express ideas, argue a point, think deeply) | Egypt, Secondary 11 Term 1, Unit 11, Lesson 1 (as filed in EGYPT-BOOK-MAP.md) |
@@ -43,8 +54,9 @@ covers the 6th Year book only).
 | The vocabulary of the travel lesson's reading text | Iran, Vision 1 (Grade 10), Lesson 3, New Words & Expressions, printed pp.71–95 |
 | The vocabulary of the art-and-culture lesson's reading text | Iran, Vision 2 (Grade 11), Lesson 3, New Words & Expressions, printed pp.81–107 |
 | Writing genres and literature words: poetry, prose, article, short story, novel, play, genre | Mauritania, Study English, Grade 13, printed pp.11–12 |
+| The women's-history vocabulary set, matched to its definitions: suffrage, empowerment, activists, privilege, feminism, social movement, gender, sexism, patriarchy, equity | Mexico, Grade 7, Project 15 "Reconstructing the Unknown Past of Women", printed pp. 131–132 |
 
-**Acceptance count: taught in 7 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania).** Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 8 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico).** Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
-merge).
+merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge).

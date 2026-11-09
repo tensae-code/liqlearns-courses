@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -50,6 +50,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 14:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 15:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Comparative Phrases box: exactly the same as (no difference); almost as … as / slightly … than (small difference); far … than (big difference) | Egypt, Secondary 11 Term 2, Unit 9, Comparative Phrases box, p.26 |
@@ -70,9 +91,11 @@ covers the 6th Year book only).
 | Comparisons — superiority and inferiority — and superlatives of superiority (the -est / the most) and inferiority (the least) | Mauritania, Study English, Grade 9, printed pp.29–32 |
 | Comparatives of adverbs — comparing how actions are done (learns faster than, writes more slowly / less carefully, better/worse), in both structures: one person, two actions; two people, one action | Mauritania, Study English, Grade 10, printed pp.22–24 |
 | Superlatives (the -est, the most; far→farthest/furthest, good→best, bad→worst), with adverbs of manner revised | Mauritania, Study English, Grade 11, printed pp.34–38 |
+| Comparative and superlative adjectives in the full rule table: -er/-est, consonant doubling, -y → -ier/-iest, more/most, good → better/best, bad → worse/worst | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed pp. 101–102 |
+| Comparatives and superlatives again, with as…as / not as…as equality comparisons | Mexico, Grade 8, Project 9 "Large and Small Quantities", printed p. 80 |
 
-**Acceptance count: taught in 6 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania).** China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 7 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico).** China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico tables comparative and superlative adjectives whole in Grade 7 and returns with as…as equality comparisons in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).

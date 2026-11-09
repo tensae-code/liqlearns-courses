@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico
 
 Every part traces to its book and page.
 
@@ -54,6 +54,38 @@ the old filing in english/books/bangladesh.md.
 
 **Book 15:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 16:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 17:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 18:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1 computer hardware/software: the Magaly reading and collocations (scan a document, upload a photo, print a document); the parts of the computer numbered 1–6 — 1. DRIVE ("reads CD/DVD discs" as printed), 2. MONITOR (output device), 3. KEYBOARD (principal input device), 4. MOUSE (pointing device), 5. MODEM/ROUTER (network signal), 6. PRINTER | Bolivia, Year 2, Topic 6 "Convivencia intercultural a través del uso de la tecnología," student p.177 |
@@ -78,9 +110,13 @@ the old filing in english/books/bangladesh.md.
 | A workbook-only reading on electric cars: replacing fossil-fuel cars, batteries (12 or 24 or more), electric motors, charging like a phone or camera — facts only | Iran, Vision 3 Workbook (Grade 12), Lesson 3, Part I Reading, printed pp.47–49 (workbook-only text; not in the student book) |
 | Netiquette — the vocabulary of behaving well online, in the digital-life unit | Indonesia, Life Today Grade 12, Unit 3, printed p.99 |
 | A teacher-guide unit on digital literacy and society — technology-themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 2, printed p.68 — teacher-guide evidence only |
+| The technology project: playing with balls to explore body capabilities and the delegation of human functions to tools and machines, with a gallery of objects | Mexico, Grade 7, Project 10 "Technology in the Development of Societies", printed p. 88 |
+| The social-networks research project: examining teenagers' use of social networks | Mexico, Grade 7, Project 13 "Teenagers and The Social Networks", printed p. 116 |
+| A history reading: automatons, the ancestors of robots, up to modern robots (topic summary only) | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 46 |
+| The lapbook project: a lapbook on an artistic or cultural manifestation from an English-speaking country, and how adults perceive the internet and social media | Mexico, Grade 9, Project 19 "Social Media and Their Importance in the Transmission of Current Cultural and Artistic Manifestations", printed p. 174 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia).** Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 8 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico).** Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -98,4 +134,4 @@ netiquette word set in its Grade 12 book and a digital-
 literacy unit at topic level in its Grade 12 teacher
 guide — teacher-guide evidence only (stocked 2026-11-09
 by the re-verification sweep merge). Other closed countries join as
-their books are read (see READING-QUEUE.md).
+their books are read (see READING-QUEUE.md). Mexico builds technology across the grades: tools and machines as the body's functions delegated, and a social-networks study (Grade 7); the automatons history reading (Grade 8); and a social-media lapbook (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge).

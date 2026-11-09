@@ -52,6 +52,16 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 12:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Quantities taught as the healthy-eating unit's language: some / any, much / many, too much / too many, with should / shouldn't for diet advice | Cambodia, ENGLISH Grade 9, Unit 7 "Healthy eating", printed pp.50–55 |
@@ -70,6 +80,7 @@ covers the 6th Year book only).
 | The first one/many counting of things, in the classroom: "One blackboard, one TV, many desks and chairs" | China — English (PEP) Grade 4 Volume 1, Unit 1, printed p.5 |
 | Quantity words: many/much (countable against uncountable), few/a few, little/a little | Mauritania, Study English, Grade 8, printed pp.17–18 |
 | Containers and partitives — a packet/kilo/slice/piece/loaf/sack/tin/can/bottle/glass/cup of — with the meal words starter/main course/dessert (the book glosses dessert as food taken "before or after" the main course — dessert comes after; taught corrected) | Mauritania, Study English, Grade 8, printed pp.18–19 |
+| Quantifiers before nouns: some/any, much/many, a few/a little, a lot — with countable and uncountable nouns | Mexico, Grade 8, Project 8 "I Design Measuring Instruments to Quantify Physical Magnitudes", printed p. 68 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check
@@ -94,4 +105,4 @@ classroom's own things in Grade 4 (stocked 2026-11-08 by
 the re-verification sweep).
 Mauritania teaches the quantity words and the containers set
 in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project.

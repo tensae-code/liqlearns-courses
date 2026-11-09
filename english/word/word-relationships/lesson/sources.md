@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -47,6 +47,28 @@ lesson per unit (its own printed p.7) and gives plans and keys
 for the student book. Re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 10:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 11:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Synonyms, antonyms, homophones named in the Class 1 word-work run; synonyms/antonyms/homonyms named again in Writing: Conventions | Barbados, Language Arts Syllabus, Class 1, syllabus body (printed pp.21–51) |
@@ -66,9 +88,11 @@ re-verification sweep.
 | Synonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 1, Vocabulary Development, printed p.27 |
 | Antonyms taught as the lesson's Vocabulary Development | Iran, Vision 2 (Grade 11), Lesson 3, Vocabulary Development, printed pp.81–107 |
 | Synonyms and antonyms named as taught content for describing things, in the guide's Unit Eight content list (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.25 |
+| The Identity Handbook project: a scrapbook of the words and phrases that give a person identity | Mexico, Grade 7, Project 11 "We Are Words, We Are Valuable", printed p. 96 |
+| A reading on how Indigenous languages shaped Spanish: Náhuatl, Zapotec, Purépecha and Maya loanwords (topic summary only) | Mexico, Grade 9, Project 7 "The Cultural and Historical Legacy of Indigenous Languages", printed p. 62 |
 
-**Acceptance count: taught in 7 countries (Barbados,
-Tanzania, South Africa, Vietnam, China, Iran, Mauritania).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 8 countries (Barbados,
+Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico).** Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -86,4 +110,4 @@ opposites, and sorting words into categories (stocked
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names synonyms and antonyms
 as taught content (teacher evidence; stocked 2026-11-09 by the
-Mauritania re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge).

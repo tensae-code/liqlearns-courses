@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -87,6 +87,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 19:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 20:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -110,9 +131,11 @@ covers the 6th Year book only).
 | Advice for a health problem with Why don't you…?: "What's wrong? — I have a headache" answered by "Why don't you go to the dentist?" — advice inside a health conversation | Iran, Prospect 2 (Grade 8), Lesson 4 "My Health," printed pp.34–39 |
 | Giving advice with had better and should, with the chapter's modal set — can, must, may, might | Indonesia, Work in Progress Grade 10, Chapter 4, printed p.79 |
 | Giving advice: should/shouldn't, could, must, have to, ought to, might want to, need to | Mauritania, Study English, Grade 8, printed pp.27–30 |
+| The goals project: setting individual goals that encourage the collective well-being | Mexico, Grade 7, Project 18 "Individual Goals That Encourage the Collective Well-Being", printed p. 160 |
+| The community life project: short-, medium- and long-term goals, well-being and safe environments — advice given as a community plan | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 138 |
 
-**Acceptance count: taught in 11 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania).** Malaysia gives
+**Acceptance count: taught in 12 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico).** Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -143,4 +166,4 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania gives advice with the full modal ladder in its
 Grade 8 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge).

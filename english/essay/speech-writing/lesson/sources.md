@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -44,6 +44,17 @@ the old filing in english/books/bangladesh.md.
 
 **Book 7:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The speech for or against an argument as a set writing kind; the speaking work on stressing the important information in arguments (electric cars by 2050, for and against); the Workbook's own speech for or against electric cars | Egypt, Secondary 11 Term 2, Unit 8, Lessons 3–4 and Workbook Unit 8 (as filed in EGYPT-BOOK-MAP.md) |
@@ -56,9 +67,10 @@ the old filing in english/books/bangladesh.md.
 | Famous speeches read and analysed as a lesson of the History unit: "Three Speeches" | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Four, Lesson 1, printed p.65 (stocked 2026-11-08 by the re-verification sweep) |
 | Preparing a speech / dissertation — target identification, choice of theme, research, message structuring, essay writing (introduction, development, conclusion), with advice (key words, formal language, main topic in the first paragraph, conclusion in the last, use connectors and quotes) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 52 |
 | Reading a speech: the principal's graduation speech at No. 3 Junior High School, with a strategy box on identifying text type and purpose | China — English ("Go for it!") Grade 9, Unit 14, printed pp.110–111 |
+| The human-rights forums project: analysing community problems and presenting proposals in two forums for participation and human rights | Mexico, Grade 9, Project 8 "Human Rights Promoters", printed p. 70 |
 
-**Acceptance count: taught in 7 countries (Egypt, Ghana,
-Nepal, Greece, Bangladesh, Bolivia, China).** Egypt sets the speech for or against an
+**Acceptance count: taught in 8 countries (Egypt, Ghana,
+Nepal, Greece, Bangladesh, Bolivia, China, Mexico).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -69,4 +81,4 @@ famous speeches and analyses them in its senior book's
 History unit (added 2026-11-08 by the re-verification
 sweep). China joins with a principal's graduation speech
 read with a strategy box on text type and purpose
-(stocked 2026-11-08 by the re-verification sweep).
+(stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book presents proposals in two forums for participation and human rights (stocked 2026-11-09 by the Mexico re-verification sweep merge).

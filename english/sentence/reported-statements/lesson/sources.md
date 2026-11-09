@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico
 
 Every part traces to its book and page.
 
@@ -103,6 +103,17 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 19:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -126,10 +137,13 @@ covers the 6th Year book only).
 | Reported speech with a past reporting verb — the backshift chart: present→past, present continuous→past continuous, will→would, present perfect→past perfect, simple past→past perfect, past perfect unchanged | Mauritania, Study English, Grade 11, printed pp.27–30 |
 | Reported speech with a present reporting verb — no tense change — and quoted speech with quotation marks | Mauritania, Study English, Grade 11, printed pp.43–45 |
 | Reported speech, the advanced table: future continuous→conditional continuous, present perfect continuous→past perfect continuous, simple past→past perfect or simple past | Mauritania, Study English, Grade 13, printed pp.20–22 |
+| Direct speech against reported speech: quotation marks, and pronoun and tense changes (the book's Achilles example), with monologue lines rewritten from direct into reported speech | Mexico, Grade 9, Project 13 "Theatrical Script About a Current Community Problem", printed pp. 119, 122 |
+| The reported-speech backshift table reviewed whole: present → past, past → past perfect, present perfect → past perfect — “going back one tense” | Mexico, Grade 9, Project 18 "Reliable Information", printed p. 170 |
+| Reported suggestions taught beside the statements: reporting verbs suggested, proposed, recommended + that…, -ing or to-infinitive (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 16 "Fake News and Post-Truth", printed p. 142 |
 
-**Acceptance count: taught in 10 countries (Armenia,
+**Acceptance count: taught in 11 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan, Indonesia).** Mauritania prints the fullest single
+Nepal, Sudan, Indonesia, Mexico).** Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -154,4 +168,4 @@ by the re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 backshift chart
 and present-reporting-verb lesson, and Grade 13's advanced
 table (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge).
+sweep merge). Mexico's Grade 9 book teaches direct speech against reported speech, and closes the course with the whole backshift table (stocked 2026-11-09 by the Mexico re-verification sweep merge).

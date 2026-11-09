@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico
 
 Every part traces to its book and page.
 
@@ -24,6 +24,17 @@ file's head banner stands — agent-assisted read, the
 
 **Book 8:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 9:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inference taught as a named reading move, beside Fact vs Opinion in the same Reading Tips box | Egypt, Preparatory 8 Term 1, Unit 5, Lesson 1, Reading Tips, p.74 (as filed in EGYPT-BOOK-MAP.md) |
@@ -36,5 +47,7 @@ file's head banner stands — agent-assisted read, the
 | Inferring taught by name, on a whole story: "A Christmas Carol" read as a summary of Dickens's story (Scrooge, Marley's ghost, the three spirits), with a strategy box on inferring — reading between the lines | China — English ("Go for it!") Grade 9, Unit 2, printed pp.14–15 |
 | Identifying the author's purpose in a text | Indonesia, English for Change Grade 11, Unit 1, printed p.15 |
 | Telling fact from opinion, as taught reading work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 4, printed p.129 |
+| A text that defines its terms: racism, prejudice and stereotypes, and how racist acts work (topic summary only) | Mexico, Grade 9, Project 10 "Stop Racism!", printed p. 92 |
+| The misleading-statistics case: the “IMPORTANT COMPANY HIRING” false-information example — misleading statistics spotted with central tendency and dispersion | Mexico, Grade 9, Project 18 "Reliable Information", printed p. 168 |
 
-**Acceptance count: taught in 7 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia).** Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico).** Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico
 
 Every part traces to its book and page.
 
@@ -140,6 +140,16 @@ CITATION CHECK PASSED 2026-11-03).
 **Book 42:** *English for Starters 5*, Pupil's Book (pupil's book) — Syria, York Press (new edition 2008, reprinted 2014). Filed in english/books/syria.md (Grade 5 — English for Starters 5, Pupil's Book (York Press) section, FULLY READ + CITATION CHECK PASSED 2026-11-06).
 
 
+**Book 44:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Paragraph Development — the four modes named (expository, narrative, description, argument); "main idea vs supporting details; cohesive devices" — the weighing itself, named as the reading skill | Ghana, NaCCA JHS curriculum, Strand (Paragraph Development, as filed) |
@@ -223,9 +233,10 @@ CITATION CHECK PASSED 2026-11-03).
 | Matching headings to the six parts of a text — the Great Silk Road's routes, goods, towns and decline | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, Lessons 1–2, printed p.50 |
 | Reading short texts and titling them — family texts in the home unit, a strongman's day in the routine unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 3, printed pp.20–30; Unit 8, printed pp.71–80 |
 | Finding the idea of a text as a taught procedure — the scanning and skimming steps printed in full in the guide ("read it quickly to get a general idea; go over it quickly trying to find a specific piece of information; read it again in detail"), then a titled reading worked for its main idea, its topic and its topic sentence, with the Keep in mind note: "The topic sentence expresses the main idea of the paragraph" | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 15, guide printed pp.88–92 |
+| Popular-science texts against news articles: their purposes, and facts against opinions, beliefs and evidence | Mexico, Grade 8, Project 1 "Opinions and Positions in News Articles and Popular Science Texts", printed pp. 11–13 |
 
-**Acceptance count: taught in 27 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 28 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico).** Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -269,7 +280,7 @@ paragraph-level evidence hunting and true/false/not-given
 work, and Workbook 12B — workbook only — completes a
 main-idea/supporting-ideas table for an article on Venus.
 Rwanda stocks the hunt in part — no read Rwanda book names the main idea, and none works gist, headings or paragraph titles, but skimming and scanning are explained as reading skills in P5 and P6, each with its own extract, and P5's Reading unit test sets skimming, scanning and summarising tasks on a story — the fast hunt for what a text carries, without the idea ever being named. Other closed countries join as their books are
-read (see READING-QUEUE.md).
+read (see READING-QUEUE.md). Mexico's Grade 8 book teaches learners to tell popular-science texts from news articles — their purposes, and facts against opinions, beliefs and evidence (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English First Additional Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 5 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa uses "main idea" by name: the Home Language Grade 5 Workbook 1's Pelé worksheet works the main character, the main idea and a summary, alongside the topic-sentence definition (printed p.20); the First Additional Language Grade 5 Workbook 1's spine names topic sentences and main ideas; and the First Additional Language Grade 5 Workbook 2 works the main idea with note-taking (Theme 8).
 

@@ -4,12 +4,16 @@ countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, I
 
 Every part traces to its book and page.
 
-**Book 1:** Uérakua anapu uantakua. Projects and
-Readings. First Grade. Secondary (Grade 7) — Mexico,
-Secretaría de Educación Pública (SEP), Primera edición
-2024, ISBN 978-607-579-568-3. Filed in
-english/books/mexico.md (FULLY READ + CITATION CHECK
-PASSED 2026-10-26).
+**Book 1:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
 
 **Book 2:** Primary Learner's English for Rwandan Schools
 — P4 (student's book) — Rwanda, Rwanda Education Board
@@ -48,6 +52,27 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 
 **Book 14:** *English for Nusantara*, Grade 9 (Kelas IX) student book — Indonesia, Kemendikbudristek, 2022. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 16:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | School subjects as one vocabulary set: Spanish, History, Mathematics, Biology, Geography, Physical Education, Arts, Technology, Civics and Ethics, English | Mexico, Grade 7, Project 2, Vocabulary, p.23 |
@@ -68,6 +93,8 @@ Saudi Arabia. Filed in english/books/saudi-arabia.md
 | The school-subjects set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
 | Describing a class schedule — subjects with their days and times ("My Class Schedule") | Indonesia, English for Nusantara Grade 7, Chapter 4, printed p.155 |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
+| The measuring-instruments project: design and build simple measuring instruments from materials at hand — science done in English | Mexico, Grade 8, Project 8 "I Design Measuring Instruments to Quantify Physical Magnitudes", printed p. 62 |
+| The chemical-properties project: experimental tests of the chemical properties and bonds of everyday substances | Mexico, Grade 9, Project 5 "Matter, Everywhere and Everywhen", printed p. 36 |
 
 **Acceptance count: taught in 8 countries (Mexico, Mongolia,
 Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia).** Mexico carries the
@@ -88,4 +115,4 @@ at primary level (Grades 3–4), the subjects recap in its
 Chapter 0, and the class schedule described whole at
 Grade 7 (stocked 2026-11-09 by the re-verification sweep
 merge). Other closed countries join as their
-books are read (see READING-QUEUE.md).
+books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set.

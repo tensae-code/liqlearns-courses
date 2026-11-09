@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -121,6 +121,27 @@ Study English, 6th Year Secondary School section, FULLY READ +
 CITATION CHECK PASSED 2026-10-26); re-read in the 2026-11-08
 re-verification sweep.
 
+**Book 42:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
+**Book 43:** *Uérakua anapu uantakua. Projects and
+Readings. Third Grade. Secondary (Grade 9)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Nanahuatzin. Re-read
+page by page in the 2026-11-08 re-verification sweep
+(the english/books/mexico.md filing covers Grade 7
+only; the Grade 9 book was never filed there). The
+Secundaria and Telesecundaria records are one book —
+the two files differ only in cover wording and
+colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The tense arrives as the "I've Finished my Work" song (Track 22) — cleaned, washed, swept, painted, tidied, talked — and the participle hunt ("How many different past participles can you find on page 32?") | Libya, Grade 8 Course Book, Unit 3, Lesson 1, p.32 |
@@ -222,10 +243,18 @@ re-verification sweep.
 | The present perfect for recent and unspecified past and experience — already, recently, lately, never, yet, just, ever, for, since; have you ever…? | Mauritania, Study English, Grade 11, printed pp.13–16 |
 | Present perfect duration: already and yet in statements and questions; for + length of time, since + point in time | Mauritania, Study English, Grade 11, printed pp.49–51 |
 | The present perfect for duration up to now: have/has + past participle with since, for, recently, yet, already, ever, never | Mauritania, Study English, Grade 12, printed pp.28–30 |
+| The present perfect (have/has + past participle) for the unspecified past that is still relevant: “We have played many games this year” | Mexico, Grade 8, Project 12 "Democratic Decision Making and Assertive Attitudes", printed p. 104 |
+| The present perfect with ever/never and for/since: “Have you ever planted a tree?” | Mexico, Grade 8, Project 13 "Floating Gardens", printed p. 112 |
+| The present perfect with for/since in medical contexts — an arm sling worn “for two months”, “since 2022” | Mexico, Grade 8, Project 14 "Use of Tools, Machines, and Instruments in the Healthcare Field", printed p. 116 |
+| Simple past against present perfect, contrasted directly | Mexico, Grade 8, Project 15 "Big Underground Crystals", printed p. 126 |
+| The perfect verb tenses reviewed together at the book's end | Mexico, Grade 8, Project 20 "The Arts: A Path to the Expression of Our Environment", printed p. 164 |
+| The present perfect with for/since and “how long” | Mexico, Grade 9, Project 2 "The Independence of Latin America During the 19th Century", printed p. 20 |
+| The present perfect with just, yet and already | Mexico, Grade 9, Project 3 "Traditions", printed p. 28 |
+| Present perfect against simple past: the difference between the two pasts | Mexico, Grade 9, Project 3 "Traditions", printed p. 30 |
 
 
-**Acceptance count: taught in 26 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania).** Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 27 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico).** Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -252,7 +281,7 @@ books are read (see READING-QUEUE.md).
 Mauritania teaches the present perfect in Grade 11 —
 experience, then duration with for/since — and again for
 duration in Grade 12 (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge).
+verification sweep merge). Mexico's perfect spine runs through Grades 8 and 9: the form itself, ever/never and for/since, a medical for/since set, past-against-perfect contrasts in both books, just/yet/already, and closing reviews (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Laos Grade 8 added 2026-10-27** — *English for Secondary
 Schools, Book Three* (MoES/RIES, 2012; full read in

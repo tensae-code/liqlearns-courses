@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico
 
 Every part traces to its book and page.
 
@@ -62,6 +62,16 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 10:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Free-time activities; like / love / hate / don't mind + -ing; agreeing and disagreeing with preferences ("So do I", "Neither do I", "I don't") | Cambodia, ENGLISH Grade 10, Unit 8 "Leisure activities", printed pp.41–46 |
@@ -76,9 +86,10 @@ covers the 6th Year book only).
 | Agreeing and disagreeing: I do agree, I disagree, you're right, I think so | Mauritania, Study English, Grade 9, printed pp.57–59 |
 | Agreeing and disagreeing, polite against informal (I'm afraid I can't agree; nonsense; you're mistaken; definitely; absolutely) | Mauritania, Study English, Grade 10, printed pp.27–29 |
 | Agreeing fully and partially, asking for clarification of an opinion, and disagreeing (I couldn't agree more; I agree up to a point; could you explain…; that's not how I see it), in a violent-sports argument text | Mauritania, Study English, Grade 13, printed pp.35–37 |
+| The tombola-games project: designing games that favour democratic decision-making and assertive attitudes — agreeing and disagreeing practised as a civic skill | Mexico, Grade 8, Project 12 "Democratic Decision Making and Assertive Attitudes", printed p. 96 |
 
-**Acceptance count: taught in 6 countries (Cambodia,
-Mauritania, Mongolia, Nepal, Uzbekistan, China).** Mongolia
+**Acceptance count: taught in 7 countries (Cambodia,
+Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico).** Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -95,4 +106,4 @@ negative — "Me, neither" — inside its Grade 3 likes unit
 The sweep also stocked Mauritania's other agreement teaching:
 the Grade 9 forms, the Grade 10 polite/informal set, and Grade
 13's full and partial agreement with clarification (stocked
-2026-11-09 by the Mauritania re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge).

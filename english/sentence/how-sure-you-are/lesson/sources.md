@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico
 
 Every part traces to its book and page.
 
@@ -65,6 +65,27 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 14:** *Uérakua anapu uantakua. Projects and
+Readings. First Grade. Secondary (Grade 7)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Ximhai, ISBN
+978-607-579-568-3. Filed in english/books/mexico.md
+(FULLY READ + CITATION CHECK PASSED 2026-10-26);
+re-read page by page in the 2026-11-08 re-verification
+sweep. The Secundaria and Telesecundaria records are
+this one book — the two files are byte-identical;
+cited once.
+
+**Book 15:** *Uérakua anapu uantakua. Projects and
+Readings. Second Grade. Secondary (Grade 8)* (student's
+book) — Mexico, Secretaría de Educación Pública (SEP),
+Primera edición 2024, Colección Sk'asolil. Re-read page
+by page in the 2026-11-08 re-verification sweep (the
+english/books/mexico.md filing covers Grade 7 only; the
+Grade 8 book was never filed there). The Secundaria and
+Telesecundaria records are one book — the two files
+differ only in cover wording and colophon; cited once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -85,9 +106,14 @@ covers the 6th Year book only).
 | Prediction and modal shades: will for prediction; must/should/ought to across obligation, probability, prediction and advice | Mauritania, Study English, Grade 12, printed pp.13–15 |
 | The modal verbs chart: ability (can, could, be able to), deduction (must strong, might/may/could possible, can't impossible), requests (can informal, could polite, would formal) | Mauritania, Study English, Grade 13, printed pp.38–40 |
 | Certainty and uncertainty: must, have to, definitely for certainty; might/may/could, probably/possibly/likely for uncertainty (the reading text is a short story, held as a plot summary only: Amina, torn about boarding a plane to a new country, talks herself from doubt to confidence and boards) | Mauritania, Study English, Grade 13, printed pp.44–46 |
+| Must, have to and should for obligation, necessity and advice (the book notes must exists only in the simple present) | Mexico, Grade 7, Project 8 "Think Before You Act: Games and Decision-Making", printed p. 73 |
+| Modal verbs of prohibition and permission: can / can't, may not, must not | Mexico, Grade 7, Project 12 "Trash", printed p. 110 |
+| The modal verbs reviewed whole — obligation, permission and prohibition in one general review | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 158 |
+| Have to for obligations and responsibilities: “I have to make my bed” | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 134 |
+| Modal verbs in a general closing review — “Is This or the Other?” | Mexico, Grade 8, Project 18 "Is This or the Other?", printed p. 150 |
 
-**Acceptance count: taught in 9 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania).** Egypt prices the
+**Acceptance count: taught in 10 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico).** Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -110,4 +136,4 @@ re-verification sweep merge).
 Mauritania grades the modals in Grade 12 (may/might; the
 prediction shades) and charts the whole system — ability,
 deduction, requests, certainty — in Grade 13 (stocked
-2026-11-09 by the Mauritania re-verification sweep merge).
+2026-11-09 by the Mauritania re-verification sweep merge). Mexico teaches the modal family across two grades: must / have to / should and the prohibition-and-permission pair in Grade 7 with a full modal review, and have to plus a closing modal review in Grade 8 (stocked 2026-11-09 by the Mexico re-verification sweep merge).
