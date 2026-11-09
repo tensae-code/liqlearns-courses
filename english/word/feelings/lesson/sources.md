@@ -36,6 +36,7 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Emotion outcomes: recognise and use emotion vocabulary; express emotions in short sentences; comfort and encourage; match emotions to situations | Albania, Akelius A2 Guide, Chapter 36 "How are you feeling," overview, printed p.38 (PDF 41) |
 | Main vocabulary: angry, cry, happy, sad, shout, confused, surprised, worried, afraid, brave, nervous, shy, annoyed, bored, excited, interested in, upset, cheek, heart, hug, in love, kiss — the list misprints worry in "don't warry" and calm as "clam"; both taught corrected (the chapter's structures spell "Don't worry" and "calm" right) | Albania, Chapter 36, Main vocabulary, printed p.38 (PDF 41); errors recorded in the filing's §7 |
 | The -ed/-ing contrast sets: "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring"; "Anna is a good doctor. She is always calm" | Albania, Chapter 36, Language structures, printed pp.38–39 (PDF 41–42); grammar focus (participle adjectives) printed p.38 |
+| Reading "Art and emotions": how paintings show feelings with colour and technique — named works by Monet, Van Gogh, Dalí and Klimt's "The Kiss"; colours linked to feelings (yellow → happy, black → afraid/worried) (stocked 2026-11-08 by the re-verification sweep) | Albania, Chapter 36, reading, printed p.39 (PDF 42); the reading's comprehension work (printed pp.40–42) is stocked in answering-from-the-text |
 | Feeling adjectives matched to faces (sleepy, sad, excited, happy, angry, surprised); the MAKE + object + adjective discovery ("Long weekdays make us busy. My best friend always makes me happy.") and the chain game ("A clown in the circus always makes me happy") | Mongolia, English VIII, Unit 3 "All in a Week," p.36 (discovery 5, p.38) |
 | The Emotional Dictionary project; WAS/WERE taught through emotions ("I was happy with my friends"); the dictionary-card emotion list: joy, sadness, fear, surprise, frustration, guilt, jealousy, anxiety, melancholy, shame, pride | Mexico, Grade 7, Project 14 "Feelings and Emotions as Part of Culture," p.122 (vocabulary p.124; grammar p.126) |
 
@@ -44,7 +45,8 @@ Mexico, Mongolia).** Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
-its grammar heart, its two misprints taught corrected
+its grammar heart, and the "Art and emotions" reading
+that ties colours to feelings, its two misprints taught corrected
 and cited nowhere in their wrong shapes; Mexico carries
 the dictionary feelings and the past frame for them;
 Mongolia carries the face-matched six and the make-me

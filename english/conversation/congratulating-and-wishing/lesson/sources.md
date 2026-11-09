@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania
 
 Every part traces to its book and page.
 
@@ -50,6 +50,16 @@ Section (workbook) — Syria, Ministry of Education. Filed
 in english/books/syria.md (Grade 12 — Emar English
 Series 12, Workbook, Literary Section section).
 
+**Book 8:** *Akelius A2 Level — A Practical Guide for
+English Language Teachers* (teacher's guide) — Albania,
+UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in
+english/books/albania.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04). Teacher's-guide evidence for a
+digital course: it prints the Akelius A2 course's chapter
+vocabulary lists, "Language structures" example sets and
+worksheets; no student's book is held and no platform
+lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit Seven "congratulating and wishing": Lesson 17 "I Have Got It!" — Omar's exam pass with distinction and the congratulation forms (Congratulations! / Congratulations on… / I congratulate you on…) | Mauritania, Study English Grade 12, Unit Seven, Lesson 17, printed p.52 |
@@ -60,9 +70,13 @@ Series 12, Workbook, Literary Section section).
 | "Positive and Negative Vibes": the sympathy dialogue (Farah and Reema — "My father's in hospital" / "You must be really worried" / "You poor thing!" / "Thank you for your kind words") and four picture exchanges sorted into positive/negative vibes (passed driving test — Congratulations! · full marks in maths — Well done! · car stolen — I'm so sorry · fight with best friend — What a shame!) | Libya, English for Libya Grade 11 Course Book (Literary), Unit 7, Lesson 6, printed p.87 (Workbook p.107) |
 | Everyday English: congratulating and expressing sympathy, as one paired slot in the "Success" unit | Syria, Emar Student's Book 12 (Literary), Unit 2 "Success", printed pp.19–26 |
 | The same pairing practised, the sympathy side in a hang-gliding accident dialogue | Syria, Emar Workbook 12 (Literary), Unit 2, printed pp.9–15 |
+| Birthday and celebration language whole: the word set (birthday, party, age, special, plan, decorate, arrive, balloon, invite, gift, card, wrap, candle, guest, hope), "Happy birthday," planning a party, and comparing birthday traditions (stocked 2026-11-08 by the re-verification sweep; the chapter's invitation writing is stocked in Inviting) | Albania, Akelius A2 Guide, Chapter 40 "Birthday Party," printed pp.61–63 (PDF 64–66) — teacher-guide evidence |
 
-**Acceptance count: taught in 5 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria).** Mauritania teaches the
+**Acceptance count: taught in 6 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania).** Albania —
+teacher-guide evidence — carries the birthday whole: its
+word set, the party plan and the comparing of birthday
+traditions. Mauritania teaches the
 function whole and names its final unit for it —
 congratulating and wishing — with the three congratulation
 shapes at Lesson 17 and the wishes bank at Lesson 18.

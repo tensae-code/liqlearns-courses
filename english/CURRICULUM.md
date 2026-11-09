@@ -91,6 +91,10 @@ about the other person, and close the talk.*
 - nouns ✅ · verbs ✅ · adjectives ✅ · adverbs ✅ · pronouns ✅
   (each one lesson, one thing — pronouns carries its own depth:
   I/you/he/she/it/we/they and their forms)
+- **Sweep additions (2026-11-08, Albania re-verification sweep
+  merge):** prepositions-in-and-into ✅ · prepositions-of-movement ✅
+  (2 lessons — the two preposition focuses Albania's Akelius A2
+  guide names, at Chapters 33 and 38, which no lesson housed)
 
 ## Unit 7 — Words for the World
 *End of unit: the learner has words for the world around them.*
@@ -419,6 +423,14 @@ never as fact. What remains outside the lessons is only the
 plan's EXTENSION STOCK list — sub-points that deepen an
 existing lesson's own topic, recorded in CATCH-UP-PLAN.md
 with their filing evidence for a later stocking pass.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-08.** The Albania
+sweep merge stocked the 15 items the page-by-page re-read
+of the Akelius A2 teacher's guide found missing (26 of its
+41 items were already in the course) and built 2 new
+lessons inside Unit 6: prepositions-in-and-into and
+prepositions-of-movement. The English path now stands at
+**163 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

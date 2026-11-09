@@ -4,7 +4,7 @@ countries: Albania, Cambodia, Egypt, Mongolia
 
 Every part traces to its book and page.
 
-**Book 1:** Akelius English course, Chapter 36 "How are you feeling" — Albania. Filed in english/books/albania.md (as filed). TEACHER'S-GUIDE evidence: the chapter's grammar focus and its printed student-content sets are recorded in the guide filing (overview printed pp.38–39); this lesson words Albania as teacher's-guide evidence wherever it is used.
+**Book 1:** Akelius English course, Chapter 36 "How are you feeling" — Albania. Filed in english/books/albania.md (as filed). TEACHER'S-GUIDE evidence: the chapter's grammar focus and its printed student-content sets are recorded in the guide filing (overview printed pp.38–39; the chapter's sample plan is at printed pp.40–41 — page corrected 2026-11-08 by the re-verification sweep); this lesson words Albania as teacher's-guide evidence wherever it is used.
 
 **Book 2:** ENGLISH Grade 10 (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA". Filed in english/books/cambodia.md (as filed).
 
@@ -14,7 +14,7 @@ Every part traces to its book and page.
 
 | Lesson part | Where it comes from |
 |---|---|
-| Grammar focus (as named): participle adjectives (-ed and -ing adjectives); the contrast sets "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — TEACHER'S-GUIDE evidence | Albania, Akelius Chapter 36, overview and sample plan, printed pp.38–39 |
+| Grammar focus (as named): participle adjectives (-ed and -ing adjectives); the contrast sets "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — TEACHER'S-GUIDE evidence | Albania, Akelius Chapter 36, overview, printed pp.38–39, and sample plan, printed pp.40–41 (the sample-plan page corrected 2026-11-08 by the re-verification sweep — the plan was cited at pp.38–39, which are the overview only) |
 | –ing vs –ed adjectives (boring/bored, amazing/amazed…) to describe situations and feelings — the unit's grammar | Cambodia, ENGLISH Grade 10, Unit 11 "How do you feel?", printed pp.59–64 |
 | Participle adjectives for describing people — a named objective of the unit (UE3) | Mongolia, English IX, Unit 1 "All about me", p.8 |
 | Participle adjectives exercised in review: "The movie was very boring / The student was very tired" | Egypt, Secondary 12 Term 1, Review 2 (printed pp.96–104) |

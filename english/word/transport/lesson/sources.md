@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Bolivia, Mongolia, Palestine, Rwanda
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda
 
 Every part traces to its book and page.
 
@@ -33,6 +33,16 @@ Edition 2019, no ISBN printed. Filed in english/books/
 rwanda.md (Grade 5 section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 6:** *Akelius A2 Level — A Practical Guide for
+English Language Teachers* (teacher's guide) — Albania,
+UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in
+english/books/albania.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04). Teacher's-guide evidence for a
+digital course: it prints the Akelius A2 course's chapter
+vocabulary lists, "Language structures" example sets and
+worksheets; no student's book is held and no platform
+lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transport: car, bus, bike, van, taxi — Pattern: "How many taxis? Five taxis," counting combined objects ("How many taxis and bikes?"), first whole-word writing (v_an, _ike, _axi, _ar, _us) | Palestine, Grade 1 Part 2, Unit 11 "Transport," p.10 (writing p.15) |
@@ -41,9 +51,13 @@ PASSED 2026-11-03).
 | Transport vocabulary classified by sea/land/air with a word-search; "travel by" + vehicle and "travel on foot"; comparison of cost, time and speed through a 200 km business-trip text; purposes of travel | Rwanda, P5, Unit 6 "Transport," pp.108–124 (classification pp.109–111; travel by p.110; comparison p.115) |
 | Vehicles labelling and transport sorting (air/sea/land: bus, car, train, helicopter, canoe, ferry, bike, plane, lorry, horse), transport dialogues and announcements, and a street traffic survey project | Mongolia, English VIII, Unit 5 "Around Town," p.64 |
 | Ten transport names with the air/road/sea/railway chart (train, airplane, ambulance, bus, jet, ferry, rocket, fire engine, helicopter, kayak, mini bus, truck, tube); "Unusual transport around the world" — the Monte Toboggan, the Bamboo Train, the Ice Angel | Mongolia, English VIII, Unit 6 "Going Places," p.78 (unusual transport p.86) |
+| Travel vocabulary and talking about trips — the trip set beyond the vehicles themselves: trip, explore, tourist, world, airplane, pilot, airport, hotel, pack, get on/get off, beach, island, sandal, sunscreen, wave, picnic, photo — "We are going on a trip" (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed pp.54–55 (PDF 57–58) — teacher-guide evidence |
 
-**Acceptance count: taught in 4 countries (Bolivia, Mongolia,
-Palestine, Rwanda).** Palestine carries the first five with
+**Acceptance count: taught in 5 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda).** Albania — teacher-guide evidence —
+carries the trip itself: the travel words beyond the
+vehicles, from packing to the airport, the beach and the
+island. Palestine carries the first five with
 the counting pattern; Bolivia carries the means-of-
 transportation chart sorted by water, land and air;
 Mongolia carries two full transport units — the sorting

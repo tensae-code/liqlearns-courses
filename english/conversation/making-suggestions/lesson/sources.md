@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Cambodia, Mongolia, Syria
+countries: Albania, Cambodia, Mongolia, Syria
 
 Every part traces to its book and page.
 
@@ -31,6 +31,16 @@ of Education, Culture, Science and Sports, first published
 english/books/mongolia.md (Grade 7 — English VII section,
 FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
+**Book 5:** *Akelius A2 Level — A Practical Guide for
+English Language Teachers* (teacher's guide) — Albania,
+UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in
+english/books/albania.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04). Teacher's-guide evidence for a
+digital course: it prints the Akelius A2 course's chapter
+vocabulary lists, "Language structures" example sets and
+worksheets; no student's book is held and no platform
+lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Suggestions with "Why don't we…?", "Let's…" and "We/You could…" (Study Box), in a walk-planning dialogue that uses a weather forecast and a compass | Syria, English for Starters 5, Unit 3 "Giving suggestions / making plans", printed pp.11–13 |
@@ -38,9 +48,12 @@ FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | "Let's go fishing near the river" — the Let's suggestion in the unit's own activity (a citation anchor of the filing) | Cambodia, ENGLISH Grade 10, Unit 17A, activity 2, printed p.93 |
 | Making suggestions with "Let's… / Why don't we…"; positive responses ("That's a good idea") and polite refusals ("I don't feel like it") | Cambodia, ENGLISH Grade 10, Unit 17 "Why don't we…?", printed pp.93–98 |
 | The suggestion forms listed together — "How about/What about + verb-ing; Let's + verb; Why don't + verb" — with approving/rejecting phrases ("I don't think so / I think it sounds great / It's perfect / I'd love to / I'd rather… / I prefer to…") | Mongolia, English VII, Unit 2 "Nice Ideas", printed p.26 (unit opens p.24) |
+| "want" and "would like" for desires, preferences and future plans — "I want to travel to all the countries" — the wanting that stands behind a suggestion or a plan (stocked 2026-11-08 by the re-verification sweep; filed here as the preference/plan use — the chapter names no suggestion exponents of its own) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed p.54 (PDF 57) — teacher-guide evidence |
 
-**Acceptance count: taught in 3 countries (Cambodia,
-Mongolia, Syria).** Syria teaches the three shapes first in
+**Acceptance count: taught in 4 countries (Albania, Cambodia,
+Mongolia, Syria).** Albania — teacher-guide evidence —
+stocks the desire and preference forms, want and would
+like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
 forecast and a compass, and carries the exponents again in
 Grade 6; Cambodia's Grade 10 book names a whole unit for

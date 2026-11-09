@@ -64,9 +64,12 @@ its own subtitle folder with its own lesson + questions):
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you
-- Word → nouns · verbs · adjectives · adverbs · pronouns
+- Word → nouns · verbs · adjectives · adverbs · pronouns ·
+  prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
-  2026-10-27 split: one former unit = one level)
+  2026-10-27 split: one former unit = one level; the two
+  preposition lessons added 2026-11-08 by the Albania
+  re-verification sweep merge)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·

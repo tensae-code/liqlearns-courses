@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Bolivia, Malaysia, Nepal, Syria
+countries: Albania, Bolivia, Malaysia, Nepal, Syria
 
 Every part traces to its book and page.
 
@@ -37,6 +37,16 @@ english/books/nepal.md (Grade 8 — ENGLISH Grade 8
 (student's book) section, FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
 
+**Book 5:** *Akelius A2 Level — A Practical Guide for
+English Language Teachers* (teacher's guide) — Albania,
+UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in
+english/books/albania.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04). Teacher's-guide evidence for a
+digital course: it prints the Akelius A2 course's chapter
+vocabulary lists, "Language structures" example sets and
+worksheets; no student's book is held and no platform
+lesson is reproduced.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Invitations (Study Box: "I'm going to go shopping / to the cinema / to a football match. Would you like to come? — Yes, please, I'd love to. / I'm sorry. I'd like to, but I'm afraid I can't."); pupil-A/pupil-B invitation role-cards with reasons for refusing | Syria, English for Starters 5, Unit 21 "Making invitations / films and the cinema", printed pp.61–63 |
@@ -45,9 +55,12 @@ PASSED 2026-11-03).
 | A telephone conversation mined for invitations and requests; polite formulae for inviting and requesting; a role-played video call | Malaysia, ENGLISH FORM 1, Chapter 2 "It's a Small World", printed pp.13–24 |
 | A telephone invitation (Wani inviting Min Hui to a ceremony), message-taking, and accepting/declining invitations with set expressions | Malaysia, ENGLISH FORM 1, Chapter 5 "A Bundle of Joy", printed pp.51–62 |
 | A party invitation conversation (listening); Speaking: making invitations and responding; Reading II: an informal invitation email (Rahim invites Pratik to a business-opening ceremony) and a formal invitation card; Writing II: an invitation message; Project: a birthday invitation card; Extra bit: inviting/accepting/declining expressions | Nepal, ENGLISH Grade 8, Unit 10 (invitations), printed pp.116–127 |
+| Writing party invitations with time, date and place — the written invitation inside the birthday chapter (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 40 "Birthday Party," printed pp.61–63 (PDF 64–66) — teacher-guide evidence |
 
-**Acceptance count: taught in 4 countries (Bolivia,
-Malaysia, Nepal, Syria).** Syria's York Press Grade 5
+**Acceptance count: taught in 5 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria).** Albania — teacher-guide
+evidence — stocks the written party invitation, with its
+time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
 invitation, glad acceptance, kind three-part refusal with
 reasons on role-cards. Bolivia meets the invitation

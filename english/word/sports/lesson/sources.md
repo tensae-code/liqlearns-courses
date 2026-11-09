@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Cambodia, Mexico, Mongolia
+countries: Albania, Cambodia, Mexico, Mongolia
 
 Every part traces to its book and page.
 
@@ -26,14 +26,28 @@ MoEYS with The Nippon Foundation / Education Support
 Center "KIZUNA". Filed in english/books/cambodia.md
 (FULLY READ + CITATION CHECK PASSED, as filed).
 
-**Standing exclusion, stated plainly:** Albania is NOT a
-country of this lesson. Its Chapter 33 is titled "Sports,"
-but the chapter's printed "Main vocabulary" list repeats
-Chapter 32's weather list verbatim — no sports word
-appears in it (albania.md, Chapter 33 entry and §7).
-Under this build's sourcing rule, no sports word is cited
-from Albania Ch.33, and no Albania evidence of any kind
-stocks this lesson.
+**Book 5:** *Akelius A2 Level — A Practical Guide for
+English Language Teachers* (teacher's guide) — Albania,
+UNICEF Albania / ASCAP, 2025; no ISBN printed. Filed in
+english/books/albania.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-04). Teacher's-guide evidence for a
+digital course: it prints the Akelius A2 course's chapter
+vocabulary lists, "Language structures" example sets and
+worksheets; no student's book is held and no platform
+lesson is reproduced.
+
+**A narrowed exclusion, stated plainly (corrected
+2026-11-08 by the re-verification sweep):** Albania's
+Chapter 33 is titled "Sports," and its printed "Main
+vocabulary" list repeats Chapter 32's weather list
+verbatim — no sports word appears in that list
+(albania.md, Chapter 33 entry and §7; a copy/paste error
+in the book). Only that misprinted list is excluded, and
+no sports word is cited from it. The chapter itself is
+NOT excluded: its outcomes and Language structures
+(printed pp.21–22) and its Worksheets 1–2 (printed
+pp.24–26) carry a full sports set, and that evidence
+stocks this lesson below.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -42,14 +56,20 @@ stocks this lesson.
 | SPORTS COMPOUND NOUNS discovery (ball — football, baseball, basketball, handball; board — snowboard, skateboard; field, ground) and the PLAY/DO/GO discovery (play for team sports and games with a ball; do for exercises, compound sports and martial arts; go for sports in -ing) | Mongolia, English IX, Unit 3 |
 | Sports-shop words (football, racket, stall, yo-yo; badminton in the reading); "What do you want to buy?"; when for playing sports; likes playing | Cambodia, Grade 5, Chapter 4, Unit 2 "The Sports Shop," pp.70–73 |
 | Descriptions of football, basketball, badminton and volleyball, and boat-race roles (inside the unit's have to / has to teaching) | Cambodia, Grade 8, Unit 11 "We love to play sports," printed pp.74–79 |
+| Sports vocabulary, actions and results: football, basketball, volleyball, baseball, cricket; kick, hit, throw, catch, score, win, lose, come in first/last; points, goal, hoop — "You kick a ball"; "throw the ball into the hoop" | Albania, Akelius A2 Guide, Chapter 33 "Sports," outcomes and Language structures, printed pp.21–22 (PDF 24–25) — teacher-guide evidence (the chapter's printed Main vocabulary list is a misprint repeating the weather list and is cited nowhere; see the narrowed exclusion above) |
+| Match-report and coaching role-plays worked from the chapter's sports set | Albania, Chapter 33, Worksheets 1–2, printed pp.24–26 (PDF 27–29) — teacher-guide evidence |
 
-**Acceptance count: taught in 3 countries (Cambodia, Mexico,
-Mongolia).** Mexico carries the activity set inside its
+**Acceptance count: taught in 4 countries (Albania,
+Cambodia, Mexico, Mongolia).** Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
 Cambodia carries the sports shop at Grade 5 and four
-sports described whole at Grade 8. Albania Ch.33 is
-excluded for the reason stated above. Other closed
+sports described whole at Grade 8. Albania — teacher-guide
+evidence — carries the sports set of its Chapter 33, five
+named sports with their actions and results, from the
+chapter's outcomes, Language structures and worksheets;
+only its misprinted vocabulary list is excluded, for the
+reason stated above. Other closed
 countries join as their books are read (see
 READING-QUEUE.md).
