@@ -22,10 +22,13 @@ Every part traces to its book and page.
 
 **Book 9:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 10:** *Bahasa Inggris: Work in Progress*, Grade 10 (SMA/MA Kelas X) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-897-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
-| Imperatives (a/an and imperatives in procedure text, Ch.2); the procedure recycled — 'How do you play the game?' with what-we-need and first-steps; a procedure text for growing mung-bean sprouts (place, soak, cover, drain, rinse, repeat, harvest) | Indonesia, Grade 7, Chapters 2, 4 and 6 (as filed in indonesia.md) |
+| Imperatives inside procedure text (Ch.2); the procedure recycled — 'How do you play the game?' with what-we-need and first-steps; a procedure text for growing mung-bean sprouts (place, soak, cover, drain, rinse, repeat, harvest). Correction (2026-11-09, re-verification sweep flag 2): this row earlier credited these two procedures to "Indonesia, Grade 7, Chapters 2, 4 and 6" — the Grade 7 book has Chapters 0–5 only; the game-steps text is Grade 6 Chapter 4 and the sprout-growing procedure Grade 6 Chapter 6, as now cited | Indonesia, Grade 6, Chapter 4, printed p.99; Grade 6, Chapter 6, printed p.135 (the Chapter 2 imperatives stay Grade 7, Chapter 2, as filed) |
+| Writing a procedure text about how to stay healthy | Indonesia, Work in Progress Grade 10, Chapter 3, printed p.53 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The named genres as a set: descriptive and procedure texts; the recount text as a genre (Orientation, then events); the report genre taught itself (class, then facts) | Indonesia, Grades 8–9 books' genre spine (as filed in indonesia.md) |
 | Writing instructions: hand-washing steps matched; teeth-brushing instructions written; operating instructions read ('Use of a Personal Computer') | Nepal, English Grade 7, Unit 19, printed pp.199–211 |
 | Directions in prose — the way home to school; how to make a cake (SYLLABUS evidence: the ministry syllabus sets the writing; no pupil's book page is claimed) | Barbados, PRIMARY LANGUAGE ARTS SYLLABUS, Writing: Communication (as filed in barbados.md) |

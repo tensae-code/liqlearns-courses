@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia
 
 Every part traces to its book and page.
 
@@ -87,6 +87,8 @@ READ + CITATION CHECK PASSED 2026-11-03).
 
 **Book 15:** 12
 
+**Book 16:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reported statements in full: pronoun/possessive changes one by one, then the backshift chart (present→past, past→past perfect, present perfect→past perfect, continuous→past continuous, will→would, shall→should, can→could, may→might, must→had to; would/could/should/might/ought to unchanged) | Mauritania, Study English Grade 12, Unit Five, Lesson 11, pp.33–35 |
@@ -106,10 +108,11 @@ READ + CITATION CHECK PASSED 2026-11-03).
 | Direct speech — quoting the exact words, with quotation punctuation | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 14–15 |
 | Reported speech — backshift (the book's past-perfect row of the backshift chart prints the reported form as “she has taken” — taught corrected: she had taken) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 16–17 |
 | Reporting verbs — the reporting-verb set of the book's reported-speech unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 18 |
+| Reported speech worked across the fairy-tale unit — statements retold with backshift | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed pp.92–104 |
 
-**Acceptance count: taught in 9 countries (Armenia,
+**Acceptance count: taught in 10 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan).** Mauritania prints the fullest single
+Nepal, Sudan, Indonesia).** Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -128,4 +131,6 @@ prints "has to" unshifted; the lesson teaches the
 majority line (past perfect; had to). Sudan's Grade 9
 book introduces the shape in a Look box and with says;
 Kuwait's 10B converts a whole text and gathers the
-changes in its reference.
+changes in its reference. Indonesia works reported speech
+across its Grade 11 fairy-tale unit (stocked 2026-11-09
+by the re-verification sweep merge).

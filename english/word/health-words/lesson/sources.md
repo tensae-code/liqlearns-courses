@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -46,6 +46,8 @@ the old filing in english/books/bangladesh.md.
 
 **Book 12:** English for Schools — Vision 2, Grade 11 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 13:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Let's Elevate Our English, Edisi Revisi 2024*, Grade 11 teacher guide — Indonesia, Kemendikbudristek, ISBN 978-623-388-212-5. TEACHER GUIDE ONLY — a different book from the 2021 student book, sharing no unit with it; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The symptom and emergency word set: feel, fever, cold, cough, headache, stomachache, sneeze, accident, ambulance, emergency, pain, chest, rest, bandage, x-ray; the outcomes — describe symptoms, give health advice ("You should go to the doctor."), "Get well soon" | Albania, A2 Chapter 35 "Going to the doctor," overview and vocabulary, printed p.32 |
@@ -69,9 +71,10 @@ the old filing in english/books/bangladesh.md.
 | Talking about lifestyle and health habits as a conversation | Iran, Vision 2 (Grade 11), Lesson 2 "A Healthy Lifestyle," Conversation, printed pp.49–79 |
 | The vocabulary of the lesson's reading: the healthy-lifestyle word set | Iran, Vision 2 (Grade 11), Lesson 2, New Words & Expressions, printed pp.49–79 |
 | A workbook-only reading on modern lifestyle and technology: easy access, creativity and fast communication set against the harm — blood pressure, sleep problems, gaming, headset hearing harm — facts only | Iran, Vision 2 Workbook (Grade 11), Lesson 2, Part I Reading, printed pp.27–29 (workbook-only text; not in the student book) |
+| A teacher-guide unit on staying healthy — health-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 4, printed p.223 — teacher-guide evidence only |
 
-**Acceptance count: taught in 7 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran).** Albania carries the symptom set as a
+**Acceptance count: taught in 8 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia).** Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -91,5 +94,8 @@ Grade 8, a workbook-only reading on microbes in Grade 10, and
 the healthy-lifestyle conversation and word set in Grade 11,
 with a workbook-only reading on modern lifestyle and
 technology (stocked 2026-11-09 by the re-verification sweep
-merge). Other closed countries join as their books are read
+merge). Indonesia carries a staying-healthy unit at
+topic level in its Grade 11 teacher guide — teacher-
+guide evidence only (stocked 2026-11-09 by the
+re-verification sweep merge). Other closed countries join as their books are read
 (see READING-QUEUE.md).

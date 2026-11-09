@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -57,6 +57,12 @@ the old filing in english/books/bangladesh.md.
 
 **Book 16:** English for Schools — Vision 3, Grade 12 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 17:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Let's Elevate Our English, Edisi Revisi 2024*, Grade 11 teacher guide — Indonesia, Kemendikbudristek, ISBN 978-623-388-212-5. TEACHER GUIDE ONLY — a different book from the 2021 student book, sharing no unit with it; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -86,9 +92,14 @@ the old filing in english/books/bangladesh.md.
 | A workbook-only reading, "Cultures and Lifestyles": Tasmania farming forth, Istanbul heritage sites, Nigerian languages (more than 400) — summary only | Iran, Vision 2 Workbook (Grade 11), Lesson 3, Part I Reading, printed pp.46–48 (workbook-only text; not in the student book) |
 | Clean energy in talk: a wind-turbines conversation ("I used a wind turbine to produce electricity") | Iran, Vision 3 (Grade 12), Lesson 3 "Renewable Energy," Conversation, printed pp.71–99 |
 | The renewable-energy word set of the lesson's reading | Iran, Vision 3 (Grade 12), Lesson 3, New Words & Expressions, printed pp.71–99 |
+| Vocabulary for the renewable-energy unit — the energy words the unit runs on | Indonesia, Life Today Grade 12, Unit 1, printed p.3 |
+| A teacher-guide unit on the living world — environment-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 1, printed p.23 — teacher-guide evidence only |
+| A teacher-guide unit on saving the earth — environment-themed skills work, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 3, printed p.153 — teacher-guide evidence only |
+| A teacher-guide unit on natural wonders — environment-themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 1, printed p.31 — teacher-guide evidence only |
+| A teacher-guide unit on global warming and its impact — environment-themed skills work, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 3, printed p.105 — teacher-guide evidence only |
 
-**Acceptance count: taught in 8 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran).** Albania carries the place set and
+**Acceptance count: taught in 9 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia).** Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -108,5 +119,5 @@ by the re-verification sweep, flag 6). Iran carries
 nature in talk across the senior years — a wildlife-museum
 visit, an observatory conversation, a wildlife-protection
 workbook reading, and renewable energy in Grade 12
-(stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
+(stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the renewable-energy vocabulary in its Grade 12 student book, and four environment units at topic level in its two teacher guides — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md).

@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -51,6 +51,8 @@ file).
 
 **Book 11:** English for Schools — Vision 1, Grade 10 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 12:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | WORD STRESS taught by name: the stressed syllable is the more prominent one; a word has as many syllables as it has vowels; the ´ mark — camel, balloon, decent, opinion, ´manner — then stressed syllables underlined in twelve words | India — Honeydew, Class 8, Unit 7 ("A Visit to Cambridge"), Speaking/Writing section, as filed in english/books/india.md |
@@ -90,8 +92,10 @@ file).
 | Rising intonation | Iran, Vision 1 (Grade 10), Lesson 2, Pronunciation, printed pp.43–69 |
 | Emphatic stress | Iran, Vision 1 (Grade 10), Lesson 3, Pronunciation, printed pp.71–95 |
 | Rising intonation | Iran, Vision 1 (Grade 10), Lesson 4, Pronunciation, printed pp.97–119 |
+| Word stress — which syllable carries the stress | Indonesia, English for Change Grade 11, Unit 1, printed p.2 |
+| Sentence stress — which words carry the stress in a sentence | Indonesia, English for Change Grade 11, printed p.98 |
 
-**Acceptance count: taught in 8 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran).**
+**Acceptance count: taught in 9 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia).**
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -115,5 +119,8 @@ strand through every Prospect 3 lesson in Grade 9 — a
 named intonation pattern per lesson — and continues it
 as the Pronunciation strand of Vision 1 in Grade 10:
 falling, rising, emphatic stress, rising (stocked
-2026-11-09 by the re-verification sweep merge). Counts
+2026-11-09 by the re-verification sweep merge). Indonesia
+teaches word stress and sentence stress in its Grade 11
+English for Change (stocked 2026-11-09 by the
+re-verification sweep merge). Counts
 grow as other closed countries' books are read.

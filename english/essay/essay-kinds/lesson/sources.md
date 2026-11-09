@@ -51,6 +51,10 @@ PASSED 2026-11-03).
 
 **Book 9:** 12
 
+**Book 10:** *Bahasa Inggris: Work in Progress*, Grade 10 (SMA/MA Kelas X) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-897-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Argumentative texts as the essay unit's production: the model "Let's compare universities and careers" and the pupil's own argument essay; the general structure that lets the body "explore both sides of debate" | Bolivia compendium, Year 6, Topic 1, student p.213 (1.3, with the structure table at 1.2) |
@@ -72,6 +76,11 @@ PASSED 2026-11-03).
 | Writing narrative texts — what a narrative text is (tells a story, real or imaginary), applied to a story about an environmental problem | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 18 |
 | Writing argumentative texts — what an argumentative text is (persuade with your own arguments, agree/disagree, conclusions) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 24 |
 | Expository text characteristics — clarity and objectivity, purpose, organisation patterns, evidence and support, paragraphs with topic sentences, transitions, audience awareness, formal language, conclusion, objective tone, revision | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 31 |
+| The analytical-exposition shape met on graffiti — is graffiti art or vandalism? — with issue/arguments/recommendation | Indonesia, Work in Progress Grade 10, Chapter 5, printed p.103 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Analytical exposition as the unit's argument kind: thesis, arguments, reiteration/recommendation | Indonesia, English for Change Grade 11, Unit 3, printed p.111 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Arguing for and against: the argumentative text's structure | Indonesia, Life Today Grade 12, Unit 2, printed p.70 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Hortatory exposition met on digital life — the "Netiquette" exposition — closing in recommendation | Indonesia, Life Today Grade 12, Unit 3, printed p.113 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The discussion text met at its unit's opening — the two-sided kind itself (its structure pages are cited in the row above) | Indonesia, Life Today Grade 12, Unit 4, printed p.160 (stocked 2026-11-09 by the re-verification sweep merge) |
 
 **Acceptance count: taught in 6 countries (Bolivia,
 Malaysia, India, Indonesia, Sierra Leone, Syria).**

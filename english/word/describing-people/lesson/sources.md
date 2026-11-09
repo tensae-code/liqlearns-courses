@@ -54,6 +54,8 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 
 **Book 16:** *Bahasa Inggris: Work in Progress*, Grade 10 (SMA/SMK/MA Kelas X) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-897-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 17:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Train of Thoughts*, Grade 12 (SMA/MA Kelas XII) teacher guide — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-963-9. TEACHER GUIDE ONLY — no matching student book is held in the set; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 22 "What does she look like? What is he like?": appearance adjectives (hair, build, bald, beard, moustache…), personality adjectives (friendly, shy, lazy, patient…), and the taught difference between "What does she look like?" and "What's she like?" | Cambodia, ENGLISH Grade 10, Unit 22, printed pp.117–122 |
@@ -74,6 +76,7 @@ section, FULLY READ + CITATION CHECK PASSED 2026-10-26).
 | Describing a school festival — a descriptive text about an event and its people | Indonesia, English for Nusantara Grade 7, Chapter 5, printed p.231 |
 | Writing a descriptive text — the charity shop described whole | Indonesia, English for Nusantara Grade 9, Chapter 4, printed p.244 |
 | Describing an athlete and writing the description — present simple with physical-description words, over a great athlete | Indonesia, Work in Progress Grade 10, Chapter 1 "Great Athletes," printed p.3 |
+| A teacher-guide unit, "Today's Life," in which people and daily life are the speaking and writing ground, at topic level | Indonesia, Train of Thoughts Grade 12 teacher guide, Unit 5, printed p.187 — teacher-guide evidence only; no student text exists for this unit in the set, so no description content is cited from it |
 
 **Acceptance count: taught in 8 countries (Bolivia,
 Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia).** Cambodia carries the

@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -92,6 +92,8 @@ CHECK PASSED 2026-11-03).
 
 **Book 18:** English for Schools — Vision 3, Grade 12 Workbook — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP). Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 19:** *Bahasa Inggris Tingkat Lanjut*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2021 first edition, ISBN 978-602-244-863-1. The student book's cover prints only this Indonesian title — "Let's Elevate Our English" is the title of the separate Edisi Revisi 2024 teacher guide, not of this book (2026-11-08 re-verification sweep, flag 1). Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Defining relative clauses — who/that for people ("The woman that wears the red coat") and which/that for things, inside wedding shopping; the rule box "Defining relative clauses (People)" | Cambodia, Grade 9, Unit 19 "A wedding", printed pp.122–127 (rule box, printed p.122) |
@@ -115,10 +117,11 @@ CHECK PASSED 2026-11-03).
 | The Grammar appendix, clauses block: objective clauses (that, whether/if, wh- words) and attributive (relative) clauses with that/which/who/whom, and the relative adverbs where, when, why | China — English ("Go for it!") Grade 9, Grammar appendix, printed pp.152–153 |
 | Relative clauses as the lesson's grammar | Iran, Vision 3 (Grade 12), Lesson 2, Grammar, printed p.57 |
 | The grammar practised in the workbook: relative-clause exercises | Iran, Vision 3 Workbook (Grade 12), Lesson 2, Parts II–IV, printed pp.31–42 (workbook mirror of the student lesson) |
+| Adjective (relative) clauses, in the fairy-tale unit's language work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.90 |
 
-**Acceptance count: taught in 11 countries (Cambodia,
+**Acceptance count: taught in 12 countries (Cambodia,
 Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+Sudan, Vietnam, China, Iran, Indonesia).** Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds

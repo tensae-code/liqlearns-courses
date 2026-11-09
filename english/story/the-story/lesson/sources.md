@@ -24,10 +24,17 @@ People's Education Press. Filed in english/books/china.md
 People's Education Press. Filed in english/books/china.md
 (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
-**Book 6:** Bahasa Inggris Tingkat Lanjut (Let's Elevate
-Our English), Grade 11 (Student Book) — Indonesia,
-Kemendikbudristek. Filed in english/books/indonesia.md
-(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 6:** *Bahasa Inggris Tingkat Lanjut*, Grade 11
+(Student Book), 2021 first edition, ISBN
+978-602-244-863-1 — Indonesia, Kemendikbudristek.
+Correction (2026-11-09, re-verification sweep flag 1):
+this entry earlier named the book "(Let's Elevate Our
+English)" — that title belongs to the separate Edisi
+Revisi 2024 teacher guide; the student book's cover
+prints only *Bahasa Inggris Tingkat Lanjut*. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03); re-read page by page in the
+2026-11-08 re-verification sweep.
 
 **Book 7:** English for Nusantara, Grade 9 (Student Book)
 — Indonesia, Kemendikbudristek. Filed in
@@ -196,6 +203,22 @@ PASSED 2026-11-03).
 **Book 66:** English (PEP), Grade 5 Volume 2 — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
 **Book 67:** English, Grade 9 ("Go for it!") — China, People's Education Press. Filed in english/books/china.md (FULLY READ + CITATION CHECK PASSED 2026-10-29).
+
+**Book 68:** *English for Nusantara Kids*, Grade 3 (SD/MI Kelas III) student book — Indonesia, Kemendikbudristek, 2024, ISBN 978-623-388-242-2. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 69:** *English for Nusantara Kids*, Grade 4 (Kelas IV) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-243-9. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 70:** *English for Nusantara Kids*, Grade 5 (Kelas V) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-244-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 71:** *English for Nusantara Kids*, Grade 6 (Kelas VI) student book — Indonesia, Kemendikbudristek, ISBN 978-623-388-245-3. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 72:** *English for Nusantara*, Grade 8 (Kelas VIII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-941-7. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 73:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 74:** *Bahasa Inggris: Life Today*, Grade 12 (SMA/MA Kelas XII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-945-5. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 75:** *Buku Panduan Guru Bahasa Inggris Tingkat Lanjut: Let's Elevate Our English, Edisi Revisi 2024*, Grade 11 teacher guide — Indonesia, Kemendikbudristek, ISBN 978-623-388-212-5. TEACHER GUIDE ONLY — a different book from the 2021 student book, sharing no unit with it; cited for its own topic-level teaching only. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -367,6 +390,17 @@ PASSED 2026-11-03).
 | Myth tales read at senior level: "Myths of Bengal" — Bengali myth tales (plot summaries only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 1, printed p.51 |
 | A Greek myth read whole: "Icarus" — Icarus flies too close to the sun (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 2, printed p.55 |
 | A legend read whole: "The Legend of Gazi" (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Three, Lesson 3, printed p.60 |
+| The Story Time strand — a story in nearly every chapter, read and answered from (plot summaries only; no story text reproduced) | Indonesia, English for Nusantara Kids Grade 3, printed pp.3–182 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The Story Time strand — a story in nearly every chapter (plot summaries only) | Indonesia, English for Nusantara Kids Grade 4, printed pp.3–158 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The Boy Who Cried Wolf fable, and the Story Time strand across Chapters 1–5 (plot summaries only) | Indonesia, English for Nusantara Kids Grade 5, Chapter 6 Part B, printed pp.160s; Story Time, printed pp.3–150 (stocked 2026-11-09 by the re-verification sweep merge) |
+| The Story Time strand — a story in nearly every chapter (plot summaries only) | Indonesia, English for Nusantara Kids Grade 6, printed pp.3–182 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Identifying the main events of a story | Indonesia, English for Nusantara Grade 8, printed p.271 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Understanding a narrative text — how a story is built and followed | Indonesia, English for Change Grade 11, Unit 5, printed p.151 (stocked 2026-11-09 by the re-verification sweep merge) |
+| A legend read whole — the book's opening story (plot summary only) | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 1, printed p.3 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Puss in Boots read whole (plot summary only) | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
+| An Animal Farm excerpt read whole (plot summary only) | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 3, printed p.72 (stocked 2026-11-09 by the re-verification sweep merge) |
+| A narrative text's structure — the Gurung Mali story opened by its stages (plot summary only) | Indonesia, Life Today Grade 12, Unit 1, printed p.11 (stocked 2026-11-09 by the re-verification sweep merge) |
+| A teacher-guide unit on discovering ourselves through story, at topic level | Indonesia, Let's Elevate Our English (Edisi Revisi 2024) Grade 11 teacher guide, Unit 2, printed p.93 — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge) |
 | A short story read whole: "A Mother in Mannville" — a writer and an orphan boy who invents a mother (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eight, Lesson 3, printed p.132 |
 | A story read whole: "The Story of Shilpi" — a girl's story of early marriage and adolescence (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Nine, Lesson 3, printed p.156 |
 | A named author's short story read whole: "The Old Man at the Bridge" by Ernest Hemingway — an old man displaced by war (plot summary only) (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Eleven, Lesson 2, printed p.197 |

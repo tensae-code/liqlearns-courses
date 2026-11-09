@@ -17,10 +17,17 @@ CHECK PASSED 2026-10-26).
 People's Education Press. Filed in english/books/china.md
 (FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
-**Book 4:** Bahasa Inggris Tingkat Lanjut (Let's Elevate
-Our English), Grade 11 (Student Book) — Indonesia,
-Kemendikbudristek. Filed in english/books/indonesia.md
-(FULLY READ + CITATION CHECK PASSED 2026-11-03).
+**Book 4:** *Bahasa Inggris Tingkat Lanjut*, Grade 11
+(Student Book), 2021 first edition, ISBN
+978-602-244-863-1 — Indonesia, Kemendikbudristek.
+Correction (2026-11-09, re-verification sweep flag 1):
+this entry earlier named the book "(Let's Elevate Our
+English)" — that title belongs to the separate Edisi
+Revisi 2024 teacher guide; the student book's cover
+prints only *Bahasa Inggris Tingkat Lanjut*. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03); re-read page by page in the
+2026-11-08 re-verification sweep.
 
 **Book 5:** Bahasa Inggris: Life Today, Grade 12
 (Student Book) — Indonesia, Kemendikbudristek. Filed in

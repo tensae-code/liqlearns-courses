@@ -33,6 +33,8 @@ Center "KIZUNA". Filed in english/books/cambodia.md
 
 **Book 7:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 8:** *Bahasa Inggris: English for Change*, Grade 11 (SMA/MA Kelas XI) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -43,6 +45,7 @@ Center "KIZUNA". Filed in english/books/cambodia.md
 | A group presentation as a unit's closing speaking work — the class presents on future transport | Cambodia, ENGLISH Grade 8, Unit 25 "Types of transport around the world", printed pp.158–163 |
 | A child's own presentation worked over: Mike's PPT presentation about his school life, and spotting the mistakes in Bill's spoken version of it | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.46 |
 | Preparing and presenting your own graduation speech — how you have changed, who helped you most, advice you were given, what you will do after you graduate, what you are looking forward to | China — English ("Go for it!") Grade 9, Unit 14, printed p.109 |
+| Presenting in a group debate — holding a side and speaking it before the class | Indonesia, English for Change Grade 11, Unit 4, printed p.131 (stocked 2026-11-09 by the re-verification sweep merge) |
 
 **Acceptance count: taught in 5 countries (Syria,
 Indonesia, Bolivia, Cambodia, China).** Syria prints the

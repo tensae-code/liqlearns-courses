@@ -163,6 +163,17 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 
 **Book 59:** C
 
+**Book 60:** *Bahasa Inggris Tingkat Lanjut*, Grade 11
+(SMA/MA Kelas XI) student book — Indonesia,
+Kemendikbudristek, 2021 first edition, ISBN
+978-602-244-863-1. The student book's cover prints only
+this Indonesian title — "Let's Elevate Our English" is
+the title of the separate Edisi Revisi 2024 teacher
+guide, not of this book (2026-11-08 re-verification
+sweep, flag 1). Filed in english/books/indonesia.md
+(FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read
+page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The definition in one line: "Adverbs say how an action is done. The adverb usually comes after the verb." — plus underlining the adverbs in a dialogue (regularly, carefully…) | Bangladesh, English for Today Class 5, LANGUAGE FOCUS: ADVERBS box, p.27 |
@@ -285,6 +296,8 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | Adjective–adverb pairs — good/well, fast, late, hard/hardly (the book heads the table “Well, fest, late, hard/hardly” — “fest” is the book's slip for fast, taught corrected) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 75 |
 | Adjectives into adverbs — quick–quickly, easy–easily, bad–badly, happy–happily, beautiful–beautifully, with -ly and -ily | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 97 |
 | Wishes with would, with the frequency-word set (never, almost never, rarely, seldom, sometimes, occasionally, often, frequently, usually, almost always, always) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
+| Adverbs of time, place and manner, in the fairy-tale unit | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.63 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Modal adverbs, in the argument work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 5, printed p.163 (stocked 2026-11-09 by the re-verification sweep merge) |
 **Acceptance count: taught in 32 countries (Bangladesh, Egypt,
 Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).**
 Bangladesh carries the definition and the mime

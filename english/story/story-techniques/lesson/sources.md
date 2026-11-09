@@ -35,6 +35,13 @@ CHECK PASSED 2026-11-03).
 **Book 6:** English, Secondary 12 Term 2 (Student's
 Book) — Egypt, Ministry of Education. Filed in
 english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the
+
+**Book 7:** *Bahasa Inggris: English for Change*,
+Grade 11 (SMA/MA Kelas XI) student book — Indonesia,
+Kemendikbudristek, 2022, ISBN 978-602-427-944-8. Filed in
+english/books/indonesia.md (FULLY READ + CITATION CHECK
+PASSED 2026-11-03); re-read page by page in the
+2026-11-08 re-verification sweep.
 formal citation check for the pre-law Egypt reads is
 still owed).
 
@@ -48,6 +55,8 @@ still owed).
 | The four-stage narrative frame tabled over the Timun Mas story — Orientation / Complication / Resolution / Coda (the coda has Timun Mas dining with the Giant and living happily ever after) | Indonesia, English for Nusantara, Grade 9, Chapter 3, Table 3.2, printed p.198 |
 | The ending treated as a choice: the Fun Time task chooses among four endings for the story | Indonesia, English for Nusantara, Grade 8, Chapter 2, Unit 2, Fun Time (as filed) |
 | The Mystery Story Tip Box — 4 steps: think of a mystery, create a detective, add clues AND red herrings (2–3 real clues and 1 red herring), solve it so the answer fits the clues — with a clue hunt (the stolen lunchbox), a finish-the-story (the missing paintbrush), and a 1-page mystery story task with title, detective, clues, surprise ending | Egypt, Secondary 12 Term 2, Unit 9, Lesson 5 |
+| Narrative text types by their time shape — linear against flashback and fractured structures | Indonesia, English for Change Grade 11, Unit 5, printed p.167 (stocked 2026-11-09 by the re-verification sweep merge) |
+| Creating a fairy tale — the story kind built as the unit's writing work | Indonesia, Bahasa Inggris Tingkat Lanjut Grade 11, Unit 2, printed p.65 (stocked 2026-11-09 by the re-verification sweep merge) |
 
 **Acceptance count: taught in 4 countries (Ghana,
 South Sudan, Indonesia, Egypt).** Ghana's curriculum
@@ -60,4 +69,6 @@ clue-craft — real clues, one red herring, a solution
 that fits. The plan's "nine ending kinds" for Indonesia
 could not be confirmed in the Indonesia filing and is
 not counted or taught here; the confirmed ending stock
-above stands in its place.
+above stands in its place. Indonesia's Grade 11 books add
+narrative types by time shape and fairy-tale creation
+(stocked 2026-11-09 by the re-verification sweep merge).

@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia
 
 Every part traces to its book and page.
 
@@ -78,6 +78,8 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 
 **Book 16:** English for Schools — Prospect 2, Grade 8 Student Book — Iran, Ministry of Education — Organization for Educational Research and Planning (OERP), ISBN 978-964-05-2337-7. Filed in english/books/iran.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
 
+**Book 17:** *Bahasa Inggris: Work in Progress*, Grade 10 (SMA/MA Kelas X) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-244-897-6. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -99,9 +101,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Advice inside the transport unit — "You should take the No. 57 bus" and its set | China — English (PEP) Grade 6 Volume 1, Unit 2, printed pp.18–19 |
 | Study advice — how to learn, with should and the study-habit talk | China — English ("Go for it!") Grade 9, Unit 1, printed p.8 |
 | Advice for a health problem with Why don't you…?: "What's wrong? — I have a headache" answered by "Why don't you go to the dentist?" — advice inside a health conversation | Iran, Prospect 2 (Grade 8), Lesson 4 "My Health," printed pp.34–39 |
+| Giving advice with had better and should, with the chapter's modal set — can, must, may, might | Indonesia, Work in Progress Grade 10, Chapter 4, printed p.79 |
 
-**Acceptance count: taught in 9 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran).** Malaysia gives
+**Acceptance count: taught in 10 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia).** Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -125,6 +128,8 @@ school, and study advice — how to learn — at Grade 9
 (stocked 2026-11-08 by the re-verification sweep). Iran
 gives advice for a health problem with Why don't you…? in
 Grade 8 (stocked 2026-11-09 by the re-verification sweep
-merge). Other closed
+merge). Indonesia gives advice with had better beside
+should and the modal set in Grade 10 (stocked 2026-11-09
+by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md).
