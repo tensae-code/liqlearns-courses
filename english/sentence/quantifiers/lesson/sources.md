@@ -57,7 +57,7 @@ Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the file's h
 | The quantity set — loaf of bread, bunch of carrots, can of lemonade, bottle of water, bag of rice, tin of beans, box of eggs — the song "Cheese, please!" ("Can I have some cheese, please? Sorry, I don't have any."), and the bought sentences ("I bought a box of eggs. I bought a bottle of water.") | Libya, "At the Shop" unit, L1 Shopping, book pp.104–105 |
 | Countable and uncountable nouns — countable rules; uncountable categories (liquids, abstract ideas, powders/grains, mass nouns, states, feelings); some/a few with countable, some/a little with uncountable; irregular plurals child/children, foot/feet, tooth/teeth | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 33 |
 | Some and any — some in positives, any in negatives and questions, for countable and uncountable nouns (the book's own there-is negative model prints “There is not some milk”, which its some/any section itself corrects to any) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 35 |
-| Some and any — the compendium's some/any presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 38 |
+| Some and any — the compendium's some/any presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 38 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check

@@ -73,7 +73,7 @@ CITATION CHECK PASSED 2026-11-03).
 | used to for past habits and states, with a parallel would + verb for repeated past actions — BUT the book also prints "Do not use used to in a question or a negative" | Afghanistan, English Grade 11, Unit 5, Grammar, printed pp.68–70 |
 | WOULD for past habits — would + verb for repeated past actions, with used to named alongside | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 32–33 |
 | USED TO — used to + verb for past habits and states that no longer happen | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 34 |
-| The modal WOULD — would for past habits, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 100 |
+| The modal WOULD — would for past habits, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 100 |
 
 **Acceptance count: taught in 8 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
 Uzbekistan, Bolivia).** One correction is recorded as the course

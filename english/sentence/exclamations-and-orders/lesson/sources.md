@@ -44,8 +44,8 @@ english/books/rwanda.md.
 | Imperatives presented, then worked inside a mother–child (Mother–Gatete) dialogue of real commands | Rwanda, English Pupil's Book 6, Unit 9 (printed pp.110–123): imperatives, printed p.113; dialogue, printed pp.114–115 |
 | Classroom commands — the commands set to follow and give (read, write, listen, repeat, stand up, sit down, open/close your book, pay attention, look at the board, draw, colour…) | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp. 13–15 |
 | Imperatives and following instructions — commands inside how-to and direction texts (turn left, go straight, walk…) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 45–46 |
-| Expressions and commands in the classroom — Stand up, sit down, close your books, take out your books and notebooks, don't be late, don't worry, let's go… | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 58 |
-| Imperatives for instructions and orders — the command forms in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF pp. 80–81 |
+| Expressions and commands in the classroom — Stand up, sit down, close your books, take out your books and notebooks, don't be late, don't worry, let's go… | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 58 |
+| Imperatives for instructions and orders — the command forms in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp. 80–81 |
 
 **Acceptance count: taught in 5 countries (Bolivia,
 Egypt, Kuwait, Nicaragua, Rwanda).** A plan-anchor

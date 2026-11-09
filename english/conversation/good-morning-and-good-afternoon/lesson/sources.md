@@ -47,6 +47,8 @@ explains one thing only.
 | Greeting words inside the first lesson's set — the greetings/introductions vocabulary of Lesson 1, where the day's greeting words stand among the lesson's frames | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lesson 1, guide printed pp.4–9 |
 | Greetings: hello/hi, good morning/afternoon/night, bye | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed p.8 |
 | Greetings and farewells, formal against informal (hello / good morning / afternoon / evening / night against hi / bye / see you / see you soon), with contractions (what is → what's) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp.7–8 |
+| Greetings and farewells, formal and informal, with a personal-information table (name, age, country, nationality, address, hobbies) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp. 7–8 |
+
 **Acceptance count: taught in 25 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).**
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting

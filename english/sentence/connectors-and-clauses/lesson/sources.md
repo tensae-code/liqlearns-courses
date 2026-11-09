@@ -80,8 +80,8 @@ file's head banner stands — agent-assisted read, the
 | Contrast connectors BUT and HOWEVER — but joins two sentences mid-sentence with a comma; however starts the contrasting sentence | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 18 |
 | Adverb clauses of time — when, while, as soon as, before, after, with a comma when the clause comes first | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 27 |
 | Linking words by function — addition (and, also, moreover, furthermore, besides…), sequence (first, secondly, next, finally, then, before…), contrast (however, nevertheless, whereas, unlike…), cause and effect (because, due to, so, therefore, consequently…), example (for example, for instance, such as…), with punctuation notes | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 9–10 |
-| Linking words to relate events — because, and, until, then, before, after, that, but, so, while, since, with, to | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 61 |
-| When and while — linking words for time | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 65 |
+| Linking words to relate events — because, and, until, then, before, after, that, but, so, while, since, with, to | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 61 |
+| When and while — linking words for time | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 65 |
 
 **Acceptance count: taught in 6 countries (Bolivia,
 Mauritania, Kuwait, Vietnam, Nepal, Libya).** Bolivia

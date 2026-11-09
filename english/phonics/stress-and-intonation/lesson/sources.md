@@ -69,8 +69,8 @@ file).
 | Pronunciation strand: sentence stress and rhythm (U9); intonation in questions (revision, U10) — a summary table of Yes/No, Wh-, choice, and tag questions | Vietnam — Tiếng Anh 12 (Global Success), Units 9–10, as filed in english/books/vietnam.md |
 | Pronunciation tips — the book's pronunciation guidance: stress, sounds and saying words clearly | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 59–60 |
 | Pronunciation tips — the book's pronunciation guidance in its later units | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 49–50 |
-| Pronunciation and spelling — sound–spelling correspondences as exam guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 62 |
-| Pronunciation tips — the compendium's pronunciation guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 82 |
+| Pronunciation and spelling — sound–spelling correspondences as exam guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 62 |
+| Pronunciation tips — the compendium's pronunciation guidance | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 82 |
 
 **Acceptance count: taught in 6 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia).**
 India stocks word stress as a named, marked skill

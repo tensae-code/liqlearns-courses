@@ -224,9 +224,9 @@ english/books/jordan.md (Grade 6 Pupil's Book Semester 1 section, FULLY READ + C
 | Community places — plazuela, museum, park, police station, cinema, zoo, library, church, school, market, bus terminal, hospital, bank, stadium, post office, drugstore, with prepositions of place | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 43–44 |
 | My city — Cochabamba: a descriptive reading with city places | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 49 |
 | Relevant places — police station, airport, bus station, museum, library, cinema, drugstore, market and more, in a speaking map task | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 15–16 |
-| Places around us — the town places named around a picture | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 21 |
-| Lake Titicaca and the Island of the Sun — a reading with place and travel words | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 43 |
-| Relevant places — the same relevant-places set in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 72 |
+| Places around us — the town places named around a picture | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 21 |
+| Lake Titicaca and the Island of the Sun — a reading with place and travel words | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 43 |
+| Relevant places — the same relevant-places set in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 72 |
 **Acceptance count: taught in 31 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt
 carries the first set twice (Primary 1's

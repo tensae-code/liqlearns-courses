@@ -282,7 +282,7 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | All three types named at the top level — Types I and II as Lesson 16's plan grammar, Type III with *should / could / might have* as Lesson 17's; no formula or example is printed in this guide, and the teaching is set as poster and sentence-writing tasks | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lessons 16–17, guide printed pp.93–102 |
 | Conditional sentences in full — zero, first, second and third conditionals, with if/unless in the same unit (the third conditional is structured as “would have/has” in the book — “has” is the book's error, taught corrected: would have + participle) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 26–27 |
 | Conditionals re-taught — the conditional family again in the book's closing units, with modal verbs and wish sentences | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 44–46 |
-| Conditional sentences in an interrogative text — conditionals worked inside questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF pp. 117–118 |
+| Conditional sentences in an interrogative text — conditionals worked inside questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF pp. 117–118 |
 
 **Acceptance count: taught in 29 countries (Egypt,
 Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia).** Libya names the zero and first at

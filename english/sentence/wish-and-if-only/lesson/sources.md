@@ -44,7 +44,7 @@ PASSED, as filed).
 | I wish + past form as the unit's Grammar I, inside the festivals unit, with a three-wishes folk tale as its Extra bit | Nepal, English Grade 7, Unit 4, pp.35–45 |
 | Wish + past simple as a named grammar subheading, "A Closer Look 2" | Vietnam, Tiếng Anh 9, Unit 4 "Remembering the Past", printed p.43 |
 | Expressing wishes — I wish… for present and future regrets, inside the conditionals unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 29, 31 |
-| Wish forms — if only and I wish in the compendium's presentation (wishing for things and for people to act) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 115 |
+| Wish forms — if only and I wish in the compendium's presentation (wishing for things and for people to act) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 
 **Acceptance count: taught in 5 countries (Bolivia,
 Kuwait, Malaysia, Nepal, Vietnam).** Bolivia states the

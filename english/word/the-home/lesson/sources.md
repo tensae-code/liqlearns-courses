@@ -229,7 +229,7 @@ english/books/jordan.md (Grade 8 Student's Book Semester 1 section, FULLY READ +
 | The house at work in the *going to* year — gapped dialogues D and K printed in Lesson 21's overview (work and home vocabulary, possessive 's, plans and vacation) | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 21, guide printed pp.131–138 |
 | The house vocabulary inside the year's opening lesson — the careers lesson's printed word set runs from astronaut to housewife | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, guide printed pp.4–9 |
 | Describing my house — rooms, furniture and garden words, saying where things are | Bolivia, Texto de Aprendizaje (English), Grade 5 (Primaria 5) student book, printed pp. 12–13 |
-| Places and things of my house — rooms and furniture named and located | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 22 |
+| Places and things of my house — rooms and furniture named and located | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 22 |
 **Acceptance count: taught in 32 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
 Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia).** Egypt carries the five rooms with a sentence for

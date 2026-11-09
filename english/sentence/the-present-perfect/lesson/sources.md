@@ -200,10 +200,10 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | The present perfect — have/has + past participle, affirmative, negative and questions, for experiences and recent actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 16–17 |
 | Present perfect signal words — ever, never, for, since, just | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 20–21 |
 | Present perfect adverbs of time — already (affirmative), yet (negative/questions), before | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 25–26 |
-| Past participles of regular and irregular verbs — the participle tables | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 91 |
-| The present perfect — have/has + past participle for actions finished at an unstated time, against the simple past | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 94–95 |
-| Where have you been? — present perfect questions about experience | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 96–97 |
-| Present perfect with already, yet and before — already and before affirmative, yet in negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 97 |
+| Past participles of regular and irregular verbs — the participle tables | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 91 |
+| The present perfect — have/has + past participle for actions finished at an unstated time, against the simple past | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 94–95 |
+| Where have you been? — present perfect questions about experience | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 96–97 |
+| Present perfect with already, yet and before — already and before affirmative, yet in negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 97 |
 
 
 **Acceptance count: taught in 25 countries (Egypt,

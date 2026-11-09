@@ -55,7 +55,7 @@ lesson is reproduced.
 | Ten transport names with the air/road/sea/railway chart (train, airplane, ambulance, bus, jet, ferry, rocket, fire engine, helicopter, kayak, mini bus, truck, tube); "Unusual transport around the world" — the Monte Toboggan, the Bamboo Train, the Ice Angel | Mongolia, English VIII, Unit 6 "Going Places," p.78 (unusual transport p.86) |
 | Travel vocabulary and talking about trips — the trip set beyond the vehicles themselves: trip, explore, tourist, world, airplane, pilot, airport, hotel, pack, get on/get off, beach, island, sandal, sunscreen, wave, picnic, photo — "We are going on a trip" (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed pp.54–55 (PDF 57–58) — teacher-guide evidence |
 | Means of transport — the transport words practised in the book's town unit | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 22–23 |
-| Means of transportation — by train/bus/horse/taxi/motorbike, classified water, land and air | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 34 |
+| Means of transportation — by train/bus/horse/taxi/motorbike, classified water, land and air | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 34 |
 
 **Acceptance count: taught in 5 countries (Albania, Bolivia, Mongolia,
 Palestine, Rwanda).** Albania — teacher-guide evidence —

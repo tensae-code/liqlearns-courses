@@ -262,9 +262,9 @@ CITATION CHECK PASSED 2026-11-03).
 | Question words — who, what, where, when, why, how in questions about school and family | Bolivia, Texto de Aprendizaje (English), Grade 6 (Primaria 6) student book, printed pp. 14–15 |
 | Question words — the question-word table with example questions (what, where, when, who, why, how, how many, how much, whose, which) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 16 |
 | Question words — the graded question-word set of the book's review unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 16–17 |
-| Question words — the question-word set with its example questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 10 |
-| Question words — what, who, where, when, why, how, how many, how much, in dialogue frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 31 |
-| Wh- questions — the compendium's Wh- question presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 73 |
+| Question words — the question-word set with its example questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 10 |
+| Question words — what, who, where, when, why, how, how many, how much, in dialogue frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 31 |
+| Wh- questions — the compendium's Wh- question presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 73 |
 **Acceptance count: taught in 33 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Mongolia tables the family with its answer

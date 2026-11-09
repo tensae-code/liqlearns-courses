@@ -196,7 +196,7 @@ CITATION CHECK PASSED 2026-11-03).
 | The conjunctions at work in the chapter's printed example set — a full run of and / but / so / because / or sentences beside its that-clause examples | Albania, *Akelius A2 Level* teacher's guide, Chapter 34 overview ("Language structures"), printed pp.27–28 |
 | Conjunctions again as the feelings chapter's plan-level language elements — "Conjunctions (but, so, and)" — its outcomes comparing and contrasting feelings with but, so, because, and, or | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed p.38; sample plan, printed pp.40–41 |
 | Connectors and/but — coordinating conjunctions to add or contrast, with riddles as practice | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 49–50 |
-| Connectors AND and BUT — the compendium's and/but presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 44 |
+| Connectors AND and BUT — the compendium's and/but presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 44 |
 
 
 **Acceptance count: taught in 28 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania).**

@@ -77,11 +77,11 @@ the old filing in english/books/bangladesh.md.
 | Biographies of Bolivian heroes — Simón Bolívar, Remigio Etcheverry, Eduardo Cañoto: life stories as models | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 13–14 |
 | Be born and life dates — writing lives with was born, dates and places | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 19–20 |
 | Famous people — biographical writing on famous people, with life stories as models | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 43–44 |
-| Talking about famous people — short life texts (artists, scientists, footballers) with the past of to be | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF pp. 50–51 |
-| Genoveva Ríos — a national heroine's life as a biography model | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 92 |
-| Important people of Bolivia — short biographies of national figures | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 93 |
-| Speeches on national figures — a conversation about the footballer Remigio Etcheverry | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 116 |
-| Biographies of heroes and footballers — national biographies as writing models | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 117 |
+| Talking about famous people — short life texts (artists, scientists, footballers) with the past of to be | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF pp. 50–51 |
+| Genoveva Ríos — a national heroine's life as a biography model | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 92 |
+| Important people of Bolivia — short biographies of national figures | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 93 |
+| Speeches on national figures — a conversation about the footballer Remigio Etcheverry | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 116 |
+| Biographies of heroes and footballers — national biographies as writing models | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 117 |
 
 **Acceptance count: taught in 6 countries (Egypt,
 Ghana, South Sudan, Armenia, Bangladesh, Bolivia).** Egypt states the full

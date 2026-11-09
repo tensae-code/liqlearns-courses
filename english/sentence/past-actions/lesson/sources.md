@@ -286,9 +286,9 @@ CITATION CHECK PASSED 2026-11-03).
 | Irregular verbs, first set — the irregular past forms introduced (the reading prints “She forgot his backpack” — taught corrected: her backpack) | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 16–17 |
 | The past on vacation — regular -ed spelling (y to ied, doubled consonant), negatives with did not/didn't, Did…? questions | Bolivia, Texto de Aprendizaje (English), Grade 9 (Secundaria 3) student book, printed pp. 25–30 |
 | The simple past (review) — the book's review treatment of regular and irregular past | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 8–9 |
-| Questions with BE in the past — Was/Were questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 50 |
-| When were you born? — be born, and at/in/on with times and dates | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF pp. 52–53 |
-| The past auxiliary DID — did in questions and negatives | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF PDF p. 56 |
+| Questions with BE in the past — Was/Were questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 50 |
+| When were you born? — be born, and at/in/on with times and dates | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF pp. 52–53 |
+| The past auxiliary DID — did in questions and negatives | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 3, compendium PDF p. 56 |
 **Acceptance count: taught in 30 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
 Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela).** Mongolia boxes the -ed frame and drills the

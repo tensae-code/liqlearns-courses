@@ -49,7 +49,7 @@ the old filing in english/books/bangladesh.md.
 | The senior fitness reading: "Fitness" — keeping fit, in the Lifestyle unit | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Ten, Lesson 4, printed p.185 (stocked 2026-11-08 by the re-verification sweep) |
 | Ancestral medicine — Bolivian ancestral medicine and its remedies, taught as a topic in English | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 43–44 |
 | Diseases — the illness and disease set of the book's health unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 51–52 |
-| Illness vocabulary — the compendium's illness set (adding earache, sore throat, cough, shiver, sneeze to the set the filing cited) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 84 |
+| Illness vocabulary — the compendium's illness set (adding earache, sore throat, cough, shiver, sneeze to the set the filing cited) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 84 |
 
 **Acceptance count: taught in 5 countries (Albania, Bolivia,
 Rwanda, Saudi Arabia, Bangladesh).** Albania carries the symptom set as a

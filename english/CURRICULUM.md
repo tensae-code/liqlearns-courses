@@ -95,6 +95,11 @@ about the other person, and close the talk.*
   merge):** prepositions-in-and-into ✅ · prepositions-of-movement ✅
   (2 lessons — the two preposition focuses Albania's Akelius A2
   guide names, at Chapters 33 and 38, which no lesson housed)
+- **Sweep additions (2026-11-08, Bolivia re-verification sweep
+  merge):** prepositions-of-place ✅ · prepositions-of-time ✅
+  (2 lessons — Bolivia's own preposition strands: place from
+  Primaria 3 and compendium Year 1; time from Secundaria 2–3
+  and compendium Years 1 and 3, which no lesson housed)
 
 ## Unit 7 — Words for the World
 *End of unit: the learner has words for the world around them.*
@@ -110,6 +115,11 @@ about the other person, and close the talk.*
   word-relationships ✅ · compound-words ✅ · working-words ✅
   (specialist: hotels/offices/tourism, Greece) — 18 lessons, 520
   question items
+- **Sweep additions (2026-11-08, Bolivia re-verification sweep
+  merge):** shapes ✅ · music-words ✅ · cooking-words ✅ ·
+  countries-and-nationalities ✅ · podcast-words ✅ (5 lessons —
+  the word sets Bolivia's books teach that no lesson housed:
+  Primaria 2; Secundaria 2 and 5; compendium Years 1, 3 and 5)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -137,6 +147,10 @@ properly.*
   sweep merge):** introductory-there ✅ (1 lesson — the
   introductory there of the Class Eight Language Point box,
   which no lesson housed)
+- **Sweep addition (2026-11-08, Bolivia re-verification sweep
+  merge):** there-is-there-are ✅ (1 lesson — the full there
+  is/are system, beside introductory-there: Secundaria 1–2 and
+  compendium Years 1–2, which no lesson housed in full)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
@@ -235,6 +249,10 @@ a future action finished by a set time, and plans as they looked
 from a past moment.*
 - future-continuous ✅ · future-perfect ✅ · plans-in-the-past ✅
   (catch-up build 2026-11-07 — 3 lessons, 51 question items)
+- **Sweep addition (2026-11-08, Bolivia re-verification sweep
+  merge):** will-future ✅ (1 lesson — will for predictions,
+  moment-of-speaking decisions, questions and future time
+  expressions: Secundaria 4 and compendium Year 4)
 
 ## Unit 21 — Questions That Check
 *End of unit: the learner can check a statement with a tag and
@@ -278,6 +296,13 @@ present and the past — must be, can't be, might be, must have,
 should have.*
 - how-sure-you-are ✅ · modal-perfects ✅ (catch-up build
   2026-11-07 — 2 lessons, 40 question items)
+- **Sweep additions (2026-11-08, Bolivia re-verification sweep
+  merge):** can-for-ability ✅ · have-to-obligation ✅ ·
+  modal-verbs ✅ (3 lessons — the modal family completed at
+  its base: Primaria 4 and Secundaria 2–3 with compendium
+  Years 2–3 for can/could; Secundaria 3 for have to;
+  Secundaria 5 with compendium Year 5 for the must/should/
+  have to comparison)
 
 ## Unit 27 — The Small Words That Point
 *End of unit: the learner commands articles, quantities, the
@@ -446,6 +471,28 @@ the "lodge complaint" outcome of Classes 9–10 Unit Twelve
 as outcome evidence in complaint-letters, and built 1 new
 lesson inside Unit 10: introductory-there. The English
 path now stands at **164 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-08 (BOLIVIA).**
+The Bolivia sweep merge stocked the 350 items the fresh
+page-by-page re-read of its 13 books (395 teaching items;
+only 45 already in the course) found missing — the old
+filing had read exactly one book, the teacher compendium,
+and the 12 student books had never been read. 321 items
+were stocked into 78 existing lessons, 28 items built 12
+new lessons (prepositions-of-place and prepositions-of-time
+in Unit 6; shapes, music-words, cooking-words,
+countries-and-nationalities and podcast-words in Unit 7;
+there-is-there-are in Unit 10; will-future in Unit 20;
+can-for-ability, have-to-obligation and modal-verbs in
+Unit 26), and 1 item was stocked by correcting the
+compendium citation the sweep's flag 3 found wrong. The
+sweep's course-side flags were actioned: two wrong
+compendium citations corrected (phrasal-verbs;
+someone-anyone-no-one), a theme description corrected
+(reflexive-pronouns), and the teacher compendium's label
+corrected from "(student's book)" to teacher-compilation
+evidence in 9 lessons. The English path now stands at
+**176 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

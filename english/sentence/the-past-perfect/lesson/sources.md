@@ -35,6 +35,6 @@ Every part traces to its book and page.
 | Past perfect stated in the three-page Grammar Section (printed pp.151–153) | Uzbekistan, English Matters 8, Grammar Section, p.153 |
 | The past perfect in narrative in Book 3, with explicit teaching carried in Workbook 4 | Yemen, English Course for Yemen, Pupil's Book 3; Workbook 4 (as filed) |
 | The past perfect — had + past participle, for the earlier of two past actions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 52–53 |
-| The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 105 |
+| The past perfect — the compendium's past perfect table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
 
 **Acceptance count: taught in 9 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia).**

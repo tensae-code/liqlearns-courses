@@ -47,7 +47,7 @@ lesson is reproduced.
 | The grid's place row: everywhere, anywhere, somewhere, nowhere for places, with always for how often — "I want to travel everywhere"; "There is nowhere to sit" (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed pp.54–55 (PDF 57–58) — teacher-guide evidence |
 | Someone – anyone — indefinite pronouns with singular verbs, the someone/anyone distribution as the book states it (the book's section contradicts itself: it restricts anyone to negatives and questions, then gives affirmative anyone examples — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed p. 57 |
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
-| Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 118 |
+| Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
 **Acceptance count: taught in 5 countries (Albania, Bolivia,
 Cambodia, Mongolia, South Africa).** Albania — teacher-guide

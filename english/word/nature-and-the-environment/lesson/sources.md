@@ -57,9 +57,9 @@ the old filing in english/books/bangladesh.md.
 | The senior environment unit's justice reading: "What Is Environmental Justice?" | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 4, printed p.230 (stocked 2026-11-08 by the re-verification sweep) |
 | Community work — a caring-for-the-environment reading and stewardship sentences | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 18 |
 | Environmental problems vocabulary — global warming, overpopulation, pollution, climate change, deforestation, with definitions | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 13 |
-| Environment care sentences and garbage — organic and inorganic garbage, and caring for the environment | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF pp. 32–33 |
-| Environmental problems — a “Don't waste water” water-pollution reading and a “Forest fire causes in Bolivia” reading (NASA satellite images, chaqueos) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF pp. 111–112 |
-| The pollution — an article on plastic pollution | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 116 |
+| Environment care sentences and garbage — organic and inorganic garbage, and caring for the environment | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF pp. 32–33 |
+| Environmental problems — a “Don't waste water” water-pollution reading and a “Forest fire causes in Bolivia” reading (NASA satellite images, chaqueos) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF pp. 111–112 |
+| The pollution — an article on plastic pollution | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 116 |
 
 **Acceptance count: taught in 6 countries (Albania, Mexico,
 Mongolia, Saudi Arabia, Bangladesh, Bolivia).** Albania carries the place set and

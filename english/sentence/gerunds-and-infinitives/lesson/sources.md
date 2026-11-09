@@ -85,8 +85,8 @@ still owed).
 | Verbs + infinitive or -ing in FOUR classes: to only, -ing only, both with no change in meaning (love, like, hate, prefer, start, begin, continue), both WITH a difference in meaning (remember, forget, regret, stop, try) | Egypt, Secondary 10 Term 1, Unit 4 (p.63) (as filed in EGYPT-BOOK-MAP.md) |
 | Verb patterns as a system — to-infinitive vs gerund, meaning-change verbs (stop / remember / try / forget) drilled as the unit's grammar | Egypt, Secondary 12 Term 2, Unit 9, Lesson 3 (as filed in EGYPT-BOOK-MAP.md) |
 | Likes and dislikes with -ing — like/love/hate/enjoy + verb-ing, in hobbies and free time | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 37–38, 41 |
-|  Likes and dislikes in full — I/you/we/they like; he/she likes; do/does questions; -ing spelling rules (double consonant, drop -e, -ie to -y) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 39 |
-| Free time — I like + verb-ing for free-time activities | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 39 |
+|  Likes and dislikes in full — I/you/we/they like; he/she likes; do/does questions; -ing spelling rules (double consonant, drop -e, -ie to -y) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 39 |
+| Free time — I like + verb-ing for free-time activities | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 39 |
 
 **Acceptance count: taught in 7 countries (Cambodia,
 Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia).** Cambodia

@@ -69,7 +69,10 @@ its own subtitle folder with its own lesson + questions):
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
   2026-10-27 split: one former unit = one level; the two
   preposition lessons added 2026-11-08 by the Albania
-  re-verification sweep merge)
+  re-verification sweep merge) ·
+  prepositions-of-place · prepositions-of-time (added
+  2026-11-08 by the Bolivia re-verification sweep merge —
+  **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -78,12 +81,18 @@ its own subtitle folder with its own lesson + questions):
   technology-words · money-and-prices · describing-people ·
   word-building · word-relationships · compound-words ·
   working-words (the 18 after the-body added 2026-11-07 by the
-  catch-up build)
+  catch-up build) · shapes · music-words · cooking-words ·
+  countries-and-nationalities · podcast-words (5 added
+  2026-11-08 by the Bolivia re-verification sweep merge —
+  **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
 - Sentence → building-a-sentence · capital-and-full-stop ·
   introductory-there (added 2026-11-08 by the Bangladesh
+  re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
+  there-is-there-are (added 2026-11-08 by the Bolivia
   re-verification sweep merge — **Unit 10, Building a
   Sentence**) ·
   asking-yes-no-questions · asking-with-question-words ·
@@ -99,7 +108,12 @@ its own subtitle folder with its own lesson + questions):
   future-continuous · future-perfect · plans-in-the-past
   (catch-up build 2026-11-07 — **Units 19–20**; further
   catch-up sentence lessons join this list as their batches
-  land)
+  land) · will-future (added 2026-11-08 by the Bolivia
+  re-verification sweep merge — **Unit 20, The Future in
+  Detail**) · can-for-ability · have-to-obligation ·
+  modal-verbs (added 2026-11-08 by the Bolivia
+  re-verification sweep merge — **Unit 26, How Sure
+  Are You?**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)

@@ -249,7 +249,7 @@ PASSED 2026-11-03).
 | An essay read as a model at the top of school: "Limits of the Scientific Method" — an essay on science's limits closing the Environment and Nature unit (stocked 2026-11-08 by the re-verification sweep) | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Twelve, Lesson 5, printed p.235 |
 | What is an essay — the essay defined and its parts named | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 24 |
 | How to write an essay — the book's full writing procedure, step by step | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 57 |
-| How to write an essay — the steps and a labelled model essay, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 123 |
+| How to write an essay — the steps and a labelled model essay, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 123 |
 
 **Acceptance count: taught in 21 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh).**
 Bolivia defines the essay and tables its general structure

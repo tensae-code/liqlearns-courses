@@ -30,8 +30,8 @@ Every part traces to its book and page.
 | Comparatives — the full rule set (short + -er, more + long, y to -ier, good/better, bad/worse), with than | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 29–30 |
 | Comparatives and superlatives — comparatives (+er, more, better, worse) and superlatives with “the” (+est, y to iest, most) | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 37–40 |
 | Comparison with AS…AS — equal comparison with adjectives, adverbs and quantity (as much/many as), alongside comparative + than | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 45–46 |
-| Comparative adjectives — small–smaller, big–bigger, long, easy, happy, clean, safe, thin with “smaller than” frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 36 |
-| Comparative and superlative adjectives — the comparison table (adjective, comparative, superlative; good–better–best, bad–worse–worst) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 79 |
-| Comparison with AS…AS — as + adjective + as, with as much/many as | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 104 |
+| Comparative adjectives — small–smaller, big–bigger, long, easy, happy, clean, safe, thin with “smaller than” frames | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 36 |
+| Comparative and superlative adjectives — the comparison table (adjective, comparative, superlative; good–better–best, bad–worse–worst) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 79 |
+| Comparison with AS…AS — as + adjective + as, with as much/many as | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
 **Acceptance count: taught in 4 countries (Egypt, Nepal, Cambodia, Bolivia).**

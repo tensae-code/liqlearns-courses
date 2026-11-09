@@ -52,8 +52,8 @@ PASSED, as filed).
 | Sentence mood including the subjunctive, in the strand's peak book — Grade 5 HL Workbook 2 is the set's only conditional book, and Grade 6 never revisits its peaks | South Africa, English Home Language Grade 5 Workbook 2 (as filed in south-africa.md) |
 | Inversion presented in full — after so/neither/nor, here/there, limiting adverbials, and conditional inversion ("Were I you") — Unit 12 of the year's grammar spine; Workbook prints the full presentation | Syria, Grade 12, Unit 12 "Digital Literacy", pp.90–97 (Workbook); Student's Book Unit 12, pp.116–123 |
 | If and unless — unless = if not, with the conditions family | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 28 |
-| Conditional sentences — the conditionals table inside the compendium's descriptive-texts unit | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 114 |
-| If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 115 |
+| Conditional sentences — the conditionals table inside the compendium's descriptive-texts unit | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 114 |
+| If and unless — the compendium's if/unless table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 115 |
 
 **Acceptance count: taught in 8 countries (Armenia,
 Ethiopia, Kuwait, Malaysia, Nepal, South Africa,

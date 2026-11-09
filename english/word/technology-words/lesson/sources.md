@@ -60,10 +60,9 @@ the old filing in english/books/bangladesh.md.
 | Computer terms and commands — the hardware set and the Windows words (File, Edit, Format, View, Help; Cut, Copy, Paste; Downloads, Documents, Pictures, Desktop, Recycle Bin, Quick access, This PC, Share) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 42–43 |
 | Cyberbullying vocabulary — online safety, bullying, social media, consequences, respect, cyberbullying, friendship, trolling, anonymous, blocking, empathy | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 54 |
 | Internet activity verbs — browse, search, download, upload, like, comment, stream, chat, inbox, post, share, trending, bookmark, with definitions | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed p. 56 |
-| Parts of the computer — CPU, keyboard, monitor, mouse, pendrive, printer, speakers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 13 |
-| Surviving on the internet — computer parts and screen words in a reading on living online | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 103 |
-| Hackers steal 40 million credit card numbers — a news text with its technology vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 105 |
-| Technical English for the technology branch (BTH), electronics career — the career's word set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 106 |
+| Parts of the computer — CPU, keyboard, monitor, mouse, pendrive, printer, speakers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 13 |
+| Hackers steal 40 million credit card numbers — a news text with its technology vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 105 |
+| Technical English for the technology branch (BTH), electronics career — the career's word set | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 106 |
 
 **Acceptance count: taught in 4 countries (Bolivia, Vietnam,
 Sudan, Bangladesh).** Bolivia carries the machine itself — the numbered

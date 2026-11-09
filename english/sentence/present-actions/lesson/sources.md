@@ -323,14 +323,14 @@ CITATION CHECK PASSED 2026-11-03).
 | The present progressive — am/is/are + verb-ing, vs the present simple, in a tense-comparison unit | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 20–22 |
 | Tense review — present simple, present continuous, present perfect and the past tenses compared in one review unit | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 31–34 |
 | Review of the tenses — present, past and future compared in the book's closing review | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 41–42 |
-| The verb TO BE in the present — am/is/are, its jobs (identity, origin, profession, feelings, age, description), negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF p. 11 |
-| The simple present — daily routines with third-person -s, questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 28 |
-| The present continuous — the time expressions this week, now, right now, at the moment, today, nowadays | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 32 |
-| The present continuous — verb-ing affirmative/negative/interrogative with short answers, and the verbs that never take it (think, believe, know, understand, like, want, need, love…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF pp. 41–42 |
-| Daily routines — the simple present and the past tenses in routine charts | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF pp. 69–70 |
-| The present continuous — the am/is/are + verb-ing chart | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF PDF p. 73 |
-| Present, past and future — the review charts of the three tenses | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF pp. 88–89 |
-| Review of the tenses — the compendium's review chart of present, past and future | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 109 |
+| The verb TO BE in the present — am/is/are, its jobs (identity, origin, profession, feelings, age, description), negatives and questions | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 11 |
+| The simple present — daily routines with third-person -s, questions and short answers | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 28 |
+| The present continuous — the time expressions this week, now, right now, at the moment, today, nowadays | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 32 |
+| The present continuous — verb-ing affirmative/negative/interrogative with short answers, and the verbs that never take it (think, believe, know, understand, like, want, need, love…) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF pp. 41–42 |
+| Daily routines — the simple present and the past tenses in routine charts | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF pp. 69–70 |
+| The present continuous — the am/is/are + verb-ing chart | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 73 |
+| Present, past and future — the review charts of the three tenses | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 88–89 |
+| Review of the tenses — the compendium's review chart of present, past and future | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 109 |
 **Acceptance count: taught in 34 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia).** Egypt boxes the every-day face inside

@@ -31,8 +31,8 @@ Every part traces to its book and page.
 | Make a recipe — a fruit-salad recipe: ingredients with quantities and imperative preparation steps (wash, peel, cut, slice, mix, serve, place, enjoy) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p. 36 |
 | How plastic is made — a seven-step process reading (raw materials, polymerisation, additives, processing, quality control, packaging, end of life) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 37–38 |
 | Manufactures in our country — the twelve-step process of making chocolate in Bolivia, with ingredients and equipment lists | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 41–42 |
-| Make a recipe — ordering the instructions of a sandwich recipe | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 38 |
-| A peanut soup recipe — a complete recipe as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 102 |
-| Coffee production — the steps of making coffee, as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 120 |
+| Make a recipe — ordering the instructions of a sandwich recipe | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 38 |
+| A peanut soup recipe — a complete recipe as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 102 |
+| Coffee production — the steps of making coffee, as a process text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
 
 **Acceptance count: taught in 5 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia).** Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia the infographic-to-process move. All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.

@@ -73,10 +73,10 @@ Uzbekistan. Filed in english/books/uzbekistan.md
 | Occupations through a chess player's story — the occupations set in a graded biography | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 6–7 |
 | Careers in the technical branches — career dialogues and text in the technology branch (BTH) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 57–58 |
 | Professions — a word-search and a 36-profession list (the book repeats two entries) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 7–8 |
-| Professions — the professions picture set (artist, farmer, nurse, postman, waiter, secretary, vet, bricklayer, dentist, policeman, architect, singer, manager, baker, astronaut, dressmaker, musician, shoemaker, painter, typist, fisherman) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF PDF pp. 11–12 |
-| Community work — the helping jobs of a community: street sweeper, gardener, policeman, firefighter, nurse, doctor | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF PDF p. 32 |
-| People at work — the occupations of the technology branch (BTH): mechanic, electrician, computer technician, plumber, carpenter, turner; Where does he work? | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF PDF p. 87 |
-| Work in the technology branch — an accounting text (BTH) with its work vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 120 |
+| Professions — the professions picture set (artist, farmer, nurse, postman, waiter, secretary, vet, bricklayer, dentist, policeman, architect, singer, manager, baker, astronaut, dressmaker, musician, shoemaker, painter, typist, fisherman) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF pp. 11–12 |
+| Community work — the helping jobs of a community: street sweeper, gardener, policeman, firefighter, nurse, doctor | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 2, compendium PDF p. 32 |
+| People at work — the occupations of the technology branch (BTH): mechanic, electrician, computer technician, plumber, carpenter, turner; Where does he work? | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 87 |
+| Work in the technology branch — an accounting text (BTH) with its work vocabulary | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
 
 **Acceptance count: taught in 5 countries (Cambodia, Rwanda,
 Uzbekistan, Vietnam, Bolivia).** Cambodia carries the opening

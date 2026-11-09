@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Describing things with more than one adjective in the right order ("a big, modern TV", "the big, square, yellow blanket"); adjective order revised in Units 26 and 33 | Cambodia, ENGLISH Grade 10, Unit 21 "What does it look like?", printed pp.111–116 |
 | The Adjectives and Adverbs box: an adjective comes before the noun — the ground rule this lesson's stacking order stands on | Egypt, Secondary 11 Term 2, Unit 11, Adjectives and Adverbs box, p.54 |
 | Adjective order — the order of adjectives before a noun, in the book's adjective unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 33–34 |
-| Adjective order — the compendium's adjective-order table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 119 |
+| Adjective order — the compendium's adjective-order table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 119 |
 
 **Acceptance count: taught in 5 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan).**
 

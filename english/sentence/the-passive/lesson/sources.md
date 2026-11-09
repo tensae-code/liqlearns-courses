@@ -265,7 +265,7 @@ Development (NCCD), Amman. Filed in english/books/jordan.md
 | Future passive printed in the guide — active and passive voice in the simple future (*will be* + past participle: "two classrooms will be built in our school this month"; "a health social program will be developed in every city"), converting between the voices both ways, with a worked passive-to-active pair printed | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 24, guide printed pp.154–161 |
 | The passive voice — passive examples across the tenses (past simple, present continuous, present perfect, future will, past continuous, going to, modal must), each paired with its active | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 39 |
 | Impersonal passive expressions — “it is said that… / it is believed that…” in a text about Bolivia | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 40 |
-| The expression “it is said that… / it is believed that…” in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 120 |
+| The expression “it is said that… / it is believed that…” in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 120 |
 
 
 **Acceptance count: taught in 29 countries (Egypt,

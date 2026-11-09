@@ -70,7 +70,7 @@ edition by page and reproduces no student lesson in full.
 | TAG QUESTIONS discovery and fill-the-tag sets ("You have already met your cousins, haven't you?") | Mongolia, English X, Module 2, Unit 4 "Personal Identity", pp.56–60 |
 | Tag questions in the present and past perfect, affirmative and negative, including the auxiliary HAVE chart worked in the steps — teacher's-guide evidence, with a gapped excerpt of the student dialogue printed in the steps' margin | Venezuela, My Victory Teacher's Book 4 (Grade 10), Lesson 21, guide printed pp.132–139 |
 | Tag questions — positive statement + negative tag and back, with intonation notes and short answers | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 11–12 |
-| Tag questions — the compendium's tag-question table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF PDF p. 111 |
+| Tag questions — the compendium's tag-question table | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 111 |
 
 **Acceptance count: taught in 8 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
