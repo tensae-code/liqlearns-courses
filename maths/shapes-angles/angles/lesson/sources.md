@@ -312,6 +312,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 174:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 175:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 176:** *Mathematics, Secondary 1 (Grade 10), Term 1, "First Form Secondary"* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 177:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: its syllabus carries the same eight chapters as the student book in a different order (measurement first, lines and angles last).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -366,6 +367,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles revised (§5.1) | Ethiopia, Grade 7 student book, ch. 5 — perimeter and area of plane figures, §5.1, printed pp. 135–190 |
 | Complementary and supplementary angles; exterior angles — an exterior angle equals the sum of the two remote interior angles; Ex. 5.8 — exterior angle of an equilateral triangle = 120° | Ethiopia, Grade 8 student book, ch. 5 — theorems on triangles, printed pp. 113–134 (the contents lists these sections as 5.4/5.5/5.6 — the body numbers them 5.1/5.2/5.3 at the same pages) |
 | Interior/exterior angles of polygons | Ethiopia, Grade 9 student book, ch. 6 — regular polygons, printed pp. 207–238 |
+| Lines, angles and their measurement (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), ch. 8, guide PDF p. 85 |
 | Angle types — acute < 90°, right = 90°, obtuse, straight = 180°; protractor use | South Sudan, Primary Mathematics — Pupil's Book 4, Unit 3 §§3.4–3.5, printed pp. 62–67 |
 | Constructing angles 60°, 30°, 90°, 45° | South Sudan, Primary Mathematics — Pupil's Book 5, Unit 3 §3.2, printed pp. 49–52 |
 | Bisecting lines and angles; vertically opposite and supplementary angles | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 3 §§3.1–3.2, printed pp. 35–42 |

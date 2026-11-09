@@ -201,6 +201,7 @@ Every part traces to its book and page.
 **Book 138:** *Elementary Mathematics, Class Five* — Bangladesh, NCTB, first edition August 2012, revised August 2015, reprint 2023, old curriculum from academic year 2013 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Mathematics, Primary 5, Term 1, "Discover" (Discovery Education) series* — Egypt, Ministry of Education and Technical Education (French edition ISBN 978-1-61708-831-5). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 140:** *Mathematics, Preparatory 1 (Grade 7), Term 1, new curriculum (Vision 2030)* — Egypt, Ministry of Education and Technical Education (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 141:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: its syllabus carries the same eight chapters as the student book in a different order (measurement first, lines and angles last).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -243,6 +244,7 @@ Every part traces to its book and page.
 | Working with variables: growing patterns generalised with variables; algebraic expressions and terms; verbal phrases as expressions ("four times an unknown number" = 4× the unknown); simplifying by collecting like terms; substituting to find a value; equality sentences as a balance | Ethiopia, Grade 5 student book, ch. 4, printed pp. 48–62 |
 | Algebraic expressions and terms, simplifying, writing expressions and equations — the Grade 7 student book is image-only (contents-complete filing from rendered pages + 14 sampled interiors, not a page-by-page text read) | Ethiopia, Grade 7 student book, ch. 4, printed pp. 95–134 |
 | Algebraic expressions and terms (teacher evidence) | Ethiopia, Grade 7 teacher guide (teacher evidence), detailed Unit 3 = student Unit 4, PDF p. 34 |
+| Working with variables: algebraic terms and expressions, equality by substitution, one-step linear equations, word problems (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), ch. 5, guide PDF pp. 73–78 |
 | .2 Algebraic expressions and brackets: expanding brackets in formulas (plan 31) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 38 |
 | Expanding brackets; building and simplifying algebraic expressions; substituting values | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 37 |
 | Writing expressions and formulae; reading graphs/diagrams into formulae | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 38 |

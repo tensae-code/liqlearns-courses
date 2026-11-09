@@ -244,6 +244,7 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 123:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 124:** *Mathematics, Preparatory 1 (Grade 7), Term 1, new curriculum (Vision 2030)* — Egypt, Ministry of Education and Technical Education (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 125:** *Mathematics, Preparatory 3 (Grade 9), Term 1, Student's Book (Sahara edition)* — Egypt, Ministry of Education and Technical Education, original edition 2018–2019, revised/approved 2023–2024 (the held file binds Terms 1 and 2 together; Term 1 is pp. 4–75). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 126:** *Mathematics, Grade 7 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -288,6 +289,7 @@ CITATION CHECK PASSED 2026-11-04).
 | Direct proportionality (teachers : pupils = 1 : 30, 2 : 60, 3 : 90…; money = 4 × age) and inverse proportionality (more workers → fewer days to finish the coffee harvest); a girls : boys table (ratio 3:4) — the chapter's coordinates are plotting only and are not stocked here | Ethiopia, Grade 6 student book, ch. 4, printed pp. 89–118 |
 | Ratio (including three-term ratios), proportion, direct and inverse proportionality; paint mixture 3:2:1 of 36 gallons → 18/12/6 gallons; a:b:c = 3:4:5, b = 20 → a = 15, c = 25, sum 60 — the Grade 7 student book is image-only (contents-complete filing from rendered pages + 14 sampled interiors, not a page-by-page text read) | Ethiopia, Grade 7 student book, ch. 3, printed pp. 53–94 |
 | Ratio, rate, proportion and percentage in business (§5.1) — business context only | Ethiopia, Grade 12 student book, ch. 5, printed pp. 303–413 |
+| Ratio, proportion and percentage (teacher evidence) | Ethiopia, Grade 7 teacher guide (teacher evidence), Unit 3, syllabus folio 82 (27 periods) |
 | Ratio and proportion (first introduction) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 26, 84 |
 | Simple ratio problems, simplifying (plans 21–22) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 5, 79–81 |
 | .4 Ratio and proportion with decimal numbers: sharing 7 g in ratio 95 : 3.5 : 1.5 (worked: 6.65 g / 0.245 g / 0.105 g — verified correct) (plans 51–52) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed pp. 52–53 |

@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia
 
 Every part traces to its book and page.
 
@@ -15,6 +15,8 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 
 **Book 6:** *Matemática, Grade 13 student book (3ro BGU, Tercero de Bachillerato)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-31-6 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 **Book 7:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 8:** *Mathematics, Student Textbook Grade 12* — Ethiopia, Ministry of Education, First Published August 2023, © 2023 MoE, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 9:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -52,7 +54,11 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Section evaluation: minimum-cost transport of 360 people with 60-seat buses and 30-seat minibuses, 10 vehicles | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 73 |
 | Worked challenge (3ro BGU): two-machine production as linear programming, software solution x = 4 h, y = 3 h (stated solution WRONG as printed — see filing error 10; true optimum x = 5 h, y = 0) | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed pp. 78–79 |
 | Linear programming — solving problems graphically | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U1 L8, printed p. 56 |
-**Acceptance count: taught in 7 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Graphical solutions of systems of linear inequalities (§4.1) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 239 |
+| Maximum and minimum values (§4.2) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 260 |
+| Applications of linear programming (§4.3) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 274 |
+| Introduction to linear programming: guidance and answers (teacher evidence) | Ethiopia, Grade 12 teacher guide (teacher evidence), Unit 4, guide pp. 153–218 |
+**Acceptance count: taught in 8 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Sudan teaches linear programming in Grade 11, from the formulation to word problems.
 
@@ -64,3 +70,5 @@ Mongolia enters through its ministry textbooks Математик X (Grade 10): 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 11: a transport problem modelled: decision variables, capacity restrictions as two-variable inequalities, non-negativity, objective z = 525(x₁ + x₂) to minimise.
 
 Egypt enters through its Secondary 1 Term 2 book (Arabic edition), stocked by the 2026-11-08 re-verification sweep: linear programming — solving problems graphically.
+
+Ethiopia enters through its Grade 12 student book's Unit 4, Introduction to Linear Programming — graphical solutions of systems of linear inequalities (printed p. 239), maximum and minimum values (printed p. 260) and applications (printed p. 274) — with its Grade 12 teacher guide's Unit 4 as teacher evidence (guide pp. 153–218). The old filing had read the unit, but no lesson had cited it until the 2026-11-08 re-verification sweep stocked it here.

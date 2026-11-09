@@ -239,6 +239,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 117:** *Primary Mathematics Syllabus — Class 4* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 4; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
 **Book 118:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 6. Sınıf Ders Kitabı, 1. Kitap* (Grade 6 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-8773-4; approved by the Talim ve Terbiye Kurulu, letter dated 30.06.2025, no. 135558975; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
+**Book 119:** *Mathematics, Grade 5 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: its syllabus carries the same eight chapters as the student book in a different order (measurement first, lines and angles last).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -272,6 +273,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Simple and compound interest, annuities, amortization and depreciation of a fixed asset — business context only | Ethiopia, Grade 12 student book, ch. 5, §5.2, printed pp. 303–413 |
 | Trade tax and discount (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 2, PDF pp. 34–51 |
 | Interest and loans (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 1, PDF p. 3 |
+| Percent (teacher evidence) | Ethiopia, Grade 5 teacher guide (teacher evidence), ch. 4, guide PDF p. 68 |
 | Percentages introduced (per cent as part of 100) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 25, 83 |
 | Fractions, decimals and percentages together (ordering/conversion) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed pp. 25–26, 84 |
 | Fraction/percentage equivalents of a quantity (50% of 60 = 30; 10% of 60 = 6), 25% work (plans 23–24) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 5, 82–84 |

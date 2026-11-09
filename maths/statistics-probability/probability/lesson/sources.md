@@ -232,6 +232,7 @@ Every part traces to its book and page.
 **Book 161:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 162:** *Algebra and Elements of Mathematical Analysis 10, advanced programme, teacher's methodological guide, Semester 2* (teacher guide) — Armenia, Limush, 2025. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 **Book 163:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 164:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -297,6 +298,7 @@ Every part traces to its book and page.
 | Sample space, events, experimental vs theoretical probability (coin-toss trials up to 10,000 tosses converging near 0.5); tree diagrams for three coins; P(E) = favourable/total; probability of a card drawn from cards 4–30, dice and ball problems | Ethiopia, Grade 9 student book, ch. 9 — statistics and probability, printed pp. 311–362 |
 | Fundamental principle of counting, permutations and combinations, the binomial theorem (§8.4 — the theorem, not the binomial distribution), random experiments, events, probability of an event, real-life application (Example 9, printed p. 450 (§8.6): E1 ∩ E2 = {(5, 1)} — E1 = first die shows 5, E2 = the sum is 6; exhaustive events — E1 = {2, 4}, E2 = {2, 4, 6}, E3 = {1, 3, 5}, union = the sample space; mutually exclusive events defined) | Ethiopia, Grade 11 student book, ch. 8 — probability, printed pp. 413–479 |
 | Probability teaching notes and answers (teacher evidence) | Ethiopia, Grade 11 teacher guide, Unit 8, printed pp. 238–271 (teacher evidence) |
+| Introduction to probability (teacher evidence) | Ethiopia, Grade 8 teacher guide (teacher evidence), Unit 8, syllabus appendix (14 periods) |
 | Probability between 0 and 1, certain = 1, impossible = 0; examples (coin, die, rain, cards, lottery); marble sampling | South Sudan, Primary Mathematics Pupil's Book 7, 5.7, printed pp. 76–78 |
 | Probability — chance vocabulary, card and dice examples, activities (coin 20 times, die 48 times), Exercise 4 probabilities as fractions (red marble 2/8 = ¼) | South Sudan, Primary Mathematics Pupil's Book 8, 5.3, printed pp. 88–92 |
 | Probability — experimental and theoretical, sample space, complementary events, grids, tree diagrams for two-stage events | South Sudan, Secondary Mathematics Student's Book 1, Unit 5, printed pp. 114–126 |

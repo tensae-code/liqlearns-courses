@@ -237,6 +237,7 @@ Every part traces to its book and page.
 **Book 167:** *Algebra 9* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 168:** *Mathematics, Primary 5, Term 1, "Discover" (Discovery Education) series* — Egypt, Ministry of Education and Technical Education (French edition ISBN 978-1-61708-831-5). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 169:** *Mathematics, Preparatory 1 (Grade 7), Term 1, new curriculum (Vision 2030)* — Egypt, Ministry of Education and Technical Education (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 170:** *Mathematics, Grade 6 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -286,6 +287,7 @@ Every part traces to its book and page.
 | Solving equations (teacher evidence) | Ethiopia, Grade 9 teacher guide (teacher evidence), guide Unit 2 = student Unit 3 |
 | Solving quadratic equations graphically (teacher evidence) | Ethiopia, Grade 10 teacher guide (teacher evidence), Unit 1 |
 | Solving rational equations (teacher evidence) | Ethiopia, Grade 11 teacher guide (teacher evidence), Unit 2 |
+| Linear equations and inequalities and proportionality: reviewing linear equations, direct and inverse proportion on graphs (teacher evidence) | Ethiopia, Grade 6 teacher guide (teacher evidence), ch. 4, guide PDF p. 84 |
 | Missing numbers: use □ for the missing number, e.g. 6 + □ = 10, 4 + □ = 9 worked on a rod/number line as 4 + 5 = 9, □ + 3 = 9, 2 + □ = 6; split 8 cubes 3 in one hand and 5 in the other; function steps 3 → +3 → 6, □ → +4 → 6, 7 → −5 → 2 (pupil book pp. 91–94) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed pp. 113–115 |
 | .4 Equations with one operation (plan 33) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 40 |
 | .5 Equations with two operations (plan 34) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 41 |

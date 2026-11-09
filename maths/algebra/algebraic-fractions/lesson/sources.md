@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia
 
 Every part traces to its book and page.
 
@@ -31,6 +31,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 15:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 **Book 16:** *Mathematics, Preparatory 3 (Grade 9), Terms 1 and 2, Student's Book (Sahara edition)* — Egypt, Ministry of Education and Technical Education, original edition 2018–2019, revised/approved 2023–2024 (one bound file holding both terms; Term 2 is pp. 4–108 of its own pagination). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 17:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 18:** *Mathematics, Grade 11* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-030-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -81,7 +82,8 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | The algebraic fraction | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U1 L5, printed p. 27 |
 | The domain of an algebraic fraction | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U1 L6, printed p. 33 |
 | Operations on algebraic fractions | Egypt, Prep 3 (Grade 9) Term 1 (NEW curriculum), U1 L7, printed p. 38 |
-**Acceptance count: taught in 11 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Rational expressions and rational functions (teacher evidence) | Ethiopia, Grade 11 teacher guide (teacher evidence), Unit 2, guide pp. 58–78 |
+**Acceptance count: taught in 12 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Sudan teaches algebraic fractions in Grade 10: simplifying, adding and subtracting, and multiplying and dividing with cancellation.
 
@@ -97,3 +99,5 @@ Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyri
 Armenia enters through its Algebra 8 (Mikayelyan); the Algebra 8 methodological guide (teacher evidence; it companions a different, unheld Gogyan student book, not the held Mikayelyan book). From its books: rational fractions; sum and difference of rational fractions; product and division of rational fractions; algebraic fraction and rational expression; multiplying, dividing and reducing algebraic fractions; adding and subtracting algebraic fractions; transformations of rational expressions.
 
 Egypt enters through its Prep 3 books, stocked by the 2026-11-08 re-verification sweep: the algebraic fraction, its domain and operations on algebraic fractions in both the old-series Term 2 book and the new-curriculum Term 1 book.
+
+Ethiopia enters as teacher evidence only: its Grade 11 teacher guide treats rational expressions and rational functions (Unit 2) at guide pp. 58–78.

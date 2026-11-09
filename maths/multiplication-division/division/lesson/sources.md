@@ -197,6 +197,7 @@ Every part traces to its book and page.
 **Book 143:** *Mathematics 3, Part 1* (student) — Armenia, Samvel Harutyunyan, Astghik gratun, 2024. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 144:** *Mathematics, Grade 1, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, 9th printing January 2019, ISBN 978-7-107-25354-6. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Only the second volume is held for every primary grade.
 **Book 145:** *Mathematics, Primary 3, Term 1 (Japanese-collaboration series)* — Egypt, Ministry of Education and Technical Education, © 2025/2026 (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 146:** *Mathematics, Grade 3 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (Amharic). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only. (Body-depth note corrected by the 2026-11-08 re-verification sweep: the guide's body text layer is font-broken, so the earlier characterisation of which chapters receive detailed body guidance is unverified and is not repeated; what the re-read establishes is its complete syllabus appendix, guide PDF pp. 31–42, covering all 12 chapters with period counts.)
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -241,6 +242,7 @@ Every part traces to its book and page.
 | Dividing to 1,000, partial-quotients guess-and-check (960÷4; printed p. 95 prints '300 x 4 = 1000' — correct 300 × 4 = 1200; the 300 is a typo for the guessed 250, 250 × 4 = 1000; teach corrected) | Ethiopia, Grade 3 student book, ch. 5 — multiplying and dividing to 10,000, printed pp. 87–99 |
 | Dividing by 1-digit, 2-digit and larger numbers, with remainders (300,000÷6; 476÷3=158 r2; 564,923÷8=70,615 r3; 800,000÷9=88,888 r8) | Ethiopia, Grade 4 student book, ch. 4 — multiplying and dividing whole numbers, printed pp. 83–106 |
 | Long divisions with remainders (476÷3=158 r2; 564,923÷8=70,615 r3; 800,000÷9=88,888 r8) (teacher evidence) | Ethiopia, Grade 4 teacher guide (teacher evidence), ch. 3 — multiplying and dividing whole numbers to 1,000,000, printed pp. 24–48 |
+| Division to 100 (teacher evidence) | Ethiopia, Grade 3 teacher guide (teacher evidence), ch. 4 (23 periods), guide PDF p. 34 |
 | Division as equal sharing (15 ÷ 3 = 5), division facts to 50 ÷ 10, long-division layout drills, word problems | South Sudan, Pupil's Book 2, 1.10, printed pp. 29–35 |
 | Division of fractions by reciprocals | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
 | The meaning of division; the division/multiplication link; division rules | Iraq, Grade 3 student book, Ch 9 — division, printed pp. 160–175 (L1 the meaning of division, printed p. 162; L2 the division/multiplication link, printed p. 164; L4 division rules, printed p. 169) |

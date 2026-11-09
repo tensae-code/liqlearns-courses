@@ -85,6 +85,7 @@ Every part traces to its book and page.
 **Book 65:** *الرياضيات (Mathematics), Grade 10 pupil's book, Part Two* — Palestine, Ministry of Education (State of Palestine), Curriculum Centre, Ramallah, second edition 2019 CE / 1440 AH (Arabic, with English lesson subtitles). No ISBN printed. Filed in maths/books/palestine.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 66:** *Primary Mathematics Syllabus — Class 3* (curriculum document) — Barbados, Ministry of Education and Human Resource Development. Curriculum evidence only: the syllabus states what is required at Class 3; it teaches nothing itself. No edition or year is printed in the document. Filed in maths/books/barbados.md (FULLY READ + CITATION CHECK PASSED).
+**Book 67:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -101,6 +102,7 @@ Every part traces to its book and page.
 | Insurance | Pakistan, Grade 8, pp.71–73; Iraq, Grade 11 Literary, pp.62–63 (log taught corrected: 0.0253); Sierra Leone, SSS 3, L59–L72, pp.33–72 |
 | Wages, rates of pay, income and expenditure | Sierra Leone, SSS 3, L59, p.33; Sierra Leone, JSS 3 Term 1, L29, p.83; Sierra Leone, JSS 2 Term 2, L56, p.2; Sierra Leone, Primary 6 Term 2, L103–L105, pp.110–114 (teacher evidence) |
 | Annuities and present value | Iraq, Grade 11 Literary, pp.59–62 (present value C = 2,351,000; annuity 59,875,000 is log-table rounding, true ≈ 60,030,578, not an error); Greece, EPAL W8, Ch.8, pp.171–195; Indonesia, Grade 12 Revisi, Bab 2, pp.35–80; Ethiopia, Grade 12, Unit 5, §5.3, pp.377–382 (saving, investing, financing — cited for scope only) |
+| Mathematical applications in business (teacher evidence) | Ethiopia, Grade 12 teacher guide (teacher evidence), Unit 5, guide pp. 219–280 |
 | Amortisation and loans | Greece, EPAL W8, Ch.9, pp.197–218; Ch.1, pp.17–31; Ch.4, pp.79–110; Indonesia, Grade 12 Revisi, Bab 2, pp.35–80 |
 | Bills of exchange | Greece, EPAL W8, Ch.5, pp.111–136 (discounting, present value, true rate); Ch.6, pp.137–149 (replacement bills, common and mean maturity); Ch.7, pp.153–170 (compound discounting) |
 | Currency conversion | Pakistan, Grade 8, pp.62–63; Nepal, Grade 10, Unit 2, §2.2, pp.11–22 (1947.55 AUD × 80.871 = Rs 157,500.32, checked correct; rate table dated — method taught); Sierra Leone, SSS 3, L71, p.69; South Sudan, Student's Book 2, pp.9–10 |

@@ -407,6 +407,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 204:** *Mathematics Standard Five — Pupil's Book* — Tanzania, Tanzania Institute of Education (TIE), English, © 2019, published 2019, reprinted 2021, ISBN 978-9987-09-109-6; Certificate of Approval No. 282 (Ministry of Education, Science and Technology, 5 December 2019), prepared to the 2016 primary Mathematics Syllabus. The only Tanzania mathematics book in hand; the other 20 recorded works are not in hand and are cited nowhere. Filed in maths/books/tanzania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 205:** *Geometry 8* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 206:** *Mathematics, Primary 3, Term 2, "Education 2.0" series* — Egypt, Ministry of Education and Technical Education, 2025–2026 (one work in Arabic and English editions; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 207:** *Mathematics, Grade 7 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -467,6 +468,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Perimeter and area of similar triangles — ratio of perimeters = ratio of similarity; ratio of areas = square of the ratio, A₁/A₂ = (5/4)² = 25/16 | Ethiopia, Grade 8 student book, ch. 4 — similarity of figures, printed pp. 91–112 |
 | Area of a regular polygon | Ethiopia, Grade 9 student book, ch. 6 — regular polygons, printed pp. 207–238 |
 | Perimeter/area of segments and sectors — r = 6 cm, θ = 210° → A = 21π cm² | Ethiopia, Grade 10 student book, ch. 5 — circles, printed pp. 251–286 |
+| Perimeter and area of plane figures (teacher evidence) | Ethiopia, Grade 7 teacher guide (teacher evidence), Unit 5, syllabus folio 90 (28 periods) |
 | Area of rectangles and squares — length × width; side × side (no perimeter taught in P4) | South Sudan, Primary Mathematics — Pupil's Book 4, Unit 2 §2.2, printed pp. 35–43 |
 | Acres and hectares; area of triangles — ½bh | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 2 §§2.4–2.5, printed pp. 26–28 |
 | Areas of quadrilaterals — parallelogram L × H; rhombus (a × b)/2; trapezium ½h(L₁ + L₂) | South Sudan, Primary Mathematics — Pupil's Book 7, Unit 2 §2.2, printed pp. 13–16 |
