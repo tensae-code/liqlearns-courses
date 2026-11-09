@@ -22,6 +22,8 @@ Every part traces to its book and page.
 **Book 16:** *Математик VIII (Mathematics, Grade 8)* — Mongolia, Ministry of Education, third edition, Ulaanbaatar 2019. Filed in maths/books/mongolia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 17:** *Naturaleza Matemática* — Venezuela, Grade 10 (4to año) student book, Ministerio del Poder Popular para la Educación (MPPE), Colección Bicentenario, third edition, April 2014, ISBN 978-980-218-330-2. Filed in maths/books/venezuela.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *ریاضی صنف ۱۲ (Mathematics, Grade 12)* — Afghanistan, Ministry of Education, Kabul, 1398 HS (Dari); no ISBN printed. Held complete through printed p. 280; a final printed p. 281 may exist beyond the held copy, and nothing is cited from it. Filed in maths/books/afghanistan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Buku Panduan Guru Matematika untuk SMP/MTs Kelas IX* (teacher guide) — Indonesia, Yosep Dwi Kristanto, Muhammad Taqiyuddin, Elyda Yulfiana, Indra Rukmana, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan (Kurikulum Merdeka), 2022, ISBN 978-602-427-901-1. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: the matched companion guide of the Grade 9 student book cited in this lesson — the Fase D learning-outcome flow for Grade 9, lesson schemes, teaching guidance per sub-section, technology integration (Desmos, GeoGebra, CODAP) and worked answer keys for every Latihan, Uji Kompetensi and Proyek of the student book (printed pp. 1–276). It teaches no pupil content beyond the student book. Its contents misprints the Bab III and Bab IV starts as pp. 147 and 207; the chapters open at printed pp. 146 and 206. Guide citation stocked by the 2026-11-08 re-verification sweep.
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -38,6 +40,7 @@ Every part traces to its book and page.
 | Kinds of data drilled — tickets sold discrete, toothpaste types nominal, weights and income continuous (workbook evidence) | Kuwait, Grade 11 T1 Exercise Workbook, Unit 6, pp.85–86 (workbook evidence) |
 | Stratified and systematic sampling drilled, incl. the paint-company strata (workbook evidence) | Kuwait, Grade 11 T1 Exercise Workbook, Unit 6, pp.87–88 and p.99 (workbook evidence) |
 | Estimating a population from a sample | Indonesia, Grade 9, Bab 4, pp.215–282 |
+| Teaching guidance and worked answer keys for sampling — population vs sample, estimating a population (teacher evidence) | Indonesia, Grade 9 teacher guide, printed pp. 1–276 (teacher evidence) |
 | Representative samples; criticising a bus-stop survey | North Macedonia, Grade 8 (2010), Theme 1, unit 13, pp.48, 50–51 |
 | Survey design; misleading data and statistics | Iraq, Grade 9, Ch. 6, pp.139, 143 |
 | Sampling and non-sampling errors; error E = T − θ; bias = E(T) − θ | Pakistan, Statistics Class 12, Ch. 11, pp.32–33 |

@@ -17,6 +17,9 @@ Every part traces to its book and page.
 **Book 11:** *Pure Mathematics, Grade 12* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics, Grade 11 student book* — Ethiopia. Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Algebra and Elements of Mathematical Analysis 12, Semester 1, Teacher's Methodical Guide* (teacher guide) — Armenia, produced for the "AB generation" programme, dated 2026 on its title page. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Armenia's Grade 12 student book is not held, so this guide evidences what is taught, not a pupil's page.
+**Book 31:** *Panduan Guru Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)* (teacher guide) — Indonesia, Mohammad Tohir, Ahmad Choirul Anam, Ibnu Taufiq, Tista Imam Riyadi, Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), 2025, ISBN 978-634-00-3116-4. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: the matched companion guide of the Grade 12 Revisi student book cited in this lesson — Panduan Umum (printed pp. 1–44) plus four chapter guides (Bab 1 pp. 45–106; Bab 2 pp. 107–166; Bab 3 pp. 167–220; Bab 4 pp. 221–276) with objectives, prerequisites, chapter frameworks, formative assessment, differentiated teaching guidance, summative tasks with rubrics, full worked answer keys and reflections (printed pp. 1–300). It teaches no pupil content beyond the student book; it carries no function-transformations chapter guide (the topic appears only in its Panduan Umum outcome tables) and is not cited for function transformations. Guide citation stocked by the 2026-11-08 re-verification sweep.
+**Book 32:** *Matematika untuk SMA/SMK/MA Kelas XII* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2022, ISBN 978-602-244-738-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
+
 
 **Book 14:** *Mathematics, Grade 11 Scientific student book* — Iraq, Ministry of Education, General Directorate of Curricula, 13th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *Mathematics, Grade 12 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 13th ed., 1446H/2024. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
@@ -47,6 +50,8 @@ Every part traces to its book and page.
 | The theorem with Pascal's triangle printed in the body of the lesson | Indonesia, Grade 12 Revisi, printed pp. 113–118 |
 | Pascal's triangle taught as a number pattern | Indonesia, Grade 8 K13, Bab 1, printed pp. 1–40 |
 | Pascal's triangle NOT FOUND — never cited for Pascal | Indonesia, Grade 12 Merdeka (2022) — negative finding, recorded in the filing; cited nowhere in this lesson |
+| The binomial theorem taught as the "Binom Newton" enrichment — the coefficient rows are shown WITHOUT the name Pascal's triangle ("Pascal" occurs 0 times in the book) | Indonesia, Grade 12 Merdeka student book, Bab 3 Pengayaan, printed pp. 144–145 |
+| Teaching guidance and full worked answer keys for the binomial theorem and Pascal's triangle (teacher evidence) | Indonesia, Grade 12 Revisi teacher guide, Bab 3, printed pp. 167–220 (teacher evidence) |
 | The binomial expansion | Vietnam, Grade 10 Volume 2, Bài 25, printed p. 72 |
 | Newton's binomial proved by induction | Vietnam, Grade 10 study book, Bài 4, printed p. 32 |
 | The theorem in the form (a+b)ⁿ = Σ C(n,k)aⁿ⁻ᵏbᵏ | Yemen, Grade 12 Science, 2-4, printed p. 65 |
