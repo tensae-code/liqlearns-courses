@@ -63,7 +63,11 @@ its own subtitle folder with its own lesson + questions):
   word-families
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
-  whats-his-and-her-name · how-old-are-you
+  whats-his-and-her-name · how-old-are-you ·
+  likes-and-hobbies · stating-and-giving-opinions ·
+  starting-and-ending-a-conversation (added 2026-11-09 by
+  the Indonesia re-verification sweep merge — **Unit 5,
+  Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -87,7 +91,9 @@ its own subtitle folder with its own lesson + questions):
   **Unit 7, Words for the World**) ·
   school-and-classroom-things (added 2026-11-08 by the
   China re-verification sweep merge — **Unit 7, Words for
-  the World**)
+  the World**) · toys-and-games (added 2026-11-09 by the
+  Indonesia re-verification sweep merge — **Unit 7, Words
+  for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -116,7 +122,10 @@ its own subtitle folder with its own lesson + questions):
   Detail**) · can-for-ability · have-to-obligation ·
   modal-verbs (added 2026-11-08 by the Bolivia
   re-verification sweep merge — **Unit 26, How Sure
-  Are You?**)
+  Are You?**) · the-present-continuous · noun-phrases
+  (added 2026-11-09 by the Indonesia re-verification sweep
+  merge — **Unit 12, Now, Before, Later** and **Unit 13,
+  Joining and Describing**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
@@ -150,14 +159,18 @@ Essay → the-formal-letter · job-application-letters ·
 complaint-letters · letters-that-ask-and-advise ·
 cv-and-cover-letter · personal-statements-and-proposals ·
 job-interviews · report-writing · news-writing · process-writing ·
-forms-minutes-and-questionnaires · review-writing ·
+forms-minutes-and-questionnaires · recount-text (added
+2026-11-09 by the Indonesia re-verification sweep merge —
+**Unit 36, Writing the Facts**) · review-writing ·
 blog-and-online-posts · article-writing ·
 advertisements-and-posters · speech-writing · presentation-skills ·
 play-scripts · essay-kinds · note-making · summarising ·
 diary-and-journal · biography-writing ·
 postcards-and-personal-letters · Story → story-techniques ·
 poetry-writing · Paragraph → reading-between-the-lines ·
-ways-to-read · exam-technique · translating-well ·
+checking-facts-online (added 2026-11-09 by the Indonesia
+re-verification sweep merge — **Unit 42, Reading Like a
+Detective**) · ways-to-read · exam-technique · translating-well ·
 other-ways-to-communicate · Word → phrasal-verbs ·
 idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·

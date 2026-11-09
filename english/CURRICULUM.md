@@ -85,6 +85,11 @@ about the other person, and close the talk.*
   now also ends with the learner able to offer, suggest, apologise,
   invite, ask politely, agree and disagree, use the phone, shop,
   congratulate, advise, and give directions)
+- **Sweep additions (2026-11-09, Indonesia re-verification sweep
+  merge):** likes-and-hobbies ✅ · stating-and-giving-opinions ✅ ·
+  starting-and-ending-a-conversation ✅ (3 lessons — the likes,
+  opinion and conversation-frame teaching of Indonesia's Grades
+  3, 6, 7, 8, 10, 11 and 12 books that no lesson housed)
 
 ## Unit 6 — Word Kinds
 *End of unit: the learner knows what each kind of word does.*
@@ -124,6 +129,9 @@ about the other person, and close the talk.*
   merge):** school-and-classroom-things ✅ (1 lesson — the school
   and classroom word sets China's primary books teach that no
   lesson housed: Grade 3 Volume 1; Grade 4 Volumes 1–2)
+- **Sweep addition (2026-11-09, Indonesia re-verification sweep
+  merge):** toys-and-games ✅ (1 lesson — the toys chapter of
+  Indonesia's Grade 4 book, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -166,12 +174,19 @@ questions, and answer in whole sentences.*
 planned later.*
 - present-actions ✅ · past-actions ✅ · going-to-later ✅ — from
   Libya's middle-grade spine
+- **Sweep addition (2026-11-09, Indonesia re-verification sweep
+  merge):** the-present-continuous ✅ (1 lesson — the doing
+  chapters of Indonesia's Grade 3 book, printed pp.59–88,
+  which no lesson housed)
 
 ## Unit 13 — Joining and Describing
 *End of unit: the learner can join sentences and put describing
 words and belonging in their right places.*
 - joining-with-and-and-but ✅ · describing-words-in-a-sentence ✅ ·
   mine-and-yours ✅
+- **Sweep addition (2026-11-09, Indonesia re-verification sweep
+  merge):** noun-phrases ✅ (1 lesson — the noun-group teaching
+  of Indonesia's Grade 9 book and its Grade 11 books)
 
 ## Unit 14 — The Paragraph
 *End of unit: the learner can write a paragraph whose sentences
@@ -383,6 +398,9 @@ instructions that work, and the paperwork of meetings.*
 - report-writing ✅ · news-writing ✅ · process-writing ✅ ·
   forms-minutes-and-questionnaires ✅ (catch-up build
   2026-11-07 — 4 lessons, 72 question items)
+- **Sweep addition (2026-11-09, Indonesia re-verification sweep
+  merge):** recount-text ✅ (1 lesson — the recount as a named
+  kind in Indonesia's Grade 6, Grade 9 and Grade 10 books)
 
 ## Unit 37 — Writing Your View
 *End of unit: the learner can review, blog, write articles,
@@ -420,6 +438,9 @@ three-word family.*
 choose a reading strategy on purpose.*
 - reading-between-the-lines ✅ · ways-to-read ✅ (catch-up
   build 2026-11-07 — 2 lessons, 34 question items)
+- **Sweep addition (2026-11-09, Indonesia re-verification sweep
+  merge):** checking-facts-online ✅ (1 lesson — the fake-news
+  identification procedure of Indonesia's Grade 9 book)
 
 ## Unit 43 — Words About Words
 *End of unit: the learner can use idioms and collocations,
@@ -517,6 +538,29 @@ letter group "qu" printed as /k/; taught corrected as
 /kw/). It built 1 new lesson inside Unit 7:
 school-and-classroom-things. The English path now stands
 at **177 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-09 (INDONESIA).**
+The Indonesia sweep merge stocked the 137 items the fresh
+page-by-page re-read of its 23 books (220 teaching items;
+83 already in the course) found missing — the reading was
+genuine and the filing honest; the failure, again, was
+stocking, with whole topics sitting behind lessons that
+carried no Indonesia citation. It corrected three course
+files that named the Grade 11 Tingkat Lanjut student book
+"(Let's Elevate Our English)" — that title belongs to the
+separate Edisi Revisi 2024 teacher guide — and moved
+process-writing's game-steps and sprout procedures from
+Grade 7 to the Grade 6 chapters that actually hold them.
+Stories are stocked as plot summaries only; the three
+teacher guides are cited as topic-level teacher evidence
+where they stand alone. It built 8 new lessons:
+likes-and-hobbies, stating-and-giving-opinions and
+starting-and-ending-a-conversation in Unit 5;
+toys-and-games in Unit 7; the-present-continuous in
+Unit 12; noun-phrases in Unit 13; recount-text in
+Unit 36; and checking-facts-online in Unit 42. The
+English path now stands
+at **185 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are
