@@ -816,3 +816,30 @@ books teach.**
   sources stock that belongs to a *different* thing (a neighbour
   lesson's one thing) stays the neighbour's — the arc rule covers
   the lesson's own progression, not every row in its table.
+
+## Expansion to every country (ruled 2026-11-10)
+
+Tensae's decision, 2026-11-10: the courses are no longer limited to
+the library's closed countries. English and Maths are built from
+EVERY country in the library, in turn; when English and Maths are
+done across all countries, the other subjects follow the same way.
+This supersedes the 2026-11-03 rule that a country joined the
+courses pool only when it closed in the library.
+
+The country reckoning is kept PER SUBJECT, separate from the
+library's closed list:
+
+- **Courses-closed (per subject):** every book of that subject in
+  hand for the country has been read and stocked into the course —
+  no leftover for that subject. A country can be courses-closed
+  for Maths and still open for English, or the other way round.
+  The headline course-country count can therefore pass the
+  library's 52 closed as more countries finish per subject.
+- **Partial (per subject):** some of the country's books for that
+  subject are in the course, but not every textbook the country
+  has for that subject has been found — the country is used, and
+  marked partial.
+
+Working limits he set for this expansion: about 2 GB of
+downloaded-and-unfinished books at a time, and ten course workers
+on it — five for English, five for Maths.
