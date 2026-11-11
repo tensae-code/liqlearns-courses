@@ -8,7 +8,7 @@ A small workshop makes tables (x per day) and chairs (y per day).
 - Time: each table takes 1 hour, each chair 1 hour; 60 hours available.
 - Profit: RM40 per table, RM30 per chair.
 
-How many of each should the workshop make for the most profit? Guess a mix, work out its profit, and see if your neighbour can beat it. Guessing will get you close — this lesson gives you the method that *proves* the best mix. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–244.)
+How many of each should the workshop make for the most profit? Guess a mix, work out its profit, and see if your neighbour can beat it. Guessing will get you close — this lesson gives you the method that *proves* the best mix. (Malaysia, Additional Mathematics Form 5, Ch. 7 §§7.1–7.2, printed pp. 234–245.)
 
 ## Sub lesson 1 — Writing the Limits
 
@@ -20,7 +20,7 @@ Every limit in the story becomes one inequality:
 - Time: x + y ≤ 60
 - Counts cannot be negative: x ≥ 0, y ≥ 0
 
-A set of inequalities that must all hold at once is a **system of linear inequalities**. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–237.)
+A set of inequalities that must all hold at once is a **system of linear inequalities**. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.1, printed pp. 234–237.)
 
 ## Sub lesson 2 — Drawing the Feasible Region
 
@@ -28,7 +28,9 @@ A set of inequalities that must all hold at once is a **system of linear inequal
 
 Draw each boundary line: 2x + y = 100 (through (0, 100) and (50, 0)) and x + y = 60 (through (0, 60) and (60, 0)). A line is **solid** when the inequality allows equality (≤, ≥) and dashed when it does not (<, >). Test a point — the origin (0, 0) satisfies both limits, so the allowed side of each line is the origin side.
 
-The overlap of all the allowed sides is the **feasible region**: here the four-cornered region with corners (0, 0), (50, 0), (40, 20) and (0, 60). Every point inside is a plan that breaks no limit. The corner (40, 20) is where the two lines cross — solve 2x + y = 100 with x + y = 60 and x = 40, y = 20 falls out. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 237–240.)
+The overlap of all the allowed sides is the **feasible region**: here the four-cornered region with corners (0, 0), (50, 0), (40, 20) and (0, 60). Every point inside is a plan that breaks no limit. The corner (40, 20) is where the two lines cross — solve 2x + y = 100 with x + y = 60 and x = 40, y = 20 falls out. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.1, printed pp. 237–239.)
+
+[Picture 7262 — the shaded feasible region with best corner (40, 20)]
 
 ## Sub lesson 3 — Finding the Optimum
 
@@ -49,7 +51,7 @@ The key fact of linear programming: **the optimum value of the objective functio
 | (40, 20) | RM2200 |
 | (0, 60) | RM1800 |
 
-The maximum profit is **RM2200**, at 40 tables and 20 chairs — the corner where both limits bite at once. Answer in the words of the problem: make 40 tables and 20 chairs a day. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 240–244.)
+The maximum profit is **RM2200**, at 40 tables and 20 chairs — the corner where both limits bite at once. Answer in the words of the problem: make 40 tables and 20 chairs a day. (Malaysia, Additional Mathematics Form 5, Ch. 7 §7.2, printed pp. 240–244.)
 
 A minimum problem works the same way — the smallest corner value wins (a cheapest diet, a shortest route plan). If the region is unbounded, say so honestly: a maximum may then not exist, while a minimum still sits at a corner.
 
