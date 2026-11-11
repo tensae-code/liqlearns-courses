@@ -1,6 +1,6 @@
 # Sources — Non-defining relative clauses
 
-countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea, Tunisia, Sri Lanka, Nigeria
+countries: Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea, Tunisia, Sri Lanka, Nigeria, Cuba
 
 Every part traces to its book and page.
 
@@ -76,7 +76,7 @@ verification sweep.
 | Prepositions in relative clauses (defining vs non-defining, preposition final or fronted), reviewed | Yemen, Pupil's Book 6 (Grade 12), Language review 4 (p.15) |
 | Grammar as named work: non-defining relative clauses; negatives used for emphasis; metaphors identified in the text | India — First Flight (Class 10), Grammar in A Letter to God (What We Have Done), printed p.13 |
 
-**Acceptance count: taught in 13 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea, Tunisia, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
+**Acceptance count: taught in 14 countries (Egypt, Malaysia, Mongolia, Vietnam, Yemen, India, Armenia, Jordan, Ethiopia, Afghanistan, Eritrea, Tunisia, Sri Lanka, Cuba).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India joins with non-defining relative clauses as named grammar in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states
 both kinds and all three hard rules in a single
 Secondary 11 box. Malaysia teaches defining and
 non-defining together twice — Form 3 Unit 4 and Form 4
@@ -90,7 +90,7 @@ whole-sentence which its own heading at Grade 12
 Unit 3. Yemen presents non-defining clauses in
 Pupil's Book 5's Language review 2 and reviews the
 defining/non-defining contrast with prepositions in
-Pupil's Book 6. Ethiopia joins with its Grade 12 non-defining clauses (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+Pupil's Book 6. Ethiopia joins with its Grade 12 non-defining clauses (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Cuba joins with the Cuba rows stocked below (stocked 2026-11-11 by the Cuba expansion merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -206,3 +206,17 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Cuba added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cuba's in-hand English set from the PDFs — **19 distinct books: 12 pupil-side and 7 teacher documents** (Editorial Pueblo y Educación / MINED): four pupil textbooks (the *New Roads to English* student books for Grades 7, 8, 9 and 10), eight pupil workbooks (the *English, Come!* videoclass workbooks for Grades 3, 4, 5 and 6, the nine-theme *English Workbook, Sixth grade*, the 2015 *New Roads* Grade 6 TV-class workbook, and the Grade 11 and Grade 12 *English Workbook*s) and seven teacher documents (the Grade 5, Grade 8 and Grade 11 Programas with their Orientaciones Metodológicas, and the Grade 9 Caracterización + Orientaciones Metodológicas) — **208 teaching items placed, 0 already in the course; the 201 items that name a target lesson are stocked in this merge** (the other 7 placements are whole-course review/integration units the placements themselves mark "no new target" — items 34, 137, 144, 177, 193, 201, 205; their substance is the teaching items of the same books, already placed). Read depth, as the placements declare it: 18 of the 19 books read in full, page by page through their text layers; **Book B (the Grade 4 videoclass workbook) is an image-only scan read at reduced depth** from its extracted page images — cover, imprint, the full 40-lesson contents and lesson-opening spreads sampled across all six content clusters — so its rows are at cluster level with contents page numbers, as declared in its book entry. **Counting for this lesson: Cuba is counted** — every row below rests on a Cuban pupil book (a *New Roads* student book or a pupil workbook). Cuba stays **PARTIAL-plus** for English: no pupil textbooks are in hand for Grades 11–12 (workbooks only — the Biblioteca *New Roads* Grade 11 and Grade 12 student books are catalogue candidates in no in-hand record, cited nowhere), the Grade 9 teacher document plans a 10-unit course whose news, connectors, used-to, relative-clause, environment-modal and past+passive units are confirmed ABSENT from the 6-unit Grade 9 pupil book in hand (flag 4; teacher rows for those topics are labelled teacher evidence wherever they stock), and no Grade 1–2 English exists in any record (flag 8). The record faults stand as flagged in the diff, reported not fixed (merges never edit filings): the expansion map's "3 student + 6 teacher in hand" count understates the 19-book union (flag 1); textbooks.tsv calls three workbooks "student" books — their own title pages say CUADERNO DE TRABAJO, and Cuba has no pupil textbook in hand below Grade 7 (flag 2); the Grade 4 workbook is one book filed under two records with the identical GitHub blob sha (flag 3 — cited once, as Book B); the Grade 5 Programa's own unit list is inconsistent (flag 5, carried in Book D's entry); download-list understatements were corrected by the files themselves (flag 6 — the Grade 7 student book carries a full text layer despite its "scanned PDF / CATALOGUE" note); the Biblioteca Grade 11/12 student books and the Perfeccionamiento notebooks are candidates only, in no in-hand record (flag 7 — not read, not counted). Book errors found in the books themselves are carried in the book entries they touch and taught corrected (the Grade 5 OM's Physical-Education metadata title; the Grade 9 teacher document's EIGHTH-grade objectives heading; the Grade 8 OM's "séptimo grado" reference; "We will cook our diner" in the Grade 11 plans; "I like to be on fashion" and "The furnitures of my house" in the Grade 5 workbook; "every day activities" in the Grade 7 student book). Two diff groupings named lessons the placements never target — asking-yes-no-questions and introductory-there: the placements govern, so no rows are stocked there. The placements' named exclusions stand and are stocked nowhere: pedagogy/methodology apparatus and curriculum-framework apparatus in the teacher documents; answer keys and exercise apparatus as such (where a key itself teaches content — Book G's should-advice matching, Book K's sports word-search list — the content is placed and the key as such excluded); review, practice, self-evaluation and assessment lessons with no new teaching point; front and back matter; songs as songs (practice vehicles for items placed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (cuba-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book P:** *English Workbook, 12mo grado* (pupil workbook) — Cuba, Editorial Pueblo y Educación, 2006. 65 pp; 3 topics + Reading Corner + Language Summary. Printed page = PDF page − 5; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Language Summary: relative clauses extended (whose for possession, of people and things; whom/that) — the extended relatives set (item 185) | Cuba — *English Workbook, 12mo grado*, Language Summary, printed pp.35–60 (PDF pp.40–65) |
+
+Cuba is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cuba-placements.md.
