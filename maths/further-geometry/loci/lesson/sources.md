@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Andorra, Brazil
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Andorra, Brazil, Dominica
 
 Every part traces to its book and page.
 
@@ -63,7 +63,7 @@ On Nepal in this lesson: the concept of locus is §3.1 of Nepal's Grade 9 Option
 | Locus of points (կետերի երկրաչափական տեղ) | Armenia, Geometry 7, §17.41*, printed p. 134 |
 | Concept of locus | Nepal, Grade 9 Optional student book, §3.1, printed p. 146 |
 
-**Acceptance count: taught in 13 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Brazil).**
+**Acceptance count: taught in 14 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Brazil, Dominica).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.
@@ -161,3 +161,19 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 4.
+
+**Book 4:** *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book, Grade 12) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2013, ISBN 978-976-648-293-0; 98,721,656 bytes, 689 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Loci: the locus of a point; parabolas and ellipses treated as loci | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 311 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

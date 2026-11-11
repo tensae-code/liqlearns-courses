@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan, Sri Lanka, Andorra, Bahamas
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan, Sri Lanka, Andorra, Bahamas, Dominica
 
 Every part traces to its book and page.
 
@@ -75,7 +75,7 @@ On Nepal in this lesson: linear programming is Lesson 3 of Nepal's Grade 10 Opti
 | Linear programming: linear inequalities, systems, solving LP problems | Nepal, Grade 10 Optional student book, Lesson 3, printed p. 26 |
 | Linear inequalities and linear programming — the held Class 12 notes book's worked treatment | Pakistan (Punjab), Class 12 *College Mathematics* (Pearl Educational, 2013) — PRIVATE commercial notes book, not the PCTB textbook, Unit 5, printed pp. 326–367 |
 | Linear inequalities and linear programming by graphs | South Sudan, Student's Book 4, Unit 3, printed p. 46 |
-**Acceptance count: taught in 14 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+**Acceptance count: taught in 15 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan, Dominica).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Vietnam carries linear programming in its Grade 12 study book — using systems of linear inequalities in two unknowns to solve linear-programming problems (Chuyên đề 2 Bài 3). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -149,3 +149,19 @@ The 2026-11-10 expansion read read the Bahamas' whole in-hand Maths set from the
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every document in the Bahamas' in-hand set is a ministry requirement document (the 2010 primary guidelines, the 2003 BJC examination syllabus, the 2019 senior-high guidelines), not a pupil textbook or a teacher guide, cited as the evidence kind it is, never counted as teaching (the standing Ghana/Barbados evidence-only precedent). The Bahamas' class for Maths is PARTIAL (evidence-only): all 4 in-hand documents are read and stocked, but no pupil textbook is in hand; it advances only when a pupil book file — a Hodder *Bahamas Primary Mathematics* volume, or the Akhepran Grade 7 BJC textbook whose exact link already sits in the download list — lands in hand and is read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bahamas-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 3.
+
+**Book 3:** *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book, Grade 11) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), 4th edition 2012, reprinted 2020 with SBA guidelines, ISBN 978-976-648-133-9; 69,240,959 bytes, 612 PDF pp. Scanned-image PDF with no text layer, read visually (the held copy is stamped “SAMPLE COPY” on its title page, but is complete); the course's printed pagination continues from Volume One — printed page = PDF page + 701.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Linear programming | Dominica — *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book), Grade 11, printed p. 1070 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

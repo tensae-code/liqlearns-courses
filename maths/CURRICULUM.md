@@ -93,6 +93,7 @@ tables, and knows which operation comes first.*
 - multiplication ✅ — times tables, multiplying in columns
 - division ✅ — sharing, remainders, dividing in columns
 - the-order-of-operations ✅ — brackets, then multiply and divide, then add and subtract
+- computation-short-cuts ✅ — rapid calculation strategies: the tens shifts, the near-ten cuts for 9, 99 and 11, breaking apart, doubling and halving, compensation (Level 168, Dominica expansion merge 2026-11-11)
 
 ## Unit 4 — Fractions, Decimals and Percentages
 *End of unit: the learner can split wholes into parts, work
@@ -127,6 +128,7 @@ a square.*
 - simultaneous-equations ✅ — two equations, two unknowns
 - quadratic-equations ✅ — factorising, completing the square, the formula
 - polynomial-division ✅ — dividing polynomials, long and synthetic division, the remainder and factor theorems (Level 58, catch-up build 2026-11-06)
+- roots-and-coefficients-of-a-cubic ✅ — the relations between a cubic's roots and its coefficients: the sum, the sum of the products in pairs, and the product (Level 170, Dominica expansion merge 2026-11-11)
 - partial-fractions ✅ — splitting a fraction into partial fractions (Level 59, catch-up build)
 - algebraic-fractions ✅ — letter-fractions: simplifying, and adding and subtracting over the LCM of the terms (Level 138, Malaysia merge 2026-11-07)
 - linear-programming ✅ — constraints as a system of inequalities, the feasible region, and the best value at a corner (Level 139, Malaysia merge 2026-11-07)
@@ -179,6 +181,7 @@ same shape, move shapes, and use trigonometry.*
 - inverse-trigonometric-functions ✅ — arcsine, arccosine, arctangent and their graphs (Level 74, catch-up build)
 - three-dimensional-trigonometry ✅ — angles and lengths in three dimensions (Level 75, catch-up build)
 - bearings ✅ — three-figure bearings and back bearings (Level 76, catch-up build)
+- latitude-and-longitude ✅ — the earth: latitude and longitude on the sphere, distances along great circles, and distances along the parallels of latitude (Level 169, Dominica expansion merge 2026-11-11)
 - triangle-centres ✅ — medians and the centroid, bisectors and the incentre, perpendicular bisectors and the circumcentre, altitudes and the orthocentre (Level 77, catch-up build 2026-11-06)
 - loci ✅ — loci: the paths of moving points, and constructing them (Level 78, catch-up build)
 - fractals ✅ — fractals: shapes inside shapes, the Koch snowflake, Sierpiński and Mandelbrot (Level 79, catch-up build)
@@ -315,7 +318,7 @@ things and follow patterns — the first mathematics of all.*
 - sorting-and-classifying ✅ — sorting and classifying by one attribute, then by two (Level 135, catch-up build)
 - repeating-patterns ✅ — repeating, growing and shrinking patterns (Level 136, catch-up build)
 
-**LADDER TOTAL: 167 lessons across 18 units** — the first
+**LADDER TOTAL: 170 lessons across 18 units** — the first
 52 built 2026-11-05 across 12 units (5 + 2 + 3 + 6 + 4 + 5 +
 4 + 4 + 5 + 3 + 4 + 7); the catch-up build of 2026-11-06
 added 84 lessons (Levels 53–136) as extensions inside the
@@ -332,7 +335,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13; the Australia expansion merge of 2026-11-11 added 1 lesson (Level 167) inside Unit 14.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13; the Australia expansion merge of 2026-11-11 added 1 lesson (Level 167) inside Unit 14; the Dominica expansion merge of 2026-11-11 added 3 lessons (Levels 168–170) inside Units 3, 9 and 6.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:

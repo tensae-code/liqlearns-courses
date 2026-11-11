@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 52 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland).**.** Kazakhstan carries
+**Acceptance count: taught in 53 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -1129,3 +1129,22 @@ The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PD
 Finland is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from Finland's pupil-facing open material. Its 1 teacher-evidence item in this lesson are named in the rows and stay outside the count. Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 2 items from Book 2 and Book 4.
+
+**Book 2:** *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd edition (student book, Grade 10) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), November 2004, ISBN 976-8014-16-43 (old-style ISBN as printed); 100,014,865 bytes, 723 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 11 (±1 at divider leaves). The file is missing from phase3-staging; it was read from a byte-exact copy landed via the authenticated GitHub route (release mid-size-books-2; MD5 00925eeeeebbf1a4ef6997c9438fa271) and deleted after the read.
+
+**Book 4:** *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book, Grade 12) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2013, ISBN 978-976-648-293-0; 98,721,656 bytes, 689 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sequences of numbers (finding terms from a pattern/rule) | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 28 |
+| Summation notation (Σ): index of summation, lower and upper limits | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 59 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

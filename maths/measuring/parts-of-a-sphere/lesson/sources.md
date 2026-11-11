@@ -1,6 +1,6 @@
 # Sources — Parts of a Sphere
 
-countries: Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica
+countries: Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | Spheres | Vietnam, Grade 9 Volume 2, Bài 32 "Hình cầu" (spheres), printed p. 105 |
 | The sphere (الكرة) as a whole solid with S = 4πR² and V = (4/3)πR³ (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in volume-and-surface-area) | Syria, Grade 9 Geometry student's book, printed p. 66 |
 
-**Acceptance count: taught in 7 countries (Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica).**
+**Acceptance count: taught in 8 countries (Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica).**
 
 Vietnam joins with the sphere in Grade 9 Volume 2 (Bài 32). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -70,3 +70,19 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 2.
+
+**Book 2:** *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd edition (student book, Grade 10) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), November 2004, ISBN 976-8014-16-43 (old-style ISBN as printed); 100,014,865 bytes, 723 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 11 (±1 at divider leaves). The file is missing from phase3-staging; it was read from a byte-exact copy landed via the authenticated GitHub route (release mid-size-books-2; MD5 00925eeeeebbf1a4ef6997c9438fa271) and deleted after the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Volume and surface area of a sphere | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 151 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

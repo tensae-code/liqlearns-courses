@@ -1,6 +1,6 @@
 # Sources — Parametric Equations
 
-countries: Cambodia, Mauritania, Syria, Albania
+countries: Cambodia, Mauritania, Syria, Albania, Dominica
 
 Every part traces to its book and page.
 
@@ -24,8 +24,24 @@ Every part traces to its book and page.
 | Elective course: ekuacionet parametrike (Parametric equations) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 66 |
 | Equation of a circle: x² + y² = r² for centre (0, 0); (x − a)² + (y − b)² = r² for centre (a, b); the general form is taught corrected as x² + y² + 2fx + 2gy + c = 0 with centre (−f, −g) and radius √(f² + g² − c) — the book prints the general form garbled (“x² + y² 3fx + 2gy + c = 0”) and the radius wrongly as √(f² + g²) on printed pp. 115–116; the book's own answer key states the radius correctly (printed p. 207) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 66 |
 
-**Acceptance count: taught in 4 countries (Cambodia, Mauritania, Syria, Albania).** Cambodia carries the whole lesson in Grade 12 Advanced Chapter 9 (printed pp.235–252): the opening parametric example, the projectile worked whole in §9.1 (printed p.236) with v₀ = 48 cm/s, and — through its true-companion teacher guide's Chapter 9 lesson plan (printed pp.227–236) — the chapter's stated objectives and its circle and ellipse forms; the guide's v₀ of 45 cm/s is taught corrected to the student book's 48 wherever the projectile appears. Mauritania carries parametric curves as a named final-year chapter, "Courbes paramétrées", in its 7AS-C book (Ch.13, printed p.159), cited at chapter level as filed.
+**Acceptance count: taught in 5 countries (Cambodia, Mauritania, Syria, Albania, Dominica).** Cambodia carries the whole lesson in Grade 12 Advanced Chapter 9 (printed pp.235–252): the opening parametric example, the projectile worked whole in §9.1 (printed p.236) with v₀ = 48 cm/s, and — through its true-companion teacher guide's Chapter 9 lesson plan (printed pp.227–236) — the chapter's stated objectives and its circle and ellipse forms; the guide's v₀ of 45 cm/s is taught corrected to the student book's 48 wherever the projectile appears. Mauritania carries parametric curves as a named final-year chapter, "Courbes paramétrées", in its 7AS-C book (Ch.13, printed p.159), cited at chapter level as filed.
 
 Syria represents a line in space parametrically in Grade 12 Part Two.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 12 (teacher's book): Elective course: ekuacionet parametrike (Parametric equations); Equation of a circle: x² + y² = r² for centre (0, 0); (x − a)² + (y − b)² = r² for centre (a, b); the general….
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 4.
+
+**Book 4:** *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book, Grade 12) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2013, ISBN 978-976-648-293-0; 98,721,656 bytes, 689 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cartesian and parametric equations of a curve | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 304 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

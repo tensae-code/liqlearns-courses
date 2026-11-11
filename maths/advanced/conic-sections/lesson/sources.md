@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica
 
 Every part traces to its book and page.
 
@@ -183,7 +183,7 @@ Every part traces to its book and page.
 | Parábola: parabola — elements, equations, tangents; link to the quadratic function and maximum/minimum | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 125 |
 | La elipse: ellipse — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 133 |
 | La hipérbola: hyperbola — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 140 |
-**Acceptance count: taught in 28 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 29 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -329,3 +329,23 @@ The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs
 | Solving problems with circumferences (coordinate geometry of the circle) | Chile — *Guía Didáctica del Docente, Matemática 3° y 4° Medio, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering the 4° Medio year only; Tomo 1 not held; the 3° Medio guidance sits in the unheld Tomo 1), guidance for the topic taught in the student book at the student book's Lección 8, 4° Medio Unit 4 (no printed page cited) |
 
 Chile is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 5 items from Book 4.
+
+**Book 4:** *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book, Grade 12) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2013, ISBN 978-976-648-293-0; 98,721,656 bytes, 689 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Properties of a circle; the standard form of the equation of a circle | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 273 |
+| The general form of the equation of a circle; an axis as a tangent to a circle | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 280 |
+| Equations of tangents and normals to circles (at a point, parallel tangents, tangents from an external point) | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 286 |
+| Equation of a circle passing through three points | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 292 |
+| Parametric forms of the conics: the circle, the parabola y² = 4ax and x² = 4ay, the ellipse | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 307 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

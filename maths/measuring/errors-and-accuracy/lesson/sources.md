@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Andorra, Bahamas, Belize, Australia, Bhutan, Cabo Verde
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Andorra, Bahamas, Belize, Australia, Bhutan, Cabo Verde, Dominica
 
 Every part traces to its book and page.
 
@@ -69,7 +69,7 @@ Every part traces to its book and page.
 | Approximate numbers and error | Vietnam, Grade 10 Volume 1, Bài 12 "Số gần đúng và sai số" (approximate numbers and error), printed p. 73 |
 | Approximate numbers (عددهای تقریبی) | Iran, Grade 6 student book, Ch. 9, printed p. 143 |
 
-**Acceptance count: taught in 15 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Australia, Bhutan, Cabo Verde).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 16 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Australia, Bhutan, Cabo Verde, Dominica).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Vietnam carries approximate numbers and error in Grade 10 (Bài 12). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -186,3 +186,20 @@ The 2026-11-10 expansion read read Cabo Verde’s whole in-hand Maths set from t
 Cabo Verde is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of the Ministério da Educação de Cabo Verde. Cabo Verde’s class for Maths is **COURSES-CLOSED** — every in-hand Cabo Verde Maths book (all 3) has been read in full and stocked; the link-only ministry Maths manuals for the other grades are not in hand, and Cabo Verde reopens for a grade only if one of those manuals is ever grabbed and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cabo-verde-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 2 items from Book 2.
+
+**Book 2:** *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd edition (student book, Grade 10) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), November 2004, ISBN 976-8014-16-43 (old-style ISBN as printed); 100,014,865 bytes, 723 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 11 (±1 at divider leaves). The file is missing from phase3-staging; it was read from a byte-exact copy landed via the authenticated GitHub route (release mid-size-books-2; MD5 00925eeeeebbf1a4ef6997c9438fa271) and deleted after the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Constructing the range within which the exact value of a computation must lie (upper and lower bounds) | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 71 |
+| Estimated margin of error for a given measurement; calculations involving numbers derived from a set of measurements | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 160 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

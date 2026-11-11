@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica
 
 Every part traces to its book and page.
 
@@ -299,8 +299,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric ratios for angles within one revolution | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 2, printed p. 74 |
 | Workbook practice: trigonometry (T1 U3) | Jordan, Grade 10 Workbook Term 1, Unit 3 (workbook evidence) |
 
-**Acceptance count: taught in 46 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile).**
+**Acceptance count: taught in 47 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3 —
@@ -614,3 +614,34 @@ The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs
 | Applications of trigonometric ratios | Chile — *Guía didáctica del docente, Matemática 2° Medio, Tomo II* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 110 |
 
 Chile is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). The 2 teacher-evidence items are named in the rows but stay outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 12 items from Book 1, Book 2 and Book 3.
+
+**Book 1:** *Mathematics Course for Secondary Schools, Book 3, New Edition* (student book, Grade 9) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2020, ISBN 978-976-648-123-4; 57,626,769 bytes, 311 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 6. The flipbook source labelled this book “Book 2”; the book itself is Book 3 (cover and copyright page) and it is cited as Book 3.
+
+**Book 2:** *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd edition (student book, Grade 10) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), November 2004, ISBN 976-8014-16-43 (old-style ISBN as printed); 100,014,865 bytes, 723 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 11 (±1 at divider leaves). The file is missing from phase3-staging; it was read from a byte-exact copy landed via the authenticated GitHub route (release mid-size-books-2; MD5 00925eeeeebbf1a4ef6997c9438fa271) and deleted after the read.
+
+**Book 3:** *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book, Grade 11) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), 4th edition 2012, reprinted 2020 with SBA guidelines, ISBN 978-976-648-133-9; 69,240,959 bytes, 612 PDF pp. Scanned-image PDF with no text layer, read visually (the held copy is stamped “SAMPLE COPY” on its title page, but is complete); the course's printed pagination continues from Volume One — printed page = PDF page + 701.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Basic trigonometric ratios in a right-angled triangle | Dominica — *Mathematics Course for Secondary Schools, Book 3, New Edition* (student book), Grade 9, printed p. 51 |
+| Problems combining trigonometric ratios and Pythagoras' theorem | Dominica — *Mathematics Course for Secondary Schools, Book 3, New Edition* (student book), Grade 9, printed p. 59 |
+| Angles of elevation and depression | Dominica — *Mathematics Course for Secondary Schools, Book 3, New Edition* (student book), Grade 9, printed p. 62 |
+| Introduction to trigonometry: notation for a triangle; the sine of an angle, sin θ | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 567 |
+| Using sin θ and sin⁻¹ (arcsin) from three-figure tables and calculator; calculating an unknown side and an unknown angle | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 568 |
+| The cosine of an angle, cos θ and cos⁻¹ (arccos); calculating unknown sides and angles | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 575 |
+| The tangent of an angle, tan θ and tan⁻¹ (arctan); calculating unknown sides and angles | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 583 |
+| Mixed trigonometry problems; complementary angles | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 590 |
+| Angles of elevation and depression | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 592 |
+| Trigonometrical ratios of an angle; the ratios for 30°, 45° and 60° | Dominica — *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book), Grade 11, printed p. 983 |
+| Complementary angles; deducing one ratio from another; squares of the trigonometrical ratios | Dominica — *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book), Grade 11, printed p. 985 |
+| Angles of elevation and depression in practical problems | Dominica — *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book), Grade 11, printed p. 1109 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

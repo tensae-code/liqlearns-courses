@@ -1,6 +1,6 @@
 # Sources — Bearings
 
-countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Ghana, Sri Lanka, Bahamas, Australia, Bhutan
+countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Ghana, Sri Lanka, Bahamas, Australia, Bhutan, Dominica
 
 Every part traces to its book and page.
 
@@ -48,7 +48,7 @@ Every part traces to its book and page.
 | The eight-point compass | Libya, Grade 5 pupil's book, Unit 13, Lesson 1, printed p.194 |
 | Bearing and scale drawing | Nepal, Grade 7 student book, Unit 10, printed p. 84 |
 
-**Acceptance count: taught in 11 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Sri Lanka, Australia, Bhutan).**
+**Acceptance count: taught in 12 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Sri Lanka, Australia, Bhutan, Dominica).**
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 Sierra Leone carries the fullest course — eight lessons from compass bearings to mixed rule-choice problems in SSS 2 Term 3. Libya carries bearings inside its sine/cosine-rule chapter in Grade 11 Science, with problems combining triangles and bearings. Nepal carries three-figure bearings, the ±180° reverse rule and scale-drawn journeys in its Grade 8 student book (student book only — its Grade 8 guide is a mismatch guide and is not cited). Jordan opens its Grade 10 trigonometry-applications unit with bearing from north. South Sudan carries bearings clockwise from north as three figures in Secondary 1, beside right-angled trigonometry and navigation problems.
@@ -170,3 +170,19 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 1 pupil item in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 2.
+
+**Book 2:** *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd edition (student book, Grade 10) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), November 2004, ISBN 976-8014-16-43 (old-style ISBN as printed); 100,014,865 bytes, 723 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 11 (±1 at divider leaves). The file is missing from phase3-staging; it was read from a byte-exact copy landed via the authenticated GitHub route (release mid-size-books-2; MD5 00925eeeeebbf1a4ef6997c9438fa271) and deleted after the read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bearings | Dominica — *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (student book), Grade 10, printed p. 596 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

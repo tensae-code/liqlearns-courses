@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Andorra, Moldova, Belarus, Cuba
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Andorra, Moldova, Belarus, Cuba, Dominica
 
 Every part traces to its book and page.
 
@@ -138,7 +138,7 @@ Every part traces to its book and page.
 | The plane | Egypt, Grade 11 Applied, Term 1, U2 L2, printed p. 64 |
 | The sphere | Egypt, Grade 11 Applied, Term 1, U2 L3, printed p. 69 |
 
-**Acceptance count: taught in 25 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Moldova, Belarus, Cuba)**.**
+**Acceptance count: taught in 26 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania, Moldova, Belarus, Cuba, Dominica)**.**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which the chapter introduction (§6-1, printed p. 224, read from the chapter opener in the 2026-11-08 re-verification sweep) and the read-and-checked projection example (pp.238–240) are cited here.
 
@@ -255,3 +255,23 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 5 items from Book 4.
+
+**Book 4:** *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book, Grade 12) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), first published 2013, ISBN 978-976-648-293-0; 98,721,656 bytes, 689 PDF pp. Scanned-image PDF with no text layer, read visually; printed page = PDF page − 13.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Equations of a straight line in space: vector, parametric and Cartesian forms; parallel, intersecting and skew lines | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 349 |
+| Angle between two lines | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 354 |
+| Equations of a plane: vector and Cartesian forms | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 359 |
+| Intersections in space: a line meeting a plane; the line of intersection of two planes; the line through two points | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 361 |
+| Angle between a line and a plane; angle between two planes | Dominica — *Pure Mathematics: A Complete Course for CAPE, Unit 1* (student book), Grade 12, printed p. 363 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.

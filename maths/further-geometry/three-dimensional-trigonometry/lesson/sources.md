@@ -1,6 +1,6 @@
 # Sources — Three-dimensional trigonometry
 
-countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas, Australia
+countries: Jordan, Malaysia, Albania, Tajikistan, Bahamas, Australia, Dominica
 
 Every part traces to its book and page.
 
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Solving problems in 3D space with trigonometry | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 58–60 |
 | Worked problem: dihedral angle of a regular octahedron = 2 arccos(1/√3) ≈ 109.5°, by halving the octahedron into two square pyramids and taking a section | Tajikistan, Геометрия (Grade 11), printed p. 54 |
 
-**Acceptance count: taught in 5 countries (Jordan, Malaysia, Albania, Tajikistan, Australia).**
+**Acceptance count: taught in 6 countries (Jordan, Malaysia, Albania, Tajikistan, Australia, Dominica).**
 Jordan is the sole full source in the read stock: its Grade 10 Term 1 book closes its trigonometry-applications unit with a dedicated lesson on solving 3-D problems (printed p. 124), standing on the same unit's bearings, sine rule, cosine rule and triangle-area lessons. No other read country's filing carries a dedicated 3-D trigonometry treatment, and none is claimed here — this lesson is built at exactly the size that one source supports.
 
 Malaysia joins Jordan in this lesson from the applications end of its solution-of-triangles chapter: one worked prism problem that asks for an angle between lines in space and an angle between planes.
@@ -56,3 +56,19 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Dominica added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Dominica's whole in-hand Maths set from the PDFs — **4 student books, 0 teacher guides**, all by Raymond Toolsie (Caribbean Educational Publishers, CEP): *Mathematics Course for Secondary Schools, Book 3, New Edition* (Grade 9), *Mathematics: A Complete Course with CXC Questions, Volume One*, 2nd ed. (Grade 10) and *Volume 2* (Grade 11), and *Pure Mathematics: A Complete Course for CAPE, Unit 1* (Grade 12) — 2,335 PDF pages in all — and placed 460 teaching items. All four books are scanned-image PDFs with no text layer, read visually: the complete contents of every book read page by page, the opening pages of every chapter read in full, further section openings and worked-example pages read in order throughout each book, and the end matter (answers, indexes, back covers) checked for completeness; the placements are at the books' own section grain — one item per distinct taught topic — and every page cited is the book's printed page. Set facts carried exactly: the flipbook source labelled the Grade 9 book “Book 2” — the file itself is **Book 3, New Edition** (cover and copyright page, ISBN 978-976-648-123-4) and it is cited as Book 3 throughout; the 2026-10-22 “survival verification” copies recorded in ~/workspace/scribd_pull/ no longer exist (checked 2026-11-10) — the books themselves are safe: three sit in phase3-staging, and Volume One, whose staging copy is missing, was read from a byte-exact copy landed via the authenticated GitHub route and deleted after the read. One book-internal promise is NOT confirmed: Volume 2's Chapter 15 opener lists standard scores, but its contents names no such section (Standard Deviation, printed p. 892, is the last statistics section) — standard scores are stocked nowhere as a separate item. The placements' named exclusions — the chapter Revision exercises, the CXC/CSEC Past Paper Questions and Model Examinations, Volume 2's SBA guidelines section (printed pp. 1225–1238, coursework administration), the Three Figure Tables, the Answers, the Indexes and the Prefaces — are stocked nowhere. Book errors found in the read are carried corrected on the rows they touch. In the sections below the books are cited as Books 1–4 in the placements' order. Dominica COUNTS in a lesson's taught-in figure on the strength of these student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (4/4) has been read and placed, on the in-hand definition.
+
+Into this lesson the placements stock 1 items from Book 3.
+
+**Book 3:** *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book, Grade 11) — Dominica, Raymond Toolsie, Caribbean Educational Publishers (CEP), 4th edition 2012, reprinted 2020 with SBA guidelines, ISBN 978-976-648-133-9; 69,240,959 bytes, 612 PDF pp. Scanned-image PDF with no text layer, read visually (the held copy is stamped “SAMPLE COPY” on its title page, but is complete); the course's printed pagination continues from Volume One — printed page = PDF page + 701.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3-D problems in trigonometry (angles between lines and planes) | Dominica — *Mathematics: A Complete Course with CXC Questions and SBA Guidelines, Volume 2* (student book), Grade 11, printed p. 1104 |
+
+Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
