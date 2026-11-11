@@ -1,6 +1,6 @@
 # Sources — Listening to an Interview
 
-countries: Mexico, Barbados
+countries: Mexico, Barbados, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ cited once.
 |---|---|
 | The whole lesson: listening to an interview — the Susana Harp interview listening, "Afro-México y patrimonio cultural": hear the interview's shape, and identify the interviewee's likes and dislikes and the compliments the interviewer pays her; the practice interview in the lesson text is this course's own short interview in the same shape, and the book's recording is not transcribed | Mexico, Grade 7, Project 15 "Preserving Cultural Heritage in the Music of Afro-Mexican Communities", printed p. 141 |
 
-**Acceptance count: taught in 1 country (Mexico).** This
+**Acceptance count: taught in 2 countries (Mexico, Saudi Arabia).** This
 lesson exists because of Mexico's Grade 7 book: no book
 read before the 2026-11-08 re-verification sweep taught
 listening to an interview — its shape, and listening inside
@@ -54,3 +54,17 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | (attainment) Listen responsively and respectfully; follow oral directions with three or four steps; respond to cues; listen to build memory; communicate situations in full sentences using a variety of tones and stresses | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF p. 18 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *Top Goal 1* Student's Book, Grade 4 (student's book with the Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Nico Dantaz and Rachel Finnie) — **Part 2 only in the held file** (Student's Book Units 5–8 + Goodbye, Workbook Units 5–8); Welcome + Units 1–4 are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interview listening: checking and matching a vet's answers to interview questions | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed p.87 |
+
+Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

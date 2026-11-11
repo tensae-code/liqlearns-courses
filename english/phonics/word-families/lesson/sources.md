@@ -519,3 +519,18 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Word families — memory / remember: “Do you remember?” | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 1, printed p.4 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928145. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *Top Goal 1* Student's Book, Grade 4 (student's book with the Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Nico Dantaz and Rachel Finnie) — **Part 2 only in the held file** (Student's Book Units 5–8 + Goodbye, Workbook Units 5–8); Welcome + Units 1–4 are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Short-vowel o/u three-letter words read and spelled aloud inside a mini story (ox, box, fun, sun, hot, not, dot, nut, cut, fox, run) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 1 My House, printed p.8 |
+| Word families by ending (-og, -ain, -eep, -est, -ike, -at, -ing, -ate, -un, -ool) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.67 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

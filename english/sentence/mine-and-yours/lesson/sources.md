@@ -193,7 +193,7 @@ re-verification sweep.
 
 | The possessive system mapped in Grade 3's opener — my/your/his/her/our/their; Whose …?; mine/yours themselves; Steve's — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 1 It's Nice to Meet You!, Syllabus-mapped |
 | "This is my (brother, Jack)" — the possessive adjective read in Grade 1's family frames | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 3 My Family, printed p.20 |
-| Possessive 's across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
+| Possessive 's in Grade 2 Term 1's Unit 5 (“Whose hat is that? Maybe it's Noura's”) — corrected 2026-11-11 (same pattern as sweep flag 4, found in this merge): the row stood as “Units 2–3 area” on the band reader's account; the sweep's placements pin the point in Unit 5 | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 5 Friends, Actions, Things, printed p.43 |
 | Possessive 's for people — Lucy's, the boy's book, the girls' desk, the boys' books — under “Whose pen is red?” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.62 |
 | “It's mine” — possessive pronouns mine, his, hers, yours set against my, his, her, your | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 7, printed p.63 |
 | The whole possessive paradigm printed in one lesson — possessive pronouns (mine, yours, his, hers, ours, theirs) beside the possessive adjectives (my … their), the possessive *'s* (John's), and *whose*, with IPA transcriptions printed for yours, mine and whose | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 20, guide printed pp.123–130 |
@@ -567,3 +567,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use all forms of personal and possessive pronouns correctly | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 76 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962408. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possession: “Whose hat is this? It's mine. It's not mine” | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 2 Things We Wear, printed p.12 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

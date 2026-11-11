@@ -630,3 +630,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use all forms of personal and possessive pronouns correctly | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 76 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 3, Grade 3 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928206 — **the held file is the Term 3 combo only** (Student's Book Units 9–12, Term 3 Phonics Practice and Workbook Term 3); Terms 1–2 pages are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The pronouns revision table: subject (I, you, he, she, it, we, they), possessive (mine, yours, his, hers, ours, theirs) and object (me, you, him, her, us, them) pronouns | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Unit 12 My Dream Vacation, printed p.96 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

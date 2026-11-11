@@ -371,7 +371,7 @@ the 2026-11-08 re-verification sweep.
 | Ten adjectives matched to nouns about a painting — famous, bright, yellow, vibrant, mysterious, colourful, old, tall, unique, small | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 5, printed p.34 |
 | Adjectives hunted inside reading texts — circle the adjectives in the camel text, then choose the adjectives that describe the penguins' habitat and the camel's habitat from mixed lists | Ecuador — *English*, Medium Sublevel transition text (Grades 5–7 covers; read from the Grade 5 copy) (MINEDUC, 2024), Worksheet 3, printed pp.20–21, 25 |
 | Adjective opposites as a named set in nature description — short/long, beautiful/ugly ("Look! It's a (snake). It's (short/long, beautiful/ugly).") | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 4 Beautiful Nature, printed p.28 |
-| Taste adjectives across Grade 2 Term 1's units (band reader's account, as filed) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Units 2–3 area |
+| Taste adjectives (sweet, sour, salty, tasty, hot, cold) in Grade 2 Term 1's Unit 5 — corrected 2026-11-11 (sweep flag 4): the row stood as “Units 2–3 area” on the band reader's account; the sweep's fresh read places the taste words in Unit 5 | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 5 Friends, Actions, Things, printed pp.40–41 |
 | Comparatives and superlatives mapped in Grade 3's sea-animals unit (cute/cuter/the cutest; big/bigger/the biggest) — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 2 Sea Animals, Syllabus-mapped |
 | Comparatives and superlatives as one named system — -er/more … than, the -est/most, irregular good → better → best | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed pp.82–93 |
 | Size and shape adjectives with has got descriptions — tall, short, thin, plump, strong; round, square, big, small; long, short, straight, curly, blond, dark | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 4, printed pp.31–35 |
@@ -801,3 +801,15 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use simple adjectives and adverbs appropriately; extend sentences by using adjectives and adverbs | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 55–56 (48–49) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *Top Goal 1* Student's Book, Grade 4 (student's book with the Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Nico Dantaz and Rachel Finnie) — **Part 2 only in the held file** (Student's Book Units 5–8 + Goodbye, Workbook Units 5–8); Welcome + Units 1–4 are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal character adjectives (tall, smart, careful, brave, pretty, friendly, safe, slow) | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 7 Wildlife, printed p.88 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

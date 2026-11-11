@@ -380,6 +380,10 @@ work through words they do not know, and answer from the text.*
   (1 lesson — the map of the subject itself: listening,
   speaking, reading and writing, two in and two out, from
   Sierra Leone's JSS 1 handbook's second lesson)
+- **Sweep addition (2026-11-11, Saudi Arabia re-verification
+  sweep merge):** reading-signs-and-notices ✅ (1 lesson —
+  reading the town's signs: the signs that say no and the
+  signs that ask, from Saudi Arabia's Grade 3 book)
 
 ## Unit 16 — The Essay
 *End of unit: the learner can plan and write a first essay, with an
@@ -2410,3 +2414,65 @@ apparatus only — rationale, general objectives, suggested
 activities, assessments, resource lists and book lists teach
 no language point. **Barbados: 4 of 4 documents re-read.** The
 English course now stands at **268 lessons across 44 units**.
+
+**Saudi Arabia English re-verification sweep merge
+(2026-11-11):** the sweep re-read all 6 held books page by
+page (566 PDF pages; 175 teaching items placed, 79 already
+in the course, 96 missing) and this merge stocks all 96:
+95 as provenance rows across 50 lessons' sources.md files
+and 1 as the founding row of **1 NEW LESSON**:
+**reading-signs-and-notices** (Unit 15 — Reading Whole
+Texts; the town-signs page of the Grade 3 book, printed
+p.89). Saudi Arabia is newly counted in 31 lessons
+(countries line + acceptance count updated together in
+each) and completes its stock in 19 more. The set identity
+is carried exactly: 6 student's books, Grades 1–4, no
+teacher's books; the other 20 recorded books are exact-link
+only and are cited nowhere. Two held files are partial and
+are cited as such wherever they stock a row: the Grade 3
+file is the Term 3 combo only (Terms 1–2 pages absent —
+the library side still owes the Grade 3 Terms 1–2 parts),
+and the Grade 4 file is Part 2 only (Welcome + Units 1–4
+absent). The filing's syllabus-mapped Grade 3 Units 1–8
+claims rest on pages not in hand — neither confirmed nor
+contradicted, not counted in the 175, and the rows that
+cite them stay worded "Syllabus-mapped". Flags (7): (1)
+FIXED — good-morning-and-good-afternoon's Saudi note said
+"Good afternoon" is not in the books; the fresh read found
+the time-of-day greetings set in Grade 2 Term 1's Unit 5
+(printed p.37), now stocked, and the note is corrected in
+place. (2) FIXED — adverbs' Saudi note said no Saudi book
+introduces adverbs as a word kind; the frequency markers
+stand as a named, scored set in Grade 3's Unit 10 (printed
+p.75), now stocked, and the note is corrected in place.
+(3) FIXED — the-alphabet: Grade 1 Term 3 Unit 2's sounds
+are W, X, Y, Z, not "W, F, Y, Z" (row corrected, printed
+pp.8 and 16). (4) FIXED — three Grade 2 Term 1 points
+stood at "Units 2–3 area" on the band reader's account:
+ordinals are Unit 1 (printed pp.5–7), the Months and
+Seasons chant is Unit 4 (printed p.31), taste words are
+Unit 5 (printed pp.40–41); rows and notes corrected in
+numbers, days-and-months, adjectives and food-and-fruit —
+and a fourth instance of the same pattern, possessive 's
+in mine-and-yours, was found in this merge and corrected
+to Unit 5 (printed p.43) on the placements. (5) FIXED —
+the-town's Workbook row described Goal 92's
+nine-destination matching under Goal 82; Goal 82 (printed
+p.220) is listen-and-draw plus drawing a map of your own
+route to school, and Goal 92 (printed p.230) now carries
+its own row. (6) REPORTED, filing-side, not edited — the
+country filing (english/books/saudi-arabia.md) has no
+Book 6 (Grade 4) section at all despite its header citing
+one; Grade 4's account exists only as scattered sources
+rows. (7) FIXED — page slips: how-are-you's Grade 1
+exchange stands at printed p.6, not p.4;
+asking-yes-no-questions' Grade 4 could/couldn't stands at
+printed p.65, not "p.63 area"; two-letter-sounds' ch/sh
+work stands in Grade 1 Term 3's Unit 3 strand (printed
+p.24), not Unit 2's. File defects carried as printed: the
+Grade 4 file is Part 2 only and the Grade 3 file the
+Term 3 combo only, both proved from the files themselves,
+and the record's "full-year" filenames for the two
+Grade 2 books are wrong (Term 1 and Term 3 respectively).
+**Saudi Arabia: 6 of 6 books re-read.** The English
+course now stands at **269 lessons across 44 units**.

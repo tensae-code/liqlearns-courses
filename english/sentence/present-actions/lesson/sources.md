@@ -1059,3 +1059,18 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Use the correct form of the verb in the simple present, simple future, simple past, present continuous and past continuous | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 77 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962408. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928145. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| have for possession, with and/but (“Do you have apples? Yes, I do. / No, I don't. She has sandwiches and orange juice, but she doesn't have apples”) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 5 Friends, Actions, Things, printed p.42 |
+| Daily routine talk in the present simple (“Tell me about your day! I get up at 6 o'clock. Then I do my homework. Do you watch TV in the evening? Yes, I do”) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 3 My Day, Animals, Places, printed p.18 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

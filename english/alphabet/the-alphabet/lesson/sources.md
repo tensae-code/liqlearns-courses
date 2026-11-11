@@ -377,7 +377,7 @@ sound is learned.
 | Writing the missing alphabet letters in the Activity Book's opening lesson | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Activity Book, Unit 1, printed AB4–AB9 |
 | The alphabet A to Z introduced whole in the Introduction — big letters, the Alphabet Jingle, tracing and writing | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Introduction (Classroom English), printed p.2 |
 | Small letters a to z with sounds A–E in Unit 1's phonics strand; sounds F–J begin in Unit 2 and are completed, with revision A–J, in Unit 4's strand | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Units 1, 2 and 4, printed pp.4, 12 and 28 |
-| Sounds S, T, U, V with writing worksheets in Term 3's animals unit; W, F, Y, Z in its days-and-weather unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Units 1 and 2, printed pp.2 and 10 |
+| Sounds S, T, U, V with writing worksheets in Term 3's animals unit; W, X, Y, Z in its days-and-weather unit — corrected 2026-11-11 (sweep flag 3): the set stood as “W, F, Y, Z”, following the book's Syllabus; the unit body teaches W, X, Y, Z (wolf, fox, yard, zebra), and F belongs to Term 1's F–J strand | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Units 1 and 2, printed pp.8 and 16 |
 | Term 3's Phonics Practice gathers the year's last letter sounds — the alphabet is complete across Terms 1+3 in hand | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Phonics Practice, printed pp.26–32 |
 | A second round of letter work (sets Mm–Zz across the book, on the band reader's account as filed), gathered in Grade 2's Phonics Practice | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Phonics Practice, printed pp.44–51 |
 | The alphabet A–Z as the book's first unit — each letter with its name in transcription and a pictured animal word (Aa for snake through Zz for zebra), letter recognition, copying the letters in a handwriting grid, spelling your own name aloud | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 1, printed pp.7–8 |
@@ -774,3 +774,18 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Capital letters and small letters identified and arranged | Ethiopia, English for Ethiopia, Grade 1 Student's Book, whole-book writing strand (Initial Writing list) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962385. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928084. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter shapes: the short, tall and tail letters | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 2 My Body, printed p.19 |
+| The spelling chant PACO — a name spelled out letter by letter | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 1 Animals, printed p.4 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Obligation Compared — Must, Have To, Need To, Ought To, Shall
 
-countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia
+countries: Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ verification sweep.
 | Should with have to/has to — the full forms, including negatives and questions | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 | The obligation scale — must (100%) / have to / should (60%) / don't have to (0%) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C (printed p.38 in the filing's anchor) |
 
-**Acceptance count: taught in 5 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Mauritania, India, Nicaragua, Ecuador, Ethiopia, Saudi Arabia).** India joins with modal auxiliaries of obligation as named work in Class 7 (should, must, ought to) — the sweep placements marked this NEW LESSON NEEDED: modal-verbs-of-obligation; it joins here because this lesson already teaches exactly that comparison (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the five obligation words compared in one Grade 13 lesson, with no comparison lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' obligation teaching joins as their sweep merges land. Ethiopia joins with its Grade 6 and Grade 10 obligation sets (stocked 2026-11-11 by the re-verification sweep merge).
 
 Nicaragua joins with the Grade 9 Student's Book's rules lesson (must/mustn't against should and may, PDF p.86) and the Grade 10 module's full should/have to treatment with its obligation scale — must (100%) / have to / should (60%) / don't have to (0%) (Unit 1C, the filing's anchor is printed p.38) (stocked 2026-11-11 by the re-verification sweep merge).
 
@@ -57,3 +57,17 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Modal auxiliaries compared: ought to, should, must, have to, need to, can, will | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 10, printed p.288 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *Top Goal 1* Student's Book, Grade 4 (student's book with the Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Nico Dantaz and Rachel Finnie) — **Part 2 only in the held file** (Student's Book Units 5–8 + Goodbye, Workbook Units 5–8); Welcome + Units 1–4 are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Obligation and advice together: have to / don't have to, must / mustn't, should / shouldn't | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 6 House Accidents, printed p.72 |
+
+Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

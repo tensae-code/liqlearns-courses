@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia
 Every part traces to its book and page.
 
 **Book 1:** English — General Basic Education, Medium
@@ -67,7 +67,7 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 12 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -202,3 +202,20 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Spelling rules: "i before e except after c" and its exceptions | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 6, printed p.173 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928145. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 3, Grade 3 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928206 — **the held file is the Term 3 combo only** (Student's Book Units 9–12, Term 3 Phonics Practice and Workbook Term 3); Terms 1–2 pages are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| wh / w / h / ph words and silent letters: who, whose, where, what, white, whale (silent w/h), phone, whistle, photo | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Phonics Practice, printed p.27 |
+| Silent letters and word endings: kn- (knob, knock, knee, knife), wr- (write, wrist), igh (night, light, right), -le (bubble, table, bottle), and the -tion / -ture / -tch endings (lotion, station, picture, future, catch, match) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Term 3 Phonics Practice, printed pp.120–121 |
+
+Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

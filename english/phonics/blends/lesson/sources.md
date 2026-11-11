@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -134,7 +134,7 @@ pictures).
 | Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
 | Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
-**Acceptance count: taught in 18 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador).**
+**Acceptance count: taught in 19 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -488,3 +488,31 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | Spell words with consonant cluster sounds in initial and final positions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 51 (46) — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962408. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 2, Term 3 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928145. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 3, Grade 3 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928206 — **the held file is the Term 3 combo only** (Student's Book Units 9–12, Term 3 Phonics Practice and Workbook Term 3); Terms 1–2 pages are not in the file, and nothing is cited from them. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Consonant pairs C/Cl and L/Cl (cap/clap, lock/clock) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 1 Feelings, printed p.6 |
+| The gr- cluster (grass, green, great) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 2 Things We Wear, printed p.14 |
+| Clusters pl- and bl- (plane, plate, blue, black) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 2 Things We Wear, printed p.18 |
+| Clusters tr- and dr- (tree, truck, dress, drink) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 3 Things We Do, printed p.26 |
+| Clusters gr-, cr-, gl-, cl- (grass, crab, glass, class) | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Unit 4 Beautiful Nature, printed p.34 |
+| Clusters pr- and fr- (prize, present, fries, frog) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 1 My House, printed p.4 |
+| Clusters sm- and sn- (smile, small, snail, snack) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.12 |
+| Clusters sp- and sw- (spider, sweater) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Unit 2 My Things, printed p.16 |
+| Phonics Practice clusters br- and pr- (bridge, prize, bread, present, bracelet) | Saudi Arabia, *We Can!* Student's Book 2, Term 3 combo (Grade 2), Phonics Practice, printed p.26 |
+| Clusters sc / sk / sq (scarf, sky, square; skate, squeeze) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Unit 9 My School is Cool!, printed p.72 |
+| The Phonics Practice blends set: bl, br, cl, cr, pl, pr, fl, fr, gr, sn, sp, st, spr (block, brush, clock, crab, plant, prize, flag, frog, green, snake, spring, stop) | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 combo only as bound, Term 3 Phonics Practice, printed pp.118–119 |
+
+Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.

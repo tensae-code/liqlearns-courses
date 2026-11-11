@@ -277,7 +277,7 @@ cited once.
 | "Do you have a pet? Yes, I do. / No, I don't." in the animals unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 1 Animals, printed p.2 |
 | "Are you happy? Yes, I am." in the feelings unit | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Unit 3 Feelings and Things, printed p.18 |
 | "Do you have school lunch at your school? Yes, we do. Every day. / No, we don't." — read in Grade 3's school unit | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 9 My School is Cool!, printed pp.66–73 |
-| "Could you swim when you were five?" — a yes/no question over Grade 4's could/couldn't past-ability grammar | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.63 area (as filed in the country record) |
+| "Could you swim when you were five?" — a yes/no question over Grade 4's could/couldn't past-ability grammar | Saudi Arabia, *Top Goal 1* Student's Book, Grade 4, Part 2 only as bound, Unit 5 Outdoor Fun, printed p.65 (corrected 2026-11-11, sweep flag 7: the row stood as “printed p.63 area, as filed in the country record”; the sweep's fresh read places could/couldn't at printed p.65) |
 | Yes/no questions with is/are and has got, with their short answers | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 4, printed pp.31–35 |
 | Do/Does questions and short answers closing the present simple unit | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 8, printed p.75 |
 | Short answers to be questions as Grammar Reference point 2 | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Grammar Reference, printed pp.168–177 |

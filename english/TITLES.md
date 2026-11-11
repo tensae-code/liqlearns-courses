@@ -287,6 +287,9 @@ its own subtitle folder with its own lesson + questions):
   the-four-language-skills-orientation (added 2026-11-11 by
   the Sierra Leone re-verification sweep merge — **Unit 15,
   Reading Whole Texts**) ·
+  reading-signs-and-notices (added 2026-11-11 by the
+  Saudi Arabia re-verification sweep merge — **Unit 15,
+  Reading Whole Texts**) ·
   texting-and-messaging (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 44,
   Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the

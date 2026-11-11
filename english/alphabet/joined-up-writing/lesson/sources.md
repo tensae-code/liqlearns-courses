@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 9 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya, Tanzania, Ethiopia, Saudi Arabia).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -151,3 +151,24 @@ The 2026-11-08 re-verification sweep re-read Barbados's English set from the fil
 | (attainment) Accurately form and consistently size letters; use a fluent, legible style; observe spacing between words; head all work in the prescribed manner; leave margins as required | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF p. 27 — curriculum evidence |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
+
+## Saudi Arabia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held English books page by page (175 teaching items placed; 79 already in the course, 96 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md). The set is 6 student's books, Grades 1–4, with no teacher's books; the other 20 recorded Saudi English books are exact-link only and are cited nowhere.
+
+**Book:** *We Can!* Student's Book 1, Term 1 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962385. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 1, Term 3 combo, Grade 1 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education 2023–1445, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), ISBN 9781398928084. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *We Can!* Student's Book 2, Term 1 combo, Grade 2 (student's book with the term's Workbook bound in) — Saudi Arabia, Ministry of Education, McGraw Hill (authors Yoko Matsuka and Glenn McDougall), 2025 adaptation, ISBN 9781398962408. Filed in english/books/saudi-arabia.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing letters A–E: trace, copy, and supply the missing first letter | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Unit 3 My Family, printed p.27 |
+| Phonics Practice letter formation: tracing and writing letters inside whole words, capitals and small | Saudi Arabia, *We Can!* Student's Book 1, Term 1 combo (Grade 1), Phonics Practice, printed pp.46–50 |
+| Letter-writing worksheets: tracing and writing u–z and the whole a–z set inside key words | Saudi Arabia, *We Can!* Student's Book 1, Term 3 combo (Grade 1), Phonics Practice, printed p.26 |
+| Phonics Practice handwriting: tracing and copying the phonics key words | Saudi Arabia, *We Can!* Student's Book 2, Term 1 combo (Grade 2), Phonics Practice, printed pp.46–49 |
+
+Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
