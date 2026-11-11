@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka, Haiti, Zimbabwe
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka, Haiti, Zimbabwe, Dominican Republic
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -95,7 +95,7 @@ how-old-are-you), not here.
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
 | Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
 | The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
-**Acceptance count: taught in 34 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea).** Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 35 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Dominican Republic).** Cyprus joins with its introducing frames — 'This is…' for a friend and for your mother (stocked 2026-11-11 by the Cyprus expansion merge).
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -157,7 +157,7 @@ Armenia joined 2026-11-03: its Grade 3 book introduces another person by name wi
 Mauritania introduces other people in its Grade 7 book, and
 its teacher guide adds the formal/informal register of
 introductions as teacher evidence (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -700,3 +700,21 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing other people ("This is my friend…") and possessives *my / your / his / her* with names (item 46) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.15 |
+| Building connections: introducing yourself and talking about personal relationships, in a text about Michael and his best friend (their jobs, hobbies and relationship), with family-and-relationship vocabulary (wedding, engagement, family reunion, cultural traditions, celebration, roles) (item 285) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.11–13 |
+| Meeting new people while travelling: the dialogue "New Friends at the Festival" (summary: Luis from the Dominican Republic meets Sarah, a tourist from Canada, at the Festival del Merengue in Santo Domingo and offers to show her places), with the first conditional for plans (item 314) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.86–87 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda, Haiti, Nigeria, Zimbabwe, Andorra, Moldova
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda, Haiti, Nigeria, Zimbabwe, Andorra, Moldova, Dominican Republic
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -104,7 +104,7 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 25 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 26 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan, Libya, Ethiopia, Afghanistan, Eritrea, Samoa, Uganda, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Libya joins with question tags (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -121,7 +121,7 @@ teacher's-guide only: its guide works perfect-tense tags
 with a HAVE chart for a student book not held in full.
 The sweep also stocked Mauritania's Grade 13 tag revision in
 its mining context (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Iraq joins with its Grade 11 question tags (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 tag questions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+verification sweep merge). Iraq joins with its Grade 11 question tags (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 tag questions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -499,3 +499,17 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question tags: affirmative statement → negative tag, negative → affirmative; repeat the auxiliary (*can, do, have*), use *do/does/did* with simple tenses, and the exception *I'm…, aren't I?* (item 309) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed p.73 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

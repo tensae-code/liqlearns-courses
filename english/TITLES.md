@@ -90,6 +90,9 @@ its own subtitle folder with its own lesson + questions):
   alternative-spellings-le-endings-and-doubles (added
   2026-11-11 by the Bhutan expansion merge — **Unit 3,
   Sounds Together**) ·
+  the-three-sounds-of-s (added 2026-11-11 by the
+  Dominican Republic expansion merge — **Unit 3,
+  Sounds Together**) ·
   sight-words (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 4, First Words**)
 - Conversation → hello-and-your-name · how-are-you ·
@@ -127,7 +130,10 @@ its own subtitle folder with its own lesson + questions):
   (added 2026-11-11 by the Singapore expansion merge —
   **Unit 5, Conversation**) ·
   making-appointments · making-reservations (added 2026-11-11
-  by the El Salvador expansion merge — **Unit 5, Conversation**)
+  by the El Salvador expansion merge — **Unit 5, Conversation**) ·
+  at-the-doctors · making-complaints-and-claims (added
+  2026-11-11 by the Dominican Republic expansion merge —
+  **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -247,7 +253,13 @@ its own subtitle folder with its own lesson + questions):
   Haiti expansion merge — **Unit 7, Words for the World**) ·
   helping-and-working-together (added 2026-11-11 by the
   Papua New Guinea expansion merge — **Unit 7, Words for
-  the World**)
+  the World**) ·
+  housework-and-chores · events-and-announcements ·
+  mishaps-and-accidents · beach-and-seaside-words ·
+  types-of-resources · endangered-animals-and-conservation ·
+  culture-shock · life-skills-for-teenagers (added
+  2026-11-11 by the Dominican Republic expansion merge —
+  **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -381,7 +393,10 @@ its own subtitle folder with its own lesson + questions):
   by the Samoa expansion merge — **Unit 15, Reading
   Whole Texts**) ·
   non-fiction-texts (added 2026-11-11 by the Bhutan
-  expansion merge — **Unit 15, Reading Whole Texts**)
+  expansion merge — **Unit 15, Reading Whole Texts**) ·
+  comparing-texts · evaluating-sources (added 2026-11-11
+  by the Dominican Republic expansion merge — **Unit 42,
+  Reading Like a Detective**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
@@ -405,7 +420,10 @@ its own subtitle folder with its own lesson + questions):
   the Fiji expansion merge — **Unit 41, Stories and
   Poems in Detail**) ·
   poems (added 2026-11-11 by the Bhutan expansion
-  merge — **Unit 41, Stories and Poems in Detail**)
+  merge — **Unit 41, Stories and Poems in Detail**) ·
+  point-of-view (added 2026-11-11 by the Dominican
+  Republic expansion merge — **Unit 41, Stories and
+  Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
 additions inside Units 2, 3, 5, 7, 8 — full map in
 CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·
@@ -465,7 +483,10 @@ ordering-words · similes · metaphors · homophones
 (added 2026-11-11 by the Fiji expansion merge —
 **Unit 43, Words About Words**) · figurative-language ·
 words-and-how-they-change (added 2026-11-11 by the Samoa
-expansion merge — **Unit 43, Words About Words**) · Phonics → silent-letters ·
+expansion merge — **Unit 43, Words About Words**) ·
+irony · symbolism-and-allegory (added 2026-11-11 by the
+Dominican Republic expansion merge — **Unit 43, Words
+About Words**) · Phonics → silent-letters ·
 the-three-sounds-of-ed · stress-and-intonation ·
 Alphabet → joined-up-writing.
 

@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan
+countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 10 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Bhutan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa, Bhutan, Dominican Republic).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -237,3 +237,20 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 2° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-08/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-2-secundaria.pdf (35,899,812 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 6° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-12/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-secundaria.pdf (33,449,514 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Recounting last week's school activities (subjects and events day by day) (item 179) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed pp.88–89 |
+| The evolution of the Dominican Republic: a reading (summary: family life, entertainment and traditions have changed significantly — in the past families were large, several generations lived together, grandparents played a key role in raising children and family gatherings were frequent; today families are often smaller and technology has changed how people communicate), with art vocabulary (music, dancing, painting, sculpture, theater, abstract, canvas, exhibition) (item 350) | Dominican Republic — Inglés 6° Secundaria (Libro Abierto, Serie 2), printed pp.12–13 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador, Zambia, Bhutan, Moldova
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Papua New Guinea, Singapore, Andorra, El Salvador, Zambia, Bhutan, Moldova, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 40 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 41 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Bhutan, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -279,7 +279,7 @@ countries join as their books are read (see
 READING-QUEUE.md).
 Mauritania sequences a tea-making and a recipe with the full
 connector set in its Grade 8 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico's Grade 9 book sequences a science experiment's steps, and names the sequence words themselves (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+Mauritania re-verification sweep merge). Mexico's Grade 9 book sequences a science experiment's steps, and names the sequence words themselves (stocked 2026-11-09 by the Mexico re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -723,3 +723,23 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 1° Secundaria (Libro Abierto, Serie 1, 2023)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, repo-tree file grade-07/gov/dominican-republic/ingles/full-year.pdf, 94 PDF pp; pages cited are PDF pages. Byte size: NOT recorded in any record checked (textbooks.tsv, staging books.json, phase3-push-state.json) — declared, not invented (diff flag F6).
+
+**Book 3:** *Inglés 5° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-11/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-secundaria.pdf (36,708,152 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Short reading "Getting home from school" (summary: Jenny walks to the main street, walks two blocks to Green Street, walks five more minutes and arrives at school) and sequencing a route with *first / then / finally* (item 56) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.31 |
+| Giving instructions with the imperative and asking for them with "How do you…?", sequencing steps with *first, second, next, finally*; a dialogue about making a mother's "Secret Sauce" (Wasakaka) (item 197) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 1), PDF pp.64–65 |
+| Independence and national identity: a reading (summary: the Dominican Republic declared independence on 27 February 1844, ending Haitian rule; Juan Pablo Duarte, Francisco del Rosario Sánchez and Matías Ramón Mella led the movement through the secret society La Trinitaria; the first Dominican flag was raised at Puerta del Conde; the day is celebrated with flags, parades and school events), with transition words for stories (Once upon a time…, One day…, First…, Next…, Suddenly…, Then…, Finally…) (item 332) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 2), printed pp.48–49 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra, El Salvador
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Andorra, El Salvador, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -346,8 +346,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 41 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 42 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Dominican Republic).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -377,7 +377,7 @@ at Grade 12. Greece opens the passive with the present simple form at Grade 6, g
 books are read (see READING-QUEUE.md).
 Mauritania works the passive inside environment process
 instructions in its Grade 13 book (stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+Mauritania re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -852,3 +852,27 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 3° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-09/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-3-secundaria.pdf (23,852,149 bytes). Pages cited are the printed pages. Book error, carried: the cover (PDF p.1) calls the book "Tercer Grado. Primer Ciclo" and its imprint page (PDF p.2) "Tercer Grado. Segundo Ciclo" — Primer Ciclo is correct for 3° Secundaria; the imprint line is the book's error (diff flag F5).
+
+**Book 2:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+**Book 3:** *Inglés 5° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-11/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-secundaria.pdf (36,708,152 bytes). Pages cited are the printed pages.
+
+**Book 4:** *Inglés 6° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-12/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-secundaria.pdf (33,449,514 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Environmental warnings: environment vocabulary (climate change, renewable energy, deforestation, the three Rs — reduce, reuse, recycle) and the passive voice in present and past (*Plastic is recycled in some cities*; beaches *were cleaned* by students), in a dialogue between Laura and Carlos (item 278) | Dominican Republic — Inglés 3° Secundaria (Libro Abierto, Serie 2), printed pp.74–75 |
+| Environmental issues and the passive voice: active vs passive (*Rita wrote a letter* → *The letter was written by Rita*) for explaining problems and their reasons, with the EcoTalks podcast "Small Actions, Big Impact" (summary: guest María López argues that small habits can make a huge difference) and Reforestation Day on 5 October (item 303) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.58–59 |
+| The present passive voice (*am/is/are* + past participle — *Clothes are sold in stores*; *A haircut is given by a hairdresser*) for consumption and saving habits (energy is saved by turning off the lights; bills are paid at the end of the month; plastic bags are replaced with reusable ones) (item 341) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 2), printed pp.72–73 |
+| Climate-change action in dialogue form: Daniel and María discuss pollution management (new policies have been introduced, a national recycling campaign has been launched, renewable energy sources are being promoted, old factories were closed for producing too much carbon dioxide, new trees have been planted, waste has been removed from beaches and rivers) — told through the passive voice (item 361) | Dominican Republic — Inglés 6° Secundaria (Libro Abierto, Serie 2), printed pp.42–43 |
+| Sustainable living and the passive voice across tenses (present continuous passive: *Solar panels are being installed on many rooftops*; present perfect passive: *Single-use plastic bags have been replaced by reusable bags*; *Recycling programs have been introduced*) (item 362) | Dominican Republic — Inglés 6° Secundaria (Libro Abierto, Serie 2), printed pp.44–45 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia, Sri Lanka, Haiti, Papua New Guinea, El Salvador
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia, Sri Lanka, Haiti, Papua New Guinea, El Salvador, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -138,8 +138,8 @@ re-verification sweep.
 | Workbook Unit 4 (Click on-line!), lessons 1–3 — practice of the present perfect continuous with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 4, WB printed pp.43–52 |
 
 
-**Acceptance count: taught in 22 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 23 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia, Dominican Republic).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -151,7 +151,7 @@ tense at Grade 10 as one lesson with its simple twin —
 Present Perfect Simple and Continuous together — and
 contrasts it again inside Grade 12's whole continuous-
 and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Iraq brings the tense in late and states its arrival plainly: not at Grade 9, where no held book teaches it, but at Grade 10 in the "Writing home" lesson; Grade 11 revises it with for/since in "What have they been doing?", and Grade 12 sets the simple form against the continuous inside its rebuilt perfect system, with the continuous box printed in the Activity Book. Ethiopia teaches the tense in Grade 9 — Unit 8 presents present perfect and present perfect continuous together with forms tables, negatives, questions and since/for, and Unit 10 revises it in its four-tense table. South Sudan joined 2026-11-03: Secondary 1 teaches the tense outright in its Student's Book Unit 2 language practice — has/have + been + -ing, with for/since durations and recently/lately without duration — and its Teacher's Guide re-teaches it with fuller rules and answers. Nepal teaches the tense at Grade 9 — present perfect and present perfect continuous together in Unit 15, after the four present tenses are identified and practised at Grade 8 — and its Grade 9 teacher's guide, a non-companion DRAFT held as an incomplete excerpt, teaches it with since/for in its own Unit 19. Kuwait stocks this lesson from workbooks only: Over to You Workbooks 12A and 12B present and practise the present perfect continuous, and no Student's Book in Kuwait's held set teaches this form. Skyline 5B's present perfect is with just only and never continuous. Other closed countries join
-as their books are read (see READING-QUEUE.md).
+as their books are read (see READING-QUEUE.md). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -301,3 +301,17 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 5° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-11/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-secundaria.pdf (36,708,152 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The present perfect continuous (*have/has been* + *-ing*) for symptoms and treatments that started in the past and are still happening (*How long have you been feeling sick?*; *She has been taking this medication since last month*), with a model essay about recovering from a broken arm (item 335) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 2), printed pp.58–59 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

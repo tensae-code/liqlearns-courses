@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia, Moldova
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -270,9 +270,9 @@ verification sweep.
 | Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
 | Rooms and furniture: rooms — bedroom, kitchen, bathroom, living room, garden; things — a bed, a table, a chair, a bath, a bookcase, a sofa, an armchair, a tree, a swing — then listen-and-colour a bedroom scene (Module 2 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Checkpoint 2, pupil printed p.19 |
 | One Picture Dictionary word no lesson teaches: desk, in the "My Room" list (with bed, chair, table) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Picture Dictionary, pupil printed pp.75–78 |
-**Acceptance count: taught in 43 countries (Egypt, Libya,
+**Acceptance count: taught in 44 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -293,7 +293,7 @@ house types and furniture. Jordan carries the ten home words with the where-ques
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 book teaches the house with there is and
 do/does have questions (stocked 2026-11-09 by the Mauritania
-re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Laos Grade 5 added 2026-10-27** — *Student's Book 3, Grade 5*
 (MoES/RIES, 2012; full read in english/books/laos.md). Laos
@@ -912,3 +912,29 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 5° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-05/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-primaria.pdf (42,971,228 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+**Book 3:** *Inglés 2° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-08/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-2-secundaria.pdf (35,899,812 bytes). Pages cited are the printed pages.
+
+**Book 4:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parts of the house (living room, bedroom, kitchen, bathroom, dining room, garage, garden) and saying where family members are (item 14) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed pp.30–31 |
+| Bedroom objects (bed, dresser, drawers, desk, chair, window, rug, pillow, poster, clock) and *there is / there are* (affirmative, negative, question forms) (item 16) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed pp.32–33 |
+| Rooms of the house (kitchen, living room, bedroom, bathroom, dining room, garage, yard, basement) and saying where people are in the house, with *where is / where are* questions (item 52) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed pp.26–27 |
+| Types of homes around the world (yurt, houseboat, igloo, house) and the parts of a house (item 168) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed pp.68–69 |
+| Furniture vocabulary and *there is / there are* (affirmative and negative) to describe the furniture in each room (item 169) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.70 |
+| A house-tour dialogue, "A Visit to Peter's House" (living room, kitchen, bathroom and bedroom described room by room) (item 170) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed pp.71–72 |
+| Home sweet home: *home* vs *house*, and describing your home and neighbourhood (apartment, yard, balcony, cozy, spacious, quiet, pretty, modern, decorated) in an Emma–Carla dialogue, with prepositions of place for describing an ideal home (item 286) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.14–15 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa, Sri Lanka, Papua New Guinea, Zimbabwe, Zambia
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa, Sri Lanka, Papua New Guinea, Zimbabwe, Zambia, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -41,7 +41,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 14 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa).** Cyprus joins with Year 2 Part B's alphabetical order and spelling words aloud letter by letter (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa, Dominican Republic).** Cyprus joins with Year 2 Part B's alphabetical order and spelling words aloud letter by letter (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -57,7 +57,7 @@ the deep drill beside Using the dictionary: that lesson
 teaches the finding machine; this one walks the order
 to the fourth letter and beyond, and takes the entry
 apart. Counts grow as other closed countries' books
-are read. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+are read. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -261,3 +261,20 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 5° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-05/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-primaria.pdf (42,971,228 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ordinal numbers 1st–12th (first…twelfth) for positions, class lists and monthly activities (item 35) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed pp.72–73 |
+| Ordinal numbers for dates and for position in a line (item 49) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.19 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

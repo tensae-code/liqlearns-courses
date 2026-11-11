@@ -1,6 +1,6 @@
 # Sources — Festivals and Cultural Events
 
-countries: Venezuela, Laos, Jordan, Uzbekistan, Haiti, Papua New Guinea, El Salvador
+countries: Venezuela, Laos, Jordan, Uzbekistan, Haiti, Papua New Guinea, El Salvador, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Festivals and cultural events — Christmas and New Year (wishes and compliments), Carnival (comparisons), Holy Week (past accounts), Mother's Day (describing), regional and local festivals (invitations and directions) | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 21, student printed pp.170–177 (guide plan printed p.130) |
 
-**Acceptance count: taught in 4 countries (Venezuela, Laos, Jordan, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Venezuela, Laos, Jordan, Uzbekistan, Dominican Republic).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Venezuela's English books: the sweep re-read the Grade 7 Teacher's Book page by page and found its festivals lesson (Lesson 21, "Let's celebrate!") stocked nowhere in the course. Venezuela's held set is five Teacher's Books only and no student's book is held, so this lesson stands on teacher's-book evidence. Other countries join as their books are read.
 
@@ -117,3 +117,25 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 3° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-09/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-3-secundaria.pdf (23,852,149 bytes). Pages cited are the printed pages. Book error, carried: the cover (PDF p.1) calls the book "Tercer Grado. Primer Ciclo" and its imprint page (PDF p.2) "Tercer Grado. Segundo Ciclo" — Primer Ciclo is correct for 3° Secundaria; the imprint line is the book's error (diff flag F5).
+
+**Book 2:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+**Book 3:** *Inglés 5° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-11/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-secundaria.pdf (36,708,152 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dominican cultural-traditions vocabulary (tradition, celebration, folklore, parade, drums, costume, heritage, music, community, street festival; the Festival del Merengue; merengue as UNESCO Intangible Cultural Heritage) and narrating a celebration with past simple + past continuous (item 280) | Dominican Republic — Inglés 3° Secundaria (Libro Abierto, Serie 2), printed pp.82–83 |
+| Bridging cultures: Dominican celebrations and cultural symbols (La Vega Carnival through February and March with its colourful masks, Día de la Altagracia, the Merengue Festival, Independence Day), and the Dominican Republic as a melting pot of Taíno, African and European traditions (merengue, bachata) (item 289) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.20–21 |
+| Cultural festivals around the world: festivals vocabulary (carnival, Independence Day, folklore, parade, fireworks, costume, traditional food, dance, rituals) and a reading (summary: Dominican Carnaval fills February with colours, music, masks and devil-mask traditions; Brazil's carnival fills streets with samba, extravagant costumes and parades; China's New Year brings family meals and fireworks) (item 306) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.68–69 |
+| Customs and traditions: the reading "When in Rome… Follow the Customs!" (summary: what is normal in your country might not be okay in another — in Japan you must take off your shoes before entering someone's house and should bow when you greet someone; in India people are supposed to eat with their right hand, as the left hand is seen as unclean), with event vocabulary (concert, conference, parade, ceremony, festival, competition) (item 344) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 2), printed pp.82–83 |
+| Celebrations around the world: a dialogue (Carlos and Maya: for Dominican Carnival you have to wear a costume and mustn't act violently or throw things; during Japan's Hanami you must respect the cherry blossom trees and mustn't touch or damage them; before India's Diwali you have to clean your home) (item 345) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 2), printed pp.84–85 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

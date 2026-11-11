@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova, Dominican Republic
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,7 +72,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 26 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 27 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -89,7 +89,7 @@ invitation to the written message, the formal card and
 the birthday-card project.
 Mauritania invites — and accepts and declines — in its Grade 8
 book (stocked 2026-11-09 by the Mauritania re-verification
-sweep merge). Iraq joins with its Grade 5 "Would you like to…?" invitations and Grade 10 invitation-giving (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+sweep merge). Iraq joins with its Grade 5 "Would you like to…?" invitations and Grade 10 invitation-giving (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 8 and 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -449,3 +449,34 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 1° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-07/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-1-secundaria.pdf (31,178,252 bytes). Pages cited are the printed pages.
+
+**Book 3:** *Inglés 2° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-08/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-2-secundaria.pdf (35,899,812 bytes). Pages cited are the printed pages.
+
+**Book 4:** *Inglés 1° Secundaria (Libro Abierto, Serie 1, 2023)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, repo-tree file grade-07/gov/dominican-republic/ingles/full-year.pdf, 94 PDF pp; pages cited are PDF pages. Byte size: NOT recorded in any record checked (textbooks.tsv, staging books.json, phase3-push-state.json) — declared, not invented (diff flag F6).
+
+**Book 5:** *Inglés 2° Secundaria (Libro Abierto, Serie 1, 2023)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, repo-tree file grade-08/gov/dominican-republic/ingles/full-year.pdf, 94 PDF pp; pages cited are PDF pages. Byte size: NOT recorded in any record checked — declared, not invented (diff flag F6). Book error, carried: this book's contents page (PDF p.9) is Book E's contents page in substance, listing Book E's units and readings, not this book's (diff flag F10) — no citation in this merge rests on that contents page; every row rests on the book's own unit body.
+
+**Book 6:** *Inglés 3° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-09/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-3-secundaria.pdf (23,852,149 bytes). Pages cited are the printed pages. Book error, carried: the cover (PDF p.1) calls the book "Tercer Grado. Primer Ciclo" and its imprint page (PDF p.2) "Tercer Grado. Segundo Ciclo" — Primer Ciclo is correct for 3° Secundaria; the imprint line is the book's error (diff flag F5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making and responding to invitations with "Do you want to…?" and "Let's…"; after-school activities (art class, chess, play with friends, house chores, baseball, homework) (item 50) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed pp.20–21 |
+| Making, accepting and declining invitations ("Do you want to…?", "Let's…", "Yes, I'd love to", "Sorry, I can't. I have to…") (item 110) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed pp.32–33 |
+| Making, accepting and declining invitations ("Do you want to…?", "Would you like to join me?", "Yes, I'd love to", "I'd like to, but I'm busy", "Maybe another time") (item 147) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.28 |
+| Planning a celebration in dialogue, mixing *will* and *going to* (item 150) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed pp.32–33 |
+| Reading an invitation card and writing a reply accepting or declining it with a reason (item 151) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed pp.34–35 |
+| Language for invitations: making ("Would you like to…?", "Let's…!"), accepting ("I would love to!", "Yes, let's do it!") and declining ("Sorry, I can't", "I would love to, but…") (item 193) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 1), PDF pp.48–49 |
+| Reading "An Exclusive Invitation" (summary: Zoe invites her friend María Gracia, in the Dominican Republic, to her wedding with Tommy in Australia next weekend — impossible to attend physically, so Zoe will send an email link for her to watch the ceremony virtually from her computer) (item 208) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 1), PDF pp.30–31 |
+| Making announcements and invitations (announcement, invitation, RSVP — French for "please respond") for a school Culture Day, including writing an announcement and invitation for a local art exhibition in San Pedro de Macorís (item 284) | Dominican Republic — Inglés 3° Secundaria (Libro Abierto, Serie 2), printed pp.90–91 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

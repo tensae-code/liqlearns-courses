@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador, Moldova
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Canada, Andorra, El Salvador, Moldova, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 25 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 26 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -123,7 +123,7 @@ presentation as real class work. China presents twice: a
 child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
-sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 presentation work (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its presenting, evidence-speaking and panel work in Grades 6, 8 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 presentation work (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its presenting, evidence-speaking and panel work in Grades 6, 8 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -594,3 +594,40 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 5° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-05/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-5-primaria.pdf (42,971,228 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 6° Primaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-06/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-primaria.pdf (45,030,825 bytes). Pages cited are the printed pages.
+
+**Book 3:** *Inglés 1° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-07/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-1-secundaria.pdf (31,178,252 bytes). Pages cited are the printed pages.
+
+**Book 4:** *Inglés 2° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-08/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-2-secundaria.pdf (35,899,812 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Group project: designing a poster presenting group members' personal descriptions (item 9) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed p.22 |
+| Group project: creating a family tree with relationships, occupations and home descriptions (item 18) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed p.36 |
+| Group project: designing a daily-routine chart (morning / afternoon / evening) (item 32) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed p.64 |
+| Group project: researching an occupation and presenting it with a classroom poster display (item 38) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed p.78 |
+| Group project: a "weather around the world" poster comparing countries' weather, temperature and clothes (item 43) | Dominican Republic — Inglés 5° Primaria (Libro Abierto, Serie 2), printed p.92 |
+| Group activity: name/spelling games and making a class birthday calendar (item 51) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.22 |
+| Group activity: house poster, home-to-school route map and a frequency chart (item 61) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.36 |
+| Group activity: daily-activity chart, a suggestions poster for staying healthy, and a do-and-don't chart for common ailments (item 70) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.50 |
+| Group activity: a classroom flea market for used clothes and a collaborative timeline of special moments (item 88) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.78 |
+| Group activity: "Voices of the Future" — job interviews, an ideal-vacation chart and a protect-the-planet poster campaign (item 95) | Dominican Republic — Inglés 6° Primaria (Libro Abierto, Serie 2), printed p.92 |
+| Group activity: preparing and performing a podcast interview with a famous celebrity (item 103) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed p.22 |
+| Group activity: a poster comparing two family members' appearance, personality, likes and jobs (item 119) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed p.50 |
+| Group activity: a poster comparing two countries (location, flag, population, language, currency, food, landmarks, traditions) (item 126) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed p.64 |
+| Group activity: a natural-disaster safety poster/brochure using *should, must, have to* (before / during / after sections) (item 133) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed p.78 |
+| Group project: "A Week in Our Lives" — a presentation booklet/poster of school schedules and routines compared with exchange students (item 145) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.22 |
+| Group activity: planning "The Best Plan" — an imaginary celebration within a budget (item 152) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.36 |
+| Group activity: a fashion presentation plus an interactive shopping role-play with a budget (item 159) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.50 |
+| Group project: "My Dream House" — plan, floor-plan drawing and oral presentation (item 174) | Dominican Republic — Inglés 2° Secundaria (Libro Abierto, Serie 2), printed p.78 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

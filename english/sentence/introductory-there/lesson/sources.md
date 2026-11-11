@@ -1,6 +1,6 @@
 # Sources — Introductory There
 
-countries: Bangladesh, Egypt, Laos
+countries: Bangladesh, Egypt, Laos, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ english/bangladesh-placements.md).
 | The pattern named outright: introductory "There" — There is/are… with the real subject after the verb — taught as the Language Point of the newspaper lesson | Bangladesh, English for Today, Dakhil Class Eight, Unit 8 "News! News! News!", Lesson 2 "The First Newspaper," Language Point box, printed p.99 (the lesson at printed pp.96–99) |
 | The lesson's example sentences (a book on the table, a school in our village, students in the class) | The course's own workings on the book's named pattern — the sweep's filing names the pattern; no example sentence is quoted from the book |
 
-**Acceptance count: taught in 3 countries (Bangladesh, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Bangladesh, Egypt, Laos, Dominican Republic).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Bangladesh's English books. The
@@ -74,3 +74,16 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 3° Secundaria (Libro Abierto, Serie 1, 2023)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, repo-tree file grade-09/gov/dominican-republic/ingles/full-year.pdf, 94 PDF pp; pages cited are PDF pages. Byte size: NOT recorded in any record checked — declared, not invented (diff flag F6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| *There* + *be* in all time frames (there is/are, there was/were, there will be) for announcing the existence of events and things (item 232) | Dominican Republic — Inglés 3° Secundaria (Libro Abierto, Serie 1), PDF pp.78–79 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.

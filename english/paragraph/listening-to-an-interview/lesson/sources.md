@@ -1,6 +1,6 @@
 # Sources — Listening to an Interview
 
-countries: Mexico, Barbados, Saudi Arabia, Kuwait, Cyprus, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia
+countries: Mexico, Barbados, Saudi Arabia, Kuwait, Cyprus, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ cited once.
 |---|---|
 | The whole lesson: listening to an interview — the Susana Harp interview listening, "Afro-México y patrimonio cultural": hear the interview's shape, and identify the interviewee's likes and dislikes and the compliments the interviewer pays her; the practice interview in the lesson text is this course's own short interview in the same shape, and the book's recording is not transcribed | Mexico, Grade 7, Project 15 "Preserving Cultural Heritage in the Music of Afro-Mexican Communities", printed p. 141 |
 
-**Acceptance count: taught in 6 countries (Mexico, Saudi Arabia, Kuwait, Cyprus, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its interview work — carrying out a short interview (Year 4) and a simple interview about yourself (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). This
+**Acceptance count: taught in 7 countries (Mexico, Saudi Arabia, Kuwait, Cyprus, Samoa, Uruguay, Dominican Republic).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its interview work — carrying out a short interview (Year 4) and a simple interview about yourself (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). This
 lesson exists because of Mexico's Grade 7 book: no book
 read before the 2026-11-08 re-verification sweep taught
 listening to an interview — its shape, and listening inside
@@ -27,7 +27,7 @@ one for likes, dislikes and compliments — so the sweep's
 diff marked the topic NEW LESSON NEEDED and the lesson was
 built from that one book alone (stated plainly: built
 2026-11-09 by the Mexico re-verification sweep merge).
-Other countries join as their books are read.
+Other countries join as their books are read. Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -262,3 +262,26 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's in-hand English set — **15 MINERD *Libro Abierto* student's books of the 16 in hand**: Serie 2 (5° and 6° Primaria; 1°, 2°, 3°, 4°, 5° and 6° Secundaria), Serie 1 (1°, 2°, 3° and 5° Secundaria) and the Salida Optativa Serie 1 Resource Packets (4°, 5° and 6° Secundaria). The 16th in-hand book, *Inglés 4° Primaria* (Serie 2), is in hand only as an incomplete segmented copy (segment 2 absent), was not read, and is cited nowhere (diff flag F4). **441 teaching items placed, 0 already in the course; all 441 are stocked in this merge.** **Counting for this lesson: Dominican Republic is counted** — every row below rests on a Dominican pupil's book (all 15 read books are student's books; the Salida Optativa books are student Resource Packets). Read depth, as the expansion documents declare it: the placements were assembled from the original reader's per-book fragments — backed by full text extractions and condensed page-marked extractions retained in the expansion scratch folder — after the reader was interrupted; the finisher verified every item against the fragments and re-established the verification headers from the records, and read no book first-hand, because no readable book lacked fragment coverage. Serie 2 books cite printed pages; Serie 1 and Salida Optativa books cite PDF pages. Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (dominican-republic-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Inglés 1° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-07/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-1-secundaria.pdf (31,178,252 bytes). Pages cited are the printed pages.
+
+**Book 2:** *Inglés 5° Secundaria (Libro Abierto, Serie 1, 2023)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, repo-tree file grade-11/gov/dominican-republic/ingles/full-year.pdf, 96 PDF pp by the full text extraction (the condensed extraction's page markers reach PDF p.95 — the difference is a text-empty final page; diff flag F6); pages cited are PDF pages. Byte size: NOT recorded in any record checked — declared, not invented (diff flag F6).
+
+**Book 3:** *Inglés 4° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-10/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-4-secundaria.pdf (35,013,394 bytes). Pages cited are the printed pages.
+
+**Book 4:** *Inglés 6° Secundaria (Libro Abierto, Serie 2)* — Dominican Republic, Ministerio de Educación (MINERD), Proyecto Libro Abierto. Student's book, 96 pp; staging record grade-12/gov/dominican-republic/ingles/student/lenguas-extranjeras-ingles-6-secundaria.pdf (33,449,514 bytes). Pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listening to a podcast: three students' experiences in the Summer Work and Travel Program in the United States (hotel housekeeper, waitress; speaking English at passport control) (item 136) | Dominican Republic — Inglés 1° Secundaria (Libro Abierto, Serie 2), printed pp.86–87 |
+| Reading "Interviewing a Superstar!" (summary: magazine interview with Paulina Moreno — singer, actress, activist and online English teacher — who said she was living a good moment, was recording videos and a new song for her album, confessed she came from a poor family and knew hard work, did her own housework, and found it difficult to be a mother and work) (item 251) | Dominican Republic — Inglés 5° Secundaria (Libro Abierto, Serie 1), PDF pp.82–84 |
+| The changing climate: an interview with climate scientist Dr Laura Green on "Voices of the Climate" (summary: climate change means long-term shifts in temperatures and weather patterns; some changes are natural, but human activities since the 1800s are the main driver; she covers causes, extreme weather events, the danger to coastal cities and ways people can help), with relative clauses *who/which/that/where* and questions on Michael Jackson's "Earth Song" (item 302) | Dominican Republic — Inglés 4° Secundaria (Libro Abierto, Serie 2), printed pp.56–57 |
+| Social change through art: an interview (summary: an artist explains that art is not just decoration — it must inspire social change; murals, music, theater and sculptures may help people understand social problems, care for the environment and support their communities; a mural of Priscila the Parrotfish might teach people to protect coral reefs, and Amaury the Sea Turtle could remind us to reduce ocean pollution), with modals *must, may, could, might* for obligation and possibility (item 373) | Dominican Republic — Inglés 6° Secundaria (Libro Abierto, Serie 2), printed pp.74–75 |
+
+Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
