@@ -870,3 +870,26 @@ manners, living together) is the shared world part, and the
 citizenship part (constitution, government, law, voting) is
 per-country inside "How my government teaches it," so nothing
 is dropped and there are not 200 citizenship courses.
+
+Clarified by him the same day: "How my government teaches it"
+means at signup a learner from a country gets a course made
+specifically for their country, showing in their feed. Some
+top-level entries are folders holding many courses inside, the
+Language and Literature pattern. Civics and Citizenship is such
+a folder: inside it, one course per country (up to about 200),
+found by searching the country — one course per country, not
+one per grade; all grades of that country's subject sit in the
+one country course. The folder itself is the top-level course,
+so there is no separate world civics course. Agriculture, Life
+Skills, Philosophy, Psychology and Sociology are one world
+course each.
+
+Muse's working principle, proposed to him and awaiting his
+word: if the thing itself differs by country (laws,
+constitution, own language, religion, the country's own
+history), it is a per-country course inside a folder; if only
+the way of teaching differs and the thing is the same (maths,
+ICT, science), it is one world course, with the country's way
+showing inside as examples. Under that principle Computer
+Science and ICT is one world leveled course, not 200 country
+courses.
