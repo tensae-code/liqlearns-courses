@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -346,8 +346,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 36 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 37 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -649,3 +649,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Seven: verb-group passives | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.75 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

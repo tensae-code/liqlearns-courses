@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait, Fiji, Tunisia
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait, Fiji, Tunisia, Samoa
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,7 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 19 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait, Fiji, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 20 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait, Fiji, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -433,3 +433,22 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: two kinds of writing — personal, imaginative, expressive (journals, diaries, poems) vs formal, transactional (reports, business letters, job applications, reviews, newspaper reports, editorials): sorting writing types and the set patterns of formal writing | Samoa, English Year 10 Book 2 (MESC 2004), printed p.26 |
+| Unit 10: personal vs transactional writing revision — sorting and practising both kinds | Samoa, English Year 11 Book 1 (Department of Education 2003), printed p.100 |
+| Unit 11: personal vs transactional writing identified across text types (essays, letters, diaries, journals, poems, stories, plays); writing in different registers; marking criteria for personal writing | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.102–105 |
+| Unit 13: expository and formal essay structure — each paragraph's first sentence a clear generalisation (topic sentence) introducing the paragraph; proofreading time; analysing how a student uses the basic structure | Samoa, English Year 12 (MESC 2004), printed pp.139–142 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

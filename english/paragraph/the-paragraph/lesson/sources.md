@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -329,9 +329,9 @@ verification sweep.
 | Writing a paragraph about a technological advance (second conditional) | Mongolia, English XII, Unit 9, printed p.156 |
 | A whole chapter on paragraph writing, with specimen paragraphs as the models (My School, Girl Guides, A Visit to a Museum, A Visit to a Hospital, Fashions, A River in Flood, A Dream) | Pakistan, *English Grammar & Composition 9–10*, Chapter I, printed p.1 |
 
-**Acceptance count: taught in 38 countries (Bangladesh,
+**Acceptance count: taught in 39 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its paragraph writing — about yourself, your routine, and your daily routine (stocked 2026-11-11 by the Cyprus expansion merge). India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its paragraph writing — about yourself, your routine, and your daily routine (stocked 2026-11-11 by the Cyprus expansion merge). India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -824,3 +824,22 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: the paragraph about yourself — a model paragraph annotated for greeting, present and past tense verbs and conjunctions; drafting a 10+ sentence self-paragraph with a conjunction, full stops and capital letters | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.9–10 |
+| Unit 9: planned paragraph writing — three drafted paragraphs describing “Your World” (Sāmoa's natural and cultural features) for a reader overseas, from a given word list | Samoa, English Year 11 Book 1 (Department of Education 2003), printed p.99 |
+| Unit 8: paragraphs — a group of sentences developing one idea or topic; finding the topic sentence | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.88–90 |
+| Unit 11: essay structure — the introduction (introducing the topic), the body (the bulk of ideas), and paragraphs built like mini-essays with a lead sentence; deconstructing a jumbled paragraph (a zoo essay) into logical order | Samoa, English Year 12 (MESC 2004), printed pp.116–119 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -343,8 +343,8 @@ verification sweep.
 | Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
 | The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
 | Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -711,3 +711,22 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: the seven parts of speech (noun, pronoun, adjective, verb, adverb, conjunction, preposition) with definitions and examples, plus the definite and indefinite articles — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.40–41 |
+| Unit 4: pronouns — personal pronouns (I, me, we, us, you, they, them, he, she, her) and possessive pronouns (mine, yours, theirs, his, hers, its, ours); replacing repeated nouns with pronouns | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.43 |
+| Unit 7: pronouns, adverbs (how, when, where, how often; many end in -ly), conjunctions and prepositions (position phrases) | Samoa, English Year 10 Book 1 (MESC 2004), printed pp.47–50 |
+| Unit 8: parts of speech and articles revision (the seven parts of speech, plus the definite and indefinite articles placed just before a noun); identifying parts of speech in a set paragraph — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.82–84 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

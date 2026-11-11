@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -350,8 +350,8 @@ verification sweep.
 | Adverbs of Manner | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.111 (teacher evidence) |
 | Using Simple Prepositions — Use adverbs to talk about when and where | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.6.1, PDF p.88 (curriculum evidence) |
 | Use question marks, full stops and commas correctly in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.12.1, PDF p.218 (curriculum evidence) |
-**Acceptance count: taught in 40 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -800,3 +800,29 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: adverbials of time (yesterday, today, last night, last week) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.36 |
+| Year Four: adverbials of reason and manner | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.43–45 |
+| Year Four: the four basic parts of speech (noun, verb, adjective, adverb) — the set completed here, as the placements pin it | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.43–46 |
+| Unit 7: the seven parts of speech (noun, pronoun, adjective, verb, adverb, conjunction, preposition) with definitions and examples, plus the definite and indefinite articles — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.40–41 |
+| Unit 7: adverbs completing sentences | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.44 |
+| Unit 4: adverbs adding meaning to verbs; choosing suitable adverbs | Samoa, English Year 9 Book 3 (Department of Education 2002), printed pp.38–39 |
+| Unit 7: pronouns, adverbs (how, when, where, how often; many end in -ly), conjunctions and prepositions (position phrases) | Samoa, English Year 10 Book 1 (MESC 2004), printed pp.47–50 |
+| Unit 8: parts of speech and articles revision (the seven parts of speech, plus the definite and indefinite articles placed just before a noun); identifying parts of speech in a set paragraph — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.82–84 |
+| Appendix 2: adjectives and adverbs in reference form — attributive (before the noun) vs predicative adjective placement; adverbs formed with –ly and –wise, compared with more/most (the placements name the targets describing-words-adjectives and describing-actions-adverbs; stocked in adjectives and adverbs) | Samoa, English Year 13 (MESC 2004), printed pp.196–197 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

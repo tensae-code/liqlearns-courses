@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -446,9 +446,9 @@ verification sweep.
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 | Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
 | Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
-**Acceptance count: taught in 43 countries (Egypt, Ghana,
+**Acceptance count: taught in 44 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -1200,3 +1200,19 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: simple sentences — statements (SVO, SV) in the simple present and simple past; directives (line up, sit down, hands up) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.36 |
+| Year Four: past, present and future shown through basic time references | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.46 |
+| Unit 7: verb tenses — present, past and future shown by the verb's tense; a tense table and tense identification | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.46 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

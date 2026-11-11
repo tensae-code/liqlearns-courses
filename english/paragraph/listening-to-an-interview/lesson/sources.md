@@ -1,6 +1,6 @@
 # Sources — Listening to an Interview
 
-countries: Mexico, Barbados, Saudi Arabia, Kuwait, Cyprus
+countries: Mexico, Barbados, Saudi Arabia, Kuwait, Cyprus, Samoa
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ cited once.
 |---|---|
 | The whole lesson: listening to an interview — the Susana Harp interview listening, "Afro-México y patrimonio cultural": hear the interview's shape, and identify the interviewee's likes and dislikes and the compliments the interviewer pays her; the practice interview in the lesson text is this course's own short interview in the same shape, and the book's recording is not transcribed | Mexico, Grade 7, Project 15 "Preserving Cultural Heritage in the Music of Afro-Mexican Communities", printed p. 141 |
 
-**Acceptance count: taught in 4 countries (Mexico, Saudi Arabia, Kuwait, Cyprus).** Cyprus joins with its interview work — carrying out a short interview (Year 4) and a simple interview about yourself (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). This
+**Acceptance count: taught in 5 countries (Mexico, Saudi Arabia, Kuwait, Cyprus, Samoa).** Cyprus joins with its interview work — carrying out a short interview (Year 4) and a simple interview about yourself (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). This
 lesson exists because of Mexico's Grade 7 book: no book
 read before the 2026-11-08 re-verification sweep taught
 listening to an interview — its shape, and listening inside
@@ -105,3 +105,21 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: listening comprehension — a read-aloud profile of Robert Louis Stevenson (his life at Vailima, Sāmoa) answered from listening | Samoa, English Year 9 Book 1 (MESC 2004), printed p.14 |
+| Unit 2: interviewing — a role-play interview with a partner acting as Stevenson; a third pupil records and reports the interview | Samoa, English Year 9 Book 1 (MESC 2004), printed p.15 |
+| Unit 1: listening exercises — listening to passages read aloud and remembering and answering on the important parts | Samoa, English Year 10 Book 1 (MESC 2004), printed pp.8–9 |
+| Unit 3: interviewing experts for research — preparing specialised questions for a knowledgeable person (conservation officer, rainforest expert, zoologist) | Samoa, English Year 10 Book 2 (MESC 2004), printed p.24 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

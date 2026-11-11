@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -212,8 +212,8 @@ verification sweep.
 | A chant: "Touch my face, touch my hair! Touch my ears, touch my mouth, touch my eyes… Two of those!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 2, pupil printed p.53 |
 | Body words arm and leg with the command game "Touch your arm!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
 | The action song "If you're happy and you know it, clap your hands / nod your head / stamp your feet" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
-**Acceptance count: taught in 40 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 41 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -519,3 +519,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: the core word sets (personal details, health, body parts, family, time, colours, shapes, numbers, home, school and environment objects, actions), and the statement's vocabulary ladder: 300 frequent words at Year 3, rising to 500 (Year 4), 850 (Year 5), 1,000 (Year 6), 1,200 (Year 7) and 1,500 (Year 8) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.36–38 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

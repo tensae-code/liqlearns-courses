@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -287,7 +287,7 @@ verification sweep.
 | Writing an argumentative essay, "Why is breakfast important?" | Mongolia, English XII, Unit 8, printed p.152 |
 | A whole chapter on essay writing, with specimen essays | Pakistan, *English Grammar & Composition 9–10*, Chapter VI, printed p.46 |
 
-**Acceptance count: taught in 28 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 29 countries (Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Fiji, Eritrea, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with a five-paragraph essay recounting a fear overcome, in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia defines the essay and tables its general structure
 whole; Ghana grows the writing process to the essay's
 scale with the outline as its planning tool. Indonesia
@@ -674,3 +674,33 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 6:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Seven: arguments as a text type (analysing models of recounts, narratives, instructions, information reports and arguments) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.78 |
+| Unit 4: prewriting — the planning stage: jotting ideas in no order, researching non-fiction, shaping an opening sentence; a worked example of prewriting an essay on eco-tourism in Sāmoa, then writing the same topic in different registers (a formal essay vs a tourist's expressive postcard) | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.38–40 |
+| Unit 6: the essay — a short formal piece of transactional writing, carefully planned and structured in logically connected paragraphs; the model essay “The Geography Of Niue Island” and essay topics (e.g. The Dangers of Smoking; Emigration and the population of Niue) | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.68–70 |
+| Unit 8: model essay study — “Auckland's Pasifika Festival” as an essay example | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.91–92 |
+| Unit 5: writing a response-to-text essay — selecting and sorting annotated material and handouts, crafting the essay, and writing a 250-word essay with specific detail and quotations from each text; a worked comparison of Rupert Brooke's “The Soldier” (1915) with Wilfred Owen's “Dulce et Decorum Est” (written October 1917) | Samoa, English Year 12 (MESC 2004), printed pp.49–54 |
+| Unit 11: formal writing recognised — where formal writing is seen and the features that make an article formal; analysing a model paragraph on Shakespeare's eternal-love view | Samoa, English Year 12 (MESC 2004), printed pp.113–115 |
+| Unit 11: using examples in essays of every kind, and spotting a weak paragraph (a fine idea, too short and unsupported) | Samoa, English Year 12 (MESC 2004), printed pp.120–121 |
+| Unit 13: expository and formal essay structure — each paragraph's first sentence a clear generalisation (topic sentence) introducing the paragraph; proofreading time; analysing how a student uses the basic structure | Samoa, English Year 12 (MESC 2004), printed pp.139–142 |
+| Unit 9: quotations in essays — short quotations flow inside the sentence in quotation marks; long quotations are set out separately; nested quotation punctuation shown with a model sentence | Samoa, English Year 13 (MESC 2004), printed pp.70–72 |
+| Unit 9: essay format — the model page layout (long vs short quotations, a ruled margin), and “What is format?” review questions | Samoa, English Year 13 (MESC 2004), printed pp.74–75 |
+| Unit 9: research for essays — analyse the question first, keep a clear focus, copy quotations inside quotation marks so borrowed words are known later, sort information into essay plans | Samoa, English Year 13 (MESC 2004), printed pp.77–79 |
+| Unit 9: clear and concise writing — saying exactly what you mean simply; linking ideas between sentences; backing every point with evidence; the checklist for sense (does it make sense, does it flow logically) | Samoa, English Year 13 (MESC 2004), printed pp.80–82 |
+| Unit 9: a model good English essay analysed — an essay on *Macbeth* (the weird sisters' imagery, Lady Macbeth calling on darkness in Act 1 Scene 5) shown as the standard | Samoa, English Year 13 (MESC 2004), printed pp.83–84 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

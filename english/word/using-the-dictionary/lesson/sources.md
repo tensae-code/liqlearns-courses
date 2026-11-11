@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -219,11 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 29 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+**Acceptance count: taught in 30 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
 Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
 Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
-Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa).** India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -581,3 +581,28 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 10 Book Three* (student's book) — Sāmoa, Department of Education, 2002 (NZAID); 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: profiles — dictionary work on unit words (word, part of speech, meaning), then writing a profile of a teacher or friend from a template and comparing and contrasting profiles | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.16–17 |
+| Unit 8: story vocabulary matched to meanings with dictionary help (stubborn, discharged, grudge, squinted, remorse, plea…) | Samoa, English Year 9 Book 1 (MESC 2004), printed p.54 |
+| Unit 5: what a dictionary entry gives — spelling, part of speech, pronunciation respelling with stress marks, and derivation (word origin) (worked entry: atoll) | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.34 |
+| Unit 1: the reference section — using the library dictionary for abbreviations (A.D., B.Sc., R.S.V.P.…), a dictionary of quotations (Stevenson, Wordsworth, Shakespeare), and an encyclopaedia for facts | Samoa, English Year 9 Book 3 (Department of Education 2002), printed pp.10–11 |
+| Unit 5: jobs vocabulary by dictionary detective work — finding occupation words from first letters and definitions (anthropologist, astronomer, accountant, barrister, chauffeur, optician, orthodontist, paediatrician, taxidermist, tourist…) | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.46 |
+| Unit 6: building word power — a dictionary habit for unknown words in reading, and using a thesaurus of synonyms to vary word choice | Samoa, English Year 10 Book 3 (Department of Education 2002), printed p.47 |
+| Unit 8: dictionary exercises on real dictionary pages (the New Zealand Oxford Paperback Dictionary) — using entry information to complete sentences and answer questions | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.90–93 |
+| Unit 4: vocabulary from the four stories matched to dictionary definitions (stern, incision, caesarean, eight-sided…) | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.58–59 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

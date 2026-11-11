@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji, Eritrea
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -75,8 +75,8 @@ verification sweep.
 | Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 12 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji, Eritrea).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 13 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji, Eritrea, Samoa).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -232,3 +232,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: direct speech — a clause-level introduction | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.36 |
+| Year Eight: quotation marks within punctuation for meaning (with the exclamation mark) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.84–85 |
+| Unit 8: writing dialogue — speech marks, apostrophes for contractions, commas before closing quotes (question marks for questions) | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.46–47 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

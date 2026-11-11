@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa
 
 Every part traces to its book and page.
 
@@ -41,7 +41,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 13 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji).** Cyprus joins with Year 2 Part B's alphabetical order and spelling words aloud letter by letter (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus, Fiji, Samoa).** Cyprus joins with Year 2 Part B's alphabetical order and spelling words aloud letter by letter (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -188,3 +188,19 @@ The 2026-11-10 expansion read read Fiji's held English set from the PDFs — 13 
 
 Fiji is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/fiji-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5: alphabetical order practice — ordering word lists, then finding and writing definitions | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.35–36 |
+| Unit 8: fiction shelving — alphabetical by author's surname; ordering fiction titles | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.50 |
+| Unit 1: finding fiction on the shelves — ordering fiction titles by authors' surnames (Cowley, Tolkien, Duff, Stevenson, Wendt, Grace, Ihimaera, Mahy, Hill) and finding authors for well-known titles | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.6 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

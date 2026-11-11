@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 22 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 23 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -367,3 +367,36 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 10 Book Three* (student's book) — Sāmoa, Department of Education, 2002 (NZAID); 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 7:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 8:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 9:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: community profiles — hosting community speakers (minister, principal, nurse, bank teller), note-taking, and group production of a profile as a poster, essay or poem | Samoa, English Year 9 Book 1 (MESC 2004), printed p.17 |
+| Unit 3: survey research — framing a serious question on a local issue (worked example: protecting sea turtles), writing survey questions, asking 20–30 people politely, summarising the data, graphing results, and presenting findings as a poster, chart or booklet plus a 3-minute class talk | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.20–22 |
+| Unit 1: preparing a speech — choose an interesting topic, brainstorm and research it, organise beginning, middle and end, learn it, make palm cue cards, practise delivery | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.7 |
+| Unit 1: delivering a speech — a forceful summarising ending; deep breaths, posture, eye contact, cue cards not notes, pacing; peer marking out of 10 | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.9–11 |
+| Unit 3: a group current-issues project — research an issue (over-fishing, youth suicide, crime, pollution, drugs, smoking, emigration…), then present it four ways: a speech, a mini drama, a poster and a debate | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.33 |
+| Unit 1: impromptu speeches — speaking with little or no preparation; choosing speakable subjects and speaking for up to three minutes after a few minutes' preparation | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.5–8 |
+| Unit 5: a pairs current-issues project — research an issue (rainforests, over-fishing, health, youth suicide, crime, pollution, smoke-free Sāmoa, drugs, alcohol, co-education, emigration, violent videos, endangered species, culture, internet learning, tourism), prepare a talk and design a publicity poster | Samoa, English Year 10 Book 3 (Department of Education 2002), printed p.45 |
+| Unit 1: impromptu speeches on a drawn relationship (grandfather, uncle, cousin, friend, neighbour…): five minutes to note four or five headings, then speaking to a small group without a written text | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.5–6 |
+| Unit 2: prepared speeches on an “Other Worlds” topic — the four aims (inform, explain, persuade, entertain), opening with an attention-catching question, and class judging under Content and Delivery | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.19–23 |
+| Unit 7: writing to organisations — guidelines for request letters and emails (email less formal, the same body guidelines), and presenting research as a seminar or oral report | Samoa, English Year 12 (MESC 2004), printed pp.67–69 |
+| Unit 8: speech delivery craft — pausing for emphasis and suspense, figures of speech in speeches (alliteration and other picture-making techniques), cue cards and eye contact; practice questions on a student speech extract (a visitor shocked by rubbish on the way to Parliament) | Samoa, English Year 12 (MESC 2004), printed pp.73–78 |
+| Unit 8: writing a commentary on your own dramatic presentation or speech | Samoa, English Year 12 (MESC 2004), printed p.79 |
+| Unit 6: listening analysis — taping a talkback radio segment and identifying the callers' ages and types from their speech (the placements name the target oral-presentations; this course's presenting lesson is presentation-skills) | Samoa, English Year 13 (MESC 2004), printed p.57 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

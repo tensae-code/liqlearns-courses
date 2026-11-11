@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 10 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -135,3 +135,17 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year One: word sets met in rhymes, songs and classroom talk — numbers, colours, shapes, and classroom and school objects (desk, chair, blackboard, window; balls, bats, swing) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.31 |
+| Year Three: the core word sets (personal details, health, body parts, family, time, colours, shapes, numbers, home, school and environment objects, actions), and the statement's vocabulary ladder: 300 frequent words at Year 3, rising to 500 (Year 4), 850 (Year 5), 1,000 (Year 6), 1,200 (Year 7) and 1,500 (Year 8) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.36–38 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

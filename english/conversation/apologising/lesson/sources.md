@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea, Tunisia
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea, Tunisia, Samoa
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -63,8 +63,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 14 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 15 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -282,3 +282,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: interpersonal functions — introductions and farewells, expressing likes, dislikes and needs, asking permission, making and accepting apologies, asking for help, indicating non-understanding, stating an opinion | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.41 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

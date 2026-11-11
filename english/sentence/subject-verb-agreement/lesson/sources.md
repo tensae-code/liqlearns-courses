@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea
+countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ CHECK PASSED 2026-11-03).
 | Subject–verb agreement with is/are | South Africa, English Home Language Grade 6 Workbook 1, printed p.30 |
 | Subject-verb agreement as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 
-**Acceptance count: taught in 8 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Kuwait, Fiji, Eritrea).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal files the three
+**Acceptance count: taught in 9 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Kuwait, Fiji, Eritrea, Samoa).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal files the three
 tricky examples this lesson is built on — one of,
 twenty dollars, police — inside its Grade 7 quantity
 unit, and returns to agreement as a named Grade 10
@@ -223,3 +223,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: subject–verb concord | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.36 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji, Eritrea
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,9 +88,9 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 17 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
+**Acceptance count: taught in 18 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
 Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan,
-Sudan, Armenia, Ethiopia, Fiji, Eritrea).** Egypt sets the speech for or against an
+Sudan, Armenia, Ethiopia, Fiji, Eritrea, Samoa).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -234,3 +234,35 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 7:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: the four aims of a speech — give information, explain, persuade, entertain (worked example: a speech warning about global warming and Pacific atolls) | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.5–6 |
+| Unit 1: preparing a speech — choose an interesting topic, brainstorm and research it, organise beginning, middle and end, learn it, make palm cue cards, practise delivery | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.7 |
+| Unit 2: speeches — preparing and giving a speech on an own-choice topic (a recap of Book 2's method: notes, logical order, learning, cue cards) | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.19 |
+| Unit 1: impromptu speeches — speaking with little or no preparation; choosing speakable subjects and speaking for up to three minutes after a few minutes' preparation | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.5–8 |
+| Unit 1: impromptu speeches on a drawn relationship (grandfather, uncle, cousin, friend, neighbour…): five minutes to note four or five headings, then speaking to a small group without a written text | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.5–6 |
+| Unit 2: prepared speeches on an “Other Worlds” topic — the four aims (inform, explain, persuade, entertain), opening with an attention-catching question, and class judging under Content and Delivery | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.19–23 |
+| Unit 2: impromptu speeches at senior level — building headings for a topic (e.g. the generation gap) and peer assessment under Content and Delivery out of 5 | Samoa, English Year 12 (MESC 2004), printed pp.22–24 |
+| Unit 8: speech delivery craft — pausing for emphasis and suspense, figures of speech in speeches (alliteration and other picture-making techniques), cue cards and eye contact; practice questions on a student speech extract (a visitor shocked by rubbish on the way to Parliament) | Samoa, English Year 12 (MESC 2004), printed pp.73–78 |
+| Unit 6: studying great speeches — extracts including Churchill's speech to the Canadian Parliament (30 December 1941) and Elizabeth I at Tilbury (9 August 1588), with a speech's qualities checklist (sustained, universal truths…) | Samoa, English Year 13 (MESC 2004), printed pp.40–42 |
+| Unit 6: the language of oratory — the legal-oratory formula (opening outlining the case…) | Samoa, English Year 13 (MESC 2004), printed pp.43–44 |
+| Unit 6: oratorical devices defined — contrast, antithesis (setting one thing against another for contrast), balanced sentences — analysed in a war speech (“We did not make this war, we did not seek it…”) | Samoa, English Year 13 (MESC 2004), printed pp.45–47 |
+| Unit 6: speech-makers' further tools — repetition of key words and phrases to reinforce the message, and labelling to denigrate the opposition (e.g. “Hitler and his Nazi…”) | Samoa, English Year 13 (MESC 2004), printed p.48 |
+| Unit 6: dramatic oration — Elizabeth I's Tilbury speech read aloud to find its climaxes and mark pauses with reasons; the structure (salutation, repetition…) | Samoa, English Year 13 (MESC 2004), printed pp.49–50 |
+| Unit 6: George Plimpton's “How To Make A Speech” — the well-made speech (conclusion first in planning), the four intents of the main body (to entertain, to instruct…), when a question period fits; and, as writing study, Plimpton's figurative expressions, thesis statement, and writing a process-analysis essay “How to …” (the placements name the second target process-analysis; this course's how-to writing lesson is process-writing) | Samoa, English Year 13 (MESC 2004), printed pp.51–56 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

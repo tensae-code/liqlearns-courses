@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -325,9 +325,9 @@ verification sweep.
 | Identify and use subject and predicate in text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.2, PDF p.52 (curriculum evidence) |
 | Identify and use subject and predicate in texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.3, PDF p.121 (curriculum evidence) |
 | Create effective descriptive sentences when | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 4 (Writing), standard B9.4.2.1, PDF p.128 (curriculum evidence) |
-**Acceptance count: taught in 38 countries (Bangladesh,
+**Acceptance count: taught in 39 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Fiji, Eritrea, Tunisia).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Fiji, Eritrea, Tunisia, Samoa).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -719,3 +719,25 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: simple sentences — statements (SVO, SV) in the simple present and simple past; directives (line up, sit down, hands up) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.36 |
+| Year Four: a complete sentence vs a sentence fragment; the subject–predicate relationship | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.46 |
+| Unit 7: sentences and syntax — statement, question, exclamation and command sentences; subject and verb; complete sentences vs fragments and rambling sentences, and dividing a rambling sentence into shorter ones | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.43 |
+| Unit 4: sentences — a sentence expresses a complete thought, begins with a capital and ends with a full stop, question mark or exclamation mark; statement, question and exclamation types; the subject found by asking “who or what?” before the verb; incomplete sentences without subjects | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.35 |
+| Unit 8: sentence craft — constructing sentences to convey exact meaning; rewriting and re-punctuating rambling sentences | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.85–87 |
+| Appendix 2: grammar reference — word classes (the four main classes: nouns — proper, common, abstract, collective; verbs; adjectives; adverbs — and the functional classes: pronouns, prepositions, conjunctions, articles) and word groups, phrases, clauses and sentences (the placements name the targets parts-of-speech and phrase-clause-sentence, which have no lessons of those names; the word-classes half is stocked here in nouns and the groups-and-sentences half in building-a-sentence) | Samoa, English Year 13 (MESC 2004), printed pp.194–200 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Cooking Words
 
-countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea
+countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Culinary Terms (BTH) — cooking methods (grill, broil, barbecue, gratin, stir-fry, bake, roast, stew, caramelize, steam, sauté, toast, poach, microwave, simmer, scramble, glaze) and cooking action verbs (add, slice, drain, dice, pour, mix, beat, break, grease, carve, combine, knead, chop, measure, stir, mince, peel, dissolve, crush, whisk, weigh) (the book lists “Weight” as the verb for weigh, printed p. 36 — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 36–38 |
 | Gastronomy terms — picture grids of foods, drinks and cooking verbs | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 101 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 10 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa).** Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the cooking word sets — the Grade 11 culinary (BTH) spread and the compendium's gastronomy grids — with no lesson of their own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -143,3 +143,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: recipe format — ingredients and method (following the Coconut Toffee recipe at home) | Samoa, English Year 9 Book 1 (MESC 2004), printed p.26 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -413,8 +413,8 @@ the 2026-11-08 re-verification sweep.
 | Adverb Phrases — Form and use adjective phrases correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.11.1, PDF p.218 (curriculum evidence) |
 | Adjectives — Use comparatives forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.4.1, PDF p.209 (curriculum evidence) |
 | Using Qualifying Words-Adjectives — Use superlative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.5.1, PDF p.239 (curriculum evidence) |
-**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia, Samoa).** India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -871,3 +871,26 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: the seven parts of speech (noun, pronoun, adjective, verb, adverb, conjunction, preposition) with definitions and examples, plus the definite and indefinite articles — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.40–41 |
+| Unit 4: adjectives describing nouns, with thesaurus help to find interesting adjectives | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.41 |
+| Unit 7: parts of speech revision with a unit glossary of bold terms — nouns (common, proper, abstract, collective), adjectives before the noun, verbs and their tense forms (simple and continuous present and past, perfect, past perfect, future) | Samoa, English Year 10 Book 1 (MESC 2004), printed pp.44–48 |
+| Unit 2: brochures — persuasive and informative language for potential customers, contact details, bright, accurate and up-to-date; analysing a Palolo Deep marine-reserve brochure's adjectives and an accommodation brochure's opening questions and descriptive words (brilliant, turquoise, golden, shimmering) | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.17–20 |
+| Unit 8: parts of speech and articles revision (the seven parts of speech, plus the definite and indefinite articles placed just before a noun); identifying parts of speech in a set paragraph — the set is stocked in each kind's own lesson, as the placements pin it | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.82–84 |
+| Appendix 2: adjectives and adverbs in reference form — attributive (before the noun) vs predicative adjective placement; adverbs formed with –ly and –wise, compared with more/most (the placements name the targets describing-words-adjectives and describing-actions-adverbs; stocked in adjectives and adverbs) | Samoa, English Year 13 (MESC 2004), printed pp.196–197 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

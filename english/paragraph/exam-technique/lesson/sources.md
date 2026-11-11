@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -31,7 +31,7 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 14 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia, Jordan, Tanzania, Fiji, Tunisia, Samoa).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -170,3 +170,26 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 3:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: comprehension technique — close, careful reading; for multiple-choice questions, eliminating the answers that cannot be correct; a worked passage on Buenos Aires (the “obelisko”, a city “messy at the edges”) | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.70–73 |
+| Unit 10: revising literature — the dictionary definition of literature and the revision procedure for novels and short stories (everything in a short story counts) | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.95–96 |
+| Unit 15: exam revision — carrying out individual revision for the end-of-year examinations, each learner with their own method | Samoa, English Year 11 Book 2 (MESC 2004), printed p.114 |
+| Unit 1: close reading explained, and how it is assessed — question types (own-words answers, identifying language features, inference); using mark weighting and covering all bases when unsure | Samoa, English Year 12 (MESC 2004), printed pp.7–9 |
+| Unit 11: exam essay timing — two minutes to skim topics and discard the unknown; assessing a student essay (“People I Dislike”) for tone | Samoa, English Year 12 (MESC 2004), printed pp.122–125 |
+| Unit 20: course revision for examinations, including the literature checklist (write confidently, briefly, on plot, setting, characters and theme of the stories, poems, novel and plays studied) | Samoa, English Year 12 (MESC 2004), printed pp.171–173 |
+| Unit 9: command verbs in essay questions — a table of common verbs and action words with explanations of what each asks you to do | Samoa, English Year 13 (MESC 2004), printed p.76 |
+| Unit 15: genre differences and similarities across the year's studied forms; practical writing revision tasks (a band's tour itinerary; a fax or email to the manager of Aggie's Hotel) | Samoa, English Year 13 (MESC 2004), printed pp.174–175 |
+| Unit 15: revision method — the golden rules: a special revision timetable kept to, time planned per question from the mark allocation | Samoa, English Year 13 (MESC 2004), printed pp.175–176 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

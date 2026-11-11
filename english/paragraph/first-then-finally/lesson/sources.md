@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 35 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 36 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -553,3 +553,17 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Two: labelling, matching, picture sequencing and classifying; following simple instructions | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.32 |
+| Year Three: sequence words (first, second, next, last, then, after that) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.38 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

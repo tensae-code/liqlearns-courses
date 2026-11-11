@@ -1,6 +1,6 @@
 # Sources — Expressing Gratitude
 
-countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia
+countries: Mauritania, Egypt, Laos, Ethiopia, Barbados, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — the stronger forms: I'm grateful to you for…; that's really kind of you | Mauritania, Study English, Grade 8, printed pp.43–44; Grade 10, printed pp.33–34 |
 | Sub lesson 4 — the thank-you letter, to a whole family | Mauritania, Study English, Grade 10, printed pp.33–34 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Mauritania, Egypt, Laos, Ethiopia, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -84,3 +84,17 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year One: polite words in short dialogues (please, thank you) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.31 |
+| Year Seven: lexical phrases for special occasions — welcome, farewell, apology, thanking | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.74 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

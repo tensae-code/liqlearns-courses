@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji, Eritrea
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -43,8 +43,8 @@ verification sweep.
 | A mind map as note-making — the farmers'-market shopping mind map (when, where, with who, how can we get there, how much, shopping list) | China — English (PEP) Grade 6 Volume 2, Recycle, printed p.43 |
 | Note-making and reporting worked on a factual report text (About the Unit writing) | India — Flamingo (Class 12), Writing in Lost Spring (About the Unit), printed pp.21–22 |
 
-**Acceptance count: taught in 12 countries (India, Uzbekistan, Kuwait, South Africa, China,
-South Sudan, Sudan, Yemen, Nepal, Ethiopia, Fiji, Eritrea).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
+**Acceptance count: taught in 13 countries (India, Uzbekistan, Kuwait, South Africa, China,
+South Sudan, Sudan, Yemen, Nepal, Ethiopia, Fiji, Eritrea, Samoa).** Yemen joins with note-making from its Grade 9 newspaper articles (stocked 2026-11-11 by the re-verification sweep merge). India adds note-making and reporting worked on a factual report text in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). India teaches
 note-making as a five-step worked craft and sub-titling
 as its reader-facing twin; Uzbekistan cuts sentences to
 note form with the standard abbreviations; Kuwait writes
@@ -197,3 +197,26 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 5:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: researching a subject in the library — choosing a topic (e.g. the Mau movement, coral reefs, the matai system, diabetes prevention), gathering from non-fiction shelves, magazines and articles, and keeping a bibliography (title, author, date) | Samoa, English Year 9 Book 3 (Department of Education 2002), printed pp.12–14 |
+| Unit 4: prewriting — the planning stage: jotting ideas in no order, researching non-fiction, shaping an opening sentence; a worked example of prewriting an essay on eco-tourism in Sāmoa, then writing the same topic in different registers (a formal essay vs a tourist's expressive postcard) | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.38–40 |
+| Unit 5: a paired research project on an aspect of the natural or cultural environment — using books and other resources, keeping full bibliography entries for every extract | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.62–64 |
+| Unit 7: the research process — choosing a topic under the Conflict/Resolutions themes, brainstorming and circling key words, grouping linked ideas | Samoa, English Year 12 (MESC 2004), printed pp.58–60 |
+| Unit 7: recording sources accurately as you research (bibliography discipline) | Samoa, English Year 12 (MESC 2004), printed p.71 |
+| Unit 9: bibliographies — what a bibliography is and how sources are listed | Samoa, English Year 13 (MESC 2004), printed p.73 |
+| Unit 9: research for essays — analyse the question first, keep a clear focus, copy quotations inside quotation marks so borrowed words are known later, sort information into essay plans | Samoa, English Year 13 (MESC 2004), printed pp.77–79 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

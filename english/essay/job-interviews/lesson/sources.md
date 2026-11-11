@@ -1,6 +1,6 @@
 # Sources — Job interviews
 
-countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea
+countries: Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa
 
 Every part traces to its book and page. Libya is cited
 under its filing's standing note, copied below.
@@ -65,7 +65,7 @@ verification sweep.
 | Interview preparation written: prepare points/questions for a TV interview with your role model | India — Flamingo (Class 12), Writing in Going Places, printed p.87 |
 | Job interview questions and answers | Mongolia, English XI, Unit 2, printed p.35 |
 
-**Acceptance count: taught in 15 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
+**Acceptance count: taught in 16 countries (Cambodia, Egypt, Libya, Laos, Armenia, Mauritania, India, Mongolia, South Sudan, Sudan, Venezuela, Iraq, South Africa, Nepal, Eritrea, Samoa).** India joins with career-of-your-hobby writing in Class 10, and interview practice and preparation in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia prepares and
 practises the interview inside its job-seeking arc;
 Egypt names and states the STAR method whole; Libya
 works the interview's questions from behind, as reported
@@ -181,3 +181,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: “The Job Interview” — practical advice on preparing for and handling a job interview (the placements name the target job-interviews-and-business-english; this course's job-interview lesson is job-interviews) | Samoa, English Year 13 (MESC 2004), printed pp.13–14 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

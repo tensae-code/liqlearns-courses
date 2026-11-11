@@ -105,7 +105,9 @@ its own subtitle folder with its own lesson + questions):
   merge — **Unit 5, Conversation**) ·
   phone-numbers-and-personal-details ·
   friendships-and-relationships (added 2026-11-11 by the
-  Tunisia expansion merge — **Unit 5, Conversation**)
+  Tunisia expansion merge — **Unit 5, Conversation**) ·
+  group-discussion-skills (added 2026-11-11 by the
+  Samoa expansion merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -323,9 +325,15 @@ its own subtitle folder with its own lesson + questions):
   reading-comics-and-visual-narratives ·
   reading-visual-texts-and-static-images (added
   2026-11-11 by the Fiji expansion merge — **Unit 15,
-  Reading Whole Texts**)
+  Reading Whole Texts**) ·
+  library-skills · media-studies-newspapers ·
+  media-studies-magazines-and-brochures (added 2026-11-11
+  by the Samoa expansion merge — **Unit 15, Reading
+  Whole Texts**)
 - Essay → the-essay · opening-and-closing (built
-  2026-10-27 — **Unit 16, The Essay**)
+  2026-10-27 — **Unit 16, The Essay**) · the-writing-process
+  (added 2026-11-11 by the Samoa expansion merge —
+  **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·
   the-big-reading (built 2026-10-27 — **Unit 17, Stories**;
   with this, all 17 units of the English path are built) ·
@@ -372,6 +380,8 @@ play-scripts · radio-and-tv-programme-scripts (added
 2026-11-11 by the South Sudan re-verification sweep merge —
 **Unit 38, Speeches and Shows**) · studying-drama
 (added 2026-11-11 by the Fiji expansion merge —
+**Unit 38, Speeches and Shows**) · debating · film-study
+(added 2026-11-11 by the Samoa expansion merge —
 **Unit 38, Speeches and Shows**) · essay-kinds · advantages-and-disadvantages (added
 2026-11-11 by the Kazakhstan re-verification sweep merge —
 **Unit 39, Essays and Shortening**) · note-making · summarising ·
@@ -386,7 +396,9 @@ idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·
 ordering-words · similes · metaphors · homophones
 (added 2026-11-11 by the Fiji expansion merge —
-**Unit 43, Words About Words**) · Phonics → silent-letters ·
+**Unit 43, Words About Words**) · figurative-language ·
+words-and-how-they-change (added 2026-11-11 by the Samoa
+expansion merge — **Unit 43, Words About Words**) · Phonics → silent-letters ·
 the-three-sounds-of-ed · stress-and-intonation ·
 Alphabet → joined-up-writing.
 

@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea, Samoa
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -134,7 +134,7 @@ pictures).
 | Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
 | Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
-**Acceptance count: taught in 21 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea).**
+**Acceptance count: taught in 22 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea, Samoa).**
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -557,3 +557,17 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Four: phonics extension — initial and final consonant blends (black, milk, school; glass/grass), middle vowel sounds, long vs short vowels (bit/bite), clapping syllables, sound-stretching one-syllable words, rhyming words | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.46–47 |
+| Year Five: phonics — blends and clusters, diphthongs, silent letters, voiced and voiceless th, linking words in connected speech | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.55 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

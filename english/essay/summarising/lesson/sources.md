@@ -1,6 +1,6 @@
 # Sources — Summarising
 
-countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia
+countries: India, Mauritania, Sudan, South Sudan, Malaysia, Ghana, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
 Scheme of Work, and confirmed by the pupil's-book read of
@@ -72,7 +72,7 @@ PASSED 2026-11-06).
 | Paraphrasing named in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Précis writing as the unit's writing work | Pakistan, *English 12*, Unit 11, printed pp.84–87 (unit range) |
 
-**Acceptance count: taught in 19 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia).** India
+**Acceptance count: taught in 20 countries (India, Mauritania, Sudan, South Sudan, Malaysia, Mongolia, Pakistan, Palestine, Sierra Leone, Iraq, Vietnam, South Africa, Kazakhstan, Nepal, Ecuador, Ethiopia, Fiji, Eritrea, Tunisia, Samoa).** India
 defines the summary as selection plus paraphrase under
 the one-third rule; Mauritania drills the paragraph
 label; Sudan works the 30-word model and states the four
@@ -321,3 +321,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3: analysing questionnaire results — correlating answers, writing an analysis with figures (“8 out of 10 people…”) and a concluding paragraph summing up findings in 3–4 sentences | Samoa, English Year 10 Book 2 (MESC 2004), printed p.23 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

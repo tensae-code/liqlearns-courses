@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Barbados, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Barbados, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa
 Every part traces to its book and page.
 
 **Book 1:** Academy Stars — Year 6 — Pupil's Book —
@@ -99,7 +99,7 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 20 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia).** Libya joins with reading a diary entry about past events (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 21 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa, Kazakhstan, Libya, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa).** Libya joins with reading a diary entry about past events (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -376,3 +376,23 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: making a scrapbook about yourself — photos with captions and personal details | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.6–7 |
+| Unit 6: diaries — a daily, first-person, private record of events, thoughts and feelings; *The Diary of Anne Frank* as the famous published diary | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.37 |
+| Unit 6: reading a diary-form novel — the opening entries of *Leaving One Foot Island* by Graeme Lay (Tuaine, sent from the Cook Islands to school in Auckland) with comprehension questions | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.37–38 |
+| Unit 4: diary study — entries from *Leaving One Foot Island* (Tuaine homesick in Auckland): identifying diary features, then writing an extra diary entry in her voice | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.28–32 |
+| Unit 1: an imaginative response — a journal written as Tania or Jim Lee; a self-test “How well did you read and understand?”; novel vocabulary used in own sentences with parts of speech noted | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.15–18 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -91,7 +91,7 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 18 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 19 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -550,3 +550,30 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (© Government of Sāmoa 2001, reprinted 2004); ISBN 982-517-002-6; adviser Graeme Lay; 72 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 2:** *English Year 10 Book Two* (student's book) — Government of Sāmoa, Ministry of Education, Sports and Culture (title page), 2004; 52 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 11 Book 1* (student's book) — Sāmoa, Department of Education, 2003; themes: Relationships / My World; 120 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 6:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: imaginative writing in character — writing as a character in the first person, using mainly simple sentences plus a compound sentence, adjectives for person and place, varied sentence beginnings and strong verbs | Samoa, English Year 9 Book 1 (MESC 2004), printed p.42 |
+| Unit 8: story analysis — plot lines explained in own words, identifying the theme, and writing in role (a police report as the Reverend; a feelings piece as Moe) | Samoa, English Year 9 Book 1 (MESC 2004), printed pp.53–55 |
+| Unit 2: story structure work — completing statements about plot and the other story elements | Samoa, English Year 10 Book 2 (MESC 2004), printed p.12 |
+| Unit 2: writing an own short story (500–600 words) with plot, characters, setting and climax, in the first or third person; and a story from an own funny bus-travel experience, drafted then corrected into a good copy | Samoa, English Year 10 Book 2 (MESC 2004), printed pp.17–19 |
+| Unit 3: the short story “Ma'a” (plot summary only: Ma'a, whose home erupts in screaming, thrown objects and breaking glass when the police come, struggles within a cruel family while education offers her a way to face its problems); character adjectives, two conflicts, and a theme choice with justification | Samoa, English Year 11 Book 1 (Department of Education 2003), printed pp.27–29 |
+| Unit 1: a novel analysis framework — plot (noting important events while reading), setting (time and place), drawing a map of Unimak Island, characters (four main characters), quotations as evidence, comprehension, and judging five possible themes | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.8–14 |
+| Unit 3: a comparative story framework — filling one framework of setting, narrative, characters and theme for all four stories; group publishing of a class collection of short stories | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.55–57 |
+| Unit 3: choosing the narrative voice — the first person puts the narrator's voice at the centre; the third person stands back | Samoa, English Year 12 (MESC 2004), printed p.38 |
+| Unit 10: Joseph Conrad's description of a ship on fire at sea analysed as a writing style — the passage framed by night and rising-sun time references, and what that framing means | Samoa, English Year 13 (MESC 2004), printed pp.85–87 |
+| Unit 11: “The Doll's House” by Katherine Mansfield, reprinted with an author biography and a critical discussion — the Burnell children, Kezia and the lamp, the Kelveys' exclusion, and class in the story (the placements name the second target character-in-stories; this course's character-study lesson is story-techniques) | Samoa, English Year 13 (MESC 2004), printed pp.97–105 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

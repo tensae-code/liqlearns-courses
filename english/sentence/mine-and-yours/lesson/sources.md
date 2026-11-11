@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -205,7 +205,7 @@ re-verification sweep.
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
-**Acceptance count: taught in 38 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 39 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -685,3 +685,16 @@ Book error E2, carried: the Year 7 Module 3 Section 4 folios in part file P03 re
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: pronouns — personal pronouns (I, me, we, us, you, they, them, he, she, her) and possessive pronouns (mine, yours, theirs, his, hers, its, ours); replacing repeated nouns with pronouns | Samoa, English Year 9 Book 3 (Department of Education 2002), printed p.43 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -186,8 +186,8 @@ verification sweep.
 | Apply vocabulary appropriately in specific contexts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.3.1, PDF p.58 (curriculum evidence) |
 | Use vocabulary appropriately in speaking and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.3.1, PDF p.91 (curriculum evidence) |
 
-**Acceptance count: taught in 25 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji, Eritrea).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
+**Acceptance count: taught in 26 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji, Eritrea, Samoa).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -380,3 +380,32 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 9 Book 2* (student's book) — Sāmoa, Department of Education, 2002; adviser Graeme Lay; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 3:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 4:** *English Year 10 Book Three* (student's book) — Sāmoa, Department of Education, 2002 (NZAID); 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 5:** *English Year 11 Book 2* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2003, reprinted 2004); ISBN 982-517-044-1; themes: Other Worlds / Getting It Together; 116 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+**Book 6:** *English Year 12* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Graeme Lay; themes: Conflict and Resolutions / Choices and Consequences; 174 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+**Book 7:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Five: working out unknown words from word parts and association (happy/unhappy, care/careless, bath/bathroom); known letter clusters in unknown words | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.56 |
+| Year Seven: context-specific word meanings (e.g. a word's technical meaning in Science or Social Science vs its common meaning) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.74 |
+| Unit 2: novel vocabulary — ten key words (albatross, boar, bonito, cannibal, courageous, current, idol, reef, tentacle, volcano) matched to meanings | Samoa, English Year 9 Book 2 (Department of Education 2002), printed p.17 |
+| Unit 3: an excitement line graph and key-word vocabulary for the novel (albino, copra, curse, demon, foundling, hurricane, legend, machete, mangroves, superstitious) | Samoa, English Year 9 Book 2 (Department of Education 2002), printed pp.22–23 |
+| Unit 3: novel study of *Treasure Island* by Robert Louis Stevenson — key-word vocabulary used in story sentences (cabin-boy, inn, mast, mutiny, mutineer, pirate, rum, squire, stockade) | Samoa, English Year 10 Book 1 (MESC 2004), printed p.15 |
+| Unit 1: a Hawaiian legend (Kaua and Haka's wife) (plot summary only: the magician Kapi's birds recapture Haka's wife; Kaua, grown spider-thin and sky-tall by his grandmother's spells and feeding, rescues her and tears the mountaintop into the rocks of Kaua); vocabulary found from meanings in the story | Samoa, English Year 10 Book 3 (Department of Education 2002), printed pp.11–14 |
+| Unit 6: choosing the correct meaning of a word from alternatives (chaperone, gristle…) | Samoa, English Year 10 Book 3 (Department of Education 2002), printed p.47 |
+| Unit 1: an imaginative response — a journal written as Tania or Jim Lee; a self-test “How well did you read and understand?”; novel vocabulary used in own sentences with parts of speech noted | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.15–18 |
+| Unit 1: theme vocabulary — kinds and levels of conflict (tiff, disagreement, quarrel, feud, brawl, riot, civil war…) ordered by seriousness with dictionary help, and classifying conflicts as cultural, domestic, political, ideological, environmental, sporting, moral or racial, with resolutions | Samoa, English Year 12 (MESC 2004), printed p.6 |
+| Unit 2: one-word answers — giving the single word for definitions (“ships are loaded here: quay” style) | Samoa, English Year 13 (MESC 2004), printed pp.19–20 |
+| Unit 4: field vocabulary — collecting four terms for each of three chosen sports | Samoa, English Year 13 (MESC 2004), printed p.32 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Asking for Clarification and Repetition
 
-countries: Mauritania, Vietnam, Barbados, Afghanistan, Cyprus, Eritrea
+countries: Mauritania, Vietnam, Barbados, Afghanistan, Cyprus, Eritrea, Samoa
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — repetition and spelling repair: say it again; how do you spell…? | Mauritania, Study English, Grade 7, printed pp.30–32 |
 | Sub lesson 3 — meaning repair: what does it mean; I beg your pardon | Mauritania, Study English, Grade 7, printed pp.30–32 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Vietnam, Afghanistan, Cyprus, Eritrea).** Cyprus joins with its help phrases — 'How do you spell…?', 'I don't understand', 'Can you help me, please?' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 6 countries (Mauritania, Vietnam, Afghanistan, Cyprus, Eritrea, Samoa).** Cyprus joins with its help phrases — 'How do you spell…?', 'I don't understand', 'Can you help me, please?' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -86,3 +86,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Three: interpersonal functions — introductions and farewells, expressing likes, dislikes and needs, asking permission, making and accepting apologies, asking for help, indicating non-understanding, stating an opinion | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.41 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Recount Text
 
-countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia
+countries: Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — writing a recount text | Indonesia, English for Nusantara Grade 9, printed p.119 |
 | Sub lesson 3 — a recount of a sports event, as the kind's public model | Indonesia, Work in Progress Grade 10, Chapter 2, printed p.29 |
 
-**Acceptance count: taught in 8 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 9 countries (Indonesia, Egypt, Nepal, Ethiopia, Saudi Arabia, Fiji, Eritrea, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the recount taught as a named kind in three of them, carried before only as one line of Process Writing's genre spine; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Indonesia's Grade 5 and Grade 6 retelling performances stay in Telling a Story Back, which teaches the spoken move; this lesson teaches the written kind. Other countries' recount teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 narrative paragraph (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -135,3 +135,18 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+**Book 2:** *English Year 13* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, 2004; author Emma Kruse Vaai; 242 pp. Printed page = PDF page − 1. Read at unit depth in the 2026-11-10 expansion read (see the depth note above).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year Four: features of familiar text types — the recount (past tense, I) among stories and instructions | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.49 |
+| Unit 11: “An Immigrant's Tale” by Tapu Misa — a memoir-essay of Sāmoan migration to New Zealand (cousins packing suitcases for Ponsonby, a large Palagi-style home, a mother determined not to leave any children behind), studied as personal writing (the placements name the second target recounts-and-biography; this course's personal-recount lesson is recount-text) | Samoa, English Year 13 (MESC 2004), printed pp.122–125 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

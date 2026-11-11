@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — preferences: prefer + noun/-ing, like, enjoy + -ing, 'd rather + base verb; prefer X to Y | Mauritania, Study English, Grade 13, printed pp.32–34 |
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
-**Acceptance count: taught in 9 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 10 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -145,3 +145,17 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year One: formulaic exchanges of greetings, feelings, likes and dislikes | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.31 |
+| Year Three: interpersonal functions — introductions and farewells, expressing likes, dislikes and needs, asking permission, making and accepting apologies, asking for help, indicating non-understanding, stating an opinion | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.41 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

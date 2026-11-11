@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -59,8 +59,8 @@ verification sweep.
 | The formal letter in the Young Boy's Adventure unit | Pakistan, *English 7*, Unit 10 (contents) |
 | Formal letters set against informal letters, worked on the survey report's letter — addressed to the Managing Director, PCTB, though its rubric names the Director of Education (the book's own mismatch, noted) | Pakistan, *English 8*, printed p.122 |
 
-**Acceptance count: taught in 17 countries (Greece,
-Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
+**Acceptance count: taught in 18 countries (Greece,
+Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
 reference before its course begins; Sudan opens its final
 book with official/business letters and later sets formal
 against informal in one writing lesson; Laos diagrams the
@@ -341,3 +341,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Year 10 Book Three* (student's book) — Sāmoa, Department of Education, 2002 (NZAID); 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4: formal vs informal letter language — complete sentences, set greeting and sign-off patterns, strict punctuation and personal details in formal letters vs slang, fragments and casual address in informal ones; a formal letter example | Samoa, English Year 10 Book 3 (Department of Education 2002), printed pp.41–42 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.

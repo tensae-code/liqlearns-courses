@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa
 
 Every part traces to its book and page.
 
@@ -385,9 +385,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 41 countries (Egypt, India,
+**Acceptance count: taught in 42 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -870,3 +870,18 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 11 books: ten student's books (Years 9–13) plus the *English Years 1–8 Primary School Curriculum* statement — every file byte-matched to its record before reading. 416 teaching items were placed fresh from the books; Sāmoa had no presence in the course before, so all 416 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it and as every Sāmoa section states: the curriculum statement and the Year 9–11 books were read page by page in full from full text extraction; the two senior books (Year 12, 174 pp.; Year 13, 242 pp.) were read at unit depth — every unit introduction, activity heading, language and grammar section and model text read, every comprehension passage identified from its questions and framing text, and the long reprinted literary texts inside them read for their teaching apparatus rather than line by line as literature. Book A is a curriculum statement, not a pupil textbook: its rows rest on the statement's attainment targets and are cited as curriculum evidence of that kind; every other row rests on a student's book. In Books B–K the printed page = PDF page − 1; in Book A the printed page = the PDF page. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *English Years 1–8 — Primary School Curriculum* (curriculum statement) — Sāmoa, Curriculum Materials and Assessment Division (CMAD), Ministry of Education, Sports and Culture, January 2013; ISBN 978-982-517-091-4; written by Anne Leauga; 90 pp. A curriculum statement, not a pupil textbook: the rows resting on it cite its attainment targets and are curriculum evidence of that kind. Printed page = PDF page. Years 1–2 carry Listening & Speaking / Interpersonal pages only; the three-strand structure begins at Year 3 (bilingual policy). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Year One: word sets met in rhymes, songs and classroom talk — numbers, colours, shapes, and classroom and school objects (desk, chair, blackboard, window; balls, bats, swing) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.31 |
+| Year Two: counting in words to 20 and quantity phrases (one taro, two taro) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed p.32 |
+| Year Three: the core word sets (personal details, health, body parts, family, time, colours, shapes, numbers, home, school and environment objects, actions), and the statement's vocabulary ladder: 300 frequent words at Year 3, rising to 500 (Year 4), 850 (Year 5), 1,000 (Year 6), 1,200 (Year 7) and 1,500 (Year 8) | Samoa, Primary Curriculum Statement Years 1–8 (CMAD 2013), printed pp.36–38 |
+
+Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
