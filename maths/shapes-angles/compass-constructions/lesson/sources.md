@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco
 
 Every part traces to its book and page.
 
@@ -278,3 +278,22 @@ Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (
 Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 7: on geometric drawings; perpendicular bisector of a segment; constructions with compass and ruler; examples of construction problems.
 
 South Sudan enters through its primary books: constructing parallel lines in Primary 5 (§3.1, printed p. 46) and constructing a circle of a given radius in Primary 6 (§3.3, printed p. 43).
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 4 teacher-evidence items from 2 of the guides (Book 23, Book 24; Grades 6).
+
+**Book 23:** *Le Monde des Maths 6, Guide de l'enseignant(e), 6e année primaire* (teacher guide, Grade 6, French) — Morocco, Dar Attakafa (Casablanca); 7,986,682 bytes, 300 PDF pages. Items are its 32 numbered lessons, printed pp. from its Table des matières. TEACHER EVIDENCE ONLY.
+
+**Book 24:** *L'Explicite en Maths 6e, Guide pédagogique* (Grade 6) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 8,497,260 bytes, 120 PDF pages. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 6 programme, corresponding to Book 23 with the series' own additions (an interest sheet; a powers sheet). TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Geometrical constructions, first stage (Monde des Maths 6 guide, lesson 15) | Morocco — *Le Monde des Maths 6, Guide de l'enseignant(e), Grade 6* (teacher guide) — teacher evidence, printed p. 185 |
+| Geometrical constructions, second stage (Monde des Maths 6 guide, lesson 19) | Morocco — *Le Monde des Maths 6, Guide de l'enseignant(e), Grade 6* (teacher guide) — teacher evidence, printed p. 211 |
+| Geometrical constructions, first stage (Explicite 6e guide) | Morocco — *L'Explicite en Maths 6e, Guide pédagogique, Grade 6* (teacher guide) — teacher evidence, printed p. 44 |
+| Geometrical constructions, second stage (Explicite 6e guide) | Morocco — *L'Explicite en Maths 6e, Guide pédagogique, Grade 6* (teacher guide) — teacher evidence, printed p. 78 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.

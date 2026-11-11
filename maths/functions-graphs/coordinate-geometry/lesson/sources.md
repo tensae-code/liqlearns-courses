@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam, Nepal, Pakistan, Yemen
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam, Nepal, Pakistan, Yemen, Morocco
 
 Every part traces to its book and page.
 
@@ -326,3 +326,17 @@ Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyri
 Armenia enters through its Geometry 11; Geometry 8. From its books: distance formula between two points; coordinates of a segment's midpoint; distance between points given by coordinates; applying coordinates in solving geometry problems; equation of a line; equation of a circle.
 
 Egypt enters through its Prep and Secondary books, stocked by the 2026-11-08 re-verification sweep: the distance between two points in Prep 2's new Term 2 book; midpoint, section division and slope in Prep 3's old-series Term 1 book; slope and the line's equation in Prep 3's new-curriculum book; and analytic geometry with the vector, parametric and Cartesian forms of the line in Secondary 1 Term 2.
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 1 teacher-evidence item from 1 of the guides (Book 25; Grades 9).
+
+**Book 25:** *Al Moufid, Guide de l'enseignant(e), 3ème année du cycle secondaire collégial* (3AC = Grade 9, BIOF) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 5,252,673 bytes, 215 PDF pages. Items are the distinct topics of the 3AC distribution (printed p. 92 in the shared programme chapter read in this guide). TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Analytic geometry — coordinates and the equation of a line (Al Moufid 3AC guide) | Morocco — *Al Moufid, Guide de l'enseignant(e), 3AC, Grade 9* (teacher guide) — teacher evidence, printed p. 92 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan, Syria, Yemen
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait, Nepal, South Sudan, Syria, Yemen, Morocco
 
 Every part traces to its book and page.
 
@@ -186,3 +186,20 @@ Armenia enters through its Algebra 7. From its books: factorising a polynomial; 
 Kuwait enters as workbook evidence only — polynomial functions and solving polynomial equations in the Grade 11 Term 1 exercise workbook (scientific track), Unit 3 — Polynomials, printed pp. 41 and 49; the Grade 11 Term 1 student book is not in hand, and the workbook is never cited as it. Stocked 2026-11-11 by the Kuwait re-verification sweep merge.
 
 South Sudan enters through its Secondary 1 student's book: factorising algebraic expressions (Unit 4, printed p. 99).
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 2 teacher-evidence items from 2 of the guides (Book 6, Book 25; Grades 7, 9).
+
+**Book 6:** *Al Moufid, Guide de l'enseignant(e), 1ère année du cycle secondaire collégial* (1AC = Grade 7, BIOF) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 3,742,780 bytes, 173 PDF pages. Chapters 1–2 are method framework (excluded in the placements); items are the distinct topics of the 1AC programme distribution (printed p. 73). TEACHER EVIDENCE ONLY.
+
+**Book 25:** *Al Moufid, Guide de l'enseignant(e), 3ème année du cycle secondaire collégial* (3AC = Grade 9, BIOF) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 5,252,673 bytes, 215 PDF pages. Items are the distinct topics of the 3AC distribution (printed p. 92 in the shared programme chapter read in this guide). TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expanding and factorising simple algebraic expressions (Al Moufid 1AC guide) | Morocco — *Al Moufid, Guide de l'enseignant(e), 1AC, Grade 7* (teacher guide) — teacher evidence, printed p. 73 |
+| Numerical calculation: notable identities and powers (Al Moufid 3AC guide) | Morocco — *Al Moufid, Guide de l'enseignant(e), 3AC, Grade 9* (teacher guide) — teacher evidence, printed p. 92 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.

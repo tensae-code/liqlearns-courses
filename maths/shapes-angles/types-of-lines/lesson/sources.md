@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, Morocco
 
 Every part traces to its book and page.
 
@@ -333,3 +333,35 @@ China enters through its Grade 7 Volume 2 （下册） book — the whole of Cha
 Greece enters through its Ευκλείδεια Γεωμετρία (Euclidean Geometry), Τόμος Α for Grade 10 — Chapter 4 opens the theory of parallels: the transversal of two lines with Euclid's postulate, and the construction of a line parallel to a given line (rows stocked by the 2026-11-08 re-verification sweep).
 
 South Sudan enters through its primary books: line patterns in Primary 1 (§3.1, body printed pp. 104–105) and intersecting, perpendicular and parallel lines in Primary 4 (§§3.1–3.3, printed pp. 60–61).
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 7 teacher-evidence items from 7 of the guides (Book 6, Book 7, Book 10, Book 23, Book 24, Book 27, Book 28; Grades 3, 6, 7, 8).
+
+**Book 6:** *Al Moufid, Guide de l'enseignant(e), 1ère année du cycle secondaire collégial* (1AC = Grade 7, BIOF) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 3,742,780 bytes, 173 PDF pages. Chapters 1–2 are method framework (excluded in the placements); items are the distinct topics of the 1AC programme distribution (printed p. 73). TEACHER EVIDENCE ONLY.
+
+**Book 7:** *Al Moufid, Guide de l'enseignant(e), 2ème année du cycle secondaire collégial* (2AC = Grade 8, BIOF) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 808,839 bytes, 93 PDF pages. Items are the distinct topics of the 2AC distribution, printed p. 82 in the shared programme chapter read in this guide. TEACHER EVIDENCE ONLY.
+
+**Book 10:** *المرجع في الرياضيات (Al Marjie fi al-Riyadiyat), دليل الأستاذة والأستاذ* (teacher guide, Grade 3, Arabic) — Morocco, Dar Attakafa (Casablanca); 18,309,585 bytes, 351 PDF pages. Its contents (read from rendered pages — legacy font encoding) list 32 numbered lessons in 6 units, the Grade 3 programme. TEACHER EVIDENCE ONLY.
+
+**Book 23:** *Le Monde des Maths 6, Guide de l'enseignant(e), 6e année primaire* (teacher guide, Grade 6, French) — Morocco, Dar Attakafa (Casablanca); 7,986,682 bytes, 300 PDF pages. Items are its 32 numbered lessons, printed pp. from its Table des matières. TEACHER EVIDENCE ONLY.
+
+**Book 24:** *L'Explicite en Maths 6e, Guide pédagogique* (Grade 6) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 8,497,260 bytes, 120 PDF pages. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 6 programme, corresponding to Book 23 with the series' own additions (an interest sheet; a powers sheet). TEACHER EVIDENCE ONLY.
+
+**Book 27:** *Le Monde des Maths 3, Guide de l'enseignant(e), 3e année primaire* (teacher guide, Grade 3, French) — Morocco, Dar Attakafa (Casablanca); 6,204,899 bytes. Items are its 32 numbered lessons — printed pp. from its Table des matières where printed, later units by sequence; the Grade 3 programme, corresponding to Book 10. TEACHER EVIDENCE ONLY.
+
+**Book 28:** *L'Explicite en Maths CE2, Guide pédagogique* (CE2 = Grade 3) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 8,578,274 bytes. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 3 programme, corresponding to Books 10 and 27. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Two parallel lines cut by a transversal (Al Moufid 1AC guide) | Morocco — *Al Moufid, Guide de l'enseignant(e), 1AC, Grade 7* (teacher guide) — teacher evidence, printed p. 73 |
+| Remarkable lines in the triangle/plane — perpendicular bisector and related lines (Al Moufid 2AC guide, 2AC distribution) | Morocco — *Al Moufid, Guide de l'enseignant(e), 2AC, Grade 8* (teacher guide) — teacher evidence, 2AC distribution, printed p. 82 |
+| Geometrical shapes: parallelism and perpendicularity (Al Marjie Grade 3 guide (Arabic), lesson 3) | Morocco — *Al Marjie fi al-Riyadiyat (المرجع في الرياضيات), teacher's guide, Grade 3 (Arabic)* (teacher guide) — teacher evidence, printed p. 105 |
+| Parallel lines and perpendicular lines (Monde des Maths 6 guide, lesson 2) | Morocco — *Le Monde des Maths 6, Guide de l'enseignant(e), Grade 6* (teacher guide) — teacher evidence, printed p. 90 |
+| Parallelism and perpendicularity: geometrical constructions (Explicite 6e guide) | Morocco — *L'Explicite en Maths 6e, Guide pédagogique, Grade 6* (teacher guide) — teacher evidence, printed p. 34 |
+| Geometrical shapes: parallel and perpendicular lines (Monde des Maths 3 guide, lesson 3) | Morocco — *Le Monde des Maths 3, Guide de l'enseignant(e), Grade 3* (teacher guide) — teacher evidence, printed p. 83 |
+| Geometrical figures: parallelism and perpendicularity (Explicite CE2 guide) | Morocco — *L'Explicite en Maths CE2, Guide pédagogique, Grade 3* (teacher guide) — teacher evidence, printed p. 36 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.

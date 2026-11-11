@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco
 
 Every part traces to its book and page.
 
@@ -887,3 +887,49 @@ Tanzania enters through the pupil's book of its Tanzania Institute of Education 
 Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 7; Geometry 10: ray; angle; comparing angles; measuring angles; units of angle measurement; measuring tools; adjacent and vertical angles; classifying angles; perpendicular lines; exterior angle of a triangle; criteria of parallelism of lines; theorems on angles formed by two parallel lines and a transversal; sum of a triangle's angles.
 
 Egypt's stock in this lesson is completed by the same sweep: angles formed by the intersection of two straight lines and a transversal, in Secondary 1 Term 1.
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 13 teacher-evidence items from 11 of the guides (Book 2, Book 5, Book 10, Book 19, Book 20, Book 22, Book 23, Book 24, Book 27, Book 28, Book 31; Grades 2, 3, 5, 6).
+
+**Book 2:** *Le Monde des Maths 2, Guide de l'enseignant(e), 2e année primaire* (teacher guide, Grade 2, French) — Morocco, Dar Attakafa (Casablanca); 9,555,550 bytes. Same collection and July-2020 revised programme as Book 1; items are its 32 numbered lessons — printed pp. from its Table des matières where the sommaire prints them, later lessons cited by sequence (seq.). TEACHER EVIDENCE ONLY.
+
+**Book 5:** *L'Explicite en Maths CE1, Guide pédagogique* (CE1 = Grade 2) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 18,580,797 bytes. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 2 programme corresponding to Book 2. TEACHER EVIDENCE ONLY.
+
+**Book 10:** *المرجع في الرياضيات (Al Marjie fi al-Riyadiyat), دليل الأستاذة والأستاذ* (teacher guide, Grade 3, Arabic) — Morocco, Dar Attakafa (Casablanca); 18,309,585 bytes, 351 PDF pages. Its contents (read from rendered pages — legacy font encoding) list 32 numbered lessons in 6 units, the Grade 3 programme. TEACHER EVIDENCE ONLY.
+
+**Book 19:** *المفيد في الرياضيات (Al Moufid fi al-Riyadiyat), دليل الأستاذة والأستاذ* (teacher guide, Grade 5, Arabic) — Morocco, Dar Attakafa (Casablanca); 70,552,470 bytes, 330 PDF pages; new edition September 2020, ministry approval serial 515220 (3 Aug 2020). Its contents list 32 numbered lessons in 6 units, read from rendered pages (legacy font encoding). TEACHER EVIDENCE ONLY.
+
+**Book 20:** *L'Explicite en Maths CM2, Guide pédagogique* (CM2 = Grade 5) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 7,455,488 bytes, 122 PDF pages. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 5 programme, corresponding topic-for-topic to Book 19. TEACHER EVIDENCE ONLY.
+
+**Book 22:** *Le Monde des Maths 5, Guide de l'enseignant(e), 5e année primaire* (teacher guide, Grade 5, French) — Morocco, Dar Attakafa (Casablanca); 7,773,818 bytes, 256 PDF pages. Items are its 32 numbered lessons, cited by sequence from its Table des matières. TEACHER EVIDENCE ONLY.
+
+**Book 23:** *Le Monde des Maths 6, Guide de l'enseignant(e), 6e année primaire* (teacher guide, Grade 6, French) — Morocco, Dar Attakafa (Casablanca); 7,986,682 bytes, 300 PDF pages. Items are its 32 numbered lessons, printed pp. from its Table des matières. TEACHER EVIDENCE ONLY.
+
+**Book 24:** *L'Explicite en Maths 6e, Guide pédagogique* (Grade 6) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 8,497,260 bytes, 120 PDF pages. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 6 programme, corresponding to Book 23 with the series' own additions (an interest sheet; a powers sheet). TEACHER EVIDENCE ONLY.
+
+**Book 27:** *Le Monde des Maths 3, Guide de l'enseignant(e), 3e année primaire* (teacher guide, Grade 3, French) — Morocco, Dar Attakafa (Casablanca); 6,204,899 bytes. Items are its 32 numbered lessons — printed pp. from its Table des matières where printed, later units by sequence; the Grade 3 programme, corresponding to Book 10. TEACHER EVIDENCE ONLY.
+
+**Book 28:** *L'Explicite en Maths CE2, Guide pédagogique* (CE2 = Grade 3) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 8,578,274 bytes. Items are its 32 lesson sheets, printed pp. from its Sommaire — the Grade 3 programme, corresponding to Books 10 and 27. TEACHER EVIDENCE ONLY.
+
+**Book 31:** *المرجع في الرياضيات (Al Marjie fi al-Riyadiyat), دليل الأستاذ(ة)* (teacher guide, Grade 2, Arabic) — Morocco, Dar Attakafa (Casablanca); 55,959,139 bytes, 393 PDF pages. Items are the distinct rows of its yearly programme table (guide printed pp. 48–50, read from rendered pages), which states the Grade 2 content by domain with learning objectives — a coarser grain than the lesson-by-lesson guides, as the placements declare. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The right angle (Monde des Maths 2 guide, lesson 29, seq.) | Morocco — *Le Monde des Maths 2, Guide de l'enseignant(e), Grade 2* (teacher guide) — teacher evidence, cited by sequence (seq. — the sommaire prints no folio) |
+| The right angle (Explicite CE1 guide) | Morocco — *L'Explicite en Maths CE1, Guide pédagogique, Grade 2* (teacher guide) — teacher evidence, printed p. 102 |
+| Angles (Al Marjie Grade 3 guide (Arabic), lesson 7) | Morocco — *Al Marjie fi al-Riyadiyat (المرجع في الرياضيات), teacher's guide, Grade 3 (Arabic)* (teacher guide) — teacher evidence, printed p. 131 |
+| Angles: the concept of angle and using the protractor (Al Moufid Grade 5 guide (Arabic), lesson 2) | Morocco — *Al Moufid fi al-Riyadiyat (المفيد في الرياضيات), teacher's guide, Grade 5 (Arabic)* (teacher guide) — teacher evidence, printed p. 106 |
+| Angles: the notion of degree and using the protractor in constructions (Explicite CM2 guide) | Morocco — *L'Explicite en Maths CM2, Guide pédagogique, Grade 5* (teacher guide) — teacher evidence, printed p. 34 |
+| Angles: definition, measuring, constructing (Monde des Maths 5 guide, lesson 2, seq.) | Morocco — *Le Monde des Maths 5, Guide de l'enseignant(e), Grade 5* (teacher guide) — teacher evidence, cited by sequence (seq. — the sommaire prints no folio) |
+| Angles: the bisector of an angle (Monde des Maths 6 guide, lesson 14) | Morocco — *Le Monde des Maths 6, Guide de l'enseignant(e), Grade 6* (teacher guide) — teacher evidence, printed p. 179 |
+| Relations between the angles of the usual geometrical figures (Monde des Maths 6 guide, lesson 27) | Morocco — *Le Monde des Maths 6, Guide de l'enseignant(e), Grade 6* (teacher guide) — teacher evidence, printed p. 256 |
+| Angles: the bisector of an angle (Explicite 6e guide) | Morocco — *L'Explicite en Maths 6e, Guide pédagogique, Grade 6* (teacher guide) — teacher evidence, printed p. 54 |
+| Relations between the angles of the usual geometrical figures (Explicite 6e guide) | Morocco — *L'Explicite en Maths 6e, Guide pédagogique, Grade 6* (teacher guide) — teacher evidence, printed p. 98 |
+| Angles (Monde des Maths 3 guide, lesson 7) | Morocco — *Le Monde des Maths 3, Guide de l'enseignant(e), Grade 3* (teacher guide) — teacher evidence, printed p. 99 |
+| Angles (Explicite CE2 guide) | Morocco — *L'Explicite en Maths CE2, Guide pédagogique, Grade 3* (teacher guide) — teacher evidence, printed p. 46 |
+| The right angle (Al Marjie Grade 2 guide (Arabic)) | Morocco — *Al Marjie fi al-Riyadiyat (المرجع في الرياضيات), teacher's guide, Grade 2 (Arabic)* (teacher guide) — teacher evidence, printed p. 50 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.

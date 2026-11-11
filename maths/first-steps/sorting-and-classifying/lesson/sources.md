@@ -1,6 +1,6 @@
 # Sources — Sorting and Classifying
 
-countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia, South Africa, Sierra Leone, Libya, Jordan, Iran, South Sudan
+countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia, South Africa, Sierra Leone, Libya, Jordan, Iran, South Sudan, Morocco
 
 Every part traces to its book and page.
 
@@ -89,3 +89,26 @@ Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-gr
 Armenia enters through its Mathematics 1, Part 1 (student textbook-notebook, 2025). From its books: an object (what counts as an object; naming objects around you); comparing objects by colour (same colour / different colour); comparing objects by kind (same kind / different kind).
 
 South Sudan enters through its Primary 1 pupil's book, whose first section is sorting, grouping and matching by colour, shape, size and texture (§1.1, printed pp. 2–19).
+
+## Morocco added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Morocco's whole in-hand Maths set from the PDFs — **32 books, all of them teacher guides or teacher editions (Dar Attakafa, Casablanca); 0 pupil (student) books** — and placed 610 teaching items. No Moroccan pupil maths textbook is in hand: the pupil's books are commercial print, and the library's systematic free shelf is Dar Attakafa's teacher-guide library. Every Morocco item in this section is therefore TEACHER EVIDENCE — a guide states the pupil book's lesson, its content and its order — cited as the evidence kind it is; Morocco is counted in NO lesson's taught-in figure, on the standing Ghana evidence-only precedent, until Moroccan pupil books are in hand and read. Set reconciliation, as the placements prove it: the 32 are distinct works (Le Monde des Maths ×6, L'Explicite en Maths ×6, Al Moufid primary ×3, Al Marjie primary ×2, Al Moufid collège ×3, Switch On! guides ×6, Switch On! Every Day booklets ×6; French 27 books, Arabic 5); textbooks.tsv carries only 28 of the 32 — a library-record gap, reported here and not edited (merges never edit the records). The primary guides all teach the one official revised programme (July 2020) — 32 lessons per grade, Grades 1–6, stated independently by up to four series per grade; the collège guides give the BIOF programme distributions for Grades 7–9. Read depth, as the placements declare it: the Arabic guides' legacy font encoding makes pdftotext return mojibake, so their contents were read from rendered pages; Books 6, 7 and 25 place their own year's programme distribution only (their readings of the other collège years are excluded, so nothing is double-counted); Book 31 places the distinct rows of its yearly programme table, a coarser grain than the lesson-by-lesson guides. The placements' counting grain is one item per distinct lesson/topic the guide teaches the teacher to deliver, and its named exclusions — method/framework chapters, evaluation/bilan/support apparatus and the Switch On confirmation tests, Switch On 1's graphisme weeks, bibliographies, indexes and recording tables — are stocked nowhere. Into this lesson the placements stock 6 teacher-evidence items from 3 of the guides (Book 1, Book 3, Book 4; Grades 1).
+
+**Book 1:** *Le Monde des Maths 1, Guide de l'enseignant(e), 1re année primaire* (teacher guide, Grade 1, French) — Morocco, Dar Attakafa (Casablanca); 1,775,505 bytes, 201 PDF pages. The collection follows the revised curriculum/programmes of July 2020 (32 lessons in 6 units over 4 domains); items are the guide's 32 numbered lessons, printed pp. from its Table des matières. TEACHER EVIDENCE ONLY.
+
+**Book 3:** *L'Explicite en Maths CP, Guide pédagogique* (CP = Grade 1) (teacher guide, French) — Morocco, Dar Attakafa (Casablanca); 21,092,403 bytes, 116 PDF pages. The explicit-teaching method guide for the pioneer-schools programme; its Chapter 3 gives worked lesson sheets for the SAME 32-lesson Grade 1 programme as Book 1 — a shared programme, two different guides, cited separately, never merged. TEACHER EVIDENCE ONLY.
+
+**Book 4:** *المفيد في الرياضيات (Al Moufid fi al-Riyadiyat), دليل الأستاذة والأستاذ* (teacher guide, Grade 1, Arabic) — Morocco, Dar Attakafa (Casablanca); 7,559,907 bytes; new edition September 2019, with ministry approval panel. Its contents table lists the same 32-lesson revised programme as Books 1 and 3, in Arabic; the PDF's legacy font encoding makes pdftotext return mojibake, so the contents were read from rendered pages. TEACHER EVIDENCE ONLY.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classifying objects (Monde des Maths 1 guide, lesson 1) | Morocco — *Le Monde des Maths 1, Guide de l'enseignant(e), Grade 1* (teacher guide) — teacher evidence, printed p. 56 |
+| Classifying objects, second stage (Monde des Maths 1 guide, lesson 24) | Morocco — *Le Monde des Maths 1, Guide de l'enseignant(e), Grade 1* (teacher guide) — teacher evidence, printed p. 152 |
+| Classifying objects, first stage (Explicite CP guide) | Morocco — *L'Explicite en Maths CP, Guide pédagogique, Grade 1* (teacher guide) — teacher evidence, printed p. 32 |
+| Classifying objects, second stage (Explicite CP guide) | Morocco — *L'Explicite en Maths CP, Guide pédagogique, Grade 1* (teacher guide) — teacher evidence, printed p. 90 |
+| Classifying objects (Al Moufid Grade 1 guide (Arabic), lesson 1) | Morocco — *Al Moufid fi al-Riyadiyat (المفيد في الرياضيات), teacher's guide, Grade 1 (Arabic)* (teacher guide) — teacher evidence, printed p. 95 |
+| Classifying objects by a single criterion (Al Moufid Grade 1 guide (Arabic), lesson 22) | Morocco — *Al Moufid fi al-Riyadiyat (المفيد في الرياضيات), teacher's guide, Grade 1 (Arabic)* (teacher guide) — teacher evidence, printed p. 251 |
+
+Morocco enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Morocco's in-hand set is a teacher guide or teacher edition, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Morocco's class for Maths is PARTIAL (evidence-only): all 32 guides are read and stocked, but no pupil book is in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/morocco-placements.md.
