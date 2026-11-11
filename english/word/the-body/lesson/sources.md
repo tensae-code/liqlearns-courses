@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -212,8 +212,8 @@ verification sweep.
 | A chant: "Touch my face, touch my hair! Touch my ears, touch my mouth, touch my eyes… Two of those!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 2, pupil printed p.53 |
 | Body words arm and leg with the command game "Touch your arm!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
 | The action song "If you're happy and you know it, clap your hands / nod your head / stamp your feet" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
-**Acceptance count: taught in 41 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa).** Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -532,3 +532,23 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Face and head parts (mouth, nose, teeth, eyes, hair, eyebrows) and describing faces with have ("I have brown eyes / a small mouth / short hair") | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.21–23 |
+| Food and colours: rainbow chart of fruits/vegetables by colour and their benefits for body organs — poster project | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 5 — Fantastic Food, printed pp.117–118 |
+| Personal care: discussing hygiene situations after PE with feeling frames ("I felt really ashamed because…"), labelling ten hygiene actions | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.207–209 |
+| How my body works under extreme conditions: classifying body reactions to hot and cold weather | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.275–281 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

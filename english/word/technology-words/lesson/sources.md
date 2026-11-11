@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -150,7 +150,7 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 34 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 35 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with staying safe online (Grade 8) and the Grade 12-2 science specialization reading set (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -692,3 +692,43 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 6:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Digital citizenship: Ribble's Respect–Educate–Protect principles and responsible technology use | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.139–140 |
+| Social media vs mass media: definitions, social-media vocabulary (profile, fake, audience, network, upload), positive/negative social-media situations and body-image bullying dialogue | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.142–144 |
+| YouTube video types (unboxing, product reviews, make-up tutorials, tips and tricks, interviews, Q&A, tour and list videos) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.152–154 |
+| Electronic waste: defining e-waste and reading about Uruguayan recycling company Werba S.A. (true/false/doesn't say) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.198–199 |
+| OLPC / Plan Ceibal / Ceibal en Inglés video work and a community survey | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.41–43 |
+| Me and my cellphone: labelling fifteen phone activities (downloading apps, setting the alarm, buying online, chatting…), completing an essay on cellphones with missing sentences | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.211–213 |
+| Designing art with technology: a video "Traditional Art vs. Digital Art" completed into diagrams, the tools and attitudes each needs | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.134–137 |
+| Am I tech-savvy?: naming gadgets, saying which you use most and why, discussing whether people spend too much time on technology, and a class poll on keeping in touch | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed p.144 |
+| Listening to match how the characters communicate, then an article "Different ways in which technology is affecting our lives" with titles restored | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.145–146 |
+| How can I become a digital citizen?: tallying your daily hours online, classifying last month's online activities (entertainment, safety, privacy, education, communication) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.157–159 |
+| Matching situations to the ten aspects of digital citizenship, recommending solutions for three situations, and writing a better definition of a digital citizen | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.160–161 |
+| Differentiating secure and non-secure websites: reporting a partner's answers about information shared online with reported speech ("…told me that he/she shared…") | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.161–163 |
+| Virtual and augmented reality: matching pictures to names (Hololens, smart glasses, simulator…), classifying VR vs AR, matching key words to definitions | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.190–192 |
+| A word search of VR/AR words and writing short definitions of VR and AR | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed p.193 |
+| Inventing a technological device: a mind map (what, who, how, what for) and a short written description with a drawing | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed p.198 |
+| Technology applied to better human lives: Duma's account of landmines in Africa and his uncle's robotic prosthesis in Armenia (discussion questions; diaspora explained) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 5 — Being Human, printed pp.288–290 |
+
+Book error E17, carried: Book 5 (p.158) prints “10 aspects of digigal citizenship” [sic] for digital citizenship.
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay
 
 Every part traces to its book and page.
 
@@ -319,9 +319,9 @@ verification sweep.
 | Project frame "My favourite animals!" — draw and present favourite animals | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 6, pupil printed p.40 |
 | Matching each animal to its baby by picture (cat, dog, rabbit, mouse, bird families) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 7, pupil printed p.41 |
 | Wild animals against pets — "Wild animal or pet? In the wild. / In my house." — wild set elephant, lion, zebra, monkey, tiger; pet set parrot, fish, hamster, cat, dog, rabbit, koala (Activity Book "Going for CLIL" 5, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 5 key and instructions, Teacher's Book pp.130(T)–131(T) |
-**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -790,3 +790,39 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading "My family pet and our mascot" — pet description (Pirata the dog: appearance, character, habits) as plot/content summary only | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed p.65 |
+| Pets: describing pets (name, age, breed, loves, body characteristics), male/female pet language (His/Her name is…) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.69–72 |
+| Working dogs and the benefits of pets: rescue, detection, assistance and therapy dogs — reading chart (adapted from NIH "power of pets") | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.73–74 |
+| Describing wild animals: favourite animal text (tiger: mammal, carnivore, habitat, stripes, abilities can run/swim/hunt) and bubble-map paragraph writing | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.75–76 |
+| What animals eat: carnivore / herbivore / omnivore classification with animal lists; article a/an with herbivore pronunciation note | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.76–77 |
+| Native Uruguayan animals and endangered species: identifying native animals (capybara, deer, coypu, puma, parrot, seal), capybara fact-file reading | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.78–84 |
+| Animal body parts (paws, wings, tusks, teeth, beak, eyes, legs, tail, ears, hooves, nose, whiskers, trunk) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.81–82 |
+| Types of animals science reading: mammals, birds, reptiles, amphibians, fish, invertebrates; backbones, warm/cold blood, feathers, scales, gills | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.93–96 |
+| Endangered animals (whale, tiger, panda): describing them, why they are in danger, and agreeing/disagreeing about animal issues | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.189–190 |
+| Animal rights: the five freedoms of animals (OIE) and reading Uruguay's animal protection law 18471 | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.134–136 |
+| The power of pets: quotations about pets, a text on the health benefits of owning a pet (labelling pictures with the benefits), questions on therapy dogs and shelters | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.265–268 |
+| Incredible animals: a text on Uruguay as a birdwatching oasis (saying what the numbers refer to), a video about a wildlife photographer | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 3 — Amazing Earth, printed pp.147–151 |
+| Say "Cheese"!: drawing the animal described in a folk song's first stanza and comparing drawings, matching animals to scientific and common names | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 3 — Amazing Earth, printed pp.163–167 |
+| Organizations dedicated to animal care: a dialogue about an adopted shelter dog, a cloze text on Animales Sin Hogar (ASH) completed with words from a table | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 3 — Amazing Earth, printed pp.186–191 |
+
+Book error E5, carried: Book 1's pet text (p.65) prints “wig her tail” for “wag her tail”; taught corrected.
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

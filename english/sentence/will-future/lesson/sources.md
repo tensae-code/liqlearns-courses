@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Uganda
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | WILL — predictions and moment-of-speaking decisions, won't, questions with short answers, future time expressions, and a Pachamama-predictions reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 10–12 |
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 13 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's will — promises and spontaneous decisions, and 'I think Mr Hatch will…' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -217,3 +217,30 @@ Book error noted and taught corrected: the Senior Two book's simple-future examp
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving advice (I think you should… / In my opinion, you could… / If I were you, I would…) for a money/travel problem, and predicting with will from holiday-pack prices | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed pp.84–85 |
+| Future predictions about nature with will/won't ("Rivers will be contaminated / People won't be able to breathe… / There will be only artificial grass") | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed p.197 |
+| Enjoying nature: predicting activities from a picture with will ("She will drink / eat / text…"), listening to check, and planning a picnic | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.177–178 |
+| Final projects and farewell: creating a class business to fund the trip (brochures/posters) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.261–262 |
+| What does the future look like?: funfair attractions, a fortune teller text, writing three questions for the fortune teller ("Will I go to university?"), and a fortune-teller role play | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.121–123 |
+| Where are we going with technology?: predictions with "In five years, there will be…", a tech-fair flyer and to-do list, and an information-gap pair task on future inventions | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.194–197 |
+| In the not-so-distant future: future-aspiration sentence frames completed ("I've always dreamed of… so I expect I will…", "I'm torn between studying… and…", "I've got it all mapped out") | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.266–271 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

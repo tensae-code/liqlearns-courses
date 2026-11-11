@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 11 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 12 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -178,3 +178,30 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes with family subjects: sentence factory "She likes / loves / doesn't like / hates / is keen on / is interested in + -ing" | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed p.45 |
+| Movies: expressing film preferences ("I'm a fan of / I'm into / I really like comedies"), reading the plot of Letters to Juliet (plot summary only) and writing your favourite film's plot | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.147–148 |
+| Free-time activities and likes (love/like/enjoy + -ing: hanging out, watching series, skating, gymnastics) with because-reasons for choosing places | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 7 — My Town, printed pp.167–169 |
+| Free-time activities vocabulary (jogging, cooking, skateboarding, fishing, playing videogames) and writing a free-time poem | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed pp.42–44 |
+| The characters' likes for activities (theatre and Shakespeare, national-team soccer, nature and horse-riding, cooking and restaurants) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.46–47 |
+| The characters' hobby videos; writing and recording your own hobby dialogue | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.74–76 |
+| Unusual ways of having fun: ranking activities, the abilities each needs ("you need to know how to…"), and preparing a tutorial for adults on five unusual teen hobbies | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.86–88 |
+| Writing a text about your own hobbies and how they connect with school subjects, modelled on Alejandro's | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.68 |
+| A day unplugged: planning phone-free countryside activities with Camila | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed p.146 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

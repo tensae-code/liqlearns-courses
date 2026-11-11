@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -350,8 +350,8 @@ verification sweep.
 | Adverbs of Manner | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.111 (teacher evidence) |
 | Using Simple Prepositions — Use adverbs to talk about when and where | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.6.1, PDF p.88 (curriculum evidence) |
 | Use question marks, full stops and commas correctly in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.12.1, PDF p.218 (curriculum evidence) |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -859,3 +859,19 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading dialogue about school likes, lesson days/times and frequency (once/twice a week, PE/swimming/football/piano lessons) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 2 — Myself, printed pp.39–40 |
+| Likes language for activities (really into, keen on, interested in, quite like) and a frequency survey (How often do you…? always/usually/often/sometimes/never) with a written report | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed pp.48–50 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

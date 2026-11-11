@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait, Eritrea, Tunisia, Samoa
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait, Eritrea, Tunisia, Samoa, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10, Student's Book — Cambodia,
@@ -94,9 +94,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 25 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 26 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Kuwait, Eritrea, Tunisia, Samoa).** Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Kuwait, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with agreeing and disagreeing with suggestions (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with rejecting suggestions, opinion letters, street interviews and for-and-against debates from its Grades 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -472,3 +472,37 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing and disagreeing about tattoos (I agree with sentence #1 because… / I disagree… because…) with most-creative/unusual/colorful/interesting superlatives | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed pp.99–100 |
+| Endangered animals (whale, tiger, panda): describing them, why they are in danger, and agreeing/disagreeing about animal issues | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.189–190 |
+| Agreeing and partly agreeing frames ("I agree with you because…", "I don't agree because…", "I agree up to a certain extent because…") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed p.108 |
+| Making friends online: a four-corners agree/disagree discussion, quotations about friendship, and friendship idioms matched to definitions | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.163–164 |
+| Deciding and defending a choice: agreeing or partly agreeing with a classmate's statements about his decision ("I totally / partially agree with Simon because…") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.245–246 |
+| Asking for, offering, agreeing and disagreeing with opinions: a phrase bank for interview-preparation discussion | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed p.101 |
+| The influencer I want to become: giving Camila advice, and a conversation-skills chart (starting a conversation, asking opinions, agreeing, disagreeing politely) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed p.207 |
+| A class debate: "Entertainment then and now" — did teenagers use to have better fun? | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.16 |
+| Videogames: completing definitions from a word set, an article on the benefits of playing video games completed with removed sentences, Uruguayan game developers | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.32–37 |
+| This is art!: drawing with squares, discussing a quote about art with partly-agreeing frames ("I agree with it up to a point, because…"), writing your own definition of art in a paragraph | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.73–75 |
+| A debate on street art: sorting nine statements for and against, then arguing one statement from both sides to convince the other half of the group | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed p.108 |
+| Completing theatre words from pictures and debating acting in theatre vs cinema | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.125–127 |
+| We are what we do: a spidergram of healthy-living benefits with opinion frames (asking for, offering, agreeing and disagreeing), a doctor's article on health judged correct/incorrect | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed pp.215–217 |
+| Discussion skills: what a discussion is (exchanging ideas without negative confrontation), the seven discussion principles used across the whole unit | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 5 — Being Human, printed pp.282–283 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

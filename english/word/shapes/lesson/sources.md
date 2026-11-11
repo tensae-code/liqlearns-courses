@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 11 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 12 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -149,3 +149,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tangram shapes (square, circle, rectangle, triangle, parallelogram) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed p.86 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

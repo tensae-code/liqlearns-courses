@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** English for the Hotel and Tourist Trade,
@@ -65,7 +65,7 @@ PASSED 2026-11-04).
 | “Say It With Words” — present progressive vs present simple; communication and telephone-history words; adverbs in -ly; formal vs informal features; telephoning | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 3, printed p.37 |
 | Telephoning: telephone greetings and the steps to make a call | Pakistan, *English 8*, printed pp.118–119 |
 
-**Acceptance count: taught in 24 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda).** Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
+**Acceptance count: taught in 25 countries (Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with telephoning — telephone language and “On the Phone” conversations (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 telephone dialogue and its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 3 phone conversation (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with address and telephone formulae in its Grade 7 introductions lesson (stocked 2026-11-09 by the re-verification sweep merge). Greece teaches
 telephoning whole, as a trade skill: its Hotel and Tourist
 Trade book gives the call a full unit — the reservation
 call itself, the telephone strand (answering, asking for a
@@ -322,3 +322,19 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ordering food by phone: delivery vs take out dialogue (ordering pizza, drinks, address, price, cash) and restaurant role-play with own menu and flyer | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 5 — Fantastic Food, printed pp.124–125 |
+| Telephoning a school counsellor: completing the missing questions in an enrolment interview dialogue (name, nationality, address, interests, scholarship, dietary restrictions) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.249–250 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

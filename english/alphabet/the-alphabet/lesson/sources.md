@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -393,7 +393,7 @@ sound is learned.
 | Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
 | Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
 | Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
-**Acceptance count: taught in 38 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
+**Acceptance count: taught in 39 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -898,3 +898,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects vocabulary (Biology, Spanish, Math, Art, PE, Physics, English, Technology) and spelling subject names letter by letter | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed p.9 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

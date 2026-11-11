@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -100,7 +100,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 30 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 31 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its letter writing — the e-pal e-mail, the holiday postcard, and Mr Hatch's gap-fill email (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with reading and answering an email (Grade 5), writing party invitations (Grade 7) and an email about Ramadan customs in Libya (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -692,3 +692,25 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letters as communication: parts of a letter (sender, receiver, purpose, support), reading a film letter and writing a letter asking for advice | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.132–133 |
+| Project: a letter to your future self ("message in the bottle") with full letter layout (date, Dear…, paragraphs, Yours sincerely, signature) and advice frames | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed p.74 |
+| I am responsible for my future: word-association around "future", an email about an AFS exchange programme, and researching exchange scholarships and how to apply | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.214–215 |
+| Charting your own city (There is/are…, There you can…, places I would like to have) and writing an email about entertainment in your city | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.11 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Going to: later
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda
+countries: Bolivia, Ghana, Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -373,8 +373,8 @@ verification sweep.
 | “Change through Time” — a child's life across eras; going to and future simple | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 4, Lesson 11, printed p.71 |
 | Workbook “Change through Time” — practice of going to and future simple with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 4, Lesson 11, WB printed pp.41–52 |
 | Future simple, active and passive | Mongolia, English XII, Unit 3, printed pp.47–48 |
-**Acceptance count: taught in 41 countries (Bolivia, Ghana,
-Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
+**Acceptance count: taught in 42 countries (Bolivia, Ghana,
+Mongolia, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Venezuela, Albania, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's going to — future plans and Tom's cruise plans (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “going to” for planned purchases and intentions at the school shop and on trips (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the future in four forms as named work in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia tables going to whole and names its
 jobs; Mongolia boxes the will neighbour; Ghana keeps the
 scheduled present as the third future; China adds be going
 to as a full system with its time words, will worked for
@@ -865,3 +865,16 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Going to for future plans, SOS box noting US English sometimes uses will | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed p.64 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

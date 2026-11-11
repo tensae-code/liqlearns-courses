@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -210,7 +210,7 @@ rendered page the same day).
 | The Welcome! greeting song that opens the course — "Hello and welcome! Welcome to you! Bye-bye!" — with the course characters (Extra, Tom, Wendy) presented (the pupil page prints only "Sing"; the song's words are the Teacher's Book audioscript's) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Welcome!, printed p.3 |
 | A British pupil introduces herself: "I'm Emma. I'm 7 years old. This is my school, St Lawrence's." (Welcome to Britain culture spot) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 5, pupil printed p.25 |
 | The farewell song "Bye-bye friends, Happy Holidays! … See you all next year!" (the Bye-bye! lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Bye-bye!, pupil printed p.74 |
-**Acceptance count: taught in 41 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -951,3 +951,21 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings by time of day and welcome formulas (Good morning/afternoon/evening, Hello, Welcome to the class) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.6–7 |
+| Introducing yourself: name, "My name is… / I am…", Nice to meet you, How do you do?, What's up?; contraction I am → I'm taught explicitly | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.7–8, 15–16 |
+| Writing a self-introduction paragraph from a scaffold chart | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.14–17 |
+| Greetings around the world: naming greeting styles (kissing, bowing, the Wai, shaking hands, rubbing noses, high five, fist bump…), miming a greeting for classmates to guess | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.19–20 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

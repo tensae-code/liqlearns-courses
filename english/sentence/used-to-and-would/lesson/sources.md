@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia, Uruguay
 
 Every part traces to its book and page.
 
@@ -119,7 +119,7 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 23 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia).** Cyprus joins with a comprehension-list mention of 'used to' in Year 6 Unit 2 — a receptive mention only, no teaching sequence (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 24 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with a comprehension-list mention of 'used to' in Year 6 Unit 2 — a receptive mention only, no teaching sequence (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -364,3 +364,28 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| used to for childhood habits: hobby-horses text ("When I was a child, I used to play…") with comprehension questions | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed p.56 |
+| used to for past appearance and habits vs now | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed p.98 |
+| Dialogue: new member Camila joins the gang; used to for past habits ("I used to ride it all the time", "I used to go for a swim every morning") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.144–148 |
+| Talking about fears: what you are afraid of, what you used to be afraid of, fears you want to overcome; discussing favourite life quotes and mottos | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.62–63 |
+| How entertainment has changed over the years: naming old entertainment devices (cassette player, CD player, Walkman…), completing facts about Uruguayan broadcasting firsts | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.14–15 |
+| Interviewing a partner with "Did you use to…?" questions about childhood fun | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.26 |
+| Outdoor entertainment: labelling traditional games (hide and seek, skipping rope, hopscotch, marbles, Simon Says, musical chairs, Chinese whispers, elastics, payana) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.50–52 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

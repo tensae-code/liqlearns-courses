@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Barbados, Kuwait, Fiji, Samoa, Uganda
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Barbados, Kuwait, Fiji, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -62,7 +62,7 @@ Education. Filed in english/books/sierra-leone.md
 | Editing and proofreading, and final-draft writing and critiquing, as the unit's writing work | Pakistan, *English 12*, Unit 2, printed pp.14–16 |
 | Spot the error as the unit's grammar work | Pakistan, *English 12*, Unit 8, printed p.60 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Kuwait, Fiji, Samoa, Uganda).** Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
+**Acceptance count: taught in 19 countries (Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Kuwait, Fiji, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Rwanda joins with Primary 5's draft-against-final revision work (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 book's own Appendix III grammar summary (stocked 2026-11-10 by the Greece re-verification sweep merge). Ethiopia carries the whole
 five-error clinic: Grade 11 names fragments, run-ons
 and comma splices together, and Grade 12 builds its
 writing strand on them, adding dangling modifiers and
@@ -303,3 +303,19 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Urban legends: reading the IPOLL high-school legend text (plot summary only) and correcting wrong sentences about it | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 7 — My Town, printed pp.190–191 |
+| Indoor entertainment: describing a picture with speculation frames ("They might be… because…", "They could be…"), questions about Jenga answered from a text | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.47–48 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

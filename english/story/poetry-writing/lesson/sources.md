@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -103,7 +103,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 26 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 27 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -610,3 +610,27 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Free-time activities vocabulary (jogging, cooking, skateboarding, fishing, playing videogames) and writing a free-time poem | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed pp.42–44 |
+| Poetry reading: Robert Frost "The Road Not Taken" (full poem printed) and talking about choices | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed p.80 |
+| Uruguayan poetry in Spanish with English framing: Juana de Ibarbourou "La Higuera" and Mario Benedetti "A la izquierda del roble" — analysing poems | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.150–152 |
+| Reading an Ida Vitale poem in English translation and choosing what it is about (being free, enjoying your own company, giving thanks, taking decisions…) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed p.38 |
+| A poem about cellphone use: finding the rhyming words and choosing definitions for tricky words (reek, woeful, flaw, manatee); planning your own cellphone poem | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.214–215 |
+| Writing haikus: Benedetti's Rincón de Haikus, the 5-7-5 syllable pattern explained, and a class haiku board | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed p.244 |
+| "If I had the chance to…": a poem "If I had to live my life over, I would…" — sorting its activities into nature / emotions / others, recognising the hypothetical meaning | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.54–55 |
+| Standing up to haters: a song written in response to online hate, rewriting aggressive comments about a singer into polite ones ("I'm not a fan of…", "I prefer other kinds of voices") | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.188–189 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

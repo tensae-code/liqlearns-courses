@@ -1,6 +1,6 @@
 # Sources — Blog and online posts
 
-countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan, Nepal, Kuwait
+countries: Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan, Nepal, Kuwait, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center 'KIZUNA'. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03).
@@ -44,7 +44,7 @@ covers the 6th Year book only).
 | Commenting on ideas and posts: positive and negative comment phrases — what a great post, this post really resonates with me, it was boring / it was brilliant | Mauritania, Study English, Grade 13, printed pp.11–13 |
 | Blog reading: football obsession in England | Mongolia, English XI, Unit 7, printed p.109 |
 
-**Acceptance count: taught in 14 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan, Nepal, Kuwait).** Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
+**Acceptance count: taught in 15 countries (Cambodia, Egypt, Greece, Malaysia, Indonesia, Mauritania, Mongolia, Iraq, Armenia, Vietnam, South Africa, Kazakhstan, Nepal, Kuwait, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Filing note, stated plainly: the catch-up plan named Malaysia Year 6 Unit 3 as Scheme-of-Work MAPPED evidence; the filing now holds the pupil's book itself (Academy Stars Year 6, read directly 2026-11-06), and the direct read — blog read at pp.34–35, mind-map plan at pp.40–41 — is what is cited. Greece's commenting evidence is met in the books as online comments read and matched, and bad-news politeness as a taught reacting function; the written four-move shape built on them is LiqLearns' own, and is worded as such. Egypt supplies the blog's shape and tips and the social post's size; Cambodia the tourist-spot blog. Indonesia writes captions and comments for social-media posts in Grade 8, and produces an argumentative-text podcast in Grade 12 (both stocked 2026-11-09 by the re-verification sweep merge). No book's blog text is reproduced.
 Mauritania comments on posts with a positive/negative phrase
 set in its Grade 13 book (stocked 2026-11-09 by the Mauritania
 re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 chat-forum project and Grade 9 advice blog (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -194,3 +194,44 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Writing: completing a webpage, then writing an email to a friend about Kuwait | Kuwait, Skyline English Student's Book 4A (Grade 4), Unit 4, printed p.64 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 6:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Blogs: purposes of blogs and planning a class/school blog (name, layout, pictures, content) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed p.157 |
+| Young talent video: Jack Rico (13-year-old college graduate) — true/false viewing and writing a social-media post congratulating him and introducing yourself | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.130–131 |
+| Social media's positive and negative effects: a classmate's worrying behaviour (photos of a classmate kept on a phone) — imagining the dialogue, naming feelings, deciding what to do | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.149 |
+| Teens' experiences on social media: reading a text on social media and charting its positive and negative aspects; what teens share online (family, feelings, beliefs, dating life…) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.156 |
+| Social media and the quest for perfection: discussing a video's purpose and your reaction to it | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.166 |
+| A class poll on coping with social responsibilities, sharing results in the school blog, a brochure or social media | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.190–191 |
+| Being responsible in society: a dialogue about a girl who overshared online, discussing what information you expose on social media, and the trailer of The Social Dilemma | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.210–212 |
+| Blog comments about Uruguay judged positive or negative, true/false/not-mentioned statements, and writing your own 80-word blog entry about Uruguay with scaffold frames | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.17–18 |
+| Pursuing our dreams: discussing The Pursuit of Happyness trailer (situations, the father's characteristics), a social-media quote post | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.53–55 |
+| Live streaming: discussing connected words, listening to a definition, charting the pros and cons, reading a text on streaming and creativity | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.199–203 |
+| New ways to become famous: Guidaí's four steps to web fame (use your skills, use several platforms, create a website/blog, use hashtags and memes), comprehension questions | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.203–205 |
+| Going to art school: places to study art in Uruguay; unscrambling words to predict facts about Valentín | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.221–223 |
+| Protecting my identity: an article on oversharing (questions), suggesting solutions for situations, and matching nine reasons people overshare to their explanations | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.178–181 |
+| Standing up to haters: a song written in response to online hate, rewriting aggressive comments about a singer into polite ones ("I'm not a fan of…", "I prefer other kinds of voices") | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.188–189 |
+| Unplugged: comparing pictures of connected and unplugged life, two girls' different reactions to losing internet access, an article on disconnecting (sentence completion) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 2 — News and Media, printed pp.114–117 |
+| Moving from paper to digital: spotting a newsletter's characteristics, why a student didn't know the school newsletter existed (availability, content, access, cost, tangibility, feelings) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 2 — News and Media, printed pp.130–132 |
+| Superstitions: eight superstitions identified in pictures (number 13, touch wood, fingers crossed, spilled salt, horseshoe, black cat, broken mirror, walking under a ladder) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 5 — Being Human, printed pp.294–295 |
+
+Book error E19, carried: Book 6's index (p.6) lists its Unit 5 lessons in a scrambled order with wrong pages (“Fears and phobias Pág.293”); the placements follow the book's body, and the Book 6 Unit 5 rows above cite body pages.
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

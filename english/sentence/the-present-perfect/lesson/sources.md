@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -316,7 +316,7 @@ verification sweep.
 | Past simple vs present perfect | Mongolia, English XII, Unit 6, printed pp.110–111 |
 
 
-**Acceptance count: taught in 36 countries (Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda).** Rwanda joins with the Primary 4 present perfect, in transport sentences and named for experiences (stocked 2026-11-11 by the re-verification sweep merge). India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 37 countries (Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Rwanda joins with the Primary 4 present perfect, in transport sentences and named for experiences (stocked 2026-11-11 by the re-verification sweep merge). India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -648,3 +648,20 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rural-weekend dialogue modelling the present perfect with already / yet / just ("I have already milked a cow", "I haven't milked a cow yet", "I just went fishing") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.67–68 |
+| Present-perfect practice: already-done / not-done-yet chart, a "Find someone who has…" class survey, and writing about classmates' experiences | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.69–70 |
+| My day off: unscrambling a question about your most enjoyable day off, telling a partner about it, a SWOT analysis of an article about days off, completing the article with its activities | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed pp.244–248 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

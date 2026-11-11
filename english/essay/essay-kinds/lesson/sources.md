@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait, Fiji, Tunisia, Samoa
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados, Kuwait, Fiji, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -115,7 +115,7 @@ verification sweep.
 | Arguments built with valid reasoning and evidence, as the unit's writing work | Pakistan, *English 12*, Unit 7, printed p.49 area |
 | The argumentative paragraph as the travelogue unit's writing work | Pakistan, *English 12*, Unit 12, printed p.92 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait, Fiji, Tunisia, Samoa).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 21 countries (Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Kuwait, Fiji, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the writing-process steps printed in the Primary 5 Teacher's Guide, cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). India adds argumentative writing worked as an essay kind in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge).
 Bolivia builds its essay unit on argumentative texts;
 Malaysia teaches the opinion essay at Year 6 and Form 5,
 advantages-disadvantages at Form 4, and introductions
@@ -452,3 +452,16 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reality shows: board work on their characteristics, two girls' views charted for positive/negative key words, comparing two model essays' structure and language | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 2 — News and Media, printed pp.127–129 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

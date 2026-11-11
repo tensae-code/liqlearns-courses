@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ lesson is reproduced.
 | Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
 | The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 26 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa).** Cyprus joins with the Christmas, Easter, birthday, Mother's Day, Halloween and Chinese New Year greeting sets of Years 1–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+**Acceptance count: taught in 27 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Christmas, Easter, birthday, Mother's Day, Halloween and Chinese New Year greeting sets of Years 1–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -437,3 +437,17 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The quinceañera: 15th-birthday traditions in Uruguay (invitation, waltz, white princess dress, candles, souvenirs) and comparing celebrations in Mexico/US | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 6 — Celebrations Around the World, printed pp.205–206 |
+| Farewells: ways of celebrating the end of the school year (eating out, outing, bonfire, costume party) and farewell messages | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 6 — Celebrations Around the World, printed pp.247–249 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

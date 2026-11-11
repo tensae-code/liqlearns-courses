@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia).** Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -151,3 +151,39 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Song lyrics and feelings: matching song excerpts (Help, The Lazy Song, Don't Stop Me Now, You're Beautiful) to moods; "Count on Me" lyric reading for expressing support | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed pp.136, 155–156 |
+| Song work: "Tom's Diner" lyrics — drawing the song as a comic, continuing the story, and rewriting stanzas with blanks | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed pp.38–39 |
+| Song reading: Susan Boyle "Who I Was Born To Be" lyrics with stanza questions; personality adjectives for childhood | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed pp.103–104 |
+| Song gap-fill: Sia "Cheap Thrills" lyrics (money/dancing vocabulary) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed p.115 |
+| Natural wonders: classifying wonders (natural / ancient man-made / modern man-made) and "What a Wonderful World" lyric matching | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.167–168 |
+| Song analysis: Katy Perry "Firework" lyrics — negative vs positive language and similes (like a plastic bag, like a house of cards) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 6 — Celebrations Around the World, printed p.209 |
+| Readings on Uruguayan music types: tango, folk music, murga and candombe (UNESCO heritage) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.51–52 |
+| Tango heritage places and the Carlos Gardel museum in Salto | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.53–54 |
+| Reading about the Melo band "Sniff" and the lyrics of its song "Timeline" (plot/theme summary only) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.65–66 |
+| The song "Singin' in the Rain": feelings in the rain and listing rainy-day activities | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed p.77 |
+| The song "If I Were a Boy" and writing an "If I were a girl/boy, I would…" poem | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.133–134 |
+| The song "Count on Me": ordering the lines, identifying metaphors, and completing "If you ever…, I'll…" offers of help | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.161–162 |
+| Helping classmates overcome bullying: the song "Fuckin' Perfect" (written for the singer's daughter), spotting bullying situations in the video, and writing advice for each | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.202–204 |
+| Following family traditions?: building a class definition of "family" through a peer-marking carousel; the song "We Are Family" and its quotations; charting family traditions you like | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.224–225 |
+| Sing it out!: how music expresses feelings — listening to songs and noting how each makes you feel, an article on emotion in music, and analysing song lyrics in a chart | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.256–257 |
+| Being a life-long learner: recognising musical instruments in a song, matching musicians' activities to definitions | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.8–10 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

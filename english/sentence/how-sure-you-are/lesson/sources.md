@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay
 
 Every part traces to its book and page.
 
@@ -140,7 +140,7 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 27 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia).** Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 28 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Libya, Ethiopia, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with may/might for possibility (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -487,3 +487,29 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guessing/admiring a family member: deduction language ("She can be… because… / She may be…") and writing admiration sentences | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed pp.63–64 |
+| Holland's theory of vocational choice: six personality types (Realistic, Investigative, Artistic, Social, Enterprising, Conventional) matched to profiles | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.253–254 |
+| Countries and nationalities: labelling flags, a marker-talk on what you know about different countries, and discussing which country is most reputable with hedging frames | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.40–42 |
+| Hypothetical conditionals about sudden changes | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.67–68 |
+| Making a Cootie Catcher from step-by-step instructions and writing fortunes in it; Magic-8-Ball-style answer phrases (Signs point to yes, Don't count on it, Cannot predict now…) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.124–125 |
+| Find true north: predicting where four Fulbright English Teaching Assistants come from with certainty frames ("I'm sure picture A is… because…", "Picture D might be…") | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.174–175 |
+| The strength of my brain: modal deduction about pictures ("This might be… / It can't be… / It must be…"), two-true-one-false brain facts, infographics on the brain with questions | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.302–305 |
+| Indoor entertainment: describing a picture with speculation frames ("They might be… because…", "They could be…"), questions about Jenga answered from a text | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.47–48 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

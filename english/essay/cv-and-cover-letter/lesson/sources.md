@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 17 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 18 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia, Uzbekistan, Ethiopia, Eritrea, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -210,3 +210,20 @@ Note carried from the read: the Senior Four book's model CV (printed pp.12–13)
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Completing a CV from a listening interview, and the video CV: watching one to complete a chart, and matching video-CV tips to their explanations | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.20–21 |
+| Completing an executive chef's CV from his documents | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.22–23 |
+| How to get a job — cover letter: comparing letters, labelling cover-letter sections | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.24–26 |
+| Linking expressions in the letter matched to their functions (opinion, listing, examples, contrast, cause/effect, time), labelling the formal letter layout | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.27–28 |
+| Completing a job advertisement with work words (degree, cover letter, assistant, experience, driver's licence…) and writing your own application letter from an ideas chart | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.28–29 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

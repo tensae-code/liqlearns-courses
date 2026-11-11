@@ -1,6 +1,6 @@
 # Sources — There Is and There Are
 
-countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia
+countries: Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 7 (Secundaria 1) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Describing where you live — there is/are with prepositions of place | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed p.9 |
 | There is / there are (review) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4A |
 
-**Acceptance count: taught in 13 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with its there is/are line, including past there was/were in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 14 countries (Bolivia, Nicaragua, Yemen, Vietnam, Cambodia, Kazakhstan, Libya, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its there is/are line, including past there was/were in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “There is a monkey on the tree” (Grade 1) and There was / There were (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with the Grade 4 book's first presentation of There is a… / There are… (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with There is / There are in its Grade 7 book (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 1, 2, 3 and 4 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found there is/are taught in four places with no full lesson of their own (the course's Introductory There, from Bangladesh, covers only the introductory use). Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the full system. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -193,3 +193,19 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom objects and describing objects by size and guess ("It is big/small", there is/are spot-the-difference between two classroom pictures) | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.17–18 |
+| Supermarket shopping and quantities: counting fruit, a bunch of bananas, there is/are with food, and a grandma dialogue checking a shopping list | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed pp.9–10 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

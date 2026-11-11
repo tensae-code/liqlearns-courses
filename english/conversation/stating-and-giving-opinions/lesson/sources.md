@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -36,7 +36,7 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 11 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 12 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
 the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -219,3 +219,51 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Video transcript "Is being vegan more environmentally friendly?" | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed pp.30–32 |
+| Opinion phrases for survey conclusions (I think / I believe / I firmly believe / I'm completely sure that / I don't think) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed p.50 |
+| Opinion language for describing pictures (In my opinion, I think, I believe, I guess, I suppose, I consider, As far as I am concerned) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed p.64 |
+| Significant inventions: ranking world inventions | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.134–135 |
+| Respecting others while having fun: article on noise and neighbours, discussing a noisy-party anecdote, and writing about it | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.92–94 |
+| Food as a human right: a food-waste quiz, discussing the causes of hunger, reading on causes, and proposing community solutions | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.100–101 |
+| Health as a human right: a Constitution article, a poll of common adolescent health issues, and creating an information leaflet/brochure | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.102–103 |
+| Minority groups: picking minority groups from a list of people, reading the sociological definition, and justifying choices with frames ("In our opinion, X is a minority group because…") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.107–108 |
+| Sports and human rights: describing sports photographs, an article on how sports support human rights, and discussing adapted sports for people with disabilities | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.112–113 |
+| Equality versus equity, discussed from pictures and a poster | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.130–131 |
+| Freedom of speech and expression: expressions of the right to freedom, idea cards (freedom to hold opinions, to use images, peaceful dissent, prohibiting hate speech) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.136–138 |
+| Social media and the quest for perfection: discussing a video's purpose and your reaction to it | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.166 |
+| Responsible consumption: defining it with opinion frames, then analysing graphs and documents on the costs of problem alcohol consumption in Uruguay | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.189–190 |
+| Contributing to equality: matching photographs to human rights, reading Lua's model text, and writing a short essay with your own pictures on how people can contribute to equity | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.191–193 |
+| "Uruguay: a friendly country": a dialogue with Duma on what he loves about Uruguay, with pride frames ("One thing I am proud of as Uruguayan is…", "If I weren't Uruguayan, I would miss…") | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed p.16 |
+| Impactful people in the community: ranking actions by community impact (helping people in need, building a public place…) with reasons | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.30–32 |
+| Listening to Freddie's uncle talk about money (true/false) and recording your own podcast giving your opinion about money | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.70–71 |
+| A place worth fighting for: opinion frames for a famous quote, a video chart on "Our Planet: Our Business" with superlatives (most breathtaking landscape, weirdest fish) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.285–287 |
+| Soccer everywhere: debating what makes Uruguay famous worldwide (laws, soccer, music), a ball-passing game sharing ten unique Uruguayan elements | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.12 |
+| How much art is there in your life?: an eight-question discussion about art at home, museums and local artists | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.76–77 |
+| Discussing five quotations about art and culture (Kennedy, Reagan, Merton…) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed p.81 |
+| Meeting people online: a wikiHow-based text on safely meeting someone met online, choosing the best title for a newsletter of couples' stories | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.168–173 |
+| Respect: writing your own definitions of respect and lack of respect, judging situations as respectful or not, an immigrant girl's account of a humiliating experience with questions | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed pp.240–243 |
+| Debate topic — stereotypes: deciding whether poster phrases are stereotypes, how stereotypes are born and how they harm, and position statements for both teams | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 5 — Cultural Awareness and Social Responsibility, printed pp.295–296 |
+| Debate topic — generational diversity and inclusion: how generational differences make youngsters feel like outsiders, family decision-making, and position statements for both teams | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 5 — Cultural Awareness and Social Responsibility, printed pp.296–298 |
+| Teenagers and the news: five Uruguayan teenagers' magazine answers analysed for opinion phrases ("From my point of view…", "I strongly believe…", "As far as I'm concerned…") and connectors | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 2 — News and Media, printed pp.84–87 |
+| Following your passion: quotations on passion, recalling drummer Marcelo Bossio's chart from Unit 1, and a video message from him discussed | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.229–231 |
+| Life after high school: matching phrases to pictures and writing sentences (a big decision, a life-changing experience, a new skill, a good role model…) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.254–257 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,8 +72,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 23 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia).** Cyprus joins with Year 4's suggestions — 'Let's…' and 'Would you like to + verb?' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with polite suggestions — Shall we…? — with accepting and refusing (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 24 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Ecuador, Afghanistan, Kuwait, Cyprus, Tunisia, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's suggestions — 'Let's…' and 'Would you like to + verb?' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with polite suggestions — Shall we…? — with accepting and refusing (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -347,3 +347,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The power to change the world: discussion of what ordinary and young people can do, protest phrases matched | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.222–228 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

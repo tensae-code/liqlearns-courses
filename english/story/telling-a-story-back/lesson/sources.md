@@ -1,6 +1,6 @@
 # Sources — Telling a story back
 
-countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Barbados, Cyprus, Fiji, Tunisia, Samoa
+countries: Bangladesh, Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Barbados, Cyprus, Fiji, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -224,8 +224,8 @@ verification sweep.
 | Ordering the La Cegua story — retelling in sequence | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
 | A whole chapter on story writing: specimen stories, and stories built up from outlines | Pakistan, *English Grammar & Composition 9–10*, Chapter II, printed p.8 |
 
-**Acceptance count: taught in 36 countries (Bangladesh,
-Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Cyprus, Fiji, Tunisia, Samoa).** Cyprus joins with its retelling work — retelling and dramatising a favourite story, and retelling 'The Enormous Turnip' with then/later/in the end (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
+**Acceptance count: taught in 37 countries (Bangladesh,
+Ghana, China, Mongolia, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, South Africa, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Syria, Iran, Mexico, India, Nicaragua, Venezuela, Vietnam, Egypt, Uzbekistan, Ethiopia, Cyprus, Fiji, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its retelling work — retelling and dramatising a favourite story, and retelling 'The Enormous Turnip' with then/later/in the end (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the Hundred Dresses story retold as if Wanda is telling it in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh equips the retelling (word box,
 first-person, comparison); Ghana frames it (chain, Herring
 Bone, sequence order); China equips it again (the fill-in
 retell, the phone retell, the sorted diary recount);
@@ -607,3 +607,26 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tall tales: telling an exaggerated story from prompts and reporting a partner's story | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 6 — Teen Media, printed p.152 |
+| Song work: "Tom's Diner" lyrics — drawing the song as a comic, continuing the story, and rewriting stanzas with blanks | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed pp.38–39 |
+| "Where were you when…?" memory chart for memorable Uruguayan events | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed p.58 |
+| Facing multiple changes: naming life-change moments in photos, a teenager's account of growing up moving countries (Uruguay–Chile–Mexico) with removed phrases restored to place | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.214–218 |
+| Amazing humans: listening to a discussion of amazing Uruguayans (sentence completion, multiple choice about meeting one of them) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 5 — Being Human, printed pp.283–285 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

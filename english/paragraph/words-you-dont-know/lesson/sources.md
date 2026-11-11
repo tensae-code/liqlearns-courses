@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea, Samoa
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -186,8 +186,8 @@ verification sweep.
 | Apply vocabulary appropriately in specific contexts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.3.1, PDF p.58 (curriculum evidence) |
 | Use vocabulary appropriately in speaking and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.3.1, PDF p.91 (curriculum evidence) |
 
-**Acceptance count: taught in 26 countries (Bangladesh,
-Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji, Eritrea, Samoa).** India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
+**Acceptance count: taught in 27 countries (Bangladesh,
+Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Kuwait, Fiji, Eritrea, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India adds unknown words worked in Classes 6, 7 and 9 — phrases matched to meanings, paragraph-number meanings, and the Packing word set used in a paragraph (stocked 2026-11-09 by the India re-verification sweep merge). India's senior books print the
 command at every unit's head; Bangladesh names the routine;
 Ghana pairs context with word relationships; Libya's texts
 gloss in the line; China coaches the guessing itself, in a
@@ -409,3 +409,41 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of animals science reading: mammals, birds, reptiles, amphibians, fish, invertebrates; backbones, warm/cold blood, feathers, scales, gills | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 4 — Animals, printed pp.93–96 |
+| Reading biography: Paulina Luisi, first Uruguayan woman doctor and feminist leader — vocabulary from context (medicine, feminist, right, teacher, conference) and graphic organizer | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.143–144 |
+| River vocabulary definitions (confluence, downstream, freshwater, upstream, pollution, bank) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed p.27 |
+| Import and export: definitions, sorting and ranking Uruguayan products, and designing a poster to promote a product | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.35–37 |
+| Uruguayan cultural-identity crossword | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed p.50 |
+| The elderly: an academic article on the elderly population, vocabulary matching (income, elderly, life expectancy, physician, average), comprehension questions | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.127–128 |
+| Gender issues: definitions of gender identity, gender expression, biological sex and sexual orientation, then writing your own definitions of gender and sex | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.128–130 |
+| My dream present: gift vs present (synonyms; gift also = a talent); describing your dream present, its emotional value and its use, in a group dialogue | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.171 |
+| Reading "The Garra Charrúa of the Switzerland of America" (Uruguay's indigenous peoples, colonisation, Salsipuedes 1831, descendants today): matching paragraph titles | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.9–10 |
+| Living in a small town: matching settlement words to definitions (city, neighbourhood, village, town), and an interview with a teacher in Arbolito, Cerro Largo | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.162–163 |
+| Should I stay or should I go?: unscrambling landscape words (countryside, waterfall, beach, river, lake) and completing their definitions; river beaches vs sea beaches | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.169–170 |
+| A poem about cellphone use: finding the rhyming words and choosing definitions for tricky words (reek, woeful, flaw, manatee); planning your own cellphone poem | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.214–215 |
+| Spoilers: matching titles to spoilers, the definition of a spoiler, an article on spoiler etiquette (placing subtitles), matching bold words to definitions | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.232–235 |
+| The price of fame: completing fame words by adding vowels (well-known, leading, renowned, prominent, notorious, infamous, eminent, distinguished) and judging their connotation | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.253–255 |
+| Just a matter of elements: unscrambling the bulk elements (oxygen, carbon, hydrogen, nitrogen, sulfur), matching periodic-table statements to their completions | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.282–284 |
+| Popular or unpopular in Uruguay?: predicting from a title, then a long text on Halloween in the USA and in Uruguay (plot/fact summary only), finding set items in the text | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.21–23 |
+| Street art or vandalism?: matching street-art types to pictures and definitions (tag, mural, stencil, legal wall, vandalism, yarn bombing, mosaic) and watching a video about a mural | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.104–105 |
+| I wanna be an artist: reading actress Adriana Da Silva's account of her career in six parts (locating information by paragraph; comprehension questions) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.122–124 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

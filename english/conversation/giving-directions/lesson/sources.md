@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Samoa, Uganda
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Samoa, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 (full-year combo;
@@ -154,7 +154,7 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 30 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Afghanistan, Cyprus, Eritrea, Samoa).** Cyprus joins with its direction words and directions work, from left/right/up/down to the Easter egg hunt (stocked 2026-11-11 by the Cyprus expansion merge). Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 31 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Afghanistan, Cyprus, Eritrea, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its direction words and directions work, from left/right/up/down to the Easter egg hunt (stocked 2026-11-11 by the Cyprus expansion merge). Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -594,3 +594,19 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — a teacher's guide is cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving directions on a map (walk along, pass, turn left/right, go straight ahead, cross the street, opposite, blocks) for routes in Claremont, Atlántida, Young and Melo | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 7 — My Town, printed pp.164–166 |
+| My hobby as part of my identity: reading about the Montevideo Comics Convention (questions, a convention chart), Elisa and cosplay (cosplay defined as a portmanteau of costume + play) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.16–20 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

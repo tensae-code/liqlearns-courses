@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia, Uzbekistan, Fiji, Eritrea, Uruguay
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -94,7 +94,7 @@ verification sweep.
 | Word Families, Rhyming Endings And Common Digraphs — Use common rhyming/ending words to decode words. | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.3.1, PDF p.43 (curriculum evidence) |
 | Word Families: Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words. e.g. – | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.3.1, PDF p.117 (curriculum evidence) |
 | Word Families, Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.3.1, PDF p.193 (curriculum evidence) |
-**Acceptance count: taught in 18 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji, Eritrea).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 19 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Uzbekistan, Fiji, Eritrea, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -563,3 +563,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Where English words come from: a text on English's borrowed vocabulary (Latin, Greek, French, Arabic, Italian, Amerindian via Spanish…), classifying loanwords by origin language | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.236–237 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

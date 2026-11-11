@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -329,9 +329,9 @@ verification sweep.
 | Writing a paragraph about a technological advance (second conditional) | Mongolia, English XII, Unit 9, printed p.156 |
 | A whole chapter on paragraph writing, with specimen paragraphs as the models (My School, Girl Guides, A Visit to a Museum, A Visit to a Hospital, Fashions, A River in Flood, A Dream) | Pakistan, *English Grammar & Composition 9–10*, Chapter I, printed p.1 |
 
-**Acceptance count: taught in 40 countries (Bangladesh,
+**Acceptance count: taught in 41 countries (Bangladesh,
 Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with its paragraph writing — about yourself, your routine, and your daily routine (stocked 2026-11-11 by the Cyprus expansion merge). India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its paragraph writing — about yourself, your routine, and your daily routine (stocked 2026-11-11 by the Cyprus expansion merge). India joins with paragraphs written and constructed across Classes 8, 9, 10 and 12, from cohesion in the teacher notes to the 200–250-word paradox paragraph (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the process and prints the
 unity test as a revise question; Bangladesh guides the
 first paragraphs and models them; Egypt examines by the
 paragraph; China adds a model-first writing ladder across
@@ -856,3 +856,42 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a self-introduction paragraph from a scaffold chart | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.14–17 |
+| Reading article "Why going to school is so cool!" — ten numbered reasons, comprehension questions, similar/different discussion, and writing your own top-ten list and paragraph | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 2 — Myself, printed pp.41–43 |
+| Scientist fact files: Marie Curie crossword and Albert Einstein fact file; writing and ordering a paragraph on Einstein (general to concrete) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.127–128 |
+| Writing five sentences about historic and modern immigrant photographs | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed p.15 |
+| Camping text completion and writing about a weekend by a river | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.27–29 |
+| Board games: Nico's article written to a three-paragraph guideline (introduction; feelings and examples; conclusion and invitation), evaluating it, then downloading | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.82–85 |
+| Trips with classmates: trip types (research, cultural, vacation, end-of-term), Simon's trip text, a who-said-it matching task, and writing a trip proposal | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.89–91 |
+| Respecting others while having fun: article on noise and neighbours, discussing a noisy-party anecdote, and writing about it | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.92–94 |
+| Powerful influences in a teenager's life: listening for the most powerful influencers (two ideas each), writing a paragraph about an influencer | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.154–155 |
+| Contributing to equality: matching photographs to human rights, reading Lua's model text, and writing a short essay with your own pictures on how people can contribute to equity | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.191–193 |
+| "I am good at…": matching activity pictures, then reading Camila's paragraph and highlighting ability, motivation and attitude in three colours; writing your own paragraph on the same model | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.221–223 |
+| Reading a NASA text on astronaut requirements and writing a short magazine article (80–100 words) about a job that does not exist in Uruguay | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed p.50 |
+| Writing an 80–100-word article "Every job matters" giving your opinion | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed p.79 |
+| Writing a text of about 100 words about a past holiday, good or bad, and why | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed p.190 |
+| The Cameo app: reading an article on paying for a video call with a famous person, thinking of questions for a favourite celebrity | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.219–220 |
+| Completing a text on why herbal remedies are popular with words from a box, then finding its main ideas and dividing it into paragraphs | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.300–301 |
+| Equality in soccer: researching the first female professional soccer match in Montevideo (November 2021), writing 120 words, and learning the topic sentence | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.13 |
+| This is art!: drawing with squares, discussing a quote about art with partly-agreeing frames ("I agree with it up to a point, because…"), writing your own definition of art in a paragraph | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.73–75 |
+| My grandma was an artist: Nico's three-paragraph text arguing his grandmother the cook was an artist (matching topics to paragraphs) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.96–98 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

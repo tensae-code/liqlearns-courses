@@ -1,6 +1,6 @@
 # Sources — Cooking Words
 
-countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa
+countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Culinary Terms (BTH) — cooking methods (grill, broil, barbecue, gratin, stir-fry, bake, roast, stew, caramelize, steam, sauté, toast, poach, microwave, simmer, scramble, glaze) and cooking action verbs (add, slice, drain, dice, pour, mix, beat, break, grease, carve, combine, knead, chop, measure, stir, mince, peel, dissolve, crush, whisk, weigh) (the book lists “Weight” as the verb for weigh, printed p. 36 — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 36–38 |
 | Gastronomy terms — picture grids of foods, drinks and cooking verbs | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 101 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa).** Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the cooking word sets — the Grade 11 culinary (BTH) spread and the compendium's gastronomy grids — with no lesson of their own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -156,3 +156,22 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Recipes: reading and following a fruit-snack recipe and a hot-chocolate recipe (ingredients list, procedure, cooking verbs pour/mix/add/break/stir) and writing a snack recipe book | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 5 — Fantastic Food, printed pp.112, 121–122 |
+| Pancakes: reading about pancakes in the US vs Uruguay (cannelloni), true/false facts, kitchen utensils | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed pp.18–20 |
+| Recipe cards: copying the sequence adverbs from a cheese-scones recipe (sequence adverbs defined), ordering the steps of a Spanish omelette recipe | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.148–149 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

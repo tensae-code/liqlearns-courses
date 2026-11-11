@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -349,8 +349,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 38 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 39 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -678,3 +678,29 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hypothetical frames for redefining rights ("If I had the chance, I would add / change / redefine…") | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed p.122 |
+| The song "If I Were a Boy" and writing an "If I were a girl/boy, I would…" poem | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.133–134 |
+| Dealing with the unexpected: matching characters' difficult situations to possible solutions, using advice frames | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.152–153 |
+| Talented people among us: circus brochures and choosing a circus discipline with a conditional frame ("If I had to try a circus discipline, I would try…"); the Greek word kairos explained | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.25–27 |
+| Second conditional for living abroad ("If I had the opportunity to live in another country, I would travel to…") and writing disadvantages of leaving your country | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed p.48 |
+| Missing Uruguay: what you would miss and what object you would take with you (conditional frames), choosing a farewell present that best represents Uruguay | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.51–53 |
+| Hypothetical conditionals about sudden changes | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.67–68 |
+| Completing fame advice sentences from first-conditional prompts ("If you know a lot of different makeup techniques, …") and planning a virtual talent-show video in a chart | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.206–207 |
+| "If I had the chance to…": a poem "If I had to live my life over, I would…" — sorting its activities into nature / emotions / others, recognising the hypothetical meaning | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.54–55 |
+| Second conditional practice on free time: matching and personalising "If I had a day off every week, I would…" sentences | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed p.248 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

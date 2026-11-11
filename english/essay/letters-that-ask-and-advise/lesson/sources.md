@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 21 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Costas's plea letter to the President, as the model for a child's letter asking for help and peace (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 22 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia, Nepal, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Costas's plea letter to the President, as the model for a child's letter asking for help and peace (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -297,3 +297,19 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a formal letter to local government proposing leisure activities for teenagers (letter frame with introduction, findings, suggestions) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 2 — Sports and Leisure Activities, printed p.51 |
+| Writing a thank-you letter to Pablo for his service, and researching risky professions for a photo album with captions | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed p.120 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

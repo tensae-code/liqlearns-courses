@@ -210,7 +210,12 @@ its own subtitle folder with its own lesson + questions):
   social-problems · leaving-school-and-illiteracy ·
   business-and-finance-words · rights-freedom-and-peace ·
   libraries-and-reading (added 2026-11-11 by the Tunisia
-  expansion merge — **Unit 7, Words for the World**)
+  expansion merge — **Unit 7, Words for the World**) ·
+  citizens-rights-and-the-constitution · how-laws-are-organised ·
+  voting-and-democratic-participation · languages-and-language-learning ·
+  accessibility-and-inclusion · genetics-and-heredity
+  (added 2026-11-11 by the Uruguay expansion merge —
+  **Unit 7, Words for the World**) ·
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -391,7 +396,10 @@ poetry-writing · Paragraph → reading-between-the-lines ·
 checking-facts-online (added 2026-11-09 by the Indonesia
 re-verification sweep merge — **Unit 42, Reading Like a
 Detective**) · ways-to-read · exam-technique · translating-well ·
-other-ways-to-communicate · Word → phrasal-verbs ·
+other-ways-to-communicate · making-decisions ·
+problem-solving-strategies-and-games (added 2026-11-11 by the
+Uruguay expansion merge — **Unit 42, Reading Like a
+Detective**) · Word → phrasal-verbs ·
 idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·
 ordering-words · similes · metaphors · homophones

@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,7 +137,7 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 20 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 21 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -416,3 +416,19 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — a teacher's guide is cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Play scripts: Horacio Quiroga's stories as bilingual plays (A la deriva, La gallina degollada, El almohadón de plumas) — acting/reading plays in English with Spanish originals alongside | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 4 — History Makers, printed pp.153–158 |
+| Creating a six-scene comic strip with dialogue bubbles continuing the video story | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed p.111 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

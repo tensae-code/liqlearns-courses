@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 16 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda).** Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 17 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Eritrea, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's must/mustn't for class rules (the Pupil's Book's printed class-rules list) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its modal sets in Grades 4, 5, 6, 8 and 10 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -297,3 +297,20 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water: reading "Lack of water in Africa" text; saving-water rules with must/mustn't (with note that US English prefers should) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.178–179 |
+| Eco-park rules with can / must / mustn't / should (Talice Eco Park) and planning a visit with First/Then/After that/Finally | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.184–185 |
+| Electing class delegates: describing a good representative with obligation frames ("The person should / shouldn't / must / has to…"), candidates' proposals, and running a class election | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.196–197 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -33,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 4's countries and nationalities set — Cyprus/Cypriot first in its own book's list (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 21 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's countries and nationalities set — Cyprus/Cypriot first in its own book's list (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6), *English Matters* Student's Book 8 (Grade 8) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with countries and origins — “Where are you from? I'm from Libya / England / America / Brazil.” (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -313,3 +313,29 @@ Book error noted and taught corrected: the Primary Five book spells the Ugandan 
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dialogue: where people live, nationality ("She is Uruguayan"), describing a mother from a photo | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed pp.46–47 |
+| US states and abbreviations (all 50 states with two-letter codes), state nicknames (Sunshine State, Golden State, Land of Lincoln) and US places reading | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed pp.59–61 |
+| Immigration in Uruguay: facts and figures, melting pot vs salad bowl, immigrant origins of customs and words (tea, ojalá, pasta, siesta, football, candombe, lehmeyun) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed p.105 |
+| Country fact file: identifying Angola from clues and completing a fact file (language, currency, typical dishes, natural resources, popular animals) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 3 — Choices in Life, printed pp.106–108 |
+| Countries and nationalities: labelling flags, a marker-talk on what you know about different countries, and discussing which country is most reputable with hedging frames | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.40–42 |
+| Moving to the Land of Lincoln: discussing why people emigrate, four videos about Natalia, a Uruguayan teacher who moved to Illinois on a Fulbright | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.250–253 |
+
+Book error E3, carried: Book 1's family dialogue (p.46) prints “She es Uruguayan” [sic]; the row above teaches it corrected.
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

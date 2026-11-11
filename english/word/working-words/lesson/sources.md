@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
@@ -110,7 +110,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 20 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 21 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -511,3 +511,25 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Reading “Teen Talent: Small Businesses”: vocabulary interest, gradually, expert, transform, eye-catching, responsibility; a cause-effect linkers bank | Kuwait, English Pearls Student's Book 9B (Grade 9), Learning Unit 7, printed pp.48–49 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Every job matters": an article on why every job in a company counts — matching workplace words to definitions (department, staff, role, employee, training, company) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.76–77 |
+| My job, my responsibility: labelling ways to show responsibility at work, a DOs and DON'Ts list, a multiple-choice text on work responsibility, and matching tips | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.103–106 |
+| Uruguayan art for export: completing trade definitions from a word cloud (economy, goods, import, e-commerce, export, ship), charting Uruguay's imports and exports | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.112–114 |
+| How can I be my best version at work?: Venn-diagram hints for being a better student and a better worker, an article whose strategies get their subheadings restored | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.49–53 |
+| A tour around the office / Working today: finding evidence in a text for statements about modern work, a text on how working conditions are changing | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.63–65 |
+| Security at work: describing protective gear in pictures, researching what PPE means, naming PPEs and rules from a company poster, matching safety symbols to rules | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.66–70 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

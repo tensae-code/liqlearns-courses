@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 8 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 9 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -115,3 +115,36 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparing breakfast habits: interviewing a partner and writing a comparison report with similarity/difference linkers (just as, like, alike, both…and, while, however, unlike, despite) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 1 — Eating Habits, printed p.25 |
+| Reading texts on Inti Raymi (ancient and modern celebrations compared) with festival vocabulary definitions (fasting, feast, parade, fair, procession, sacred, bonfires) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 6 — Celebrations Around the World, printed pp.218–220 |
+| Native trees readings (Sarandí Colorado, Tala, Ceibo — the Ceibo flower as national flower) with true/false and a comparison task | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.38–40 |
+| Equality versus equity, discussed from pictures and a poster | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.130–131 |
+| Outdoor activities: questions on a festival poster (Joven Rural Fest), completing missing information from the festival's Facebook page, reading a text about the Valentín Rural Festival | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed pp.174–176 |
+| Two parents' testimonies on teens helping at home (one against, one for a shared rota) compared for similarities and differences; characteristics developed by helping | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed p.184 |
+| Pursuing our dreams: discussing The Pursuit of Happyness trailer (situations, the father's characteristics), a social-media quote post | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.53–55 |
+| Reading Manuel's self-introduction text about life in Arbolito, then comparing Arbolito with your own hometown in a similarities/differences organiser | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.165–166 |
+| Newton and the falling apple: completing the introduction of a text on Newton and gravity, finding antonyms in the text | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.292–293 |
+| Reading two friends' emails about entertainment in their cities (York and Westfield), answering questions, comparing the cities in a Venn diagram | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.9–10 |
+| Comparing Halloween in the USA and Uruguay in a thinking map, and a describe-and-guess game with Halloween photographs | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.23–25 |
+| Videogames, a form of art: describing and comparing two pictures with comparison frames ("One of these… while the other…", "This picture… whereas the other…") | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.99–103 |
+| Working in the city versus working in the countryside: a crossword of city/country aspects (transport, pollution, entertainment, education, employment…) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.54–56 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

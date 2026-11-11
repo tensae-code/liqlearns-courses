@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 23 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 24 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's storybook-character presentation (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -400,3 +400,52 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 3:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 4:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 5:** *#LivingUruguay 6* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “6TH GRADE ENGLISH BOOK” — the 6th grade of secondary school; filed in the records as Grade 12. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Presenting your place: photo poster presentation of where you live | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 3 — My Family, printed p.62 |
+| The melting pot: matching Uruguayan customs to their origins (candombe–Africa, football–England, Labor Day–Chicago, table tennis–China, etc.) and preparing research presentations | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed pp.11–12 |
+| Unit 1 projects applying the unit's topics | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 1 — Uruguay My Country, printed p.48 |
+| Unusual ways of having fun: ranking activities, the abilities each needs ("you need to know how to…"), and preparing a tutorial for adults on five unusual teen hobbies | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed pp.86–88 |
+| Unit 2 projects (tango in my family presentation, writing a music-style stanza, a Dance Monkey choreography, dressing character models for the disco, a rural-weekend invitation) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 2 — Uruguay: Having Fun and Entertainment, printed p.95 |
+| The UN Sustainable Development Goals for 2030: reading the goals, choosing one, planning community activities to achieve it, and presenting the plan | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.116–122 |
+| Freedom of speech and expression: expressions of the right to freedom, idea cards (freedom to hold opinions, to use images, peaceful dissent, prohibiting hate speech) | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.136–138 |
+| Unit 3 projects | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 3 — Human Rights, printed pp.141–142 |
+| Unit 4 projects | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 4 — My Social Life, printed p.179 |
+| The role of NGOs: a definition of NGO, matching logos to paragraphs (a medical humanitarian organisation, UNICEF, an environmental organisation), completing a chart | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed pp.197–199 |
+| Unit 5 projects | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 5 — My Social Responsibilities, printed p.216 |
+| Researching a favourite Uruguayan celebrity: a graphic organiser (personal information, family life, likes/dislikes, career, awards) and recording a video about them | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.23–24 |
+| Unit 1 projects | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 1 — Small Country, Big People, printed pp.56–58 |
+| Unit 2 projects (a motto post for social media, a quote poster, a volunteering poster for your hometown, a choose-your-task project on child labour) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 2 — Thinking Ahead, printed pp.126–127 |
+| Unit 3 projects (advertising your area; a traditional dish recipe card and video; creating an isolated town; an alchemist presentation; an iconic-landmark brochure; surviving Antarctica) | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed p.191 |
+| Reading an interview with Uruguayan influencer Alejandra Rienzi (matching questions to answers), a video of artist Meri Deal on the importance of learning English | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.208–210 |
+| Unit 4 projects | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 4 — In the Spotlight, printed pp.258–259 |
+| Unit 5 projects | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 5 — The World of Science, printed pp.329–331 |
+| Creating places for entertainment: a problem-based project — finding underused places in your neighbourhood and designing an entertainment place with a scale model and presentation | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed p.54 |
+| Unit 1 projects | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 1 — Being Entertained in Uruguay, printed pp.69–71 |
+| Unit 2 projects (researching a famous artist's life; recording your "Art to communicate" story with sound effects; finding art with a social message; the ancestors project) | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 2 — Art, printed pp.141–142 |
+| Unit 3 projects | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 3 — Technology, printed pp.199–200 |
+| Mental health in Uruguay: web research (the national health day, the helpline numbers, October 10th, the suicide-prevention commission) and a presentation on the UK Heads Together initiative | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed pp.221–222 |
+| Health and social responsibility: researching Uruguay's Constitution article 44 and FONASA, the evolution of public health, private insurance pros and cons, and rural health challenges | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed p.268 |
+| Unit 4 projects | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 4 — Taking Care of Myself, printed pp.269–271 |
+| Unit 1 projects | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 1 — Studying and Working, printed pp.71–72 |
+| Unit 2 projects | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 2 — News and Media, printed pp.137–138 |
+| Unit 3 projects (planet and conservation projects from the unit topics) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 3 — Amazing Earth, printed pp.210–212 |
+| Unit 4 projects (life-changing-moments projects from the unit topics) | Uruguay, *#LivingUruguay 6* (Grade 12), Unit 4 — Life-Changing Moments, printed pp.279–281 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

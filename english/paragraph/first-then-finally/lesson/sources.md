@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 37 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 38 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -580,3 +580,20 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 2* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “2ND GRADE ENGLISH BOOK” — the 2nd grade of secondary school; filed in the records as Grade 8. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 4* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “4TH GRADE ENGLISH BOOK” — the 4th grade of secondary school; filed in the records as Grade 10. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Eco-park rules with can / must / mustn't / should (Talice Eco Park) and planning a visit with First/Then/After that/Finally | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 5 — Nature Consciousness, printed pp.184–185 |
+| Honouring the dead: Day of the Dead in Mexico (skull-making process sequencing), ways of celebrating death in Ghana and Mexico, and the film Coco (plot questions — plot summary only) | Uruguay, *#LivingUruguay 2* (Grade 8), Unit 6 — Celebrations Around the World, printed pp.213–217 |
+| Recipe cards: copying the sequence adverbs from a cheese-scones recipe (sequence adverbs defined), ordering the steps of a Spanish omelette recipe | Uruguay, *#LivingUruguay 4* (Grade 10), Unit 3 — Enjoy, Live and Explore, printed pp.148–149 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

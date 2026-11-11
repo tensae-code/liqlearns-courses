@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda, Uruguay
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 27 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda).** Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 28 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan, Libya, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's restaurant prices — 'How much is it? It's…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with money and prices — asking prices in shops (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -461,3 +461,20 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 3* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “3RD GRADE ENGLISH BOOK” — the 3rd grade of secondary school; filed in the records as Grade 9. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+**Book 2:** *#LivingUruguay 5* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “5TH GRADE ENGLISH BOOK” — the 5th grade of secondary school; filed in the records as Grade 11. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How to manage my economy: labelling ways of spending money and talking about spending with amount frames | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed p.226 |
+| Reading "How to manage your money": matching titles to paragraphs (financial responsibility, pocket money, ways to earn pocket money, budgeting, saving), a money mind map | Uruguay, *#LivingUruguay 3* (Grade 9), Unit 6 — Making My Decisions About the Future, printed pp.227–228 |
+| Debate topic — economic responsibility: a class survey of five questions on money habits given to ten students, analysing the results | Uruguay, *#LivingUruguay 5* (Grade 11), Unit 5 — Cultural Awareness and Social Responsibility, printed pp.282–284 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.

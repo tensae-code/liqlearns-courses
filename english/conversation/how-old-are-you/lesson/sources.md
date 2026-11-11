@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -91,7 +91,7 @@ nineteen," Grade 2; the Grade 3 third-person pair) and the
 Iran row (the age question widened to the whole family). No
 existing row changed.
 
-**Acceptance count: taught in 34 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Fiji, Tunisia) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 35 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Fiji, Tunisia, Uruguay) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge).
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -592,3 +592,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Uruguay added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — ANEP's *#LivingUruguay 1–6* student books (201, 259, 270, 341, 308 and 314 pages). The records file the books as Grades 7–12; every cover numbers them 1st–6th grade of secondary school — the same books under two numbering systems (flag F1); the rows below cite the records' Grades 7–12, with the cover numbering stated in each book entry. The set is six student's books and no teacher books, so every row below rests on a student's book. 660 teaching items were placed fresh from the books; Uruguay had no presence in the course before, so all 660 were missing. The rows below are this lesson's share, stocked from the expansion placements. Read depth, as the placements declare it: full page-by-page reads of all six books from their printed text layers (printed page = PDF page in all six books). The placements exclude by name only front matter, the Spanish rubric and learning-progression apparatus at each book's end, and Book 4's Spanish appendix article (p.332) and colouring page (p.333); none of it is stocked. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *#LivingUruguay 1* (student's book) — Uruguay, ANEP (Administración Nacional de Educación Pública). Cover: “1ST GRADE ENGLISH BOOK” — the 1st grade of secondary school; filed in the records as Grade 7. Printed page = PDF page. Read in full, page by page, in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Answering the roll call (Present! / Here! / He is absent) and asking name, age and favourite colour of a partner | Uruguay, *#LivingUruguay 1* (Grade 7), Unit 1 — Hello and welcome, printed pp.13–14 |
+
+Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
