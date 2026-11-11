@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Gabon, Ireland
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Gabon, Ireland, Fiji
 
 Every part traces to its book and page.
 
@@ -1171,7 +1171,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 63 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Gabon, Ireland).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 64 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Gabon, Ireland, Fiji).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -2329,3 +2329,88 @@ The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PD
 | The metric system and units of length (An córas méadrach – Aonaid faid) | Ireland — *Téacs & Trialacha 1* (TT1; pupil textbook), printed p. 188 |
 
 Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.
+
+## Fiji added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Fiji's whole in-hand Maths set from the PDFs — **13 pupil textbooks of the Ministry of Education / Curriculum Development Unit series, one for each of Years 1–13** — and placed 1,012 items. The expansion map's count is exact: staging `books.json` holds exactly 13 Mathematics entries (one per year, all `kind: student`) and `phase3-push-state.json` lists all 13 as pushed; no Maths teacher guide is in hand (the AQEP Maths Guides for Lower Primary exist only as AnyFlip reader copies in the download list — not in hand, not counted). The staged PDFs had been pushed and deleted locally, so each book was re-fetched for the read — from the repo tree (Contents API) where the pusher had stored it as a blob, else from the book's recorded `source_url` (a Wayback Machine capture of the ministry file, Beacon Media, or Google Drive) — and the grabbed copies were deleted after their placements were written. The read's nine flagged claims ride with the set, honestly: (1) `textbooks.tsv` carries only 9 of the 13 rows (Years 1, 2, 3, 4, 7, 10, 11, 12, 13) — Years 5, 6, 8 and 9 are staged and pushed but missing from the TSV; (2) the Year 2 scan duplicates printed p. 57 and printed p. 58 is absent, so the Money unit's Activity 12 is not in hand to read and is cited nowhere; (3) the Year 5 capture has no cover/title leaves — the file opens at the Strand 1 divider and the body runs complete, Strand 1 p. 1 to Strand 5 p. 98, its identity resting on the staged record and the body's own structure; (4) Year 4's folio sequence is irregular — folios 44–48 and 54 never appear and folios 42 and 55 each appear twice — but the leaf count closes exactly (85 printed numbers − 6 absent + 2 duplicated = 81 body leaves), every contents strand and unit is present and no activity breaks mid-stream at the gaps, so the evidence points to the printed book's own folio misprints rather than missing leaves, a judgement the file alone cannot prove; (5) Year 3's scan order is scrambled at the end (contents folio ii and printed pp. 46, 51, 52 sit at PDF pp. 76–80) and one activity page appears twice (folioed 47 and 51 — counted once), with folio tracking accounting for all of printed pp. 1–75; (6) Year 10 exists in two packagings — the staged Beacon Media file (9,099,595 bytes, 202 pp.) is the copy cited; an ECopies capture of the same book is 9,079,205 bytes / 200 pp.; (7) Year 12's first Wayback transfer arrived truncated (11,794,148 bytes, broken cross-reference table) and was discarded — a fresh download delivered the complete book (17,085,310 bytes, 284 pp.), which is what was read; (8) Year 1's contents lists Chance at p. 65 and Data at p. 66 where the folios are 64 and 65 — the body count closes exactly, so nothing is missing and the contents is one out; (9) Year 6's interior copyright and acknowledgement pages misname it the “Year 7” book — a copy-paste error in the book itself; its cover metadata, contents, running heads and body are Year 6 throughout, and it is read and placed as Year 6. Book errors found in the read are taught corrected, the corrected form being what the items teach — among them Year 3's conversion-table lines “1,000 cm = 1 km” (correct: 100,000 cm) and “10,000 mm = 1,000 m” (correct: 10 m), Year 4's banner “30 minutes = 1 hour” against its own body's 60, Year 5's “1 000 millimetres = 1 litre”, Year 9's contents “Common Multitudes” (for Common Multiples) and its (a × b)ᵐ = aᵐ × bⁿ misprint, and Year 1's count-in-twos strip printing 9 where 19 belongs; Year 10 carries its own printed errata list (pp. 201–202), whose corrections are noted in the items. Counting grain: one item per distinct teaching point — a named concept, method, rule or worked skill with its printed page. The placements' named exclusions — strand divider pages; contents and acknowledgement pages; pure exercise sets and worked-example repeats of an item already placed; Year 1's “Checking my number” ten-frame reference page (printed p. 32); Year 3's duplicated capacity page (counted once); Year 4's closing multiplication-table chart (printed p. 86); Year 10's printed errata list (pp. 201–202, apparatus — its corrections ride in the items); Year 12's closing motivational quotes and exam tips (printed pp. 273–275); Year 13's bibliography and back matter — are stocked nowhere. Fiji COUNTS in this lesson's taught-in figure: every Fiji book is a pupil textbook. Into this lesson the placements stock 58 items, every one a pupil-textbook row, from Book 1 (*Mathematics Year 1*), Book 2 (*Mathematics Year 2*), Book 3 (*Mathematics Year 3*), Book 4 (*Mathematics Year 4*), Book 5 (*Year 5 Mathematics*), Book 6 (*Year 6 Mathematics Textbook*), Book 7 (*Year 7 Mathematics Textbook*), Book 8 (*Mathematics Year 8*), Book 9 (*Mathematics for Year 11*).
+
+**Book 1:** *Mathematics Year 1* — Ministry of Education, Curriculum Development Unit, Revised 2015 (© 2013); 236,015,805 bytes, 68 PDF pp.; image-only scan read from rendered pages. Printed page = PDF page − 3.
+
+**Book 2:** *Mathematics Year 2* — the book calls itself the Year 2 Mathematics Activity book — Ministry of Education, Curriculum Development Unit, Revised 2015 (© 2013); 233,595,104 bytes, 70 PDF pp.; image-only scan read from rendered pages. Printed page = PDF page − 2. Scan defect: printed p. 57 appears twice (PDF pp. 59–60 are the same leaf) and printed p. 58 is absent — the Money unit's Activity 12 is not in hand and is cited nowhere.
+
+**Book 3:** *Mathematics Year 3* — Ministry of Education, Curriculum Development Unit, Revised 2015 (© 2013); 37,315,079 bytes, 80 PDF pp.; image-only scan read from rendered pages. Printed page = PDF page − 3 for the in-sequence body; the scan order is scrambled at the end and the capacity-discovery activity page appears twice (folioed 47 and 51), cited once.
+
+**Book 4:** *Mathematics Year 4* — Ministry of Education, Curriculum Development Unit, Revised 2015 (© 2013); 96,814,549 bytes, 86 PDF pp.; image-only scan read from rendered pages. Folios cited as printed in the book; the folio sequence is irregular (folios 44–48 and 54 never appear, and folios 42 and 55 each appear twice) — the leaf count closes exactly and every contents strand and unit is present, so the gaps are the book's own folio misprints, not missing leaves.
+
+**Book 5:** *Year 5 Mathematics* — Ministry of Education, Curriculum Development Unit; 2,935,466 bytes, 98 PDF pp. Printed page = PDF page. The held capture has no cover/title leaves: it opens at the Strand 1 divider and the body runs complete, printed pp. 1–98; the book's identity rests on the staged record and the body's own structure.
+
+**Book 6:** *Year 6 Mathematics Textbook* — Ministry of Education, Curriculum Development Unit; 3,706,247 bytes, 91 PDF pp. Printed page = PDF page. The interior copyright/acknowledgement pages misname it the “Year 7” book — a copy error in the book itself; cover, contents, running heads and body are Year 6 throughout.
+
+**Book 7:** *Year 7 Mathematics Textbook* — Ministry of Education (cover: “FIJI MATHEMATICS / YEAR 7”); 6,300,620 bytes, 139 PDF pp. Printed page = PDF page.
+
+**Book 8:** *Mathematics Year 8* — Ministry of Education, Curriculum Development Unit; 4,566,297 bytes, 83 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Mathematics for Year 11* — Ministry of Education, Curriculum Development Unit, © 2015; 6,980,942 bytes, 204 PDF pp. Printed page = PDF page − 8.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Longer than: ring the object that is longer; draw a line longer than another | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 33 |
+| Shorter than: ring the shorter object; draw one shorter | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 34 |
+| Taller than: colour the taller object | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 35 |
+| Measure length with a hand span (non-standard unit from our body) | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 36 |
+| Measure distance in paces and steps | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 37 |
+| Measure length with a cubit — elbow to fingertip | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 38 |
+| Measure length with non-standard objects: ice-block sticks | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 39 |
+| Measure length with paper clips or match sticks: "about ___ paper clips" | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 40 |
+| Compare lengths using the same unit: measure in spans, then say which is biggest and smallest | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 41 |
+| Use the words taller than / shorter than / longer than to compare two lengths | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 42 |
+| Tallest and shortest in the class | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 43 |
+| Heavier and lighter: the heavy side of the balance goes down | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 44 |
+| Compare weights in words: heavier than, lighter than | Fiji — *Mathematics Year 1* (pupil textbook), printed p. 45 |
+| Use the comparative words longer than, shorter than and taller than in sentences | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 40 |
+| Compare more than two lengths: shortest, longest, tallest | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 41 |
+| Estimate, then measure lengths with non-standard units: hand spans, cubits and paces | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 42 |
+| The metre ruler is a standard unit for measuring length; estimate then measure in metres | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 43 |
+| The markings on the metre ruler are centimetres; a centimetre ruler measures shorter items — estimate then measure in centimetres | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 44 |
+| Heavier and lighter: circle the heaviest and the lightest in a group of objects | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 48 |
+| Order three objects from heaviest to lightest with a beam balance | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 49 |
+| The kilogram is used for measuring weights: explore 1 kg, ½ kg and 2 kg | Fiji — *Mathematics Year 2* (pupil textbook), printed p. 50 |
+| Non-standard units of length: hand span, step or pace, arm length, fathom | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 41 |
+| Measure perimeters in spans, steps and arm lengths (desk, classroom, blackboard) | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 42 |
+| Standard units: millimetres (mm), centimetres (cm), metres (m); 10 mm = 1 cm, 100 cm = 1 m, 1000 m = 1 km | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 43; two lines of the book's conversion table are wrong — taught corrected, see error note |
+| Measure objects with a centimetre ruler | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 44 |
+| Compare mass by holding: heaviest and lightest; check with a balance scale | Fiji — *Mathematics Year 3* (pupil textbook), printed pp. 47–48 |
+| Use the words heavy, heavier, heaviest and light, lighter, lightest in sentences | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 48 |
+| Grams and kilograms: ½ kg + ½ kg = 1 kg; guess masses, then weigh | Fiji — *Mathematics Year 3* (pupil textbook), printed pp. 49–50 |
+| Discover capacity: guess and measure how much containers hold with cups and spoons | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 51 |
+| Standard units of volume: millilitres (ml) for small amounts, litres (L) for larger; 1 litre = 1000 ml | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 52 |
+| Estimate and measure container capacities in litres | Fiji — *Mathematics Year 3* (pupil textbook), printed p. 53 |
+| Estimate lengths with non-standard units: hand span, forearm length, stride | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 42 |
+| The standard measure for length is the metre (m); measure to the nearest metre | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 42, second leaf folioed 42 |
+| Measure short lengths in centimetres: 100 cm = 1 m | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 43 |
+| Mass is the weight of any object; compare heaviest and lightest with non-standard units | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 55 |
+| The standard measure for mass is the kilogram (kg); make and use a half-kilogram mass | Fiji — *Mathematics Year 4* (pupil textbook), printed pp. 55–56 |
+| Temperature tells how hot or cold; it is measured with a thermometer in degrees Celsius (°C) | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 70 |
+| Units of measurement summary: metric and customary units for weight, capacity and length | Fiji — *Mathematics Year 4* (pupil textbook), printed p. 72 |
+| Estimate length in non-standard units related to standard units | Fiji — *Year 5 Mathematics* (pupil textbook), printed p. 53 |
+| Convert units of length and distance; order units shortest to longest | Fiji — *Year 5 Mathematics* (pupil textbook), printed p. 54 |
+| Convert volume/capacity between millilitres and litres: 1 000 ml = 1 L | Fiji — *Year 5 Mathematics* (pupil textbook), printed p. 60; the book prints "millimetres" for millilitres here — error, corrected |
+| Estimate and measure weight/mass of objects | Fiji — *Year 5 Mathematics* (pupil textbook), printed p. 62 |
+| Convert weight between kilograms and grams: 1 000 g = 1 kg | Fiji — *Year 5 Mathematics* (pupil textbook), printed p. 63 |
+| Measure length with non-standard units and relate them to standard units | Fiji — *Year 6 Mathematics Textbook* (pupil textbook), printed p. 48 |
+| Convert mm ↔ cm ↔ m ↔ km (10 mm = 1 cm; 1 km = 1000 m) | Fiji — *Year 6 Mathematics Textbook* (pupil textbook), printed pp. 49–50 |
+| Convert litres to millilitres and back | Fiji — *Year 6 Mathematics Textbook* (pupil textbook), printed pp. 56–57 |
+| Mass: 1000 g = 1 kg; write grams as kilograms and grams | Fiji — *Year 6 Mathematics Textbook* (pupil textbook), printed pp. 58–59 |
+| Estimate an object's mass, then convert the estimate to standard units | Fiji — *Year 6 Mathematics Textbook* (pupil textbook), printed p. 60 |
+| Units of measurement for length | Fiji — *Year 7 Mathematics Textbook* (pupil textbook), printed p. 56 |
+| Convert units of length, smaller to larger and back | Fiji — *Year 7 Mathematics Textbook* (pupil textbook), printed pp. 68–69 |
+| Capacity is the volume of liquid a container can hold; metric units | Fiji — *Year 7 Mathematics Textbook* (pupil textbook), printed p. 74 |
+| Convert units of capacity; choose the right unit for a container | Fiji — *Year 7 Mathematics Textbook* (pupil textbook), printed p. 75 |
+| Estimate weight, then measure to check | Fiji — *Year 7 Mathematics Textbook* (pupil textbook), printed pp. 76–77 |
+| Measure with non-standard units, then choose the most appropriate standard unit | Fiji — *Mathematics Year 8* (pupil textbook), printed pp. 30–31 |
+| Capacity: measure and compare using standard units | Fiji — *Mathematics Year 8* (pupil textbook), printed p. 47 |
+| Convert cuboid volumes in cm³ into millilitres | Fiji — *Mathematics Year 8* (pupil textbook), printed p. 48 |
+| Weight: measure, read and state weights in standard units; compare which is heavier | Fiji — *Mathematics Year 8* (pupil textbook), printed pp. 49–50 |
+| Convert between units of measure using proportions | Fiji — *Mathematics for Year 11* (pupil textbook), printed pp. 19–20 |
+
+Fiji is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Fiji row in this lesson is a pupil-textbook row, so Fiji counts in full. Fiji's class for Maths is **COURSES-CLOSED**. The records disagreement — `textbooks.tsv` carries only 9 of Fiji's 13 Maths rows, Years 5, 6, 8 and 9 being staged and pushed but missing from the TSV — is a library-record matter, reported here, not fixed by this merge. The Year 2 file defect rides with the set: its scan duplicates printed p. 57 and printed p. 58 is absent, so that one Money activity is not in hand to read and is cited nowhere.
