@@ -378,6 +378,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 187:** *Toán 11, Tập Hai* (Mathematics 11, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35080-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 188:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 189:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -544,6 +545,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Solids of revolution: disk method V = π∫ₐᵇ [f(x)]²dx (about Ox/Oy); washer method V = π∫ₐᵇ ([f]²−[g]²)dx — worked y = √x about Ox, 0 to 4, V = 8π; washer y = x² vs y = 2x on [0,2], V = 64π/15; sphere volume proof V = 4πR³/3 from y = √(R²−x²) | Cambodia, Primitives and Integrals booklet (private Khem Putthi booklet, first printing 2026), printed pp. 145–148 (Lesson 4 §1) |
 | Parallelepiped volume V = |u·(v×w)|; tetrahedron volume V = |u·(v×w)|/6 | Cambodia, Space Geometry booklet (private Khem Putthi booklet, first printing 2026), printed p. 39 (§3 mixed product) |
 | Exploring volume (lesson 3-10) | Kuwait, Grade 4 Term 1 student book, Unit 3 — Geometry, printed pp. 103–134 |
+| Volume | Kuwait, Grade 5 Term 2 student book, Unit 8 — Measurement, printed p. 150 |
 | Volume, inside the measurement unit | Kuwait, Grade 6 Term 2 student book, Unit 7 — Measurement, printed pp. 112–159 |
 | Volume and surface area of prisms and other solids | Kuwait, Grade 7 Term 1 student book, Unit 3 — Measurement and solids, printed pp. 131–185 |
 | Surface area and volume of prisms, cylinders and cones | Kuwait, Grade 8 Term 1 student book, Unit 3 — Geometry and measurement, printed pp. 126–175 |

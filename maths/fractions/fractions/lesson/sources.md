@@ -567,6 +567,7 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Fractions as parts of a whole and parts of a set — half, third and two-thirds, quarter, two quarters and three quarters | Kuwait, Grade 3 Term 2 student book, Unit 7 — Fractions and time, printed pp. 97–120 |
 | The fraction; equivalent fractions; simplest form; comparing and ordering fractions; mixed numbers and improper fractions | Kuwait, Grade 4 Term 2 student book, Unit 6 — Fractions, printed pp. 47–74 |
 | Fraction meaning, equivalent fractions, comparing and ordering fractions, fractions on the number line | Kuwait, Grade 5 Term 2 student book, Unit 5 — Fractions, printed pp. 17–42 |
+| Finding the least common denominator | Kuwait, Grade 5 Term 2 student book, Unit 5 — Fractions, printed p. 30 |
 | Fraction meaning and equivalence (inside the number-theory unit) | Kuwait, Grade 6 Term 1 student book, Unit 3 — Number theory and fractions, printed pp. 123–168 |
 | Fraction meaning and equivalence; comparing and ordering fractions and mixed numbers | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed pp. 15–62 |
 | Fractions in words only — parts of a whole, no notation yet | Iran, Grade 2 student book, Ch. 7 |

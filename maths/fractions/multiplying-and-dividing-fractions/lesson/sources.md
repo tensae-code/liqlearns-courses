@@ -210,6 +210,7 @@ only: Ghana's set holds no pupil textbook at all.
 
 **Book 99:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 100:** *Mathematics, Grade 4 student book* (ریاضی, code 405) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2372-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 101:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -279,6 +280,8 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplying fractions (this book teaches multiplication of fractions; no fraction division) | Kuwait, Grade 5 Term 2 student book, Unit 6 — Fraction operations, ratio and percentage, printed pp. 47–81 |
 | Multiplying and dividing fractions and mixed numbers — unit assessment taught corrected: 1/3 ÷ 6/7 = 7/18, which is not among the book's printed options | Kuwait, Grade 6 Term 1 student book, Unit 4 — Fraction operations, printed pp. 171–214 |
 | Multiplying and dividing fractions and mixed numbers (Grade 7 revisit) | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed pp. 15–62 |
+| Multiplying rational numbers and its properties (lesson 2-5) | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed p. 97 |
+| Dividing rational numbers (lesson 2-6) | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed p. 103 |
 | Multiplying and dividing fractions | Iran, Grade 5 student book, Ch. 2 |
 | Reciprocals defined; fraction multiplication and division consolidated | Iran, Grade 6 student book, Ch. 2 |
 | Fraction patterns continued (ادامه‌ی الگوهای کسری) — fraction work with patterns | Iran, Grade 4 student book, Ch. 2, printed p. 28 |

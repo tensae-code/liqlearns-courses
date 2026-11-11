@@ -449,6 +449,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 236:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 237:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 238:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -600,6 +601,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Plane area and perimeter formula table (support only — formula table, no worked problems) | Cambodia, Space Geometry booklet (private Khem Putthi booklet, first printing 2026), printed p. 261 (Appendix 2) |
 | Perimeter (lesson 4-9) and area (lesson 4-10) | Kuwait, Grade 3 Term 1 student book, Unit 4 — Multiplication of larger numbers, shapes, perimeter, area, printed pp. 139–164 |
 | Perimeter (lesson 3-7); measuring and comparing the area of plane surfaces (3-8); area of rectangle and square (3-9) | Kuwait, Grade 4 Term 1 student book, Unit 3 — Geometry, printed pp. 103–134 |
+| Perimeter of polygons | Kuwait, Grade 5 Term 2 student book, Unit 8 — Measurement, printed p. 142 |
+| Perimeter of the square and the rectangle | Kuwait, Grade 5 Term 2 student book, Unit 8 — Measurement, printed p. 144 |
+| Area of rectangular and square regions | Kuwait, Grade 5 Term 2 student book, Unit 8 — Measurement, printed p. 146 |
+| Area of a right-triangle region | Kuwait, Grade 5 Term 2 student book, Unit 8 — Measurement, printed p. 148 |
 | Perimeter and area of basic shapes | Kuwait, Grade 6 Term 1 student book, Unit 2 — Geometry, printed pp. 72–120 |
 | Area, inside the measurement unit | Kuwait, Grade 6 Term 2 student book, Unit 7 — Measurement, printed pp. 112–159 |
 | Area, inside the measurement and solids unit | Kuwait, Grade 7 Term 1 student book, Unit 3 — Measurement and solids, printed pp. 131–185 |

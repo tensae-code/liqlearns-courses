@@ -185,6 +185,9 @@ Every part traces to its book and page.
 **Book 134:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 135:** *Mathématiques 7ème AS, série Mathématiques (C)* — Mauritania, IPN, French, 201 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 136:** *GUIDE MATHÉMATIQUES 1AS* (Grade 7 teacher guide) — Mauritania, IPN, 2025, French, 100 pp. Teacher evidence only: programme presentation and chapter-by-chapter guidance mirroring the pupil book's nine chapters. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 137:** *Mathematics, Grade 2, Term 1 student book* — Kuwait, Ministry of Education, Second Edition 1448H / 2026–2027, ISBN 978-9921-33-083-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 138:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 139:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -286,7 +289,12 @@ Every part traces to its book and page.
 | Prime factorisation (30 = 2 × 3 × 5; 180 = 2² × 3² × 5; 360 = 2³ × 3² × 5); division ladder and factor tree | Cambodia, Grade 7 student book (14th printing 2020), L2, printed p. 20 |
 | GCD and LCM by prime factorisation (GCD(90, 126) = 18; LCM(6, 8) = 24; LCM(18, 24, 36) = 72); 90 × 126 rectangle tiled with 18 cm squares, 35 squares | Cambodia, Grade 7 student book (14th printing 2020), L2, printed pp. 22–23 |
 | Divisibility in ℤ (§8.1, printed p. 202); primes — a prime is a natural number greater than 1 with only 1 and itself as divisors; 37 is prime, 36 is not (§8.2, printed p. 210); GCD and LCM (§8.3, printed p. 218: GCD(42, 30) = 6; GCD(36, 12) = 12) — with the correction taught, never as printed: the Advanced guide's GCD/LCM answers on printed pp. 223–226 contain 11 errors (LCM 20,386,080, correct 6,011,280; 5 × 35 × 21 = 3885, correct 3675; and the rest) — use the student-book examples or the corrected values only | Cambodia, Grade 12 Advanced student book (12th printing 2020), Ch. 8 §§8.1–8.3, printed pp. 201–234 |
+| Even and odd numbers | Kuwait, Grade 2 Term 1 student book, Unit 1 — Numbers to 100, printed p. 38 |
 | Exploring factors (lesson 5-5); divisibility by 2, 5 and 10 (lesson 5-6) | Kuwait, Grade 4 Term 2 student book, Unit 5 — Division, printed pp. 17–42 |
+| Least common multiple (LCM) | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 120 |
+| Divisibility | Kuwait, Grade 5 Term 1 student book, Unit 4 — Division, printed p. 152 |
+| Factors and prime numbers | Kuwait, Grade 5 Term 1 student book, Unit 4 — Division, printed p. 154 |
+| Greatest common factor (GCF) | Kuwait, Grade 5 Term 2 student book, Unit 5 — Fractions, printed p. 22 |
 | Factors, multiples, prime and composite numbers; GCF and LCM in simple form | Kuwait, Grade 6 Term 1 student book, Unit 3 — Number theory and fractions, printed pp. 123–168 |
 | Divisibility rules | Iran, Grade 6 student book, Ch. 1 |
 | Divisors and multiples; highest common factor and least common multiple | Iran, Grade 7 student book, Ch. 5, printed pp. 55–68 |

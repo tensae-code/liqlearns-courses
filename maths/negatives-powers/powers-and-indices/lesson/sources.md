@@ -219,6 +219,8 @@ Every part traces to its book and page.
 **Book 150:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 151:** *Toán 11, Tập Hai* (Mathematics 11, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35080-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 152:** *Mathematics, Grade 6, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-067-0. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 153:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -312,6 +314,9 @@ Every part traces to its book and page.
 | Zero and negative powers in use (e^(−x)) — guide evidence only | Cambodia, Grade 12 Basic teacher guide, printed p. 221 |
 | Index laws for e (e^(m+n), e^(m−n), e^(−n), (e^m)^n); e^x > 0 for all x | Cambodia, Variation and Graphs booklet (private Khem Putthi booklet, first printing 2026), printed p. 179 |
 | Powers of i (i^(4k), i^(4k+1), i^(4k+2), i^(4k+3)); worked i^1975, i^1979, i^2019, i^2021, i^2025, i^2026 — all correct; large powers via De Moivre ((1+i)^2024 = 2^1012) | Cambodia, Complex Numbers booklet (private Khem Putthi booklet, first printing 2026), printed p. 10; printed pp. 95–96 |
+| Powers | Kuwait, Grade 6 Term 1 student book, Unit 3 — Number theory and fractions, printed p. 132 |
+| Exponents (lesson 2-1) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 68 |
+| Squares of whole numbers (lesson 2-3) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 77 |
 | Powers and roots, inside the rational-numbers unit | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed pp. 72–123 |
 | Laws of exponents (lesson 6-1) — product, quotient, power of a power, power of a product and of a quotient, zero and negative exponents | Kuwait, Grade 8 Term 2 student book, Unit 6 — Algebraic expressions, printed p. 85 |
 | Rational exponents and their properties (literary/Statistics track — a separate track from the scientific books) | Kuwait, Grade 11 Term 1 Statistics student book (literary track), Unit 1 — Real numbers, printed pp. 24–32 |

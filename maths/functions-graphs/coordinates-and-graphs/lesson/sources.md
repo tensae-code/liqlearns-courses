@@ -274,6 +274,7 @@ textbook.
 **Book 171:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 172:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 173:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 174:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -398,6 +399,7 @@ textbook.
 | General method for studying and sketching a function (domain; variation; limits; asymptotes; variation table; special points; sketch) — worked study of f(x) = (2x−1)/(x−1), centre I(1,2); study plan and graph sketching for rational functions — worked full studies (Ex. 3–5); tangents: slope m = f′(x₀), y − y₀ = f′(x₀)(x − x₀); asymptotes: vertical, horizontal, oblique y = ax+b | Cambodia, Derivatives booklet (private Khem Putthi booklet, first printing 2026), printed pp. 96–97 (§5); Variation and Graphs booklet (private Khem Putthi booklet, first printing 2026), printed p. 21 (§10); printed pp. 22–24; printed p. 16 (§§8–9); printed pp. 18–19 |
 | Full function studies (exponential: xe^x; x²e^(−x)); full function studies (logarithmic: x − ln x; x/ln x; e^x ln x) | Cambodia, Variation and Graphs booklet (private Khem Putthi booklet, first printing 2026), printed pp. 183–184 (Lesson 2 §6); printed pp. 246–248 (Lesson 3 §6) |
 | Coordinates on a grid (lesson 4-2) and ordered pairs (lesson 4-3) — partial, early | Kuwait, Grade 4 Term 1 student book, Unit 4 — Data, printed pp. 139–172 |
+| Ordered pairs (lesson 2-9) | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 60 |
 | Ordered pairs, relations and their representations (arrow diagrams, tables, graphs) and the Cartesian product — pre-function work, partial for this lesson | Kuwait, Grade 8 Term 1 student book, Unit 1 — Sets and relations, printed pp. 15–67 |
 | Distance between two points; midpoint coordinates | Kuwait, Grade 9 Term 1 student book, Unit 3 — Rational polynomials and coordinate geometry, printed pp. 141–153 |
 | Slope of a line; parallel and perpendicular lines | Kuwait, Grade 9 Term 2 student book, Unit 6 — Linear equations & inequalities, printed pp. 84–101 |

@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait
 
 Every part traces to its book and page.
 
@@ -60,6 +60,7 @@ Every part traces to its book and page.
 **Book 35:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 36:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 37:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 38:** *Mathematics, Grade 11, Term 1 exercise workbook (scientific track)* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-071-7. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). Workbook evidence only: exercises with no lessons, worked examples or answers; the Grade 11 Term 1 student book is NOT in hand, and this workbook is never cited as it.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -150,7 +151,10 @@ Every part traces to its book and page.
 | Factorising expressions by taking out a common factor (تجزیه عبارت‌های جبری) | Iran, Grade 8 student book, Ch. 4, printed p. 60 |
 | More identities, factorisation and applications (چند اتحاد دیگر، تجزیه و کاربردها) | Iran, Grade 9 student book, Ch. 5, printed p. 86 |
 
-**Acceptance count: taught in 16 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran)**.** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+| WORKBOOK ONLY — polynomial functions (تمرّن ٣-٢); student book not in hand | Kuwait, Grade 11 Term 1 exercise workbook (scientific track), Unit 3 — Polynomials, printed p. 41 |
+| WORKBOOK ONLY — solving polynomial equations (تمرّن ٣-٤); student book not in hand | Kuwait, Grade 11 Term 1 exercise workbook (scientific track), Unit 3 — Polynomials, printed p. 49 |
+
+**Acceptance count: taught in 17 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Iran, Kuwait)**.** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Libya carries factorisation in Grade 9, Chapter 1, where expansion and factorisation are taught as one chapter (stocked by the 2026-11-08 re-verification sweep).
 
@@ -165,3 +169,5 @@ Bolivia enters through the Área Matemática sections of its Ministerio de Educa
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 7: Factorising by taking out the common factor; Factorising by grouping terms; Factorising the difference of two squares; Sum of cubes: a^3 + b^3 = (a + b)(a^2 - ab + b^2); Difference of cubes: a^3 - b^3 = (a - b)(a^2 + ab + b^2); Applying the sum- and difference-of-cubes formulas.
 
 Armenia enters through its Algebra 7. From its books: factorising a polynomial; factorising a polynomial by the identities.
+
+Kuwait enters as workbook evidence only — polynomial functions and solving polynomial equations in the Grade 11 Term 1 exercise workbook (scientific track), Unit 3 — Polynomials, printed pp. 41 and 49; the Grade 11 Term 1 student book is not in hand, and the workbook is never cited as it. Stocked 2026-11-11 by the Kuwait re-verification sweep merge.

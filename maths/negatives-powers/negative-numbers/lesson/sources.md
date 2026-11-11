@@ -144,6 +144,7 @@ Every part traces to its book and page.
 **Book 96:** *Mathematics, Grade 6, Teacher Guide, Term 1* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-415-6 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 6 Term 1 course. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 97:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 98:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 99:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -213,6 +214,10 @@ Every part traces to its book and page.
 | Negatives inside rational arithmetic | Cambodia, Grade 8 student book (11th printing 2020), L1, printed pp. 1–12 |
 | Below zero and the number line (real numbers and order, negatives included) | Cambodia, Grade 10 student book Part 1 (3rd printing 2020), Ch. 1 Lesson 3, printed p. 36 |
 | Integers — negative numbers, the number line, comparing and ordering integers, adding and subtracting integers | Kuwait, Grade 6 Term 2 student book, Unit 5 — Integers, printed pp. 16–65 |
+| Integers (lesson 2-6) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 90 |
+| Adding integers (lesson 2-7) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 94 |
+| Subtracting integers (lesson 2-8) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 100 |
+| Multiplying and dividing integers (lesson 2-9) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 105 |
 | Rational numbers including negatives on the number line; absolute value | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed pp. 72–123 |
 | Integers introduced through signed readings — temperatures and the like; no operations on them yet | Iran, Grade 6 student book, Ch. 1 |
 | Full integer arithmetic | Iran, Grade 7 student book, Ch. 2, printed pp. 13–26 |

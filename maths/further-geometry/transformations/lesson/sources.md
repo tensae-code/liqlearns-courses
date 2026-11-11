@@ -212,6 +212,7 @@ textbook.
 **Book 118:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 119:** *Mathématiques 7ème AS, série Mathématiques (C)* — Mauritania, IPN, French, 201 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 120:** *Chuyên đề học tập Toán 11* (Mathematics 11 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35081-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 121:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -302,8 +303,10 @@ textbook.
 | Rotation about the origin of the complex plane: z ↦ z′ = (cos α + i sin α)z, proved | Cambodia, Complex Numbers booklet (private Khem Putthi booklet, first printing 2026), printed p. 64 (§6 of Lesson 2) |
 | Movement of shapes (lesson 4-8) — early | Kuwait, Grade 3 Term 1 student book, Unit 4 — Multiplication of larger numbers, shapes, perimeter, area, printed pp. 139–164 |
 | Movement of shapes (lesson 3-12) — early | Kuwait, Grade 4 Term 1 student book, Unit 3 — Geometry, printed pp. 103–134 |
+| Congruence and movement of shapes | Kuwait, Grade 5 Term 2 student book, Unit 7 — Probability and geometry, printed p. 122 |
 | Translations, reflections and rotations | Kuwait, Grade 7 Term 1 student book, Unit 4 — Transformation geometry and statistics, printed pp. 187–229 |
-| Translations, reflections, rotations and enlargements | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed pp. 178–216 |
+| Reflection — symmetry about a point (lesson 4-4) | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed p. 196 |
+| Translation in the coordinate plane (lesson 4-5) | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed p. 205 |
 | Rotation in the plane about the origin — the D(O, ±90°/180°/270°) rules | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 166–176 |
 | Enlargement about the origin — centre, scale factor m, area ratio m² | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 177–186 |
 | Projection only: parallel projection and orthogonal projection (the book teaches no reflection, rotation, translation or dilation as transformation topics) | North Macedonia, Grade 8 (2010 edition), Theme 4, printed pp. 168–170 |

@@ -425,6 +425,9 @@ CITATION CHECK PASSED 2026-11-04).
 | Scale as a ratio (1:400, 1:100, 1/500, 1/2,000,000) | Cambodia, Grade 5 student book (11th printing 2020), L18, printed pp. 121–124; Grade 8 student book (11th printing 2020), L18, printed pp. 231–236 |
 | Ratio and proportion in simple form — unit review Q26 taught corrected: the table (5, 8) and (10, 24) is not equivalent (5/8 ≠ 10/24); likely 15, not 10 | Kuwait, Grade 5 Term 2 student book, Unit 6 — Fraction operations, ratio and percentage, printed pp. 47–81 |
 | Ratio, equivalent ratios, proportion and direct proportion; inheritance shares worked as ratio problems | Kuwait, Grade 6 Term 2 student book, Unit 6 — Ratio and proportion, printed pp. 66–108 |
+| Scale drawing, maps and designs | Kuwait, Grade 6 Term 2 student book, Unit 6 — Ratio and proportion, printed p. 81 |
+| Rates and unit rate | Kuwait, Grade 6 Term 2 student book, Unit 6 — Ratio and proportion, printed p. 85 |
+| Solving proportion problems — similar geometric shapes | Kuwait, Grade 6 Term 2 student book, Unit 6 — Ratio and proportion, printed p. 99 |
 | Ratio and proportion — direct and inverse proportion | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed pp. 178–216 |
 | Ratio and proportion — cross-multiplication and its converse, the properties of proportion (invertendo, alternando), continued (geometric) proportion and the geometric mean, sums of antecedents and consequents | Kuwait, Grade 10 Term 1 student book, Unit 2 — Plane geometry, printed pp. 82–96 |
 | Ratio between two segments; ratio of numbers — equal, inverse and continued ratios, and the unknown term; proportional segments and proportion with its unknown term; the geometric mean of two segments; dividing a segment into equal parts and in a given ratio | North Macedonia, Grade 8 (2010 edition), Theme 1, printed pp. 4–15 |

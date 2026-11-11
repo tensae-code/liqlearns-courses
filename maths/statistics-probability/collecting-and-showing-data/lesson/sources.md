@@ -678,8 +678,10 @@ Every part traces to its book and page.
 | Organising data — pictograph, bar graph and dot plot (lessons 6-6 to 6-9) | Kuwait, Grade 3 Term 2 student book, Unit 6 — Division with remainder, even/odd, data, printed pp. 49–72 |
 | Pictographs, bar graphs and double bar graphs, line graphs and double line graphs, line plots (Unit 4, Data) | Kuwait, Grade 4 Term 1 student book, Unit 4 — Data, printed pp. 139–172 |
 | Collecting and organising data — tables, pictographs and bar graphs; reading and interpreting data | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed pp. 46–80 |
+| Venn diagrams and Carroll diagrams | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 70 |
 | Data collection, tables and bar graphs; interpreting data | Kuwait, Grade 6 Term 2 student book, Unit 8 — Probability and statistics, printed pp. 162–205 |
 | Data collection and bar-graph representation | Kuwait, Grade 7 Term 1 student book, Unit 4 — Transformation geometry and statistics, printed pp. 187–229 |
+| Stem-and-leaf plots (lesson 4-6) | Kuwait, Grade 7 Term 1 student book, Unit 4 — Transformation geometry and statistics, printed p. 216 |
 | Double stem-and-leaf plots (lesson 8-4) and pie charts (lesson 8-5) | Kuwait, Grade 8 Term 2 student book, Unit 8 — Probability — Statistics, printed pp. 175–230 |
 | Frequency histograms | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 187–190 |
 | Frequency polygons | Kuwait, Grade 9 Term 1 student book, Unit 4 — Transformations, statistics and probability, printed pp. 191–197 |

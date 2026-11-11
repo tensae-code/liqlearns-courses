@@ -304,6 +304,7 @@ Every part traces to its book and page.
 **Book 224:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 225:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 226:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 227:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -439,6 +440,8 @@ Every part traces to its book and page.
 | Exponential equations: e^x = a ⇔ x = ln a (a > 0); logarithmic equations and inequalities; systems of equations — worked ln(x−2)+ln(x+2) = ln 45 and 3e^(2x)+e^x−10 = 0 | Cambodia, Variation and Graphs booklet (private Khem Putthi booklet, first printing 2026), printed p. 179 (§3); printed pp. 242–245 (§5) |
 | Equations in ℂ (linear and quadratic equations in ℂ, systems in ℂ×ℂ) | Cambodia, Complex Numbers booklet (private Khem Putthi booklet, first printing 2026), printed pp. 156–161 (Lesson 4 research exercises; section range only, no single page pinned) |
 | One-step and two-step equations, solved by inverse operations | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed pp. 64–127 |
+| Solving equations involving addition and subtraction of fractions (lesson 5-8) | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed p. 48 |
+| Solving equations involving multiplication and division of fractions (lesson 5-9) | Kuwait, Grade 7 Term 2 student book, Unit 5 — Fractions and operations, printed p. 52 |
 | First-degree equations in one variable (lesson 7-4), including turning recurring decimals into fractions | Kuwait, Grade 8 Term 2 student book, Unit 7 — Factorising algebraic expressions, printed p. 147 |
 | Absolute-value equations (e.g. |2x + 1| = 3 → {1, −2}) inside the absolute-value lesson | Kuwait, Grade 9 Term 1 student book, Unit 1 — Real numbers and operations, printed pp. 36–42 |
 | Solving absolute-value equations — |ax + b| = c, |ax + b| = |cx + d|, and |ax + b| = cx + d with the condition cx + d ≥ 0 | Kuwait, Grade 10 Term 1 student book, Unit 1 — Algebra & solving equations, printed pp. 33–42 |

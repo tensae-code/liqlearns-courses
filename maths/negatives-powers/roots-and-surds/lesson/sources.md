@@ -167,6 +167,7 @@ Every part traces to its book and page.
 **Book 114:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 115:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 116:** *Mathematics (1), Grade 10 student book* (shared by the Mathematical Sciences and Experimental Sciences branches; code 110211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2512-8. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -243,6 +244,7 @@ Every part traces to its book and page.
 | Irrational functions (y = √(2x − 4): domain [2, +∞), y′ = 1/√(2x − 4) > 0, points (2,0), (4,2)) | Cambodia, Grade 12 Advanced student book (12th printing 2020), Ch. 3 §3.1, printed p. 42 |
 | Square roots of negatives: √(−c) = i√c (c > 0); worked √(−144) = 12i, √(−12) = 2i√3, √(−169) = 13i, √(−25) = 5i | Cambodia, Complex Numbers booklet (private Khem Putthi booklet, first printing 2026), printed pp. 9–10 |
 | Rationalising with conjugates; cube-root conjugate (A² + ∛AB + B²) — surds as a tool inside limit computations, not the lesson topic; worked limits all verified correct (lim (∛x−2)/(x−8) = 1/12 as x→8; lim (∛(1+x²)−1)/x² = 1/3 as x→0) | Cambodia, Limits and Continuity booklet (private Khem Putthi booklet, first printing 2026), printed pp. 34–44 (§3) |
+| Square roots of whole numbers (lesson 2-3) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 77 |
 | Roots and irrational numbers introduced (√2, √3) — partial: these bands introduce roots and irrationals only, with no surd arithmetic | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed pp. 72–123 |
 | Square roots and irrational numbers | Kuwait, Grade 9 Term 1 student book, Unit 1 — Real numbers and operations, printed pp. 20–23 |
 | Roots and radical expressions — simplifying radicals; adding, subtracting, multiplying and dividing radicals; conjugates (literary/Statistics track) | Kuwait, Grade 11 Term 1 Statistics student book (literary track), Unit 1 — Real numbers, printed pp. 12–23 |

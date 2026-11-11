@@ -259,6 +259,7 @@ Every part traces to its book and page.
 **Book 184:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 185:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 186:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 187:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -401,6 +402,7 @@ Every part traces to its book and page.
 | Monomials and polynomials, degree; addition and subtraction of polynomials, i.e. combining like terms | Cambodia, Grade 10 student book Part 1 (3rd printing 2020), Ch. 2 Lesson 1 §1.1, printed p. 54; §1.2, printed p. 62 |
 | Expanding brackets: multiplication of polynomials; notable identities, e.g. (x+3)(x−3) | Cambodia, Grade 10 student book Part 1 (3rd printing 2020), Ch. 2 §1.2, printed p. 62; §1.3, printed p. 69 |
 | Factorising polynomials; extension in the same book: division of polynomials (printed p. 78), GCD/LCM of polynomials (printed p. 81), rational expressions (printed p. 83) | Cambodia, Grade 10 student book Part 1 (3rd printing 2020), Ch. 2 §1.3, printed p. 69 |
+| Using algebraic expressions | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 130 |
 | The variable concept introduced (lesson 5-6, inside the integers unit) — early, partial | Kuwait, Grade 6 Term 2 student book, Unit 5 — Integers, printed p. 41 |
 | Variables, algebraic expressions and evaluating expressions | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed pp. 64–127 |
 | Unit 2 opener taught corrected: Kuwait's highest recorded temperature is 53.9°C on 21 July 2016 at Mitribah (WMO-verified), not the printed 52.1°C on 30 July 2020 | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, opener, printed p. 63 |

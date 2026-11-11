@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait
 
 Every part traces to its book and page.
 
@@ -95,6 +95,7 @@ Every part traces to its book and page.
 **Book 66:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 67:** *Mathematics, Grade 7 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 6th ed., 1445H/2023; no ISBN printed. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 **Book 68:** *Mathematics, Grade 8 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 5th ed., 1445H/2023; no ISBN printed. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 69:** *Mathematics, Grade 9, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-112-7 (Part 1). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -262,9 +263,12 @@ Every part traces to its book and page.
 | Rational numbers introduced (معرفی عددهای گویا) | Iran, Grade 8 student book, Ch. 1, printed p. 6 |
 | Rational numbers (عددهای گویا) | Iran, Grade 9 student book, Ch. 2, printed p. 19 |
 | Real numbers (عددهای حقیقی) | Iran, Grade 9 student book, Ch. 2, printed p. 23 |
-**Acceptance count: taught in 26 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+| Operations on real numbers (lesson ١-٣) | Kuwait, Grade 9 Term 1 student book, Unit 1 — Real numbers and operations, printed p. 32 |
+**Acceptance count: taught in 27 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
 
 Vietnam carries the number-system climb across Grades 4, 6 and 7 — first look at the sequence of natural numbers (Grade 4), the set of rational numbers, irrational numbers and the arithmetic square root, and the set of real numbers (Grade 7). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
+
+Kuwait carries operations on real numbers in Grade 9 Term 1 (lesson ١-٣, printed p. 32); its comparison and order of real numbers are stocked in the comparing-and-ordering lesson. Stocked 2026-11-11 by the Kuwait re-verification sweep merge.
 
 Libya carries the real number system in Grade 7 — whole numbers in Chapter 1 and rational and irrational numbers in Chapter 2 (stocked by the 2026-11-08 re-verification sweep).
 

@@ -269,6 +269,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 137:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 138:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 140:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -356,6 +357,8 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percentage error (absolute, relative, percentage error) — inside Differentials and approximation; worked values correct | Cambodia, Derivatives booklet (private Khem Putthi booklet, first printing 2026), printed pp. 87–89 |
 | Percentage as parts per hundred (inside the fraction-operations, ratio and percentage unit) | Kuwait, Grade 5 Term 2 student book, Unit 6 — Fraction operations, ratio and percentage, printed pp. 47–81 |
 | Percentages and their uses — percentage of a number, percentage increase and decrease, discount, and zakat | Kuwait, Grade 7 Term 2 student book, Unit 7 — Percentages and their uses, printed pp. 130–171 |
+| Using equations to solve percentage problems (lesson 4-2) | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed p. 187 |
+| Percentage increase and percentage decrease (lesson 4-3) | Kuwait, Grade 8 Term 1 student book, Unit 4 — Ratio and proportion: geometric transformations, printed p. 191 |
 | Estimating percentages — rounding the rate and the quantity to friendly numbers first | Kuwait, Grade 9 Term 2 student book, Unit 8 — Percentages, geometry & measurement, printed pp. 208–211 |
 | Percentage increase and decrease — final value = original × (100% ± rate) | Kuwait, Grade 9 Term 2 student book, Unit 8 — Percentages, geometry & measurement, printed pp. 212–217 |
 | Applications of percentage change — successive changes, and the percentage needed to return to the original | Kuwait, Grade 9 Term 2 student book, Unit 8 — Percentages, geometry & measurement, printed pp. 218–222 |

@@ -347,6 +347,7 @@ Every part traces to its book and page.
 | Estimating the division result (lesson 5-3) | Kuwait, Grade 4 Term 2 student book, Unit 5 — Division, printed pp. 17–42 |
 | Rounding decimal numbers; estimating addition and subtraction of decimals (lessons 7-7, 7-8) | Kuwait, Grade 4 Term 2 student book, Unit 7 — Decimals, printed pp. 103–128 |
 | Rounding whole numbers and decimals | Kuwait, Grade 5 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 14–45 |
+| Estimating the results of addition and subtraction | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 49 |
 | Rounding whole numbers and decimals (Grade 6 revisit) | Kuwait, Grade 6 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 16–69 |
 | Estimation with whole numbers and decimals | Kuwait, Grade 7 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 16–62 |
 | Estimating a count and then counting to check — to 20 and to 30 (estimating only; no rounding is taught in this book) | North Macedonia, Grade 1, Block F, printed pp. 108, 117 |

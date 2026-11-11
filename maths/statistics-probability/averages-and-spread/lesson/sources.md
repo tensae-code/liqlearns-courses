@@ -261,6 +261,9 @@ Every part traces to its book and page.
 **Book 189:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 190:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35079-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 191:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 192:** *Mathematics, Grade 6, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 193:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -369,6 +372,11 @@ Every part traces to its book and page.
 | Expectation E(X) = Σxᵢpᵢ; E(c) = c, E(aX+b) = aE(X)+b, E(X+Y) = E(X)+E(Y); fair game E(X) = 0 — worked table (0,1,2,3) with probabilities (0.1,0.4,0.3,0.2) gives E = 1.6 | Cambodia, Probability booklet (private Khem Putthi booklet, first printing 2026), printed pp. 129–132 (§3) |
 | Variance V(X) = Σ(xᵢ−μ)²pᵢ = E(X²) − [E(X)]²; standard deviation σ(X) = √V(X); V(aX+b) = a²V(X) — worked same table gives V = 0.84, σ ≈ 0.9165; one die: E = 3.5, V = 35/12 ≈ 2.92, σ ≈ 1.71; binomial mean and variance E(X) = np, V(X) = npq — worked 5 coin tosses E = 2.5, V = 1.25 | Cambodia, Probability booklet (private Khem Putthi booklet, first printing 2026), printed pp. 129–136 (§§3–4) |
 | Exploring mode, median and range (lesson 4-11); exploring mean (lesson 4-12) | Kuwait, Grade 4 Term 1 student book, Unit 4 — Data, printed pp. 139–172 |
+| The mean (arithmetic average) | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 72 |
+| Range, median and mode | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 74 |
+| The mean | Kuwait, Grade 6 Term 2 student book, Unit 9, printed p. 192 |
+| Median, mode and range | Kuwait, Grade 6 Term 2 student book, Unit 9, printed p. 196 |
+| Mean, median and mode (lesson 4-7) | Kuwait, Grade 7 Term 1 student book, Unit 4 — Transformation geometry and statistics, printed p. 220 |
 | Mean, median and mode (lesson 8-6), including mean from grouped data using class centres — no quartiles or dispersion beyond range in these bands | Kuwait, Grade 8 Term 2 student book, Unit 8 — Probability — Statistics, printed pp. 215–221 |
 | Mean, median (including from cumulative-frequency curves) and mode — including the lever-law and histogram modes | Kuwait, Grade 10 Term 2 student book, Unit 10 — Statistics and Probability, printed pp. 158–169 |
 | Quartiles, the five-number summary and the box-and-whisker plot | Kuwait, Grade 10 Term 2 student book, Unit 10 — Statistics and Probability, printed pp. 170–175 |
@@ -376,6 +384,7 @@ Every part traces to its book and page.
 | Median, lower and upper quartiles and the box-and-whisker plot, including grouped-data interpolation (literary/Statistics track) | Kuwait, Grade 11 Term 2 Statistics student book (literary track), Unit 4 — Describing data, printed pp. 12–18 |
 | Skewness — its relation to the mean, median and mode, and to the box plot (literary/Statistics track) | Kuwait, Grade 11 Term 2 Statistics student book (literary track), Unit 4 — Describing data, printed pp. 19–22 |
 | Dispersion — range, semi-interquartile range, variance and standard deviation; the normal distribution and the empirical rule; the standard value (z-score) (literary/Statistics track) | Kuwait, Grade 11 Term 2 Statistics student book (literary track), Unit 4 — Describing data, printed pp. 23–32 |
+| Statistical applications — measures of central tendency; the median (lesson 4-4) (literary/Statistics track) | Kuwait, Grade 11 Term 2 Statistics student book (literary track), Unit 4 — Describing data, printed pp. 33–39 |
 | Workbook exercises only — median, quartiles, box plots, skewness, dispersion, the empirical rule and z-scores (literary/Statistics track) | Kuwait, Grade 11 Term 2 Statistics workbook (literary track), Unit 4 — Describing Data, printed pp. 8–30 |
 | Workbook exercises taught corrected — printed p. 13, Exercise 4-2 item (4): the list has 24 ages, not the stated 25; printed p. 25, Unit 4 test item (11): no printed box plot is correct — the upper quartile of the data is 18, not the 17 drawn | Kuwait, Grade 11 Term 2 Statistics workbook (literary track), Unit 4 — Describing Data, printed pp. 13 and 25 |
 | Workbook exercises only — standard deviation, the empirical rule and standardised values (scientific track) | Kuwait, Grade 11 Term 1 workbook (scientific track), Unit 6 — Discrete algebra (Statistics), printed pp. 91–96 |

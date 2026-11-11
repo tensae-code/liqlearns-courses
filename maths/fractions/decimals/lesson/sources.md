@@ -471,6 +471,14 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Fraction ↔ decimal; comparing and rounding decimals; decimal operations (2.56 × 8 = 20.48; 1.42 ÷ 5/6 = 1.704); negative decimals −1.25, −10.016 | Cambodia, Grade 7 student book (14th printing 2020), L5, printed pp. 53–62 |
 | Tenths and hundredths; decimal numbers; comparing and ordering in decimal form; adding and subtracting decimals — extra-practice item 29 taught corrected: 0.6 has no partner summing to 1.5 among the offered partners (it needs 0.9) | Kuwait, Grade 4 Term 2 student book, Unit 7 — Decimals, printed pp. 103–128 |
 | Decimal place value, comparing, ordering, rounding and decimal operations | Kuwait, Grade 5 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 14–45 |
+| Reading and writing decimals | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 56 |
+| Place value of decimals | Kuwait, Grade 5 Term 1 student book, Unit 2 — Data and statistics, printed p. 58 |
+| The decimal point | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 122 |
+| Comparing decimals | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 124 |
+| Ordering decimals | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 126 |
+| Rounding decimals | Kuwait, Grade 5 Term 1 student book, Unit 3 — Multiplication, printed p. 128 |
+| Multiplying decimals by whole numbers | Kuwait, Grade 5 Term 1 student book, Unit 4 — Division, printed p. 164 |
+| Dividing decimals by whole numbers | Kuwait, Grade 5 Term 1 student book, Unit 4 — Division, printed p. 166 |
 | Operations with whole numbers and decimals | Kuwait, Grade 6 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 16–69 |
 | Decimal operations and estimation | Kuwait, Grade 7 Term 1 student book, Unit 1 — Whole numbers and decimals, printed pp. 16–62 |
 | Recurring decimals, inside the rational-numbers unit | Kuwait, Grade 8 Term 1 student book, Unit 2 — Rational numbers, printed pp. 72–123 |

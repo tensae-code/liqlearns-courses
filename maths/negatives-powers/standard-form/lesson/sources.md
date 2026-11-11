@@ -80,6 +80,7 @@ Every part traces to its book and page.
 **Book 50:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 
 **Book 51:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 52:** *Mathematics, Grade 7, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-075-5. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -110,6 +111,7 @@ Every part traces to its book and page.
 | Scientific notation: 0.7 = 7×10⁻¹, 0.00071 = 7.1×10⁻⁴, Earth's mass 5.972×10²¹ kg, hydrogen atom 1.673×10⁻²⁷ kg; multiplication and division in scientific notation | Nepal, Grade 8, Unit 13 Rational Numbers, printed pp. 104–109 (the rocket problem is taught corrected: the total is 2.7×10⁹ km, not 2.7×10⁸ km) |
 | Scientific notation A × 10ⁿ with 1 ≤ A < 10 | Cambodia, Grade 8 student book (11th printing 2020), L2 §4.5, printed p. 21 |
 | Neighbouring groundwork, not standard-form teaching: powers and roots (Grade 7 L1 §8.3); length units in powers of 10 (1 mm = 10⁻³ m) | Cambodia, Grade 7 student book (14th printing 2020), L1 §8.3, printed pp. 12–13; Grade 8 student book (11th printing 2020), L4 §1, printed p. 43 |
+| Writing numbers in scientific notation (standard form) (lesson 2-2) | Kuwait, Grade 7 Term 1 student book, Unit 2 — Linking arithmetic to algebra, printed p. 73 |
 | Scientific notation with integer exponents — writing, converting and operating (65,241 = 6.5241×10⁴; 0.00256 = 2.56×10⁻³; (2.1×10⁵) ÷ (3×10⁻²) = 7×10⁶; the Jupiter–Earth diameter difference 1.302×10⁵ km) | Kuwait, Grade 9 Term 1 student book, Unit 1 — Real numbers and operations, printed pp. 51–58 |
 | Scientific notation project | Kuwait, Grade 9 Term 1 student book, Project 1, printed p. 113 |
 | Scientific notation — a × 10ⁿ with 1 ≤ a < 10 | Iran, Grade 9 student book, Ch. 4, Lesson 2, printed pp. 65–67 |
