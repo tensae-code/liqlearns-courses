@@ -1,6 +1,6 @@
 # Sources — Checking Facts Online
 
-countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia, Iceland
+countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia, Iceland, Philippines
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | All three sub lessons — identifying fake news taught as a procedure text: how to spot a false online claim and check it before believing it | Indonesia, English for Nusantara Grade 9, printed p.324 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Samoa, Uruguay, Moldova, Colombia, Iceland).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the fake-news check taught as a full procedure with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). No book headline or claim text is reproduced. Other countries' fact-checking teaching joins as their sweep merges land.
+**Acceptance count: taught in 7 countries (Indonesia, Samoa, Uruguay, Moldova, Colombia, Iceland, Philippines).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the fake-news check taught as a full procedure with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). No book headline or claim text is reproduced. Other countries' fact-checking teaching joins as their sweep merges land.
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -198,3 +198,17 @@ The 2026-11-10 expansion read read Iceland's in-hand English set from the secure
 Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.
+
+## Philippines added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Philippines' in-hand English set from the PDF — **1 student file, 0 teacher files**: *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (Department of Education — DepEd; printed by REX Book Store, Inc. for DepEd-IMCS) — **73 teaching items placed, 0 already in the course**. The held file is **Module 3 only** ("Reconciling with Nature", printed pp.263–397) of the book's four modules — Modules 1, 2 and 4 are not in hand (flag F1: the record names the file "unit-3-full-year.pdf", but the file itself is one module, and no row below claims more than Module 3). Every row rests on a genuine pupil's Learner's Material, so **the Philippines is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: a full page-by-page read of all 143 PDF pages — pages with a usable text layer read via per-page text extraction, and the 61 image-only or low-text pages rendered and read visually; printed page = PDF page + 254. The read copy came from the record's Google Drive second source because both GitHub payload routes failed on this 23 MB file from the reading host, and it is byte-identical to the secured GitHub record (23,005,580 bytes; git blob SHA dd486c2402a75e1747934ab17b38539c941b8f67) — flag F2, declared here rather than silently; the read stands on the secured record. The Philippines stays **PARTIAL** for English (flag F4): named link-only English books remain outstanding (the Grade 8 English Learner's Material complete file; the SHS English for Academic and Professional Purposes Reader; unit sets for English 1–5, 7, 9 and 10; HOTS guides), and English 10 Modules 1, 2 and 4 have no held file. The rows below are stocked from the expansion placements (philippines-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (student's book) — Philippines, Department of Education (DepEd), printed by REX Book Store, Inc. for DepEd-IMCS. Module 3 only ("Reconciling with Nature"), printed pp.263–397 (143 PDF pp.; printed page = PDF page + 254). Book errors carried, taught corrected where a row rests on them: E1 the contents spell the author of "A Day in the Country" as "Anton Checkov" (for Anton Chekhov) and the Lesson 1 activity "Connect and Kinect" (for Connect); E2 "LouisArmstrong" printed without a space (printed p.275); E3 the eulogy source printed as "speaming-tips.com" (for speaking-tips.com); E4 the pronoun-case table (printed p.288) merges the subjective and possessive cases under one combined header although the text names three cases; E5 the Lesson 3 word list (printed p.318) prints "clutter" where the poem on printed p.317 reads "clatter"; E6 two readings — "To Build a Fire" (printed pp.338–341) and "The Last Leaf" (printed pp.377–380) — are simplified adaptations (the first is the VOA Learning English version) presented as the authors' originals with no adaptation label; E7 a source printed as "Source:http/www.ehow.com/..." with the colon missing (printed p.369); E8 Lesson 6 Task 9 (printed p.384) points to "your next lesson" for phrases that stand in the Clarke story later in the same lesson (printed pp.385–388).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Identifying textual details that affirm or refute a claim, and examining bias in a text (Lesson 6 objectives) | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed p.373 |
+
+Philippines is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/philippines-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji, Eritrea, Samoa, Nigeria, Papua New Guinea, Zimbabwe, Canada, Andorra
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan, Sudan, Armenia, Ethiopia, Barbados, Fiji, Eritrea, Samoa, Nigeria, Papua New Guinea, Zimbabwe, Canada, Andorra, Philippines
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,9 +88,9 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 18 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
+**Acceptance count: taught in 19 countries (Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China,
 Mexico, Mongolia, Pakistan, Sierra Leone, South Sudan,
-Sudan, Armenia, Ethiopia, Fiji, Eritrea, Samoa).** Egypt sets the speech for or against an
+Sudan, Armenia, Ethiopia, Fiji, Eritrea, Samoa, Philippines).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -366,3 +366,18 @@ The 2026-11-10 expansion read read Andorra's in-hand English set from the PDFs �
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Andorra's in-hand set is two teacher curriculum programmes only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/andorra-placements.md.
+
+## Philippines added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Philippines' in-hand English set from the PDF — **1 student file, 0 teacher files**: *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (Department of Education — DepEd; printed by REX Book Store, Inc. for DepEd-IMCS) — **73 teaching items placed, 0 already in the course**. The held file is **Module 3 only** ("Reconciling with Nature", printed pp.263–397) of the book's four modules — Modules 1, 2 and 4 are not in hand (flag F1: the record names the file "unit-3-full-year.pdf", but the file itself is one module, and no row below claims more than Module 3). Every row rests on a genuine pupil's Learner's Material, so **the Philippines is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: a full page-by-page read of all 143 PDF pages — pages with a usable text layer read via per-page text extraction, and the 61 image-only or low-text pages rendered and read visually; printed page = PDF page + 254. The read copy came from the record's Google Drive second source because both GitHub payload routes failed on this 23 MB file from the reading host, and it is byte-identical to the secured GitHub record (23,005,580 bytes; git blob SHA dd486c2402a75e1747934ab17b38539c941b8f67) — flag F2, declared here rather than silently; the read stands on the secured record. The Philippines stays **PARTIAL** for English (flag F4): named link-only English books remain outstanding (the Grade 8 English Learner's Material complete file; the SHS English for Academic and Professional Purposes Reader; unit sets for English 1–5, 7, 9 and 10; HOTS guides), and English 10 Modules 1, 2 and 4 have no held file. The rows below are stocked from the expansion placements (philippines-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (student's book) — Philippines, Department of Education (DepEd), printed by REX Book Store, Inc. for DepEd-IMCS. Module 3 only ("Reconciling with Nature"), printed pp.263–397 (143 PDF pp.; printed page = PDF page + 254). Book errors carried, taught corrected where a row rests on them: E1 the contents spell the author of "A Day in the Country" as "Anton Checkov" (for Anton Chekhov) and the Lesson 1 activity "Connect and Kinect" (for Connect); E2 "LouisArmstrong" printed without a space (printed p.275); E3 the eulogy source printed as "speaming-tips.com" (for speaking-tips.com); E4 the pronoun-case table (printed p.288) merges the subjective and possessive cases under one combined header although the text names three cases; E5 the Lesson 3 word list (printed p.318) prints "clutter" where the poem on printed p.317 reads "clatter"; E6 two readings — "To Build a Fire" (printed pp.338–341) and "The Last Leaf" (printed pp.377–380) — are simplified adaptations (the first is the VOA Learning English version) presented as the authors' originals with no adaptation label; E7 a source printed as "Source:http/www.ehow.com/..." with the colon missing (printed p.369); E8 Lesson 6 Task 9 (printed p.384) points to "your next lesson" for phrases that stand in the Clarke story later in the same lesson (printed pp.385–388).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Planning a speech: organising content, and fixing the general versus the specific purpose (Task 10 "Get It on Paper") | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed pp.292–293 |
+| The three speech purposes distinguished: informative, persuasive and argumentative speaking, and when each is used (Task 10) | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed p.293 |
+
+Philippines is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/philippines-placements.md.

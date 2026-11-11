@@ -1,6 +1,6 @@
 # Sources — Speech marks
 
-countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Dominican Republic
+countries: Malaysia, Rwanda, South Africa, Indonesia, India, Ghana, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Dominican Republic, Philippines
 
 Every part traces to its book and page.
 
@@ -75,8 +75,8 @@ verification sweep.
 | Punctuation and quotation marks in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Quotation marks in the book's closing grammar stretch (with simple, compound and complex sentences) | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 14 countries (Malaysia,
-Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji, Eritrea, Samoa, Dominican Republic).** Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
+**Acceptance count: taught in 15 countries (Malaysia,
+Rwanda, South Africa, Indonesia, India, Pakistan, Palestine, South Sudan, Yemen, Ethiopia, Fiji, Eritrea, Samoa, Dominican Republic, Philippines).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Yemen joins with speech marks in its Grade 9 story and the semi-colon box in its Grade 11 workbook (stocked 2026-11-11 by the re-verification sweep merge). India joins with contractions and the apostrophe named in Class 3 and taught formally in Class 5, and Class 12's noticed direct speech inside narration (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia's evidence is its Year
 6 Scheme of Work — a teacher planning document, not a
 pupil's textbook — and is worded as mapped coverage
 throughout: Unit 1 of the map sets direct speech
@@ -331,3 +331,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Philippines added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Philippines' in-hand English set from the PDF — **1 student file, 0 teacher files**: *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (Department of Education — DepEd; printed by REX Book Store, Inc. for DepEd-IMCS) — **73 teaching items placed, 0 already in the course**. The held file is **Module 3 only** ("Reconciling with Nature", printed pp.263–397) of the book's four modules — Modules 1, 2 and 4 are not in hand (flag F1: the record names the file "unit-3-full-year.pdf", but the file itself is one module, and no row below claims more than Module 3). Every row rests on a genuine pupil's Learner's Material, so **the Philippines is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: a full page-by-page read of all 143 PDF pages — pages with a usable text layer read via per-page text extraction, and the 61 image-only or low-text pages rendered and read visually; printed page = PDF page + 254. The read copy came from the record's Google Drive second source because both GitHub payload routes failed on this 23 MB file from the reading host, and it is byte-identical to the secured GitHub record (23,005,580 bytes; git blob SHA dd486c2402a75e1747934ab17b38539c941b8f67) — flag F2, declared here rather than silently; the read stands on the secured record. The Philippines stays **PARTIAL** for English (flag F4): named link-only English books remain outstanding (the Grade 8 English Learner's Material complete file; the SHS English for Academic and Professional Purposes Reader; unit sets for English 1–5, 7, 9 and 10; HOTS guides), and English 10 Modules 1, 2 and 4 have no held file. The rows below are stocked from the expansion placements (philippines-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (student's book) — Philippines, Department of Education (DepEd), printed by REX Book Store, Inc. for DepEd-IMCS. Module 3 only ("Reconciling with Nature"), printed pp.263–397 (143 PDF pp.; printed page = PDF page + 254). Book errors carried, taught corrected where a row rests on them: E1 the contents spell the author of "A Day in the Country" as "Anton Checkov" (for Anton Chekhov) and the Lesson 1 activity "Connect and Kinect" (for Connect); E2 "LouisArmstrong" printed without a space (printed p.275); E3 the eulogy source printed as "speaming-tips.com" (for speaking-tips.com); E4 the pronoun-case table (printed p.288) merges the subjective and possessive cases under one combined header although the text names three cases; E5 the Lesson 3 word list (printed p.318) prints "clutter" where the poem on printed p.317 reads "clatter"; E6 two readings — "To Build a Fire" (printed pp.338–341) and "The Last Leaf" (printed pp.377–380) — are simplified adaptations (the first is the VOA Learning English version) presented as the authors' originals with no adaptation label; E7 a source printed as "Source:http/www.ehow.com/..." with the colon missing (printed p.369); E8 Lesson 6 Task 9 (printed p.384) points to "your next lesson" for phrases that stand in the Clarke story later in the same lesson (printed pp.385–388).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use of quotation marks, Rules 1–7: periods and commas inside the closing mark; question-mark placement by logic; single quotation marks for a quote within a quote; quotation marks for direct quotes only; long quotes (over three lines) set off unquoted; the [sic] convention (grammar box) | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed pp.320–321 |
+
+Philippines is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/philippines-placements.md.

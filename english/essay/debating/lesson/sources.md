@@ -1,6 +1,6 @@
 # Sources
 
-countries: Samoa, Uruguay, Sri Lanka, Papua New Guinea
+countries: Samoa, Uruguay, Sri Lanka, Papua New Guinea, Philippines
 
 **Book 1:** *English Year 9 Book 3* (student's book) — Sāmoa, Department of Education, 2002; ISBN 982-517-031-X; 55 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
 **Book 2:** *English Year 10 Book 1* (student's book) — Sāmoa, Ministry of Education, Sports and Culture, © 2004 (2001, reprinted 2004); adviser Graeme Lay; 60 pp. Printed page = PDF page − 1. Read in full, page by page, in the 2026-11-10 expansion read.
@@ -16,7 +16,7 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 | Unit 2: a debating recap — all statements directed through the chairperson; forming teams of three and running an own debate | Samoa, English Year 11 Book 2 (MESC 2004), printed pp.24–25 |
 | Unit 8: debating — the speaking order (leaders and second speakers, four minutes each) and understanding a debate through its quotations (moot: That sport leads to violence) | Samoa, English Year 12 (MESC 2004), printed pp.80–81 |
 
-**Acceptance count: taught in 2 countries (Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge).
+**Acceptance count: taught in 3 countries (Samoa, Uruguay, Philippines).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -65,3 +65,19 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Philippines added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Philippines' in-hand English set from the PDF — **1 student file, 0 teacher files**: *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (Department of Education — DepEd; printed by REX Book Store, Inc. for DepEd-IMCS) — **73 teaching items placed, 0 already in the course**. The held file is **Module 3 only** ("Reconciling with Nature", printed pp.263–397) of the book's four modules — Modules 1, 2 and 4 are not in hand (flag F1: the record names the file "unit-3-full-year.pdf", but the file itself is one module, and no row below claims more than Module 3). Every row rests on a genuine pupil's Learner's Material, so **the Philippines is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: a full page-by-page read of all 143 PDF pages — pages with a usable text layer read via per-page text extraction, and the 61 image-only or low-text pages rendered and read visually; printed page = PDF page + 254. The read copy came from the record's Google Drive second source because both GitHub payload routes failed on this 23 MB file from the reading host, and it is byte-identical to the secured GitHub record (23,005,580 bytes; git blob SHA dd486c2402a75e1747934ab17b38539c941b8f67) — flag F2, declared here rather than silently; the read stands on the secured record. The Philippines stays **PARTIAL** for English (flag F4): named link-only English books remain outstanding (the Grade 8 English Learner's Material complete file; the SHS English for Academic and Professional Purposes Reader; unit sets for English 1–5, 7, 9 and 10; HOTS guides), and English 10 Modules 1, 2 and 4 have no held file. The rows below are stocked from the expansion placements (philippines-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (student's book) — Philippines, Department of Education (DepEd), printed by REX Book Store, Inc. for DepEd-IMCS. Module 3 only ("Reconciling with Nature"), printed pp.263–397 (143 PDF pp.; printed page = PDF page + 254). Book errors carried, taught corrected where a row rests on them: E1 the contents spell the author of "A Day in the Country" as "Anton Checkov" (for Anton Chekhov) and the Lesson 1 activity "Connect and Kinect" (for Connect); E2 "LouisArmstrong" printed without a space (printed p.275); E3 the eulogy source printed as "speaming-tips.com" (for speaking-tips.com); E4 the pronoun-case table (printed p.288) merges the subjective and possessive cases under one combined header although the text names three cases; E5 the Lesson 3 word list (printed p.318) prints "clutter" where the poem on printed p.317 reads "clatter"; E6 two readings — "To Build a Fire" (printed pp.338–341) and "The Last Leaf" (printed pp.377–380) — are simplified adaptations (the first is the VOA Learning English version) presented as the authors' originals with no adaptation label; E7 a source printed as "Source:http/www.ehow.com/..." with the colon missing (printed p.369); E8 Lesson 6 Task 9 (printed p.384) points to "your next lesson" for phrases that stand in the Clarke story later in the same lesson (printed pp.385–388).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Formal debate: arguing a proposition from both sides — humans solely responsible for nature's damage / the damage is irreversible (Task 3 debate, "Man – Evolution and Pollution") | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed p.336 |
+
+Routing note: the Philippines diff marks this topic "NEW LESSON NEEDED: formal debate"; this standing lesson already teaches formal debate (a motion, two teams, set speeches, rebuttal), so the item is stocked here and no duplicate lesson is built.
+
+Philippines is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/philippines-placements.md.

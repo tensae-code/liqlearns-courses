@@ -425,12 +425,18 @@ its own subtitle folder with its own lesson + questions):
   expansion merge — **Unit 15, Reading Whole Texts**) ·
   comparing-texts · evaluating-sources (added 2026-11-11
   by the Dominican Republic expansion merge — **Unit 42,
-  Reading Like a Detective**)
+  Reading Like a Detective**) ·
+  cohesion-and-coherence (added 2026-11-11 by the
+  Philippines expansion merge — **Unit 14, The Paragraph**) ·
+  evaluating-media (added 2026-11-11 by the Philippines
+  expansion merge — **Unit 42, Reading Like a Detective**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
   **Unit 16, The Essay**) · citing-sources-and-bibliography
   (added 2026-11-11 by the Andorra expansion merge —
+  **Unit 16, The Essay**) · the-six-traits-of-writing
+  (added 2026-11-11 by the Philippines expansion merge —
   **Unit 16, The Essay**) · making-a-short-documentary-film
   (added 2026-11-11 by the Canada expansion merge —
   **Unit 38, Speeches and Shows**) · the-photo-essay (added
@@ -452,7 +458,11 @@ its own subtitle folder with its own lesson + questions):
   merge — **Unit 41, Stories and Poems in Detail**) ·
   point-of-view (added 2026-11-11 by the Dominican
   Republic expansion merge — **Unit 41, Stories and
-  Poems in Detail**)
+  Poems in Detail**) ·
+  sensory-images · twist-poem-analysis ·
+  approaches-to-literary-criticism · realism-and-naturalism
+  (added 2026-11-11 by the Philippines expansion merge —
+  **Unit 41, Stories and Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
 additions inside Units 2, 3, 5, 7, 8 — full map in
 CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·
@@ -470,6 +480,9 @@ fixing-sentence-errors · cleft-sentences · object-clauses ·
 used-to-and-would · exclamations-and-orders · the-past-perfect ·
 the-past-perfect-continuous · the-past-continuous ·
 future-continuous · future-perfect · plans-in-the-past ·
+structures-of-modification (added 2026-11-11 by the
+Philippines expansion merge — **Unit 13, Joining and
+Describing**) ·
 Essay → the-formal-letter · job-application-letters ·
 complaint-letters · letters-that-ask-and-advise ·
 asking-for-advice (added 2026-11-11 by the Kazakhstan
@@ -489,7 +502,12 @@ play-scripts · radio-and-tv-programme-scripts (added
 (added 2026-11-11 by the Fiji expansion merge —
 **Unit 38, Speeches and Shows**) · debating · film-study
 (added 2026-11-11 by the Samoa expansion merge —
-**Unit 38, Speeches and Shows**) · essay-kinds · advantages-and-disadvantages (added
+**Unit 38, Speeches and Shows**) · the-eulogy ·
+the-goodwill-speech · the-dramatic-monologue ·
+the-roast-speech · the-toast · the-speech-of-dedication ·
+critiquing-a-speech · the-symposium (added 2026-11-11 by
+the Philippines expansion merge — **Unit 38, Speeches and
+Shows**) · essay-kinds · advantages-and-disadvantages (added
 2026-11-11 by the Kazakhstan re-verification sweep merge —
 **Unit 39, Essays and Shortening**) · note-making · summarising ·
 diary-and-journal · biography-writing ·
@@ -507,7 +525,9 @@ problem-solving-strategies-and-games (added 2026-11-11 by the
 Uruguay expansion merge — **Unit 42, Reading Like a
 Detective**) · thinking-skills (added 2026-11-11 by the
 Costa Rica expansion merge — **Unit 42, Reading Like a
-Detective**) · Word → phrasal-verbs ·
+Detective**) · judging-the-soundness-of-an-argument (added
+2026-11-11 by the Philippines expansion merge — **Unit 42,
+Reading Like a Detective**) · Word → phrasal-verbs ·
 idioms-and-collocations · literary-words ·
 british-and-american-english · choosing-your-register ·
 ordering-words · similes · metaphors · homophones
@@ -517,7 +537,14 @@ words-and-how-they-change (added 2026-11-11 by the Samoa
 expansion merge — **Unit 43, Words About Words**) ·
 irony · symbolism-and-allegory (added 2026-11-11 by the
 Dominican Republic expansion merge — **Unit 43, Words
-About Words**) · Phonics → silent-letters ·
+About Words**) ·
+pronoun-case · kinds-of-pronouns ·
+pronoun-antecedent-agreement · clear-pronoun-reference ·
+expanded-definitions-of-words ·
+expanding-a-definition-into-a-paragraph (added 2026-11-11
+by the Philippines expansion merge — **Unit 6, Word Kinds**
+for the four pronoun lessons; **Unit 8, Using the
+Dictionary** for the two definition lessons) · Phonics → silent-letters ·
 the-three-sounds-of-ed · stress-and-intonation ·
 Alphabet → joined-up-writing.
 

@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova, Guyana, Iceland
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova, Guyana, Iceland, Philippines
 
 Every part traces to its book and page.
 
@@ -219,11 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 33 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+**Acceptance count: taught in 34 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
 Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
 Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
-Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Guyana, Iceland).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Guyana, Iceland, Philippines).** Philippines joins with the Philippines rows stocked below (stocked 2026-11-11 by the Philippines expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -758,3 +758,18 @@ The 2026-11-10 expansion read read Iceland's in-hand English set from the secure
 Iceland is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/iceland-placements.md.
+
+## Philippines added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Philippines' in-hand English set from the PDF — **1 student file, 0 teacher files**: *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (Department of Education — DepEd; printed by REX Book Store, Inc. for DepEd-IMCS) — **73 teaching items placed, 0 already in the course**. The held file is **Module 3 only** ("Reconciling with Nature", printed pp.263–397) of the book's four modules — Modules 1, 2 and 4 are not in hand (flag F1: the record names the file "unit-3-full-year.pdf", but the file itself is one module, and no row below claims more than Module 3). Every row rests on a genuine pupil's Learner's Material, so **the Philippines is COUNTED in this lesson** like any pupil-book country. Read depth, as the expansion documents declare it: a full page-by-page read of all 143 PDF pages — pages with a usable text layer read via per-page text extraction, and the 61 image-only or low-text pages rendered and read visually; printed page = PDF page + 254. The read copy came from the record's Google Drive second source because both GitHub payload routes failed on this 23 MB file from the reading host, and it is byte-identical to the secured GitHub record (23,005,580 bytes; git blob SHA dd486c2402a75e1747934ab17b38539c941b8f67) — flag F2, declared here rather than silently; the read stands on the secured record. The Philippines stays **PARTIAL** for English (flag F4): named link-only English books remain outstanding (the Grade 8 English Learner's Material complete file; the SHS English for Academic and Professional Purposes Reader; unit sets for English 1–5, 7, 9 and 10; HOTS guides), and English 10 Modules 1, 2 and 4 have no held file. The rows below are stocked from the expansion placements (philippines-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Celebrating Diversity through World Literature – Grade 10, English – Learner's Material*, First Edition 2015 (student's book) — Philippines, Department of Education (DepEd), printed by REX Book Store, Inc. for DepEd-IMCS. Module 3 only ("Reconciling with Nature"), printed pp.263–397 (143 PDF pp.; printed page = PDF page + 254). Book errors carried, taught corrected where a row rests on them: E1 the contents spell the author of "A Day in the Country" as "Anton Checkov" (for Anton Chekhov) and the Lesson 1 activity "Connect and Kinect" (for Connect); E2 "LouisArmstrong" printed without a space (printed p.275); E3 the eulogy source printed as "speaming-tips.com" (for speaking-tips.com); E4 the pronoun-case table (printed p.288) merges the subjective and possessive cases under one combined header although the text names three cases; E5 the Lesson 3 word list (printed p.318) prints "clutter" where the poem on printed p.317 reads "clatter"; E6 two readings — "To Build a Fire" (printed pp.338–341) and "The Last Leaf" (printed pp.377–380) — are simplified adaptations (the first is the VOA Learning English version) presented as the authors' originals with no adaptation label; E7 a source printed as "Source:http/www.ehow.com/..." with the colon missing (printed p.369); E8 Lesson 6 Task 9 (printed p.384) points to "your next lesson" for phrases that stand in the Clarke story later in the same lesson (printed pp.385–388).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The word-map method for an unknown word: definition, root, part of speech and antonym (the map part of Task 4 "Stretch the Word") | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed pp.298–299 |
+| Dictionary work on hard phrases from a story (Task 9 "Beyond Word Meaning") — the phrases stand in the Clarke story later in the same lesson; the book's pointer says "in the story, which you will read in your next lesson" (E8, taught corrected) | Philippines — *Celebrating Diversity through World Literature*, Grade 10 English Learner's Material (DepEd, 2015), Module 3, printed p.384 |
+
+Philippines is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/philippines-placements.md.
