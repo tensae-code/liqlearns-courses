@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -92,8 +92,8 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 8 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India,
-Sierra Leone, Sudan).** India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 9 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India,
+Sierra Leone, Sudan, Venezuela).** India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -335,3 +335,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Creative writing — types of writing, narration and the parts of a story, closing the course; the lesson's plan and steps key different student pages, so both keys are recorded: plan student pp.192–199, steps student pp.182–189 | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 24, student printed pp.192–199 (plan) / 182–189 (steps) (guide plan printed p.154) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

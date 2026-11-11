@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -89,9 +89,9 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 15 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
+**Acceptance count: taught in 16 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia,
 Mauritania, Mongolia, Nicaragua, Pakistan, Palestine,
-Rwanda, Sierra Leone, South Sudan, Sudan).** Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela).** Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -203,3 +203,19 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| can for polite requests — 'Can I open the window?' | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 15, student printed pp.120–127 (guide plan printed p.92) |
+| Politeness modals — could / may / might for asking politely, the forms graded by politeness | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 22, student printed pp.176–183 (guide plan printed p.134) |
+| can for polite requests — 'Can I go to the library?' — the Grade 10 return to the form | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 23, student printed pp.184–191 (guide plan printed p.146) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

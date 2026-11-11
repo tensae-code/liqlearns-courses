@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -95,9 +95,9 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 12 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
+**Acceptance count: taught in 13 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan,
 China, Mexico, Nicaragua, Rwanda, Sierra Leone,
-South Sudan, Sudan).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+South Sudan, Sudan, Venezuela).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -222,3 +222,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing and disagreeing — stating agreement and disagreement in the sports-culture lesson's own discussion | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 10, student printed pp.80–87 (guide plan printed p.69) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

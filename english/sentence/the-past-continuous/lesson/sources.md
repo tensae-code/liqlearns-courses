@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -110,7 +110,7 @@ re-verification sweep.
 | Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan).** Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela).** Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
@@ -203,3 +203,22 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+The sweep's flag 4 on Venezuela: the filing-based build cited these strands inside past-actions, and the sweep counted them in course there; the placements key them to this lesson, so they are stocked here as well — Venezuela's past continuous now stands cited in both lessons, each at its own target.
+
+**Book 1:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past continuous — actions in progress at a past moment, taught as the Grade 8 accident lesson's own narrative strand | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 5, student printed pp.42–49 (guide plan printed p.35) |
+| Past simple and past continuous together — combined and contrasted in the recipe lesson's storytelling strand | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 6, student printed pp.50–57 (guide plan printed p.41) |
+| Past simple against past continuous for disaster accounts — the pairing worked through earthquake and tsunami telling | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 10, student printed pp.82–89 (guide plan printed p.63) |
+| The past continuous rules table — past of be + verb-ing, affirmative, negative and interrogative, stated as an explicit table in the Grade 11 computer lesson | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 8, student printed pp.64–71 (guide plan printed p.53) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

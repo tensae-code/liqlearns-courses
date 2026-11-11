@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -179,8 +179,8 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 16 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 17 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -285,3 +285,22 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Professions and occupations — the jobs word set of the Grade 9 jobs lesson | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 7, student printed pp.56–63 (guide plan printed p.46) |
+| Dream self and future plans — the job a learner dreams of, told in jobs words | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 8, student printed pp.64–71 (guide plan printed p.53) |
+| want / would like for ambitions — 'He wants to be an astronaut.', 'He'd like to be a pilot.' — ambition said in the jobs frame | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 9, student printed pp.72–79 (guide plan printed p.60) |
+| Dream jobs — firefighters and engineers named as the dream jobs of the lesson | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 13, student printed pp.104–111 (guide plan printed p.81) |
+| Job expectations — what a job asks of the person who wants it | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 24, student printed pp.192–199 (guide plan printed p.147) |
+| Careers and occupations — the Grade 10 entry into the jobs set | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 1, student printed pp.8–15 (guide plan printed p.9) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

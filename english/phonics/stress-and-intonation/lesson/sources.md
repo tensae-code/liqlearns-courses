@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -111,9 +111,9 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 15 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
+**Acceptance count: taught in 16 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia,
 China, Iran, Indonesia, Greece, Nicaragua, Pakistan,
-Palestine, Rwanda, Sudan).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+Palestine, Rwanda, Sudan, Venezuela).** Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -227,3 +227,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The sound of ch — /k/ in 'school' and 'chorus' — and the silent l, pronunciation taught inside the abilities lesson | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 7, student printed pp.58–65 (guide plan printed p.47) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

@@ -230,6 +230,20 @@ about the other person, and close the talk.*
   · the-solar-system ✅ (1 lesson — the universe, the
   planets and the dwarf planets of Rwanda's Pupil's Book 6,
   which no lesson housed)
+- **Sweep additions (2026-11-11, Venezuela re-verification sweep
+  merge):** festivals-and-cultural-events ✅ ·
+  films-and-movie-genres ✅ · languages-and-peoples ✅ ·
+  community-and-conflict-words ✅ ·
+  development-and-community-words ✅ ·
+  diversity-and-human-rights ✅ · measurements-and-quantities
+  ✅ · media-and-journalism ✅ · work-and-inequality ✅ ·
+  history-and-independence-words ✅ ·
+  state-and-constitution-words ✅ (11 lessons — the word sets
+  of Venezuela's *My Victory* teacher's guides that no lesson
+  housed: the festivals of the year, film genres, languages
+  and peoples, conflict and its way out, the Millennium
+  Development Goals, diversity and rights, measurements,
+  the media, unequal work, independence, and the state)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -270,6 +284,10 @@ properly.*
   merge):** contractions-and-possessive-forms ✅ (1 lesson —
   the short forms and possessive forms of Palestine's Grade 10
   Part 1, Unit 3, which no lesson housed)
+- **Sweep addition (2026-11-11, Venezuela re-verification sweep
+  merge):** borrow-and-lend ✅ (1 lesson — the borrow/lend
+  pair, taking against giving, of Venezuela's Grade 9 book,
+  which no lesson housed)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
@@ -378,6 +396,12 @@ sentence on another with if.
 
 **UNIT 18 COMPLETE 2026-10-27: 4 lessons. The English
 path now stands at 51 lessons across 18 units.**
+
+- **Sweep addition (2026-11-11, Venezuela re-verification sweep
+  merge):** dummy-subject-it ✅ (1 lesson — the dummy subject
+  it, It + be + adjective + noun / to-infinitive, of
+  Venezuela's Grade 10 book, which no lesson housed; the unit
+  stands at 5 lessons with this addition)
 
 ## Unit 19 — Earlier Than the Past
 *End of unit: the learner can order two past events, show an
@@ -1187,6 +1211,43 @@ and "Mona Liza"). **Syria: 23 of 23 re-read.** The
 English course now stands at **231 lessons across
 44 units**.
 
+**Venezuela sweep merge (2026-11-11).** The re-verification
+sweep re-read all 5 of Venezuela's held English books —
+the *My Victory — Guía para el docente* teacher's guides
+for Grades 7–11 (CENAMEC / MPPE (UNEM), Primera edición
+Noviembre 2024) — page by page: **257 teaching items
+placed; 120 already in the course, 137 missing, all 137
+now stocked** (120 into existing lessons, 17 as the 13 NEW
+LESSONS below), plus 4 past-continuous cross-citations
+stocked into the-past-continuous on the sweep's flag 4 and
+2 items the diff's tallies had folded into "in course"
+that no lesson in fact carried (the Grade 9 satellites
+vocabulary, into technology-words; *The Cherry Pickers*,
+into the-big-reading, where Venezuela now counts as a
+distinction country — the 2026-11-04 finding of no
+complete book-length text stands). Venezuela's held set
+is teacher's books only — no student's book is held — so
+every Venezuela row stocked is teacher's-book evidence,
+and the record's claim that Grade 7/8 student books were
+grabbed and verified is contradicted by the empty staging
+folders and is reported, not stocked. Book errors are
+stocked taught corrected with the error noted ("heroe",
+"rehearsh", "shoudn't", "cardiopulmomary" / "Insuline
+siringes", the Grade 7 present-continuous model "Where
+are you doing now?", the swapped ordinal/cardinal labels,
+the dropped "been" in the Grade 11 present-perfect-
+continuous structure line). **13 NEW LESSONS**:
+festivals-and-cultural-events, films-and-movie-genres,
+languages-and-peoples, community-and-conflict-words,
+development-and-community-words,
+diversity-and-human-rights, measurements-and-quantities,
+media-and-journalism, work-and-inequality,
+history-and-independence-words,
+state-and-constitution-words (Unit 7), borrow-and-lend
+(Unit 10) and dummy-subject-it (Unit 18). **Venezuela:
+5 of 5 re-read.** The English course now stands at
+**244 lessons across 44 units**.
+
 ---
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named
@@ -1258,3 +1319,16 @@ system. All 8 held books were read page by page in the
 164 distinct teaching items is stocked (16 already in,
 148 stocked by the 2026-11-11 sweep merge, 0 excluded).
 **Palestine: 8 of 8 read.**
+
+**Stocked by Venezuela (all 5 books):** the *My Victory*
+teacher's guides run a five-year ladder from greetings and
+the present simple to reported speech, the passive and the
+constitution; every year closes its early lessons with the
+same parts — vocabulary, a grammar focus, sounds and a
+skill — and the upper years carry the Millennium
+Development Goals, human rights, the media and
+independence as English word sets. All 5 held books were
+read page by page in the 2026-11-08 re-verification sweep
+and every one of their 257 distinct teaching items is
+stocked (120 already in, 137 stocked by the 2026-11-11
+sweep merge, 0 excluded). **Venezuela: 5 of 5 read.**

@@ -1,6 +1,6 @@
 # Sources — Prepositions
 
-countries: Ghana, Greece, Sierra Leone
+countries: Ghana, Greece, Sierra Leone, Venezuela
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | “Formation, composition and capacity of soil to hold water” — prepositions worked inside soil-science texts (general preposition use in technical reading) | Greece, Exploiting the Earth, Part A3, printed p.27 |
 | “Sciences, techniques and devices for exploring mineral deposits” — prepositions in the unit's skills table (general preposition use in technical reading) | Greece, Exploiting the Earth, Part B2, printed p.126 (skills table) |
 
-**Acceptance count: taught in 2 countries (Greece, Sierra Leone) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Greece joins with two Exploiting the Earth units working general prepositions inside technical texts — soil science and mineral exploration (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because of Ghana's books: Ghana's NaCCA curricula run a prepositions strand from Basic 1 to Basic 6 — position at Basic 1, days and dates at Basic 2, directions at Basic 3, a variety of meanings at Basics 4–6 — with the Upper Primary Level 3 guide teaching by, for, about, between and against by name; no earlier-read book taught prepositions as a general lesson (the course's four specific preposition lessons each cover one family). The course's four specific preposition lessons (prepositions-in-and-into, prepositions-of-movement, prepositions-of-place, prepositions-of-time) hang off this one. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+**Acceptance count: taught in 2 countries (Greece, Sierra Leone) — this lesson also stands on curriculum and teacher evidence from 2 countries (Ghana, Venezuela).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Venezuela's set is five Teacher's Books only, so by the same rule Venezuela is named in the countries line and in this evidence clause but is not counted as teaching the lesson from a pupil's book. Greece joins with two Exploiting the Earth units working general prepositions inside technical texts — soil science and mineral exploration (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because of Ghana's books: Ghana's NaCCA curricula run a prepositions strand from Basic 1 to Basic 6 — position at Basic 1, days and dates at Basic 2, directions at Basic 3, a variety of meanings at Basics 4–6 — with the Upper Primary Level 3 guide teaching by, for, about, between and against by name; no earlier-read book taught prepositions as a general lesson (the course's four specific preposition lessons each cover one family). The course's four specific preposition lessons (prepositions-in-and-into, prepositions-of-movement, prepositions-of-place, prepositions-of-time) hang off this one. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -76,3 +76,18 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). Venezuela was already counted in this lesson; the rows below add the strands the sweep found missing from it, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them. The countries line and the acceptance count are unchanged.
+
+The sweep's placements floated a new lesson for this item ('prepositions of time and place'); the course's general prepositions lesson — this one — already houses the general family the specific lessons hang off, so the item is stocked here.
+
+**Book 1:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| at, to and by in travel sentences — the travel prepositions worked inside the Grade 7 transport lesson's own sentences | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 23, student printed pp.186–191 (guide plan printed p.136) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+Venezuela is named in this lesson's countries line and in its teacher-evidence clause above (updated together), and is not added to the taught-in count — the same treatment this file gives Ghana, whose set likewise holds no pupil textbook.

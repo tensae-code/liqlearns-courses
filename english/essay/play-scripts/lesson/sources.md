@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,8 +137,8 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 9 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 10 countries (Malaysia,
+Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -183,3 +183,15 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Theatre and drama — drama elements, theatre history and a dramatic monologue; the lesson's plan and steps key different student pages, so both keys are recorded: plan student pp.192–199, steps student pp.182–189 | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 24, student printed pp.192–199 (plan) / 182–189 (steps) (guide plan printed p.154) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

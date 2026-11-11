@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 4 countries (Malaysia,
-Nepal, Syria, South Sudan).** Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 5 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela).** Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -94,3 +94,19 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Apologising — saying sorry, giving excuses, accepting apologies and promising: the lesson's own dialogue ladder runs apologise → excuse → accept the apology → promise not to do it again | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 3, student printed pp.26–33 (guide plan printed p.16) |
+| Apologising in depth — saying sorry for lateness and for mistakes, at the course's fullest treatment | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 17, student printed pp.136–143 (guide plan printed p.104) |
+| Promises made after an apology — the promise that closes the apology exchange | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 17, student printed pp.136–143 (guide plan printed p.104) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

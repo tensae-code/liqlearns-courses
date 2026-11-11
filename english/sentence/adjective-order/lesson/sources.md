@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela
 
 Every part traces to its book and page.
 
@@ -46,7 +46,7 @@ verification sweep.
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
 | Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 10 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -74,3 +74,15 @@ The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held Engli
 
 Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives and their order in descriptions — the order adjectives take before a noun | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 23, student printed pp.184–191 (guide plan printed p.140) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

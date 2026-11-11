@@ -1,6 +1,6 @@
 # Sources — Prepositions After Adjectives and Verbs
 
-countries: Mongolia, Palestine
+countries: Mongolia, Palestine, Venezuela
 
 Every part traces to its book and page.
 
@@ -14,7 +14,7 @@ Every part traces to its book and page.
 | Prepositional phrases — noun / adjective / verb + preposition: a decision on, aware of, listen to | Mongolia, English XII, Unit 1, printed p.21 |
 | The lesson's example sentences | The course's own workings on the books' stocked pairs — no sentence is quoted from the books |
 
-**Acceptance count: taught in 2 countries (Mongolia, Palestine).**
+**Acceptance count: taught in 3 countries (Mongolia, Palestine, Venezuela).**
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Mongolia's English books. The sweep
@@ -42,3 +42,15 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Verbs and prepositions — verb + preposition combinations (the placements' "prepositions after verbs" topic, stocked in this lesson, which houses the prepositions that belong to a word itself, after adjectives and verbs alike) | Palestine, Grade 12, Unit 11, printed pp.116–117 |
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dependent prepositions after verbs — verb + for / from / in / of / on / to / with, the pairs learned with the verb | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 18, student printed pp.144–151 (guide plan printed p.110) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

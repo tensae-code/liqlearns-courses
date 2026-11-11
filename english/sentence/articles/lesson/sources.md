@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 16 countries (Armenia,
+**Acceptance count: taught in 17 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -209,3 +209,17 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a/an first met inside apologising situations — 'I'm sorry I'm late. I had an accident.' | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 3, student printed pp.26–33 (guide plan printed p.16) |
+| a/an with jobs — 'She's a doctor. He's a dentist.' — and the negative 'She isn't an engineer.' | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 4, student printed pp.34–41 (guide plan printed p.22) |
+| the — for famous people and places both speakers know, the article's first named use in the series | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 5, student printed pp.42–49 (guide plan printed p.28) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

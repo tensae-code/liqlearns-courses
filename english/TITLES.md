@@ -153,7 +153,16 @@ its own subtitle folder with its own lesson + questions):
   World**) ·
   the-solar-system (added 2026-11-11 by the Rwanda
   re-verification sweep merge — **Unit 7, Words for the
-  World**)
+  World**) ·
+  festivals-and-cultural-events · films-and-movie-genres ·
+  languages-and-peoples · community-and-conflict-words ·
+  development-and-community-words ·
+  diversity-and-human-rights · measurements-and-quantities ·
+  media-and-journalism · work-and-inequality ·
+  history-and-independence-words ·
+  state-and-constitution-words (added 2026-11-11 by the
+  Venezuela re-verification sweep merge — **Unit 7, Words
+  for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -217,7 +226,13 @@ its own subtitle folder with its own lesson + questions):
   Future in Detail**) ·
   auxiliary-verbs (added 2026-11-11 by the South Sudan
   re-verification sweep merge — **Unit 26, How Sure Are
-  You?**)
+  You?**) ·
+  borrow-and-lend (added 2026-11-11 by the Venezuela
+  re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
+  dummy-subject-it (added 2026-11-11 by the Venezuela
+  re-verification sweep merge — **Unit 18, Deeper
+  Sentences**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)

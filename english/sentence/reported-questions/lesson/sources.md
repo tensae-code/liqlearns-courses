@@ -1,6 +1,6 @@
 # Sources — Reported questions
 
-countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine
+countries: Cambodia, China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela
 
 Every part traces to its book and page.
 
@@ -90,8 +90,8 @@ verification sweep.
 | The Advanced teacher's guide for Unit 7 “Embracing Our World” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), Unit 7 |
 | Reported questions (wh- and if/whether) | Mongolia, English XII, Unit 9, printed p.164 |
 
-**Acceptance count: taught in 12 countries (Cambodia,
-China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Cambodia,
+China, Kuwait, Mauritania, Nepal, Sudan, Vietnam, Indonesia, India, Greece, Mongolia, Palestine, Venezuela).** Greece joins with the Grade 8 Advanced reported-questions lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reporting questions, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania splits the lesson exactly as this lesson
 does: wh- questions in Lesson 12, yes/no questions with
 if in Lesson 14, each with its own correspondence chart.
@@ -135,3 +135,15 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported questions — questions reported, the question form folded into the report | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 20, student printed pp.160–167 (guide plan printed p.123) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

@@ -697,3 +697,17 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). Venezuela was already counted in this lesson; the rows below add the strands the sweep found missing from it, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them. The countries line and the acceptance count are unchanged.
+
+**Book 1:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present simple questions with have — 'Do you have…?', 'Does she have…?' — run on the daily-routines word set | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 6, student printed pp.50–57 (guide plan printed p.35) |
+| want and need in the present simple — 'She wants some fish.' / 'He needs some flour.' — goods, prices and quantities in shop situations | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 14, student printed pp.114–121 (guide plan printed p.80) |
+| have for possession, set against the earlier have-questions — 'She doesn't have a car. She has a house.' — with the home-possessions word set | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 15, student printed pp.122–129 (guide plan printed p.87) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

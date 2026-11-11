@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India, Pakistan
+countries: Cambodia, Mongolia, India, Pakistan, Venezuela
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ verification sweep.
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 4 countries (Cambodia,
-Mongolia, India, Pakistan).** India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 5 countries (Cambodia,
+Mongolia, India, Pakistan, Venezuela).** India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -49,3 +49,15 @@ country's filing teaches the two-object system as a
 named point, and the lesson does not claim one.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* works transitive and intransitive verbs in its grammar system, beside action, linking and helping verbs. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Verbs with two objects — verbs that carry a person and a thing together | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 17, student printed pp.136–143 (guide plan printed p.109) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

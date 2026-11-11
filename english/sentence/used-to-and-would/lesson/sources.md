@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela
 
 Every part traces to its book and page.
 
@@ -119,8 +119,8 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 15 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 16 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -193,3 +193,21 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 3:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| used to for past habits — the past-habits strand of the abilities lesson | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 7, student printed pp.58–65 (guide plan printed p.47) |
+| The used to system in full — affirmatives, negatives, questions and short answers, the series' complete treatment | Venezuela, *My Victory* Teacher's Book 4 (Grade 10), Lesson 4, student printed pp.32–39 (guide plan printed p.29) |
+| used to — the past-habits strand of the technology lesson | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 7, student printed pp.56–63 (guide plan printed p.46) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

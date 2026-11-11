@@ -482,3 +482,16 @@ The Grade 5, Grade 7, Grade 9 and SPINE 4 rows above stock points this lesson's 
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). Venezuela was already counted in this lesson; the rows below add the strands the sweep found missing from it, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them. The countries line and the acceptance count are unchanged.
+
+**Book 1:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full; the held copy ends at Lesson 24 Part 3.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Passive voice forms — the passive built across its forms in the constitution lesson (its Millennium-goals content is stocked in development-and-community-words) | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 22, student printed pp.176–183 (guide plan printed p.136) |
+| Passive with an infinitive — 'is expected to…' shapes, the ministry's future-hub plan told in the passive; the lesson's plan and steps key different student pages, so both keys are recorded: plan student pp.174–179, steps student pp.184–185 | Venezuela, *My Victory* Teacher's Book 5 (Grade 11), Lesson 23, student printed pp.174–179 (plan key) and pp.184–185 (steps key) (guide plan printed p.143) |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.

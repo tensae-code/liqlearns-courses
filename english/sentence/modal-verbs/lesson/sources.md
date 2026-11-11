@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan
+countries: Bolivia, South Sudan, Venezuela
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 2 countries (Bolivia, South Sudan).**
+**Acceptance count: taught in 3 countries (Bolivia, South Sudan, Venezuela).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the obligation modals compared as a family in two places — the Grade 11 student book's SHOULD/MUST unit and the compendium's starred Year 5 comparison — while the course taught them only scattered inside other lessons. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the comparison itself. The compendium's comparison is carried in its own wording, including its statement that have to is “not a modal verb”, so the claim is checkable against the cited page. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -34,3 +34,21 @@ The 2026-11-08 re-verification sweep re-read all 22 of South Sudan's held Englis
 
 South Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-sudan-placements.md.
+
+## Venezuela added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English books page by page (257 teaching items placed; 120 already in the course, 137 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md). Venezuela's held set is five Teacher's Books only — *My Victory — Guía para el docente* (CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024) for Grades 7–11 — and no student's book is held, so every row below is teacher's-book evidence: each row gives the student-book printed pages the guide's lesson plan keys, with the guide's own plan page beside them.
+
+**Book 1:** *My Victory — Guía para el docente*, 2do año (Teacher's Book, Grade 8) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-03-1. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+**Book 2:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher's-book evidence only: the guide keys the student edition by page and reproduces no student lesson in full.
+
+| Lesson part | Where it comes from |
+|---|---|
+| can and could for ability — 'I can play the piano.', 'Ann could read when she was four.' | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 7, student printed pp.58–65 (guide plan printed p.47) |
+| must for obligation — 'We must keep medicines in a safe place.' | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 11, student printed pp.90–97 (guide plan printed p.69) |
+| Cross-reference only: must for prohibition inside the Grade 8 safety lesson — that item is stocked in giving-advice; this row points to it so the modal family is complete in one place | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 12, student printed pp.98–105 (guide plan printed p.75) |
+| The modal set can / must / should — 'He should be at home now.', 'They must arrive at 9 am.', 'He can speak two languages.' | Venezuela, *My Victory* Teacher's Book 2 (Grade 8), Lesson 24, student printed pp.194–197 (guide plan printed p.154) |
+| must beside the have to family — have to / has to / will have to, the obligation comparison | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 12, student printed pp.96–103 (guide plan printed p.75) |
+
+Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
