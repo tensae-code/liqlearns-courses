@@ -215,6 +215,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 110:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 111:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *Mathematics, Grade 7* (Zabara et al., NIS line, Parts 1–2) — Kazakhstan, NIS. (Filed in the records as “Algebra”; the books are mixed mathematics — Part 1 carries geometry and Part 2's sampled chapters are geometry; the scans carry no contents page, and Part 2 beyond the sampled chapters is placed from samples.) Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *Geometry, Grade 7* (Turapbekov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *Algebra and Geometry, Grade 7: didactic materials and problem collections* (Kucher et al.; Smirnov et al.) (workbook kind) — Kazakhstan, Mektep, 2017. Workbook evidence: exercises, tests and problem collections keyed to the Abylkasymova Grade 7 algebra chapters and the Smirnov Grade 7 geometry chapters. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 116:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -487,6 +492,18 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Enlargement and reduction; enlargement and reduction problems (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 125a–b, 126 Enlargement and reduction; Enlargement and reduction problems, printed pp. 162, 164, 166 |
 | Similar triangles; congruent triangles (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 51a–b Similar triangles, printed pp. 134, 136; South Africa, Grade 9 Book 1, Ws 52a–b Congruent triangles, printed pp. 138, 140 |
 | Enlargement and reduction; more enlargement and reduction (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 112a–b, 113a–b Enlargement and reduction; More enlargement and reduction, printed pp. 124, 126, 128, 130 |
+| Angle-bisector properties (geometry inside Part 1; sampled) | Kazakhstan, Grade 7 (Zabara et al., NIS line), Part 1, sampled at printed p. 85 |
+| Triangles: types, the three congruence criteria, median/bisector/height, the isosceles triangle, sides–angles relations, right triangles | Kazakhstan, Geometry 7 (Shynybekov set), Ch. II, §7–14, printed pp. 43–81 |
+| Triangles: types, auxiliary elements (median, bisector, altitude, perpendicular bisector, midline), congruence (SSS/SAS/ASA/AAS), the isosceles triangle | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 2, printed pp. 54–86 |
+| The triangle inequality; right-triangle properties; perpendicular/oblique and projection (inside mutual positions of lines) | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 3, printed pp. 90–138 |
+| Workbook exercises keyed to the Smirnov Grade 7 geometry chapters (WORKBOOK) | Kazakhstan, Geometry 7 didactic materials (Smirnov et al.), Mektep 2017 (workbook evidence) |
+| Problem collection keyed to the Smirnov Grade 7 geometry chapters (WORKBOOK) | Kazakhstan, Geometry 7 problem collection (Smirnov et al.), Mektep 2017 (workbook evidence) |
+| Polygons and quadrilaterals: the trapezoid, triangle midlines, Thales' theorem, proportional segments | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 2, printed pp. 58–88 |
+| Relations between sides and angles of a right triangle: the Pythagorean theorem (§4.2) | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 4, printed pp. 138–179 |
+| Metric relations in right triangles: the Pythagorean theorem and converse, the Euclidean theorems (inside right-triangle relations) | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 2, printed pp. 76–112 (pagination of the line's English edition) |
+| Quadrilaterals (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 1 |
+| Right-triangle metric relations (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 2 |
+| Quadrilaterals (inside the Soltan Grade 8 geometry course) | Kazakhstan, Geometry 8 (Soltan set), Ch. 1 |
 
 **Acceptance count: taught in 36 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests

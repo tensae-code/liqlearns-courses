@@ -198,6 +198,7 @@ textbook.
 **Book 106:** *Mathematics, Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 **Book 107:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 108:** *Mathematics, Grade 2* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Lebedeva, Orekhova, Ushakova, NIS, Nur-Sultan 2022. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -403,6 +404,7 @@ textbook.
 | Reflecting over axes, over lines and over any line; rotations; translation; more transformations (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 105 Reflecting over axes, printed p. 108; South Africa, Grade 9 Book 2, Ws 106 Reflecting over lines, printed p. 110; South Africa, Grade 9 Book 2, Ws 107 Reflecting over any line, printed p. 112; South Africa, Grade 9 Book 2, Ws 108 Rotations, printed p. 114; South Africa, Grade 9 Book 2, Ws 109 Translation, printed p. 116; South Africa, Grade 9 Book 2, Ws 110, 111a–b Transformation; More transformations, printed pp. 118, 120, 122 |
 | Enlargement and reduction (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 112a–b, 113a–b Enlargement and reduction; More enlargement and reduction, printed pp. 124, 126, 128, 130 |
 | Revision sheet, transformations among it (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 144 Revision sheet (year revision of this book's placed items), printed p. 228 |
+| Rotation of a figure (inside geometric figures; perimeter; compositions of figures) | Kazakhstan, Grade 2 (Zhakupova set), Part 4, §3, printed pp. 53–99 |
 
 **Acceptance count: taught in 33 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with

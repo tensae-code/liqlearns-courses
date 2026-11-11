@@ -5,7 +5,7 @@ countries: Kazakhstan, Egypt, Greece, Libya, Jordan, Armenia, Vietnam, Laos, Yem
 Every part traces to its book and page.
 
 **Book 1:** *Mathematics, Grade 2* (Ospanov set, Lessons 65–136) — Kazakhstan, Atamura. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
-**Book 2:** *Mathematics, Grade 3* (Zhakupova set) — Kazakhstan, NIS. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 2:** *Mathematics, Grade 3* (Zhakupova set) — Kazakhstan, NIS. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). [Sweep note 2026-11-10: no such book is among the Kazakhstan files in hand at the 2026-11-08 re-verification sweep — the in-hand Grade 3 set is Akpaeva/Almatykitap. The citation's section/lesson/page coordinates match the in-hand Akpaeva Grade 3 structure closely (§1C L31 at printed p. 82; §2C L66 at printed p. 61), but identity is not concluded; retained as cited, pending re-check.]
 **Book 3:** *Mathematics, Grade 3 Term 1, old (Discovery) edition, 2025–2026* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 4:** *Mathematics, Grade 2 pupil book, Teuxos B; Grade 3 pupil book* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics, Grade 3 pupil's book* — Libya, Ministry of Education. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
@@ -231,6 +231,12 @@ Every part traces to its book and page.
 **Book 171:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
 
 **Book 172:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 173:** *Mathematics, Grade 2* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap, 2018–2019 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 174:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 175:** *Mathematics, Grade 3 workbooks, Parts 1–4* (Akpaeva set; Kazakh and Russian editions) (workbooks) — Kazakhstan, Almatykitap. Workbook evidence: practice companions to the Akpaeva Grade 3 student parts. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 176:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 177:** *Mathematics, Grade 4 teacher guides, Parts 1–2* (Akpaeva set) (teacher guides) — Kazakhstan, Akpaeva et al., Almatykitap. Teacher evidence only: programme, lesson guidance and keys companioning the Akpaeva Grade 4 student parts (Part 1 guide to student Parts 1–2; Part 2 guide to student Parts 3–4). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 178:** *Mathematics, Grade 4 workbooks, Parts 1–4* (Akpaeva set; Kazakh and Russian editions) (workbooks) — Kazakhstan, Almatykitap. Workbook evidence: practice companions to the Akpaeva Grade 4 student parts. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -239,7 +245,7 @@ Every part traces to its book and page.
 | The multiplication tables begin (Unit 4, ch.24–28) | Greece, Grade 2 Teuxos B, Unit 4, ch.24–28 |
 | Multiplication, times tables (ch.4); multiplication and division (ch.6) | Greece, Grade 3 pupil book, ch.4, ch.6 |
 | Multiplication tables for 2, 3, 4, 5 (no multiplication of two-digit numbers; no division with remainder) | Jordan, Grade 3 Student Book Term 1 |
-| Table for 6 (L31, p.82); table for 7 (L33, p.88); tables for 8 and 9 (L35, p.93) | Kazakhstan, Grade 3 (Zhakupova set), Section 1C, L31–L35, pp.82–93 |
+| Table for 6 (L31, p.82); table for 7 (L33, p.88); tables for 8 and 9 (L35, p.93) | Kazakhstan, Grade 3 (Zhakupova set), Section 1C, L31–L35, pp.82–93 (cited book not in hand at the sweep — see the Book 2 note) |
 | Multiplying by Tens and Hundreds (10-1); Vertical Multiplication, 2-digit × 1-digit (10-2); 3-digit × 1-digit (10-3); Rules of Multiplication (10-4) | Egypt, Primary 3 Term 1 (Japanese-collaboration series), Chapter 10, folios 106–113 |
 | Arrays as repeated addition — the introduction to multiplication before any × sign: count an array's rows and columns and write the repeated-addition sentence; two sentences per array, by rows and by columns (waffle 4 × 4 and gummy bears 5 × 3, printed p. 84) | Egypt, Grade 2 Term 2 (old Discover series), Chapter 8, printed pp. 28–31; Chapter 12, printed pp. 83–86 |
 | Associative property of multiplication | Egypt, Primary 3 Term 2 (old Education 2.0 series), Ch. 7 L. 1, printed p. 5 |
@@ -256,7 +262,7 @@ Every part traces to its book and page.
 | Vertical multiplication, 3-digit × 1-digit | Egypt, Primary 3 Term 1 (Japanese-collaboration series), Lesson 10-3, printed pp. 110–111 |
 | Rules of multiplication | Egypt, Primary 3 Term 1 (Japanese-collaboration series), Lesson 10-4, printed pp. 112–113 |
 | Multiplication without regrouping (p.64); with regrouping ones and tens (p.68); with regrouping ones, tens and hundreds (p.72) | Libya, Grade 3 pupil's book, Unit 6 — Multiplication, pp.64–75 |
-| Multiplication/division by 10 and 100 (L66, p.61) | Kazakhstan, Grade 3 (Zhakupova set), Section 2C, L66, p.61 |
+| Multiplication/division by 10 and 100 (L66, p.61) | Kazakhstan, Grade 3 (Zhakupova set), Section 2C, L66, p.61 (cited book not in hand at the sweep — see the Book 2 note) |
 | Finding the second factor from product and factor (§5, p.25) | Armenia, Mathematics 4, Part I, §5, p.25 |
 | Multiplication within 1000 (Bài 1–44) | Vietnam, Toán 3, Tập Một |
 | Multiplication as repeated addition; ×5, ×2, ×3, ×4 tables, then ×6, ×7, ×8, ×9 tables | Laos, Grade 2 student book (new series), ch. 11, printed p. 120; ch. 12, printed p. 148 |
@@ -771,6 +777,22 @@ Every part traces to its book and page.
 | Revision worksheets: Grade 5 key concepts, multiplication among them (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Revision R1–R16, Key concepts from Grade 5: base-ten counting; numbers 0 to 100 000; addition and subtraction; multiplication and multiples; division and factors; operations; ratio and rate; fractions; money and fractions; party time with fractions; how far for how long (distance/time); area and perimeter; volume; mass and weight; 2-D shapes and 3-D objects; shapes; data handling, printed pp. ii–xlviii |
 | 3-digit by 3-digit and 4-digit by 3-digit multiplication; distributive property; vertical method (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 106a–b Multiplication: more 3-digit by 3-digit, printed pp. 112, 114; South Africa, Grade 6 Book 2, Ws 108 Multiplication 4-digit by 3-digit, printed p. 118; South Africa, Grade 6 Book 2, Ws 110a–b Multiplication and rounding off, printed pp. 122, 124; South Africa, Grade 6 Book 2, Ws 111 Multiplication and the distributive property, printed p. 126; South Africa, Grade 6 Book 2, Ws 112a–b Multiplication and the vertical method, printed pp. 128, 130 |
 | Revision worksheets: Grade 7 key concepts, calculations among them (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Revision R1–R16, Key concepts from Grade 7: doing calculations; multiples and factors; exponents; integers; common fractions; percentages and decimal fractions; input and output; algebraic expressions and equations; graphs; financial mathematics; geometric figures; transformations; geometry; perimeter and area; volume and surface area; data, printed pp. ii–xlvi |
+| Multiplication and division: counting by equal groups, dividing into equal groups; the link between × and ÷; the commutative property of multiplication; tables for 2, 3, 4, 5 | Kazakhstan, Grade 2 (Akpaeva set), Part 3, §3B, printed pp. 18–42 |
+| Multiplication inside equations on ×/÷ (numerical and letter expressions) | Kazakhstan, Grade 2 (Akpaeva set), Part 3, §3C, printed pp. 54–84 |
+| Multiplication and division: counting by equal groups, the ×/÷ link, the commutative property, tables ×2–×5 | Kazakhstan, Grade 2 (Zhakupova set), Part 3, §2, printed pp. 29–65 |
+| Table multiplication and division by 6, 7, 8, 9; problems in indirect form | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1C, lessons 31–38, printed pp. 82–99 |
+| Multiplication and division properties: the unit property, the zero property (division by zero is impossible), actions with 0 and 1; evaluating expressions with brackets | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1B, lessons 16–20, printed pp. 41–51 |
+| Oral multiplication and division: by 10 and 100, round tens and hundreds, within 1,000; the distributive property | Kazakhstan, Grade 3 (Akpaeva set), Part 2, §2C, lessons 66–78, printed pp. 61–90 |
+| Non-table multiplication and division: division with remainder by a one-digit number; cases 17·5, 84:4, 96:6, 75:15 | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3A, lessons 81–88, printed pp. 4–21 |
+| Written multiplication and division: two- and three-digit by one-digit, without and with crossing the разряд, written division with remainder | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3C, lessons 102–128, printed pp. 49–103 |
+| Written multiplication and division in column form: 140·2, 280:2; 102·3, 306:3; 104·4, 416:4; 134·5, 670:5 | Kazakhstan, Grade 3 (Akpaeva set), Part 4, §4A, lessons 131–138, printed pp. 4–24 |
+| Workbook practice companions to the Akpaeva Grade 3 student parts (WORKBOOK, Kazakh edition) | Kazakhstan, Grade 3 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
+| Workbook practice companions to the Akpaeva Grade 3 student parts (WORKBOOK, Russian edition) | Kazakhstan, Grade 3 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
+| Multiplication and division by a one-digit number: oral techniques with multi-digit numbers; ×/÷ by 10, 100, 1,000; division with remainder | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1B, lessons 18–26, printed pp. 69–100 |
+| Written multiplication and division by two-digit (and three-digit) numbers | Kazakhstan, Grade 4 (Akpaeva set), Part 2, §2A, lessons 41–61, printed pp. 11–74 |
+| TEACHER EVIDENCE: lesson guidance and keys for the Akpaeva Grade 4 Parts 1–2 course (multi-digit numbers; multiplication/division by one-, two- and three-digit numbers; motion and work problems) | Kazakhstan, Grade 4 teacher guide (Akpaeva set), Part 1 (teacher evidence) |
+| Workbook practice companions to the Akpaeva Grade 4 student parts (WORKBOOK, Kazakh edition) | Kazakhstan, Grade 4 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
+| Workbook practice companions to the Akpaeva Grade 4 student parts (WORKBOOK, Russian edition) | Kazakhstan, Grade 4 workbooks (Akpaeva set), Parts 1–4 (workbook evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Saudi Arabia

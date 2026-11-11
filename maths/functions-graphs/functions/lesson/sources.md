@@ -217,6 +217,8 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 131:** *Mathematics, Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 **Book 132:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 133:** *Mathematics, Grade 6* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova et al., Mektep (Kazakh and Russian editions and further printings in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 134:** *Mathematics, Grade 6* (Aldamuratova set, Parts 1–2) — Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura, 2018 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -235,8 +237,8 @@ CITATION CHECK PASSED 2026-11-05).
 | The inverse function: inverse pairs and their graphs; the logarithmic function and its graph; exponential function and its applications | Egypt, Pure Mathematics Grade 11 Term 1 Science, Unit 2 Exponents, Logarithms and their Applications, 2-4 The inverse function p.67; 2-2 Exponential Function p.58; 2-5 Logarithmic function p.72 |
 | Functions — deciding whether a relation is a function; interpreting graphical representations; the quadratic function, its properties and graph; geometric transformations of quadratic functions (translations/stretches of the parabola) | Jordan, Grade 9 Term 1, Unit 2 "Relations and Functions", p.50; L1 Functions p.52; L2 Interpreting graphical representations p.64; L3 The quadratic function p.74; L4 Geometric transformations of quadratic functions p.87 |
 | Piecewise functions; geometric transformations of functions; sequences and series | Jordan, Grade 11 Term 1 Academic Track, Unit 1 "Functions, Sequences and Series", p.6; L1 Piecewise functions p.8; L2 Geometric transformations of functions p.19; L3 Sequences and series p.30 |
-| Functions chapter (Ch. 3 functions) | Kazakhstan, Algebra 9 (Shynybekov, Atamura 2019), Ch. 3 functions |
-| Functions chapter (Ch. 3 functions) | Kazakhstan, Algebra 9 (Abylkasymova, Mektep 2019), Ch. 3 functions |
+| Trigonometric functions and their properties (inside the trigonometry chapter) — corrected 2026-11-10: this row previously read "Functions chapter (Ch. 3 functions)"; Chapter 3 is sequences in this book, and the trig-function properties are in Chapter 4 | Kazakhstan, Algebra 9 (Shynybekov, Atamura 2019), Ch. 4, printed pp. 132–204 |
+| Trigonometric functions and their properties (inside the trigonometry chapter) — corrected 2026-11-10: this row previously read "Functions chapter (Ch. 3 functions)"; Chapter 3 is sequences in this book, and the trig-function properties are in Chapter 4 | Kazakhstan, Algebra 9 (Abylkasymova, Mektep 2019), Part 2, Ch. 4 |
 | The concept of a function and the graph of a function; first-degree function and its graph; the slope of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII, Bài 27 Khái niệm hàm số và đồ thị của hàm số p.40; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 p.51 |
 | The function y = ax² (a ≠ 0) and its graph | Vietnam, Toán 9 Volume 2, Chapter VI, Bài 18 Hàm số y = ax² (a ≠ 0) p.4 |
 | Relation between two sets; relation as a set of ordered pairs; function and its graph; independent and dependent variable; explicit functions; polynomial, fractional and algebraic functions; algebra of functions | Libya, Grade 11 Science, Chapter 4 "Relations, functions and graphical forms", pp.95–110 |
@@ -613,6 +615,10 @@ CITATION CHECK PASSED 2026-11-05).
 | Revision worksheets: Grade 7 key concepts, input and output values among them (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Revision R1–R16, Key concepts from Grade 7: doing calculations; multiples and factors; exponents; integers; common fractions; percentages and decimal fractions; input and output; algebraic expressions and equations; graphs; financial mathematics; geometric figures; transformations; geometry; perimeter and area; volume and surface area; data, printed pp. ii–xlvi |
 | Input and output values; more on input and output values; tables (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 106a–b Input and output values, printed pp. 116, 118; South Africa, Grade 8 Book 2, Ws 109 More on input and output values, printed p. 124; South Africa, Grade 8 Book 2, Ws 110 Tables, printed p. 126 |
 | Revision worksheets: Grade 8 key concepts, input and output values among them (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Revision R1–R16, Key concepts from Grade 8: whole numbers and properties of numbers; multiples and factors; exponents; integers and patterns; common fractions; percentages and decimal fractions; input and output; algebra; graphs; financial mathematics; geometric figures; transformations; geometric objects; perimeter and area; volume and surface area; data, printed pp. ii–l |
+| Dependencies between quantities: tables and graphs of dependencies, direct proportionality and its graph | Kazakhstan, Grade 6 (Abylkasymova set), Part 2, Ch. 9, §48–50, printed pp. 121–143 |
+| Dependencies between quantities: given by formulas, tables and graphs; studying real-process graphs; direct proportionality and its graph | Kazakhstan, Grade 6 (Aldamuratova set), Part 2, Ch. IX, §9.1–9.5, printed pp. 148–180 |
+| Functions: the function and ways of giving it, graphs of tabulated functions, the linear function y = kx + b, mutual position of linear graphs, y = ax², y = ax³, y = k/x | Kazakhstan, Algebra 7 (Shynybekov set), Ch. 3, §3.1–3.5, printed pp. 74–121 |
+| The quadratic function | Kazakhstan, Algebra 8 (Abylkasymova set), Ch. 3 |
 
 **Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone).**.** Egypt carries the
 
@@ -626,8 +632,13 @@ both its editions; the sign of a function in
 Secondary 1; the inverse function in Grade 11 Pure. Jordan
 carries deciding whether a relation is a function, the
 quadratic function and its graph in Grade 9, and piecewise
-functions in Grade 11. Kazakhstan carries functions chapters
-in both Grade 9 Algebra books. Vietnam carries the function
+functions in Grade 11. Kazakhstan carries the function
+concept from Grade 6 dependencies through the Grade 7 linear
+function, the Grade 8 quadratic function and the Grade 9
+trigonometry chapter's trig functions (its Grade 9 functions
+prose here previously named a "Ch. 3 functions" chapter that
+does not exist — Chapter 3 is sequences; corrected
+2026-11-10). Vietnam carries the function
 concept and the first-degree function in Grade 8 and the
 quadratic function y = ax² in Grade 9. Libya carries
 relations, functions and the algebra of functions in Grade 11

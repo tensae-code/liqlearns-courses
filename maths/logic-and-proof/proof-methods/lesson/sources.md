@@ -56,6 +56,7 @@ Every part traces to its book and page.
 
 **Book 37:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *Mathematics, Grade 7, Volume 2 （下册）* (student book) — China, People's Education Press (PEP), Chinese, 1st edition October 2012, ISBN 978-7-107-24620-3. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED). Volume 1 (Chapters 1–4) is not held, and no Grade 8 book is in hand.
+**Book 39:** *Mathematics, Grade 7* (Zabara et al., NIS line, Parts 1–2) — Kazakhstan, NIS. (Filed in the records as “Algebra”; the books are mixed mathematics — Part 1 carries geometry and Part 2's sampled chapters are geometry; the scans carry no contents page, and Part 2 beyond the sampled chapters is placed from samples.) Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,6 +128,9 @@ Every part traces to its book and page.
 | Theorems and axioms | Armenia, Geometry 7, §4.11, printed p. 27 |
 | The converse theorem | Armenia, Geometry 7, §8.21, printed p. 54 |
 | Axiom of parallel lines | Armenia, Geometry 7, §12.31, printed p. 96 |
+| Triangles: the three congruence criteria (inside triangles) | Kazakhstan, Geometry 7 (Shynybekov set), Ch. II, §7–14, printed pp. 43–81 |
+| Triangles: congruence (SSS/SAS/ASA/AAS) (inside triangles and their auxiliary elements) | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 2, printed pp. 54–86 |
+| Parallel lines and their properties: proofs (sampled) | Kazakhstan, Grade 7 (Zabara et al., NIS line), Part 2, sampled at printed p. 80 |
 
 **Acceptance count: taught in 18 countries (Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Albania, Tajikistan).** Kazakhstan opens all three of its Grade 7 geometry courses with the Euclidean deductive method itself — axioms as the rules of the game (Smirnov), the regress of definitions (Shynybekov), and methods of proof given their own section (Turapbekov). Iran teaches proof three ways: a whole Grade 9 chapter on reasoning and proof in geometry, with a deliberately flawed proof to diagnose; the proof opening of Geometry (1); and Discrete Mathematics' working kit of direct proof, cases, contradiction and counterexample. Armenia gathers deductive and inductive reasoning and the main methods of proof and refutation in Grade 11, proves and refutes ∀ and ∃ assertions and classifies necessary and sufficient conditions in its Grade 12 logic book, and first uses contradiction inside Grade 7 geometry. Greece makes deductive reasoning the stated point of its Euclidean Geometry. Egypt names the writing itself — "Steps to Write a Proof" — in Grade 7. Nicaragua introduces two-column-style reasoning in Grade 8 and writes full two-column similarity proofs in Grade 9. Kuwait frames every proof in its Grade 9 triangle unit as givens / required / proof. Laos judges arguments by validity, with modus ponens, modus tollens and the affirming-the-consequent fallacy. China proves the vertical-angles result inside its Grade 6 general review and reads the classical contradiction proof that √2 is irrational in Grade 7 Volume 2.
 

@@ -315,6 +315,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 165:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 166:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 167:** *Geometry, Grade 7* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 168:** *Mathematics, Grade 7* (Zabara et al., NIS line, Parts 1–2) — Kazakhstan, NIS. (Filed in the records as “Algebra”; the books are mixed mathematics — Part 1 carries geometry and Part 2's sampled chapters are geometry; the scans carry no contents page, and Part 2 beyond the sampled chapters is placed from samples.) Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 169:** *Geometry, Grade 8* (Shynybekov set) — Kazakhstan, Shynybekov et al., Atamura (Kazakh and Russian editions in hand, one course counted once; chapter pagination as in the line's English edition). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 170:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -598,6 +602,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Circles — parts, radius and diameter (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 19a–b Circles (parts, radius/diameter), printed pp. 60, 62 |
 | Circles — parts of a circle (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 26 Circles (parts of a circle), printed p. 62 |
 | Area of a circle (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 64 Area of a circle, printed p. 172 |
+| Circle and geometric constructions: circle and chords, line–circle positions, tangents, loci, the circumscribed circle | Kazakhstan, Geometry 7 (Shynybekov set), Ch. IV, §18–23, printed pp. 107–140 |
+| Circles: chords, arcs, inscribed angles (§5.17 self-test; sampled) | Kazakhstan, Grade 7 (Zabara et al., NIS line), Part 2, sampled at printed p. 180 |
+| The rectangular coordinate system: the equation of a circle, incl. tangent to axes | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 4, printed pp. 152–180 (pagination of the line's English edition) |
+| The rectangular coordinate system: the equation of a circle (inside the Soltan Grade 8 geometry course) | Kazakhstan, Geometry 8 (Soltan set), Ch. 4 |
 
 **Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

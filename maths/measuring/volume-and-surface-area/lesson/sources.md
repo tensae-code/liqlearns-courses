@@ -354,6 +354,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 169:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 170:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 172:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -728,6 +730,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Revision worksheets: Grade 8 key concepts, volume among them (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Revision R1–R16, Key concepts from Grade 8: whole numbers and properties of numbers; multiples and factors; exponents; integers and patterns; common fractions; percentages and decimal fractions; input and output; algebra; graphs; financial mathematics; geometric figures; transformations; geometric objects; perimeter and area; volume and surface area; data, printed pp. ii–l |
 | Algebraic equations and volume (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 84 Algebraic equations and volume, printed p. 50 |
 | Revision sheet, volume among it (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 144 Revision sheet (year revision of this book's placed items), printed p. 228 |
+| The cube and the rectangular parallelepiped; volume of a rectangular parallelepiped | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1D, lessons 35–38, printed pp. 127–136 |
+| Spatial figures: the rectangular parallelepiped and cube and their nets; problems on cutting figures | Kazakhstan, Grade 5 (Aldamuratova set), Part 2, Ch. IX, §9.1–9.2, printed pp. 174–180 |
+| Spatial figures: the rectangular parallelepiped (and cube) and its net (§54; sampled at printed p. 110, span approximate) | Kazakhstan, Grade 5 (Abylkasymova set), Part 2, printed pp. ~105–~120 |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,

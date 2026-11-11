@@ -138,6 +138,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 72:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 73:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *Geometry, Grade 8* (Smirnov set) — Kazakhstan, Smirnov et al., Mektep (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -282,6 +284,9 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Angles of elevation and depression — angle of elevation and angle of elevation/depression from a Gaza lighthouse-and-fisherman context; the two angles are equal (alternate angles) | Palestine, Mathematics (Grade 10, Part Two), printed p. 8 |
 | Sine, cosine, tangent and cotangent of an acute angle of a right triangle | Armenia, Geometry 8, §15.34, printed p. 94 |
 | Values of sine, cosine, tangent and cotangent for 30°, 45° and 60° | Armenia, Geometry 8, §15.35, printed p. 96 |
+| Relations between sides and angles of a right triangle: sine/cosine/tangent/cotangent definitions and values, the basic identities, solving right triangles | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 4, printed pp. 138–179 |
+| Metric relations in right triangles: trigonometric ratios, the Pythagorean theorem and converse, the Euclidean theorems, the basic trigonometric identities, complementary-angle ratios, solving right triangles | Kazakhstan, Geometry 8 (Shynybekov set), Ch. 2, printed pp. 76–112 (pagination of the line's English edition) |
+| Right-triangle metric relations and trigonometry (inside the Smirnov Grade 8 geometry course) | Kazakhstan, Geometry 8 (Smirnov set), Ch. 2 |
 
 **Acceptance count: taught in 35 countries (Jordan, Egypt, Sierra
 Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine).**

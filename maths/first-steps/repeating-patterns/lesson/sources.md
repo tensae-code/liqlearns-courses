@@ -1,6 +1,6 @@
 # Sources — Repeating Patterns
 
-countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone
+countries: Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -59,6 +59,10 @@ Every part traces to its book and page.
 **Book 41:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
 
 **Book 42:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Mathematics, Grade 1 workbooks №1–№4* (Zhakupova set) (workbooks) — Kazakhstan, Zhakupova, Orekhova, Lebedeva et al., NIS / Mektep, © 2016, adapted to large print by Tsentr SATR, 2018. Workbook evidence: practice companions to the Zhakupova Grade 1 student course for visually impaired pupils. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 44:** *Mathematics, Grade 1* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Orekhova, Lebedeva et al., NIS, © 2016 (the special-school edition for visually impaired pupils, adapted to large print, Almaty 2018). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 45:** *Mathematics, Grade 2* (Ospanov set, Parts 1–2) — Kazakhstan, Ospanov, Astambaeva, Mergembaeva, Kozlenko, Atamura, Almaty 2022 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 46:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -175,8 +179,13 @@ Every part traces to its book and page.
 | Geometric patterns; more geometric patterns (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 140, 141a–b Geometric patterns; More geometric patterns, printed pp. 180, 182, 184 |
 | Geometric patterns; describing geometric patterns; geometric patterns and tables (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 35–37 Geometric patterns; Describing geometric patterns; Geometric patterns and tables, printed pp. 98, 100, 102 |
 | Geometric patterns (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 107 Geometric patterns, printed p. 120 |
+| Workbook practice: sequences, magic squares and rebuses (WORKBOOK) | Kazakhstan, Grade 1 workbooks (Zhakupova set), Workbook №2, worksheets 107–114 (workbook evidence) |
+| Sequences, magic squares and rebuses (inside measuring mass and volume; two-digit numbers) | Kazakhstan, Grade 1 (Zhakupova set, large-print student edition), Part 2 (the lessons followed by Workbook №2, worksheets 63–128) |
+| Number sequences (inside the hundred: counting by hundreds) | Kazakhstan, Grade 2 (Ospanov set), Part 1, lessons 40–42, printed pp. 80–85 |
+| Sequences of figures and numbers (inside geometric figures and their relative position) | Kazakhstan, Grade 2 (Ospanov set), Part 2, lessons 65–70, printed pp. 4–15 |
+| Number sequences (inside counting by thousands to 1,000,000) | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1A, lessons 6–8, printed pp. 17–23 |
 
-**Acceptance count: taught in 17 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
+**Acceptance count: taught in 18 countries (Kuwait, Yemen, Indonesia, Ghana, Syria, Malaysia, India, Mongolia, Venezuela, Ecuador, Palestine, Turkey, Armenia, Bangladesh, Ethiopia, South Africa, Sierra Leone, Kazakhstan).** Kuwait teaches repeating patterns in its first Grade 1 unit (lesson 1-4, printed p. 24) and returns to them at Grade 2 (lesson 1-2, printed p. 20). Yemen teaches discovering patterns as a named Grade 1 lesson (printed p. 22) and repeats the lesson inside its addition, subtraction and shapes units (printed pp. 84, 110, 126). Indonesia carries the widest run: patterns of shapes, colours, movements and sounds at Grade 2 (printed pp. 101–124), growing and shrinking patterns at Grade 4 (Bab 3, printed pp. 85–102), and a full number-patterns chapter at Grade 8 — tile patterns, lamp cycles, unit digits (K13 Bab 1, printed pp. 1–40). Ghana carries patterns as teacher evidence only — extending patterns, finding rules, correcting errors and creating patterns for a rule in the JICA B3 manual (Lessons 77–79), and the multiply/divide patterns with the divide-by-2 chain 560, 280, 140, 70, 35 in the JICA B5 manual (Lessons 73–78); Ghana's set holds no pupil textbook, so those rows are worded as teacher evidence wherever they are used.
 
 Syria's repeating patterns open the Grade 1 Semester 1 book: AB and ABC patterns in colours, shapes and movements, completed, repaired and built by the pupil.
 

@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa, Kazakhstan
 
 Every part traces to its book and page.
 
@@ -70,6 +70,11 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 43:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 44:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+**Book 45:** *Mathematics, Grade 1* (Akpaeva set, Parts 1–2) — Kazakhstan, Akpaeva et al., Almatykitap, 2021 (Kazakh, Russian and Uyghur editions and a 2023 printing in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 46:** *Mathematics, Grade 2* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap, 2018–2019 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 47:** *Mathematics, Grade 2* (Ospanov set, Parts 1–2) — Kazakhstan, Ospanov, Astambaeva, Mergembaeva, Kozlenko, Atamura, Almaty 2022 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 48:** *Mathematics, Grade 2* (Zhakupova set, Parts 1–4) — Kazakhstan, Zhakupova, Lebedeva, Orekhova, Ushakova, NIS, Nur-Sultan 2022. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 49:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -206,7 +211,15 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Commutative property of addition and multiplication; associative property; distributive property of multiplication over addition; zero and one as identities (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 1 Commutative property of addition and multiplication, printed p. 2; South Africa, Grade 7 Book 1, Ws 2 Associative property of addition and multiplication, printed p. 4; South Africa, Grade 7 Book 1, Ws 3 Distributive property of multiplication over addition, printed p. 6; South Africa, Grade 7 Book 1, Ws 4 Zero as the identity of addition, one as the identity of multiplication, and other properties of numbers, printed p. 8 |
 | Commutative, associative and distributive properties (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 2a–b Commutative, associative and distributive properties, printed pp. 4, 6 |
 | Properties of numbers (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 10a–b Properties of numbers, printed pp. 22, 24 |
-**Acceptance count: taught in 13 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| The commutative property of addition (inside adding and subtracting 2–9 within 10 and subtracting from 10) | Kazakhstan, Grade 1 (Akpaeva set), Part 1, lessons 33–44, printed pp. 72–95 |
+| The commutative and ordering properties of addition (inside oral addition and subtraction within 100) | Kazakhstan, Grade 2 (Akpaeva set), Part 1, printed pp. 42–58 |
+| Efficient calculation methods; the order of operations in expressions | Kazakhstan, Grade 2 (Akpaeva set), Part 4, §4A, printed pp. 6–20 |
+| Rational computation methods: numerical and letter expressions with two or three operations, and comparing them | Kazakhstan, Grade 2 (Ospanov set), Part 2, lessons 105–110, printed pp. 82–93 |
+| The associative property of addition (inside operations with numbers) | Kazakhstan, Grade 2 (Zhakupova set), Part 1, §2, printed pp. 23–70 |
+| Rational computation methods: the properties of addition and multiplication; the order of operations | Kazakhstan, Grade 2 (Zhakupova set), Part 4, §1, printed pp. 5–32 |
+| Oral multiplication and division: the distributive property (32·2, 320·2, 32·20; 48:2, 480:2, 480:20); dividing a sum by a number | Kazakhstan, Grade 3 (Akpaeva set), Part 2, §2C, lessons 66–78, printed pp. 61–90 |
+| Non-table multiplication and division: rationalising calculations with the properties of division | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3A, lessons 81–88, printed pp. 4–21 |
+**Acceptance count: taught in 14 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa, Kazakhstan).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

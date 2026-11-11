@@ -169,6 +169,9 @@ Every part traces to its book and page.
 **Book 120:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
 
 **Book 121:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 122:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 123:** *Mathematics, Grade 5* (Aldamuratova set, Parts 1–2) — Kazakhstan, Aldamuratova, Baysholanova, Baysholanov, Atamura, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 124:** *Mathematics, Grade 5* (Abylkasymova set, Parts 1–2) — Kazakhstan, Abylkasymova, Kucher, Zhumagulova, Mektep, 2017 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -548,6 +551,9 @@ Every part traces to its book and page.
 | Revision worksheets: Grade 7 key concepts, multiples and factors among them (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Revision R1–R16, Key concepts from Grade 7: doing calculations; multiples and factors; exponents; integers; common fractions; percentages and decimal fractions; input and output; algebraic expressions and equations; graphs; financial mathematics; geometric figures; transformations; geometry; perimeter and area; volume and surface area; data, printed pp. ii–xlvi |
 | Factorisation of numbers — prime factorisation, HCF and LCM in use (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 2 Factorisation (of numbers: prime factorisation, HCF/LCM use), printed p. 6 |
 | Revision worksheets: Grade 8 key concepts, multiples and factors among them (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Revision R1–R16, Key concepts from Grade 8: whole numbers and properties of numbers; multiples and factors; exponents; integers and patterns; common fractions; percentages and decimal fractions; input and output; algebra; graphs; financial mathematics; geometric figures; transformations; geometric objects; perimeter and area; volume and surface area; data, printed pp. ii–l |
+| Divisibility signs for 2, 5 and 10 (inside multiplication and division by a one-digit number) | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1B, lessons 18–26, printed pp. 69–100 |
+| Divisibility basics and the Gauss sum method (inside natural numbers and zero; the four operations) | Kazakhstan, Grade 5 (Aldamuratova set), Part 1, Ch. I, §1.1–1.6, printed pp. 5–35 |
+| Divisibility of natural numbers: divisors and multiples; even and odd numbers; divisibility properties and signs (2, 5, 10; 3, 9); powers; prime factorisation; GCD; LCM | Kazakhstan, Grade 5 (Abylkasymova set), Part 1, Ch. 2, §10–15, printed pp. 52–77 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the divisibility tests and the
 Euclidean GCD; the text now teaches them. Sub lesson 2

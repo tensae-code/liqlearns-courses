@@ -9,7 +9,7 @@ Every part traces to its book and page.
 **Book 3:** *Mathematics, Grade 3, Student Book, Term 1; Grade 4, Student Book, Term 1* — Jordan. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Toán 3, Tập Một + Tập Hai* (Kết nối tri thức với cuộc sống, NXBGD) — Vietnam. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 5:** *Mathematics, Grade 2* (Ospanov set, Lessons 65–136) — Kazakhstan, Atamura. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
-**Book 6:** *Mathematics, Grade 3* (Zhakupova set) — Kazakhstan, NIS. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 6:** *Mathematics, Grade 3* (Zhakupova set) — Kazakhstan, NIS. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). [Sweep note 2026-11-10: no such book is among the Kazakhstan files in hand at the 2026-11-08 re-verification sweep — the in-hand Grade 3 set is Akpaeva/Almatykitap. The citation's section/lesson/page coordinates match the in-hand Akpaeva Grade 3 structure closely, but identity is not concluded; retained as cited, pending re-check.]
 **Book 7:** *Mathematics 4* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 8:** *Mathematics 5* (student) — Armenia. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 2 pupil book, Teuxos B; Grade 3 pupil book* — Greece, Ministry of Education (ITYPE «Diophantos»). Filed in maths/books/greece.md (FULLY READ + CITATION CHECK PASSED).
@@ -217,6 +217,9 @@ Every part traces to its book and page.
 **Book 159:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 **Book 160:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+**Book 161:** *Mathematics, Grade 2* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap, 2018–2019 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 162:** *Mathematics, Grade 3* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (five parallel sets in hand — Russian 2023, Kazakh 2023, Uyghur 2018, Kazakh 2018, Russian 2019 — one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
+**Book 163:** *Mathematics, Grade 4* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap (six parallel sets in hand, incl. the Kazakh 2019 set and a Uyghur set, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -233,7 +236,7 @@ Every part traces to its book and page.
 | Exact division, division with remainder (Bài 26, p.72) | Vietnam, Toán 3, Bài 26, p.72 |
 | Dividing a set into equal parts — division (L73); the sign ':' introduced ('6 : 3 is read as 6 divided by 3 … in 6 there are 2 threes') | Kazakhstan, Grade 2 (Ospanov set), L73, printed p.21 |
 | Multiplication and division as inverse operations (L77); using the table for division by 2–5 | Kazakhstan, Grade 2 (Ospanov set), L77–L81 |
-| Division with remainder by a one-digit number (L83–84, pp.8–10); non-table division 96 : 6 (L86, p.14); 75 : 15 (L87, p.17) | Kazakhstan, Grade 3 (Zhakupova set), Section 3A, L83–L87, pp.8–17 |
+| Division with remainder by a one-digit number (L83–84, pp.8–10); non-table division 96 : 6 (L86, p.14); 75 : 15 (L87, p.17) | Kazakhstan, Grade 3 (Zhakupova set), Section 3A, L83–L87, pp.8–17 (cited book not in hand at the sweep — see the Book 6 note) |
 | Finding an unknown divisor from dividend and quotient (§6, p.30); an unknown dividend from divisor and quotient (§7, p.35) | Armenia, Mathematics 4, Part I, §6–§7, pp.30–35 |
 | Division with remainder (§2.10, p.65) | Armenia, Mathematics 5, Chapter 2, §2.10, p.65 |
 | No long division (sharing stays at the tables and equal sharing) | Greece, Grade 2 Teuxos B and Grade 3 pupil book — honest negative, stated in maths/books/greece.md |
@@ -606,6 +609,16 @@ Every part traces to its book and page.
 | Division and remainders; 4-digit by 2-digit and 3-digit division (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 126 Division and remainders, printed p. 164; South Africa, Grade 6 Book 2, Ws 127a–b More division, printed pp. 166, 168; South Africa, Grade 6 Book 2, Ws 128–129 Division: 4-digit by 2-digit; 4-digit by 3-digit numbers with remainders, printed pp. 170, 172, 174 |
 | Division, rounding off and flow diagrams (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 47 Division, rounding off and flow diagrams, printed p. 108 |
 | Division operations (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 44 Division operations, printed p. 96 |
+| Multiplication and division: dividing into equal groups; the link between × and ÷; tables for 2, 3, 4, 5 | Kazakhstan, Grade 2 (Akpaeva set), Part 3, §3B, printed pp. 18–42 |
+| Multiplication and division: dividing into equal groups, the ×/÷ link, tables ×2–×5 | Kazakhstan, Grade 2 (Zhakupova set), Part 3, §2, printed pp. 29–65 |
+| Division by zero is impossible; the unit and zero properties (inside multiplication/division properties) | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1B, lessons 16–20, printed pp. 41–51 |
+| Table division by 6, 7, 8, 9 (inside table multiplication and division) | Kazakhstan, Grade 3 (Akpaeva set), Part 1, §1C, lessons 31–38, printed pp. 82–99 |
+| Oral division: by 10 and 100, round tens and hundreds, within 1,000; dividing a sum by a number | Kazakhstan, Grade 3 (Akpaeva set), Part 2, §2C, lessons 66–78, printed pp. 61–90 |
+| Non-table division: division with remainder by a one-digit number; cases 84:4, 96:6, 75:15 | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3A, lessons 81–88, printed pp. 4–21 |
+| Written division: two- and three-digit by one-digit, without and with crossing the разряд, written division with remainder, the written algorithm | Kazakhstan, Grade 3 (Akpaeva set), Part 3, §3C, lessons 102–128, printed pp. 49–103 |
+| Written division in column form: 280:2, 306:3, 416:4, 670:5 (inside written multiplication and division in columns) | Kazakhstan, Grade 3 (Akpaeva set), Part 4, §4A, lessons 131–138, printed pp. 4–24 |
+| Division by a one-digit number: oral techniques; ×/÷ by 10, 100, 1,000; division with remainder | Kazakhstan, Grade 4 (Akpaeva set), Part 1, §1B, lessons 18–26, printed pp. 69–100 |
+| Written division by two-digit (and three-digit) numbers | Kazakhstan, Grade 4 (Akpaeva set), Part 2, §2A, lessons 41–61, printed pp. 11–74 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the size climb; the text now
 teaches it as Sub lesson 4, carried by the Ethiopia Grade 4
