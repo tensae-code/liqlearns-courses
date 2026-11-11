@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 4 countries (Indonesia, Mongolia, Palestine, Yemen).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 5 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal).** Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -48,3 +48,26 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | Talking about favourites — an interview on favourite colour, food, drink and pastime | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.41 |
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *My English Book Grade 3* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Book Grade 6* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep. The held copy ends at printed p.108 (Units 13–17 absent) and its folios are misbound (order 1–19, 27–37, 20–26, 38–108); only held pages are cited.
+
+**Book:** *English Grade 8* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade 10* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes with a choice: “Do you like tea or coffee? — I like tea / I like both” | Nepal, *My English Book Grade 3* (Grade 3), printed p.10 |
+| like + -ing: “Do you like swimming?”; “I like playing football / I don't like singing” | Nepal, *My English Book Grade 3* (Grade 3), printed p.74 |
+| Reading: kites; expressing likes and dislikes; short answers “Yes, I do / No, I don't” | Nepal, *English Book Grade 6* (Grade 6), printed p.84 |
+| Reading: Nepal's bird man; speaking: expressing likes, dislikes and preferences | Nepal, *English Grade 8* (Grade 8), printed p.145 |
+| Expressing preferences (prefer, would rather) — the same unit's model CV (printed p.128) is stocked in cv-and-cover-letter, as the sweep verified | Nepal, *English Grade 10* (Grade 10), Unit 11, printed p.119 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

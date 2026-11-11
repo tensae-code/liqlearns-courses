@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 25 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 26 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -194,7 +194,7 @@ opposites, and sorting words into categories (stocked
 their books are read (see READING-QUEUE.md).
 Mauritania's Grade 7 teacher guide names synonyms and antonyms
 as taught content (teacher evidence; stocked 2026-11-09 by the
-Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its homophones (to/two/too; sun/son), lend against borrow, synonyms and word families in Grades 6, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+Mauritania re-verification sweep merge). Mexico works word relationships as identity: the Grade 7 Identity Handbook of the words that give a person identity, and the Grade 9 reading on Indigenous loanwords in Spanish (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its homophones (to/two/too; sun/son), lend against borrow, synonyms and word families in Grades 6, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -485,3 +485,27 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Synonyms; describing places for tourists — “The Great Silk Road” | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 5, printed p.50 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together. Rows marked as bundled strands are strands the placements bundle inside a unit whose main point was already stocked; the sweep's diff names them in its convention note, and they are stocked here under the everything-goes-in ruling, counted separately from the 267.
+
+**Book:** *My English Book Grade 4* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 5* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep. The held copy is incomplete: printed pp.21–30 (all of Unit 3) and the Listening texts are missing; only held pages are cited.
+
+**Book:** *English Grade 7* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Eleven* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Synonyms: matching words with similar meanings (naughty, realized, caught, saved, leap) | Nepal, *My English Book Grade 4* (Grade 4), printed p.6 |
+| Opposites: largest/smallest, living/dead, strongest/weakest, defense/attack | Nepal, *My English Book Grade 4* (Grade 4), printed p.36 |
+| Homophones: night/knight, letter/later, wear/were, by/bye, new/knew, right/write | Nepal, *My English Book Grade 5* (Grade 5), printed p.55 |
+| Character adjectives sorted into good person / bad person (helpful, hardworking, friendly vs cruel, dishonest, quarrelsome) | Nepal, *My English Book Grade 5* (Grade 5), printed p.79 |
+| Extra bit: homophones | Nepal, *English Grade 7* (Grade 7), printed p.10 |
+| Vocabulary: homophones (the book-review unit; a bundled strand named in the sweep diff's convention note) | Nepal, *English Grade Eleven* (Grade 11), printed p.162 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

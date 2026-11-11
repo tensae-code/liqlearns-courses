@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal
 
 Every part traces to its book and page.
 
@@ -38,7 +38,7 @@ Every part traces to its book and page.
 | The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
 | Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 11 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Uzbekistan, Nepal).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the Grade 1 classroom things (book, bag, teacher, ruler, pencil case, rubber, pen, pencil) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -151,3 +151,18 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Australian radio school — learning by radio where there is no school to go to | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 3, printed p.34 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *My English Book Grade 1* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom objects with a: “It's a bag / a ruler / a book” | Nepal, *My English Book Grade 1* (Grade 1), printed p.3 |
+| this/that contrast: “This is a bag / That's a cat” | Nepal, *My English Book Grade 1* (Grade 1), printed p.13 |
+| this/these, that/those: “This is a nail / These are nails” | Nepal, *My English Book Grade 1* (Grade 1), printed p.25 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

@@ -82,7 +82,7 @@ verification sweep.
 | Articles a/an/the/zero taught in a Look box on specific vs. general reference, inside the oceans-and-continents unit | Cambodia, ENGLISH Grade 12, Unit 9, printed pp.47–52 |
 | Articles (a/an/the/zero) grouped as one grammar family, beside the present perfect simple and continuous | Malaysia, Form 3 *Close-Up*, Unit 3 "The Wonders of Nature", pp.31–42 |
 | Articles a/an/the open the book's named grammar syllabus (Unit 1 of the syllabus order as filed) | Nepal, English Grade 6, Unit 1 (grammar syllabus, as filed in nepal.md) |
-| Articles a/an/the together with their uses, in the people-and-places unit | Nepal, English Grade 10, Unit 11, pp.78–86 |
+| Articles a/an/the together with their uses | Nepal, English Grade 9, printed p.145 |
 | Countable and uncountable nouns, with a/an/no article practised in a "Crime Prevention" text (the chapter's Grammar Corner) | Sudan, SPINE 6, Chapter 4 "Education", pp.51–64 |
 | "Articles (review and extension)" — the Unit 2 grammar box heading | Vietnam, Tiếng Anh 12, Unit 2, printed p.22 (citation anchor 8 as filed) |
 | Articles with geographical names, in the unit's grammar progression (U4) | Armenia, English 10, Unit 4 (as filed in armenia.md) |
@@ -387,3 +387,27 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Articles as a system: a/an for first mention, the for known/unique things and with rivers/seas/mountain groups/deserts, zero article with most countries/cities/lakes | Libya, Grade 10 Course Book, Unit 3, printed p.34 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock.
+
+**Book:** *My English Book Grade 1* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 4* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English, Grade 9* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Eleven* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a/an before vowel sounds: an orange, an apple, an elephant, an egg | Nepal, *My English Book Grade 1* (Grade 1), printed pp.16, 21 |
+| The a/an rule stated: a with consonant sounds, an with vowel sounds | Nepal, *My English Book Grade 4* (Grade 4), printed p.8 |
+| Grammar: articles — stocked by the correction of this lesson's impossible “Grade 10, Unit 11, pp.78–86” citation; see the flag F3 note in this section | Nepal, *English, Grade 9* (Grade 9), printed p.145 |
+| Grammar: articles (the “Taking my Son to College” unit; with commonly confusing words, stocked in words-you-dont-know) | Nepal, *English Grade Eleven* (Grade 11), printed p.181 |
+
+**Sweep flag F3, corrected in this merge:** this lesson's older Nepal row cited “English Grade 10, Unit 11, pp.78–86” for articles a/an/the together with their uses. The held Grade 10 Unit 11 spans printed pp.119–132, so those pages cannot be in it. The sweep's fresh read places Grade 9's articles teaching at its unit opening on printed p.145; the row above was re-based to Grade 9, printed p.145 (2026-11-11), which stocks item 217 of the sweep's missing list under its own book — the last row in the table below records it.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

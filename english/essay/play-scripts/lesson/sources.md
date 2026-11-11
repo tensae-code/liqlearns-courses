@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,7 +137,7 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 13 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa).** Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 14 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal).** Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -145,7 +145,7 @@ Barbados sets skits and plays in Standard English from
 Class 1; India prints a full one-act play and sets the
 prose-to-script conversion. Bangladesh prints the same
 Chekhov play in its senior book's Reading for Pleasure
-reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 "Perform a story" project and Grade 11 Literature Focus drama — "Baghdadi Bath" and "The Tempest" (stocked 2026-11-11 by the re-verification sweep merge).
+reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 "Perform a story" project and Grade 11 Literature Focus drama — "Baghdadi Bath" and "The Tempest" (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -265,3 +265,19 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | LiA drama text (Literature in Action) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 10, Content Mapping printed p.ix |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English Grade Eleven* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Literature, one-act plays: Trifles; A Sunny Morning; Refund (titles only) | Nepal, *English Grade Eleven* (Grade 11), printed p.285 |
+| Literature, one-act plays: A Matter for Husband; Facing Death; The Bull (titles only) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.272 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

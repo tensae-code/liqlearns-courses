@@ -2159,3 +2159,46 @@ book was read at unit granularity and its 26 items are a floor, not a ceiling.
 Uzbekistan's 5 link-only books (Grades 3, 7, 10, 11) are cited nowhere and stay
 wants. **Uzbekistan: 5 of 5 books re-read.** The English course now stands at
 **266 lessons across 44 units**.
+
+**Stocked by Nepal (2026-11-11, the re-verification sweep merge):** the
+2026-11-08 re-verification sweep re-read Nepal's English set from the files —
+18 books verified in hand: 12 student's books (Grades 1–12: *My English Book*
+Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC),
+Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10), 3,448 PDF pages.
+The sweep placed 426 teaching items fresh from the books: 159 were already in
+the course and 267 were missing; all 267 are stocked in this merge across 106
+lessons, plus 17 bundled strands and the 3 declared outside-the-count items
+from Grade 12 Units 18–20, stocked under the everything-goes-in ruling and
+counted separately. **No new lesson was built:** the diff's one "NEW LESSON
+NEEDED" (expressing condolence and sympathy, Grade 9, printed p.38) already
+has a home — expressing-sympathy, built by the Mauritania merge — and Nepal's
+teaching is stocked there. **Read-depth honesty:** the Grade 1–5 student's
+books were read in full, page by page; Grades 6–12 were read from their
+contents tables, every unit opening and the grammar sections. The six
+teacher's guides are teacher evidence only — 0 learner items — and their
+keying is honestly mismatched: only the Grade 3 guide is a true companion to
+its held student's book (the Grade 1 and 2 guides key to unheld workbooks,
+the Grade 6 guide to a fuller 18-unit book, the Grade 9 guide is an
+excerpt-only DRAFT keyed to an older 20-unit book, and the Grade 10 guide —
+a 2024 "Feedback Copy" — keys to a newer edition). **Incomplete copies
+carried honestly:** the Grade 5 student's book lacks printed pp.21–30 (all
+of Unit 3) and its listening texts, and the Grade 6 student's book ends at
+printed p.108 (Units 13–17 absent; folios misbound 1–19, 27–37, 20–26,
+38–108) — nothing is stocked from missing parts; Nepal's complete Grade 5
+and Grade 6 student's books and a complete Grade 9 teacher's guide are still
+owed library-side. **Flags:** F1 (news-writing) and F2 (quantifiers) —
+citations mislabelled "Grade 10" corrected to Grade 8; F3 (articles) — an
+impossible "Grade 10, Unit 11, pp.78–86" citation re-based to Grade 9,
+printed p.145; F4 (using-the-dictionary) — the Grade 10 guide correction
+verified already standing in the file, no edit; F5 (the-present-perfect) —
+the Grade 3 and Grade 5 present-perfect chants stocked as exposure, and the
+file's claim that Grade 8 is Nepal's first teaching of it stands. **Book
+errors, taught corrected and noted where the rows touch them:** Grade 3's
+unit title printed "PICINIC"; Grade 4's Contents lists its listening texts
+as a second "Unit 10" and its preface signs "Governmen of Nepal"; Grade 5's
+imprint ISBN is printed unfinished ("978-999-33-717-......."); Grade 12's
+Section One contents is scrambled against the book's actual order from about
+Unit 14, and its Unit 18 reading gives "twenty-three million" where the same
+unit's grammar section (printed p.156) gives "seventy-three million".
+**Nepal: 18 of 18 books re-read.** The English course now stands at
+**266 lessons across 44 units**.

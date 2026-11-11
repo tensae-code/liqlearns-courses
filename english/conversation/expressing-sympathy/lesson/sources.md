@@ -1,6 +1,6 @@
 # Sources — Expressing Sympathy
 
-countries: Mauritania
+countries: Mauritania, Nepal
 
 Every part traces to its book and page.
 
@@ -13,4 +13,19 @@ Every part traces to its book and page.
 | Sub lesson 3 — condolences: my deepest condolences for your loss (the book's word-order set) | Mauritania, Study English, Grade 8, printed pp.45–46; the disaster set at Grade 10, printed pp.35–37 |
 | Sub lesson 4 — sympathy in writing over the earthquake text: I'm sorry for your loss, my condolences, thinking of you at this difficult time | Mauritania, Study English, Grade 10, printed pp.35–37 |
 
-**Acceptance count: taught in 1 country (Mauritania).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land.
+**Acceptance count: taught in 2 countries (Mauritania, Nepal).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English, Grade 9* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Speaking: expressing condolence and sympathy, over the readings “Death is a Fiction” and “Crossing the Bar” (the Grade 9 teacher's guide teaches the same unit — teacher evidence only) | Nepal, *English, Grade 9* (Grade 9), printed p.38 |
+
+**Routing note:** the sweep's diff marked this topic “NEW LESSON NEEDED” (its item 188), because no lesson covered it when the sweep was written. The lesson has since been built — by the Mauritania merge (commit 2c587e08) — and its Sub lesson 3 is “For a death — condolences”, so Nepal's Grade 9 teaching is stocked here instead of in a new lesson; no new lesson was built by this merge and the English total is unchanged. The Grade 9 teacher's guide teaches the same unit — teacher evidence only; no learner items are taken from it.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -211,7 +211,7 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 24 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with autobiography — reading one and writing a short one (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 25 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with autobiography — reading one and writing a short one (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with changing places, great names in medicine, a surgeon's life story and Arab scientists (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -225,7 +225,7 @@ lessons closing the Dakhil Classes 9–10 People Who Stand
 Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
-2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Nursery* closes with character-sketch pages — My Self, My Mother, My Friend, My Teacher (printed pp.136–142); *English 5* prints two biographies, the Father of the Nation (printed p.31) and Arfa Karim (printed p.43); *English 6* writes biography in its Overpopulation unit (printed p.92); and *English 7* reads the Quaid-e-Azam biography (Unit 4, printed p.32). All four are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -476,3 +476,34 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Stylistic features of biographies — “Heritage” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 4, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together. Rows marked as bundled strands are strands the placements bundle inside a unit whose main point was already stocked; the sweep's diff names them in its convention note, and they are stocked here under the everything-goes-in ruling, counted separately from the 267. Rows marked “outside the sweep's 426” come from the diff's declared outside-the-count section (Grade 12 Units 18–20, whose placements tail was truncated); their citations give the three units' declared span (printed pp.150–179) because the sweep declares the span, not unit openings. They are stocked under the everything-goes-in ruling, counted separately from the 267.
+
+**Book:** *My English Book Grade 4* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 5* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep. The held copy is incomplete: printed pp.21–30 (all of Unit 3) and the Listening texts are missing; only held pages are cited.
+
+**Book:** *English Grade 7* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade 8* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English, Grade 9* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Biography reading: Pasang Lhamu Sherpa, first Nepalese woman on Everest (born…, tried in 1990/1991/1992, finally climbed in 1993) | Nepal, *My English Book Grade 4* (Grade 4), printed p.28 |
+| Writing “was born” sentences (year, day, place) from prompts | Nepal, *My English Book Grade 4* (Grade 4), printed p.31 |
+| Factual biographies: James Watt, Louis Pasteur, Thomas Edison, Alfred Nobel | Nepal, *My English Book Grade 5* (Grade 5), printed pp.41–43 |
+| Writing a paragraph from bio-data (name, date and place of birth, education, hobby, aim) | Nepal, *My English Book Grade 5* (Grade 5), printed p.57 |
+| Writing: a biography (a bundled strand of the unit, named in the sweep diff's convention note; the unit's grammar half, relative clauses, is stocked in relative-clauses) | Nepal, *English Grade 7* (Grade 7), printed p.107 |
+| Reading: Sir Isaac Newton and Khaptad National Park | Nepal, *English Grade 8* (Grade 8), printed p.128 |
+| Writing: a biography | Nepal, *English, Grade 9* (Grade 9), printed p.145 |
+| Reading “A Story of My Childhood”; writing: an autobiography | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.36 |
+| Unit 18 “Music and Creation”: writing a musician's biography from a Beethoven reading (outside the sweep's 426 — the truncated tail; stocked under the everything-goes-in ruling) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed pp.150–179 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

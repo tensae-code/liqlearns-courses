@@ -471,3 +471,27 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | “Modern communication” — future-tense revision worked with dictionary use | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 8, printed p.92 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock.
+
+**Book:** *My English Book Grade 1* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 2* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 3* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade 10* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| End-of-book word list (alphabetical) — the book's finding tool, stocked as such | Nepal, *My English Book Grade 1* (Grade 1), printed pp.67–68 |
+| End-of-book word list (alphabetical) — the book's finding tool, stocked as such | Nepal, *My English Book Grade 2* (Grade 2), printed pp.75–76 |
+| End-of-book word list (alphabetical) — the book's finding tool, stocked as such | Nepal, *My English Book Grade 3* (Grade 3), printed pp.81–84 |
+| The student's book's own Glossary — the book's finding tool, stocked as such (Nepal's counted place in this lesson rests on its dictionary-skills teaching, not on this glossary) | Nepal, *English Grade 10* (Grade 10), printed p.216 |
+
+**Sweep flag F4, verified in place:** the sweep re-checked this lesson's Grade 10 teacher's-guide entry and confirmed the correction already standing in this file — the 2024 “Feedback Copy” Grade 10 guide keys to a newer Grade 10 edition (18 thematic units) that is not the held book (19 functional units), so its glossary work is the guide's own teaching, teacher evidence only, and is not evidence for the held student's book. No edit was needed. The word lists and the glossary stocked below are the student's books' own end-of-book finding tools, stocked as such; Nepal's counted place in this lesson rests on its dictionary-skills teaching (Grade 6 Unit 8, Grade 7 entry reading, Grade 8 abbreviations, Grade 11 use and order), exactly as the file already states.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

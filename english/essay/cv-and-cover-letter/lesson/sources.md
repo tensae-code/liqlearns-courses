@@ -140,3 +140,18 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Writing a CV (project) | Uzbekistan, *English Matters* Student's Book 9 (Grade 9), Unit 9, printed p.107 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: a CV (the “Presenting Yourself” unit; listening: a job interview) — Nepal's earlier entry here, the Grade 10 book's model CV (printed p.128), was verified by the sweep in the held book | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.79 |
+
+Outside the sweep's 426, and changing no count: the sweep also verified in the held book the position of the Grade 10 model CV already cited in this lesson (Unit 11, printed p.128) — recorded here so the verification is credited.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

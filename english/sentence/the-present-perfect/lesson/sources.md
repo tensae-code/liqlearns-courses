@@ -533,3 +533,24 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 **Grade-label correction (sweep flag 2), fixed in this merge:** two Libya rows above this section cited the Grade 9 Course Book for content that is the Grade 10 (Secondary 1) book's — the “Sharing experiences” box (Unit 3, printed p.33) and the Grammar Reference entry (book pp.96–105); the held Grade 9 (Preparatory 3) Course Book has no Grammar Reference and no such lessons. Both rows and the Book 2 entry above are corrected to Grade 10. The points themselves are genuinely in the Grade 10 book — only the grade labels were wrong (the same shift was corrected for conditionals on 2026-11-04).
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock.
+
+**Book:** *My English Book Grade 3* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *My English Book Grade 5* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep. The held copy is incomplete: printed pp.21–30 (all of Unit 3) and the Listening texts are missing; only held pages are cited.
+
+**Book:** *English Grade 10* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present perfect first encounter, in a chant: “Pussy cat, where have you been? — I've been to London” — exposure in a song, not teaching (sweep flag F5) | Nepal, *My English Book Grade 3* (Grade 3), printed p.79 |
+| Present perfect in a chant: “Have you ever seen dinosaurs? Where have you been?” — exposure in a song, not teaching (sweep flag F5) | Nepal, *My English Book Grade 5* (Grade 5), printed p.67 |
+| Talking about personal experience (present perfect) | Nepal, *English Grade 10* (Grade 10), Unit 12, printed p.133 |
+
+**Sweep flag F5, a clarification the file already carries:** the two chant rows below are exposure in songs, not teaching; Nepal's first teaching of the present perfect remains Grade 8, exactly as this lesson's claim states. The Grade 10 row below is a normal teaching row.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

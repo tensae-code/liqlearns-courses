@@ -574,3 +574,27 @@ Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
 
 The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books from the files themselves. The held Grade 6 copy lacks about 20 printed pages, including a contents page, and the held Grade 9 copy is a photographed set with gaps (printed pp.11, 62, 129, 195, 248 were never photographed, and its contents rows for Modules 5–7 are only partly present). The "FULLY READ + CITATION CHECK PASSED" formula in this file's Kazakhstan Full Blast book entries therefore does not hold for these two copies: rows resting on them stand on the copy as held, and any claim about Full Blast Grade 9 Modules 5–7 cannot be confirmed or refuted from the copy in hand — it stands as the filing's claim, not as verified (sweep flags 2–3). A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants. The filing (english/books/kazakhstan.md) is reported, not edited.
  The specific claim affected here is the Grade 9 opinion essay with topic sentences (Full Blast Grade 9, Module 9) cited above.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock. Rows marked as bundled strands are strands the placements bundle inside a unit whose main point was already stocked; the sweep's diff names them in its convention note, and they are stocked here under the everything-goes-in ruling, counted separately from the 267.
+
+**Book:** *English Grade 7* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade 8* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Eleven* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: an essay | Nepal, *English Grade 7* (Grade 7), printed p.56 |
+| Writing: a narrative essay | Nepal, *English Grade 8* (Grade 8), printed p.90 |
+| Writing: an essay on hobbies and interests | Nepal, *English Grade 8* (Grade 8), printed p.145 |
+| Literature, essays: Sharing Tradition; How to Live Before You Die; What I Require from Life; What is Poverty?; Scientific Research is a Token of Humankind's Survival (titles only) | Nepal, *English Grade Eleven* (Grade 11), printed p.256 |
+| Writing: a travelogue essay (the West Nepal unit; a bundled strand named in the sweep diff's convention note; the unit's grammar half, voice, is stocked in the-passive) | Nepal, *English Grade Eleven* (Grade 11), printed p.172 |
+| Literature, essays: On Libraries; Marriage as a Social Institution; Knowledge and Wisdom; Humility; Human Rights and the Age of Inequality (titles only) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.247 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

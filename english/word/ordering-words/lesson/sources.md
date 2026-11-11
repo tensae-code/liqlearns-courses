@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal
 
 Every part traces to its book and page.
 
@@ -41,7 +41,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 10 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa).** Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal).** Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -57,7 +57,7 @@ the deep drill beside Using the dictionary: that lesson
 teaches the finding machine; this one walks the order
 to the fourth letter and beyond, and takes the entry
 apart. Counts grow as other closed countries' books
-are read.
+are read. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -151,3 +151,16 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *My English Book Grade 3* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Alphabetical order: rewriting words in abc order | Nepal, *My English Book Grade 3* (Grade 3), printed p.13 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

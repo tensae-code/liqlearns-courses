@@ -355,3 +355,20 @@ The 2026-11-08 re-verification sweep re-read Libya's English set from the book f
 | Agreeing and disagreeing with suggestions | Libya, Grade 7 Course Book, Unit 3 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock. Rows marked “outside the sweep's 426” come from the diff's declared outside-the-count section (Grade 12 Units 18–20, whose placements tail was truncated); their citations give the three units' declared span (printed pp.150–179) because the sweep declares the span, not unit openings. They are stocked under the everything-goes-in ruling, counted separately from the 267.
+
+**Book:** *My English Book Grade 3* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Agreeing: “So do I”, inside the question-tag unit | Nepal, *My English Book Grade 3* (Grade 3), printed p.45 |
+| Speaking: arguing and defending a point (the family unit) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.9 |
+| Unit 20 “Power and Politics”: speaking — denying (outside the sweep's 426 — the truncated tail; stocked under the everything-goes-in ruling) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed pp.150–179 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

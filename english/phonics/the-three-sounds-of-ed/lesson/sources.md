@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan
+countries: Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan, Nepal
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos
@@ -38,7 +38,7 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 | The three sounds of -ed, in the health unit (with hygiene and healthy eating) | Pakistan, *English 4*, Unit 8 (contents) |
 
-**Acceptance count: taught in 13 countries (Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Bolivia, India, Barbados, Nicaragua, Pakistan, Palestine, Sudan, Venezuela, Iraq, Vietnam, South Africa, Egypt, Kazakhstan, Nepal).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -50,7 +50,7 @@ presentation is claimed from Barbados. Bolivia's
 "breathed" stands in its /t/ list as printed and is
 taught corrected (its -ed is /d/), never as a /t/
 example. Counts grow as other closed countries' books
-are read. Iraq joins with its Grade 7 past-tense endings /d/ /ɪd/ /t/ (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+are read. Iraq joins with its Grade 7 past-tense endings /d/ /ɪd/ /t/ (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -167,3 +167,19 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *My English Book Grade 5* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read page by page in the 2026-11-08 re-verification sweep. The held copy is incomplete: printed pp.21–30 (all of Unit 3) and the Listening texts are missing; only held pages are cited.
+
+**Book:** *English Grade 8* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The three sounds of -ed: /d/ played, /t/ laughed, /ɪd/ wanted | Nepal, *My English Book Grade 5* (Grade 5), printed p.10 |
+| Pronunciation: the /t/, /d/, /ɪd/ endings | Nepal, *English Grade 8* (Grade 8), printed p.13 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.

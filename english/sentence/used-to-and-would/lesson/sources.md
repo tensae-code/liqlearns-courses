@@ -287,3 +287,28 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Uses of will; will vs would (Unit 9) — the would half of the point | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 9, printed pp.40–41 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+
+## Nepal added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Nepal's English set from the files: 18 books verified in hand — 12 student's books (Grades 1–12: *My English Book* Grades 1–5 and *English* Grades 6–12, all Curriculum Development Centre (CDC), Sanothimi) and 6 teacher's guides (Grades 1, 2, 3, 6, 9, 10). The sweep placed 426 teaching items fresh from the books: 159 were already in the course and 267 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md). Method: the Grade 1–5 student's books were read in full, page by page; Grades 6–12 were read from their contents tables, every unit opening and the grammar sections. The six teacher's guides are teacher evidence only and contribute no learner items here. Two held copies are incomplete and nothing is stocked from their missing parts: the Grade 5 student's book lacks printed pp.21–30 (all of Unit 3) and its listening texts, and the Grade 6 student's book ends at printed p.108 (Units 13–17 absent; its held folios are also misbound, in the order 1–19, 27–37, 20–26, 38–108). Nepal was already counted in this lesson; the rows below complete its stock. Rows marked “outside the sweep's 426” come from the diff's declared outside-the-count section (Grade 12 Units 18–20, whose placements tail was truncated); their citations give the three units' declared span (printed pp.150–179) because the sweep declares the span, not unit openings. They are stocked under the everything-goes-in ruling, counted separately from the 267.
+
+**Book:** *English Grade 8* (Updated Edition 2025) (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English, Grade 9* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade 10* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Eleven* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Grade Twelve (Compulsory)* (student's book) — Nepal, Curriculum Development Centre (CDC), Sanothimi. Filed in english/books/nepal.md; re-read from its contents table, every unit opening and the grammar sections in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: historical inventions; grammar: past simple, past continuous, past perfect and used to as a set | Nepal, *English Grade 8* (Grade 8), printed p.90 |
+| Grammar: simple past, used to, past continuous and past perfect as a set | Nepal, *English, Grade 9* (Grade 9), printed p.169 |
+| Comparing past and present (used to against now) | Nepal, *English Grade 10* (Grade 10), Unit 15, printed p.165 |
+| Grammar: used to (the “What is the Soul?” unit) | Nepal, *English Grade Eleven* (Grade 11), printed p.145 |
+| Unit 19 “Migration and Diaspora”: would/used to for past habits (outside the sweep's 426 — the truncated tail; stocked under the everything-goes-in ruling) | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed pp.150–179 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
