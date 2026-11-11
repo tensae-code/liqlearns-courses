@@ -1,6 +1,6 @@
 # Sources — Review writing
 
-countries: Egypt, Malaysia, Nepal, Yemen, China
+countries: Egypt, Malaysia, Nepal, Yemen, China, Greece
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 
 **Book 8:** *Compulsory Education Textbook · English, Grade 9 ("Go for it!")* (student's book, complete volume) — China, People's Education Press (with Cengage Learning), © 2014, ISBN 978-7-107-28027-6 (printed in the back-cover barcode). Filed in english/books/china.md (China — English Grade 9 (full year) — FULLY READ + CITATION CHECK PASSED 2026-10-29).
 
+**Book 9:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The REVIEW Tip Box: a review informs and persuades; the 4-part structure (introduction and overall impression, specific details, pros and cons, conclusion and recommendation); the model restaurant review 'The Olive Tree – Great Food, Poor Service' | Egypt, Secondary 12 Term 1, Unit 6, Lesson 5, printed pp.93–95 |
@@ -30,5 +32,6 @@ Every part traces to its book and page.
 | Reading a newspaper review of a novel (Yardley on Naipaul's Half a Life); a spoken review heard; writing book and film reviews in both formats | Nepal, English Grade 11, Unit 18 'Immigration and Identity', printed pp.162–171 |
 | The short-review commission: 'Write a short review of a book you have just read, or a film you have just see[n]' — 'see' printed for 'seen', taught corrected | Yemen, Workbook 6, Arts 6 exercise E, printed p.90 |
 | Reading a CD review: Jennifer's review of a favourite CD, completed with that/which/who | China — English ("Go for it!") Grade 9, Unit 9, printed p.68 |
+| “A Film Review” — writing a film review (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 10, Lesson 3, contents p.xii |
 
-**Acceptance count: taught in 5 countries (Egypt, Malaysia, Nepal, Yemen, China).** Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named.
+**Acceptance count: taught in 6 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named.

@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece
 
 Every part traces to its book and page.
 
@@ -42,6 +42,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 14:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The procedure shape — goal, ingredients/materials, steps — in recipes and a craft procedure (an instant-porridge pack as a first procedure; making a pencil holder) | Indonesia, Grade 7, Chapter 2 'Culinary and Me', printed pp.57–100 (as filed in indonesia.md) |
@@ -61,5 +63,6 @@ verification sweep.
 | Process writing: describe how to send a letter or e-mail, make a salad, prepare a garden bed, or paint a mural, in sequence | India — Marigold Book Five (Class 5), Unit 6 language work |
 | A process text filled in: a recipe (Easy Palak-Dal) completed with words from a box — ingredients and steps; names of insects and how they affect health | India — Honeycomb (Class 7), Working with Language in The Invention of Vita-Wonk, printed p.103 |
 | A paragraph of packing tips completed — dos and don'ts learned from the characters' mistakes | India — Beehive (Class 9), Writing in Packing, printed p.90 |
+| “Recipes from around the world” (project) — recipes, quantity and cooking instructions | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 9, Lesson 3, printed pp.114–116 |
 
-**Acceptance count: taught in 7 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India).** India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.
+**Acceptance count: taught in 8 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece).** Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced.

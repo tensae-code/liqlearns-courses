@@ -265,6 +265,7 @@ verification sweep.
 | Present perfect against simple past: the difference between the two pasts | Mexico, Grade 9, Project 3 "Traditions", printed p. 30 |
 | Present-perfect writing frames: "Write three new things you have done in the last three years" ("I have started…") and three things NOT done | India — Marigold Book Five (Class 5), Unit 5 language work |
 | A named language point in the teacher notes: two tense forms used together — simple past and present perfect (I have seen the Taj; He has arrived; I have finished my work) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
+| “Going for the Gold” — expressing experience and achievement; a personal-record poster | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 7, Lesson 3, contents p.ix |
 
 
 **Acceptance count: taught in 28 countries (Egypt,

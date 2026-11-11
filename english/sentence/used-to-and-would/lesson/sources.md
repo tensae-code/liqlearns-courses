@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece
 
 Every part traces to its book and page.
 
@@ -82,6 +82,8 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 17:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | used to / didn't use to for past situations AND regular habits, often comparing past and present; would + infinitive for past habits and typical behaviour — NOT past situations; wouldn't for refusal | Egypt, Secondary 11, Term 2, Unit 9, Past Habits box, printed p.29 (via EGYPT-BOOK-MAP.md) |
@@ -105,9 +107,10 @@ differ only in cover wording and colophon; cited once.
 | Past habits: used to + verb, didn't use to, did you use to…? (the transport-history reading claims the first internal-combustion car was produced in 1906 — false, the Benz Patent-Motorwagen is 1885/86; taught corrected) | Mauritania, Study English, Grade 9, printed pp.50–52 |
 | Past habits with used to, over the same transport-history text as the Grade 9 book, with the same 1906 first-car error | Mauritania, Study English, Grade 10, printed pp.19–21 |
 | Used to + verb and used to be + adjective/noun: past habits and changed states, mastered as a structure | Mexico, Grade 8, Project 5 "Matilde, Our First Female Doctor", printed p. 50 |
+| “Diaries” — expressing present and past habits; used to; clothes and hairstyles words | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 5, Lesson 1, contents p.viii |
 
-**Acceptance count: taught in 11 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania, Mexico).** One correction is recorded as the course
+**Acceptance count: taught in 12 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by

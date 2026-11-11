@@ -155,6 +155,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 49:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0186, ISBN 978-960-06-4460-9. A print artwork pack (flashcards, cut-outs, story picture sets, posters), not a lesson book; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five rooms on pictures, each with its sentence: bedroom — "I sleep in the bedroom" · bathroom — "I brush my teeth in the bathroom" · living room — "I watch TV in the living room" · dining room — "I eat in the dining room" · kitchen — "My mother cooks in the kitchen" | Egypt, Primary 1 Term 2, Unit 4 "My House," Lesson 1 "Rooms in My House," pp.67–68 |
@@ -250,6 +252,7 @@ verification sweep.
 | Household activities — the chores vocabulary of the home unit | Indonesia, English for Nusantara Grade 7, Chapter 3 "Home Sweet Home," printed p.117 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The house — rooms and household objects; there is; do/does … have? questions | Mauritania, Study English, Grade 7, printed pp.25–26 |
 | Parts of a house named and coloured (roof, door, windows, walls, floor, plants, dustbin) | India — Marigold (Class 1), Unit 4 word work, printed pp.42–52 |
+| The house and its rooms: a house cross-section poster, furniture flashcards (desk, bed, table, chair, sofa, lamp) and kinds of houses (tree house, castle, kennel) | Greece, Alpha English Grade 1 Workpack, house set (A_B17), PDF pp.54–58 |
 **Acceptance count: taught in 34 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
 Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for

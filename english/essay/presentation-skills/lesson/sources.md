@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -67,6 +67,8 @@ verification sweep.
 **Book 13:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 14:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Appendix IV — "How to Prepare a Presentation": eight practical tips (organise, open strongly, define terms, finish with a bang, slides, timing, notes, practice) | Syria, Emar Workbook 12, Scientific Section, Appendixes, printed pp.100–104 (Appendix IV at p.104) |
@@ -96,9 +98,10 @@ verification sweep.
 | Presentation — Demonstrate awareness of the features of spoken Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.1, PDF p.188 (curriculum evidence) |
 | Presentation — Speak at a good pace and with expression | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.2, PDF p.189 (curriculum evidence) |
 | Presentation | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.10.3, PDF p.191 (curriculum evidence) |
+| “This is my school” (project) — finding information about your school and presenting it on a poster | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 1, Lesson 3, printed pp.18–20 |
 
-**Acceptance count: taught in 7 countries (Syria,
-Indonesia, Bolivia, Cambodia, China, Mexico, India).** India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 8 countries (Syria,
+Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece).** Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with

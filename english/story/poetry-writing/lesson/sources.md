@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia, Mexico
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Indonesia, Mexico, Greece
 
 Every part traces to its book and page.
 
@@ -77,6 +77,8 @@ differ only in cover wording and colophon; cited once.
 **Book 11:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 12:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Poetry forms — bio poems, colour poems, limericks (and post cards) — begin at Class 3 in the shared grid (syllabus evidence only) | Barbados, Primary Language Arts Syllabus, Scope and Sequence, pp.1–9 (Class 4 printing, as filed) |
@@ -101,9 +103,10 @@ differ only in cover wording and colophon; cited once.
 | Poems | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.3.1, PDF p.97 (curriculum evidence) |
 | Poems — Demonstrate understanding of lessons in stories | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.4.1, PDF p.98 (curriculum evidence) |
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
+| “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 7 countries (Barbados,
-Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico).** Barbados's syllabus names
+**Acceptance count: taught in 8 countries (Barbados,
+Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece).** Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse

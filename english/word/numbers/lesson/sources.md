@@ -214,6 +214,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 66:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0186, ISBN 978-960-06-4460-9. A print artwork pack (flashcards, cut-outs, story picture sets, posters), not a lesson book; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Count objects and match them with the correct number (4 leaves, 1 sun, 5 apples, 2 tulips, 3 pineapples); "How many pencils are there? There are (2–3) pencils" / "How many stars are there? There are (3–5) stars"; trace the numbers 1–5, each row headed by that many strawberries | Egypt, KG2 (I Love My Family unit's number work), pp.54–55 |
@@ -355,6 +357,7 @@ verification sweep.
 | A counting poem read whole: "One Little Kitten" (Carolyn Graham) — one kitten, two cats, three butterflies on to fifteen donkeys, feelings named inside it (sad, brave, happy, nervous) | India — Marigold (Class 1), Unit 3, printed pp.29–41 |
 | A counting story the book begins and children continue: "Counting Clouds" — one little cloud, two little clouds…; the child writes what the fifth and sixth clouds did | India — Marigold Book Two (Class 2), Unit 4 story-completion, printed pp.54–71 |
 | Counting in verse, read whole: "On My Blackboard I can Draw" — one house, one green door, two gates, three steps, four chimneys, five windows, six marigolds | India — Marigold Book Two (Class 2), Unit 7, printed pp.105–121 |
+| Numbers 1–10 sheets: counting frogs and a number train (1–5 first, then 6–10) | Greece, Alpha English Grade 1 Workpack, numbers sheets (A_B06, A_B08_W01–2), PDF pp.15, 38–39 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried

@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece
 
 Every part traces to its book and page.
 
@@ -30,6 +30,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 10:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
+**Book 11:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four consumer-product types (convenience, shopping, speciality, unsought); advertising methods (social media, posters, radio, public display) and audiences; creating and performing an advertising speech | Cambodia, ENGLISH Grade 12, Unit 17 'Advertising', printed pp.93–98 |
@@ -44,5 +48,7 @@ verification sweep.
 | Advertisements introduced as a genre in the teacher notes (ads on social concerns — educating the girl child, protecting the environment, saving water), and students prepare a poster for cleanliness for their locality/school (Swachh Bharat Abhiyaan) — the note itself names the taught point | India — Honeysuckle (Class 6), Writing activity in Units 1–3 (Notes for the Teacher), printed pp.1–6 (unit notes) |
 | A poster designed as writing work: a poster on saving water (water harvesting) | India — First Flight (Class 10), Writing in A Letter to God, printed p.12 |
 | An advertisement drafted after a role-played meeting (tea planter, sales agent, consumer, physician, tea-shop owner) using opinion phrases (I feel…, I disagree…, I suggest…) | India — First Flight (Class 10), Speaking/writing in Glimpses of India, printed p.98 |
+| “A knowledge quiz” — forming questions with multiple answers; an advert | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 6, Lesson 3, printed pp.82–84 |
+| “The Museum Leaflet” — talking and writing about a museum leaflet (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 5, Lesson 3, contents p.viii |
 
-**Acceptance count: taught in 8 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India).** India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced.
+**Acceptance count: taught in 9 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced.

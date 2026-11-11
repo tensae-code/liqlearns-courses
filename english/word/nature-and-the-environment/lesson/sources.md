@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece
 
 Every part traces to its book and page.
 
@@ -102,6 +102,8 @@ India, NCERT, 2020-21 printing (chapter footers stamped
 CITATION CHECK PASSED 2026-10-26); re-read page by page in
 the 2026-11-08 re-verification sweep.
 
+**Book 24:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The nature outcomes: identify and describe natural environments (gardens, parks, forests, mountains, lakes, the sea); describe animals and their behaviour; recognise sunrise and sunset; learn the importance of caring for nature | Albania, A2 Chapter 38 "Nature," overview, printed p.48 |
@@ -143,9 +145,11 @@ the 2026-11-08 re-verification sweep.
 | The sustainable-energy project: renewable against non-renewable energies compared for environmental impact, with alternatives proposed | Mexico, Grade 9, Project 12 "Technical Solutions Using Sustainable Energies", printed p. 108 |
 | "Our Tree" — poem/story of the tree's own cycle: a bird eats a berry, the seed falls, rains come, and a new tree grows with birds, ants, spiders and squirrels (the poem prints "Caterpillars" for caterpillars — book slip, taught corrected) | India — Marigold (Class 1), Unit 6, printed pp.64–76 |
 | An environment text read whole: "The Ailing Planet: the Green Movement's Role" (Nani Palkhivala) — the Green Movement, the earth as a living organism, population and the four biological systems, sustainable development (topic summary only) | India — Hornbill (Class 11), printed p.43 |
+| “The United Kingdom” — reading a guidebook text about a country; geography and landforms words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 3, printed pp.22–24 |
+| “My work can make a difference” — environmental problems and campaigns; a friendly letter about environmental work | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 5, Lesson 3, printed pp.70–72 |
 
-**Acceptance count: taught in 10 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India).** India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 11 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with

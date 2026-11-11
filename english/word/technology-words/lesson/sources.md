@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece
 
 Every part traces to its book and page.
 
@@ -86,6 +86,8 @@ Secundaria and Telesecundaria records are one book —
 the two files differ only in cover wording and
 colophon; cited once.
 
+**Book 19:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1 computer hardware/software: the Magaly reading and collocations (scan a document, upload a photo, print a document); the parts of the computer numbered 1–6 — 1. DRIVE ("reads CD/DVD discs" as printed), 2. MONITOR (output device), 3. KEYBOARD (principal input device), 4. MOUSE (pointing device), 5. MODEM/ROUTER (network signal), 6. PRINTER | Bolivia, Year 2, Topic 6 "Convivencia intercultural a través del uso de la tecnología," student p.177 |
@@ -114,9 +116,10 @@ colophon; cited once.
 | The social-networks research project: examining teenagers' use of social networks | Mexico, Grade 7, Project 13 "Teenagers and The Social Networks", printed p. 116 |
 | A history reading: automatons, the ancestors of robots, up to modern robots (topic summary only) | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 46 |
 | The lapbook project: a lapbook on an artistic or cultural manifestation from an English-speaking country, and how adults perceive the internet and social media | Mexico, Grade 9, Project 19 "Social Media and Their Importance in the Transmission of Current Cultural and Artistic Manifestations", printed p. 174 |
+| “Do you like computers?” — like / don't like / enjoy / hate + -ing; computer and internet words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 1, Lesson 1, printed pp.13–17 |
 
-**Acceptance count: taught in 8 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico).** Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 9 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI

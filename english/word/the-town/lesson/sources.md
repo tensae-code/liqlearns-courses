@@ -151,6 +151,8 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 56:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Eight town words on pictures: hospital, school, shop, building, street, car, truck, bus (the hospital shown with its ambulance) | Egypt, Primary 1 Term 2, Unit 5 "Neighborhood," Lesson 1 "Around My Town," p.86 |
@@ -253,6 +255,10 @@ re-verification sweep.
 | Places at school — library, school yard | Indonesia, English for Nusantara Kids Grade 4, printed p.94 (stocked 2026-11-09 by the re-verification sweep merge) |
 | School buildings — the facilities vocabulary of the school chapter | Indonesia, English for Nusantara Grade 7, Chapter 5 "This Is My School," printed p.205 (stocked 2026-11-09 by the re-verification sweep merge) |
 | A town poem read whole: "Sing a Song of People" (Lois Lenski) — city people walking fast or slow, on sidewalks, buses, subways, taxis and elevators, with hats and umbrellas | India — Marigold Book Five (Class 5), Unit 9, printed p.148 |
+| The sea set: sailor and mermaid colouring, sea-creature flashcards (fish, starfish, shell, crab, seahorse, octopus), beach and town-places cut-outs (theatre, museum, gift shop) | Greece, Beta English Grade 2 Workpack, sea set (A08–A09), PDF pp.155–162 |
+| “Let's talk about Greece” (project) — presenting places in Greece | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 3, Lesson 3, printed pp.42–44 |
+| “The place we live in” — places, services, occupations and transport words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 1, printed pp.38–41 |
+| “Talking about a city in Greece” — writing a guidebook text about a city | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 3, printed pp.45–48 |
 **Acceptance count: taught in 32 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's

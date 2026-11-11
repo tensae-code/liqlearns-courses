@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece
 
 Every part traces to its book and page.
 
@@ -88,6 +88,8 @@ differ only in cover wording and colophon; cited once.
 **Book 16:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 17:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The MODAL VERBS box — DEDUCTION with printed certainty numbers: present (must + base = 95–100% sure it's true; may/could = 50% possibility; might = 30% possibility; can't = 95–100% sure it's NOT true) and past forms, plus blame and regret (should have / shouldn't have) — the box's past half stocks the next lesson | Egypt, Secondary 12 Term 1, Unit 3, Lesson 3, Language in Context, pp.40–43 |
@@ -116,9 +118,10 @@ differ only in cover wording and colophon; cited once.
 | Modals — Use modals to express a variety of meanings: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 3 (Grammar Usage), standard B4.3.9.1, PDF p.69 (curriculum evidence) |
 | Modals — Use modals to express a variety of meanings: | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.9.1, PDF p.142 (curriculum evidence) |
 | Modals — Use modals to express a variety of meanings | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.9.1, PDF p.216 (curriculum evidence) |
+| “Let's do it!” — modals can, must, should/shouldn't; recycling and litter words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 5, Lesson 2, printed pp.65–69 |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico).** Egypt prices the
+**Acceptance count: taught in 11 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder

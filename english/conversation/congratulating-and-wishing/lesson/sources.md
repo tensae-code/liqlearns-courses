@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece
 
 Every part traces to its book and page.
 
@@ -72,6 +72,14 @@ lesson is reproduced.
 
 **Book 14:** *English for Nusantara*, Grade 8 (Kelas VIII) student book — Indonesia, Kemendikbudristek, 2022, ISBN 978-602-427-941-7. Filed in english/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
 
+**Book 15:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0186, ISBN 978-960-06-4460-9. A print artwork pack (flashcards, cut-outs, story picture sets, posters), not a lesson book; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 16:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 17:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit Seven "congratulating and wishing": Lesson 17 "I Have Got It!" — Omar's exam pass with distinction and the congratulation forms (Congratulations! / Congratulations on… / I congratulate you on…) | Mauritania, Study English Grade 12, Unit Seven, Lesson 17, printed p.52 |
@@ -89,9 +97,16 @@ lesson is reproduced.
 | Festival and ceremony talk with holiday wishes: the festival set (fireworks, national anthem…), New Year customs, "Wish you a great holiday," "Happy New Year" | Iran, Prospect 3 (Grade 9), Lesson 3 "Festivals and Ceremonies," printed pp.49–61 |
 | The festival set practised in exercises, including matching phrases with pictures | Iran, Prospect 3 Workbook (Grade 9), Lesson 3, printed pp.35–52 (workbook mirror of the student lesson) |
 | Congratulating others and expressing hopes, as a named function of the celebration chapter | Indonesia, English for Nusantara Grade 8, Chapter 2 "I'm Proud of Indonesia!," printed p.52 |
+| Festival sets: Halloween (witches, pumpkin, masks), Christmas (tree, stocking, Santa, cards), Carnival masks, Easter (“5 little Easter bunnies” picture set), sea animals, and an “I love you Mum” card | Greece, Alpha English Grade 1 Workpack, festival sets (A_B31–B36), PDF pp.111–144 |
+| Festival flashcards: Halloween (cat, spider, witch, bat, pumpkin, skeleton) and Christmas (star, stocking, angel, bell, bauble, present; a colour-by-number tree) | Greece, Beta English Grade 2 Workpack, festival sets (B01–B02), PDF pp.163–170 |
+| The Easter set: egg-hunt story pictures (“Look! An egg! — Thank you! Happy Easter!”), Easter egg colouring and basket cut-outs | Greece, Beta English Grade 2 Workpack, Easter set (B06_C01-7), PDF pp.181–188 |
+| Festival songs and stories named in the printed audio contents: “The Easter Bunny” and the “Happy Birthday” song | Greece, Beta English Grade 2 Workpack, audio contents table, PDF pp.195–196 |
+| “British customs” — Christmas and Halloween customs; present simple | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 5, Lesson 2, printed pp.62–65 |
+| “Finding out about habits and customs” (project) — customs in Greece and other countries | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 5, Lesson 3, printed pp.66–68 |
+| “A Christmas song” — Christmas traditions around the world (project: a menu) | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 4, Lesson 3, printed pp.58–60 |
 
-**Acceptance count: taught in 9 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia).** Albania —
+**Acceptance count: taught in 10 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece).** Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the

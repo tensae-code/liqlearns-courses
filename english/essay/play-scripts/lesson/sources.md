@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -95,6 +95,8 @@ the 2026-11-08 re-verification sweep.
 **Book 15:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 
+**Book 16:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A complete play script read: "The robbery" (Inspector Fox deduces that the photographer "borrowed" the dinosaur egg); then play-script writing with stage directions as the unit's writing work | Malaysia, Academy Stars Pupil's Book, Year 6, Unit 10 "It's a mystery!", printed pp.122–123 (the script) and pp.128–129 (the writing) |
@@ -118,9 +120,11 @@ the 2026-11-08 re-verification sweep.
 | Dramatisation And Role Play — Talk about key real life situations issues in stories/sketches • Have learners discuss the character | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.5.2, PDF p.29 (curriculum evidence) |
 | Dramatization And Role Play — Appreciate key | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.5.2, PDF p.100 (curriculum evidence) |
 | Dramatisation And Role Play | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.5.2, PDF p.180 (curriculum evidence) |
+| “Classroom theatre” — a literature extract: Shakespeare's A Midsummer Night's Dream; acting a scene | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 3, Lesson 3, contents p.vii |
+| “The Awful 5” — a play extract about pollutants; acting (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 9, Lesson 3, contents p.xi |
 
-**Acceptance count: taught in 6 countries (Malaysia,
-Ghana, Barbados, India, Bangladesh, Mexico).** India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 7 countries (Malaysia,
+Ghana, Barbados, India, Bangladesh, Mexico, Greece).** Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;

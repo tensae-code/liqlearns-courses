@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece
 
 Every part traces to its book and page.
 
@@ -69,6 +69,10 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 18:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 19:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | My family: Mum, Dad, sister, brother, baby, me — Pattern: "Who's this? This is Tala / my brother / my mum / the baby" | Palestine, Grade 1 Part 1, Unit 7 "My family," p.40 (pattern pp.42–44) |
@@ -91,10 +95,13 @@ covers the 6th Year book only).
 | The family-members set again as a Chapter 0 recap at junior high | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
 | Introducing your family in a message: family members, parents' jobs, brothers and sisters, likes | Mauritania, Study English, Grade 7, printed pp.46–47 |
+| Families around the world: photographs of mothers and babies in different countries | Greece, Beta English Grade 2 Workpack, families set (B07_C01), PDF p.189 |
+| One framed “photo” card of the bear family of five | Greece, Beta English Grade 2 Workpack, family photo card (B01), PDF p.23 |
+| “Our yearbook” — giving information about yourself and your family; wh-question revision | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 10, Lesson 1, printed pp.117–121 |
 
-**Acceptance count: taught in 10 countries (Mongolia, North
+**Acceptance count: taught in 11 countries (Mongolia, North
 Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
-Indonesia, Mauritania).** Palestine carries the
+Indonesia, Mauritania, Greece).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds

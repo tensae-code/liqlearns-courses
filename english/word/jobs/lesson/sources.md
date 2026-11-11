@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece
 
 Every part traces to its book and page.
 
@@ -86,6 +86,12 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 24:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 25:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 26:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What do you do? / I'm a pupil"; grade and class; then third-person jobs — "What does she/he do?", "Is she a teacher/seller?", parents' jobs (seller, teacher, farmer, doctor, policeman, housewife) with "What do your parents do?" | Cambodia, Grade 4, Unit 6 "Jobs," printed pp.72–85 (questions p.72; mother p.80) |
@@ -121,9 +127,13 @@ verification sweep.
 | Jobs matched to people: a person who sails a ship, flies a spaceship, draws or paints, checks teeth, brings letters, works in school, makes sick people well, flies an aeroplane (sailor, astronaut, artist, dentist, postman, teacher, doctor, pilot) | India — Marigold (Class 1), Unit 10 word work, printed pp.110–120 |
 | People who help us matched to their work (postman brings our letters, cobbler mends our shoes, librarian works in a library, driver, dramatist, teacher, nurse, musician, astronaut, clown), and new words made by adding -ful, -ly, -ish (playful, beautiful, lovely, slowly, childish, foolish, babyish) | India — Marigold Book Three (Class 3), Unit 8 Let's write / Word building, printed pp.79–86 |
 | Jobs matched to what they do (navigator, architect, politician, counsellor…) and careers columns read (adventurous/creative/thinker types) | India — Honeysuckle (Class 6), Working with Language in Who I Am, printed p.76 |
+| Jobs: flashcards with bear characters (doctor, chef, policeman, teacher, vet, farmer, painter…) and a Gulliver-style big/small people picture talk | Greece, Beta English Grade 2 Workpack, jobs set (FB3), PDF pp.80–81 |
+| “Tell me about your job” (project) — interviewing a professional; old and endangered jobs | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 7, Lesson 3, printed pp.90–92 |
+| “Talking about jobs & careers” — expressing ability, permission, possibility: modals can, may, should; personal traits and skills words | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 6, Lesson 1, contents p.viii |
+| “What the future holds for you” — expressing prediction; a job profile (project) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 6, Lesson 3, contents p.ix |
 
-**Acceptance count: taught in 9 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India).** India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 10 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary

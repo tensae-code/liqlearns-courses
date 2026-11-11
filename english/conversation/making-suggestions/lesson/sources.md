@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece
 
 Every part traces to its book and page.
 
@@ -50,6 +50,8 @@ and Educational System Reform, National Pedagogic Institute
 re-verification sweep (the english/books/mauritania.md filing
 covers the 6th Year book only).
 
+**Book 8:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Suggestions with "Why don't we…?", "Let's…" and "We/You could…" (Study Box), in a walk-planning dialogue that uses a weather forecast and a compass | Syria, English for Starters 5, Unit 3 "Giving suggestions / making plans", printed pp.11–13 |
@@ -60,9 +62,10 @@ covers the 6th Year book only).
 | "want" and "would like" for desires, preferences and future plans — "I want to travel to all the countries" — the wanting that stands behind a suggestion or a plan (stocked 2026-11-08 by the re-verification sweep; filed here as the preference/plan use — the chapter names no suggestion exponents of its own) | Albania, Akelius A2 Guide, Chapter 39 "Travel," printed p.54 (PDF 57) — teacher-guide evidence |
 | Suggestion formulae in the food lesson: "Let's have… / How about some…?" | Iran, Prospect 1 (Grade 7), Lesson 8, printed pp.42–45 |
 | Making suggestions: let's, why don't we, shall we, how about/what about + -ing, we could | Mauritania, Study English, Grade 8, printed pp.24–26 |
+| “Customs around the world” — expressing opinions (I think…, in my opinion) and suggestions (Why don't you…?, Let's…, How about…?) inside a customs text | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 2, Lesson 3, printed pp.34–36 |
 
-**Acceptance count: taught in 6 countries (Albania, Cambodia,
-Mongolia, Syria, Iran, Mauritania).** Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 7 countries (Albania, Cambodia,
+Mongolia, Syria, Iran, Mauritania, Greece).** Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a

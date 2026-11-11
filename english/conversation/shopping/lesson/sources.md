@@ -19,10 +19,14 @@ Education, Culture, Science and Sports, first published
 CHECK PASSED 2026-10-26).
 
 **Book 3:** Αγγλικά (Anglika), Grade 4, Student's Book,
-New Edition — Greece, ITYE «Diophantos», for the Ministry
+Revised Edition — Greece, ITYE «Diophantos», for the Ministry
 of Education (ebooks.edu.gr). Filed in
 english/books/greece.md (Grade 4 — Αγγλικά (Anglika),
-Student's Book, New Edition section).
+Student's Book, New Edition section). (Edition wording
+corrected 2026-11-10 by the Greece re-verification sweep
+merge: the book itself prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ —
+Revised Edition; "New Edition" was the record's superseded
+wording, which the filing's section title still carries.)
 
 **Book 4:** We Can! Student's Book 3 (full-year combo;
 the held copy is the Term 3 extract) — Saudi Arabia,
@@ -64,6 +68,8 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 15:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 1 "Shops And Shopping": shop words and the dialogue frame "Can I help you? / I want to buy …, please / Anything else? / No, thanks" (Unit 1, Selling Food) | Cambodia, Grade 5, Chapter 1, Unit 1, printed pp.8–11; the frame's "Can I help you?" is a citation anchor at printed p.10 |
@@ -85,6 +91,7 @@ differ only in cover wording and colophon; cited once.
 | Asking and saying prices — "How much is it? It is 50,000 rupiahs" | Indonesia, English for Nusantara Grade 9, Chapter 4, printed p.230 |
 | Shopping and identifying things: can I have that jacket, which one, how much is it / are those, prices in MRU | Mauritania, Study English, Grade 7, printed pp.23–24 |
 | Three teenagers' dialogues about their newest technology purchases — shopping talk in real exchanges (summaries only) | Mexico, Grade 8, Project 6 "Automatons: The Ancestors of Robots", printed p. 55 |
+| “E-shopping” — ordering and buying goods; filling in an online order | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 2, Lesson 3, contents p.vi |
 
 **Acceptance count: taught in 10 countries (Cambodia,
 Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the

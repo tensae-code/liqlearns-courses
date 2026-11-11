@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece
 
 Every part traces to its book and page.
 
@@ -44,6 +44,10 @@ Filed in english/books/india.md (FULLY READ + CITATION CHECK
 PASSED 2026-10-26); re-read page by page in the 2026-11-08
 re-verification sweep.
 
+**Book 10:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 11:** Greece Αγγλικά (Anglika) Pupil's Book, Revised Edition, Grade 5: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). Filed in english/books/greece.md (Grade 5 — Αγγλικά (Anglika), Pupil's Book, Revised Edition section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep. Book error, taught corrected: the contents page misprints 'Inrenet friends' for 'Internet friends' (Unit 1, Lesson 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The feelings vocabulary list of 17: bored, cold, hot, confused, disappointed, tired, hungry, thirsty, surprised, nervous, happy, sad, upset, excited, afraid, brave, amused — carried under a hobbies-and-abilities heading after "knowing my town" and the and/but connectors | Bolivia, Year 2 (Grade 8), Topic 7 "Feelings and emotions," §2.3, student p.178 |
@@ -60,9 +64,12 @@ re-verification sweep.
 | Expressing your feelings about after-school club activities | Indonesia, English for Nusantara Kids Grade 6, printed p.129 |
 | A feelings poem read whole: "Crying" (Galway Kinnell) — crying only a little is no use; cry till your pillow is soaked, then laugh, because happiness was hiding in the last tear | India — Marigold Book Five (Class 5), Unit 4, printed p.58 |
 | A feelings poem read whole: "Nobody's Friend" (Enid Blyton) — a girl and boy who won't share sweets, books, dolls, toffee, tricycle or train are nobody's friends; the last child shares everything | India — Marigold Book Five (Class 5), Unit 8, printed p.130 |
+| Carnival costume photographs and feelings emoji cards | Greece, Beta English Grade 2 Workpack, carnival and feelings set (B04), PDF pp.177–180 |
+| The Friendly Ghost: two big friendly ghosts to colour and six ghost faces with different expressions — a story/song lesson whose words live in the audio | Greece, Beta English Grade 2 Workpack, Friendly Ghost set (B11), PDF pp.57–58 |
+| “School life and feelings” — talking about school life; expressing feelings | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 2, Lesson 1, printed pp.26–29 |
 
-**Acceptance count: taught in 7 countries (Albania, Bolivia,
-Mexico, Mongolia, China, Indonesia, India).** India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 8 countries (Albania, Bolivia,
+Mexico, Mongolia, China, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as

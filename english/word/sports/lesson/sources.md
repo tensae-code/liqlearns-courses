@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece
 
 Every part traces to its book and page.
 
@@ -88,6 +88,10 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 17:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
+**Book 18:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 4: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition); the record's older 'New Edition' wording is superseded. Filed in english/books/greece.md (Grade 4 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read page by page in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sports vocabulary: running, cycling, swimming, skateboarding, volleyball, football, walking, yoga, dancing (inside the physical-inactivity health project) | Mexico, Grade 7, Project 6, Vocabulary, p.60 |
@@ -109,9 +113,13 @@ verification sweep.
 | The games project (Modified Games Factory): modify a game's rules and reflect on decision-making — “Think Before You Act” | Mexico, Grade 7, Project 8 "Think Before You Act: Games and Decision-Making", printed p. 70 |
 | The games-strategy project: strategies and creativity in modified target, striking, fielding and court games | Mexico, Grade 9, Project 9 "Building Creative, Tactical and Strategic Thinking", printed p. 80 |
 | A wordsearch as sports work: twelve cricket words hidden in a grid (over, boundary, stumps…) found from clues | India — Honeycomb (Class 7), Working with Language in The Story of Cricket, printed p.149 |
+| Play: a playground poster, sports/action flashcards and “I'm playing / I'm doing” tracing sheets | Greece, Beta English Grade 2 Workpack, play set (FB7), PDF pp.93–96 |
+| “My favourite sport” — talking about your favourite sport; I like / I don't like | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 1, printed pp.21–25 |
+| “Have you got a hobby?” — he/she likes / doesn't like; hobby words | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 2, printed pp.26–29 |
+| “The Olympic Games” (project) — Olympic sports, past and now | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 2, Lesson 3, printed pp.30–32 |
 
-**Acceptance count: taught in 9 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India).** India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 10 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;

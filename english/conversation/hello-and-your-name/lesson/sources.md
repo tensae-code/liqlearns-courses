@@ -199,6 +199,7 @@ rendered page the same day).
 | Talking about yourself: my name is…, I am from…, I live in…, my nationality | Mauritania, Study English, Grade 7, printed pp.13–15 |
 | Self-introduction work at Class 1: fill in about yourself — I can read my name; My name is…; I am … years old; I can write my address; I can count till…; my teacher's name; my school | India — Marigold (Class 1), Unit 9, printed pp.98–109 |
 | Six children introduce themselves and what they want to be: "Who I Am" — Radha, Nasir, Rohit, Serbjit, Dolma, Peter, with personality and careers material | India — Honeysuckle (Class 6), printed p.69 |
+| Saying your name with a picture card: name cards for the class characters (Anna, Nikos, Maria, Kostas, Elina, Fotis, Christina, Petros, Voula, Alex) — the pupil says their own name with a card the same way | Greece, Alpha English Grade 1 Workpack, name cards (A_A00–A02), PDF pp.6–7 |
 **Acceptance count: taught in 35 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
@@ -500,6 +501,12 @@ Unit 1, printed p.2; Unit 2, Lesson 1, printed p.8).
 Greece prints no "What's your name?" question form in
 the filed read — its exchange is the greeting plus the
 "I'm … / My name's …" answer, recorded here as printed.
+The Grade 1 Alpha English Workpack (book code 0-10-0186,
+ISBN 978-960-06-4460-9) joins this lesson from the
+2026-11-08 re-verification sweep (stocked 2026-11-10 by
+the Greece sweep merge): its opening sheets are name
+cards for the class characters (A_A00–A02, PDF pp.6–7) —
+saying your name with a picture card.
 
 **Kazakhstan added 2026-11-03** — six books stock this lesson:
 **Book:** *Smiles 1 — Pupil's Book for Kazakhstan Grade 1*

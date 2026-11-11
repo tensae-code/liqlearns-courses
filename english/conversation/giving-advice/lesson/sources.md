@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece
 
 Every part traces to its book and page.
 
@@ -108,6 +108,8 @@ Grade 8 book was never filed there). The Secundaria and
 Telesecundaria records are one book — the two files
 differ only in cover wording and colophon; cited once.
 
+**Book 21:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Giving advice from four problem situations using set expressions (you should…, How about…?, If I were in your shoes…) | Malaysia, English Form 1, Chapter 12 "Prudent Lifestyles", printed pp.137–149 (the "If I were in your shoes, I would…" formula stands on printed p.139, as filed — a set expression, presented without conditional grammar) |
@@ -133,9 +135,10 @@ differ only in cover wording and colophon; cited once.
 | Giving advice: should/shouldn't, could, must, have to, ought to, might want to, need to | Mauritania, Study English, Grade 8, printed pp.27–30 |
 | The goals project: setting individual goals that encourage the collective well-being | Mexico, Grade 7, Project 18 "Individual Goals That Encourage the Collective Well-Being", printed p. 160 |
 | The community life project: short-, medium- and long-term goals, well-being and safe environments — advice given as a community plan | Mexico, Grade 8, Project 17 "Learning About Personal and Contextual Needs to Build a Community Life Project", printed p. 138 |
+| “The Problem Page” — asking for and giving advice; an advice letter; letter-writing set phrases (the contents page prints 'singing off' for the body's 'signing off' — taught corrected) | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 8, Lesson 3, contents p.x |
 
-**Acceptance count: taught in 12 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico).** Malaysia gives
+**Acceptance count: taught in 13 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.

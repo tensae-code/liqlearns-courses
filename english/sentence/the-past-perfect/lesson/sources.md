@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece
 
 Every part traces to its book and page.
 
@@ -62,6 +62,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 17:** Greece Αγγλικά (Anglika) Student's Book, Revised Edition, Grade 6: student book — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr). The book prints ΑΝΑΘΕΩΡΗΜΕΝΗ ΕΚΔΟΣΗ (Revised Edition). Filed in english/books/greece.md (Grade 6 — Αγγλικά (Anglika), Student's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep — the rows from this book cite its printed contents pages, where the sweep recorded these project lessons. Book error, taught corrected: the contents page prints 'singing off' where the body prints 'signing off' (Unit 8, Lesson 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The form box: had + past participle, for the action completed before another past action, with before / after / by the time / already / just | Egypt, Secondary 12 Term 2, the Past Perfect box (as filed in EGYPT-BOOK-MAP.md) |
@@ -82,8 +84,9 @@ verification sweep.
 | The PAST PERFECT taught as the "earlier past" ("When I reached the station, the train had left"), with fill-ins and a Past vs Earlier-past sorting exercise | India — Honeydew (Class 8), Working with Language in The Best Christmas Present in the World, Unit 1 |
 | Form noticed in the Notes: the past perfect used to recount the remote past — cited from the book's Notes | India — Hornbill (Class 11), Noticing form in The Portrait of a Lady, printed p.10 (Notes) |
 | Form noticed: the past perfect — form picked out of the story and its use explained | India — Flamingo (Class 12), Noticing form in The Last Lesson, printed p.10 |
+| “An Earth Day Story” — sequencing past actions; past perfect simple; environment words | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 9, Lesson 1, contents p.xi |
 
-**Acceptance count: taught in 13 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India).** India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).

@@ -210,6 +210,8 @@ sweep. The Secundaria and Telesecundaria records are
 this one book — the two files are byte-identical;
 cited once.
 
+**Book 68:** Greece Alpha English WORKPACK, Grade 1: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0186, ISBN 978-960-06-4460-9. A print artwork pack (flashcards, cut-outs, story picture sets, posters), not a lesson book; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 1 — ALPHA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Listen and repeat: breakfast, lunch, dinner, eat, drink" — with the breakfast plate pictured: egg, cheese, beans, and a glass of milk | Egypt, Primary 1 Term 2, Unit 1 "My Week," p.15 |
@@ -338,6 +340,7 @@ cited once.
 | The Culture Fair project: an exhibition on the traditional food and literature of an English-speaking country | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 46 |
 | A listening with food at its heart: “Anansi Goes to Lunch” — three invitations describing African, American and Italian food; learners identify who, where and what food | Mexico, Grade 7, Project 5 "The Relationship Between Food, Culture, and Identity", printed p. 50 |
 | Natural against processed foods — the supermarket sort: seeds, radish and asparagus against cookies, soda and canned tuna | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 155 |
+| Food picture flashcards and cut-outs (cake, pizza, banana, sandwich, popcorn, fries) — first food words as pictures to name and sort | Greece, Alpha English Grade 1 Workpack, food flashcards and cut-outs (A_A03_F01-8), PDF pp.7–8 |
 **Acceptance count: taught in 34 countries (Bangladesh, Egypt,
 Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico).**
 Egypt carries the meals and the breakfast plate;

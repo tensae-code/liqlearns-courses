@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece
 
 Every part traces to its book and page.
 
@@ -61,6 +61,8 @@ english/books/india.md (FULLY READ + CITATION CHECK PASSED
 2026-10-26); re-read page by page in the 2026-11-08 re-
 verification sweep.
 
+**Book 14:** Greece Beta English WORKPACK, Grade 2: workpack — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 0-10-0187, ISBN 978-960-06-4458-6. A print artwork pack (flashcards, cut-outs, story picture sets, posters) with a printed audio contents table; its rows cite PDF pages and sheet codes. Filed in english/books/greece.md (Grade 2 — BETA ENGLISH section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read visually, every sheet, in the 2026-11-08 re-verification sweep.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transport: car, bus, bike, van, taxi — Pattern: "How many taxis? Five taxis," counting combined objects ("How many taxis and bikes?"), first whole-word writing (v_an, _ike, _axi, _ar, _us) | Palestine, Grade 1 Part 2, Unit 11 "Transport," p.10 (writing p.15) |
@@ -81,9 +83,10 @@ verification sweep.
 | The tourism word set: tourism, destination, attractions and the reading's vocabulary | Iran, Vision 1 (Grade 10), Lesson 4, New Words & Expressions, printed pp.97–119 |
 | A workbook-only reading, "How to be a good traveler": read about attractions before travel, learn local words, respect local people and holy places, protect nature — facts only | Iran, Vision 1 Workbook (Grade 10), Lesson 4, Part I Reading, printed pp.62–63 (workbook-only text; not in the student book) |
 | Means of transport sorted into Land, Air and Water (bus, car, train, bicycle, truck / aeroplane, helicopter / ship, boat, steamer) | India — Marigold Book Three (Class 3), Unit 6 word building, printed p.55 |
+| Transport: vehicle flashcards and cut-outs (van, car, train, plane, boat, ship, bus, bike, motorbike, helicopter, balloon, horse) and transport photographs (London bus, dog sled, camel) | Greece, Beta English Grade 2 Workpack, transport set (FB4), PDF pp.82–84 |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India).** India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 9 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece).** Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
