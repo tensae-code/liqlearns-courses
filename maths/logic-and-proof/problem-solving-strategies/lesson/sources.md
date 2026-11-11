@@ -1,6 +1,6 @@
 # Sources — Problem-solving strategies
 
-countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Armenia, Egypt, South Africa, Kazakhstan, Jordan, Syria, Yemen, Morocco, El Salvador, Cyprus, Andorra, Angola, Moldova, Bahamas, Bhutan, Canada, Cuba, Bulgaria, Djibouti, Chile
+countries: Iran, Greece, Iraq, China, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Armenia, Egypt, South Africa, Kazakhstan, Jordan, Syria, Yemen, Morocco, El Salvador, Cyprus, Andorra, Angola, Moldova, Bahamas, Bhutan, Canada, Cuba, Bulgaria, Djibouti, Chile, Finland
 
 Every part traces to its book and page.
 
@@ -698,3 +698,35 @@ The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs
 | Multiplicative word problems | Chile — *Guía Didáctica del Docente, Matemática 3° básico, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 274 |
 
 Chile is added to the countries line and to the acceptance count above — 6 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). The 2 teacher-evidence items are named in the rows but stay outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 9 teacher-evidence items from Book 1, Book 2, Book 3, Book 4, Book 5 and Book 6.
+
+**Book 1:** *Ohjelmoinnillisen ajattelun työkalut alakoulussa* (teacher in-service course book, aoe.2052) — Finland, University of Turku, 2021; 3,864,573 bytes, 91 PDF pp. Printed page = PDF page − 4. TEACHER EVIDENCE ONLY — the record labels this file “student”; the document is a course book for primary teachers.
+
+**Book 2:** *Flexibla och adaptiva aritmetiska färdigheter i lågstadiet* (teacher course taster, in Swedish, JoMa project, aoe.2674) — Finland; 613,236 bytes, 18 PDF pp.; cited by PDF page. TEACHER EVIDENCE ONLY — the record labels it “student”.
+
+**Book 3:** *Maistiaisia Pikkumatikka-kurssilta — Alkuopetuksen matemaattiset oppimisympäristöt* (teacher taster, JoMa project, aoe.2676) — Finland; 570,371 bytes, 10 PDF pp.; cited by PDF page. TEACHER EVIDENCE ONLY — a taster of classroom activities from the “little maths” learning-environments course; the record labels it “student”.
+
+**Book 4:** *Ohjelmoinnillisen ajattelun työkalut yläkoulussa* (teacher in-service course book, aoe.2085) — Finland, University of Turku, 2021; 2,214,020 bytes, 81 PDF pp. TEACHER EVIDENCE ONLY — the record labels this file “student”; the document is a course book for lower-secondary teachers.
+
+**Book 5:** *Joustavan matemaattisen ajattelun tukeminen yläkoulussa* (teacher self-study course book, JoMa project, aoe.2664) — Finland; 8,680,134 bytes, 123 PDF pp. Printed page = PDF page. TEACHER EVIDENCE ONLY — the record labels it “student”. Its Swedish parallel edition (*Joustava… högstadium och gymnasium*, aoe.2664, 129 pp.) is the same work and is cited here, not separately.
+
+**Book 6:** *Ohjelmoinnillinen ajattelu ja ohjelmointiympäristöt* (teacher text, JoMa project, aoe.2692) — Finland; 641,706 bytes, 21 PDF pp. Printed page = PDF page − 3. TEACHER EVIDENCE ONLY — an interpretation of curriculum goal T20 (algorithmic thinking) for lower-secondary teachers; the record labels it “student”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Problem solving as a staged process; abstraction levels in mathematics and programming | Finland — *Ohjelmoinnillisen ajattelun työkalut alakoulussa* (teacher course book) — teacher evidence, printed pp. 10–12 |
+| Scratch programming applied to mathematics in the primary years | Finland — *Ohjelmoinnillisen ajattelun työkalut alakoulussa* (teacher course book) — teacher evidence, printed pp. 40 ff. |
+| Number Talk lesson with grades 5–6: comparing pupils' own calculation strategies aloud | Finland — *Flexibel aritmetik och algebra* (teacher course taster, Swedish) — teacher evidence, PDF p. 11 |
+| Open and closed problems; solving a word problem stepwise with a situation model | Finland — *Flexibel aritmetik och algebra* (teacher course taster, Swedish) — teacher evidence, PDF pp. 14–18 |
+| Maths trail (matikkaretki): taking maths outdoors — finding and solving mathematics in the environment | Finland — *Maistiaisia Pikkumatikka-kurssilta* (teacher taster) — teacher evidence, PDF p. 9 |
+| Workshop on mathematical algorithms: programming algorithms and tracing program execution | Finland — *Ohjelmoinnillisen ajattelun työkalut yläkoulussa* (teacher course book) — teacher evidence, PDF p. 40 |
+| The PRIMM method for teaching programming inside maths (predict–run–investigate–modify–make) | Finland — *Ohjelmoinnillisen ajattelun työkalut yläkoulussa* (teacher course book) — teacher evidence, PDF pp. 70–80 |
+| Conceptual vs procedural knowledge and concept image in lower-secondary topics (course part 2) | Finland — *Joustavan matemaattisen ajattelun tukeminen yläkoulussa* (teacher course book) — teacher evidence, PDF pp. 2–4 |
+| Choosing between algorithms: the same calculation can be done by several algorithms; generalising one solution to a problem type | Finland — *Ohjelmoinnillinen ajattelu ja ohjelmointiympäristöt* (teacher text) — teacher evidence, printed pp. 5–8 |
+
+Finland enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Finland item stocked into this lesson comes from teacher-facing material (in-service course books, theory texts, activity series and guides), cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Proof Methods
 
-countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Albania, Tajikistan, Jordan, Vietnam, Sri Lanka, Andorra, Moldova, Belarus, Australia, Brazil, Bhutan, Eritrea
+countries: Kazakhstan, Iran, Armenia, Greece, Egypt, Nicaragua, Kuwait, Laos, China, Syria, Malaysia, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Albania, Tajikistan, Jordan, Vietnam, Sri Lanka, Andorra, Moldova, Belarus, Australia, Brazil, Bhutan, Eritrea, Finland
 
 Every part traces to its book and page.
 
@@ -319,3 +319,17 @@ The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PD
 Eritrea is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 1 teacher-evidence item from Book 1.
+
+**Book 1:** *Joustavan matemaattisen ajattelun tukeminen yläkoulussa* (teacher self-study course book, JoMa project, aoe.2664) — Finland; 8,680,134 bytes, 123 PDF pp. Printed page = PDF page. TEACHER EVIDENCE ONLY — the record labels it “student”. Its Swedish parallel edition (*Joustava… högstadium och gymnasium*, aoe.2664, 129 pp.) is the same work and is cited here, not separately.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Argumentation lessons (Tutkien kohti joustavuutta): ready lesson plans built on pupils explaining and defending their reasoning | Finland — *Joustavan matemaattisen ajattelun tukeminen yläkoulussa* (teacher course book) — teacher evidence, PDF pp. 114–123 |
+
+Finland enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Finland item stocked into this lesson comes from teacher-facing material (in-service course books, theory texts, activity series and guides), cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.

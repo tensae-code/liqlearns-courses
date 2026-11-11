@@ -1,6 +1,6 @@
 # Sources — Mathematical Modelling
 
-countries: Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh, Bolivia, Andorra, Australia, Costa Rica
+countries: Malaysia, India, Venezuela, Uzbekistan, Tajikistan, Bangladesh, Bolivia, Andorra, Australia, Costa Rica, Finland
 
 Every part traces to its book and page.
 
@@ -121,3 +121,20 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 2 teacher-evidence items from Book 1 and Book 2.
+
+**Book 1:** *Ohjelmoinnillisen ajattelun työkalut yläkoulussa* (teacher in-service course book, aoe.2085) — Finland, University of Turku, 2021; 2,214,020 bytes, 81 PDF pp. TEACHER EVIDENCE ONLY — the record labels this file “student”; the document is a course book for lower-secondary teachers.
+
+**Book 2:** *Ohjelmoinnillinen ajattelu ja ohjelmointiympäristöt* (teacher text, JoMa project, aoe.2692) — Finland; 641,706 bytes, 21 PDF pp. Printed page = PDF page − 3. TEACHER EVIDENCE ONLY — an interpretation of curriculum goal T20 (algorithmic thinking) for lower-secondary teachers; the record labels it “student”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Problem solving and algorithmic thinking in mathematics: from a precisely described problem to a mathematical model (formula) to a program (chapter 5) | Finland — *Ohjelmoinnillisen ajattelun työkalut yläkoulussa* (teacher course book) — teacher evidence, PDF p. 30 |
+| A mathematical model: describing a problem by constants, variables and their relations as a formula that an algorithm then executes | Finland — *Ohjelmoinnillinen ajattelu ja ohjelmointiympäristöt* (teacher text) — teacher evidence, printed pp. 2–5 |
+
+Finland enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Finland item stocked into this lesson comes from teacher-facing material (in-service course books, theory texts, activity series and guides), cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.

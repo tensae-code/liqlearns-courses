@@ -1,6 +1,6 @@
 # Sources — Numbers in Stories
 
-countries: Ecuador, Libya, Vietnam, Cyprus
+countries: Ecuador, Libya, Vietnam, Cyprus, Finland
 
 Every part traces to its book and page.
 
@@ -63,3 +63,17 @@ Into this lesson the placements stock 2 items (1 from pupil books, 1 teacher evi
 Cyprus is added to the countries line and to the acceptance count above on its pupil-book rows; where this lesson also carries Cyprus guide rows, they are teacher evidence only, never the basis of the count. Cyprus's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 75 distinct works) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cyprus-placements.md.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 1 teacher-evidence item from Book 1.
+
+**Book 1:** *Sarja Pikkumatikoita* (teacher-facing activity series, aoe.5994) — Finland, Kankaanpää & Hannula-Sormunen, University of Turku, 2025; 1,553,872 bytes, 25 PDF pp.; cited by PDF page. TEACHER EVIDENCE ONLY — thirteen short early-years maths activity posts for educators; the record labels it “student”. Its parts 2, 8 and 11 (mushroom walk, counting doors, “is it true?” checking game) are nature observation and general play and are stocked nowhere.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Part 13 (story): a maths story read and finished by the children — numbers in a story (two paws, eleven whiskers; counting the parcels) | Finland — *Sarja Pikkumatikoita* (teacher activity series) — teacher evidence, PDF pp. 22–25 |
+
+Finland enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Finland item stocked into this lesson comes from teacher-facing material (in-service course books, theory texts, activity series and guides), cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.

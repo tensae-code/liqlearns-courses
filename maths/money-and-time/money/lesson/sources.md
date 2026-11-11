@@ -1,6 +1,6 @@
 # Sources — Money
 
-countries: Bangladesh, China, Pakistan, Libya, Kuwait, Laos, North Macedonia, Vietnam, Yemen, Ghana, Sierra Leone, South Africa, Iran, Egypt, Cambodia, Kazakhstan, Nicaragua, Jordan, Ethiopia, Nepal, South Sudan, Mauritania, Greece, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Andorra, Angola, Moldova, Bahamas, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea
+countries: Bangladesh, China, Pakistan, Libya, Kuwait, Laos, North Macedonia, Vietnam, Yemen, Ghana, Sierra Leone, South Africa, Iran, Egypt, Cambodia, Kazakhstan, Nicaragua, Jordan, Ethiopia, Nepal, South Sudan, Mauritania, Greece, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Andorra, Angola, Moldova, Bahamas, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Finland
 
 Every part traces to its book and page.
 
@@ -747,3 +747,20 @@ The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PD
 Eritrea is added to the countries line and to the acceptance count above — 4 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. The Grade 1 Näppituntuma volume's appendices (printed pp. 37–41: number cards 1–100 and a hundred chart, dot cards, and < = > sign cards) are apparatus for its placed items and are stocked nowhere as content. Into this lesson the placements stock 2 teacher-evidence items from Book 1 and Book 2.
+
+**Book 1:** *Näppituntuma — Alkuopetuksen matematiikkaa toiminnallisesti* (Grade 1 teacher book) — Finland, Opetushallitus (OPH) / Oulun Matikkamaa, Junttila & Ristola, 2011; 1,009,501 bytes, 43 PDF pp. Printed page = PDF page. TEACHER EVIDENCE ONLY — an OPH supplementary teacher activity collection, expressly “not tied to any textbook”; Finland has no national textbook series.
+
+**Book 2:** *Näppituntuma 2.lk* (Grade 2 teacher book) — Finland, Opetushallitus (OPH) / Oulun Matikkamaa, Junttila & Ristola, 2012; 1,980,041 bytes, 65 PDF pp. Printed page = PDF page. TEACHER EVIDENCE ONLY — an OPH supplementary teacher activity collection, expressly “not tied to any textbook”; Finland has no national textbook series.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Crossing-ten calculations with money: 1 € coins exchanged for a 10 € note (e.g. 8 € + 7 € = 15 €) | Finland — *Näppituntuma, Grade 1 volume* (teacher book) — teacher evidence, printed pp. 29–30 |
+| Money: a price survey in the local shop; comparing cheapest/most expensive; adding product prices with a calculator; tabulating results | Finland — *Näppituntuma 2.lk, Grade 2 volume* (teacher book) — teacher evidence, printed pp. 51–65 |
+
+Finland enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every Finland item stocked into this lesson comes from teacher-facing material (in-service course books, theory texts, activity series and guides), cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.

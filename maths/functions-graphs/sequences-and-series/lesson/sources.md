@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 51 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile).**.** Kazakhstan carries
+**Acceptance count: taught in 52 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -1108,3 +1108,24 @@ The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs
 | Numeric patterns | Chile — *Guía Didáctica del Docente, Matemática 3° básico, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 192 |
 
 Chile is added to the countries line and to the acceptance count above — 9 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.
+
+## Finland added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Finland's whole in-hand Maths set from the PDFs — **24 files / 23 distinct works of government-hosted open material (OPH and the aoe.fi Library of Open Educational Resources); Finland has NO national textbook series** — and placed 173 items (51 pupil + 122 teacher evidence). The records' kind labels are wrong for most of the set: 13 of the 18 Mathematics-labelled “student” files are actually teacher-facing (in-service course books, theory texts, activity series and instructor guides), and only 6 files are pupil-facing (the Metsämatikkaa cards, the quadrilateral chart, the weather game, the Päivänselvää chapter, the programming workbook and its model solutions) — every book below is carried at its TRUE kind, never the record label. One byte-identical duplicate (aoe.2674-alku = aoe.2686-alku, the same file under two aoe records) is cited once; the Päivänselvää book is a Chapter-2-only excerpt, cited only for what it holds; the quadrilateral chart's filed copy is 1 content page + 175 blank padding pages. The placements' named exclusions — the weather game's non-temperature content, the computing-pedagogy matter in the two Turku course books, the motivation and mindset material in the JoMa books, the Pikkumatikoita parts 2, 8 and 11, and the programming books' pure-programming tasks — are stocked nowhere. Pupil items are COUNTED normally; teacher-evidence items are named in the rows and stay outside the acceptance count. Into this lesson the placements stock 3 pupil items and 1 teacher-evidence item from Book 1, Book 2 and Book 3.
+
+**Book 1:** *Näppituntuma 2.lk* (Grade 2 teacher book) — Finland, Opetushallitus (OPH) / Oulun Matikkamaa, Junttila & Ristola, 2012; 1,980,041 bytes, 65 PDF pp. Printed page = PDF page. TEACHER EVIDENCE ONLY — an OPH supplementary teacher activity collection, expressly “not tied to any textbook”; Finland has no national textbook series.
+
+**Book 2:** *Päivänselvää Matematiikka — Lisämateriaali, Luku 2* (pupil supplementary chapter, aoe.5681) — Finland, Nikkinen & Toivonen, Opike, 2025; 6,267,778 bytes, 44 PDF pp. Printed page = PDF page + 8 (printed pp. 9–51). PUPIL material — counted. CHAPTER 2 ONLY (“Understanding mathematical relationships”) — a partial excerpt of the full supplementary book, complete as a chapter; cited only for what it holds.
+
+**Book 3:** *Perusmatematiikkaa ohjelmoimalla* (pupil workbook, aoe.1371) — Finland, Järvenpää, 2021, ISBN 978-952-94-4547-9; 3,056,839 bytes, 62 PDF pp. Printed page = PDF page. PUPIL material — counted. The three year-books (Grades 7, 8, 9) in one PDF (Grade 7 printed pp. 6–22, Grade 8 pp. 24–40, Grade 9 pp. 42–62). Its model solutions (*Perusmatematiikkaa ohjelmoimalla — Malliratkaisut*, aoe.1371, 31 pp.) mirror it task by task, confirm every placement below, and are cited wherever this book is cited. Pure-programming tasks (strings, lists, passwords, game mechanics) are stocked nowhere — only tasks whose own content is mathematics.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Number sequences 0–20 and 0–100 in steps of 1, 2, 5 and 10, forwards and backwards, from varying starts | Finland — *Näppituntuma 2.lk, Grade 2 volume* (teacher book) — teacher evidence, printed pp. 13–16 |
+| Continue number series (3 2 1…, 2 4 6…, 5 3 1…, 8 6 4…) and invent your own series | Finland — *Päivänselvää Matematiikka — Lisämateriaali, Chapter 2* (pupil supplement chapter) — printed p. 50 |
+| Which number is missing from the series (4 5 6 _ 8 9; 6 8 10 _ 14 16; 10 8 6 _) | Finland — *Päivänselvää Matematiikka — Lisämateriaali, Chapter 2* (pupil supplement chapter) — printed p. 51 |
+| For loops and the range number sequence (Grade 8 book) | Finland — *Perusmatematiikkaa ohjelmoimalla* (pupil workbook) — printed pp. 35–36 |
+
+Finland is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from Finland's pupil-facing open material. Its 1 teacher-evidence item in this lesson are named in the rows and stay outside the count. Finland's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Finland Maths file (24 files / 23 distinct works, including the 3 maths-content files filed under other subject labels) has been read in full and stocked — with the standing caveat: the set is OPH/aoe.fi supplementary open material, not a national series, and it is teacher-heavy (only 6 of the 24 files are pupil-facing).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/finland-placements.md.
