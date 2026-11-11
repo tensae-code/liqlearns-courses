@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -55,7 +55,7 @@ re-verification sweep.
 | A survey report printed whole: "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" | Pakistan, *English 8*, printed p.122 |
 | Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
-**Acceptance count: taught in 12 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -90,3 +90,20 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How to Write About an Incident Witnessed | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 41, printed p.84 |
+| Report Writing | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 131, printed p.74 |
+| Report Writing | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 132, printed p.76 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -436,3 +436,49 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Uses of adverbs and adverb position | Palestine, Grade 10 Part 1, Unit 4, printed pp.54–55 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adverbs of Frequency | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 35, printed p.72 |
+| The Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 4, printed p.8 |
+| Prepositions and Adverbs | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 132, printed p.65 |
+| Revision of the Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 3, printed p.7 |
+| Revision of Adverbs | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 53, printed p.5 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 63, printed p.23 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 64, printed p.25 |
+| Adverbs (Position of Adverbs) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 67, printed p.31 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 126, printed p.56 |
+| Adverbs | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 146, printed p.99 |
+| Introduction to Adverbs | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 124, printed p.59 |
+| Types of Adverbs – Manner | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 137, printed p.86 |
+| Types of Adverbs – Degree and Frequency | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 138, printed p.88 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 13, printed p.27 |
+| Phrases – Verb Phrases and Adverbial Phrases | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 56, printed p.19 |
+| Adverbial Phrases | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 62, printed p.39 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

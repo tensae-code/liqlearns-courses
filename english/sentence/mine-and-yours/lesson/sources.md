@@ -294,3 +294,56 @@ irregular plurals (p.47), and a pronoun → possessive adjective
 **Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 2 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessive Pronouns | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 79, printed p.38 |
+| Possessive Adjectives | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 109, printed p.98 |
+| Possessive Adjectives | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 88, printed p.48 |
+| Possessive Pronouns | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 120, printed p.124 |
+| Possessive Nouns | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 73, printed p.45 |
+| Possessive Nouns (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 74, printed p.46 |
+| Possessive Pronouns | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 41, printed p.84 |
+| Possessive Pronouns (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 42, printed p.86 |
+| Revision of Possessive Pronouns | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 45, printed p.92 |
+| Revision of Possessive Adjectives | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 76, printed p.48 |
+| Review of Possessive Pronouns and Possessive Adjectives | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 77, printed p.50 |
+| Possessive Adjectives | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 123, printed p.46 |
+| Possessive Adjectives (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 124, printed p.48 |
+| Possessive Adjectives (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 125, printed p.50 |
+| Possessive Nouns | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 94, printed p.90 |
+| Possessive Nouns and Pronouns | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 95, printed p.92 |
+| Types of Pronouns – Possessive and Demonstrative | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 75, printed p.64 |
+| Types of Adjectives – Possessive | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 115, printed p.40 |
+| Case in Nouns – Possessive | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 36, printed p.84 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 16 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine).**
+**Acceptance count: taught in 17 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone).**
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -258,3 +258,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | "Who's that boy/girl? That's Sami/Tala." | Palestine, Grade 2 Part 1, Unit 1, printed pp.8–9 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Names | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 36, printed p.72 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

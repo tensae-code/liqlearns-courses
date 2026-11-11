@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -150,8 +150,8 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 16 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 17 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -207,3 +207,17 @@ Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-plac
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary Development: Health | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 101, printed p.11 |
+| Vocabulary Development: Health | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 102, printed p.13 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

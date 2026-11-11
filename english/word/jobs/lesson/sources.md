@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -179,8 +179,8 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 14 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 15 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -239,3 +239,22 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Occupations | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 28, printed p.56 |
+| Talk about Parents and Occupations | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 33, printed p.68 |
+| Occupations 2 | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 115, printed p.110 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -37,4 +37,27 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 5 countries (Afghanistan, Ecuador, India, Mexico, Mongolia).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone).** India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 5 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Illustrations | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 83, printed p.46 |
+| Writing Visual Texts | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 147, printed p.54 |
+| Communicating Messages to Others | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 149, printed p.58 |
+| Headings, Titles and Illustrations | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 136, printed p.36 |
+| How to Write Headings, Titles and Illustrations (continued) | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 137, printed p.38 |
+| Charts, Diagrams and Graphs | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 139, printed p.42 |
+| Charts, Diagrams and Graphs (continued) | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 140, printed p.45 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

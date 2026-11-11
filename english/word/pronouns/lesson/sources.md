@@ -433,3 +433,29 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | He / she as subject words | Palestine, Grade 1 Part 2, Unit 17, printed pp.50–51 |
 | Object pronouns him / her / them (attested in the module's Revision Worksheet 15 — the one item the sweep counts from the module's worksheets, stated exactly as such) | Palestine, Grade 5 Blended Learning Module 4, Revision Worksheet 15, printed p.5 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 4, printed p.8 |
+| Revision of the Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 3, printed p.7 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 63, printed p.23 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 64, printed p.25 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 126, printed p.56 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 13, printed p.27 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

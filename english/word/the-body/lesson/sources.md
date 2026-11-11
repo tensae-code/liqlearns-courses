@@ -303,3 +303,20 @@ Palestine was already counted in this lesson from its Grade 1 books. The 2026-11
 | Lesson part | Where it comes from |
 |---|---|
 | Body words, new set — ear, eye, hair, shoulder (with review of the Grade 1 set) | Palestine, Grade 2 Part 1, Unit 4, printed pp.22–27 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| It’s Me! And Body Parts | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 40, printed p.80 |
+| Vocabulary Development: Human Internal Body System and Function | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 53, printed p.13 |
+| Vocabulary Development: Human Internal Body System and Function | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 54, printed p.16 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

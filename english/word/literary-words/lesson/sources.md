@@ -130,3 +130,60 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 5 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Identifying Similes in Poems | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 118, printed p.116 |
+| Literary Devices in Poetry | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 122, printed p.4 |
+| Literary Devices: Similes | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 123, printed p.6 |
+| Literary Devices: Metaphors | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 124, printed p.8 |
+| Literary Devices: Metaphors and Similes | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 125, printed p.10 |
+| Metaphors in Messages | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 148, printed p.56 |
+| Figurative Expression | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 96, printed p.75 |
+| Analysis of Poetry: Similes, Metaphors, Alliteration | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 147, printed p.61 |
+| Literary Terms | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 34, printed p.62 |
+| Drama: Literary Terms | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 141, printed p.83 |
+| Poetry; Meaning of Poetry; Literary Devices | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 26, printed p.51 |
+| Revision of Some Literary Devices | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 27, printed p.54 |
+| Figurative Language: Simile, Metaphor, Personification | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 53, printed p.11 |
+| Figurative Language: Simile, Metaphor, Personification | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 54, printed p.14 |
+| Figurative Language – Irony | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 65, printed p.41 |
+| Figurative Language – Irony | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 66, printed p.43 |
+| Vocabulary Development: Simile, Metaphor, Personification | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 25, printed p.60 |
+| Vocabulary Development: Simile, Metaphor and Personification | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 26, printed p.62 |
+| Alliteration and Assonance | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 66, printed p.47 |
+| Figurative Language – Irony | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 75, printed p.69 |
+| Figurative Language – Irony | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 76, printed p.71 |
+| Figurative Language – Hyperbole | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 83, printed p.86 |
+| Figurative Language – Hyperbole | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 84, printed p.88 |
+| Vocabulary Development: Paradox | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 104, printed p.17 |
+| Figurative Language Review (simile, metaphor, personification, hyperbole) | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 130, printed p.90 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

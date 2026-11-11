@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 11 countries (Egypt,
+**Acceptance count: taught in 12 countries (Egypt,
 Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela, Bolivia, Iran, Greece, Palestine).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone).** Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -138,3 +138,48 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Question tags | Palestine, Grade 12, Unit 7, printed pp.72–74 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 2 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question Tags | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 60, printed p.120 |
+| Question Tags | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 48, printed p.99 |
+| Question Tags | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 118, printed p.40 |
+| Question Tags (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 119, printed p.42 |
+| Question Tags | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 56, printed p.11 |
+| Question Tags (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 57, printed p.13 |
+| Question Tags | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 118, printed p.36 |
+| Question Tags (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 119, printed p.38 |
+| Question Tags (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 120, printed p.40 |
+| Question Tags | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 39, printed p.84 |
+| Question Tags (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 40, printed p.86 |
+| Revision of Question Tags | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 71, printed p.40 |
+| Question Tags | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 143, printed p.92 |
+| Question Tags – Present Tense | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 39, printed p.91 |
+| Question Tags – Past Tense | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 40, printed p.94 |
+| Question Tags – Future Tense | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 47, printed p.113 |
+| Listening Comprehension – Question Tags | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 48, printed p.115 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

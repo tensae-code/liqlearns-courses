@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -148,8 +148,8 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 13 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 14 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -194,3 +194,80 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Word set 2 (exact, GPS, kph, life raft, measure, nearly, orbit …) — the set itself; its reading is stocked in answering-from-the-text | Palestine, Grade 10 Part 1, Unit 2, printed pp.22–24 |
 | Prefixes co- and mis- | Palestine, Grade 12, Unit 3, printed p.29 |
 | Prefixes over- and under- | Palestine, Grade 12, Unit 9, Periods 3–4, printed pp.92–94 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Invented Spelling | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 64, printed p.8 |
+| Spelling New Words | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 83, printed p.46 |
+| Spelling New Words | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 85, printed p.50 |
+| Spelling | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 105, printed p.90 |
+| Word Work 1: Changing Verbs to Nouns with ‘er’ | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 28, printed p.58 |
+| List of Favourite Drinks | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 43, printed p.88 |
+| Prefix ‘un’ | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 58, printed p.117 |
+| Prefix Review: ‘un’ | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 94, printed p.68 |
+| Difficult Spellings | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 12, printed p.24 |
+| Spellings | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 37, printed p.74 |
+| Prefixes and Suffixes | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 85, printed p.50 |
+| Word Parts | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 125, printed p.10 |
+| Word Parts | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 8, printed p.16 |
+| Meanings of Words: ‘un’ | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 19, printed p.40 |
+| Suffixes: ‘able’ and ‘ment’ | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 20, printed p.42 |
+| Building Vocabulary | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 51, printed p.105 |
+| Suffixes | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 71, printed p.22 |
+| Building Vocabulary | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 72, printed p.24 |
+| Dictation and Spelling | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 70, printed p.40 |
+| Dictation and Spelling | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 88, printed p.73 |
+| Dictation and Spelling | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 130, printed p.62 |
+| Spelling Drills | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 54, printed p.7 |
+| Spelling Drills | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 66, printed p.31 |
+| Spelling and Dictation | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 75, printed p.46 |
+| Spelling Drills | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 10, printed p.21 |
+| Spelling and Dictation | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 45, printed p.99 |
+| Listening, Spelling and Dictation | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 65, printed p.26 |
+| Spelling | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 44, printed p.82 |
+| Vocabulary Development – Suffixes | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 72, printed p.55 |
+| Vocabulary Development: Prefixes | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 57, printed p.21 |
+| Vocabulary Development: Suffixes | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 58, printed p.24 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

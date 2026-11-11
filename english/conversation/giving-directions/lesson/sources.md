@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -155,8 +155,8 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 14 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 15 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -211,3 +211,16 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Following Directions | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 6, printed p.14 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -279,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 15 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine)** — the
+**Acceptance count: taught in 16 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -378,3 +378,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Reader, Episode 6 — "A storm at sea": a storm at sea delays the journey (plot summary only) | Palestine, Grade 10 Part 1, Unit 6, printed pp.86–87 |
 
 Palestine's reader is the adapted serial of Jules Verne's *Around the World in Eighty Days* printed inside the Grade 10 Part 1 pupil's book, two pages per unit. Only Part 1 is in hand: Episodes 1–6, which do not reach the end of the story — the journey continues in Part 2, which is not held. Palestine is therefore stocked under the same stated distinction as Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia and Nicaragua above: a sustained reading stocked as plot summaries, NOT a complete book-length text, and Palestine does not join the five complete-text countries (Libya, Pakistan, Sudan, Kuwait, Syria) on their terms.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ShakespeareanText | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 114, printed p.30 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

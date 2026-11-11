@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -96,8 +96,8 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 9 countries (Saudi
-Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 10 countries (Saudi
+Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -128,3 +128,51 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Writing an email from telephone notes — the email-writing half of the telephone unit (the note-taking half is stocked in telephoning) | Palestine, Grade 10 Part 1, Unit 1, printed pp.13–15 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter Review | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 37, printed p.74 |
+| Letter Review: Aa-Hh | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 61, printed p.2 |
+| Letter Ll | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 62, printed p.4 |
+| Simple sentences with capital letters and full stops | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 95, printed p.70 |
+| Story: ‘A Letter to our Country’ | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 101, printed p.82 |
+| Letter Ss | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 102, printed p.84 |
+| Letter Tt | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 119, printed p.118 |
+| Letter Vv | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 134, printed p.28 |
+| Letter Ww | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 140, printed p.40 |
+| Letters Xx and Yy | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 143, printed p.46 |
+| Letter writing | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 144, printed p.48 |
+| Letter Writing | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 21, printed p.42 |
+| Letter Writing | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 23, printed p.46 |
+| Language to Persuade | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 77, printed p.34 |
+| Reading Non-Fiction | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 80, printed p.40 |
+| To Gain Personal Experience about World Issues | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 81, printed p.42 |
+| Tables of Contents | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 84, printed p.48 |
+| Punctuation and Capital Letters | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 99, printed p.81 |
+| Expository Writing in a Letter | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 128, printed p.61 |
+| Types of Letters Review – Informal and Formal | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 134, printed p.101 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

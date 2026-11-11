@@ -1,6 +1,6 @@
 # Sources — Translating well
 
-countries: Bolivia, India, Pakistan
+countries: Bolivia, India, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -25,6 +25,19 @@ verification sweep.
 | A translation chapter that builds the bridge piece by piece: question words, the conjugation of verbs, introductory it and there, is/am/are/was/were, has/have, had | Pakistan, *English Grammar & Composition 9–10*, printed pp.57–73 |
 | Paragraphs set as translation practice | Pakistan, *English Grammar & Composition 9–10*, printed p.137 |
 
-**Acceptance count: taught in 3 countries (Bolivia, India, Pakistan).** India joins with two translations of a poem's beginning compared, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). A single source, stated plainly: Bolivia's Year 6 compendium is the only book in the whole read set that teaches translation. Its principle — word-for-word rarely applicable; structure, grammatical categories and word order decide — and its production task (two real newspaper articles, translated by the guidelines and read in class) are the whole of this lesson's stock, and nothing has been padded from anywhere else.
+**Acceptance count: taught in 4 countries (Bolivia, India, Pakistan, Sierra Leone).** India joins with two translations of a poem's beginning compared, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). A single source, stated plainly: Bolivia's Year 6 compendium is the only book in the whole read set that teaches translation. Its principle — word-for-word rarely applicable; structure, grammatical categories and word order decide — and its production task (two real newspaper articles, translated by the guidelines and read in class) are the whole of this lesson's stock, and nothing has been padded from anywhere else.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its translation chapter builds the bridge piece by piece — question words, verb conjugation, introductory it and there, is/am/are/was/were, has/have, had (printed pp.57–73) — and its later paragraphs are set as translation practice (printed p.137).
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Translating Shakespearean English into Modern English | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 125, printed p.54 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

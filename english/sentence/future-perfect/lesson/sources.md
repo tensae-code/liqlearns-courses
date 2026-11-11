@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -35,6 +35,23 @@ Every part traces to its book and page.
 | The future system, active and passive: future indefinite, continuous, perfect and perfect continuous, with the passive of the indefinite and the perfect — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.117–136 (sections at printed pp.117, 120, 123, 127; passive at pp.131, 134) |
 | The future perfect tense in the culture unit's grammar work (with sentence patterns, direct and indirect object, and phrases, clauses and sentences) | Pakistan, *English 7*, Unit 11, printed p.103 |
 
-**Acceptance count: taught in 7 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It teaches the whole future system, active and passive, tense by tense — the future perfect stands at printed p.123 and its passive at p.134. *English 7* names the future perfect in its culture unit (Unit 11, printed p.103); it is filed in english/books/pakistan.md and was re-read in the same sweep.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Future Perfect Tense | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 83, printed p.66 |
+| Future Perfect Tense | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 125, printed p.61 |
+| Future Perfect Tense | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 126, printed p.63 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

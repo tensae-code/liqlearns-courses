@@ -509,3 +509,72 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Uses of adjectives | Palestine, Grade 10 Part 1, Unit 4, printed p.49 |
 
 The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using adjectives to describe | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 73, printed p.26 |
+| Adjective Review | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 106, printed p.92 |
+| Adjective Phrases | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 110, printed p.100 |
+| Compare and Contrast: Adjectives and Adverbs | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 21, printed p.42 |
+| Review: Adjectives | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 86, printed p.44 |
+| Interrogative Adjectives | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 87, printed p.46 |
+| Lessons from a Passage | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 117, printed p.107 |
+| Distributive Adjectives | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 119, printed p.112 |
+| Using Adjectives and Adverbs | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 55, printed p.113 |
+| The Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 4, printed p.8 |
+| Adjectives: Demonstrative Adjectives | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 86, printed p.70 |
+| Adjectives: Demonstrative Adjectives (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 87, printed p.71 |
+| Interrogative Adjectives | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 92, printed p.81 |
+| Interrogative Adjectives (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 93, printed p.83 |
+| Adjectives | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 46, printed p.94 |
+| Adjectives | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 48, printed p.98 |
+| Revision of the Eight Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 3, printed p.7 |
+| Revise Adjectives | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 11, printed p.23 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 63, printed p.23 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 64, printed p.25 |
+| Adjectives | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 84, printed p.68 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 126, printed p.56 |
+| Adjectives | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 137, printed p.80 |
+| Adjectives | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 91, printed p.98 |
+| Types of Adjectives – Demonstrative, Interrogative | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 111, printed p.31 |
+| Types of Adjectives – Quantitative, Distributive | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 112, printed p.33 |
+| Parts of Speech (parts-of-speech overview) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 13, printed p.27 |
+| Differences between Adjectives and Adverbs | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 20, printed p.49 |
+| Determiners vs Adjectives | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 62, printed p.34 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

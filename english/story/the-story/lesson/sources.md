@@ -785,3 +785,131 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Writing: assembling information into a narrative using when-clauses | Palestine, Grade 10 Part 1, Unit 4, printed pp.56–57 |
 | Writing a story from a recount — a coincidence / misunderstanding story | Palestine, Grade 12, Unit 3, printed pp.31–33 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *Primary 5 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story telling | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 9, printed p.18 |
+| Making a Story from Pictures | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 68, printed p.16 |
+| Answer Questions about a Familiar Story | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 70, printed p.20 |
+| Making a Story from Pictures | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 73, printed p.26 — re-homed here 2026-11-11 by the Sierra Leone re-verification sweep merge: this plan was previously cited inside blending-sounds' "Combining Letter Sounds" block row, but it teaches story-making from pictures, not blending (sweep diff, flag F3) |
+| Tiny Tale: ‘My Auntie’ | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 11, printed p.22 |
+| Tiny Tale: ‘My Daddy’ | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 26, printed p.52 |
+| Tiny Tale: ‘Eggs’ | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 31, printed p.62 |
+| Reading stories | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 41, printed p.82 |
+| Tiny Tale: ‘My House’ | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 46, printed p.92 |
+| Tiny Tale: Jump | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 51, printed p.102 |
+| Tiny Tale: ‘Legs’ | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 61, printed p.2 |
+| Writing a Tiny Tale | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 64, printed p.8 |
+| Story ‘Friends Forever’ | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 86, printed p.52 |
+| Tiny Tale: ‘Quit It, Quit It!’ | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 91, printed p.62 |
+| Story: ‘Good Neighbours’ | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 121, printed p.2 |
+| Story: ‘Getting Your Uniform’ | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 126, printed p.12 |
+| Tiny Tale: Questions and Answers | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 136, printed p.32 |
+| Story: ‘Lost in Freetown’ | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 141, printed p.42 |
+| Asking Questions About a Story | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 5, printed p.10 |
+| Story: All in One Day | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 21, printed p.44 |
+| Story: Questions and Answers | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 37, printed p.76 |
+| Tiny Tale: A Sweet Drink | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 41, printed p.84 |
+| Tiny Tale: ‘Before School’ | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 56, printed p.114 |
+| Reading a Tiny Tale | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 57, printed p.116 |
+| Fanta Looks After Baby Lahai (Part I) | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 66, printed p.12 |
+| Fanta Looks After Baby Lahai (Part II) | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 67, printed p.14 |
+| Problem in ‘Fanta Looks After Baby Lahai’ | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 70, printed p.20 |
+| Tiny Tale: Staying Healthy | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 86, printed p.52 |
+| Tiny Tale: Vocabulary | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 87, printed p.54 |
+| Tiny Tale: Farming | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 111, printed p.102 |
+| Reading: ‘Farming’ Tiny Tale | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 114, printed p.108 |
+| Story: ‘The Ant and the Grasshopper’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 126, printed p.12 |
+| Folktale: ‘The Ant and the Grasshopper’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 127, printed p.14 |
+| Story: ‘The Rabbit and the Tortoise’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 136, printed p.32 |
+| Story: Lesson or Moral | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 137, printed p.34 |
+| Story: ‘Mamoud Goes to Yara’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 141, printed p.41 |
+| Questions about a Story: Who? What? | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 3, printed p.6 |
+| Questions about a Story: Where? When? | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 4, printed p.8 |
+| Questions about a Story: Why? How? | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 5, printed p.10 |
+| Storytelling | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 6, printed p.12 |
+| Storytelling | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 66, printed p.12 |
+| Describing an Event | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 67, printed p.14 |
+| Analysing Problems | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 70, printed p.20 |
+| Describing how Problems Happen in the Story | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 73, printed p.26 |
+| Moral Lesson: Story | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 99, printed p.78 |
+| Story Writing | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 127, printed p.14 |
+| Story Writing (Continued) | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 128, printed p.16 |
+| Story Telling | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 16, printed p.32 |
+| Writing a Story | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 17, printed p.34 |
+| Reading African Stories | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 40, printed p.80 |
+| Reading: Personal Experience | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 53, printed p.106 |
+| Narrative Composition | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 61, printed p.2 |
+| Narrative Composition | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 66, printed p.12 |
+| Narrative Composition (Continued) | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 67, printed p.14 |
+| Storytelling: Planning | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 127, printed p.14 |
+| Storytelling: Telling a Story | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 128, printed p.16 |
+| Narrative Composition | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 138, printed p.36 |
+| Story Telling | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 7, printed p.16 |
+| Performing a Story | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 9, printed p.20 |
+| Story Writing | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 45, printed p.92 |
+| Narrative Writing | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 84, printed p.49 |
+| Oral Narrative (Introducing Myself) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 1, printed p.2 |
+| Narrative Composition | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 98, printed p.93 |
+| Oral Narrative (Self- | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 1, printed p.4 |
+| Narrative Composition in the Simple Past Tense | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 99, printed p.100 |
+| Narrative Composition | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 100, printed p.102 |
+| Narrative Composition | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 112, printed p.26 |
+| Narrative Composition | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 123, printed p.50 |
+| Narrative Text | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 55, printed p.17 |
+| Narrative Text | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 56, printed p.19 |
+| Personal Narrative | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 7, printed p.15 |
+| Personal Narrative | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 8, printed p.17 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

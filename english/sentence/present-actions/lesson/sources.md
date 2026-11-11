@@ -570,3 +570,53 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 |---|---|
 | Have / has — "I/You/We have hair. He/She has a nose." (first met as "A bird has two legs", Unit 3) | Palestine, Grade 2 Part 1, Units 3–4, printed pp.16–27 |
 | Present simple and present continuous used for future plans and schedules | Palestine, Grade 10 Part 1, Unit 1, printed pp.7, 13 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present Tense: Morning Activities | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 49, printed p.100 |
+| Present Progressive Tense | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 74, printed p.28 |
+| Continuous Tense | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 45, printed p.90 |
+| Present Continuous Tense | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 76, printed p.29 |
+| The Present Continuous Tense | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 59, printed p.17 |
+| The Present Continuous Tense (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 60, printed p.19 |
+| The Present Continuous Tense | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 136, printed p.73 |
+| The Present Continuous Tense (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 137, printed p.76 |
+| The Simple Present Tense | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 9, printed p.17 |
+| The Present Continuous Tense | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 14, printed p.27 |
+| Revision of the Three Main Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 20, printed p.39 |
+| The Present Continuous Tense | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 36, printed p.78 |
+| Revision of the Simple Form of the Three Simple Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 103, printed p.7 |
+| Present Continuous Tense (future use) | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 14, printed p.25 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 3, printed p.4 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 4, printed p.7 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 5, printed p.10 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 6, printed p.13 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

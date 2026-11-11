@@ -449,3 +449,23 @@ Palestine was already counted in this lesson from its Grade 1 books. The 2026-11
 | Kitchen food — kunafeh, rice, meat, fish, chicken, salad, ice cream, chocolate | Palestine, Grade 2 Part 1, Unit 2, printed pp.10–15 |
 
 This merge also corrects the lesson's Grade 1 drinks row in the main table above (sweep diff, flag F2): the drinks are presented on printed p.46 and the pattern "It's apple juice" stands on p.48 — the row's old "p.47" was the d/g/q letter-tracing page — and the set is completed with milk, tea and coffee, which the same unit teaches.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking Questions: Farming | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 113, printed p.106 |
+| Vocabulary: Harvests and Crops | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 116, printed p.112 |
+| Vocabulary Development: Agriculture | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 33, printed p.63 |
+| Vocabulary Development: Agriculture | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 34, printed p.65 |
+| Vocabulary Development: Fishing | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 45, printed p.84 |
+| Vocabulary Development: Fishing | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 46, printed p.86 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

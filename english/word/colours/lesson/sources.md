@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -74,7 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 11 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda).** Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 12 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone).** Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -113,3 +113,23 @@ Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-plac
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colour words | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 70, printed p.20 |
+| Colours of the Flag | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 139, printed p.38 |
+| Colours: Review | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 146, printed p.51 |
+| Adjectives: Colours | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 52, printed p.107 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

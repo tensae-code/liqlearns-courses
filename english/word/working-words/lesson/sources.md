@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,7 +111,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 7 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 8 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone).** Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -173,3 +173,83 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Objects around us | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 7, printed p.14 |
+| Objects in the schoolyard | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 33, printed p.66 |
+| Shapes: Identify and Describe | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 15, printed p.32 |
+| Writing: Preparing for School | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 60, printed p.121 |
+| Informational Text: A New Cook-Stove Read Aloud | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 96, printed p.72 |
+| Read Aloud: A New Cook-Stove | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 97, printed p.74 |
+| Vocabulary | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 98, printed p.76 |
+| Diagram: A Field Of Rice | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 118, printed p.116 |
+| Vocabulary: Errands | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 142, printed p.43 |
+| Vocabulary: ‘Mamoud Goes to Yara’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 144, printed p.47 |
+| Vocabulary: Similar and Different | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 148, printed p.54 |
+| Vocabulary Work | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 64, printed p.8 |
+| New Vocabulary | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 9, printed p.18 |
+| New Vocabulary | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 10, printed p.20 |
+| Oral African Stories | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 32, printed p.64 |
+| Vocabulary | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 33, printed p.66 |
+| Vocabulary | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 34, printed p.68 |
+| Specific Vocabulary | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 6, printed p.14 |
+| Causes of Child Labour | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 10, printed p.22 |
+| Exploring a School Issue | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 108, printed p.100 |
+| Nonfiction Vocabulary | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 116, printed p.116 |
+| Vocabulary | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 121, printed p.2 |
+| Vocabulary (Word Substitution) | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 66, printed p.28 |
+| Vocabulary Development: Traditional Religion | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 29, printed p.71 |
+| Vocabulary Development: Traditional Religion | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 30, printed p.74 |
+| Vocabulary Development: Ceremonies | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 31, printed p.76 |
+| Vocabulary Development: Ceremonies | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 32, printed p.79 |
+| Vocabulary Development: Cultures and Institutions | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 89, printed p.106 |
+| Vocabulary Development: Cultures and Institutions | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 90, printed p.109 |
+| Vocabulary Development: Building and Building Construction | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 131, printed p.79 |
+| Vocabulary Development: Building and Construction | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 132, printed p.81 |
+| Vocabulary Development: Government and Administration | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 5, printed p.10 |
+| Vocabulary Development: Government and Administration | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 6, printed p.12 |
+| Vocabulary Development: Law and Order | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 21, printed p.51 |
+| Vocabulary Development: Law and Order | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 22, printed p.53 |
+| Vocabulary Development: Stock Exchange | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 113, printed p.42 |
+| Vocabulary Development: Stock Exchange | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 114, printed p.45 |
+| Vocabulary Development: Connotation and Denotation | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 117, printed p.54 |
+| Vocabulary Development: Rhetorical Questions | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 118, printed p.56 |
+| General Vocabulary Review (traditional religion, ceremonies, culture and institutions) | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 139, printed p.115 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

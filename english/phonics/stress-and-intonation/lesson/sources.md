@@ -70,7 +70,7 @@ file).
 | Pronunciation: intonation patterns (Unit 1, "Get the message") | Jordan — High Note Grade 11 Student's Book, Semester 1, Unit 1 (unit-level filing) |
 | Fluent Reading Exercises: intonation (rise and fall of the voice) and word/sentence stress in reading aloud | Sierra Leone — Language Arts JSS3 Pupil Handbook, Term 1, Lesson 2 (printed p.6) |
 | Reading a poem aloud: stress nouns, verbs and adjectives | Sierra Leone — JSS handbook poem-reading lesson (Lesson 28, "Reading of Poems"), as filed in english/books/sierra-leone.md |
-| Punctuation and Intonation: intonation (voice rising/falling) guided by punctuation — yes/no questions rise, Wh- questions and exclamations fall | Sierra Leone — JSS2 Pupil Handbook, Lesson 58, as filed in english/books/sierra-leone.md (companion lessons L115 and L138 carry the same map) |
+| Punctuation and Intonation: intonation (voice rising/falling) guided by punctuation — yes/no questions rise, Wh- questions and exclamations fall | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 58 (printed p.16), and JSS 1 Pupils' Handbook, Term 3, Lesson 138 (printed p.78); Term 3, Lesson 115 (printed p.34 — punctuation guiding when to pause and raise or lower the voice) is also stocked in this lesson. (Wrong-book error fixed 2026-11-11 by the Sierra Leone re-verification sweep merge: this row previously credited these lessons to the JSS 2 handbook; Lessons 58, 115 and 138 with this content are JSS 1's — JSS 2's Lesson 58 is "Fluent Reading", its L115 a composition lesson and its L138 reported speech.) |
 | Word Stress: syllables (mono- to five-syllable words), one stressed syllable per word, word-stress rules by word type | Sierra Leone — English Language SSS2 Pupil Handbook, Term 1, Lesson 48 (printed p.119) |
 | Sentence Stress, in substance emphatic stress: saying a word more slowly or loudly; functions — new terminology, specific questions, contrast | Sierra Leone — English Language SSS2 Pupil Handbook, Term 2, Lesson 50 (printed p.3) |
 | Intonation – Rising Pattern and Falling Pattern: intonation as stress plus pitch; rising for yes/no questions and unfinished or uncertain speech; falling intonation | Sierra Leone — English Language SSS2 Pupil Handbook, Term 2, Lessons 71–72 (printed pp.56, 59) |
@@ -189,3 +189,20 @@ The Grade 10 book's pronunciation strands are placed by its Contents (printed p.
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Intonation | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 106, printed p.96 |
+| Rhyme and Intonation Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 124, printed p.72 |
+| Sentence Stress, Emphatic Stress and Word Stress Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 127, printed p.81 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

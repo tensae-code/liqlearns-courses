@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -162,7 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 15 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone).** Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -220,3 +220,63 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compound sentences | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 93, printed p.66 |
+| Compound Sentences | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 76, printed p.32 |
+| Cause (and Effect) | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 138, printed p.36 |
+| (Cause and) Effect | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 139, printed p.38 |
+| Write Complex Sentences | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 150, printed p.60 |
+| Distributive Adjectives in Compound Sentences | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 120, printed p.114 |
+| Conjunctions | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 15, printed p.32 |
+| Sentence Structure: Compound Sentence | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 40, printed p.82 |
+| Complex Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 76, printed p.33 |
+| Writing Complex Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 77, printed p.35 |
+| Commas in Complex Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 78, printed p.37 |
+| Complex Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 79, printed p.39 |
+| Conjunctions and Compound Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 133, printed p.30 |
+| Conjunctions and Compound Sentences (continued) | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 134, printed p.32 |
+| Conjunctions | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 88, printed p.76 |
+| Parts of Speech – Conjunctions and Interjections | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 136, printed p.78 |
+| Conjunctions | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 23, printed p.56 |
+| Conjunctions | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 24, printed p.58 |
+| Using Conjunctions, Prepositions and Interjections to Improve Sentence Quality | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 102, printed p.12 |
+| Using Conjunctions, Prepositions and Interjections to Improve Sentence Quality | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 103, printed p.15 |
+| Introduction to Clauses | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 121, printed p.56 |
+| Types of Clauses | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 122, printed p.59 |
+| Adverbial Clauses | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 128, printed p.72 |
+| Coordinating Conjunctions | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 69, printed p.53 |
+| Subordinating Conjunctions | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 70, printed p.55 |
+| Correlative Conjunctions | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 71, printed p.59 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

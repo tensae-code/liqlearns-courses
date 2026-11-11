@@ -507,3 +507,30 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Will / won't for future predictions — "People will live on the moon. Children won't go to school." | Palestine, Grade 5 Blended Learning Module 4, Unit 3, printed pp.10–13 |
 | Future meanings of going to and will — plans, certainty, prediction | Palestine, Grade 10 Part 1, Unit 1, printed pp.12–13 |
 | Future statements using will, and other forms of the future | Palestine, Grade 12, Unit 4, printed p.44 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Future Tenses | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 146, printed p.94 |
+| Future Tenses (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 147, printed p.97 |
+| The Simple Future Tense | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 18, printed p.35 |
+| Revision of the Three Main Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 20, printed p.39 |
+| Revision of the Simple Form of the Three Simple Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 103, printed p.7 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 3, printed p.4 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 4, printed p.7 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 5, printed p.10 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 6, printed p.13 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

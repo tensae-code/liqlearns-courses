@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua).** Bangladesh carries
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -313,3 +313,16 @@ times; secondary adds the quarter-and-half system.
 **Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of Time | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 104, printed p.11 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

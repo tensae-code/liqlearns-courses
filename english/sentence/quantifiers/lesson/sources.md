@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -114,9 +114,9 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 14 countries (Bolivia,
+**Acceptance count: taught in 15 countries (Bolivia,
 Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -153,3 +153,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Countable and uncountable nouns | Palestine, Grade 12, Unit 10, printed pp.106–107 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantifiers: Definition and Examples | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 115, printed p.110 |
+| Quantifiers with Countable and Uncountable Nouns | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 117, printed p.114 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

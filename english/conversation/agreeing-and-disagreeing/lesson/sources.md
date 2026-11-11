@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -95,7 +95,7 @@ differ only in cover wording and colophon; cited once.
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
 | Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 9 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
+**Acceptance count: taught in 10 countries (Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone).** Rwanda joins with agreeing inside Primary 5's quiz dialogue and Primary 6's two class debates (stocked 2026-11-11 by the re-verification sweep merge). Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -134,3 +134,53 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing Sentences | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 84, printed p.48 |
+| Expressing an Opinion | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 85, printed p.50 |
+| Expressing Opinions | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 145, printed p.49 |
+| Subject–Verb Agreement | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 50, printed p.100 |
+| Personal Attitudes | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 62, printed p.4 |
+| Composition | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 63, printed p.6 |
+| Opinion about a Text | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 93, printed p.67 |
+| Important Issues | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 136, printed p.32 |
+| Language of Agreement | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 137, printed p.34 |
+| Opinions about Issues | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 140, printed p.40 |
+| Emerging Issues: Expressing Opinions | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 46, printed p.92 |
+| Emerging Issues: For and Against | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 47, printed p.94 |
+| Expressing | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 49, printed p.98 |
+| Expressing Opinions: Teenage Pregnancy | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 78, printed p.33 |
+| Writing Opinions: Teenage Pregnancy | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 79, printed p.34 |
+| Speculating | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 112, printed p.97 |
+| Expressing Opinions – Protecting the Environment | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 113, printed p.99 |
+| Expressing Opinions: Protecting the Environment (Continued) | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 114, printed p.101 |
+| Expressing Opinions: Protecting the Environment (Continued) | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 115, printed p.103 |
+| Pronoun – Verbs Agreement | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 92, printed p.66 |
+| Express Agreement or Disagreement | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 123, printed p.6 |
+| Expressing Opinions | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 128, printed p.18 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

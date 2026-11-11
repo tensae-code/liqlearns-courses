@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -176,7 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 14 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 15 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -218,3 +218,54 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 5 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Antonyms | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 50, printed p.100 |
+| Synonyms | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 124, printed p.8 |
+| Antonyms | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 125, printed p.10 |
+| Synonyms: | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 104, printed p.88 |
+| Antonyms (Opposite Words): | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 105, printed p.90 |
+| Synonyms | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 65, printed p.10 |
+| Synonyms and Antonyms | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 3, printed p.6 |
+| Synonyms | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 4, printed p.8 |
+| Antonyms | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 5, printed p.10 |
+| Analogies | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 129, printed p.18 |
+| Speech: Puns, Jokes, Analogies | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 133, printed p.26 |
+| Synonyms | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 31, printed p.63 |
+| Antonyms | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 36, printed p.73 |
+| Antonyms (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 37, printed p.75 |
+| Revision of Synonyms and Antonyms | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 38, printed p.77 |
+| Synonyms | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 73, printed p.42 |
+| Antonyms | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 74, printed p.44 |
+| Vocabulary Development: Synonyms and Antonyms | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 35, printed p.87 |
+| Vocabulary Development: Synonyms and Antonyms | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 36, printed p.90 |
+| Vocabulary Development: Homonyms | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 107, printed p.24 |
+| Vocabulary Development: Homonyms | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 108, printed p.26 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

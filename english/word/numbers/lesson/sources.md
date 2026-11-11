@@ -529,3 +529,35 @@ Palestine was already counted in this lesson from its Grade 1 books. The 2026-11
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 1 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 5 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Counting | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 65, printed p.10 |
+| Counting | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 78, printed p.36 |
+| Number Words 0-40 | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 89, printed p.58 |
+| Number Words | Sierra Leone — Primary 1 Lesson Plans, Term 3 (teacher evidence), Lesson 138, printed p.36 |
+| Number words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 24, printed p.48 |
+| Number words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 44, printed p.88 |
+| Big Buzzing Bumble Bee (cont.) | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 47, printed p.96 |
+| Number Words | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 50, printed p.102 |
+| Compare and Contrast in Math: Fractions and Whole Numbers | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 23, printed p.46 |
+| Matching Words to Numbers | Sierra Leone — Primary 5 Lesson Plans, Term 3 (teacher evidence), Lesson 141, printed p.42 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

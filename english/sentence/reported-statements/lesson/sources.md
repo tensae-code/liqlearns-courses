@@ -1,6 +1,6 @@
 # Sources — Reported statements
 
-countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan
+countries: Armenia, Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania, Nepal, Sudan, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -176,9 +176,9 @@ verification sweep.
 | Reported statements (tense changes) | Mongolia, English XII, Unit 9, printed p.161 |
 | Direct and indirect speech rules stated in the book's closing units | Pakistan, *English 6*, printed p.114 |
 
-**Acceptance count: taught in 15 countries (Armenia,
+**Acceptance count: taught in 16 countries (Armenia,
 Bolivia, Cambodia, Jordan, Kuwait, Malaysia, Mauritania,
-Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan).** Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
+Nepal, Sudan, Indonesia, Mexico, India, Greece, Mongolia, Pakistan, Sierra Leone).** Greece joins with the Grade 8 Advanced Olympic Games reported-speech lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with reported speech worked from comic-book speech bubbles in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mauritania prints the fullest single
 chart and works the pronoun changes one by one before
 it. Cambodia names the machine the one-step-back rule at
 Grade 9 and splits say/tell into collocations at Grade
@@ -208,3 +208,42 @@ sweep merge). Mexico's Grade 9 book teaches direct speech against reported speec
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* states the direct and indirect speech rules in its closing units (printed p.114). Filed against the old filing's header claim that reported speech is taught properly only in Grades 6 and 9: Grade 8's full direct/indirect system, read in the same sweep, is stocked at the reported commands lesson. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 2 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Subject-Verb Agreement in Reported Speech | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 51, printed p.102 |
+| Reported Speech | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 121, printed p.2 |
+| Reported Speech | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 122, printed p.4 |
+| Respond with Evidence | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 124, printed p.8 |
+| Reported Speech | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 6, printed p.12 |
+| Writing Reported Speech | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 51, printed p.102 |
+| Speaking Reported Speech | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 52, printed p.104 |
+| Direct and Indirect Speech | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 136, printed p.71 |
+| Direct and Indirect Speech (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 137, printed p.73 |
+| Direct and Indirect Speech (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 138, printed p.75 |
+| Direct and Indirect Speech | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 49, printed p.107 |
+| Direct and Indirect Speech (continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 50, printed p.109 |
+| Revision of Direct and Indirect Speech | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 58, printed p.14 |
+| Direct Speech | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 75, printed p.67 |
+| Indirect Speech | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 76, printed p.70 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

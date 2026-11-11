@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -91,7 +91,7 @@ nineteen," Grade 2; the Grade 3 third-person pair) and the
 Iran row (the age question widened to the whole family). No
 existing row changed.
 
-**Acceptance count: taught in 30 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 31 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -106,8 +106,7 @@ and in Grade 4's identity set. Greece joined 2026-11-03:
 its Grade 2 pack names a whole lesson "How old are you?"
 and prints the numbers one–ten to answer with, and its
 Grade 7 Beginners books state ages whole — "I'm 12 years
-old" — inside their self-introductions; unlike Sierra Leone
-above, Greece is counted because the question itself is its
+old" — inside their self-introductions; Greece is counted because the question itself is its
 lesson title, not only an age stated in passing. Kazakhstan
 joined 2026-11-03: the question itself is taught in three
 of its primary books — Smiles Grade 1 meets it with the
@@ -139,10 +138,20 @@ the age whole — "I am eight years old." — with age
 named among the introduction's items in its guide; no
 "How old are you?" question wording is printed
 anywhere in its filed read, and none is claimed here.
-Sierra
-Leone's filed books state a boy's age ("He is 10
-years old," Primary 1 Term 3, Lesson 146) but never teach the
-question, so Sierra Leone is not counted here. The count grows
+Sierra Leone joined 2026-11-11 — and its joining corrects an
+error: this paragraph previously said Sierra Leone's filed
+books state a boy's age ("He is 10 years old," Primary 1
+Term 3, Lesson 146) but never teach the question, and
+excluded Sierra Leone on that ground. The 2026-11-08
+re-verification sweep's fresh read proves the opposite
+(sweep diff, flag F1): the question itself is taught, in
+the question form, in Primary 2 Term 1, Lesson 4's opening
+drill (printed p.8), in Primary 3 Term 1, Lesson 5's board
+frames (printed p.10), in Primary 1 Term 3, Lesson 146
+itself (printed p.52 — the very plan the old sentence
+cited), and in the JSS 2 Term 1 handbook's introduction
+work. Sierra Leone is counted here from 2026-11-11; see
+its section at the end of this file. The count grows
 as other closed countries' books are read.
 (Pre-existing error fixed 2026-11-11 by the Nicaragua
 re-verification sweep merge: this paragraph previously said
@@ -154,7 +163,12 @@ you? I'm 6" — at printed p.19, and the Multigrado book
 re-teaches it at printed pp.19–20. Nicaragua is counted here
 from 2026-11-11; see its section at the end of this file. The
 older note below said the not-counted sentence "now names
-Nicaragua only"; after this fix it names Sierra Leone only.)
+Nicaragua only"; after this fix it names Sierra Leone only.
+That last clause is itself superseded 2026-11-11 by the
+Sierra Leone re-verification sweep merge: the Sierra Leone
+exclusion was the same kind of error — see the correction
+in this paragraph — and the not-counted sentence now
+names no country.)
 Nepal joined 2026-11-03 with the question itself in its first book — "How old are you? — I'm five/six" and "How old is he/Raju?" in Grade 1's age unit (Unit 9, printed pp.57–61) — and ages stated whole across a whole family in Grade 2's numbers unit (Unit 3, printed pp.13–19).
 Armenia joined 2026-11-03 with the age question as its own starter lesson: "How old are you?", with numbers 1–10 and "I'm nine / I'm ten" (Starter Unit, Lesson 3, printed p.5).
 (Pre-existing error fixed in this merge: this paragraph
@@ -251,8 +265,7 @@ Book, Semester 1*; *Grade 4: Activity Book, Semester 1* —
 Jordan, National Center for Curriculum Development (NCCD),
 Amman, from Pearson Education Ltd / York Press Ltd
 originals. All filed in english/books/jordan.md (Jordan —
-FULLY READ + CITATION CHECK PASSED 2026-11-03). Unlike
-Sierra Leone above, Jordan teaches the question itself, in
+FULLY READ + CITATION CHECK PASSED 2026-11-03). Jordan teaches the question itself, in
 the first unit a Jordanian child meets: Grade 1, Unit 1,
 "Family and friends" (printed pp.6–13), lists "How old are
 you? — I'm …" beside the name exchange, with the Welcome's
@@ -288,8 +301,9 @@ name/age line and a "I like …" line. The pack is
 audio-led printed sheets, so the question itself is the
 lesson title rather than a printed dialogue — recorded
 here exactly so, and it is that title, not a passing age
-statement, that counts Greece in (compare Sierra Leone
-above, not counted). The answer in its full form is what
+statement, that counts Greece in (Sierra Leone passes the
+same test on its own plans' evidence — see the correction
+in the acceptance paragraph above). The answer in its full form is what
 the later books print: Grade 7 Beginners opens with
 David's "I'm 12 years old" (Student's Book, Unit 1,
 printed p.2) and Magda's "I'm 12 years old" (Unit 2,
@@ -346,7 +360,7 @@ Iraq, 2nd Primary, Pupil and Activity Book (combined
 pupil + activity book) section; Grade 3 — English for
 Iraq, 3rd Primary, Pupil's Book (student's book)
 section, FULLY READ + CITATION CHECK PASSED
-2026-11-03). Unlike Sierra Leone above, Iraq teaches
+2026-11-03). Iraq teaches
 the question itself — in the short form, three years
 running. Grade 1 sets it at the birthday-party scene
 of its toys unit: "How old are you? — I'm 6 / I'm 4"
@@ -501,3 +515,14 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Saying your name and age — "How old are you? I'm eight (too). How old is he/she? He's/She's seven." | Palestine, Grade 2 Part 1, Unit 1, printed pp.4–9 |
+
+**Sierra Leone added 2026-11-11 (re-verification sweep merge)** — 4 books stock this lesson: **Book:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — teacher evidence); **Book:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — teacher evidence); **Book:** *Primary 1 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — teacher evidence); **Book:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone; no year, ISBN or publisher is printed in any of the books. All filed in english/books/sierra-leone.md and re-read page by page in the 2026-11-08 re-verification sweep; placements in liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md. Sierra Leone teaches the question itself, in the question form, from its earliest plans — the fresh read that corrected this file's old exclusion (sweep diff, flag F1):
+
+| Lesson part | Where it comes from |
+|---|---|
+| The age question as a classroom exchange — the opening drill runs "What is your name? … How old are you? Pupils say their age" | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 4, printed p.8 |
+| The frames put on the board — "How old are you? I am ___ years old." | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 5, printed p.10 |
+| The third-person pair drilled — "Ask: How old is he? Pupils say: He is 10 years old." (the very plan the old exclusion cited for the statement alone) | Sierra Leone — Primary 1 Lesson Plans, Term 3 (teacher evidence), Lesson 146, printed p.52 |
+| The model exchange in the introduction work — "How old are you? Answer: I am 12 years old." | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, introduction work (front matter, before Lesson 1; no printed page is claimed for it) |
+
+The three Primary plans are teacher evidence, cited as such; the JSS handbook item is a pupil book's own model exchange. These same plans also stock their own topics elsewhere in this merge (the Primary 2 plan stocks dialogue-and-discussion, the Primary 3 plan the-story, the Primary 1 plan verbs) — the age-question part of each is stocked here, as flag F1 directs.

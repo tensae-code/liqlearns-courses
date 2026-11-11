@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -95,8 +95,8 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 10 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 11 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone).** Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -128,3 +128,21 @@ READING-QUEUE.md).
 **Book 3:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 3 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Why Dogs Run After Vehicles (Part I) | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 106, printed p.92 |
+| Why Dogs Run After Vehicles (Part II) | Sierra Leone — Primary 3 Lesson Plans, Term 2 (teacher evidence), Lesson 107, printed p.94 |
+| Vocabulary Development: Motor Vehicles and Travelling | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 97, printed p.1 |
+| Vocabulary Development: Motor Vehicles and Travelling | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 98, printed p.3 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

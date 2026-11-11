@@ -60,14 +60,23 @@ lesson audited; anything teaching a second thing was split out into
 its own subtitle folder with its own lesson + questions):
 - Alphabet → the-alphabet ·
   labelling (added 2026-11-10 by the Ghana
-  re-verification sweep merge — **Unit 2, The Alphabet**)
+  re-verification sweep merge — **Unit 2, The Alphabet**) ·
+  print-concepts-and-book-handling (added 2026-11-11 by the
+  Sierra Leone re-verification sweep merge — **Unit 2, The
+  Alphabet**)
 - Phonics → blending-sounds · two-letter-sounds · blends ·
   word-families ·
   rhymes · songs (added 2026-11-10 by the Ghana
-  re-verification sweep merge — **Unit 3, Sounds Together**)
+  re-verification sweep merge — **Unit 3, Sounds Together**) ·
+  syllables-and-word-parts · dictation (added 2026-11-11 by
+  the Sierra Leone re-verification sweep merge — **Unit 3,
+  Sounds Together**)
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you ·
+  dialogue-and-discussion (added 2026-11-11 by the Sierra
+  Leone re-verification sweep merge — **Unit 5,
+  Conversation**) ·
   likes-and-hobbies · stating-and-giving-opinions ·
   starting-and-ending-a-conversation (added 2026-11-09 by
   the Indonesia re-verification sweep merge — **Unit 5,
@@ -92,7 +101,9 @@ its own subtitle folder with its own lesson + questions):
   re-verification sweep merge — **Unit 6, Word Kinds**) ·
   prepositions-after-adjectives-and-verbs (added 2026-11-11
   by the Mongolia re-verification sweep merge — **Unit 6,
-  Word Kinds**)
+  Word Kinds**) ·
+  interjections (added 2026-11-11 by the Sierra Leone
+  re-verification sweep merge — **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -194,7 +205,16 @@ its own subtitle folder with its own lesson + questions):
   and Fixing Sentences** and **Unit 26, How Sure Are You?**) ·
   reported-offers-requests-and-suggestions (added 2026-11-09
   by the Mexico re-verification sweep merge — **Unit 22,
-  Telling What People Said**)
+  Telling What People Said**) ·
+  phrases (added 2026-11-11 by the Sierra Leone
+  re-verification sweep merge — **Unit 13, Joining and
+  Describing**) ·
+  participles-as-verb-forms (added 2026-11-11 by the Sierra
+  Leone re-verification sweep merge — **Unit 19, Earlier
+  Than the Past**) ·
+  future-perfect-continuous-tense (added 2026-11-11 by the
+  Sierra Leone re-verification sweep merge — **Unit 20, The
+  Future in Detail**)
 - Word (numbers & time) → numbers · days-and-months ·
   telling-the-time (built 2026-10-27 — **Unit 9, Numbers,
   Days, and Time**)
@@ -207,7 +227,10 @@ its own subtitle folder with its own lesson + questions):
   Whole Texts**) ·
   listening-comprehension (added 2026-11-10 by the Ghana
   re-verification sweep merge — **Unit 15, Reading Whole
-  Texts**) · finding-information (added 2026-11-10 by the
+  Texts**) ·
+  the-four-language-skills-orientation (added 2026-11-11 by
+  the Sierra Leone re-verification sweep merge — **Unit 15,
+  Reading Whole Texts**) · finding-information (added 2026-11-10 by the
   Ghana re-verification sweep merge — **Unit 42, Reading
   Like a Detective**)
 - Essay → the-essay · opening-and-closing (built

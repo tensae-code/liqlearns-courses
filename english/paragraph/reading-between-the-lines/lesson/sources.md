@@ -1,6 +1,6 @@
 # Sources — Reading between the lines
 
-countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia
+countries: Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -87,6 +87,43 @@ verification sweep.
 | Telling fact from opinion (statements about J.K. Rowling) | Mongolia, English XII, Unit 6, printed p.113 |
 | Anaphoric and cataphoric reference — pronouns pointing back and forward in a text — taught as named reading work, with dictionary use | Pakistan, *English IX* (older curriculum), Unit 3 (contents) |
 
-**Acceptance count: taught in 11 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia).** Greece joins with the Grades 11–12 refugee and human-rights discussion units (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two ways of seeing art in Class 11, and the interview read as a genre in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Barbados, Egypt, Libya, Pakistan, Bangladesh, China, Indonesia, Mexico, India, Greece, Mongolia, Sierra Leone).** Greece joins with the Grades 11–12 refugee and human-rights discussion units (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two ways of seeing art in Class 11, and the interview read as a genre in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt teaches inference, the fact/opinion sort and context clues as named tips in one term, and trains the tone ear in its listening tip. Pakistan's Grade 5 book asks tone, purpose, audience and point of view by name. Barbados carries moods, tones and the author's point of view in its Class 4 syllabus — syllabus evidence, worded as such. Libya teaches drawing conclusions as a reading tip: find where the answer must live and work it out. Bangladesh turns the same skill on pictures: opinions formed from images and posters (added 2026-11-08 by the re-verification sweep). China names the skill outright — inferring — and practises it on Dickens's Christmas Carol in summary (added 2026-11-08 by the re-verification sweep). Indonesia reads for the author's purpose in English for Change and sorts fact from opinion in Tingkat Lanjut (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 9 book reads between the lines twice: a text defining racism, prejudice and stereotypes, and a misleading-statistics case to catch (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan — sweep additions 2026-11-11** — 1 further book stocks this lesson: the older-curriculum *English IX* — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: its Hazrat Asma unit teaches anaphoric and cataphoric reference by name, with dictionary use.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Connecting stories to real life | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 113, printed p.106 |
+| Making predictions | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 63, printed p.6 |
+| Connections: Text to self | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 142, printed p.44 |
+| Reading: Text-Text Connections | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 54, printed p.108 |
+| Inferring About Main Characters | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 107, printed p.87 |
+| Inferring About Main Characters (Continuation) | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 108, printed p.89 |
+| Connecting Themes in Texts | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 56, printed p.115 |
+| Connecting Stories to Real life Situation | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 59, printed p.122 |
+| Connections in Reading: Real Life | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 82, printed p.45 |
+| Connections in Reading Other Texts | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 83, printed p.47 |
+| Comprehending a Listening Passage – Identifying Mood, Tone and Purpose | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 96, printed p.125 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

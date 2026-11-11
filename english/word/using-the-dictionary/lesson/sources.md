@@ -295,3 +295,19 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 The sweep also re-verified the two books' own glossaries — Pupil's Book 3's A–Z Glossary (printed pp.148–151) and the P4 book's “Meaning of New Words” (printed pp.124–128). Under this file's standing decision, stated above, the books' own glossaries do NOT stock this lesson and are not counted; they stay unstocked here, exactly as filed. Rwanda's stock in this lesson therefore stays PARTIAL, on the genuine look-up tasks and the one guide's IPA pronunciation guide, exactly as the placements carry them — nothing added beyond them, nothing taken away. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading Skills Development: Using the Dictionary | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 130, printed p.71 |
+| Reading Skills Development: Using the Dictionary | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 104, printed p.17 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -119,8 +119,8 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 14 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 15 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -160,3 +160,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Be / get used to | Palestine, Grade 12, Unit 1, printed p.10 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past tense: ‘Used to’ | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 34, printed p.70 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

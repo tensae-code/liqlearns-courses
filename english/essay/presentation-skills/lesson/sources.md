@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 10 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda).** Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 11 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -137,3 +137,25 @@ sweep). Mexico teaches presenting across its course: its Grade 7 book opens with
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oral Presentation | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 57, printed p.12 |
+| Oral Presentation (a Debate) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 110, printed p.21 |
+| Oral Presentation: Self- | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 1, printed p.1 |
+| Oral Presentation: Self- | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 1, printed p.1 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

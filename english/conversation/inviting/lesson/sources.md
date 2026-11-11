@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -73,8 +73,8 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan).** Albania — teacher-guide
+**Acceptance count: taught in 9 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone).** Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -100,3 +100,16 @@ sweep merge).
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 4* names invitations among its writing kinds, beside short notes and dialogues. (The fuller invitations system — invitations with acceptance and refusal — is stocked from the Grammar & Composition 9–10 at the formal letter lesson.) It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an Invitation | Sierra Leone — Primary 4 Lesson Plans, Term 1 (teacher evidence), Lesson 24, printed p.48 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Speech writing
 
-countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan
+countries: Egypt, Ghana, Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -88,8 +88,8 @@ colophon; cited once.
 | A complete speech printed as a lesson text: Martin Luther King Jr.'s "I Have a Dream" | Pakistan, *English Book I*, Lesson 11, printed p.67 |
 | Speaking and writing on a set text: a mock trial and a debate on the pearl, and book-review writing | Pakistan, *English 12*, Unit 13, printed p.155 |
 
-**Acceptance count: taught in 10 countries (Egypt, Ghana,
-Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan).** Egypt sets the speech for or against an
+**Acceptance count: taught in 11 countries (Egypt, Ghana,
+Nepal, Greece, Bangladesh, Bolivia, China, Mexico, Mongolia, Pakistan, Sierra Leone).** Egypt sets the speech for or against an
 argument as a writing kind; Ghana's curriculum prints the
 three-part rule at Basic 8 and the effect devices at
 Basic 9; Nepal reads famous speeches whole and sets a
@@ -105,3 +105,23 @@ read with a strategy box on text type and purpose
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It gives a whole chapter on dialogue writing, with specimen dialogues (printed p.28). *English Book I* prints a complete speech as a lesson text — Martin Luther King Jr.'s "I Have a Dream" (Lesson 11, printed p.67) — and *English 12* closes its Pearl unit with a mock trial, a debate and book-review writing (Unit 13, printed p.155). Book I and English 12 are filed in english/books/pakistan.md and were re-read page by page in the same sweep.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Speech Writing | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 56, printed p.10 |
+| Speech | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 69, printed p.51 |
+| Speech | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 70, printed p.53 |
+| Speech | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 120, printed p.62 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

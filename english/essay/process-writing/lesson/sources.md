@@ -1,6 +1,6 @@
 # Sources — Process writing
 
-countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda
+countries: Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -93,7 +93,7 @@ verification sweep.
 | Invention of Glass: a process and history text | Pakistan, *English 5*, Unit 8, printed p.49 |
 | A recipe among the book's writing kinds (paragraph, narrative, character sketch, story, summary, essay, report, imaginative text, dialogue) | Pakistan, *English 8*, writing system (contents) |
 
-**Acceptance count: taught in 12 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Barbados, Indonesia, Malaysia, Nepal, Bolivia, China, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's planning-a-trip topic (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'Recipes from around the world' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with process writing in Class 5, a recipe completed in Class 7, and the packing-tips paragraph completed in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados is syllabus evidence and is worded so wherever it is used; Malaysia's Year 6 anchor was named as Scheme-of-Work mapped evidence in the catch-up plan, and the filing now holds the pupil's book itself, read directly on 2026-11-06 — the direct read is what is cited. Indonesia supplies the shape and the four named kinds; Nepal the instruction-writing; Malaysia supplies the infographic-to-process move, and China supplies the product paragraph — a famous local product described through its materials, maker and place (stocked 2026-11-08 by the re-verification sweep). All procedures in this lesson are stated in LiqLearns' own words; no book's procedure text is reproduced. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -113,3 +113,16 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Garrie Processing | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 29, printed p.58 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

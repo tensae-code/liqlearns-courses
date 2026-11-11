@@ -17,6 +17,9 @@ course, but this course sits in front of it as the true bottom.
   - Lesson: Drawing lines — the wavy line (curves) and the zigzag
     line (straights and corners), understood, not just traced:
     every letter is made of these two moves
+  - Lesson: Drawing patterns — copying patterns shape by shape,
+    and drawing to answer (added 2026-11-11 by the Sierra Leone
+    re-verification sweep merge)
 
 Built from the first pages of the finished countries' KG/Grade 1
 books, like every course (Egypt first — its KG1 p.1 teaches both

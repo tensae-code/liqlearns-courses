@@ -610,3 +610,167 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Word set 2 (afford, business, castle, decorate, frame, for free, on my own …) with the reading "Turning a hobby into a business" | Palestine, Grade 10 Part 1, Unit 3, printed pp.36–38 |
 | Word set 2 (alive, ambulance, cheer, desperate, explode, examine, floor, ladder, ledge …) with a fire-rescue reading and a reporter interview | Palestine, Grade 10 Part 1, Unit 4, printed pp.50–52 |
 | Word set 2 (accurate, approach, breathe, combine, escape, force, heat, destroy / destruction / destructive …) with the reading "Hurricane watching: saving lives" | Palestine, Grade 10 Part 1, Unit 5, printed pp.64–66 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *JSS 2 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 18:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 19:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 20:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 22:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 23:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 24:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 25:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comprehension | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 110, printed p.100 |
+| Comprehension | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 111, printed p.102 |
+| Responding to Text | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 115, printed p.110 |
+| Comprehension | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 33, printed p.66 |
+| Reading | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 148, printed p.56 |
+| Responding to Text: Talking with a Partner | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 2, printed p.4 |
+| Prepare for Reading ‘The Pygmy Hippopotamus’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 131, printed p.22 |
+| Informational Text: ‘The Pygmy Hippopotamus’ | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 132, printed p.24 |
+| Talking About Text | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 1, printed p.2 |
+| Using Illustrations | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 2, printed p.4 |
+| Reading for Information | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 24, printed p.48 |
+| Reading | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 50, printed p.100 |
+| Comprehension | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 101, printed p.74 |
+| Reading Comprehension | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 102, printed p.76 |
+| Responding to Text | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 118, printed p.110 |
+| Responding to Text | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 27, printed p.56 |
+| Responding to Text | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 28, printed p.58 |
+| Responding to Text: Predictions | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 37, printed p.76 |
+| Reading and Comprehension | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 46, printed p.94 |
+| Complete Statements | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 49, printed p.101 |
+| Titles | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 80, printed p.41 |
+| Reading Comprehension: Newspapers/Magazines | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 100, printed p.83 |
+| Reading for Information | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 115, printed p.114 |
+| Reading Comprehension | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 6, printed p.12 |
+| Reading Comprehension (From a Selected Passage) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 7, printed p.14 |
+| Reading Comprehension (From a Selected Passage) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 8, printed p.16 |
+| Reading the First Chapter of the Prose Text | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 26, printed p.49 |
+| Reviewing the Previous Chapter of the Prose Text | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 27, printed p.51 |
+| Chapters 2 and 3 of Prose Text | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 35, printed p.64 |
+| Reading Newspapers or Magazines | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 61, printed p.21 |
+| Reading Newspapers or Magazines (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 62, printed p.23 |
+| A Comprehension Passage | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 71, printed p.41 |
+| A Comprehension Passage (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 72, printed p.43 |
+| A Comprehension Passage | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 101, printed p.4 |
+| A Comprehension Passage | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 113, printed p.30 |
+| A Comprehension Passage | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 122, printed p.46 |
+| Comprehension Passage | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 6, printed p.11 |
+| Reading Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 7, printed p.13 |
+| Comprehension Passage | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 16, printed p.31 |
+| Comprehension Passage | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 17, printed p.33 |
+| Reading Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 55, printed p.9 |
+| Reading Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 59, printed p.17 |
+| Reading Newspapers or Magazines | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 67, printed p.32 |
+| Reading Newspapers or Magazines (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 68, printed p.34 |
+| Continuous Reading of the Prose Text | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 78, printed p.52 |
+| Continuous Reading of the Prose Text (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 79, printed p.54 |
+| Reading Comprehension Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 91, printed p.78 |
+| Reading Comprehension Prose (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 92, printed p.80 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 103, printed p.7 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 104, printed p.9 |
+| Comprehension (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 105, printed p.11 |
+| Comprehension: Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 116, printed p.32 |
+| Comprehension: Prose (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 117, printed p.34 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 121, printed p.42 |
+| Comprehension (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 122, printed p.44 |
+| Comprehension: Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 126, printed p.51 |
+| Comprehension: Prose (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 127, printed p.53 |
+| Comprehension: Prose (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 128, printed p.55 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 134, printed p.67 |
+| Comprehension (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 135, printed p.69 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 139, printed p.77 |
+| Comprehension: Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 140, printed p.79 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 144, printed p.86 |
+| Comprehension: Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 145, printed p.88 |
+| Comprehension | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 149, printed p.96 |
+| Comprehension: Prose | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 150, printed p.98 |
+| Reading Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 5, printed p.11 |
+| Reading Comprehension from a Selected Passage | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 6, printed p.13 |
+| Reading Comprehension from a Selected Passage (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 7, printed p.15 |
+| Reading Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 25, printed p.52 |
+| Reading and Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 31, printed p.64 |
+| How to Answer Comprehension Questions about a Text | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 38, printed p.82 |
+| Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 69, printed p.35 |
+| Listening Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 92, printed p.86 |
+| Prose Text | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 118, printed p.40 |
+| Reading Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 135, printed p.76 |
+| Reading Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 138, printed p.82 |
+| Reading Comprehension | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 145, printed p.97 |
+| Reading Comprehension – Fiction | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 15, printed p.27 |
+| Reading Comprehension – Science Fiction | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 37, printed p.70 |
+| Reading Comprehension – Science Fiction | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 38, printed p.72 |
+| Reading Comprehension – Narrative | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 51, printed p.7 |
+| Reading Comprehension – Narrative | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 52, printed p.9 |
+| Reading Comprehension – Drama | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 77, printed p.69 |
+| Listening Comprehension – Drama | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 78, printed p.72 |
+| Reading Comprehension Fiction – Traditional Tale | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 9, printed p.19 |
+| Reading Comprehension | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 10, printed p.21 |
+| Reading Comprehension – Drama | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 37, printed p.92 |
+| Reading Comprehension – Drama | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 38, printed p.95 |
+| Reading Comprehension – Poetry | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 55, printed p.16 |
+| Reading Comprehension – Academic Text (science) | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 87, printed p.100 |
+| Reading Comprehension – Literature | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 93, printed p.116 |
+| Reading Comprehension – Literature | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 94, printed p.119 |
+| Reading Comprehension – Prose (development issue) | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 118, printed p.51 |
+| Reading Comprehension – Creative Writing (WASSCE) | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 125, printed p.65 |
+| Reading Comprehension – Report | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 23, printed p.56 |
+| Reading Comprehension – Drama | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 37, printed p.86 |
+| Reading Comprehension – Academic Text (science) | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 77, printed p.72 |
+| Reading Comprehension – Academic Text (history) | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 78, printed p.74 |
+| Reading Comprehension – Poetry | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 94, printed p.109 |
+| Speech | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 119, printed p.59 |
+| Listening Comprehension Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 131, printed p.93 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

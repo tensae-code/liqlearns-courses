@@ -48,6 +48,10 @@ can hold a pencil and draw and understand lines.*
 - holding a pencil ✅ · drawing lines ✅
 - This unit is also the standalone Pencil and Lines course, shared as
   the recommended prerequisite before every language course.
+- **Sweep addition (2026-11-11, Sierra Leone re-verification sweep
+  merge):** drawing-patterns ✅ (1 lesson — copying patterns shape
+  by shape, and drawing to answer, from Sierra Leone's Primary 1
+  and 3 lesson plans, in the Pencil and Lines course)
 
 ## Unit 2 — The Alphabet
 *End of unit: the learner knows the letters, their shapes and
@@ -61,6 +65,11 @@ sounds.*
   merge):** labelling ✅ (1 lesson — drawing a thing and
   writing its true name beside it, from Ghana's NaCCA
   Basic 1–3 curriculum)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** print-concepts-and-book-handling ✅ (1 lesson —
+  the book itself before the letters: its parts, how to hold it,
+  and which way print runs, from Sierra Leone's Primary 1–3
+  lesson plans)
 
 ## Unit 3 — Sounds Together
 *End of unit: the learner can put sounds together to read a word.*
@@ -72,6 +81,12 @@ sounds.*
   merge):** rhymes ✅ · songs ✅ (2 lessons — Ghana's NaCCA
   oral-language strands: rhymes and tongue-twisters at
   Basic 1–3, songs and their messages at Basic 4–5)
+- **Sweep additions (2026-11-11, Sierra Leone re-verification
+  sweep merge):** syllables-and-word-parts ✅ · dictation ✅
+  (2 lessons — the beats inside a word, clapped and counted,
+  from Sierra Leone's Primary 1 plans; and dictation itself —
+  listen whole, write exactly, check honestly — from its
+  Primary 4 plans)
 
 ## Unit 4 — First Words
 *End of unit: the learner can read whole little words.*
@@ -109,6 +124,11 @@ about the other person, and close the talk.*
   the awkward-situations teaching of Mongolia's English XI,
   Unit 8: forgetting a name, escalator rules, which no lesson
   housed)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** dialogue-and-discussion ✅ (1 lesson — talking
+  itself: pair talk, the good listener and the good speaker,
+  conversations and role play, discussion and debate, from
+  Sierra Leone's plans and handbooks, Primary 1 to SSS 3)
 
 ## Unit 6 — Word Kinds
 *End of unit: the learner knows what each kind of word does.*
@@ -135,6 +155,10 @@ about the other person, and close the talk.*
   the prepositions that belong to a word itself, from Mongolia's
   English XI, Unit 8 and English XII, Unit 1, which no lesson
   housed)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** interjections ✅ (1 lesson — the eighth word
+  kind, the words that burst out, from Sierra Leone's SSS 2
+  handbook)
 
 ## Unit 7 — Words for the World
 *End of unit: the learner has words for the world around them.*
@@ -275,6 +299,10 @@ words and belonging in their right places.*
 - **Sweep addition (2026-11-09, Indonesia re-verification sweep
   merge):** noun-phrases ✅ (1 lesson — the noun-group teaching
   of Indonesia's Grade 9 book and its Grade 11 books)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** phrases ✅ (1 lesson — the phrase itself and
+  its kinds, the general lesson noun-phrases hangs off, from
+  Sierra Leone's SSS 2 handbook)
 
 ## Unit 14 — The Paragraph
 *End of unit: the learner can write a paragraph whose sentences
@@ -290,6 +318,11 @@ work through words they do not know, and answer from the text.*
 - **Sweep addition (2026-11-10, Ghana re-verification sweep
   merge):** listening-comprehension ✅ (1 lesson — listening
   on purpose, from Ghana's NaCCA curricula, Basic 1–9)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** the-four-language-skills-orientation ✅
+  (1 lesson — the map of the subject itself: listening,
+  speaking, reading and writing, two in and two out, from
+  Sierra Leone's JSS 1 handbook's second lesson)
 
 ## Unit 16 — The Essay
 *End of unit: the learner can plan and write a first essay, with an
@@ -353,6 +386,10 @@ past scene with an action moving inside it.*
 - the-past-perfect ✅ · the-past-perfect-continuous ✅ ·
   the-past-continuous ✅ (catch-up build 2026-11-07, per
   CATCH-UP-PLAN.md — 3 lessons, 51 question items)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** participles-as-verb-forms ✅ (1 lesson — the
+  verb's two participle shapes the perfect and continuous
+  tenses are built from, from Sierra Leone's SSS 2 handbook)
 
 ## Unit 20 — The Future in Detail
 *End of unit: the learner can show a future action in progress,
@@ -364,6 +401,11 @@ from a past moment.*
   merge):** will-future ✅ (1 lesson — will for predictions,
   moment-of-speaking decisions, questions and future time
   expressions: Secundaria 4 and compendium Year 4)
+- **Sweep addition (2026-11-11, Sierra Leone re-verification
+  sweep merge):** future-perfect-continuous-tense ✅ (1 lesson —
+  the third future shape, still running at the future point
+  and measured, from Sierra Leone's SSS 3 handbook — the unit's
+  set is now complete)
 
 ## Unit 21 — Questions That Check
 *End of unit: the learner can check a statement with a tag and
@@ -996,6 +1038,41 @@ were fixed: the P5 Teacher's Guide's IPA guide is no longer
 credited to the P5 Learner's Book in using-the-dictionary or
 ordering-words. **Rwanda: 11 of 11 re-read.** The English
 course now stands at **219 lessons across 44 units**.
+
+**Sierra Leone re-verification sweep merge (2026-11-11):**
+all 36 of Sierra Leone's held English books were re-read page
+by page by the 2026-11-08 sweep (1,771 fresh items placed;
+209 already in the course, 96 stocked under other lessons).
+The 1,466 missing items are now stocked: 1,366 items into
+103 existing lessons (the parts-of-speech overview items
+stocked in each of the five word-kind lessons they name, the
+three-tense revision items in each of the three tense
+lessons), 34 items into two lessons built since the sweep
+(prepositions, listening-comprehension), and 66 items into
+**10 NEW LESSONS**: **dialogue-and-discussion** (Unit 5 —
+41 items: pair talk, the good listener and speaker,
+conversations, debate), **print-concepts-and-book-handling**
+(Unit 2 — 14 items, one re-homed from blending-sounds by
+flag F3), **drawing-patterns** (Unit 1, Pencil and Lines —
+3 items), **future-perfect-continuous-tense** (Unit 20 —
+2 items), **participles-as-verb-forms** (Unit 19 — 2 items),
+**syllables-and-word-parts** (Unit 3), **dictation** (Unit 3),
+**phrases** (Unit 13), **interjections** (Unit 6),
+**the-four-language-skills-orientation** (Unit 15) — 1 item
+each for the last five. The Primary books are teacher
+lesson-plan books, stocked and counted as teacher evidence
+throughout, never as pupil books. Three flags were fixed:
+F1 — how-old-are-you's "Sierra Leone never teaches the
+question" was FALSE (its plans teach it directly); Sierra
+Leone is counted there now, 31 countries. F2 —
+stress-and-intonation's JSS 2 credit for Lessons 58/115/138
+was the wrong book; they are JSS 1's, corrected. F3 —
+blending-sounds' "Combining Letter Sounds" block row was
+narrowed to its true blending lessons (71, 72, 74); Lesson 73
+moved to the-story and Lesson 75 to
+print-concepts-and-book-handling. **Sierra Leone: 36 of 36
+re-read.** The English course now stands at **229 lessons
+across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

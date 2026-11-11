@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ cited once.
 | Reading: a magazine article on the importance of breakfast — skimming and scanning | Mongolia, English XII, Unit 8, printed p.137 |
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
-**Acceptance count: taught in 8 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone).** Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -62,3 +62,88 @@ cited once.
 **Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 1 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 75, printed p.30 |
+| Reading Text Aloud | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 12, printed p.26 |
+| Reading Phrases | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 148, printed p.56 |
+| Reading with Expression | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 149, printed p.58 |
+| Fiction | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 19, printed p.38 |
+| Nonfiction Text | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 20, printed p.40 |
+| Speaking | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 41, printed p.82 |
+| Oral Reading: Phrases | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 42, printed p.84 |
+| Oral Reading: Expression | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 44, printed p.88 |
+| Reading with Fluency | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 2, printed p.4 |
+| Importance of Reading | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 60, printed p.124 |
+| Fluent Reading Exercises | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 3, printed p.6 |
+| Reading Strategies | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 116, printed p.36 |
+| Reading Strategies (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 117, printed p.38 |
+| Fluent Reading | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 58, printed p.15 |
+| Oral Reading | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 60, printed p.19 |
+| Reading Strategies | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 37, printed p.80 |
+| Reading Skills Development – Skimming | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 7, printed p.12 |
+| Reading Skills Development – Scanning | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 8, printed p.14 |
+| Reading Skills Development – WH Questions | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 63, printed p.34 |
+| Reading Skills Development – WH Questions | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 64, printed p.37 |
+| Reading Skills Development – Reasoning | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 89, printed p.94 |
+| Reading Skills Development – Reasoning | Sierra Leone — SSS 1 Pupils' Handbook, Term 2, Lesson 90, printed p.96 |
+| Reading Skills Development: Substitution of Words | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 103, printed p.15 |
+| Reading Skills Development: Identifying Topic Sentences | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 104, printed p.17 |
+| Reading Skills Development: Paraphrasing | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 129, printed p.69 |
+| Reading Skills Development: Skimming and Scanning | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 16, printed p.37 |
+| Reading Skills Development: Substitution of Words | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 34, printed p.85 |
+| Reading Skills Development: Identifying Theme – Fable | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 67, printed p.46 |
+| Reading Skills Development: Identifying Tone | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 79, printed p.79 |
+| Reading Skills Development: Identifying Tone | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 80, printed p.82 |
+| Reading Skills Development: Skimming and Scanning | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 31, printed p.73 |
+| Reading Skills Development: Identifying Topic Sentences | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 81, printed p.81 |
+| Reading Skills Development: Factual and Inferential Questions | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 89, printed p.97 |
+| Reading Skills Development: Giving Titles to Untitled Texts | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 93, printed p.106 |
+| Reading Skills Development: Understanding the Writer (mood, tone, purpose) | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 103, printed p.14 |
+| Reading Skills Development: Reasoning | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 109, printed p.30 |
+| Reading Skills Development: Reasoning | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 110, printed p.33 |
+| Reading Skills Development: Substitution of Words in a Passage | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 115, printed p.47 |
+| Reading Skills Development: Substitution of Words in a Passage | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 116, printed p.51 |
+| Reading Skills Development: WH questions, Inferential and Literal Questions | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 126, printed p.78 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

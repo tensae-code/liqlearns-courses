@@ -1,6 +1,6 @@
 # Sources — Prepositions
 
-countries: Ghana, Greece
+countries: Ghana, Greece, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -27,4 +27,52 @@ Every part traces to its book and page.
 | “Formation, composition and capacity of soil to hold water” — prepositions worked inside soil-science texts (general preposition use in technical reading) | Greece, Exploiting the Earth, Part A3, printed p.27 |
 | “Sciences, techniques and devices for exploring mineral deposits” — prepositions in the unit's skills table (general preposition use in technical reading) | Greece, Exploiting the Earth, Part B2, printed p.126 (skills table) |
 
-**Acceptance count: taught in 1 country (Greece) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Greece joins with two Exploiting the Earth units working general prepositions inside technical texts — soil science and mineral exploration (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because of Ghana's books: Ghana's NaCCA curricula run a prepositions strand from Basic 1 to Basic 6 — position at Basic 1, days and dates at Basic 2, directions at Basic 3, a variety of meanings at Basics 4–6 — with the Upper Primary Level 3 guide teaching by, for, about, between and against by name; no earlier-read book taught prepositions as a general lesson (the course's four specific preposition lessons each cover one family). The course's four specific preposition lessons (prepositions-in-and-into, prepositions-of-movement, prepositions-of-place, prepositions-of-time) hang off this one. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+**Acceptance count: taught in 2 countries (Greece, Sierra Leone) — this lesson also stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so Ghana is not counted as teaching this lesson from a pupil's book. Greece joins with two Exploiting the Earth units working general prepositions inside technical texts — soil science and mineral exploration (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because of Ghana's books: Ghana's NaCCA curricula run a prepositions strand from Basic 1 to Basic 6 — position at Basic 1, days and dates at Basic 2, directions at Basic 3, a variety of meanings at Basics 4–6 — with the Upper Primary Level 3 guide teaching by, for, about, between and against by name; no earlier-read book taught prepositions as a general lesson (the course's four specific preposition lessons each cover one family). The course's four specific preposition lessons (prepositions-in-and-into, prepositions-of-movement, prepositions-of-place, prepositions-of-time) hang off this one. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 6 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 2 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 78, printed p.36 |
+| Responding to Reading | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 19, printed p.40 |
+| Identifying Locations in the Classroom | Sierra Leone — Primary 3 Lesson Plans, Term 1 (teacher evidence), Lesson 20, printed p.42 |
+| Prepositions | Sierra Leone — Primary 4 Lesson Plans, Term 3 (teacher evidence), Lesson 129, printed p.18 |
+| Simple Prepositions | Sierra Leone — Primary 6 Lesson Plans, Term 1 (teacher evidence), Lesson 53, printed p.109 |
+| Prepositions | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 102, printed p.88 |
+| Prepositional Phrases in Sentences | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 103, printed p.90 |
+| Prepositions | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 96, printed p.89 |
+| Prepositions (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 97, printed p.91 |
+| Prepositions | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 105, printed p.13 |
+| Prepositions | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 131, printed p.63 |
+| Prepositions | Sierra Leone — JSS 2 Pupils' Handbook, Term 3, Lesson 129, printed p.57 |
+| Prepositions | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 73, printed p.44 |
+| Prepositions | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 148, printed p.103 |
+| Prepositions | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 14, printed p.31 |
+| Prepositions | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 15, printed p.34 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

@@ -96,3 +96,32 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Avoiding Double Negatives | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 93, printed p.88 |
+| Avoiding Double Negatives | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 147, printed p.101 |
+| Parts of Speech Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 3, printed p.6 |
+| Parts of Speech Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 4, printed p.8 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 13, printed p.29 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 14, printed p.33 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 15, printed p.37 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 16, printed p.40 |
+| Parts of Speech Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 136, printed p.107 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 137, printed p.109 |
+| Tenses Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 138, printed p.112 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

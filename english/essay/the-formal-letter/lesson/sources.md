@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -59,8 +59,8 @@ verification sweep.
 | The formal letter in the Young Boy's Adventure unit | Pakistan, *English 7*, Unit 10 (contents) |
 | Formal letters set against informal letters, worked on the survey report's letter — addressed to the Managing Director, PCTB, though its rubric names the Director of Education (the book's own mismatch, noted) | Pakistan, *English 8*, printed p.122 |
 
-**Acceptance count: taught in 8 countries (Greece,
-Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine).** India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
+**Acceptance count: taught in 9 countries (Greece,
+Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone).** India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
 reference before its course begins; Sudan opens its final
 book with official/business letters and later sets formal
 against informal in one writing lesson; Laos diagrams the
@@ -82,3 +82,103 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Analysing a business letter; writing a short formal email | Palestine, Grade 12, Unit 8, printed pp.85–87 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 5 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 1 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 1 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 10:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 11:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 12:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 13:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 14:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 15:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 16:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 17:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an Informal Letter | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 78, printed p.36 |
+| Writing an Informal Letter | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 79, printed p.38 |
+| Business Letter | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 83, printed p.46 |
+| Writing a Semi-Formal Letter | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 112, printed p.104 |
+| Writing a Semi-Formal Letter (Continued) | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 113, printed p.106 |
+| Writing: Informal Letters | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 56, printed p.112 |
+| Writing: Semi-Formal Letters | Sierra Leone — Primary 5 Lesson Plans, Term 1 (teacher evidence), Lesson 57, printed p.114 |
+| Writing Semi-Formal Letters | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 99, printed p.70 |
+| Writing Semi-Formal Letters | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 100, printed p.72 |
+| Semi-formal Letter | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 86, printed p.53 |
+| Semi-formal Letter | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 87, printed p.56 |
+| Language of Informal Letter | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 95, printed p.72 |
+| Business Letter | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 124, printed p.9 |
+| Business letter (continued) | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 125, printed p.11 |
+| Formal Letter Format | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 129, printed p.21 |
+| Why Formal Letters? | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 130, printed p.24 |
+| Planning a Formal Letter | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 135, printed p.34 |
+| Informal Letters | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 48, printed p.88 |
+| Informal Letters (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 1, Lesson 49, printed p.90 |
+| Informal Letters | Sierra Leone — JSS 1 Pupils' Handbook, Term 2, Lesson 69, printed p.38 |
+| Letter Writing: Semi-Formal Letters | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 111, printed p.26 |
+| Letter Writing: Semi-Formal Letters (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 112, printed p.28 |
+| Informal Letters | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 127, printed p.56 |
+| Informal Letters (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 128, printed p.58 |
+| Types of Letters (Informal Letters) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 10, printed p.19 |
+| Features or Format of Informal Letters | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 11, printed p.21 |
+| Features or Format of Informal Letters (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 12, printed p.23 |
+| Writing an Informal Letter | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 23, printed p.45 |
+| Writing an Informal Letter (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 24, printed p.47 |
+| Revision of an Informal Letter | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 25, printed p.49 |
+| Semi-Formal Letters | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 32, printed p.65 |
+| Writing a Semi-Formal Letter | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 33, printed p.67 |
+| Writing a Semi-Formal Letter (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 34, printed p.69 |
+| Semi-Formal Letters | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 64, printed p.28 |
+| Semi-Formal Letters (Continuation) | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 65, printed p.30 |
+| Informal Letters (Revision) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 23, printed p.48 |
+| Informal Letters (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 24, printed p.50 |
+| Semi-Formal Letter | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 46, printed p.102 |
+| Semi-Formal Letter (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 47, printed p.104 |
+| Semi-Formal Letter (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 48, printed p.106 |
+| Revision of Informal Letters | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 81, printed p.62 |
+| Informal Letters | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 82, printed p.64 |
+| Revision of Semi-Formal Letters | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 134, printed p.74 |
+| Revision of Formal Letters | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 149, printed p.105 |
+| Revision of Formal Letters (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 150, printed p.107 |
+| Informal Letter | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 17, printed p.31 |
+| Informal Letter – To a Classmate | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 18, printed p.33 |
+| Formal Letter – Request to a Person of Authority | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 23, printed p.44 |
+| Formal Letters – Request to a Person of Authority | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 24, printed p.46 |
+| Informal Letters – Persuasive | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 21, printed p.51 |
+| Informal Letters – Persuasive | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 22, printed p.53 |
+| Comprehending a Listening Passage – Formal Letter | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 98, printed p.3 |
+| Informal Letter (persuasive) | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 105, printed p.20 |
+| Informal Letter (persuasive) | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 106, printed p.22 |
+| Reading Comprehension – Formal Letter | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 117, printed p.49 |
+| Formal Letter | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 96, printed p.115 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

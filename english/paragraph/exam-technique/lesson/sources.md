@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -31,6 +31,33 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 5 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *JSS 2 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SSS 3 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| BECE Requirements | Sierra Leone — JSS 2 Pupils' Handbook, Term 2, Lesson 86, printed p.68 |
+| Revision of The Prose Examination Requirements for BECE | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 17, printed p.35 |
+| Revision of Prose Examination Strategies for BECE | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 18, printed p.37 |
+| Requirements for Drama for BECE | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 89, printed p.78 |
+| WASSCE Guidelines | Sierra Leone — SSS 3 Pupils' Handbook, Term 1, Lesson 2, printed p.2 |
+| WASSCE Guidelines and Tips | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 49, printed p.1 |
+| Grammar Skills Development: Identifying Grammatical Name and Function | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 72, printed p.61 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

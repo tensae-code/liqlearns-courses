@@ -375,3 +375,47 @@ filed.
 **Book:** English Language Curriculum for Basic 1–3 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (September 2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
 
 **Book:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 1 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 1 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *SSS 1 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SSS 2 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rhymes | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 21, printed p.42 |
+| Rhyming words | Sierra Leone — Primary 1 Lesson Plans, Term 1 (teacher evidence), Lesson 60, printed p.120 |
+| Jj Words | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 69, printed p.18 |
+| Writing Rhyming Words | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 93, printed p.66 |
+| Writing Sentences | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 118, printed p.116 |
+| Ss Words | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 119, printed p.118 |
+| Rhyme and Rhyming and Patterns | Sierra Leone — Primary 1 Lesson Plans, Term 2 (teacher evidence), Lesson 120, printed p.120 |
+| Rhyming words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 2, printed p.4 |
+| Rhyming words in poetry | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 12, printed p.24 |
+| Rhyming words | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 67, printed p.14 |
+| Rhyming words | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 104, printed p.88 |
+| Rhyming words | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 150, printed p.60 |
+| Vocabulary: Word Families | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 132, printed p.28 |
+| Rhyme | Sierra Leone — SSS 1 Pupils' Handbook, Term 3, Lesson 100, printed p.8 |
+| Rhyme | Sierra Leone — SSS 2 Pupils' Handbook, Term 3, Lesson 140, printed p.99 |
+| Rhyme | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 50, printed p.6 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

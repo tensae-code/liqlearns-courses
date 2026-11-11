@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -213,7 +213,7 @@ verification sweep.
 | Biography writing in the Overpopulation unit | Pakistan, *English 6*, Unit 9, printed p.92 (body opener) |
 | Quaid-e-Azam: a biography text (born 25 December 1876, Karachi), with articles and adjectival phrases | Pakistan, *English 7*, Unit 4, printed p.32 |
 
-**Acceptance count: taught in 14 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda).** Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
+**Acceptance count: taught in 15 countries (Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone).** Rwanda joins with Primary 5's life-story timelines (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 Alexander the Great presentation lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with lives read whole across Classes 4, 6, 9, 10, 11 and 12 — Helen Keller, Kalpana Chawla, the musicians, Einstein, Kalam, Mandela, Gandhi and Douglas among them (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the full
 structure and its short definition, with models at three
 depths; South Sudan defines the pair, works them on real
 lives and sets the turn between them; Armenia sets a
@@ -252,3 +252,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *SSS 1 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading Comprehension – Autobiography | Sierra Leone — SSS 1 Pupils' Handbook, Term 1, Lesson 16, printed p.29 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

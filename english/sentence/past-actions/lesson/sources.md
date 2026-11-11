@@ -531,3 +531,47 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Past tenses — the past-tense system in stories | Palestine, Grade 12, Unit 3, printed pp.28–30 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 3 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 1 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *JSS 2 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *SSS 2 English Language — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Predictions: Using titles and illustrations | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 116, printed p.112 |
+| Past tense | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 118, printed p.116 |
+| The Simple Past Tense | Sierra Leone — Primary 3 Lesson Plans, Term 3 (teacher evidence), Lesson 140, printed p.39 |
+| Regular Past Tense | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 86, printed p.53 |
+| Irregular Past Tense | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 87, printed p.55 |
+| Past Tense | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 88, printed p.57 |
+| The Simple Past Tense | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 123, printed p.48 |
+| The Simple Past Tense (Continuation) | Sierra Leone — JSS 1 Pupils' Handbook, Term 3, Lesson 124, printed p.50 |
+| The Simple Past Tense | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 13, printed p.25 |
+| Revision of the Simple Past and Simple Future Tenses | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 19, printed p.37 |
+| Revision of the Three Main Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, Lesson 20, printed p.39 |
+| The Simple Past Tense | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 26, printed p.54 |
+| The Simple Past Tense (Continuation) | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 27, printed p.56 |
+| Revision of the Simple Form of the Three Simple Tenses (tense revision across the three tense lessons) | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 103, printed p.7 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 3, printed p.4 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 4, printed p.7 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 5, printed p.10 |
+| Tenses (tense revision across the three tense lessons) | Sierra Leone — SSS 2 Pupils' Handbook, Term 1, Lesson 6, printed p.13 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

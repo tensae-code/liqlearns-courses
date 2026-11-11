@@ -1,6 +1,6 @@
 # Sources — The past perfect continuous
 
-countries: Egypt, Malaysia, Pakistan, Sudan, Venezuela
+countries: Egypt, Malaysia, Pakistan, Sudan, Venezuela, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -22,4 +22,18 @@ Every part traces to its book and page.
 | Time for Tenses: past perfect continuous | Sudan, SPINE 5, Chapter 7 |
 | Past perfect continuous presented in the Grade 11 course — TEACHER'S-GUIDE evidence: the guide's Lesson 14 presentation, not a pupil's-book read | Venezuela, My Victory Teacher's Book 5 (Grade 11), Lesson 14 (as filed in english/books/venezuela.md) |
 
-**Acceptance count: taught in 5 countries (Egypt, Malaysia, Pakistan, Sudan, Venezuela).**
+**Acceptance count: taught in 6 countries (Egypt, Malaysia, Pakistan, Sudan, Venezuela, Sierra Leone).**
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past Perfect Continuous Tense | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 87, printed p.93 |
+| Past Perfect Continuous Tense | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 88, printed p.95 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

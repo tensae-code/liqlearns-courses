@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -41,7 +41,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 6 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine).**
+**Acceptance count: taught in 7 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone).**
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -93,3 +93,16 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda was already counted in this lesson; the acceptance count does not change. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sorting common words | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 85, printed p.50 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

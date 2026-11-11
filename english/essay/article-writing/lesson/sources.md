@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -80,4 +80,31 @@ verification sweep.
 | Writing an article, "How to make people environmentally friendly?" | Mongolia, English XII, Unit 7, printed p.129 |
 | Writing a magazine article about a wheelchair fashion or dance show | Mongolia, English XII, Unit 10, printed pp.187–188 |
 
-**Acceptance count: taught in 8 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *JSS 3 Language Arts — Pupils' Handbook, Term 1* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Newspaper Articles | Sierra Leone — Primary 6 Lesson Plans, Term 3 (teacher evidence), Lesson 126, printed p.13 |
+| Features of an Article for Publication | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 28, printed p.58 |
+| Article for Publication – | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 29, printed p.60 |
+| Article for Publication – Edit Final Draft | Sierra Leone — JSS 3 Pupils' Handbook, Term 1, Lesson 30, printed p.62 |
+| Article for Publication in a Newspaper or Magazine | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 81, printed p.85 |
+| Article for Publication in a Newspaper or Magazine | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 82, printed p.87 |
+| Reading Comprehension – Article for Publication (news article) | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 90, printed p.100 |
+| Article for Publication in a School Magazine | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 91, printed p.102 |
+| Article for Publication in a Newspaper | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 92, printed p.104 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

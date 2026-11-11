@@ -696,3 +696,34 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | The alphabet as capital + small pairs Aa–Zz with picture words | Palestine, Grade 2 Part 1, printed pp.62–63 |
 
 Palestine's order is its signature: in both Grade 1 parts the full alphabet stands at the END of the book, after a whole part of talking, and the letter shapes are formed inside the units as they come. The sweep's diff (flag F1) records that none of this was stocked before this merge.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 2 Language Arts — Lesson Plans, Term 1* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 2 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Primary 2 Language Arts — Lesson Plans, Term 3* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Recognising letters in our names | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 10, printed p.20 |
+| Letter work: Aa | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 13, printed p.26 |
+| Matching letters (Aa) and words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 15, printed p.30 |
+| Matching letters (Bb) and words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 17, printed p.34 |
+| Letters and words: Bb | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 20, printed p.40 |
+| Matching letters (Cc) and words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 23, printed p.46 |
+| Writing upper and lower case letters | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 43, printed p.86 |
+| Writing words | Sierra Leone — Primary 2 Lesson Plans, Term 1 (teacher evidence), Lesson 59, printed p.118 |
+| Letter: Mm | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 68, printed p.16 |
+| Letter Nn | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 72, printed p.24 |
+| Letter: Pp | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 82, printed p.44 |
+| Reading and writing Qq words | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 92, printed p.64 |
+| Letter: Rr | Sierra Leone — Primary 2 Lesson Plans, Term 2 (teacher evidence), Lesson 97, printed p.74 |
+| Words with Uu | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 127, printed p.14 |
+| Letter: Zz | Sierra Leone — Primary 2 Lesson Plans, Term 3 (teacher evidence), Lesson 147, printed p.54 |
+
+Sierra Leone was already counted in this lesson; the acceptance count does not change.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

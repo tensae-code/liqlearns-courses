@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -140,7 +140,7 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 15 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 16 countries (Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine, Rwanda, Sierra Leone).** Rwanda joins with must and mustn't for duty and rules in Primary 4 and the Primary 6 modal-verbs grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -200,3 +200,25 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 Rwanda is new to this lesson: the countries line and the acceptance count above were updated together. 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/rwanda-placements.md.
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 6 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *SSS 3 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transitional Words Using Modal Verbs | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 61, printed p.2 |
+| Modals: Must, Can | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 62, printed p.4 |
+| Speculation | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 64, printed p.8 |
+| Speculation (Continued) | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 65, printed p.10 |
+| Modal Auxiliary Verbs: Can and Must | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 97, printed p.77 |
+| Modal Auxiliary Verbs: Can and Must (Continued) | Sierra Leone — Primary 6 Lesson Plans, Term 2 (teacher evidence), Lesson 98, printed p.79 |
+| Modal Verbs (will, would, may, might, can, could) | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 55, printed p.19 |
+| Modal Verbs (shall, should, ought, must) | Sierra Leone — SSS 3 Pupils' Handbook, Term 2, Lesson 56, printed p.23 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.

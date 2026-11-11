@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -106,9 +106,9 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 14 countries (Armenia,
+**Acceptance count: taught in 15 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -146,3 +146,32 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Definite and indefinite articles | Palestine, Grade 12, Unit 10, printed p.108 |
+
+## Sierra Leone added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 36 of Sierra Leone's held English books page by page (1,771 teaching items placed; 209 already in the course, 96 stocked under other lessons, 1,466 missing). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md).
+
+**Book 1:** *Primary 4 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Primary 5 Language Arts — Lesson Plans, Term 2* (teacher's lesson-plan book — TEACHER EVIDENCE: each row below is the teaching content the plan specifies, cited as teacher evidence, never as a pupil book) — Sierra Leone, Ministry of Education, Science and Technology (the ministry header the covers carry); no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *JSS 3 Language Arts — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *JSS 3 Language Arts — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, MEST / Ministry of Basic and Senior Secondary Education pupils' handbook, based on the National Curriculum and the WAEC syllabus guidelines; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *SSS 2 English Language — Pupils' Handbook, Term 2* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *SSS 3 English Language — Pupils' Handbook, Term 3* (pupils' handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education; built for the WASSCE; no year, ISBN or publisher is printed in the book. Filed in english/books/sierra-leone.md; re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Articles: A, An | Sierra Leone — Primary 4 Lesson Plans, Term 2 (teacher evidence), Lesson 111, printed p.102 |
+| Verbs: Past Particles | Sierra Leone — Primary 5 Lesson Plans, Term 2 (teacher evidence), Lesson 105, printed p.82 |
+| The Use of Articles | Sierra Leone — JSS 3 Pupils' Handbook, Term 2, Lesson 87, printed p.74 |
+| The Use of ‘Little’, ‘a Little’, ‘Few’, ‘a Few’ and the Articles ‘a’, ‘an’ and ‘the’ | Sierra Leone — JSS 3 Pupils' Handbook, Term 3, Lesson 116, printed p.34 |
+| Determiners (definite and indefinite articles – a, an, the) | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 61, printed p.31 |
+| Reading Comprehension – News Article (economic development) | Sierra Leone — SSS 2 Pupils' Handbook, Term 2, Lesson 88, printed p.103 |
+| Article Review | Sierra Leone — SSS 3 Pupils' Handbook, Term 3, Lesson 132, printed p.95 |
+
+Sierra Leone is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/sierra-leone-placements.md.
