@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Andorra, Bahamas, Cabo Verde
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Andorra, Bahamas, Cabo Verde, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -63,7 +63,7 @@ Every part traces to its book and page.
 | Platonic solids; Platonic solids again; presenting Platonic solids (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 127–129 Platonic solids; Platonic solids again; Presenting Platonic solids, printed pp. 168, 170, 172 |
 | Polyhedra; polyhedra and non-polyhedra; regular and non-regular polyhedra and non-polyhedra (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 114 Polyhedra, printed p. 132; South Africa, Grade 9 Book 2, Ws 115–117 Polyhedra and non-polyhedra; Regular and non-regular polyhedra and non-polyhedra; Polyhedra and non-polyhedra all around us (contents spells "polyhendra" throughout), printed pp. 134, 136, 138 |
 
-**Acceptance count: taught in 13 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Cabo Verde).**
+**Acceptance count: taught in 14 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Cabo Verde, Dominican Republic).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 
@@ -183,3 +183,22 @@ The 2026-11-10 expansion read read Cabo Verde’s whole in-hand Maths set from t
 Cabo Verde is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of the Ministério da Educação de Cabo Verde. Cabo Verde’s class for Maths is **COURSES-CLOSED** — every in-hand Cabo Verde Maths book (all 3) has been read in full and stocked; the link-only ministry Maths manuals for the other grades are not in hand, and Cabo Verde reopens for a grade only if one of those manuals is ever grabbed and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cabo-verde-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 2 items from Book 5 and Book 9.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Euler's theorem checked on prisms (evaluation: verify Euler's formula for a regular hexagonal prism) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 127, 137 |
+| Regular (Platonic) solids: only five exist; their area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 159–161 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

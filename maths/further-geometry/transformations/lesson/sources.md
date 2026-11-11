@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -449,7 +449,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 46 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 47 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -880,3 +880,40 @@ Into this lesson the placements stock 17 items from Book 1, Book 2 and Book 3.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 14 items from Book 2, Book 3, Book 4, Book 5 and Book 9.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Translation, rotation and reflection of figures introduced through construction patterns | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 76–77 |
+| Rotation (through a stated angle about a centre) and translation of figures | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 156–157 |
+| Reflection across a line of symmetry, with a construction procedure for the image of a point | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 158–161 |
+| Geometric transformations and isometries: pre-image and image; movements that keep distance, size and shape | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 126–127 |
+| Translation on the Cartesian plane, moving every point (e.g. 2 right, 3 down) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 128–129 |
+| Rotation about a marked centre through a stated angle (90° clockwise; 180° in evaluation) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 130–131 |
+| Reflection: image points at equal distance from the reflection line on the Cartesian plane | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 132–133 |
+| Geometric transformations: translation, rotation and symmetry (axial and point symmetry) producing the homologous figure | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 84–85 |
+| Homothety (proyección/homotecia) used in the evaluation to construct an enlarged triangle from a centre at distance d = 3 cm | Dominican Republic — *Matemática 6° Primaria* (student book), printed p. 88 |
+| Geometric transformations; isometric transformations identified on the Cartesian plane | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 140–141 |
+| Translations: moving a figure on the plane | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 142–143 |
+| Symmetry: the symmetric image of a figure, worked on coordinate vertices | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 144–145 |
+| Rotation about a fixed point through a determined angle | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 146–147 |
+| Homothety: enlarging and reducing a figure from a centre with a ratio, keeping shape | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 148–149 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

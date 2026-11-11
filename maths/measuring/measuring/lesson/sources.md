@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -1171,7 +1171,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 59 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 60 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica, Dominican Republic).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -2173,3 +2173,65 @@ Into this lesson the placements stock 2 items from Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 33 items from Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 9 and Book 14.
+
+**Book 1:** *Matemática 2° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 71,300,614 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 14:** *Primero Volumen III* (integrated Grade 1 volume, Libro Abierto Serie 1 — only its Matemática blocks are placed) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 40,628,681 bytes, 336 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Non-standard (arbitrary) units of measure: measuring lengths and distances with body parts and objects, and why results differ between people | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 100–101 |
+| Estimating lengths by comparing one object with another | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 110–111 |
+| Standard length units: metre, decimetre and centimetre (1 dm = 10 cm); measuring with ruler and tape measure | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 112–117 |
+| Capacity with arbitrary and customary units: how many glasses fill a litre bottle, litre and gallon (1 gallon = 4 litre-bottles), pint, cup, spoon and teaspoon equivalences | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 124–129 |
+| Mass and weight: gram, pound (1 libra ≈ 500 g) and kilogram (1 kg = 1,000 g); balances and weighing instruments | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 130–133 |
+| Length: the metre as the basic conventional unit; centimetre and decimetre conversions (evaluation: 1 dm = 10 cm, 1 m = 100 cm) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 108–111 |
+| The yard used and converted (2 yards of cloth worked in feet) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 112–113 |
+| Adding and subtracting length measures in mixed units (e.g. a 2 m by 4 dm table worked in decimetres) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 116–117 |
+| Capacity: the cup and the litre (1 litre = 1,000 millilitres; cup–litre equivalence in recipes) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 140–145 |
+| Weight: pounds and ounces (evaluation table converts 8 lb = 48 oz as printed — see the diff's flagged book error), and the kilogram and its approximate equivalence to pounds (taught corrected — the book's table pairs 8 lb with 48 oz; 1 lb = 16 oz, so 8 lb = 128 oz, and 48 oz is 3 lb) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 146–149, 152 |
+| Length units and conversions (1 km = 1,000 m worked); mass units and conversions (kilogram as SI unit) | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 172–175 |
+| Area, volume and capacity units distinguished (volume of a body versus capacity of a container) | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 176–177 |
+| Length measure: English-system units (inch, foot, yard) and their relations | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 140–141 |
+| Metric decimal system conversions, simple and complex forms (1 m 10 cm) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 142–143 |
+| Capacity units and conversions (litres to gallons); volume versus capacity | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 174–175 |
+| Mass and weight units, including the short ton (2,000 lb) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 176–177 |
+| The metre and its multiples and submultiples (1889 Paris conference); rulers graded in cm, mm and dm | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 92–93 |
+| Inch, foot, yard and mile; equivalences inside the English system; fractions of the inch | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 94–95 |
+| Dual-scale rulers (SI and English scales read together) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 96–97 |
+| Converting between SI and English units (1 inch = 2.54 cm, agreed 1959) in trade contexts | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 98–99 |
+| Capacity as the internal volume of a container, described for construction and mining machinery | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 156–157 |
+| Capacity units: the litre and its multiples/submultiples (dal, hl, kl; dl, cl, ml) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 158–159 |
+| The equivalence 1 dm³ = 1 litre, with the litre's 1795 French origin | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 160–161 |
+| Fluid ounce, cup, pint, gallon and quart (1 fl oz ≈ 30 ml when precision is not needed) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 162–163 |
+| Measuring and estimating capacity, aware of measurement error; 1,200 cm³ = 1.2 l worked | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 164–165 |
+| Mass units and conversions by powers of ten (1.8 kg to g; 25 cg to hg); the pound as a historic unit | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 140–141 |
+| Length units and conversions (35 m to mm; 6,000 cm to hm); identifying and unifying units before calculating (ladder problem mixing 5 m with 120 cm) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 146–149 |
+| Length of a segment and its midpoint; distance between two points on a line | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 20, 23–25 |
+| Non-standard (arbitrary) units of length: measuring with the body and with objects, taking measures of things in the surroundings, and choosing what to measure with | Dominican Republic — *Primero Volumen III* (integrated Grade 1 volume), Matemática block, printed pp. 24–30 |
+| Estimating lengths: the measure of the length of Luis's pencil | Dominican Republic — *Primero Volumen III* (integrated Grade 1 volume), Matemática block, printed pp. 66–67 |
+| The centimetre as a standard unit of length: measuring objects and a growth chart in centimetres, and telling a centimetre ruler from one without | Dominican Republic — *Primero Volumen III* (integrated Grade 1 volume), Matemática block, printed pp. 68–73 |
+| Capacity: which container holds more and which holds less; selecting containers by their capacity | Dominican Republic — *Primero Volumen III* (integrated Grade 1 volume), Matemática block, printed pp. 163, 170 |
+| Weight compared: who weighs more, less or the same; building a home balance (báscula o balanza casera) | Dominican Republic — *Primero Volumen III* (integrated Grade 1 volume), Matemática block, printed pp. 164, 168 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 51 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica).**.** Egypt carries the
+**Acceptance count: taught in 52 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1355,3 +1355,29 @@ Into this lesson the placements stock 20 items from Book 1, Book 2, Book 3 and B
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 7 items from Book 6, Book 7 and Book 8.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 8:** *Matemática 3° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,474,831 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Graphs by tabulation: building a table from an equation (payment plan RD$1,250/month for a RD$30,000 laptop) and plotting it | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 132–133 |
+| Relations: a correspondence between elements of two sets; the general term written with the term's position n (e.g. 2n − 1 gives the odd numbers) | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 52–53 |
+| Concept of function: a relation from A to B assigning each element of A exactly one image; domain and codomain | Dominican Republic — *Matemática 3° Secundaria* (student book), printed pp. 172–173 |
+| Domain and range of algebraic functions (denominator non-zero, even-root radicand non-negative) | Dominican Republic — *Matemática 3° Secundaria* (student book), printed pp. 174–175 |
+| Graphing a function in Cartesian coordinates; a vertical line cutting the graph twice shows it is not a function | Dominican Republic — *Matemática 3° Secundaria* (student book), printed pp. 176–177 |
+| Polynomial functions: the identity function, linear functions, and the quadratic function with its vertex | Dominican Republic — *Matemática 3° Secundaria* (student book), printed pp. 178–179 |
+| The absolute-value function and rational functions, with their behaviour near zero | Dominican Republic — *Matemática 3° Secundaria* (student book), printed pp. 180–181 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

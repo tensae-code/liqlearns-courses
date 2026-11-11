@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -183,7 +183,7 @@ Every part traces to its book and page.
 | Parábola: parabola — elements, equations, tangents; link to the quadratic function and maximum/minimum | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 125 |
 | La elipse: ellipse — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 133 |
 | La hipérbola: hyperbola — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 140 |
-**Acceptance count: taught in 29 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 30 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica, Dominican Republic).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -349,3 +349,32 @@ Into this lesson the placements stock 5 items from Book 4.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 14 items from Book 10.
+
+**Book 10:** *Matemática 5° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 60,946,731 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction to the conics: the cone of revolution and the sections it generates | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 28–29 |
+| The circumference as a locus: the set of points at a constant distance from a fixed centre; its elements | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 30–31 |
+| Canonical equation of a circumference with centre (h, k), (x − h)² + (y − k)² = r², derived from the distance formula | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 32–33 |
+| Problems associated with the circumference: finding the equation from given conditions (e.g. tangent to both axes) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 34–35 |
+| Applications of the circumference in context (rivets, sports markings) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 36–37 |
+| The parabola: characteristics and elements (focus, directrix, vertex) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 44–45 |
+| Equation of the parabola with vertex at the origin (0, 0) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 46–47 |
+| The parabola with vertex (h, k); passing between the canonical and general forms | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 48–51 |
+| Applications of the parabola (parabolic arches in Greek and Roman construction) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 52–53 |
+| The ellipse: elements and canonical equation with centre at the origin | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 60–61 |
+| Canonical equation of the ellipse with centre (h, k) | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 62–63 |
+| The hyperbola: elements, asymptotes and canonical equation with centre at the origin | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 64–65 |
+| Canonical equation of the hyperbola with centre (h, k); the equilateral hyperbola | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 66–67 |
+| Applications of the ellipse and the hyperbola | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 68–69 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

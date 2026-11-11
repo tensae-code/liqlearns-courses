@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 59 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 60 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica, Dominican Republic).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -2284,3 +2284,81 @@ Into this lesson the placements stock 8 items from Book 1 and Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 47 items from Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 9 and Book 13.
+
+**Book 1:** *Matemática 2° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 71,300,614 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 13:** *Primero Volumen II* (integrated Grade 1 volume, Libro Abierto Serie 1 — only its Matemática blocks are placed) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 40,395,307 bytes, 304 PDF pp. ISBN 978-9945-28-001-2. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Circles and triangles introduced among flat shapes: closed curved lines (circumference/circle) and three straight sides | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 20–21 |
+| Square and rectangle compared: equal sides versus two longer sides, sides and vertices named | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 50–51 |
+| Geometric solids classified: polyhedra (all faces flat) versus round bodies; cube, rectangular prism and pyramid named | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 80–81 |
+| Parts of polyhedra: faces, vertices, edges and bases counted and tabulated for cube, rectangular prism and pyramids | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 82–83 |
+| The flat figures hidden in the faces of solids identified (a prism is named from its base) | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 84–85 |
+| Round bodies: cylinder, cone and sphere recognised in containers and objects; their parts (base, curved surface, radius, vertex) named | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 96–99 |
+| Geometric solids revisited: three-dimensional bodies, round bodies (sphere, cylinder, cone) versus polyhedra; cube vertices counted | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 36–37 |
+| Polygons in the surroundings (traffic signs); polygons named by number of sides: triangle, quadrilateral, pentagon, hexagon, heptagon | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 62–65 |
+| Triangles: classification by sides (equilateral, isosceles, scalene) and properties — interior angles sum, longest side shorter than the sum of the other two | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 124–127 |
+| Quadrilaterals and parallelograms: opposite sides equal and parallel; the rhombus | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 128–129 |
+| Triangle elements: vertices, sides, angles, diagonals vocabulary; congruent angles marked | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 108–109 |
+| Classification of triangles by sides and by angles (acute, right, obtuse; oblique-angled noted) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 110–111 |
+| Interior angles of a triangle sum to 180°; finding a missing angle (180° − (71° + 65°) = 44°) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 112–113 |
+| Polygons and their elements; classification by number of sides; convex polygons (every triangle is convex); regular versus irregular polygons | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 60–62 |
+| Quadrilaterals classified, denoted ABCD | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 64–65 |
+| Prisms defined: two congruent parallel faces (bases), lateral faces parallelograms; prisms in nature and architecture | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 124–125 |
+| Classification of prisms, right versus oblique | Dominican Republic — *Matemática 6° Primaria* (student book), printed p. 126 |
+| Flat developments (nets) of prisms, including constructing a right regular prism's net with ruler and compass | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 128–131 |
+| Triangles and their classification by sides (an isosceles triangle has exactly two congruent sides, as the book defines it) and by angles | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 108–109 |
+| Notable lines of a triangle: altitude, median and bisector; the perpendicular bisector (mediatriz) of a segment defined first | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 110–111 |
+| Polygons and polyhedra: faces, edges, vertices and the diagonal of a polyhedron named | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 160–161 |
+| Plane geometry and its history; measuring lengths (m), surfaces (m²) and volumes | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 124–125 |
+| Classification of triangles by their angles (acute, right, obtuse) and by their sides | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 140–141 |
+| The triangle inequality; other polygons (square, rectangle, hexagon) built from triangles | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 148–149 |
+| Polygons: perimeter of a regular polygon (p = n·l); semiperimeter and Heron's formula applied | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 156–157 |
+| Geometric solids: nets that fold into solids; surface and volume distinguished (an inflated and a deflated ball) | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 158–159 |
+| Round bodies (cone, cylinder, sphere) and plane sections of a solid | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 160–161 |
+| Solids of revolution: a cone generated by rotating a right triangle; round bodies built from templates | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 162–163 |
+| Origin and evolution of geometry: geometry in the surroundings and its historical development | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 12–13 |
+| Polygons: polygonal lines, convex and concave polygons, naming by number of sides | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 60–61 |
+| Diagonals of a polygon and interior-angle sums | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 62–63 |
+| Regular polygons: apothem, perimeter and area | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 64–65 |
+| Triangles: concept, classification and construction | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 76–77 |
+| Fundamental theorems of triangles, stated and demonstrated | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 78–79 |
+| Properties of the equilateral triangle (all sides and interior angles congruent, 60°) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 98 |
+| Properties of the isosceles triangle (two equal sides and base angles) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 99 |
+| Dihedral angles, trihedral and polyhedral angles; polyhedra introduced | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 156–157 |
+| Polyhedra: concepts, elements and types (regular and irregular) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 158 |
+| Prisms and parallelepipeds: classification (right/oblique, regular/irregular), area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 164–165 |
+| Geometric shapes around us: finding flat figures in the swings and the little house, colouring the geometric figures (rectangles and others) | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 24–27 |
+| Counting geometric figures in a picture; rectangular versus circular signs; matching figures by shape and colour | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 28–30 |
+| Characteristics of geometric figures: counting the parts (sides) of the figures | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed p. 115 |
+| Geometric bodies: cube, cone, cylinder and sphere named and coloured; objects at José's camp and flat shapes linked to the bodies | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 209–212 |
+| Building geometric bodies in pairs from the annex template | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed p. 214; annex p. 295 |
+| Singular bodies: the pyramid and the cone; finding and drawing cones in party pictures | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 251–252 |
+| The rectangular prism observed and described; prisms with different bases coloured and matched | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 253–254 |
+| Naming the shapes and bodies in surrounding objects; telling prisms and pyramids apart | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 255–256 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

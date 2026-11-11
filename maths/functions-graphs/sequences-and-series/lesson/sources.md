@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 53 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica).**.** Kazakhstan carries
+**Acceptance count: taught in 54 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -1148,3 +1148,45 @@ Into this lesson the placements stock 2 items from Book 2 and Book 4.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 15 items from Book 1, Book 2, Book 3, Book 5, Book 7, Book 11 and Book 12.
+
+**Book 1:** *Matemática 2° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 71,300,614 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 11:** *Matemática 6° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 57,961,153 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 12:** *Primero Volumen I* (integrated Grade 1 volume, Libro Abierto Serie 1 — only its Matemática blocks are placed) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 44,672,946 bytes, 320 PDF pp. ISBN 978-9945-28-000-5. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numeric patterns on the number line: skip-counting sequences (e.g. jumps of 2) continued and completed | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 48–49 |
+| Numeric patterns as sequences governed by a stated rule, found and extended in tables | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 60–61 |
+| Number sequences to at least 99,999: counting in steps (e.g. by 3s) forward in ordered tables | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 12–13 |
+| Numeric patterns: finding the rule joining a sequence | Dominican Republic — *Matemática 4° Primaria* (student book), printed p. 19 |
+| Polygonal numbers and patterns; the n-th term (término general) of a succession, e.g. n² written as a sum | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 20–21 |
+| Numeric patterns: a sequence as an ordered collection of terms from a rule; increasing and decreasing sequences; finding missing terms | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 43–45 |
+| Geometric sequences: constant quotient between consecutive terms | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 46–47 |
+| Constructing patterns and combining two patterns (e.g. "multiply by 0.5 and add 3"); sequences generated by perimeters | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 48–49 |
+| Recognising patterns: Pascal's triangle, patterns in architecture and nature | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 50–51 |
+| Sequences as functions with domain the positive integers, f: + → ℝ | Dominican Republic — *Matemática 6° Secundaria* (student book), printed pp. 44–45 |
+| Arithmetic progressions: the common difference (razón aritmética) and the general term | Dominican Republic — *Matemática 6° Secundaria* (student book), printed pp. 46–47 |
+| Geometric progressions: each term from the previous by a constant ratio | Dominican Republic — *Matemática 6° Secundaria* (student book), printed pp. 48–49 |
+| Sequences revisited and represented graphically (recalling Unit 3 of this book) | Dominican Republic — *Matemática 6° Secundaria* (student book), printed pp. 140–141 |
+| Applications of sequences (a Central Bank problem and daily-life uses) | Dominican Republic — *Matemática 6° Secundaria* (student book), printed pp. 148–149 |
+| Numeric patterns and sequences: jumping along the number series; a numeric pattern defined as a sequence that repeats constantly; identifying and continuing patterns | Dominican Republic — *Primero Volumen I* (integrated Grade 1 volume), Matemática block, printed pp. 187–192 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

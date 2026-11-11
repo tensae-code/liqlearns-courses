@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -651,7 +651,7 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Making patterns with circles | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 3 §3.4, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans, methods and answer keys for Pupil's Book 6 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 6, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 54 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 55 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica, Dominican Republic).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -1227,3 +1227,47 @@ Into this lesson the placements stock 9 items from Book 1, Book 2 and Book 3.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 17 items from Book 3, Book 4, Book 5, Book 6, Book 7, Book 9 and Book 10.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 10:** *Matemática 5° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 60,946,731 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Circle and circumference distinguished; circular sector; concentric versus eccentric circumferences | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 114–117 |
+| The circumference and its elements (centre, radius, diameter); length of a semicircle computed with π | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 148–149 |
+| Area of the circle estimated and computed with π = 3.14 | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 164–165 |
+| Inscribed and circumscribed polygons: circumscribing an equilateral triangle about a circumference in stages | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 66–67 |
+| Perimeter of regular and irregular polygons and of the circle: C = πd from C/d = π | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 100–101 |
+| Area of the circle derived after Archimedes: the regular inscribed polygon's area tends to the circle's as sides grow (C = 2πr used) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 114–115 |
+| Inscribed and circumscribed circles of a triangle (evaluation: obtain circumcentre and incentre of a drawn triangle) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 110, 120 |
+| Problem solving with irrationals; π discovered by measuring circumference ÷ diameter on round objects (group activity) | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 20–23 |
+| The circumference: concept, elements (centre, radius, chord, diameter) and construction | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 108 |
+| Relative positions of a line and a circumference; tangent properties (a tangent is perpendicular to the radius at the point of tangency) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 109–110 |
+| Relative positions of two circumferences (including interior/exterior tangency, by distance between centres) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 111 |
+| Length of the circumference and arc length; angles in the circumference (central and inscribed) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 112–113 |
+| Inscribed and circumscribed polygons: vertices on the circumference, sides as chords | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 114–115 |
+| Constructing inscribed and circumscribed polygons (pentagon construction in stages) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 116–117 |
+| Area of the circle | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 124–125 |
+| Area of the circular sector and of the circular segment | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 126–127 |
+| The circumference as a locus: the set of points at a constant distance from a fixed centre; its elements | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 30–31 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

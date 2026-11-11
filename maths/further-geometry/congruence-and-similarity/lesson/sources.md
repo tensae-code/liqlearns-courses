@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -531,7 +531,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 51 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Dominica)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 52 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -1082,3 +1082,39 @@ Into this lesson the placements stock 2 items from Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 13 items from Book 1, Book 2, Book 4, Book 5 and Book 9.
+
+**Book 1:** *Matemática 2° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 71,300,614 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Congruent figures: same size and same shape recognised and matched despite different colour | Dominican Republic — *Matemática 2° Primaria* (student book), printed pp. 64–65 |
+| Congruent figures formed and recognised (same size, same shape) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 66–67 |
+| Congruent triangles and the congruence criteria, beginning with side-side-side (LLL) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 114–115 |
+| Similar triangles and the similarity criteria (proportional corresponding sides, LLL criterion) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 116–117 |
+| Similarity of figures: same shape, any size or position, symbol ~; ratios of corresponding lengths (circumference measures scaled) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 76–77 |
+| Thales' theorem: parallels cutting two secants determine proportional segments; applied to shadows and ladders | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 78–79 |
+| Congruence of figures: same shape and size, symbol ≅; applications in construction and manufacture | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 80–81 |
+| Criteria for triangle congruence, with the tick-mark convention for congruent sides/angles; a congruent-triangle proof idea for Pythagoras | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 82–83 |
+| Similarity theorems in right triangles: the altitude theorem, the leg (cateto) theorem, and hypotenuse × altitude = product of the legs | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 85 |
+| Similarity of plane figures and of triangles: same shape, proportional corresponding sides | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 92–93 |
+| Congruence criteria for triangles, including side-angle-side (LAL) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 94–95 |
+| Congruence of right triangles | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 96–97 |
+| Overlapping triangles: proving congruence where two triangles share a common side | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 100–101 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Australia, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Australia, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -791,7 +791,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 | Review of surface area of shapes | South Sudan, Secondary Mathematics — Student's Book 2, Unit 2, printed p. 19 |
 
-**Acceptance count: taught in 57 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Australia, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 58 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Australia, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -1493,3 +1493,53 @@ Into this lesson the placements stock 2 items from Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 25 items from Book 3, Book 4, Book 5, Book 6, Book 7 and Book 9.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 5:** *Matemática 6° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 86,908,681 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Volume of the cube and of the regular prism | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 164–165 |
+| Area, volume and capacity units distinguished (volume of a body versus capacity of a container) | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 176–177 |
+| Cubic units and volume: volume of a rectangular prism (pool 25 m × 50 m × 2 m) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 172–173 |
+| Flat developments (nets) of prisms, including constructing a right regular prism's net with ruler and compass | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 128–131 |
+| Surface area of a prism: total area formula worked (A_total = 2(a + b)h + 2ab for the example box) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 132–133 |
+| The concept of volume; the cubic metre and its multiples/submultiples; a brick ≈ 0.001 m³ | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 140–141 |
+| Converting cubic units (mm³ to m³ divides by 1,000³); 1 litre = 1,000 cm³ | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 142–145 |
+| Volume of right prisms and of bodies formed by right prisms (V = base area × height; staircase of parallelepipeds) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 146–149 |
+| Volumes of the cone, sphere and cylinder stated in words with π (group activity: cone = one third π r² h; sphere = four thirds π r³) | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 150–151 |
+| Capacity as the internal volume of a container, described for construction and mining machinery | Dominican Republic — *Matemática 6° Primaria* (student book), printed pp. 156–157 |
+| Lateral and total areas of prisms and pyramids (prism: A = A_LT + 2·A_B; pyramid apothem defined) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 162–163 |
+| Volumes of prisms and pyramids (rectangular prism 5 × 3 × 4 = 60 cm³; triangular prism) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 164–165 |
+| Volumes of round bodies applied: the radius of a cone of earth found from its circumference, then its volume | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 164–165 |
+| Regular (Platonic) solids: only five exist; their area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 159–161 |
+| Pyramids: elements, lateral area (perimeter of base × apothem) and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 162–163 |
+| Prisms and parallelepipeds: classification (right/oblique, regular/irregular), area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 164–165 |
+| Cylinder: elements (axis of rotation, bases), area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 172–173 |
+| Sphere and spherical surface: elements, area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 174–175 |
+| Cone: elements, area (base + lateral) and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 178–179 |
+| Applications of round bodies in the surroundings (tanks, containers, sports balls) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 180–181 |
+| Frustum of a pyramid: area and volume worked from the two bases and the height | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 188–189 |
+| Truncated regular prism: the solid formed by cutting a prism's edges; area and volume problems | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 190–191 |
+| Frustum of a cone: area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 192–193 |
+| Truncated cylinder, right and oblique: area and volume | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 194–195 |
+| Truncated solids in diverse areas: uses in architecture and engineering | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 196–197 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

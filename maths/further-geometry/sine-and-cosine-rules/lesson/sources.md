@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Bahamas, Australia, Brazil, Costa Rica, Cuba, Eritrea, Dominica
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Bahamas, Australia, Brazil, Costa Rica, Cuba, Eritrea, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -198,7 +198,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Using the sine of the angle to find the area of the triangle | Jordan, Grade 10 Student Book Term 1, Unit 4, Lesson 4, printed p. 119 |
 | Workbook practice: applications of triangles (T1 U4) | Jordan, Grade 10 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 34 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Colombia, Australia, Brazil, Costa Rica, Cuba, Eritrea, Dominica).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 35 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Colombia, Australia, Brazil, Costa Rica, Cuba, Eritrea, Dominica, Dominican Republic).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -417,3 +417,20 @@ Into this lesson the placements stock 2 items from Book 3.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 2 items from Book 10.
+
+**Book 10:** *Matemática 5° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 60,946,731 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Law of sines: relating the sides of a non-right (oblique) triangle to the sines of its angles | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 194–195 |
+| Law of cosines: relating the sides of an oblique triangle to the cosine of an included angle | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 196–197 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

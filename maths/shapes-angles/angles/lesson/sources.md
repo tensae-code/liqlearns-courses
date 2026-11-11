@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Finland, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -826,7 +826,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 4 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 4, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 60 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 61 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Finland, Dominica, Dominican Republic).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -1538,3 +1538,48 @@ Into this lesson the placements stock 3 items from Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 18 items from Book 2, Book 3, Book 4, Book 6, Book 7, Book 9 and Book 10.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 10:** *Matemática 5° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 60,946,731 bytes, 208 PDF pp. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angles introduced and classified; measuring and drawing angles with the protractor | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 78–81 |
+| Angles formed by two rays at a vertex; classes of angle by measure; measuring with the protractor | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 110–111 |
+| Angles: parts, drawing an angle in degrees; classification by measure (acute, right, obtuse, straight) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 94–95 |
+| Angle measure in the sexagesimal system; the bisector defined and constructed step by step | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 96–97 |
+| Angles by position and by sum: consecutive, vertically opposite, complementary (90°) and supplementary (180°) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 98–99 |
+| Interior angles of a triangle sum to 180°; finding a missing angle (180° − (71° + 65°) = 44°) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 112–113 |
+| Angles and their classification, by measure and by sum: complementary angles defined (sum 90°) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 94–95 |
+| Angles formed by a transversal cutting parallel lines: alternate interior/exterior and corresponding angles | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 98–99 |
+| The bisector of an angle: its points are equidistant from the angle's sides (the bisector as the angle's axis of symmetry) | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 100–101 |
+| The fundamental triangle theorem: the interior angles sum to 180°, with a demonstration; supplementary exterior angles used | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 142–143 |
+| Angles: measure and classification by size | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 28–29 |
+| Types and pairs of angles (adjacent, complementary, supplementary pairs in context) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 30–31 |
+| Congruent angles; the bisector of an angle; vertically opposite angles | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 32–33 |
+| Angular systems and operations: adding and subtracting sexagesimal measures (degrees, minutes, seconds) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 34–35 |
+| Angles formed by parallel lines cut by a transversal: alternate interior and exterior, corresponding | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 48–49 |
+| Congruence relations among the angles formed by parallels and a transversal; finding unknown angle measures | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 50–51 |
+| Interior and exterior angles of a triangle (exterior angles of an isosceles triangle) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 80–81 |
+| Angles for trigonometry: classification and angles in normal (standard) position | Dominican Republic — *Matemática 5° Secundaria* (student book), printed pp. 158–159 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica, Dominican Republic
 
 Every part traces to its book and page.
 
@@ -297,7 +297,7 @@ On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with strai
 | Perpendicular lines | South Sudan, Pupil's Book 4, §3.2, printed p. 60 |
 | Parallel lines | South Sudan, Pupil's Book 4, §3.3, printed p. 61 |
 
-**Acceptance count: taught in 41 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Nicaragua enters at Grade 1 with straight and curved lines and open and closed lines in its NICAMATE 2 student book (Unit 4, Section 2).
+**Acceptance count: taught in 42 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica, Dominican Republic)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Nicaragua enters at Grade 1 with straight and curved lines and open and closed lines in its NICAMATE 2 student book (Unit 4, Section 2).
 
 Vietnam carries the lines strand from Grade 2 (points, segments, straight lines, curves, collinear points) through Grade 4 (perpendicular and parallel lines), Grade 6 (points and lines, rays, segments and midpoints) and Grade 7 (recognising parallel lines, Euclid's postulate, perpendicular and oblique lines). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -767,3 +767,46 @@ Into this lesson the placements stock 2 items from Book 2.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Dominican Republic added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Dominican Republic's whole in-hand Maths set from the PDFs — **14 books, all of them student books (0 teacher guides exist in hand)**: the 11 dedicated *Matemática* books of MINERD's Proyecto Libro Abierto, Serie 1 (*Matemática* 2°–6° Primaria and *Matemática* 1°–6° Secundaria), plus the mathematics content of the 3 integrated *Primero* volumes (Grade 1 has no dedicated *Matemática* book; only the three volumes' Matemática blocks are placed) — 3,184 PDF pages in all — and placed 661 teaching items (614 from the dedicated books, 47 from the Primero volumes). Every book was grabbed fresh by the authenticated GitHub API route, verified byte-exact against its staging `books.json` byte count and cover/title-proved, and the grabbed copy deleted after reading; the recorded Google Drive fallback is login-walled from this host and delivered no book. The expansion map's “16 student” count is wrong as a count of *Matemática* books: the dedicated set is 11, and 16 is reachable only by adding integrated all-subject files that are not *Matemática* books. Printed page = PDF page in every book (verified on the unit dividers and page footers). The placements' counting grain is one item per distinct taught topic — a named section or a coherent teaching block inside a unit. The placements' named exclusions — the apparatus of all 14 books (unit-opening, group-activity, evaluation, self-assessment, bibliography and book-care pages, except the five group activities that teach a topic found nowhere else in their book, which are placed); the *Primero Volumen I* Matemática diagnostic evaluation; the Primero competency pages; the Primero volumes' non-maths sequences (with two maths-adjacent blocks inside them named in the placements and stocked nowhere); the 5 Nivel Inicial integrated books (a scope note, not part of the Maths set); and one record artefact that is not a book (a stray partial-upload `.part` file in the grade-04 push state) — are stocked nowhere. One book error is carried corrected on the row it touches: *Matemática 3° Primaria*'s weight table (evaluation, printed p. 152; the same table family at p. 147) pairs 8 lb with 48 oz — wrong: 1 lb = 16 oz, so 8 lb = 128 oz (48 oz is 3 lb). Minor slips, no action: the contents lists of *Matemática* 2° and 3° Secundaria run one page behind the printed folios — every citation uses the folios. Checked and NOT an error: *Matemática 4° Secundaria*, printed p. 84, prints Pythagoras as a² = b² + c² with a defined as the hypotenuse — correct as printed. In the sections below the books are cited as Books 1–14 in the placements' order. The Dominican Republic COUNTS in a lesson's taught-in figure on the strength of these student-book rows. The Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read in full and placed.
+
+Into this lesson the placements stock 16 items from Book 2, Book 3, Book 4, Book 6, Book 7, Book 9 and Book 13.
+
+**Book 2:** *Matemática 3° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 83,680,456 bytes, 176 PDF pp. Printed page = PDF page.
+
+**Book 3:** *Matemática 4° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 74,141,405 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 4:** *Matemática 5° Primaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 66,948,345 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 6:** *Matemática 1° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 61,690,855 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 7:** *Matemática 2° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 68,711,683 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 9:** *Matemática 4° Secundaria* (student book, Libro Abierto Serie 1) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 45,475,680 bytes, 208 PDF pp. Printed page = PDF page.
+
+**Book 13:** *Primero Volumen II* (integrated Grade 1 volume, Libro Abierto Serie 1 — only its Matemática blocks are placed) — Dominican Republic, MINERD (Ministerio de Educación), Proyecto Libro Abierto; 40,395,307 bytes, 304 PDF pp. ISBN 978-9945-28-001-2. Printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Segment and ray introduced intuitively (a segment as part of a line) | Dominican Republic — *Matemática 3° Primaria* (student book), printed pp. 60–61 |
+| Point, line, segment and ray defined and drawn (a segment named by its two endpoints) | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 108–109 |
+| Parallel and intersecting (secant) lines; constructing parallels, obliques and perpendiculars with the set square | Dominican Republic — *Matemática 4° Primaria* (student book), printed pp. 112–113 |
+| Basic geometry ideas: the undefined primitive concepts point, line and plane (a plane named with Greek or capital letters) | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 92–93 |
+| Types of lines: parallel, perpendicular, oblique and secant lines, with symbols | Dominican Republic — *Matemática 5° Primaria* (student book), printed pp. 100–101 |
+| Geometric elements: point, line and plane as primitive (undefined) concepts; infinity as a symbol, not a number | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 92–93 |
+| Intersecting, parallel and perpendicular lines in a plane; constructing a parallel through a point with ruler and compass, step by step | Dominican Republic — *Matemática 1° Secundaria* (student book), printed pp. 96–97 |
+| Point, line and plane: the undefined basic elements; exactly one line through two points | Dominican Republic — *Matemática 2° Secundaria* (student book), printed pp. 126–127 |
+| Basic geometry concepts: point, line and plane; collinear points; kinds of lines | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 14–15 |
+| Rays (semirrectas) and line segments determined on a line | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 16–17 |
+| Congruent segments; the perpendicular bisector (mediatriz) of a segment, constructed with ruler and compass | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 18–19 |
+| Length of a segment and its midpoint; distance between two points on a line | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 20, 23–25 |
+| Operations with segments: adding and subtracting segment measures | Dominican Republic — *Matemática 4° Secundaria* (student book), printed p. 21 |
+| Constructing parallel and perpendicular lines with ruler and compass | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 44–45 |
+| Postulates on parallels and perpendiculars (two perpendiculars to one line are parallel; exactly one perpendicular through an exterior point) | Dominican Republic — *Matemática 4° Secundaria* (student book), printed pp. 46–47 |
+| Lines: kinds of lines observed, open lines and closed lines traced, coloured and named | Dominican Republic — *Primero Volumen II* (integrated Grade 1 volume), Matemática block, printed pp. 71–74 |
+
+Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.
