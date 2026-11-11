@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -100,7 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 25 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 26 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -440,3 +440,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects in a weekly timetable | Tunisia, Prime English Year 6, Unit 8, printed pp.110–118 |
+| School subjects and describing teachers | Tunisia, Let's Learn English Year 7 Student's Book, Module 5, Section 2, printed pp.150–155 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Joining with and and but
 
-countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea
+countries: Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Barbados, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -214,7 +214,7 @@ the 2026-11-08 re-verification sweep.
 | Demonstrate command and use of compound sentences in speech and writing | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.3, PDF p.52 (curriculum evidence) |
 
 
-**Acceptance count: taught in 33 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea).** Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 34 countries (Bolivia, Ghana, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Albania, India, Egypt, Libya, Fiji, Eritrea, Tunisia).** Libya joins with joining with “and” — “I have a pen and a pencil” (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with conjunctions used to express contrast, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge).
 Ghana opens the compound sentence with AND, seats BUT
 beside it, lists the four coordinators, and widens the
 family in its own order; Bolivia posts the but/however
@@ -434,3 +434,22 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Addition/opposition linkers (too, but, in addition, yet, besides, however) in describing people | Tunisia, Let's Discover More English Year 8 Student's Book, Module 5, printed pp.120–124 |
+| Expressing contrast with while/whereas in the safety-at-home unit | Tunisia, Proceed with English Year 9 Student's Book, Module 1, Lesson 5, printed pp.24–27 |
+| Not only… but also…, in a water/irrigation text | Tunisia, Perform to Learn, Second Year Secondary, Lesson 28, printed pp.152–154 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

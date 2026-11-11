@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine, Libya, Barbados, Cyprus, Fiji, Eritrea
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -346,9 +346,9 @@ verification sweep.
 | Workbook “What an Experience!” — practice of question forms with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 8, WB printed pp.29–40 |
 | “Save the tribes” — question forms in the present tenses; collocations | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 3, printed pp.9–12 |
 | Workbook “Save the tribes” — practice of present-tense question forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 3, WB printed pp.5–19 |
-**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine, Libya, Cyprus, Fiji, Eritrea).** Cyprus joins with its question-word work — 'What are they?' plurals and Year 5's 'Why…?' with 'Because…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What's this? It's a …” and “What can you see?” (Grade 1) and the Wh- question set as an explicit system (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine, Libya, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its question-word work — 'What are they?' plurals and Year 5's 'Why…?' with 'Because…' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What's this? It's a …” and “What can you see?” (Grade 1) and the Wh- question set as an explicit system (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -825,3 +825,25 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Who's this? / What's this? questions | Tunisia, Prime English Year 6, Unit 3, printed pp.46–51 |
+| WH-questions (what/where/when) revision across tenses | Tunisia, Let's Discover More English Year 8 Student's Book, Module 1, printed pp.6–10 |
+| WH-questions as a grammar focus (who/what/when/where/how/why asking about underlined words) | Tunisia, Proceed with English Year 9 Student's Book, Module 1, Lesson 1 (Brush Up Your Grammar), printed p.9 |
+| WH-questions and interrogative forms for personal information (name, age, height, weight, eyes, hair, town, favourite subject/sport, parents' occupations) | Tunisia, Perform through English, First Year Secondary, Lesson 1 'Getting to know each other', printed p.15 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

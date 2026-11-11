@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -319,9 +319,9 @@ verification sweep.
 | Project frame "My favourite animals!" — draw and present favourite animals | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 6, pupil printed p.40 |
 | Matching each animal to its baby by picture (cat, dog, rabbit, mouse, bird families) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 7, pupil printed p.41 |
 | Wild animals against pets — "Wild animal or pet? In the wild. / In my house." — wild set elephant, lion, zebra, monkey, tiger; pet set parrot, fish, hamster, cat, dog, rabbit, koala (Activity Book "Going for CLIL" 5, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 5 key and instructions, Teacher's Book pp.130(T)–131(T) |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea).** Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Tanzania, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its animal sets, from pets and zoo animals in Year 1 to the Bad-Tempered Ladybird's creatures in Year 5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -771,3 +771,22 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals vocabulary (cat, dog, tiger, rabbit, monkey, cow, fish, bird, lion, sheep, bear, giraffe, duck) at the zoo | Tunisia, Prime English Year 6, Unit 12, printed pp.178–181 |
+| Farm animals (cows, goats, rabbits, hens, ducks, turkeys) | Tunisia, Let's Learn English Year 7 Student's Book, Module 3, Section 2, printed pp.83–90 |
+| Pets vocabulary in the pet-story unit | Tunisia, Let's Discover More English Year 8 Student's Book, Module 5, printed pp.134–138 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

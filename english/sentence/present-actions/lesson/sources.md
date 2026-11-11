@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -446,9 +446,9 @@ verification sweep.
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 | Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
 | Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
-**Acceptance count: taught in 42 countries (Egypt, Ghana,
+**Acceptance count: taught in 43 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -1180,3 +1180,23 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily routine in the simple present, first person (get up, wash my face, comb my hair, have breakfast, brush my teeth, go to school) and parts of the day (morning, midday, afternoon, evening, night) with in the… / at… | Tunisia, Prime English Year 6, Unit 11, printed pp.158–165 |
+| Third-person daily routine in the reading 'A day in the life of Sandra Smith' (gets up, washes, has, goes) — the simple present -s form in a text | Tunisia, Prime English Year 6, Unit 11, printed pp.166–168 |
+| Daily routine in the simple present with frequency words usually/always (get up, have breakfast, do homework, go to bed) | Tunisia, Let's Learn English Year 7 Student's Book, Module 1, Section 4, printed pp.20–33 |
+| Present simple for general truths vs simple past for finished actions, in a biography-style text about a soul singer | Tunisia, Perform through English, First Year Secondary, Lesson 3 'Queen of Soul', printed pp.21–23 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

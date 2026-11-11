@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 30 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea).** Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 31 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -501,3 +501,24 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+Book error E3, carried: the Year 7 Student's Book Module 4 text (printed p.120) prints 'Your must eat' for 'You must eat', inside the doctor-visit text this row rests on. Taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Much (quantity) vs many (number) in a keeping-fit and healthy-eating text | Tunisia, Let's Learn English Year 7 Student's Book, Module 4, Section 3, printed pp.119–124 |
+| How much / how many for quantities in service encounters | Tunisia, Let's Discover More English Year 8 Student's Book, Module 4, printed pp.92–95 |
+| Quantifiers a lot of / a few / a little with countable and uncountable nouns, in a gender-equality declaration text | Tunisia, Perform to Learn, Second Year Secondary, Lesson 16, printed pp.90–92 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

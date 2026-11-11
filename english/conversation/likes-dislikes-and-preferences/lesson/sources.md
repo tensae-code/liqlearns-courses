@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — preferences: prefer + noun/-ing, like, enjoy + -ing, 'd rather + base verb; prefer X to Y | Mauritania, Study English, Grade 13, printed pp.32–34 |
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
-**Acceptance count: taught in 8 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 9 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -129,3 +129,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Means of entertainment and likes/dislikes across generations | Tunisia, Proceed with English Year 9 Student's Book, Module 5, Lesson 1, printed pp.100–104 |
+| Expressing want/desire (I want to + verb; I'd like to + verb) and talking about oneself and one's family | Tunisia, Perform to Learn, Second Year Secondary, Lesson 1, printed p.20 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

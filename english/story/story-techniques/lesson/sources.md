@@ -1,6 +1,6 @@
 # Sources — Story techniques
 
-countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea
+countries: Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -91,7 +91,7 @@ verification sweep.
 | Creative writing taught as a part: writing imaginatively — beginnings, Wonderland/Tamil Nadu specimen pieces, developing a piece of creative writing | India — Hornbill (Class 11), Creative Writing, printed p.116 |
 | Story technique as writing work: a humorous piece about interesting characters you know, in the author's rambling style | India — Flamingo (Class 12), Writing after Poets and Pancakes, printed p.66 |
 
-**Acceptance count: taught in 17 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
+**Acceptance count: taught in 18 countries (Ghana, South Sudan, Indonesia, Egypt, Mexico, India, Sierra Leone, Sudan, Venezuela, Yemen, South Africa, Cambodia, Malaysia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 4's model-based short-story writing (a Halloween scary-story frame) (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with Close-Up's story-writing teaching — narrative tenses, creating suspense, and dramatic stories (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 creative-writing unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with writing a story from sentence prompts (Grade 9) and from an introduction and pictures (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). India joins with story technique worked in Classes 9, 11 and 12 — humour removed and restored, creative writing taught, and a humorous piece in the author's style (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's curriculum
 names the time moves and the character channels; South
 Sudan practises suspense, coincidence and flashback as
 named story styles; Indonesia works character by STEAL,
@@ -534,3 +534,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fairy-tale structure (story starters, magical places, happy endings, resolving conflict) and writing a fairy-tale summary | Tunisia, Perform to Learn, Second Year Secondary, Arts 2, printed pp.42–43 |
+| Narrative writing structure (setting the scene, introducing characters, developing the drama), with the extensive-reading story 'Later' by Michael Foster (Arts sessions) | Tunisia, Skills for Life, Year 4 Secondary, Unit 2, printed pp.124–128 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

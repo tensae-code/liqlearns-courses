@@ -1,6 +1,6 @@
 # Sources — Modal perfects
 
-countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea
+countries: Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 Term 1 (Student's
@@ -60,7 +60,7 @@ reproduced.
 | “Tragedies!” — might have, could have, should have (past modals) | Greece, Think Teen! Grade 9 Student's Book, Unit 10, Lesson 2, printed p.113 |
 | Workbook Unit 10 (Natural phenomena), lessons 1–3 — practice of past modals with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 10, WB printed pp.108–117 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
+**Acceptance count: taught in 14 countries (Bolivia, Egypt, Malaysia, Nepal, Venezuela, Greece, Palestine, Iraq, Armenia, Kazakhstan, Jordan, Libya, Eritrea, Tunisia).** Libya joins with deductions about the past — must have / can't have / might have + participle (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners modal-verbs lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prints the
 past ladder inside the same numbered box as the
 present one, and adds blame and regret to it. Nepal's
 criticism forms rest on teacher's-guide evidence and
@@ -169,3 +169,23 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Activate And Perform — Third Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence. The records title this book 'Perform through English — Third Year'; its own cover reads 'Activate And Perform' (flag F1, record-side). Placements for this book are stated at module level from the book's own Book Map (pp.4–6) plus its Grammar Summary, as the placements declare. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Should + perfect infinitive for past judgement, in a working-mother text (Patricia and her son Donovan) | Tunisia, Perform to Learn, Second Year Secondary, Lesson 20, printed pp.112–114 |
+| Should + perfect infinitive in the charity module (with present perfect vs simple past, the emphatic form, need, compound adjectives) | Tunisia, Activate And Perform, Third Year Secondary, Module 2 (Book Map, printed p.4) |
+| Must + perfect infinitive in Module 6 'Nature: any future without it?' (ecology and natural disasters; with will vs going to, past tenses, word formation) — stated at module level from the Book Map | Tunisia, Activate And Perform, Third Year Secondary, Module 6 (Book Map, printed p.6) |
+| Could have / might have for past possibilities that did not happen, in ecodriving and environment texts | Tunisia, Skills for Life, Year 4 Secondary, Unit 4, printed pp.211–217 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

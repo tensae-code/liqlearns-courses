@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia
 
 Every part traces to its book and page.
 
@@ -47,8 +47,8 @@ verification sweep.
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
 | Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 10 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -91,3 +91,19 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) | Tunisia, Let's Discover More English Year 8 Student's Book, Module 5, printed p.127 |
+| Reflexive pronouns (myself, ourselves, yourself…) in the house-building text | Tunisia, Perform through English, First Year Secondary, Lesson 20, printed pp.75–78 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

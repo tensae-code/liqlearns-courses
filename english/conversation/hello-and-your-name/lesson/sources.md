@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -210,7 +210,7 @@ rendered page the same day).
 | The Welcome! greeting song that opens the course — "Hello and welcome! Welcome to you! Bye-bye!" — with the course characters (Extra, Tom, Wendy) presented (the pupil page prints only "Sing"; the song's words are the Teacher's Book audioscript's) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Welcome!, printed p.3 |
 | A British pupil introduces herself: "I'm Emma. I'm 7 years old. This is my school, St Lawrence's." (Welcome to Britain culture spot) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 5, pupil printed p.25 |
 | The farewell song "Bye-bye friends, Happy Holidays! … See you all next year!" (the Bye-bye! lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Bye-bye!, pupil printed p.74 |
-**Acceptance count: taught in 39 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji, Eritrea).** Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its greeting and introduction frames, from 'What's your name?' to 'Where do you live?' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -920,3 +920,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings and self-introduction (Hello/Hi, I'm…, Nice/Pleased to meet you) | Tunisia, Prime English Year 6, Unit 1, printed pp.12–16 |
+| Greetings, introducing self and others (subject pronouns; this/these) | Tunisia, Let's Learn English Year 7 Student's Book, Module 1, printed pp.5–15 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

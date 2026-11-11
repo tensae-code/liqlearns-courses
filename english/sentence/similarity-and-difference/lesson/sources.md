@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 6 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 7 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -89,3 +89,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparing educational systems (Tunisia, Australia incl. School of the Air, England) | Tunisia, Skills for Life, Year 4 Secondary, Unit 2, printed pp.103–106 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

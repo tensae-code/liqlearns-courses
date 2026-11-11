@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -356,8 +356,8 @@ cited once.
 | Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
 | Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
 | Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
-**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea).** Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 43 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
 North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
@@ -763,3 +763,28 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food and market vocabulary (fish, meat, chicken, apples, oranges, bananas, pears, cheese, butter, bread, milk) | Tunisia, Prime English Year 6, Unit 13, printed pp.189–193 |
+| Eating out: menu words (soup, salad, spaghetti, couscous, fruit, chocolate cake, ice-cream, juice) | Tunisia, Prime English Year 6, Unit 13, printed pp.194–198 |
+| Food and meals: dishes and food words (fish and chips, fruit, vegetables, couscous, omelette, soup, rice, pizza, briks) | Tunisia, Let's Learn English Year 7 Student's Book, Module 2, Section 4, printed pp.61–69 |
+| Farm produce: fruit and vegetables (carrots, apricots, almonds, lettuce, onion, apples, green pepper, figs, tomatoes, potatoes, watermelon, cucumber, grapes, dates) | Tunisia, Let's Learn English Year 7 Student's Book, Module 3, Section 2, printed pp.83–90 |
+| Healthy eating and the food pyramid, with an eating-habits questionnaire | Tunisia, Proceed with English Year 9 Student's Book, Module 3, Lesson 5, printed pp.75–78 |
+| Eating out: restaurant vocabulary (waiter, dessert, starter, diet, vegetarian, dressing, barbecue) | Tunisia, Proceed with English Year 9 Student's Book, Module 5, Lesson 2, printed pp.105–109 |
+| Fruit/vegetable characteristics and health benefits (a 'color of nutrition' text) | Tunisia, Perform to Learn, Second Year Secondary, Arts 4, printed pp.69–70 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

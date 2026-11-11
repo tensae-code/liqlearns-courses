@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -413,9 +413,9 @@ verification sweep.
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 | Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
-**Acceptance count: taught in 40 countries (Bolivia, Ghana,
+**Acceptance count: taught in 41 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 6's past simple — regular verbs, time adverbials, and the irregular set ate, slept, went… (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -1012,3 +1012,25 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+Book error E3, carried: the Year 7 Student's Book Module 4 text (printed p.120) prints 'Your must eat' for 'You must eat', inside the doctor-visit text this row rests on. Taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past of be (was/were, wasn't/weren't) for talking about yesterday | Tunisia, Let's Learn English Year 7 Student's Book, Module 4, Section 2, printed p.116 |
+| The simple past introduced through a doctor-visit text (got up, examined, didn't go), with past verb picking-out | Tunisia, Let's Learn English Year 7 Student's Book, Module 4, Section 3, printed pp.119–124 |
+| The simple past as a named tense (completed actions; yesterday/last year/ago; regular verb + -ed), in Nancy's first-day story | Tunisia, Proceed with English Year 9 Student's Book, Module 2, Lesson 3, printed pp.40–43 |
+| Narrating past events with irregular verbs, in a success text | Tunisia, Perform through English, First Year Secondary, Lesson 2, printed pp.18–20 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

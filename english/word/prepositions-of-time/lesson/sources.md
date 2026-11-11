@@ -1,6 +1,6 @@
 # Sources — Prepositions of Time
 
-countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea
+countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Prepositions inside travel and time questions — at / to / from / in / on / by | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.57 |
 | Prepositions of time — on + day/date, in + period | Nicaragua, Grade 9 Módulo Autoformativo, Unit 5B, PDF pp.137–139 |
 
-**Acceptance count: taught in 10 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the at/on/in time system taught in four places — two student books and two compendium charts — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -147,3 +147,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking when things happen with on + day / at + time ('When is the film? — On Wednesday / At 7 o'clock') | Tunisia, Prime English Year 6, Unit 8, printed pp.119–122 |
+| Prepositions of time in/at/on (in 2007/the morning, on Monday, at night/the weekend) | Tunisia, Let's Discover More English Year 8 Student's Book, Module 4, printed p.108 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

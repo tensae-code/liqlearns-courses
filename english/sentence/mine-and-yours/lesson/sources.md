@@ -1,6 +1,6 @@
 # Sources — Mine and yours
 
-countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea
+countries: Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -205,7 +205,7 @@ re-verification sweep.
 | Possessive pronouns — mine, yours, his, hers, ours, yours, theirs, standing alone | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 1, compendium PDF p. 19 |
 | Possessive adjectives with has/have — "They have got long tails and horns" | Indonesia, English for Nusantara Grade 9, Chapter 1, printed p.42 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The possessive case ('s / s') named in the guide's Unit Ten content list for identifying people (teacher evidence) | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed p.30 |
-**Acceptance count: taught in 37 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 38 countries (Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Nicaragua, South Sudan, Libya, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its possession line — 'This is my…', 'I've got', has got, possessive 's, and the full possessive pronoun set of Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “my” with body parts (Grade 1), personal possessions and whose-questions (Grade 6), and the Grade 7 possession system — have got, possessive 's and the possessive adjectives and pronouns (stocked 2026-11-11 by the re-verification sweep merge).
 Mongolia's "That's Mine" unit carries the whole lesson —
 the 's box, the whose matching, the three-rung box, the
 game; Egypt's youngest books hold the partner forms from
@@ -662,3 +662,26 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+Book error E2, carried: the Year 7 Module 3 Section 4 folios in part file P03 restart in the low 90s, overlapping the contents' ranges for the module's earlier sections; the cite follows the folios printed on the pages themselves.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Have got for family and possession (How many brothers/sisters have you got?) | Tunisia, Let's Learn English Year 7 Student's Book, Module 1, Section 2, printed pp.8–19 |
+| Possessive adjectives my/your/his/her/our/their (Module 2 review) | Tunisia, Let's Learn English Year 7 Student's Book, Module 2 review, printed pp.46, 64–74 |
+| Noun + 's possession in the birthday-party unit | Tunisia, Let's Learn English Year 7 Student's Book, Module 3, Section 4, printed pp.91–97 |
+| The genitive (possessive 's: Mark's) in Ken's school story | Tunisia, Proceed with English Year 9 Student's Book, Module 2, Lesson 1, printed pp.30–33 |
+| Possessive adjectives in family texts | Tunisia, Perform through English, First Year Secondary, Lessons 4–5, printed pp.24–29 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

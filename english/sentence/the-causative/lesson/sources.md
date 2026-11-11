@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia
 
 Every part traces to its book and page.
 
@@ -64,7 +64,7 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 15 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
+**Acceptance count: taught in 16 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -203,3 +203,19 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Causative: have/get something done ("have your hair cut", "have it fixed") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 7, printed p.82 |
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Activate And Perform — Third Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence. The records title this book 'Perform through English — Third Year'; its own cover reads 'Activate And Perform' (flag F1, record-side). Placements for this book are stated at module level from the book's own Book Map (pp.4–6) plus its Grammar Summary, as the placements declare. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Causative verbs (make someone do = obligation; let someone do = permission; have someone do = request) in orphan texts | Tunisia, Perform to Learn, Second Year Secondary, Lesson 11, printed pp.66–68 |
+| Want someone to do something; make/let/have someone do something (Module 1) — stated at module level from the Book Map | Tunisia, Activate And Perform, Third Year Secondary, Module 1 (Book Map, printed p.4) |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

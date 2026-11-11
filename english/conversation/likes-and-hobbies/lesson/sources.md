@@ -1,6 +1,6 @@
 # Sources — Likes and Hobbies
 
-countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea
+countries: Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -24,7 +24,7 @@ Every part traces to its book and page.
 | Leisure activities, ordinary and unusual (cosplaying, beekeeping, duct-tape designing) | Mongolia, English XII, Unit 1, printed p.10 |
 | School clubs (photography, anime, movie, chess, origami clubs) | Mongolia, English XII, Unit 1, printed pp.13–15 |
 
-**Acceptance count: taught in 10 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea).** Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 11 countries (Indonesia, Mongolia, Palestine, Yemen, Nepal, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with its strong likes — 'I love / I hate + object' and 'love/like/hate + -ing' (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 7 favourites interview (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found likes, favourites and hobbies taught in three of them with no lesson of their own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' likes teaching joins as their sweep merges land. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
 
@@ -159,3 +159,22 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Likes and dislikes with like + noun/-ing and Do you like…? Yes, I do / No, I don't (hobbies: reading stories, painting, cartoons, computer games, music) | Tunisia, Prime English Year 6, Unit 12, printed pp.174–177 |
+| Expressing likes with like / enjoy / love + noun or -ing and 'What is your favourite pastime?' (hobbies: cycling, dancing, reading, videogames, football, watching cartoons, listening to music, swimming) | Tunisia, Let's Learn English Year 7 Student's Book, Module 1, Section 3, printed pp.13–27 |
+| Stars' pastimes: a Beyoncé interview, showing interest (I'd like to know more about…; It sounds interesting; I'm interested in) and indifference (I don't mind…; I don't care…) | Tunisia, Proceed with English Year 9 Student's Book, Module 5, Lesson 5, printed pp.120–123 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

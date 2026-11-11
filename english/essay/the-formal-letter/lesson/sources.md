@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -59,8 +59,8 @@ verification sweep.
 | The formal letter in the Young Boy's Adventure unit | Pakistan, *English 7*, Unit 10 (contents) |
 | Formal letters set against informal letters, worked on the survey report's letter — addressed to the Managing Director, PCTB, though its rubric names the Director of Education (the book's own mismatch, noted) | Pakistan, *English 8*, printed p.122 |
 
-**Acceptance count: taught in 16 countries (Greece,
-Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
+**Acceptance count: taught in 17 countries (Greece,
+Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Fiji, Eritrea, Tunisia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with Mr Petronski's letter rewritten as a proper formal letter in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Greece states the anatomy as a
 reference before its course begins; Sudan opens its final
 book with official/business letters and later sets formal
 against informal in one writing lesson; Laos diagrams the
@@ -327,3 +327,17 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Business letters: the layout and language of enquiry and reply letters (a French importer writes to a British exporter) | Tunisia, Perform to Learn, Second Year Secondary, Economics 3, printed pp.58–59 |
+| A letter to a newspaper editor about part-time jobs (students' part-time jobs) | Tunisia, Perform to Learn, Second Year Secondary, Arts 8, printed pp.121–122 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

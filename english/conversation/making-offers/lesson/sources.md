@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Cyprus
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Cyprus, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -67,8 +67,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 18 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Cyprus).** Cyprus joins with Year 4's offers — 'Would you like…? Yes, please. / No, thank you.' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with offers and requests at table (Grade 2) and polite offers — Shall I…? Would you like me to…? (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
+**Acceptance count: taught in 19 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya, Uzbekistan, Cyprus, Tunisia).** Cyprus joins with Year 4's offers — 'Would you like…? Yes, please. / No, thank you.' (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with offers and requests at table (Grade 2) and polite offers — Shall I…? Would you like me to…? (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -282,3 +282,22 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Restaurant dialogue with would like ('What would you like to eat/drink?') | Tunisia, Prime English Year 6, Unit 13, printed pp.194–198 |
+| Do you like…? and Would you like chicken or lamb? — I would like… | Tunisia, Let's Learn English Year 7 Student's Book, Module 2, Section 4, printed pp.61–69 |
+| Volunteering kids: the Kids' F.A.C.E. environmental club text and offering help (Can I help you? What can I do for you? Do you need any help?) | Tunisia, Proceed with English Year 9 Student's Book, Module 6, Lesson 2, printed pp.129–132 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

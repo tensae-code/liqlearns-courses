@@ -1,6 +1,6 @@
 # Sources — Double comparatives
 
-countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia
+countries: Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | USE ONLY — the shape in dialogue, never taught: "The more you read, the faster you'll be" (Unit 1); "the more I get to know Julie, the more …" (Unit 11) | China, Grade 9, Unit 1, pp.1–8; Unit 11 (as filed in english/books/china.md) |
 | Less / least, and double comparatives (more and more; the more…, the more…) | Mongolia, English XII, Unit 10, printed pp.182–183 |
 
-**Acceptance count: taught in 6 countries (Greece, Vietnam, China, Mongolia, Yemen, Ethiopia).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 10 double comparative (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Greece, Vietnam, China, Mongolia, Yemen, Ethiopia, Tunisia).** Yemen joins with repeating comparatives and “the…the…” comparatives in its Grade 12 reviews (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its Grade 10 double comparative (stocked 2026-11-11 by the re-verification sweep merge).
 
 China is counted as a use witness only: its Grade 9 book carries the locked shape inside dialogues and teaches no rule for it — the filing shows use, and this lesson words China as use only, exactly as filed. Pakistan is NOT counted: its Grade 12 "very better" is an error-to-correct item, not a teaching, and it appears in this lesson only as the corrected error.
 
@@ -52,3 +52,19 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | The double comparative "the more…, the more…", inside the degrees-of-comparison unit | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 1, printed p.18 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Double comparatives for gradual change (taller and taller, hotter and hotter, faster and faster) (Grammar Focus) | Tunisia, Let's Discover More English Year 8 Student's Book, Grammar Focus appendix, printed p.150 |
+| Getting + comparative for changing trends ('The capital is getting more and more populated') | Tunisia, Perform to Learn, Second Year Secondary, Lesson 26, printed pp.142–144 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

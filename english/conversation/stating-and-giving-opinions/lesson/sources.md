@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea
+countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -36,7 +36,7 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 9 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 10 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
 the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -179,3 +179,26 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+**Book 4:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Talking about school likes/dislikes and giving opinions about school ('I hate Maths! It's too difficult; English's my favourite') | Tunisia, Let's Discover More English Year 8 Student's Book, Module 2, printed pp.48–51 |
+| Asking for and expressing opinions (I think so; I'm not sure…) when arranging to meet | Tunisia, Let's Discover More English Year 8 Student's Book, Module 3, printed pp.61–64 |
+| Clubs, associations and charities: charity texts and expressing opinion with I think that / I believe that (+ verb-ing/noun) | Tunisia, Proceed with English Year 9 Student's Book, Module 6, Lesson 4, printed pp.136–140 |
+| The book's targeted functions appendix as a set (identifying; expressing/finding out intellectual attitudes — agreement, possibility, certainty; permission; satisfaction; moral attitudes) | Tunisia, Perform through English, First Year Secondary, Targeted functions appendix, printed pp.125–131 |
+| Pushy parents: parents' pressure over university choices, an opinion text | Tunisia, Perform to Learn, Second Year Secondary, Arts 7, printed pp.108–110 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

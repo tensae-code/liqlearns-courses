@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 16 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 17 countries (Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its place words, from Year 1's in/on to Year 5's behind, in front of, near, far from (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “Where's the …? It's in/on …” (Grade 1), under / next to / between (Grade 2) and behind / in front of (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with prepositions work in Grades 4, 7 and 9 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -283,3 +283,21 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom objects and prepositions of place in/on/under ('Where's the computer? — It's on the desk / under the desk / in the bag') | Tunisia, Prime English Year 6, Unit 5, printed pp.71–74 |
+| Position words on the left/right, between, next to, for town places | Tunisia, Prime English Year 6, Unit 13, printed pp.184–188 |
+| Locating things in a house (near, on the right/left, in the middle, next to, on, in) | Tunisia, Let's Learn English Year 7 Student's Book, Module 3, Section 1, printed pp.75–82 |
+| Prepositions of place in/on/near/behind/in front of/between in classroom instructions | Tunisia, Let's Learn English Year 7 Student's Book, Module 5, Section 1, printed pp.146–147 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

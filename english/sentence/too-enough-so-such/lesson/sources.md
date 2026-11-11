@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 15 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea).** Cyprus joins with its enough work — adjective + enough (big enough, strong enough) and too + adjective in story comprehension (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 16 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus, Eritrea, Tunisia).** Cyprus joins with its enough work — adjective + enough (big enough, strong enough) and too + adjective in story comprehension (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -182,3 +182,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Too + adjective + to ('They are too poor to send their children to school'); unless/if sentence transformation, in an education-for-all unit | Tunisia, Skills for Life, Year 4 Secondary, Unit 2, printed pp.88–96 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

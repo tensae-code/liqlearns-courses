@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus (Classes
@@ -103,7 +103,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 24 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 25 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Kazakhstan, Libya, Ethiopia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with its poem work — a list poem about yourself, a poem about a friend, and the peace/war pattern poems (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with limericks — reading and writing five-line humorous poems (Grade 9) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -535,3 +535,24 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The elephant poem (a poem in which an elephant asks why creatures fear Man) | Tunisia, Proceed with English Year 9 Student's Book, Module 3, Lesson 4, printed pp.70–74 |
+| A shape poem about students in the intelligence lesson | Tunisia, Perform through English, First Year Secondary, Lesson 8, printed pp.37–40 |
+| The poem 'Me and R'kid', about two brothers, one recovering from illness/addiction through rehabilitation | Tunisia, Perform through English, First Year Secondary, Lesson 26, printed pp.95–97 |
+| Poem study: Wordsworth's 'The Daffodils' and Shakespeare's Sonnet 18 with paraphrase (Arts) | Tunisia, Skills for Life, Year 4 Secondary, Unit 3, printed pp.174–184 |
+| Kipling's poem 'If…' and attitudes (self-confidence, keeping your head) | Tunisia, Skills for Life, Year 4 Secondary, Unit 4, printed pp.202–204 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Expressing Purpose
 
-countries: Mauritania, Yemen, Kuwait, Eritrea
+countries: Mauritania, Yemen, Kuwait, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — in order to / so as to + base verb | Mauritania, Study English, Grade 9, printed pp.53–56 |
 | Sub lesson 3 — so that + a whole clause | Mauritania, Study English, Grade 9, printed pp.53–56; Grade 10, printed pp.44–45 |
 
-**Acceptance count: taught in 4 countries (Mauritania, Yemen, Kuwait, Eritrea).** Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 5 countries (Mauritania, Yemen, Kuwait, Eritrea, Tunisia).** Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Yemen added 2026-11-11 (re-verification sweep merge)
 
@@ -53,3 +53,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| To + verb for purpose ('They went into the fields to pick up mushrooms; in order to…') in a diplomat-career text | Tunisia, Perform to Learn, Second Year Secondary, Lesson 21, printed pp.115–117 |
+| So that (purpose) vs so…that (result), in brain-drain migration texts | Tunisia, Skills for Life, Year 4 Secondary, Unit 3, printed pp.161–167 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 21 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus).** Cyprus joins with its 'Who's he/she?' identity questions in Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 22 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia).** Cyprus joins with its 'Who's he/she?' identity questions in Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -335,3 +335,16 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing family members with his/her name | Tunisia, Prime English Year 6, Unit 3, printed pp.42–48 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

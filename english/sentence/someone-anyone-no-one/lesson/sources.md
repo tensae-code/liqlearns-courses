@@ -1,6 +1,6 @@
 # Sources — Someone, anyone, no one
 
-countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea
+countries: Albania, Bolivia, Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -48,8 +48,8 @@ lesson is reproduced.
 | Indefinite pronouns in full — the some-/any-/no-/every- × -body/-one/-thing/-where grid; they take a singular verb | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 47 |
 | Indefinite pronouns grid — some/any/no/every × body/one/thing/where, in the compendium's presentation | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 6, compendium PDF p. 118 |
 
-**Acceptance count: taught in 10 countries (Albania, Bolivia,
-Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 11 countries (Albania, Bolivia,
+Cambodia, Mongolia, South Africa, Sierra Leone, Yemen, Kazakhstan, Afghanistan, Eritrea, Tunisia).** Yemen joins with its Grade 9 somebody/someone/somewhere/something series (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the grid's place row, the -where words,
 inside its travel chapter. Bolivia boxes the
 some/any choice for people outright, with its
@@ -125,3 +125,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Some/any in a pop-music-industry text (the decline of the single) | Tunisia, Perform to Learn, Second Year Secondary, Lesson 24, printed pp.129–131 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

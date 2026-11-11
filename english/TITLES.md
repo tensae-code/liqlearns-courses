@@ -102,7 +102,10 @@ its own subtitle folder with its own lesson + questions):
   the Mongolia re-verification sweep merge — **Unit 5,
   Conversation**) ·
   giving-warnings (added 2026-11-11 by the Eritrea expansion
-  merge — **Unit 5, Conversation**)
+  merge — **Unit 5, Conversation**) ·
+  phone-numbers-and-personal-details ·
+  friendships-and-relationships (added 2026-11-11 by the
+  Tunisia expansion merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -200,7 +203,12 @@ its own subtitle folder with its own lesson + questions):
   expansion merge — **Unit 7, Words for the World**) ·
   safety-rules · the-five-senses (added 2026-11-11 by
   the Eritrea expansion merge — **Unit 7, Words for
-  the World**)
+  the World**) ·
+  volunteering-and-charity-work · disability-and-human-rights ·
+  social-problems · leaving-school-and-illiteracy ·
+  business-and-finance-words · rights-freedom-and-peace ·
+  libraries-and-reading (added 2026-11-11 by the Tunisia
+  expansion merge — **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -219,6 +227,8 @@ its own subtitle folder with its own lesson + questions):
   Sentence**) ·
   inversion (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 18, Deeper Sentences**) ·
+  the-subjunctive (added 2026-11-11 by the Tunisia
+  expansion merge — **Unit 18, Deeper Sentences**) ·
   contractions-and-possessive-forms (added 2026-11-11
   by the Palestine re-verification sweep merge —
   **Unit 10, Building a Sentence**) ·

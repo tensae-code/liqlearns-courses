@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados, Cyprus, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -63,8 +63,8 @@ apologising unit, exactly as filed.
 | Reading I: "Why 'I'm Sorry' Doesn't Always Translate" — apology across cultures; Reading II: a printed company apology letter ("We are sorry and embarrassed", printed p.60); Speaking: apologising and responding to apologies (clues: eating chocolates, spilling a drink, stepping on a toe); Writing II: an apology letter/email | Nepal, ENGLISH Grade 9, Unit 5 "Ethics, Norms and Values", printed pp.52–64 (readings open p.52) |
 | "Apologising and responding to an apology" — a whole unit of seven lessons of set phrases (teacher's-guide evidence; DRAFT guide, as filed) | Nepal, Teachers' Guide English Grade 9, Unit 9, printed pp.68–74 |
 
-**Acceptance count: taught in 13 countries (Malaysia,
-Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
+**Acceptance count: taught in 14 countries (Malaysia,
+Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 3's apologising 'I'm sorry!' beside its third-person likes (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with apologising — “Oh, I'm sorry” — in its Grade 7 cartoon story (a sub-point the sweep named inside a stocked story item) (stocked 2026-11-11 by the re-verification sweep merge). Syria gives apologies a full Grade 5 unit
 — strengths of sorry, the "I'm afraid I…" completion, the
 three reassuring replies, role-cards and letters — and
 recycles "I'm really sorry" in Grade 6. Malaysia teaches
@@ -260,3 +260,25 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Perform through English — First Year Secondary Education, Pupil's Book* (pupil's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Pupil's-book evidence; printed page ≈ PDF page. The library record files this secondary book under a grade-07 folder (flag F3, record-side, reported in the CURRICULUM merge paragraph). Read in the 2026-11-10 expansion read.
+
+**Book 4:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Apologising and forgiving (I'm sorry — That's all right) in a souvenir-shopping dialogue | Tunisia, Let's Learn English Year 7 Student's Book, Module 5, Section 4, printed pp.160–168 |
+| Apologising/regret language (I'm sorry that…; I regret…) in the films unit | Tunisia, Proceed with English Year 9 Student's Book, Module 5, Lesson 4, printed pp.116–119 |
+| Apologising and forgiveness in the targeted functions appendix (moral attitudes) | Tunisia, Perform through English, First Year Secondary, Targeted functions appendix, printed pp.125–131 |
+| Violence in films and cartoons: apologising and avoiding conflict (compromise, conflicts, emotions, if all else fails) | Tunisia, Perform to Learn, Second Year Secondary, Lesson 9, printed pp.60–62 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

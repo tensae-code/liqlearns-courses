@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -385,9 +385,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 40 countries (Egypt, India,
+**Acceptance count: taught in 41 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia).** Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -856,3 +856,17 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Counting and cardinal numbers 1–12, with number-word ordering and bingo practice | Tunisia, Prime English Year 6, Unit 2, printed pp.28–31 |
+| Numbers 20–100 by tens and compound numbers (twenty-one … forty-five) | Tunisia, Prime English Year 6, Unit 7, printed pp.102–105 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

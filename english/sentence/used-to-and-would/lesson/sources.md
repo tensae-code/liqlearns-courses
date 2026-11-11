@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia
 
 Every part traces to its book and page.
 
@@ -119,7 +119,7 @@ differ only in cover wording and colophon; cited once.
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
 | One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 22 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus).** Cyprus joins with a comprehension-list mention of 'used to' in Year 6 Unit 2 — a receptive mention only, no teaching sequence (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 23 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua, Palestine, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Jordan, Kuwait, Cyprus, Tunisia).** Cyprus joins with a comprehension-list mention of 'used to' in Year 6 Unit 2 — a receptive mention only, no teaching sequence (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with “used to be…” inside its Grade 11 for-and-against debate (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -347,3 +347,20 @@ The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 4
 
 Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Used to for past habits/states, in a text about a disabled musician (Emma Hutchinson) | Tunisia, Perform to Learn, Second Year Secondary, Lesson 22, printed pp.118–120 |
+| Used to + infinitive and would for past habits, in a holidaying unit (space tourism; package tours; at the travel agency) | Tunisia, Skills for Life, Year 4 Secondary, Unit 1, printed pp.37–73 |
+| Be/get used to doing something — Grammar Reference | Tunisia, Skills for Life, Year 4 Secondary, Grammar Reference, printed p.264 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

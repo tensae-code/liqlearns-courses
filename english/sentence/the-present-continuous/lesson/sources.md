@@ -1,6 +1,6 @@
 # Sources — The Present Continuous
 
-countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea
+countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ covers the 6th Year book only).
 | All four sub lessons — the present continuous taught across the book's doing chapters: "What are you doing?" with am/is/are + verb-ing over chores, play and classroom actions | Indonesia, English for Nusantara Kids Grade 3, printed pp.59–88 |
 | The present continuous for actions happening now (be + verb-ing; the spellings taking/cutting/beginning) | Mauritania, Study English, Grade 7, printed pp.61–63 |
 
-**Acceptance count: taught in 7 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
+**Acceptance count: taught in 8 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
 Mauritania joins with its Grade 7 book's present continuous
 for actions happening now (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -116,3 +116,21 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous for what someone is wearing ('What are you wearing? — I'm wearing…') and for actions in progress (singing, playing, colouring, listening) | Tunisia, Prime English Year 6, Unit 6, printed pp.89–93 |
+| Present continuous for actions happening now ('I'm reading a book; She is playing tennis; They are watching TV') with What are you doing? | Tunisia, Prime English Year 6, Unit 7, printed pp.106–108 |
+| Present continuous for what family members are doing now, in a reading text and an SMS message ('I'm watching cartoons. What are you doing?') | Tunisia, Prime English Year 6, Unit 10, printed pp.153–156 |
+| Present progressive (present continuous) — form, questions and short answers for actions happening now | Tunisia, Let's Learn English Year 7 Student's Book, Module 2, Section 2, printed pp.47–53 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

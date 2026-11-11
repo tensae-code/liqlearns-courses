@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -137,7 +137,7 @@ the 2026-11-08 re-verification sweep.
 | A complete play: "The Oyster and the Pearl" by William Saroyan — a different work from Steinbeck's novella *The Pearl* in English 12 (Clay's line "There's a big pearl in it, Mr. Van Dusen" is on printed p.40) | Pakistan, *English Book III*, Play 3, printed p.30 (banner; text from printed p.31) |
 | Analysing and writing a script, as the Shakespeare unit's writing work | Pakistan, *English 12*, Unit 10, printed p.80 area |
 
-**Acceptance count: taught in 18 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea).** Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
+**Acceptance count: taught in 19 countries (Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia).** Cyprus joins with Year 3's 'Putting on a Play' project — roles, prompts, costumes, performing (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with its Grade 12 reader on a famous Shakespeare play (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 Midsummer Night's Dream scene and 'The Awful 5' play extract (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds four plays and play-shaped pieces — the Class 1 mini-play "Mother Hen and the Chicks", Class 4's narrated play, Class 5's three-scene play and Class 9's one-act play (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia reads a play script
 and teaches script writing with stage directions in the
 Year 6 pupil's book (mapped first by its Scheme of Work);
 Ghana's curriculum states the dialogue layout rule whole;
@@ -360,3 +360,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Skills for Life — Year 4 Secondary Education, Students' Book* (students' book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Students'-book evidence; printed page = PDF page. The records file this one book twice (at grade-10 and grade-13) and misdescribe it in the download list (flag F2, record-side); it is cited once here, as the Year 4 book it is. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| An environmental play script, 'Save the lofty trees' — plot summary only: children and a conservationist confront a factory owner who is chopping the forest; he repents his greed | Tunisia, Perform to Learn, Second Year Secondary, Arts 10, printed pp.155–159 |
+| Shakespeare, The Winter's Tale (Parts 1–2 and Arts sessions) — plot summary only: King Leontes' jealous suspicion of Queen Hermione leads to her trial and the loss of their baby | Tunisia, Skills for Life, Year 4 Secondary, Unit 1, printed pp.74–85 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

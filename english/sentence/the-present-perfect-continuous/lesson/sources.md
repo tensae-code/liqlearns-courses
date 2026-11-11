@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia
 
 Every part traces to its book and page.
 
@@ -138,8 +138,8 @@ re-verification sweep.
 | Workbook Unit 4 (Click on-line!), lessons 1–3 — practice of the present perfect continuous with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 4, WB printed pp.43–52 |
 
 
-**Acceptance count: taught in 21 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 22 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -232,3 +232,16 @@ The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books
 ## Libya — grade-label corrections 2026-11-11 (re-verification sweep merge)
 
 Sweep flag 2, fixed in this file: three rows above cited the Grade 9 (Preparatory 3) Course Book for content that is the Grade 10 (Secondary 1) book's — the "Travel Experiences" Functional Grammar box (Unit 3, Lesson 8, p.40), its Round up (p.41) and the Grammar and Functions Reference entry (book pp.96–105); the held Grade 9 Course Book has no Travel Experiences lesson and no Grammar Reference (its back matter is a Checklist, Transcripts and Key Words). A fourth row cited "reference p.100" under the Grade 10 book: that for/since reference box is in the Grade 11-1 (Secondary 2, Literary) Course Book's Grammar and Functions Reference (p.100), and the row now says so. The Grade 8 row above ("Transport", Unit 3, Lesson 6, p.38) is genuinely the Grade 8 book's and stands. The points themselves are genuinely in the books now named — only the grade labels were wrong. No new Libya rows were stocked into this lesson by the merge: the sweep counted this lesson's Libya points as already in course once the labels are corrected. The sweep (2026-11-08) re-read all 38 Libya books from the book files; its placements are liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Perform to Learn — Second Year Secondary Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. The records title this book 'Perform through English — Second Year'; its own cover reads 'Perform to Learn' (flag F1, record-side). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The present perfect progressive in an interview with a footballer ('I have been very eager…') | Tunisia, Perform to Learn, Second Year Secondary, Lesson 7, printed pp.49–51 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

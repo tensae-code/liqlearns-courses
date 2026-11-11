@@ -1,6 +1,6 @@
 # Sources — Expressing Sympathy
 
-countries: Mauritania, Nepal, Ethiopia, Cyprus, Eritrea
+countries: Mauritania, Nepal, Ethiopia, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — condolences: my deepest condolences for your loss (the book's word-order set) | Mauritania, Study English, Grade 8, printed pp.45–46; the disaster set at Grade 10, printed pp.35–37 |
 | Sub lesson 4 — sympathy in writing over the earthquake text: I'm sorry for your loss, my condolences, thinking of you at this difficult time | Mauritania, Study English, Grade 10, printed pp.35–37 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Nepal, Ethiopia, Cyprus, Eritrea).** Cyprus joins with Year 5's sympathy expressions — 'I'm sorry to hear that. / Oh, dear!' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 3 respecting-each-other expressions and Grade 8 sympathy expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 6 countries (Mauritania, Nepal, Ethiopia, Cyprus, Eritrea, Tunisia).** Cyprus joins with Year 5's sympathy expressions — 'I'm sorry to hear that. / Oh, dear!' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 3 respecting-each-other expressions and Grade 8 sympathy expressions (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 
 ## Nepal added 2026-11-11 (re-verification sweep merge)
@@ -70,3 +70,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Proceed with English — 9th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; printed page = PDF page. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tolerance and respect for others: a text about helping immigrants in the USA (the lesson's sympathy-side context; its hope teaching is stocked in congratulating-and-wishing) | Tunisia, Proceed with English Year 9 Student's Book, Module 6, Lesson 5, printed pp.141–144 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

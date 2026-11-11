@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -110,7 +110,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 26 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus, Eritrea).** Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 27 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -522,3 +522,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word stress: the -tion pattern (reputation, presentation, competition, information) | Tunisia, Let's Discover More English Year 8 Student's Book, Module 2, printed p.47 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

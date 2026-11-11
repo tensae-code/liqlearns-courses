@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -270,8 +270,8 @@ re-verification sweep.
 | Workbook “Different Places – Different Buildings” — practice on types of buildings across cultures with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 3, WB printed pp.5–16 |
 | Places met in a matching activity: a jungle, a zoo, a supermarket, a candy shop (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.50 |
 | Culture spot "Welcome to Britain": the London Eye — a teacher-read landmark text (135 metres high, capsules, views over London) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 5, pupil printed p.56 |
-**Acceptance count: taught in 39 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea).** Cyprus joins with its town places, from Year 4's set to Year 6's church, bookshop, bank, hotel, museum, theatre (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with town places — school, park, hospital, supermarket, bakery, library (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Checkpoint places set and the London Eye culture spot as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 40 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia, Palestine, Libya, Tanzania, Cyprus, Eritrea, Tunisia).** Cyprus joins with its town places, from Year 4's set to Year 6's church, bookshop, bank, hotel, museum, theatre (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with town places — school, park, hospital, supermarket, bakery, library (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Checkpoint places set and the London Eye culture spot as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -838,3 +838,24 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+Book error E1, carried: Prime English's contents (printed p.2) lists Unit 13's first lesson as 'My Home Tow' for 'My Home Town'. The course teaches the corrected form; the row cites the unit itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Town places (supermarket, police station, park, bank, restaurant, cinema, zoo, school, post office) | Tunisia, Prime English Year 6, Unit 13, printed pp.184–188 |
+| A market scene reading (Houmt Souk market day) | Tunisia, Let's Learn English Year 7 Student's Book, Module 3, Section 3, printed pp.91–95 |
+| London sights and city vocabulary (traffic, palace, River Thames, telephone box, taxi cab, double-decker bus, London Eye, Trafalgar Square) | Tunisia, Let's Discover More English Year 8 Student's Book, Module 1, printed pp.23–29 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

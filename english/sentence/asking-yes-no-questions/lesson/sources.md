@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Barbados, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -293,9 +293,9 @@ cited once.
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 | Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
 | The Easter egg game exchange "Have you got my egg? — No!", with making an Easter bunny mask | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.71 |
-**Acceptance count: taught in 39 countries (Bangladesh,
+**Acceptance count: taught in 40 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea).** Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia, Palestine, Libya, Cyprus, Eritrea, Tunisia).** Cyprus joins with its guessing and possession questions — 'Is it a…?' and 'Have you got…?' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with “What is it? It's a … / What are they?” (Grade 1) and present simple habit questions “Do you …? Yes, I do / No, I don't” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -562,3 +562,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Let's Discover More English — 8th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in two part files, both read; printed page = PDF page within each part's continuous pagination. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question forms revision: yes/no questions across tenses, applied to a family photo text 'Meet the Browns' | Tunisia, Let's Discover More English Year 8 Student's Book, Module 1, printed pp.6–10 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -212,8 +212,8 @@ verification sweep.
 | A chant: "Touch my face, touch my hair! Touch my ears, touch my mouth, touch my eyes… Two of those!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 2, pupil printed p.53 |
 | Body words arm and leg with the command game "Touch your arm!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
 | The action song "If you're happy and you know it, clap your hands / nod your head / stamp your feet" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
-**Acceptance count: taught in 39 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea).** Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia, Libya, Kuwait, Cyprus, Eritrea, Tunisia).** Cyprus joins with its body sets, from face parts and 'Head, Shoulders, Knees and Toes' to the Gruffalo's creature words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 body and face words and the Grade 3 body extension (shoulder, knee, finger, thumb, toe, tongue) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -503,3 +503,19 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Let's Learn English — 7th Year Basic Education, Student's Book* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; held in four part files, all read; citations are printed pages, running continuously across the parts. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Body parts vocabulary (head, eye, ear, nose, mouth, shoulder, arm, hand, fingers, leg, knee, foot/feet, toes, hair) with a/an and regular/irregular plurals (foot→feet, tooth→teeth) | Tunisia, Prime English Year 6, Unit 4, printed pp.54–56 |
+| Body parts for health (mouth, eye, hand, ear, foot, hair, head, fingers, arm, leg, ankle) | Tunisia, Let's Learn English Year 7 Student's Book, Module 4, Section 2, printed pp.111–117 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.

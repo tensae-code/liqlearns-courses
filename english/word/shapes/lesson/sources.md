@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Colour-and-shape phrases — a white star, a red heart, a blue triangle, a green square, a pink circle — with "What colour is your triangle? — Pink!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 1, pupil printed p.12 |
 | Shapes in the real world, adding the rectangle to the shape set — "Shapes in our world! What colour is your triangle?" (Activity Book "Going for CLIL" 2, Maths; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 2 key and instructions, Teacher's Book pp.125(T)–126(T) |
 
-**Acceptance count: taught in 9 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 10 countries (Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia).** North Macedonia joins with colour-and-shape phrases and the rectangle hunt, both as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked these items for a shapes lesson, and they stock here (routing noted 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the shapes taught in the Grade 2 student book with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One book stocks this lesson: the Grade 2 (Primaria 2) student book named above.
 
@@ -122,3 +122,16 @@ The 2026-11-10 expansion read read Eritrea's held English set from the PDFs — 
 
 Eritrea is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/eritrea-placements.md.
+
+## Tunisia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 11 distinct books (18 PDF files; three books are multi-part at source), all from the Ministry of Education's Centre National Pédagogique (CNP): Prime English Year 6; Let's Learn English Year 7 Student's and Activity Books; Let's Discover More English Year 8 Student's and Activity Books; Proceed with English Year 9 Student's and Activity Books; and the four secondary books Perform through English (Year 1), Perform to Learn (Year 2), Activate And Perform (Year 3) and Skills for Life (Year 4). 249 teaching items were placed fresh from the books; Tunisia had no presence in the course before, so all 249 were missing. The rows below are this lesson's share, stocked from the expansion placements. No teacher book is recorded for Tunisia English in any record checked — every row rests on a student's/pupil's book or an activity book, labelled as such in its book entry. Read depth, as the placements declare it: the seven basic-education books were read in full, page by page, through the PDFs' own text layers; the four secondary books were read through their complete book maps / unit outlines / contents, their grammar summaries and reference appendices in full, and page-by-page text scans of every lesson opening — and Activate And Perform's placements are stated at module level from its Book Map (pp.4–6) plus its Grammar Summary rather than at individual-lesson level. The books were taken from their recorded Internet Archive sources, byte-size verified against the records (flag F4: the Year 7 pair's in-hand status is inconsistent across the library records — reported in the CURRICULUM merge paragraph; the books themselves are read and placed either way). Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *Prime English — Year 6 Basic Education* (student's book) — Tunisia, Ministry of Education, Centre National Pédagogique (CNP). Student's-book evidence; the archive holds the book in four part files, all read, and citations are the printed pages (each part carries its own printed pagination). Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shapes (circles, triangles, rectangles, squares) in there-are counting | Tunisia, Prime English Year 6, Unit 5, printed pp.75–78 |
+
+Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
