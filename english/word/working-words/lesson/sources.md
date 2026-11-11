@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay, Nigeria, El Salvador
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay, Nigeria, El Salvador, Colombia
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
@@ -110,7 +110,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 21 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 22 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Kuwait, Uruguay, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -589,3 +589,32 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Social problems vocabulary (homelessness, poverty, drug abuse, gangs, violence, unemployment) (item 121) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.38–41 |
+| Fairtrade vocabulary and farmer texts (summaries) (item 133) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.60–63 |
+| Work and working-conditions vocabulary (employer, employee, salary, overtime, pension, sick pay, minimum wage, shift, sweatshops, cooperative) (item 135) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.64–67 |
+| Manufacturing verbs (grow, pick, cut, pack, knit, sew, produce, send, sell) (item 138) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.68–71 |
+| Places of work (factory, mine, building site, laboratory) (item 145) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.76–79 |
+| Being a good citizen: vocabulary and action poster (do volunteer work, follow the rules, protect the environment, respect beliefs and cultures) (item 212) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.48–49 |
+| World problems vocabulary (war, hunger, poverty, violence, homelessness, disease, starvation, slums, crime) (item 222) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.56 |
+| Conflict and war vocabulary (conflict, disagreement, war, weapons, beliefs, civil war, guerrilla war, invasion, ethnic / religious conflict) (item 226) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.60 |
+| Volunteering vocabulary and community-action verbs (plant, clean up, paint, protect, take care of, teach) (item 236) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.68 |
+| Community vocabulary sorted into people / places / actions / adjectives (volunteers, neighbourhood, raise awareness, raise money, campaign, disadvantaged, vulnerable, lonely) (item 237) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.69 |
+| Wealth and poverty vocabulary (earn, salary, taxes, fortune, well-paid, rich / poor, disadvantaged) (item 241) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.72–73 |
+| Gender equality: definitions (equal access to education, equal decisions at home, legal equality, equal pay) and jobs stereotyping discussion (item 251) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.90–91 |
+| Responsibilities vocabulary: to yourself, family, community, clubs (stay healthy, look after, follow laws, don't litter) (item 255) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.94 |
+| Dangerous jobs vocabulary (fire fighter, pilot, miner, nurse, police officer) and mining words (precious metals, drilling, reserves, extraction, gems, coltan) (item 301) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.140–141 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

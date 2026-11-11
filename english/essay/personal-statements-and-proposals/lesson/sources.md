@@ -1,6 +1,6 @@
 # Sources — Personal statements and proposals
 
-countries: Jordan, Greece, Egypt, Palestine, Yemen, Iraq, Armenia, Vietnam, Ethiopia, Fiji, Canada
+countries: Jordan, Greece, Egypt, Palestine, Yemen, Iraq, Armenia, Vietnam, Ethiopia, Fiji, Canada, Colombia
 
 Every part traces to its book and page.
 
@@ -33,8 +33,8 @@ still owed).
 | A formal proposal as a taught genre: 130–180 words, with register teaching, in the senior book's writing spine | Greece, Αγγλικά 2, Grades 11–12, Unit 6, Writing (unit printed pp.81–100; the proposal in the unit's writing work, as filed) |
 | The personal statement/objective as a named CV section of 2–3 sentences — the statement's seed inside the CV | Egypt, Secondary 10 Term 1, Unit 6, Lesson 5 (as filed in EGYPT-BOOK-MAP.md) |
 
-**Acceptance count: taught in 10 countries (Jordan,
-Greece, Egypt, Palestine, Yemen, Iraq, Armenia, Vietnam, Ethiopia, Fiji).** Yemen joins with writing about your own future in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Jordan teaches both pieces with full
+**Acceptance count: taught in 11 countries (Jordan,
+Greece, Egypt, Palestine, Yemen, Iraq, Armenia, Vietnam, Ethiopia, Fiji, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Yemen joins with writing about your own future in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Jordan teaches both pieces with full
 models — the statement at Grade 10 with its tips box, the
 proposal at Grade 12 in its three named sections; Greece
 teaches the formal proposal at a counted length with
@@ -146,3 +146,20 @@ The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs �
 Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1). Book error, carried: the documentary proposal model (printed p.79) prints 'carrry out' for 'carry out' — a spelling slip in the book's own model text.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Plans and intentions language (hope to, intend to, I'm keen to, I see myself as…, ambition) (item 191) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.14–17 |
+| Goal-setting vocabulary (goal, aim, short-term / long-term, part-time, scholarship) (item 192) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.14–17 |
+| University application paragraph; capital letters for subject names and days (item 209) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.34–37 |
+| Documentary proposal form (main issue, brief description, background, interviews, conclusion, length) (item 247) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.79 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

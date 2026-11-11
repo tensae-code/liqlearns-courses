@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova, Dominican Republic
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova, Dominican Republic, Colombia
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 14 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
+**Acceptance count: taught in 15 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -294,3 +294,20 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Music types (item 42) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.68–71 |
+| play + sport / game (no article) vs play the + instrument (item 153) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.94–97 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

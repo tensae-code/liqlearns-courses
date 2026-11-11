@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay, Haiti, Nigeria, El Salvador, Moldova, Dominican Republic
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay, Haiti, Nigeria, El Salvador, Moldova, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -100,7 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 29 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 30 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania, Ecuador, Afghanistan, Kuwait, Cyprus, Eritrea, Tunisia, Uruguay, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5 Unit 9's school subjects and timetable words (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -565,3 +565,20 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Days of the week, school subjects, timetable with on + day (item 19) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.34–37 |
+| University subjects (item 207) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.34–37 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia, Bhutan, Moldova, Dominican Republic
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Zambia, Bhutan, Moldova, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 47 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Bhutan, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 48 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Bhutan, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -2137,3 +2137,59 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1). Book error, carried: the '72 Hours in New York City' guide (printed p.126) calls MoMA 'the Metropolitan Museum of Art' — MoMA is the Museum of Modern Art, and the Metropolitan Museum of Art (the Met) is a different museum; the reading is stocked as a summary and the fact is taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: dances around the globe — Macarena, Zumba, Bollywood dance, the Haka (content summary) (item 38) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.60–63 |
+| Reading: four Colombian dishes — Cholao, Ajiaco, Bandeja Paisa, Lechona (content summary) (item 56) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.86–89 |
+| Reading: "Meatless Mondays" (summary) (item 67) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.102–105 |
+| Readings: eating habits in Nepal, Japan, Ethiopia and Central America (summaries) (item 75) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.114–117 |
+| Blog reading: fears of a Mount Vesuvius eruption (summary) (item 90) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.140–143 |
+| Reading: "The Three Rs of Rubbish" (summary) (item 95) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.148–151 |
+| Reading: Parkour article (summary) (item 102) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.10–13 |
+| Three "everyday heroes" stories — Thulani Madondo, Pushpa Basnet, Catalina Escobar (plot summaries) (item 113) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.26–29 |
+| Readings: Sandra Ferreira de Souza; William Kamkwamba (summaries) (item 118) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.30–33 |
+| Reading: Interact / Rotary clubs (summary) (item 122) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.38–41 |
+| Reading: "The Fashion Trap" article (summary) (item 128) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.52–55 |
+| Fairtrade vocabulary and farmer texts (summaries) (item 133) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.60–63 |
+| Process reading: "The life story of jeans" (item 140) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.68–71 |
+| Reading: "A simpler life" texts (summaries) (item 144) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.72–75 |
+| Reading: "What is beauty?" — Karo, Kayan, Maori, Mauritania (summary) (item 156) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.98–101 |
+| Reading: "melting pot" USA article (summary) (item 165) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.110–113 |
+| Reading: the Achuar people (summary) (item 176) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.136–139 |
+| Travel blog reading: "A Chinese girl in paradise" (summary) (item 186) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.152–155 |
+| Reading: jobs that need a second language (summary) (item 201) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.26–29 |
+| Readings: three rights-violation accounts — a kidnapped journalist, a child worker in Somalia, a homeless man (summaries) (item 218) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.53 |
+| Essay on online and social media news: advantages / disadvantages structure (First, Secondly, Finally, On the other hand, However) (content summary) (item 233) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.65 |
+| Readings: FROGS food-bank organisation and CityYear youth volunteers (summaries) (item 238) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.69–70 |
+| Readings: Shakira's Barefoot Foundation and David Beckham's charity work (summaries) (item 243) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.74 |
+| Reading: the Sundance Institute documentary programme (summary) (item 246) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.78 |
+| Readings: Lakshmi (India) and Razia (Pakistan) — girls' difficulties getting an education (summaries) (item 252) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.91 |
+| "Your rights in a relationship" text (content summary) (item 257) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.96 |
+| Two relationship stories — Theresa & Sam; Carlos & Rob (plot summaries) (item 261) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.99–100 |
+| Story: Vicky and Dan, parents at 16 (plot summary; gap-fill reading strategy) (item 270) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.108 |
+| Reading: "A Global Health Crisis" — obesity, breakfast, fizzy drinks, exercise, sleep (summary; key-word identification) (item 274) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.111 |
+| Story: Clara and Juan — unplanned pregnancy risk (summary) (item 279) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.116 |
+| Reading: Manhattan in 1609 vs today (summary) (item 282) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.124 |
+| Travel guide reading: "72 Hours in New York City" (summary; scanning for information) (item 285) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.126 |
+| Reading: "The Age of the Megacity" — housing, traffic, air pollution problems (summary) (item 288) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.128–129 |
+| Three cause-and-effect accounts: logging and wildlife loss, GM salmon, a forest fire (summaries) (item 294) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.134 |
+| Reading: "In the Palm of Dubai" — development vs environment (summary) (item 299) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.138 |
+| Reading: the Colombian town contaminated by a coal mine (summary) (item 302) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.142 |
+| Reading: "Dangers of plastic bags" fast facts (summary; guessing meaning from context) (item 305) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.145 |
+| Reading: the Canadian One-Tonne Challenge — reducing your carbon footprint (summary) (item 310) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.150 |
+| Reading: "Water, water… everywhere?" — saving water at home (summary; reading for gist) (item 312) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.152 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

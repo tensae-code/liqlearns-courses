@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Moldova, Dominican Republic
+countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Canada, Singapore, Andorra, Moldova, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -36,7 +36,7 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 16 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the painting description of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 17 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the painting description of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
 the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
@@ -444,3 +444,25 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Opinion expressions (In my opinion, I think, I agree / don't agree) and the 5-paragraph opinion essay plan (item 70) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.106–109 |
+| Prioritising and giving reasons; opinion phrases (item 126) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.48–51 |
+| Essential vs desirable things; prioritising needs (item 142) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.72–75 |
+| Opinion essay phrases (In my opinion…, In my view…, One thing we can do is…, Finally…) in two model essays on good citizenship (item 213) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.49–51 |
+| Giving opinions (In my opinion, For me, Personally I think, My point of view is, From my experience) (item 216) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.51 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

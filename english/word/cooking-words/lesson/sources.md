@@ -1,6 +1,6 @@
 # Sources — Cooking Words
 
-countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Haiti, Dominican Republic
+countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Haiti, Dominican Republic, Colombia
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Culinary Terms (BTH) — cooking methods (grill, broil, barbecue, gratin, stir-fry, bake, roast, stew, caramelize, steam, sauté, toast, poach, microwave, simmer, scramble, glaze) and cooking action verbs (add, slice, drain, dice, pour, mix, beat, break, grease, carve, combine, knead, chop, measure, stir, mince, peel, dissolve, crush, whisk, weigh) (the book lists “Weight” as the verb for weigh, printed p. 36 — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 36–38 |
 | Gastronomy terms — picture grids of foods, drinks and cooking verbs | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 101 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Dominican Republic).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
+**Acceptance count: taught in 14 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the cooking word sets — the Grade 11 culinary (BTH) spread and the compendium's gastronomy grids — with no lesson of their own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -224,3 +224,21 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dish names and ingredients (item 59) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.94–97 |
+| Containers (a bottle / bowl / packet / cup / glass / box / tin / jar / jug of…) (item 62) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.98–101 |
+| Packaging and containers (a bag / bottle / box / can / carton / jar / packet / pot / tin / tube of…) (item 307) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.147 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea, Liechtenstein, Nigeria, Zimbabwe
+countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea, Liechtenstein, Nigeria, Zimbabwe, Colombia
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 | Presents/toys word set with the indefinite article — a ball, a CD, a doll, a teddy, a car, a radio | North Macedonia — EXTRA and Friends 2, Pupil's Book, Grade 2, Module 1, Lesson 3, printed p.6 |
 
-**Acceptance count: taught in 12 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea, Liechtenstein).** Liechtenstein joins with the card-game and board-game language of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its toy words, from doll and teddy bear to board game and puzzle (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 toy words — balloon, skates, bear, kite, doll, car, bike (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 13 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya, Kuwait, Cyprus, Eritrea, Liechtenstein, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Liechtenstein joins with the card-game and board-game language of its LieLa books (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its toy words, from doll and teddy bear to board game and puzzle (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 1 toy words — balloon, skates, bear, kite, doll, car, bike (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -175,3 +175,17 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scout and camping equipment (item 119) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.34–37 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

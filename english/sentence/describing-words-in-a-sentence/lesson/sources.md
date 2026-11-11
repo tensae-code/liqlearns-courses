@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana, Nicaragua, Libya, Barbados, Fiji, Sri Lanka, Liechtenstein, Nigeria
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana, Nicaragua, Libya, Barbados, Fiji, Sri Lanka, Liechtenstein, Nigeria, Colombia
 
 Every part traces to its book and page.
 
@@ -285,9 +285,9 @@ re-verification sweep.
 | Similes opened out as a system: "as cold as ice" explained, then as white as snow, as slow as a tortoise, as sweet as honey — and learners coin their own | India — Marigold Book Five (Class 5), Unit 7 language work |
 | Descriptive Writing | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.10.1, PDF p.116 (curriculum evidence) |
 | Descriptive Writing — Use descriptive Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.12.1, PDF p.157 (curriculum evidence) |
-**Acceptance count: taught in 38 countries (Bangladesh,
+**Acceptance count: taught in 39 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Nicaragua, Libya, Fiji, Liechtenstein).** Liechtenstein joins with the sense sentences and the shape-picture descriptions of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). Libya joins with “I have a green …” — have + colour adjective (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Nicaragua, Libya, Fiji, Liechtenstein, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Liechtenstein joins with the sense sentences and the shape-picture descriptions of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). Libya joins with “I have a green …” — have + colour adjective (Grade 1) (stocked 2026-11-11 by the re-verification sweep merge). India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -663,3 +663,20 @@ The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs �
 
 Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives come before nouns (a nice person) (item 15) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.26–29 |
+| Descriptive adjectives and their two positions (item 112) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.22–25 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

@@ -259,6 +259,9 @@ its own subtitle folder with its own lesson + questions):
   types-of-resources · endangered-animals-and-conservation ·
   culture-shock · life-skills-for-teenagers (added
   2026-11-11 by the Dominican Republic expansion merge —
+  **Unit 7, Words for the World**) ·
+  table-manners-and-etiquette · rights-and-responsibilities
+  (added 2026-11-11 by the Colombia expansion merge —
   **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own

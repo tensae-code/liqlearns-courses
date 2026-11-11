@@ -1,6 +1,6 @@
 # Sources — Expressing Purpose
 
-countries: Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda, Haiti
+countries: Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda, Haiti, Colombia
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — in order to / so as to + base verb | Mauritania, Study English, Grade 9, printed pp.53–56 |
 | Sub lesson 3 — so that + a whole clause | Mauritania, Study English, Grade 9, printed pp.53–56; Grade 10, printed pp.44–45 |
 
-**Acceptance count: taught in 6 countries (Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda).** Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 7 countries (Mauritania, Yemen, Kuwait, Eritrea, Tunisia, Uganda, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Yemen joins with purpose with “to” + infinitive in its Grade 10 Language review 2 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found purpose taught as its own lesson in the Grade 9 book (and repeated in Grade 10), with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' purpose teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Yemen added 2026-11-11 (re-verification sweep merge)
 
@@ -103,3 +103,20 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| use something for + -ing / to + infinitive (purpose) (item 107) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.18–21 |
+| To-infinitive to express purpose (item 200) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.26–29 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

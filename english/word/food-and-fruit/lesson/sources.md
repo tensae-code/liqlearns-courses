@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -356,8 +356,8 @@ cited once.
 | Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
 | Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
 | Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
-**Acceptance count: taught in 47 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 48 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Bhutan, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
 North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
@@ -1002,3 +1002,22 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food vocabulary and meals (item 52) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.86–89 |
+| Food groups and the food pyramid (item 57) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.90–93 |
+| Food pyramid levels (carbohydrates, protein, fat, fruit and vegetables) and food groups (fruit, vegetables, meat, fish, dairy, fats) (item 275) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.112 |
+| Healthy diet collocations (high / low in salt / fat / sugar, a good source of protein, provides calcium / fibre, balanced diet, in moderation) (item 276) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.112 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

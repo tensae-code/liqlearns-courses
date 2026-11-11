@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia, Haiti, Dominican Republic
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia, Haiti, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -64,7 +64,7 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 17 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia, Dominican Republic).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
+**Acceptance count: taught in 18 countries (China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine, Sudan, Yemen, Iraq, Armenia, Jordan, Libya, Uzbekistan, Afghanistan, Tunisia, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with the causative — get/have something done (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with causative make (Grade 10) and causative have/get (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -252,3 +252,17 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| make + person + bare infinitive (causative: Sam makes Theresa laugh; She made Sam get angry) (item 262) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.100 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Sri Lanka, Liechtenstein, Haiti, Papua New Guinea, Zimbabwe, El Salvador, Bhutan, Moldova, Dominican Republic, Colombia
 
 Every part traces to its book and page.
 
@@ -385,9 +385,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 46 countries (Egypt, India,
+**Acceptance count: taught in 47 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein, Bhutan, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the date ordinals of its Grade 1 booklet and the shape-counting work of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia, Libya, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein, Bhutan, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the date ordinals of its Grade 1 booklet and the shape-counting work of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the climb from 1–10 (Year 1) to ten thousand–one million and naming years (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with numbers 1–5 and 6–10 and “How many?” counting (Grade 1), numbers 11–20 (Grade 2), ordinal numbers (Grade 5) and numbers in the hundreds to 1,000 (Grade 5 Activity Book) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -1062,3 +1062,25 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers 0–20 (item 4) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.14–17 |
+| Numbers 20–100; fifteen vs fifty stress (item 12) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.22–25 |
+| Ordinal numbers (item 48) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.72–75 |
+| Saying hundreds (225 = two hundred and twenty-five) and km² (item 78) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.124–127 |
+| Big numbers 100,000–60,000,000; hundred / thousand / million take no plural -s (item 83) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.132–135 |
+| Saying years (1995 = nineteen ninety-five) (item 99) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.152–155 |
+| Big numbers up to billions (13,000,000,000) (item 123) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.48–51 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

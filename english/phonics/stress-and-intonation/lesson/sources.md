@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Zambia, Dominican Republic
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Zambia, Dominican Republic, Colombia
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -110,7 +110,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 30 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein, Dominican Republic).** Liechtenstein joins with the tongue twisters of its LinGo 4.5 handouts, one of them built on its own town name Eschen (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 31 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Liechtenstein, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Liechtenstein joins with the tongue twisters of its LinGo 4.5 handouts, one of them built on its own town name Eschen (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the sound-word play of 'Mr Brown Can Moo', compared across languages (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with word stress taught in its Grade 12 workbook (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's pronunciation reading-aloud and tongue twister, with teacher-guide rubrics cited as teacher evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -746,3 +746,38 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers 20–100; fifteen vs fifty stress (item 12) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.22–25 |
+| Intonation: yes/no questions rise, wh- questions fall (item 25) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.38–41 |
+| Pronunciation of plural -s: /s/ or /z/ (item 53) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.86–89 |
+| Sentence stress falls on content words (item 72) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.110–113 |
+| Using sentence stress to emphasise (item 87) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.136–139 |
+| Connected speech and linking in spoken English (item 115) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.26–29 |
+| Sounds /tʃ/ /ʃ/ /dʒ/ (item 136) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.64–67 |
+| Pronunciation /θ/ vs /ð/ (three / this) (item 149) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.86–89 |
+| Pronunciation /v/ vs /b/ (item 152) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.90–93 |
+| Minimal pairs /iː/ vs /ɪ/ (item 188) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.10–13 |
+| Consonant-to-vowel linking in speech (item 193) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.14–17 |
+| Minimal pairs (health / help, right / ride, peace / peas, force / fourth) (item 221) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.55 |
+| Pronunciation of 'd (would) vs full forms in listening (item 225) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.59 |
+| Word stress stays on the same syllable in derived forms (item 259) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.97 |
+| Intonation: wh- questions and Let's suggestions fall; yes / no questions rise (item 268) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.105 |
+| Pronunciation: used to /juːst tə/ vs used /juːzd/ (item 284) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.125 |
+| Pronunciation of ea: /iː/ with exceptions ea+r = /ɪə/ /ɜː/ /eə/ (item 290) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.129 |
+| Linking in speech: final consonant + initial vowel run together (item 315) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.154 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

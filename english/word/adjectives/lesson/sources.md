@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra, Zambia, Bhutan
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Zimbabwe, Andorra, Zambia, Bhutan, Colombia
 
 Every part traces to its book and page.
 
@@ -413,8 +413,8 @@ the 2026-11-08 re-verification sweep.
 | Adverb Phrases — Form and use adjective phrases correctly | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.11.1, PDF p.218 (curriculum evidence) |
 | Adjectives — Use comparatives forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.4.1, PDF p.209 (curriculum evidence) |
 | Using Qualifying Words-Adjectives — Use superlative forms of regular and irregular | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 5 (Using Writing Conventions), standard B6.5.5.1, PDF p.239 (curriculum evidence) |
-**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein, Bhutan).** Liechtenstein joins with the sense-adjective opposite pairs and the describing-adjective set of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 46 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein, Bhutan, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Liechtenstein joins with the sense-adjective opposite pairs and the describing-adjective set of its LinGo 4 books (stocked 2026-11-11 by the Liechtenstein expansion merge). India joins with describing words for pictures in Class 3, describing words chosen for a person in Class 6, and Class 11's note-work on adjectives (stocked 2026-11-09 by the India re-verification sweep merge).
 Libya carries the definition twice and the
 pairs inside a story; Bangladesh carries the pictured pairs;
 Egypt carries the fullest statement of what adjectives tell;
@@ -1082,3 +1082,30 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English, please! 1 FAST TRACK* — Grade 9 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe), 2016 (ISBN 978-958-691-784-1). 159 PDF pp; file student_ep1.pdf (36,012,994 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Opinion adjectives (boring, dangerous, exciting, fun, tiring, interesting) (item 37) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.60–63 |
+| Opposite adjective pairs (high / low, wide / narrow, busy / quiet) (item 98) | Colombia — Grade 9 *English, please! 1 FAST TRACK* Student's Book, printed pp.152–155 |
+| Descriptive adjectives and their two positions (item 112) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.22–25 |
+| Clothes adjectives (smart, baggy, cool, fashionable, sporty, tight, casual, formal, sensible) (item 127) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.52–55 |
+| Describing objects: size / shape / texture adjectives (item 158) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.102–105 |
+| Adjectives for places (fascinating, peaceful, smelly, crowded, spectacular) (item 183) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.148–151 |
+| Personality and teamwork adjectives (stubborn, approachable, bossy, reliable); opposite prefixes un- / in- / dis- (item 203) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.30–33 |
+| Personality adjectives (punctual, outgoing, shy, responsible, generous, honest, funny, friendly) (item 249) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.88–89 |
+| Relationship quality adjectives (trustworthy, loyal, honest, affectionate, respectful, understanding, open-minded, encouraging, supportive, attentive, generous, caring) (item 260) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.98 |
+| Intensifiers with extreme adjectives: very / really with ordinary adjectives, absolutely with extreme adjectives (terrified, furious, boiling, freezing, filthy, exhausted, tiny, enormous, hilarious, fascinating, delighted) (item 309) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.148–149 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

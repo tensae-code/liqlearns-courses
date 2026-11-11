@@ -1,6 +1,6 @@
 # Sources — Stative verbs
 
-countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan
+countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan, Colombia
 
 Every part traces to its book and page.
 
@@ -23,7 +23,7 @@ Every part traces to its book and page.
 | Stative verbs — senses and emotions verbs take simple forms — in the Grand Canyon lesson | Nicaragua, Inglés Grade 10, Lesson 12, p.94 |
 | "Stative verbs in the continuous form" and "Linking verbs" — the Grammar box pairing this lesson follows: the stative question and the linking-verb system in one box | Vietnam, Tiếng Anh 11, Unit 3 "Cities of the future", Grammar box heading, printed p.30 (unit pp.28–37) |
 
-**Acceptance count: taught in 10 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan).** Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 linking verbs and Grade 10 stative verbs (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine, Yemen, South Africa, Ethiopia, Afghanistan, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Yemen joins with sense verbs with an object and verb or verb-ing in its Grade 12 reviews (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 4 linking verbs and Grade 10 stative verbs (stocked 2026-11-11 by the re-verification sweep merge).
 
 Vietnam's box heading is quoted exactly as filed — "Stative verbs in the continuous form" — because the filing gives the heading, not a rule in the opposite sense; this lesson takes the not-continuous RULE from Egypt's full statement and Cambodia's rule-plus-error-correction, and stocks Vietnam for the pairing of the stative question with linking verbs, as its filing presents it.
 
@@ -88,3 +88,17 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Stative verbs of the senses (look, sound, smell, taste, feel + adjective) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 6, printed p.59 |
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Stative verbs (like, love, hate, think, feel, understand, know, want, prefer, remember) are not used in the present continuous (item 267) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.104 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.

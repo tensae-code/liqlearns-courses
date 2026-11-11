@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname, El Salvador
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname, El Salvador, Colombia
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -93,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 21 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 22 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya, Uzbekistan, Eritrea, Sri Lanka, Suriname, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -238,3 +238,24 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Colombia added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs — **three Ministerio de Educación Nacional student's books of the *English, please! FAST TRACK* series, Programa Colombia Bilingüe**: *English, please! 1* (Grade 9, 2016), *English, please! 2* (Grade 10) and *English, please! 3* (Grade 11). **316 teaching items placed, 0 already in the course; all 316 are stocked in this merge.** **Counting for this lesson: Colombia is counted** — every row below rests on a Colombian pupil's book (all three read books are Student's Books). Read depth, as the expansion documents declare it: all three books read in full, page by page, from the PDFs' own text layer; pages cited are the printed pages (printed page = PDF page + 1 in all three books). Colombia stays PARTIAL for English: the *Way to go!* Student's Books 1–3 for Grades 6–8, the *Way to go!* Workbook 1 and Teacher's Book 1, and the *English, please!* Teacher's Books 1–3 are link-only — recorded, never secured, not read and cited nowhere (diff flags F1, F2, F4); the ECO-portal second editions of the *English, please!* student books byte-differ from the in-hand copies — a different version, not duplicates (flag F3). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (colombia-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *English, please! 2 FAST TRACK* — Grade 10 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 160 PDF pp; file student_ep2.pdf (11,523,367 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+**Book 3:** *English, please! 3 FAST TRACK* — Grade 11 student's book — Colombia, Ministerio de Educación Nacional (Programa Colombia Bilingüe). 159 PDF pp; file student_ep3.pdf (13,079,648 bytes — byte-matched to the records on the authenticated grab). Pages cited are the printed pages (printed page = PDF page + 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Second conditional (if + past simple, would) for hypothetical situations; "If I were you, I would…" advice (item 162) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.106–109 |
+| First vs second conditional: contrast and choosing the right one (item 172) | Colombia — Grade 10 *English, please! 2 FAST TRACK* Student's Book, printed pp.128–131 |
+| First conditional (real future) vs second conditional (imaginary future): contrast (item 189) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.10–13 |
+| would / wouldn't + verb for an imaginary ideal world (item 223) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.57 |
+| Second conditional in an interview about an ideal world for children (If we had more money, we'd…) (item 224) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed pp.58–59 |
+| Third conditional (if + past perfect, would have + past participle) for hypothetical past situations (item 314) | Colombia — Grade 11 *English, please! 3 FAST TRACK* Student's Book, printed p.153 |
+
+Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
