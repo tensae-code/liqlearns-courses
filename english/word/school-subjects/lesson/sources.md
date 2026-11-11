@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania
 
 Every part traces to its book and page.
 
@@ -100,7 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 19 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya).** Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 20 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan, Libya, Tanzania).** Libya joins with school subjects and the favourite lesson — “What's your favourite lesson? It's maths.” (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -364,3 +364,14 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | School subjects in likes — “I like… It's fun” | Uzbekistan, *Fly High ENGLISH 5* (Grade 5), Unit 6, printed p.51 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Tanzania added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Tanzania's one in-hand English book from the file itself: of 18 recorded Tanzania English books (16 student + 2 teacher), only 1 is held — *Reading (English) Standard One — Pupil's Book Two* (Tanzania Institute of Education, © 2019, reprinted 2021, ISBN 978-9987-09-011-2; 6,916,476 bytes, 57 PDF pages, byte-exact against the secured library copy); the other 17 are exact-link only and contribute nothing here. The held book is Book Two of its three-book Standard One Reading series — its own Introduction (printed p. vi) says so — and Books One and Three of the series appear nowhere in Tanzania's records (not held, not link-only) and are cited nowhere. The sweep placed 45 teaching items fresh from a full page-by-page read: 26 were already in the course and 19 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md). Tanzania is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Reading (English) Standard One — Pupil's Book Two* (pupil's book) — Tanzania, Tanzania Institute of Education (TIE), © 2019, reprinted 2021, ISBN 978-9987-09-011-2. Filed in english/books/tanzania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04); re-read page by page in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The school-subjects word set — the four things the teacher teaches: reading, writing, arithmetic and sports (settled by the four exercise blanks) | Tanzania, *Reading (English) Standard One — Pupil's Book Two*, Unit Six “Miss Furaha”, printed pp.24–25 |
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/tanzania-placements.md.

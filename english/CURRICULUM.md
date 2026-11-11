@@ -273,6 +273,8 @@ about the other person, and close the talk.*
 
 - **Sweep additions (2026-11-11, Uzbekistan re-verification sweep merge):** art-words ✅ (1 lesson — the kinds of art and the museum words of English Matters 8's Art Matters unit, which no lesson housed) · eating-out ✅ (1 lesson — the restaurants and cafés words of Fly High 6's At the table unit, which no lesson housed)
 
+- **Sweep addition (2026-11-11, Tanzania re-verification sweep merge):** daily-routines ✅ (1 lesson — the daily-routine phrases go to bed / wake up, early and at midnight, of the Standard One reader's My dream unit, which no lesson housed)
+
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
 definition says.*
@@ -2202,3 +2204,48 @@ Unit 14, and its Unit 18 reading gives "twenty-three million" where the same
 unit's grammar section (printed p.156) gives "seventy-three million".
 **Nepal: 18 of 18 books re-read.** The English course now stands at
 **266 lessons across 44 units**.
+
+**Stocked by Tanzania (2026-11-11, the re-verification sweep merge):** the
+2026-11-08 re-verification sweep re-read Tanzania's one in-hand English
+book from the file itself: of 18 recorded Tanzania English books (16
+student + 2 teacher), only 1 is held — *Reading (English) Standard One —
+Pupil's Book Two* (Tanzania Institute of Education, © 2019, reprinted
+2021, ISBN 978-9987-09-011-2; 6,916,476 bytes, 57 PDF pages, byte-exact
+against the secured library copy) — and the other 17 are exact-link only
+and were stocked from nowhere. The sweep placed 45 teaching items fresh
+from a full page-by-page read: 26 were already in the course and **19
+missing items are now stocked — 18 as provenance rows in 15 existing
+lessons and 1 as the founding point of 1 NEW LESSON (daily-routines,
+Unit 7)** — 0 excluded. Tanzania is newly counted in 16 lessons
+(joined-up-writing, ways-to-read, stronger-comparisons, animals,
+telling-the-time, family-words, health-words, jobs, school-subjects,
+sports, food-and-fruit, exam-technique, the-town, technology-words,
+the-home and the new daily-routines). The held book is Book Two of its
+three-book Standard One Reading series (its own Introduction, printed
+p. vi, calls it "the second book in a series of three books"); flag 1
+is record-side and reported, not edited: Books One and Three of the
+series appear nowhere in Tanzania's records — not held, not link-only —
+so the earlier note that Book Three sits among the link-only books and
+that Book One was filled on an exact link in the November gap work is
+borne out by no record (the gap-downloads manifest has no Tanzania
+entry); both books remain unrecorded and owed by the library side, and
+the filing (english/books/tanzania.md) already states this correctly.
+Flag 2 is filing-side and reported, not edited: the filing names Unit
+One's poem by its first line "I am a good pupil"; its printed heading
+(printed p.3) is "A good pupil" — the poem, page and content are cited
+correctly in the course. Flag 3 is FIXED in the course:
+word-relationships' Unit Two row, as first filed from the filing's
+summary, named only hot/cold; the printed word bank (p.9) is four
+words — hurt, hot, hold, cold — and the row now names all four with the
+correction stated in it. The deliberate the-big-reading exclusion was
+verified correct by the fresh read and stands: the book carries no
+complete book-length text, only its one-to-two-page unit stories.
+Book errors carried: printed p.11's "The next day at night, rats ate
+my new school skirt" is printed so and is not held up as a model (the
+story is stocked, in the-story, from the earlier read); Unit Eleven's
+first exercise is numbered "I." for "1." (printed p.43, cosmetic).
+Read depth is the sweep's declared one: the whole 57-page file read
+page by page from its text layer, with the cover, title page, imprint,
+introduction, printed p.43 and back cover also read as rendered pages.
+**Tanzania: 1 of 1 in-hand books re-read.** The English course now
+stands at **267 lessons across 44 units**.

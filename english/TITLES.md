@@ -186,7 +186,10 @@ its own subtitle folder with its own lesson + questions):
   art-words · eating-out
   (added 2026-11-11 by the Uzbekistan
   re-verification sweep merge — **Unit 7, Words for
-  the World**)
+  the World**) ·
+  daily-routines (added 2026-11-11 by the Tanzania
+  re-verification sweep merge — **Unit 7, Words
+  for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
