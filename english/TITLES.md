@@ -403,6 +403,9 @@ its own subtitle folder with its own lesson + questions):
   reading-graphs-and-charts (added 2026-11-11 by the
   Zimbabwe expansion merge — **Unit 15, Reading Whole
   Texts**) ·
+  parts-of-a-book (added 2026-11-11 by the
+  Honduras expansion merge — **Unit 15, Reading Whole
+  Texts**) ·
   listening-and-following-instructions (added 2026-11-11 by
   the Singapore expansion merge — **Unit 15, Reading Whole
   Texts**) ·

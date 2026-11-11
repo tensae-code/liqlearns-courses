@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic, Costa Rica
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic, Costa Rica, Honduras
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -91,7 +91,7 @@ nineteen," Grade 2; the Grade 3 third-person pair) and the
 Iran row (the age question widened to the whole family). No
 existing row changed.
 
-**Acceptance count: taught in 39 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Liechtenstein, Moldova, Dominican Republic, Costa Rica) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Liechtenstein joins with the age line of its Grade 1 booklet's introduce-yourself page (stocked 2026-11-11 by the Liechtenstein expansion merge).
+**Acceptance count: taught in 40 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua, Palestine, Sierra Leone, Cyprus, Fiji, Tunisia, Uruguay, Liechtenstein, Moldova, Dominican Republic, Costa Rica, Honduras) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Liechtenstein joins with the age line of its Grade 1 booklet's introduce-yourself page (stocked 2026-11-11 by the Liechtenstein expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -733,3 +733,17 @@ The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDF
 Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — every row below rests on a Honduran student's book (the Grade 7 or the Grade 8 *Libro del Estudiante*). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book A:** *Libro del Estudiante, Inglés, 7mo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras, Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa); author Lic. Fernando Antonio Valladares. 388 pp; record: GitHub release mid-size-books-3 (53,757,866 bytes — the read copy byte-matches textbooks.tsv, the staging books.json and the download list exactly). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking and telling age — “How old are you? I'm twelve years old” — inside the introduction dialogues (item 2) | Honduras — *Libro del Estudiante, Inglés, 7mo grado (Telebásica)*, printed pp.38–40 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

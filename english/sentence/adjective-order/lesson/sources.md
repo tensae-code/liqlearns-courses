@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Haiti, Nigeria, Colombia, Costa Rica
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Haiti, Nigeria, Colombia, Costa Rica, Honduras
 Every part traces to its book and page.
 
 **Book 1:** English, Year 6 (Grade 12) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -45,7 +45,7 @@ verification sweep.
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
 | Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with adjective order (Grade 11-1) and the completed adjective order (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa, Malaysia, Kazakhstan, Jordan, Libya, Uruguay, Colombia, Costa Rica, Honduras).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Libya joins with adjective order (Grade 11-1) and the completed adjective order (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Close-Up's adjective order in food descriptions (stocked 2026-11-11 by the re-verification sweep merge). India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -235,3 +235,17 @@ The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDF
 Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — every row below rests on a Honduran student's book (the Grade 7 or the Grade 8 *Libro del Estudiante*). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book C:** *Libro del Estudiante, Inglés, 8vo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa). 355 pp; record: GitHub release mid-size-books-3 (38,355,094 bytes, byte-matched to its records). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The order part of the comparison item: the order of adjectives before a noun, beside the comparative and superlative introduction (item 105) | Honduras — *Libro del Estudiante, Inglés, 8vo grado (Telebásica)*, printed pp.231–235 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

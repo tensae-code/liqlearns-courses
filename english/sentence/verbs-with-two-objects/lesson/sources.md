@@ -1,6 +1,6 @@
 # Sources — Verbs with two objects
 
-countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Barbados, Afghanistan, Eritrea, Zimbabwe, El Salvador, Colombia
+countries: Cambodia, Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Barbados, Afghanistan, Eritrea, Zimbabwe, El Salvador, Colombia, Honduras
 
 Every part traces to its book and page.
 
@@ -35,8 +35,8 @@ verification sweep.
 | A named language point in the teacher notes: transitive and intransitive verbs — underline the direct object (He brought me a colourful umbrella; I will write a letter to him; give yourself a chance) — the note itself names the taught point | India — Honeydew (Class 8), Language point in Units 4–7 (Notes for the Teacher), printed pp.53–58 (unit notes) |
 | Transitive and intransitive verbs in the grammar system (with action, linking and helping verbs) | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Afghanistan, Eritrea, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
+**Acceptance count: taught in 11 countries (Cambodia,
+Mongolia, India, Pakistan, Venezuela, Yemen, Ethiopia, Afghanistan, Eritrea, Colombia, Honduras).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Yemen joins with verbs with two objects in its Grade 8 language summary (stocked 2026-11-11 by the re-verification sweep merge). India joins with transitive and intransitive verbs, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia gives the point a named lesson
 half — verbs with two objects, direct vs indirect
 objects — evidenced by the Grade 11 Teacher's Book's
 spreads, the student's book not being held. Mongolia
@@ -46,7 +46,7 @@ matched Grammar Reference pair on send. The to/for
 signpost choice and the pronoun rule are taught here
 as the working system of the same two shapes; no third
 country's filing teaches the two-object system as a
-named point, and the lesson does not claim one. Ethiopia joins with its Grade 10 direct and indirect objects (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+named point, and the lesson does not claim one. Ethiopia joins with its Grade 10 direct and indirect objects (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -162,3 +162,17 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — every row below rests on a Honduran student's book (the Grade 7 or the Grade 8 *Libro del Estudiante*). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book C:** *Libro del Estudiante, Inglés, 8vo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa). 355 pp; record: GitHub release mid-size-books-3 (38,355,094 bytes, byte-matched to its records). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The two-object part of the object-pronouns item: verbs with two objects, within the full subject/object pronoun system (item 106) | Honduras — *Libro del Estudiante, Inglés, 8vo grado (Telebásica)*, printed pp.239–247 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

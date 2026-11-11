@@ -1,6 +1,6 @@
 # Sources — Spelling
 
-countries: Ghana, Nigeria, Zimbabwe, Zambia
+countries: Ghana, Nigeria, Zimbabwe, Zambia, Honduras
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Spelling — Use invented spelling | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.10.1, PDF p.92 (curriculum evidence) |
 
-**Acceptance count: taught in 0 countries — this lesson stands on curriculum and teacher evidence from 1 country (Ghana).** Ghana's set holds no pupil textbook, so no country is counted as teaching this lesson from a pupil's book. This lesson exists because of Ghana's books: Ghana's NaCCA Basic 4–6 curriculum carries the Spelling standard in its Using Writing Conventions strand at Basic 4, named plainly: 'Use invented spelling'; the course's phonics lessons teach sound patterns and word-building, but no lesson taught the act of spelling itself — writing a word by ear, then checking it to standard. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
+**Acceptance count: taught in 1 country (Honduras).** Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge) — the first rows in this lesson that rest on a pupil's book. The lesson was founded on curriculum and teacher evidence from 1 country (Ghana): Ghana's set holds no pupil textbook, and Ghana, Nigeria, Zimbabwe and Zambia stand on the curriculum/teacher evidence footing their sections state, named in the countries line but not counted. This lesson exists because of Ghana's books: Ghana's NaCCA Basic 4–6 curriculum carries the Spelling standard in its Using Writing Conventions strand at Basic 4, named plainly: 'Use invented spelling'; the course's phonics lessons teach sound patterns and word-building, but no lesson taught the act of spelling itself — writing a word by ear, then checking it to standard. The sweep's diff therefore marked the topic NEW LESSON NEEDED, and the lesson was built from Ghana's evidence alone (stated plainly: built 2026-11-10 by the Ghana re-verification sweep merge). Other countries join as their books are read.
 
 ## Nigeria added 2026-11-11 (expansion merge)
 
@@ -68,3 +68,17 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — its row below rests on the Grade 7 student's book, which makes Honduras the first country counted in this lesson; the founding Ghana rows are curriculum evidence and the Nigeria, Zimbabwe and Zambia rows stand on teacher evidence, exactly as their sections state. Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book A:** *Libro del Estudiante, Inglés, 7mo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras, Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa); author Lic. Fernando Antonio Valladares. 388 pp; record: GitHub release mid-size-books-3 (53,757,866 bytes — the read copy byte-matches textbooks.tsv, the staging books.json and the download list exactly). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Spelling improvement: a list of 50 frequently misspelt English words to copy and learn, and building word maps (concept maps) for vocabulary (item 52) | Honduras — *Libro del Estudiante, Inglés, 7mo grado (Telebásica)*, printed pp.282–286 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together — Honduras is the first country counted in this lesson, on the strength of its pupil's book.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

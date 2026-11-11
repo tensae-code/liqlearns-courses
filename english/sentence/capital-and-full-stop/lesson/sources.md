@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Andorra, Zambia, Moldova, Dominican Republic, Colombia, Guyana
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya, Barbados, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Andorra, Zambia, Moldova, Dominican Republic, Colombia, Guyana, Honduras
 
 Every part traces to its book and page.
 
@@ -205,8 +205,8 @@ verification sweep.
 | Punctuating a paragraph about stopping global warming | Mongolia, English XI, Unit 5, printed p.83 |
 | Punctuating an animal journal (zebras and jaguars) | Mongolia, English XI, Unit 6, printed pp.94–95 |
 
-**Acceptance count: taught in 38 countries (Bangladesh,
-Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya, Fiji, Eritrea, Samoa, Moldova, Dominican Republic, Colombia, Guyana).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Libya joins with capital letters introduced in Grade 1 (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
+**Acceptance count: taught in 39 countries (Bangladesh,
+Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya, Fiji, Eritrea, Samoa, Moldova, Dominican Republic, Colombia, Guyana, Honduras).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Libya joins with capital letters introduced in Grade 1 (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with punctuation in writing sentences, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana states the rules as curriculum strands;
 Bangladesh boxes the capital rule, prints a text wearing it
 in red, and drills the stop/question-mark pair in its first
 punctuation exercises; Indonesia names the marks and
@@ -228,7 +228,7 @@ the naming. Iraq teaches the pair outright from the first year: its Grade 1 Teac
 their books are read (see READING-QUEUE.md).
 Mauritania teaches name-spelling and the capital-letter rules
 in its Grade 7 book (stocked 2026-11-09 by the Mauritania re-
-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
+verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -798,3 +798,21 @@ The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk
 Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — every row below rests on a Honduran student's book (the Grade 7 or the Grade 8 *Libro del Estudiante*). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book A:** *Libro del Estudiante, Inglés, 7mo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras, Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa); author Lic. Fernando Antonio Valladares. 388 pp; record: GitHub release mid-size-books-3 (53,757,866 bytes — the read copy byte-matches textbooks.tsv, the staging books.json and the download list exactly). Printed page = PDF page − 2; pages cited are printed pages.
+
+**Book C:** *Libro del Estudiante, Inglés, 8vo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa). 355 pp; record: GitHub release mid-size-books-3 (38,355,094 bytes, byte-matched to its records). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Punctuation marks in English, taught mark by mark with rules and examples: period, comma (series, conjunction, dates), colon, semicolon, and the remaining marks of the sequence (item 38) | Honduras — *Libro del Estudiante, Inglés, 7mo grado (Telebásica)*, printed pp.202–207 |
+| Capitalisation rules in English (sentence initials, proper nouns, directions naming real places vs pointing directions, and the sequence's remaining rules) with correction exercises (item 43) | Honduras — *Libro del Estudiante, Inglés, 7mo grado (Telebásica)*, printed pp.229–232 |
+| Capital letters and punctuation in English: question mark (never after an indirect question), exclamation mark, colon (long quotations, lists), semicolon (item 117) | Honduras — *Libro del Estudiante, Inglés, 8vo grado (Telebásica)*, printed pp.284–288 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Starting and Ending a Conversation
 
-countries: Indonesia, Saudi Arabia, Eritrea, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, Canada, Singapore, Andorra, El Salvador, Zambia, Moldova, Colombia, Costa Rica
+countries: Indonesia, Saudi Arabia, Eritrea, Sri Lanka, Liechtenstein, Haiti, Zimbabwe, Canada, Singapore, Andorra, El Salvador, Zambia, Moldova, Colombia, Costa Rica, Honduras
 
 Every part traces to its book and page.
 
@@ -11,7 +11,7 @@ Every part traces to its book and page.
 | Sub lessons 1 and 3 — expressions for starting and ending a conversation, taught as a named set | Indonesia, English for Change Grade 11, Unit 4, printed p.139 |
 | Sub lesson 2 — keeping talk going in discussion work | Indonesia, English for Change Grade 11, the discussion units (the opinion and debate work stocked in Stating and Giving Opinions and Presentation Skills) |
 
-**Acceptance count: taught in 7 countries (Indonesia, Saudi Arabia, Eritrea, Liechtenstein, Moldova, Colombia, Costa Rica).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the courtesy dialogue pairs of its Grade 1 handbook and of LinGo 4.0 (stocked 2026-11-11 by the Liechtenstein expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the start/end expressions taught as their own set with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' conversation-frame teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 8 countries (Indonesia, Saudi Arabia, Eritrea, Liechtenstein, Moldova, Colombia, Costa Rica, Honduras).** Costa Rica joins with the Costa Rica rows stocked below (stocked 2026-11-11 by the Costa Rica expansion merge). Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the courtesy dialogue pairs of its Grade 1 handbook and of LinGo 4.0 (stocked 2026-11-11 by the Liechtenstein expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the start/end expressions taught as their own set with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' conversation-frame teaching joins as their sweep merges land. Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge). Honduras joins with the Honduras rows stocked below (stocked 2026-11-11 by the Honduras expansion merge).
 
 **Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
@@ -228,3 +228,17 @@ The 2026-11-10 expansion read read Costa Rica's in-hand English set from the PDF
 Costa Rica is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/costa-rica-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is counted** — every row below rests on a Honduran student's book (the Grade 7 or the Grade 8 *Libro del Estudiante*). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book C:** *Libro del Estudiante, Inglés, 8vo grado (Telebásica)* (student's book) — Honduras, Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa). 355 pp; record: GitHub release mid-size-books-3 (38,355,094 bytes, byte-matched to its records). Printed page = PDF page − 2; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conversation craft: dialogue norms, useful phrases and silence fillers (“To start with…”, “To begin with…”, “Well…”), formal and informal introduction formulas, and two introduction conversations (item 73) | Honduras — *Libro del Estudiante, Inglés, 8vo grado (Telebásica)*, printed pp.65–70 |
+
+Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.

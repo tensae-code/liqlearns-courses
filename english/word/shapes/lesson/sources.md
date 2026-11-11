@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Nigeria, Zimbabwe, Zambia, Bhutan, Japan
+countries: Bolivia, North Macedonia, South Africa, Laos, Ecuador, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Liechtenstein, Haiti, Nigeria, Zimbabwe, Zambia, Bhutan, Japan, Honduras
 
 Every part traces to its book and page.
 
@@ -260,3 +260,17 @@ The 2026-11-10 expansion read read Japan's in-hand English set from the PDFs —
 Japan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/japan-placements.md.
+
+## Honduras added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs — **3 books: 2 student books and 1 teacher guide**, all Secretaría de Educación de Honduras / Programa de Televisión Educativa Hondureña – TELEBÁSICA (Suyapa TV Educativa): the Grade 7 *Libro del Estudiante* (388 pp), its *Guía del Docente* (329 pp) and the Grade 8 *Libro del Estudiante* (355 pp) — **125 teaching items placed, 0 already in the course; all 125 are stocked in this merge.** Read depth, as the placements declare it: all three books read in full, page by page through their text layers; in all three books the printed page = PDF page − 2, and the pages below are printed pages. The books are Spanish-medium Telebásica texts that teach English, and their English content (grammar explanations with English examples, dialogues, readings, songs and per-sequence bilingual glossaries) was read in full. The Grade 7 teacher guide mirrors the student book sequence for sequence and stocks exactly one unique item of its own — the “Senderos de Inglés” diagnostic (item 125) — corroborating the student book's items 1–63 everywhere else. **Counting for this lesson: Honduras is NOT counted** — its only row below rests on the Grade 7 teacher guide alone, so Honduras is named in the countries line and the row but is not added to the acceptance count (the standing Ghana/Barbados evidence-only precedent). Honduras stays PARTIAL for English: the Grade 9 student book (exact live link, 61,808,118 bytes, never secured) and the Grade 8 teacher guide (exact live link, 14,487,757 bytes, never secured) are cited nowhere (diff flags F1–F2), and the Grade 9 teacher guide survives only as a reader copy, not a securable file (F3). The placements' named exclusions stand and are stocked nowhere: front matter, imprints, contents pages and bibliographies; the books' long Spanish curriculum-framework introduction essays; review sequences with no new content (new readings inside review sequences were placed); TV-programme delivery instructions; the guide's session plans, evaluation suggestions and answer keys except item 125; and song lyrics (placed as titles only, never transcribed). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (honduras-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book B:** *Guía del Docente, Inglés, 7mo grado (Telebásica)* (TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book) — Honduras, Secretaría de Educación de Honduras / TELEBÁSICA (Suyapa TV Educativa). 329 pp; record: GitHub release mid-size-books-3 (24,130,854 bytes, byte-matched to its records). Printed page = PDF page − 2. The guide mirrors Book A sequence for sequence — teaching intentions, TV-programme contents, evaluation suggestions and printed answer keys — and carries no extra sequences; the row below is its one unique teaching item.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shapes part of the “Senderos de Inglés” diagnostic: naming shapes in English (triangle, circle, square) (teacher evidence) (item 125) | Honduras — *Guía del Docente, Inglés, 7mo grado (Telebásica)*, printed pp.19–22 — teacher evidence |
+
+Honduras enters this lesson as teacher evidence only: it is named in the countries line and in the row above, but it is NOT added to the acceptance count above — Honduras's only row here rests on its Grade 7 teacher guide, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.
