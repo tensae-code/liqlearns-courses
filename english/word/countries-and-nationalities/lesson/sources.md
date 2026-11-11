@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos
 
 Every part traces to its book and page.
 
@@ -34,7 +34,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 7 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -64,3 +64,18 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Countries, nationalities and languages — flags, names and origins, with the world map the plan keys; the Grade 7 book's own entry into the set | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 5, student printed pp.42–49 (guide plan printed p.28) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 7:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Countries and nationalities; “Where are you from? I'm from Laos” | Laos, Grade 6 Student's Book, Unit 3, printed p.26 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

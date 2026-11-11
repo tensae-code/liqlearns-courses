@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos
 
 Every part traces to its book and page.
 
@@ -101,7 +101,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 18 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 19 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -457,3 +457,26 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Writing an informal letter/email from prompts; accepting/refusing an invitation; giving news | Malaysia, Form 4 *Full Blast Plus 4*, Module 1 (contents, skills spread) |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 42:** *English for Lao Secondary Schools*, Grade 8 Student's Book (ມ.3) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 43:** *English for Lao Secondary Schools*, Grade 9 Student's Book (ມ.4) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 44:** *English for Lao Secondary Schools*, Grade 10 Student's Book (ມ.5) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 45:** *English for Lao Secondary Schools*, Grade 12 Student's Book (ມ.7) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letters and customs: a letter from Laos; rules and customs in different countries | Laos, Grade 8 Student's Book, Unit 10 Lesson 1, printed p.118 |
+| Writing a personal letter | Laos, Grade 9 Student's Book, Unit 10 Lesson 1, printed p.124 |
+| Communication: sending a letter | Laos, Grade 10 Student's Book, Unit 8, printed p.97 |
+| Short forms in informal letters: I'm, he's, there's, we're (contractions table) | Laos, Grade 12 Student's Book, Unit 4, printed p.46 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

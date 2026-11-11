@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos
 
 Every part traces to its book and page.
 
@@ -73,8 +73,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 14 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 15 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -223,3 +223,21 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Everyday English — persuading someone to do something and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 10, printed p.104 |
 | Everyday English — making and responding to suggestions | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
 | Speaking — suggesting activities for a wildlife conservation event | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.105 |
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 20:** *English for Lao Primary Schools*, Grade 4 Student's Book — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 21:** *English for Lao Secondary Schools*, Grade 9 Student's Book (ມ.4) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Suggestions with let's: “Let's clean (the table). Yes, let's do it” | Laos, Grade 4 Student's Book, Lesson 8, printed pp.58–65 |
+| Planning an outing; a zoo visit (suggestion work) | Laos, Grade 9 Student's Book, Unit 4 Lessons 1–2, printed p.43 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

@@ -748,3 +748,18 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 38:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The English alphabet: capital and small letters, vowels and consonants, spelling your name | Laos, Grade 6 Student's Book, Unit 1 Lesson 1, printed p.1 |
+
+Laos was already counted in this lesson; the rows above complete its stock and the count above is unchanged.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

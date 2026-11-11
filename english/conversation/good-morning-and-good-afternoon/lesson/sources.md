@@ -1,6 +1,6 @@
 # Sources for this lesson — Good morning and good afternoon
 
-countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen
+countries: Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Yemen, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -69,7 +69,7 @@ verification sweep.
 | Greetings by time of day — good morning / afternoon / evening, good night — with nice to meet you (too) | Mauritania, Study English, Grade 7, printed pp.11–12 |
 | The greeting taught from the year's first poem: "Good Morning" (Fannie R. Buchanan) — the child greets sky, sun, winds, birds, trees, grass and bees on waking; talk time: "In the morning I say Good morning, at night Good night", and saying Good morning in your own language | India — Marigold Book Three (Class 3), Unit 1, printed pp.1–10 |
 
-**Acceptance count: taught in 28 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen).** Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 29 countries (Egypt, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Yemen, Laos).** Yemen joins with the “Good morning” greeting exchange printed in its Grade 7 book — its earlier “not stocked” note in this file was wrong for Good morning (sweep flag 1) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge). India joins with the greeting taught from Class 3's first poem, "Good Morning", with its morning/night talk time (stocked 2026-11-09 by the India re-verification sweep merge).
 China teaches the pair inside its colours unit in the first
 primary book; Mongolia stocks the day-part ground the greeting
 stands on — one boy's whole day told in clock pictures — from a
@@ -376,3 +376,18 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | “Good morning” printed as a greeting exchange — “Hello. / Hello. / Good morning. / Good morning. / Goodbye. / Bye.” (sweep flag 1: this file's earlier “not stocked” note was wrong for Good morning and is corrected in place) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.3 |
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 2:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings by time of day: good morning/afternoon/evening; “How are you? I'm fine, thank you” | Laos, Grade 6 Student's Book, Unit 1 Lesson 1, printed p.1 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

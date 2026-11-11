@@ -393,3 +393,22 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 47:** *English for Lao Primary Schools*, Grade 3 Student's Book (older edition — the 2012-era production held in the same Grade 3 slot) — Laos, MoES/RIES. Filed in english/books/laos.md; read for the first time in the 2026-11-08 re-verification sweep (the 2026 merge left it unread under the edition rule). The points stocked from it are the ones the 2021 revision dropped.
+
+**Book 48:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parts of the body (singular and plural): “This is my… / These are my…” | Laos, Grade 3 Student's Book (older edition), Lessons 11–12, printed pp.77–92 |
+| Parts of the head and body | Laos, Grade 6 Student's Book, Unit 9, printed p.104 |
+| Have/has got for body description: “He's got beautiful eyes” | Laos, Grade 6 Student's Book, Unit 9 Lesson 2, printed p.110 |
+
+Laos was already counted in this lesson; the rows above complete its stock and the count above is unchanged.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

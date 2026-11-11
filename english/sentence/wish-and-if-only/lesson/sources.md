@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos
 
 Every part traces to its book and page.
 
@@ -61,7 +61,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen).** Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 14 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos).** Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -162,3 +162,18 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Wishes — the structure as set out in the book's own Grammar Reference (§11.4 “Wishes”) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Grammar Reference §11.4, printed p.175 |
 
 Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only. One flag is settled by this stocking: since 2026-10-27 the conditionals lesson's sources have said Laos's Grade 12 wishes are taught “under wish” and filed as wish — but no Laos entry stood in this file at all (sweep Flag 2). The wish point is stocked below now, and the fresh read places it at printed p.11 (Unit 1 Lesson 3), not p.8 as the conditionals block says; a correction note stands in that file too.
+
+**Book 12:** *English for Lao Secondary Schools*, Grade 12 Student's Book (ມ.7) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Wishes about the past and present: “I wish I had studied harder; I wish I were rich” | Laos, Grade 12 Student's Book, Unit 1 Lesson 3, printed p.11 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

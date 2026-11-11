@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine
+countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 | Presents/toys word set with the indefinite article — a ball, a CD, a doll, a teddy, a car, a radio | North Macedonia — EXTRA and Friends 2, Pupil's Book, Grade 2, Module 1, Lesson 3, printed p.6 |
 
-**Acceptance count: taught in 5 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine).** North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+**Acceptance count: taught in 6 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos).** North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -46,3 +46,19 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | Lesson part | Where it comes from |
 |---|---|
 | Toy words — ball, doll, yo-yo, kite, balloon, skates (the placements' "toys and games" topic, stocked in this lesson, which the Indonesia sweep merge built for it) | Palestine, Grade 1 Part 2, Unit 10, printed pp.4–9 |
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 4:** *English for Lao Primary Schools*, Grade 3 Student's Book (2021 revised edition) — Laos, Ministry of Education and Sports (MoES) / Research Institute for Educational Sciences (RIES). Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Play activities vocabulary — the “Having fun” lesson | Laos, Grade 3 Student's Book (2021 revised edition), Lesson 21, printed p.94 |
+| Toys vocabulary | Laos, Grade 3 Student's Book (2021 revised edition), Lesson 23, printed p.105 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

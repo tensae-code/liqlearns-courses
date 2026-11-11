@@ -397,6 +397,14 @@ would need — **I wish I had / hadn't + past participle** —
 IS taught (p.8), but under "wish," never as a conditional;
 the course files it as wish, not as a conditional from Laos.
 
+**Correction (2026-11-11, re-verification sweep merge):**
+the last sentence above was not true as written — the
+2026-11-08 sweep found NO Laos entry at all in
+wish-and-if-only's sources (its Flag 2). The wish point is
+stocked there now, and the sweep's fresh read places the
+Grade 12 wishes at printed p.11 (Unit 1 Lesson 3), not p.8.
+The claim stands from this date.
+
 **China checked — NOT stocked (series-final, 2026-10-29).**
 All nine China books were read whole for this lesson
 (filings in english/books/china.md). **No conditional is

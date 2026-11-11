@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -95,7 +95,7 @@ how-old-are-you), not here.
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
 | Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
 | The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
-**Acceptance count: taught in 31 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine).**
+**Acceptance count: taught in 32 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -582,3 +582,23 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 7:** *English for Lao Primary Schools*, Grade 3 Student's Book (2021 revised edition) — Laos, Ministry of Education and Sports (MoES) / Research Institute for Educational Sciences (RIES). Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 8:** *English for Lao Primary Schools*, Grade 4 Student's Book — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 9:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introducing family: “This is my (mother)…” | Laos, Grade 3 Student's Book (2021 revised edition), Lesson 10, printed p.46 |
+| Introducing friends and family: “This is my (mother)”; “It's nice to meet you (too)” | Laos, Grade 4 Student's Book, Lesson 4, printed pp.28–36 |
+| Meeting people: “Pleased to meet you” | Laos, Grade 6 Student's Book, Unit 1 Lesson 3, printed p.11 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

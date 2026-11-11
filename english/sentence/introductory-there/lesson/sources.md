@@ -1,6 +1,6 @@
 # Sources — Introductory There
 
-countries: Bangladesh, Egypt
+countries: Bangladesh, Egypt, Laos
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ english/bangladesh-placements.md).
 | The pattern named outright: introductory "There" — There is/are… with the real subject after the verb — taught as the Language Point of the newspaper lesson | Bangladesh, English for Today, Dakhil Class Eight, Unit 8 "News! News! News!", Lesson 2 "The First Newspaper," Language Point box, printed p.99 (the lesson at printed pp.96–99) |
 | The lesson's example sentences (a book on the table, a school in our village, students in the class) | The course's own workings on the book's named pattern — the sweep's filing names the pattern; no example sentence is quoted from the book |
 
-**Acceptance count: taught in 2 countries (Bangladesh, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Bangladesh, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Bangladesh's English books. The
@@ -51,3 +51,26 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 4:** *English for Lao Primary Schools*, Grade 3 Student's Book (2021 revised edition) — Laos, Ministry of Education and Sports (MoES) / Research Institute for Educational Sciences (RIES). Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 6:** *English for Lao Secondary Schools*, Grade 10 Student's Book (ມ.5) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 7:** *English for Lao Secondary Schools*, Grade 12 Student's Book (ມ.7) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “There is a…” for what is in a room | Laos, Grade 3 Student's Book (2021 revised edition), Lesson 26, printed p.118 |
+| There is/are — statements, questions and short answers | Laos, Grade 6 Student's Book, Unit 4, printed p.45 |
+| There's/there are for rooms and house contents | Laos, Grade 10 Student's Book, Unit 2, printed p.16 |
+| There is/are vs have/has for describing places | Laos, Grade 12 Student's Book, Unit 4 Lesson 2, printed p.51 |
+
+Laos is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

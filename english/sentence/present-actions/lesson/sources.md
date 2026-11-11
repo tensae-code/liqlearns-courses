@@ -865,3 +865,32 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12 — Grade 3 held in two editions (the 2021 revised edition, itemised as the current book, and the older edition, read this pass for the first time; the points the revision dropped are stocked from it and marked as older-edition rows below) — plus 11 teacher's guides, which are teacher evidence only and contribute no learner items. The two files the library record holds as the Grade 7 and Grade 11 English teacher guides are in fact Lao Physical Education guides; they were excluded from the read and nothing is cited from them. The sweep placed 232 items: 73 already in the course, 159 missing — the 2026 merge had stocked Laos's phonics spine, its numbers climb and its anchor grammar, but most vocabulary fields and functional language had no Laos citation anywhere. Rows below are this lesson's Laos share, taken from the sweep's placements file. Stories and readings are stocked as plot summaries only.
+
+**Book 114:** *English for Lao Primary Schools*, Grade 5 Student's Book — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 115:** *English for Lao Secondary Schools*, Grade 6 Student's Book (ມ.1) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 116:** *English for Lao Secondary Schools*, Grade 7 Student's Book (ມ.2) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 117:** *English for Lao Secondary Schools*, Grade 9 Student's Book (ມ.4) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 118:** *English for Lao Secondary Schools*, Grade 10 Student's Book (ມ.5) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 119:** *English for Lao Secondary Schools*, Grade 12 Student's Book (ມ.7) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present continuous for what you are doing now | Laos, Grade 5 Student's Book, Lesson 3, printed pp.19–27 |
+| Daily activities, daytime and evening (present simple routines) | Laos, Grade 5 Student's Book, Lesson 8, printed pp.58–66 |
+| Have/has for family and possessions: “I have one brother. He has…” | Laos, Grade 6 Student's Book, Unit 5 Lesson 2, printed p.59 |
+| Present continuous vs present simple: “What's she doing?” | Laos, Grade 7 Student's Book, Unit 3 Lesson 1, printed p.27 |
+| Present simple restated for facts and routines | Laos, Grade 9 Student's Book, Unit 1, printed p.1 |
+| Present continuous tense, full paradigm | Laos, Grade 10 Student's Book, Unit 4, printed p.45 |
+| Present continuous for future arrangements: “Next week, I'm visiting my grandparents” | Laos, Grade 12 Student's Book, Unit 2, printed p.21 |
+
+Laos was already counted in this lesson; the rows above complete its stock and the count above is unchanged.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+

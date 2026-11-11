@@ -1860,3 +1860,70 @@ Close-Up B1, not B1+) are reported, not edited
 **Malaysia: 10 of 10 read.** No new lesson was
 built; the English course total is unchanged
 at **256 lessons across 44 units**.
+
+**Laos merged 2026-11-11 (re-verification sweep).** The
+sweep re-read Laos's set from the files: 22 slots verified
+in hand — 11 student's books over 10 grade slots, Grades
+3–12 (Grade 3 in two editions: the 2021 revised edition
+itemised as the current book, and the older edition read
+this pass for the first time), plus 11 teacher's guides,
+teacher evidence only, 0 learner items. 232 fresh items
+placed: 73 already in the course, **159 missing — all 159
+stocked** as 167 provenance rows into 71 lessons (8 items
+are dual-targeted and stand in each lesson the placements
+name); Laos is newly counted in 56 lessons and completes
+its stock in 15 already-counted ones. No new lesson was
+built: every one of the sweep's 9 "new lesson" topics
+already had a lesson built since the sweep was written —
+classroom objects → school-and-classroom-things; can and
+can't (ability) → can-for-ability; play activities and
+toys → toys-and-games; shapes → shapes; thanking and
+polite replies → expressing-gratitude; countries and
+nationalities → countries-and-nationalities; festivals
+and celebrations → festivals-and-cultural-events;
+materials → what-things-are-made-of. Flags: (1) the
+library record's Grade 7 and Grade 11 "English teacher
+guides" are Lao Physical Education guides — verified from
+byte-exact grabs of the recorded files (the Grade 7 file
+is a running/jumping guide, its p.50 a 100 m sprint
+lesson; the Grade 11 file's interior footer names a PE
+source file); both excluded from the read, nothing cited
+from them, and no PE guide is cited as English teaching
+anywhere; the genuine English guides sit in the
+course-work folder under no record (record-side,
+reported, not edited). (2) FIXED course-side: the
+conditionals sources claimed since 2026-10-27 that Laos's
+Grade 12 "I wish I had…" is "filed as wish" — but
+wish-and-if-only held no Laos entry at all; the point is
+stocked there now, the fresh read places it at printed
+p.11 (Unit 1 Lesson 3), not p.8 as the conditionals block
+said, and a dated correction note stands in conditionals.
+(3) "LAOS COMPLETE" held only under the edition rule: the
+older Grade 3 book teaches 9 points the 2021 revision
+dropped (how-are-you, age, plural objects, shapes,
+thanking, body parts, body commands, pain, directions) —
+all stocked now from the older edition; the inventory's
+edition labels ("1998" / "revised 2016") match no imprint
+in the files — the older book is the 2012-era production
+and the revision is dated 2021 (filing/inventory-side,
+reported, not edited). (4) The Grade 10 teacher guide's
+staging record gives its source filename as a
+Lao-language file, but the file at that URL is in fact
+the English guide (record-side, reported, not edited).
+Book errors carried: Grade 5 prints a "31st September"
+(printed p.44), a date that cannot exist — already
+recorded in days-and-months; Grade 11's Contents omits
+the unit title line for its Unit 10 (noted in
+the-big-reading's Laos section); the Grade 12 student's
+book and teacher's guide print the same 161-page
+pagination under the same cover design — a standing
+mix-up risk, stated in the sweep. Verified as correct,
+not flags: the present-perfect-continuous verdict "Laos
+checked — NOT stocked" (no Laos book teaches that tense)
+and the conditionals verdict that Laos teaches only the
+first conditional. the-big-reading: Laos joins as a
+distinction country only (24 → 25) — sustained biography,
+disease and population readings, no complete book-length
+text. **Laos: 22 of 22 slots read.** No new lesson was
+built; the English course total is unchanged at **256
+lessons across 44 units**.

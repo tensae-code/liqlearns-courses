@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -280,7 +280,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 24 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia)** — the
+**Acceptance count: taught in 25 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -857,3 +857,24 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Crime story: “Whodunnit?” (a man accused by his boss protests his innocence from a cell) — plot summary only | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 6, printed p.70 |
 
 Malaysia joins this lesson as a distinction country only: none of the texts above is a complete book-length text, its Scheme-of-Work rows name texts in pupil's books that are not held, and Malaysia does not join the five complete-text countries. The countries line and the acceptance count above were updated together.
+
+## Laos added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Laos's English set from the files: 11 student's books over 10 grade slots, Grades 3–12, plus 11 teacher's guides (teacher evidence only, no learner items). The sweep placed 232 items: 73 already in the course, 159 missing. Rows below are this lesson's Laos share, taken from the sweep's placements file. Laos's long readings are sustained lesson-length readings — biography, disease and population texts — and NONE of them is a complete book-length text or a complete graded reader, so Laos joins this lesson as a distinction country only, the same way Bangladesh, Bolivia, China and the others joined; it does not join the five complete-text countries on their terms. All readings are filed as summaries only. Book error carried: the Grade 11 book's Contents omits the unit title line for its Unit 10 (the people-and-population unit at printed p.128), which stands in the book's lesson list without a unit heading.
+
+**Book 48:** *English for Lao Secondary Schools*, Grade 9 Student's Book (ມ.4) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book 49:** *English for Lao Secondary Schools*, Grade 11 Student's Book (ມ.6) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+**Book 50:** *English for Lao Secondary Schools*, Grade 12 Student's Book (ມ.7) — Laos, MoES/RIES. Filed in english/books/laos.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Biography readings: Prince Souphanouvong (2 parts) and Ho Chi Minh — sustained life-story readings, filed as summaries only | Laos, Grade 9 Student's Book, Unit 6, printed p.66 |
+| Disease readings: AIDS, malaria, bird flu — sustained readings, filed as summaries only | Laos, Grade 11 Student's Book, Unit 7, printed p.83 |
+| People and population: people in Laos, mother and child, ASEAN population (readings) | Laos, Grade 11 Student's Book, Unit 10, printed p.128 |
+| Population growth and economic development (readings) | Laos, Grade 12 Student's Book, Unit 8, printed p.98 |
+
+Laos joins this lesson as a distinction country only: none of the texts above is a complete book-length text, and Laos does not join the five complete-text countries. The countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
+
