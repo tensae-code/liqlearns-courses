@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Moldova
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore, Zambia, Bhutan, Moldova, Guyana
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -146,7 +146,7 @@ verification sweep.
 | The short-a sound, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
 | Alphabet sounds — the sounds the letters make | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
-**Acceptance count: taught in 24 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 25 countries (Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Nicaragua, Kazakhstan, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with sounding out words from taught letters and digraphs (Year 2 Part B) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with listening for the 'b' sound in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the alphabet stocked as five phonics sets rather than
 letter by letter (Grade 3 Volume 1), a complete short-vowel cycle
 inside one volume (Grade 3 Volume 2), and end-of-primary review
@@ -823,3 +823,20 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Fun With Language Book 2 Part 1* — Guyana, Ministry of Education, Georgetown, Easy Path Series (GOG/IDB Primary Education Improvement Programme), © 2004, Revised 2004, ISBN 976-8198-04-4. Student's book, Grade 2 — Part 1 only (Units 1–15 + Looking Back, printed pp.1–77). 86 PDF pp.; staging record grade-02/gov/guyana/english/student/part-1.pdf (13,774,889 bytes; the read copy byte-matches its record). Printed page = PDF page − 5; pages cited are printed pages. Book errors carried: the contents lists Unit 8 “Shopping” with no page number and Unit 7 “Rescue” at page “3'1”, and Unit 4's first lesson is headed “Lesson 2” (printed p.16) — no Lesson 1 heading exists (E1); a stray folio “2” / “3” sits inside the Unit 6 sentence-matching exercise (E2) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: the initial sound T/t, found in a counting rhyme and sorted into sentences | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 1, printed p.4 |
+| Phonics: initial L/l (lamp, leaf, log, lime, leg, lock; light set against palm / mall / blow) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 3, printed p.14 |
+| Phonics: a short e word race (pet, get, end, tell, bell, well, pen, hen, red, bed, egg) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 12, printed p.58 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

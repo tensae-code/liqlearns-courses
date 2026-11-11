@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova, Dominican Republic
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Haiti, Nigeria, Zimbabwe, El Salvador, Moldova, Dominican Republic, Guyana
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,7 +72,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 27 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova, Dominican Republic).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 28 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Uzbekistan, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Moldova, Dominican Republic, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 5's writing an invitation (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -480,3 +480,19 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an invitation card to a picnic | Guyana — *Fun With Language Book 3* (Grade 3), Unit 4, printed p.22 |
+| Reading an invitation (TO / WHAT / WHEN / WHERE / TIME / HOST format: Jenny invited to Jason's birthday party, 13th June 2004, 80 Anna Regina, 16:00 hrs), with comprehension | Guyana — *Fun With Language Book 3* (Grade 3), Unit 26, printed pp.118–119 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

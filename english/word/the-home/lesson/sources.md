@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic, Colombia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia, Moldova, Dominican Republic, Colombia, Guyana
 
 Every part traces to its book and page.
 
@@ -270,9 +270,9 @@ verification sweep.
 | Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
 | Rooms and furniture: rooms — bedroom, kitchen, bathroom, living room, garden; things — a bed, a table, a chair, a bath, a bookcase, a sofa, an armchair, a tree, a swing — then listen-and-colour a bedroom scene (Module 2 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Checkpoint 2, pupil printed p.19 |
 | One Picture Dictionary word no lesson teaches: desk, in the "My Room" list (with bed, chair, table) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Picture Dictionary, pupil printed pp.75–78 |
-**Acceptance count: taught in 45 countries (Egypt, Libya,
+**Acceptance count: taught in 46 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Moldova, Dominican Republic, Colombia).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Moldova, Dominican Republic, Colombia, Guyana).** Colombia joins with the Colombia rows stocked below (stocked 2026-11-11 by the Colombia expansion merge). Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -952,3 +952,18 @@ The 2026-11-10 expansion read read Colombia's in-hand English set from the PDFs 
 Colombia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/colombia-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The poem “Home” (animal homes: pen/hen, hive/bee, den/lion, kennel/dog, sty/pig, nest/kiskadee), with comprehension and a synonym for home | Guyana — *Fun With Language Book 3* (Grade 3), Units 19–20, Review (II), printed p.90 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

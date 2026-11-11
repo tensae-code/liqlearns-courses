@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Andorra, Zambia, Moldova
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Andorra, Zambia, Moldova, Guyana
 
 Every part traces to its book and page.
 
@@ -282,8 +282,8 @@ verification sweep.
 | Explore the use of proverbs to enrich communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.4.1, PDF p.59 (curriculum evidence) |
 | Action phrases met in a numbering activity: read a book, play with a ball, listen to music, watch TV | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Checkpoint 7, Lesson 8, pupil printed p.58 |
 | Action verbs set — hear, read, dance, cook, jump, draw, sing, see, fly, run — matched to pictures | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.66 |
-**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the verb sets of all four LinGo 4 units and the Grade 4 classroom verbs (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its verb sets — the jungle movement verbs, shake/stretch, and the action and social verbs of Years 4–5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the action phrases and the action-verb set as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 46 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Liechtenstein, Moldova, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the verb sets of all four LinGo 4 units and the Grade 4 classroom verbs (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its verb sets — the jungle movement verbs, shake/stretch, and the action and social verbs of Years 4–5 (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the action phrases and the action-verb set as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -986,3 +986,22 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Fun With Language Book 2 Part 1* — Guyana, Ministry of Education, Georgetown, Easy Path Series (GOG/IDB Primary Education Improvement Programme), © 2004, Revised 2004, ISBN 976-8198-04-4. Student's book, Grade 2 — Part 1 only (Units 1–15 + Looking Back, printed pp.1–77). 86 PDF pp.; staging record grade-02/gov/guyana/english/student/part-1.pdf (13,774,889 bytes; the read copy byte-matches its record). Printed page = PDF page − 5; pages cited are printed pages. Book errors carried: the contents lists Unit 8 “Shopping” with no page number and Unit 7 “Rescue” at page “3'1”, and Unit 4's first lesson is headed “Lesson 2” (printed p.16) — no Lesson 1 heading exists (E1); a stray folio “2” / “3” sits inside the Unit 6 sentence-matching exercise (E2) — noted, taught corrected.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Household work verbs in context (takes, hangs, launders clothes; waters/leaves picture words) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 1, printed p.3 |
+| The action words grazing / flying in completion sentences | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 5, printed p.23 |
+| Verbs defined: words that tell what someone or something does (opens, stretches, wags, stands, arches, gives, ambles — in the poem “Dog”) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 2, printed pp.10–11 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

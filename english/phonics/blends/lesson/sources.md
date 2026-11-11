@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Bhutan
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Bhutan, Guyana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -134,7 +134,7 @@ pictures).
 | Blends And Consonant Clusters — Orally produce two-syllable words by blending sounds | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.5.1, PDF p.119 (curriculum evidence) |
 | Blends And Consonant Clusters — Orally produce three-syllable words by blending | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.5.1, PDF p.195 (curriculum evidence) |
 
-**Acceptance count: taught in 24 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Bhutan).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge).
+**Acceptance count: taught in 25 countries (Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Fiji, Eritrea, Samoa, Sri Lanka, Bhutan, Guyana).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge).
 China joins with blends taught two at a time on Let's spell
 pages in Grade 5 (cl/pl, gr/br) and sorted again in the
 end-of-primary grouping review (Grade 6 Volume 2). Iran joins
@@ -653,3 +653,25 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Fun With Language Book 2 Part 1* — Guyana, Ministry of Education, Georgetown, Easy Path Series (GOG/IDB Primary Education Improvement Programme), © 2004, Revised 2004, ISBN 976-8198-04-4. Student's book, Grade 2 — Part 1 only (Units 1–15 + Looking Back, printed pp.1–77). 86 PDF pp.; staging record grade-02/gov/guyana/english/student/part-1.pdf (13,774,889 bytes; the read copy byte-matches its record). Printed page = PDF page − 5; pages cited are printed pages. Book errors carried: the contents lists Unit 8 “Shopping” with no page number and Unit 7 “Rescue” at page “3'1”, and Unit 4's first lesson is headed “Lesson 2” (printed p.16) — no Lesson 1 heading exists (E1); a stray folio “2” / “3” sits inside the Unit 6 sentence-matching exercise (E2) — noted, taught corrected.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: the initial blend br (bread, broom, brush, brown, brag, bring, branch, brand) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 14, printed p.67 |
+| Initial blends bl, br, cl, dr, fl, pr, sk (black, bran, class, brick, dress, flag, print, skip), and building glass / bran / dress / play-type words with gl, br, dr, pl | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 15, printed p.72 |
+| Phonics: the initial blend br in riddles (breakfast, broom, brush, bride, branch) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 2, printed p.13 |
+| Phonics: blends bl (blue, block, blanket, blossom, blade) and sn (sneeze, sniff, snatch, snail, snap) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 3, printed p.19 |
+| Phonics: blend fl (flag, flask, floating) in a bubbles rhyme | Guyana — *Fun With Language Book 3* (Grade 3), Unit 5, printed p.29 |
+| Phonics: blend sw (swing, sun) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 12, printed p.59 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Zambia, Bhutan, Moldova
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Zambia, Bhutan, Moldova, Guyana
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -276,7 +276,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 36 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 37 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia, Rwanda, Cyprus, Fiji, Eritrea, Samoa, Bhutan, Moldova, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Cyprus joins with Year 2 Part B's digraphs — oa, ay, ch, sh, ee, ey, ou — recognised and sounded out (stocked 2026-11-11 by the Cyprus expansion merge). Rwanda joins with the Primary 2 sound-spotting box, Primary 3's sounds-and-spelling poems, and a teacher-guide phonetics objective stated as evidence only (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -1364,3 +1364,32 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Fun With Language Book 2 Part 1* — Guyana, Ministry of Education, Georgetown, Easy Path Series (GOG/IDB Primary Education Improvement Programme), © 2004, Revised 2004, ISBN 976-8198-04-4. Student's book, Grade 2 — Part 1 only (Units 1–15 + Looking Back, printed pp.1–77). 86 PDF pp.; staging record grade-02/gov/guyana/english/student/part-1.pdf (13,774,889 bytes; the read copy byte-matches its record). Printed page = PDF page − 5; pages cited are printed pages. Book errors carried: the contents lists Unit 8 “Shopping” with no page number and Unit 7 “Rescue” at page “3'1”, and Unit 4's first lesson is headed “Lesson 2” (printed p.16) — no Lesson 1 heading exists (E1); a stray folio “2” / “3” sits inside the Unit 6 sentence-matching exercise (E2) — noted, taught corrected.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phonics: initial E/e, the short “eh” sound (Ella, eggs, Eric, eddoes, elbow, enter) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 2, printed pp.9–10 |
+| Phonics: the short i “ih” sound (six, fish, dish, kit, pig, jig) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 4, printed p.18 |
+| Phonics: the long e (ea) sound — the eat family built with b/m/n/s onsets; cheat, heat, treat | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 7, printed p.34 |
+| Long-e against short-e word sorting (elephant, evening, eraser against egg, eleven) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 7, printed p.35 |
+| Phonics: the short U/u “uh” sound (the Uncle Ulric jingle; bus, pup, nut, bun, cup, gun) | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 9, printed p.43 |
+| Phonics: long a — ai (tail, bail, sail) and ay (bay, day, Fay), the second letter silent | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 10, printed p.49 |
+| Phonics: the ph sound in a rhyme about Elly the Elephant, with drawing and writing with a ph word | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 12, printed p.57 |
+| Phonics: vowel a long (apron, open-type) against short (apple, ant, alligator) sounds | Guyana — *Fun With Language Book 3* (Grade 3), Unit 1, printed p.7 |
+| Phonics: long e (see, me, bee, green, three, sea) against short e (set, get, bell) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 4, printed p.23 |
+| Phonics: the ch sound — a different sound, not c + h (chews, chases, chickens, chair) in the rhyme “A Little Puppy” | Guyana — *Fun With Language Book 3* (Grade 3), Unit 7, printed p.39 |
+| Phonics: short i (pill, bit, kit) against long i (pile, bite, kite) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 8, printed p.43 |
+| Phonics: vowel o long (its own name) against short “awh” (orange, ochro) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 13, printed p.65 |
+| Words with oo but two different sounds (balloon, broom, stool against foot, book, cook) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 16, printed p.79 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

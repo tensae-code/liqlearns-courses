@@ -1,6 +1,6 @@
 # Sources — Festivals and Cultural Events
 
-countries: Venezuela, Laos, Jordan, Uzbekistan, Haiti, Papua New Guinea, El Salvador, Dominican Republic
+countries: Venezuela, Laos, Jordan, Uzbekistan, Haiti, Papua New Guinea, El Salvador, Dominican Republic, Guyana
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Festivals and cultural events — Christmas and New Year (wishes and compliments), Carnival (comparisons), Holy Week (past accounts), Mother's Day (describing), regional and local festivals (invitations and directions) | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 21, student printed pp.170–177 (guide plan printed p.130) |
 
-**Acceptance count: taught in 5 countries (Venezuela, Laos, Jordan, Uzbekistan, Dominican Republic).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
+**Acceptance count: taught in 6 countries (Venezuela, Laos, Jordan, Uzbekistan, Dominican Republic, Guyana).** Uzbekistan joins with its *Fly High ENGLISH 5* (Grade 5) and *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Dominican Republic joins with the Dominican Republic rows stocked below (stocked 2026-11-11 by the Dominican Republic expansion merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Venezuela's English books: the sweep re-read the Grade 7 Teacher's Book page by page and found its festivals lesson (Lesson 21, "Let's celebrate!") stocked nowhere in the course. Venezuela's held set is five Teacher's Books only and no student's book is held, so this lesson stands on teacher's-book evidence. Other countries join as their books are read.
 
@@ -139,3 +139,24 @@ The 2026-11-10 expansion read read the Dominican Republic's in-hand English set 
 Dominican Republic is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/dominican-republic-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The expansion read marked this topic “NEW LESSON NEEDED: festivals in Guyana”; the standing festivals-and-cultural-events lesson (built by the Venezuela re-verification sweep merge after the expansion read was written) has exactly this one thing — naming the festivals and celebrations and the words each carries, the festivals of a learner's own place included — so Guyana's festival items are stocked here, not in a country lesson of their own. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Fun With Language Book 2 Part 1* — Guyana, Ministry of Education, Georgetown, Easy Path Series (GOG/IDB Primary Education Improvement Programme), © 2004, Revised 2004, ISBN 976-8198-04-4. Student's book, Grade 2 — Part 1 only (Units 1–15 + Looking Back, printed pp.1–77). 86 PDF pp.; staging record grade-02/gov/guyana/english/student/part-1.pdf (13,774,889 bytes; the read copy byte-matches its record). Printed page = PDF page − 5; pages cited are printed pages. Book errors carried: the contents lists Unit 8 “Shopping” with no page number and Unit 7 “Rescue” at page “3'1”, and Unit 4's first lesson is headed “Lesson 2” (printed p.16) — no Lesson 1 heading exists (E1); a stray folio “2” / “3” sits inside the Unit 6 sentence-matching exercise (E2) — noted, taught corrected.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Festival vocabulary: Christmas and Diwali (diya, Christmas tree) — Guyana's own festivals unit | Guyana — *Fun With Language Book 2 Part 1* (Grade 2), Unit 10, printed p.46 |
+| Reading “The Masquerade” (plot summary only: Janet and Joe go to Camp Street, Georgetown, at Christmas to watch a masquerade band — drums and flutes, Mad Bull, Mother Sally and flouncers in bright masks and costumes) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 5, printed pp.24–25 |
+| Reading “Mashramani” (factual passage: Guyana's Mashramani festival — Children's Costume Competition, Steelband and Calypso Competitions, Float Parade, National Park, masquerade bands and calypsonians) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 14, printed pp.66–67 |
+| Reading: Phagwah and the burning of Holika (plot summary only: the wicked king's sister Holika perishes in the fire meant for Prahalad, who refused to worship his father; a castor-oil tree is planted, grown forty days and burnt on Phagwah Eve; Phagwah means the coming of spring and good triumphing over evil) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 15, printed pp.70–72 |
+| Comparing Christian, Hindu and Muslim weddings in the community — community celebrations content | Guyana — *Fun With Language Book 3* (Grade 3), Unit 17, printed p.82 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Andorra, Moldova, Guyana
 
 Every part traces to its book and page.
 
@@ -219,11 +219,11 @@ verification sweep.
 | Abbreviations and acronyms (tsp, tbsp, LOL, ASAP, NASA) and reading about their kinds | Mongolia, English XI, Unit 1, printed pp.17–18 |
 | College-life words defined (assignment, feedback, portfolio, grant, project, survey, essay, report) | Mongolia, English XII, Unit 2, printed p.31 |
 
-**Acceptance count: taught in 31 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
+**Acceptance count: taught in 32 countries (Bangladesh, India, Mongolia, China, Indonesia, Iran,
 Sierra Leone, Jordan, Greece, Kazakhstan, Iraq,
 Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda,
 Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela,
-Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
+Palestine, South Sudan, Sudan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Guyana).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). India adds dictionary work on the many meanings of erupt, surge, trace, undistinguished and casualty in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh
 carries the full skill — order, guide
 words, the entry, many meanings; India carries the first
 form, a picture dictionary in every year's book; Mongolia
@@ -720,3 +720,23 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: it is named in the countries line above; the acceptance count does not change, for the reason stated.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Alphabetical order (and, birthday, cake by first letter) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 6, printed p.33 |
+| Words and meaning: followed = walked behind; funny = amusing / comical | Guyana — *Fun With Language Book 3* (Grade 3), Unit 8, printed p.43 |
+| Words and meaning from the story (enormous = very, very big; garage = a shed for a car; pressed = put your hand on it hard) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 18, printed p.89 |
+| Alphabetical order by the second letter (able before arm) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 21, printed p.97 |
+| Story words and meanings (sign = a notice with a warning; pond = water smaller than a lake; zoo = a park where animals are kept) | Guyana — *Fun With Language Book 3* (Grade 3), Unit 24, printed p.113 |
+| Dictionary order and missing-letter spelling (festival, music, results; stage, voice, choirs), and sh words | Guyana — *Fun With Language Book 3* (Grade 3), Unit 25, printed p.117 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

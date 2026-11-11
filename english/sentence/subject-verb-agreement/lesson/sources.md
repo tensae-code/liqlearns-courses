@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova
+countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia, Kuwait, Fiji, Eritrea, Samoa, Sri Lanka, Liechtenstein, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova, Guyana
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ CHECK PASSED 2026-11-03).
 | Subject–verb agreement with is/are | South Africa, English Home Language Grade 6 Workbook 1, printed p.30 |
 | Subject-verb agreement as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 
-**Acceptance count: taught in 11 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Kuwait, Fiji, Eritrea, Samoa, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the third-person -s of LinGo 4.5's roll-a-sentence dice sheets (stocked 2026-11-11 by the Liechtenstein expansion merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal files the three
+**Acceptance count: taught in 12 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Kuwait, Fiji, Eritrea, Samoa, Liechtenstein, Moldova, Guyana).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the third-person -s of LinGo 4.5's roll-a-sentence dice sheets (stocked 2026-11-11 by the Liechtenstein expansion merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal files the three
 tricky examples this lesson is built on — one of,
 twenty dollars, police — inside its Grade 7 quantity
 unit, and returns to agreement as a named Grade 10
@@ -359,3 +359,18 @@ The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs �
 Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
+
+
+## Guyana added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Guyana's in-hand English set from the on-disk staging copies — **2 student's books, 0 teacher books**: *Fun With Language Book 2 Part 1* (Grade 2) and *Fun With Language Book 3* (Grade 3), Ministry of Education, Guyana, Easy Path Series, Revised 2004 — 163 teaching items placed, 0 already in the course. Both read books are pupil's books, so **Guyana is COUNTED in this lesson** like any pupil-book country. Read depth, as the placements declare it: full page-by-page reads of both books via their OCR text layers; Book 3's printed pp.127–131 are largely picture and continuation pages, so its Closing Exercise is placed from the legible review pages (printed pp.133–136), as declared. The Grade 2 holding is Part 1 only (printed pp.1–77): Part 2 and Books 1, 4, 5 and 6 are link-only, never secured and cited nowhere (diff flag F1) — Guyana stays PARTIAL for English. Neither book prints answer keys (book error E6); exercise answers are supplied by the course. The rows below are stocked from the expansion placements (guyana-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** *Fun With Language Book 3* — Guyana, Ministry of Education, Georgetown, Easy Path Series, © 2004, Revised 2004. Student's book, Grade 3 (Units 1–27, Reviews I–III and a Closing Exercise, printed pp.2–136). 140 PDF pp.; staging record grade-03/gov/guyana/english/student/full-year.pdf (7,155,928 bytes; the read copy byte-matches its record). Printed page = PDF page − 9; pages cited are printed pages. Book errors carried: printed p.136 (the antonyms exercise) is bound at PDF p.3, before the title pages (E3); the contents duplicates each Review under paired unit numbers — the pairs are single combined review units (E4); scan/print ambiguities (the dentist named both Dr Rom and Dr Ram in Unit 16) follow the majority and clearest printing (E5) — noted, taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| has / have and was / were — has/was for a singular subject, have/were for a plural subject, with substitution tables | Guyana — *Fun With Language Book 3* (Grade 3), Unit 15, printed pp.73–74 |
+
+Guyana is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/guyana-placements.md.

@@ -151,7 +151,9 @@ its own subtitle folder with its own lesson + questions):
   interjections (added 2026-11-11 by the Sierra Leone
   re-verification sweep merge — **Unit 6, Word Kinds**) ·
   abbreviations (added 2026-11-11 by the Nigeria
-  expansion merge — **Unit 6, Word Kinds**)
+  expansion merge — **Unit 6, Word Kinds**) ·
+  male-and-female-word-pairs (added 2026-11-11 by the
+  Guyana expansion merge — **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -281,6 +283,9 @@ its own subtitle folder with its own lesson + questions):
   Sentence**) ·
   the-colon (added 2026-11-11 by the Barbados
   re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
+  commas-in-lists-dates-and-places (added 2026-11-11
+  by the Guyana expansion merge — **Unit 10, Building a
   Sentence**) ·
   inversion (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 18, Deeper Sentences**) ·
