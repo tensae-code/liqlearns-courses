@@ -169,6 +169,8 @@ Every part traces to its book and page.
 
 **Book 120:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 121:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -215,6 +217,7 @@ Every part traces to its book and page.
 | Parallel witness: the same elapsed-time lessons in the older 1445 edition (witness only) | Saudi Arabia, Grade 4, Third Term (1445), Ch. 9, printed pp. 43–46 |
 | Practice evidence (PARTIAL copy): elapsed time; the time after given durations (a game lasting 24 minutes; a trip of 1 hour 30 minutes) | Saudi Arabia, Grade 4 Exercises Book (1443, partial), printed pp. 27–28 |
 | Telling the time: exact hours and half past on analogue and digital clocks; the calendar — days of the week, months and their lengths, common and leap years; the school timetable and a weekly activity plan | Rwanda, Primary pupil's book, Year 2 (English), Unit 9, printed pp. 191–205 |
+| Time in the Kinyarwanda original — the hour, the months of the year and the days of each month; telling time, the calendar, the school timetable and a weekly plan | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 9, printed pp. 190–204 |
 | Exact time, half past, quarter past and quarter to on analogue and digital clocks (with a second half-past section repeating the first); clock times in figures and in words; the calendar and ordinary against leap years — taught corrected (the English edition prints "365 years"; an ordinary year has 365 days, as its Kinyarwanda twin states); converting years to months, weeks to days and days to hours; planning activities in a timetable | Rwanda, Primary Learner's Book, Year 3 (English), Unit 9, printed pp. 251–270 |
 | The Kinyarwanda naming the English edition loses: "isaha iburaho iminota 30" — thirty minutes to the next hour — for the same :30 clock positions the English edition teaches only as half past | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 9 (§9.1), printed pp. 202–208; Unit 9 map, printed pp. 202–220 |
 | Reading analogue clocks (hour, minute and second hands; "twenty past", "quarter to", "half past", noon and midnight); matching digital and analogue times; a.m. and p.m.; units of time and their conversions, including fortnight, decade, century and millennium; leap years; the calendar; time problems and durations | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 10, printed pp. 116–127 |

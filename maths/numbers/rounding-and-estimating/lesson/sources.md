@@ -378,6 +378,7 @@ Every part traces to its book and page.
 | Rounding a number to a given number of significant figures | Malaysia, Mathematics Form 3, Ch. 2 §2.1, printed p. 35 |
 | Arithmetic (add, subtract, multiply, divide) with answers given to a stated number of significant figures | Malaysia, Mathematics Form 3, Ch. 2 §2.1, Mind Test 2.1b, printed p. 36 |
 | Rounding whole numbers to the nearest ten on a 0–10 number line, then to the nearest hundred, thousand, ten thousand, hundred thousand and million | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 1, printed pp. 25–32 |
+| Rounding decimal numbers to the nearest tenth, hundredth, thousandth, ten thousandth, hundred thousandth and millionth | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 5 (§§5.1–5.7), printed pp. 69–76 |
 | Teacher's extra worked examples in the lesson development: rounding 4,042,589 to the nearest hundred, 4,316,738 to the nearest ten thousand and 4,904,872 to the nearest million | Rwanda, Primary 6 Mathematics, Teacher's Guide, Unit 1 development, printed pp. 23, 25–26 |
 | Rounding decimals — Rounding decimals to 1, 2, 3 places and to the nearest whole number (digit ≥5 rounds up) | Sudan, Grade 5 Mathematics, printed p. 56 |
 | Guessing a total from groups — guess the total number of spoons, glasses, bangles, pairs of earrings arranged in groups | India, Math-Magic Class 2, printed p. 10 |

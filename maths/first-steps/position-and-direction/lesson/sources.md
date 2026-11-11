@@ -79,6 +79,8 @@ Every part traces to its book and page.
 **Book 58:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (English Version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *Matemática — Libro de Texto — 1er Grado (NICAMATE 2)* — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 60:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 On Nepal in this lesson: Nepal's Grade 1 book teaches ordinal numbers in Lesson 17, inside its order-of-numbers sequence (Lessons 15–17: order of numbers; greater than, less than and equal to; ordinal numbers).
 
 
@@ -105,6 +107,7 @@ On Nepal in this lesson: Nepal's Grade 1 book teaches ordinal numbers in Lesson 
 | Position words — top, middle, bottom: naming the position of an object in a stack or picture | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 50–51 |
 | Before / after: the order of objects and events — which comes before and which after in a sequence | Saudi Arabia, Grade 1, Part One, Ch. 3, printed pp. 52–53 |
 | The grid as a frame for position — formed by vertical lines (posts) and horizontal lines (crossing bars); constructing a grid with a given number of posts and crossing bars | Rwanda, Primary pupil's book, Year 2 (English), Unit 11, printed pp. 219–220 |
+| The grid in the Kinyarwanda original — putting and locating a point on a grid | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 11, printed pp. 215–219 |
 | Inside and outside — story of the Arab and his camel: inside/outside the tent | India, Math-Magic Class 1, printed p. 1 |
 | Top and bottom — pot on the top; animal at the bottom of the stairs | India, Math-Magic Class 1, printed p. 5 |
 | Nearer and farther — bird nearer to home; cat farther from the tree | India, Math-Magic Class 1, printed p. 6 |

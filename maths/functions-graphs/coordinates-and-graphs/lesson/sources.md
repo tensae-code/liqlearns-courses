@@ -277,6 +277,8 @@ textbook.
 **Book 174:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 175:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 176:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -447,6 +449,7 @@ textbook.
 | The axis of symmetry of a quadratic graph, drawn and identified; the effects of changing a (width and direction), b (axis position) and c (vertical shift) on the graph of f(x) = ax² + bx + c, explored through GeoGebra activities | Malaysia, Mathematics Form 4, Ch. 1 §1.1, printed pp. 9–14 |
 | The equation of the line of best fit: gradient and intercept read from two points on the line; interpolation and extrapolation (main filing: correlation-and-regression) | Malaysia, Additional Mathematics Form 4, Ch. 6 §6.1, printed pp. 157–160 |
 | Putting a point on a grid at the intersection of a numbered post and a numbered crossing bar, and locating a point by reading the post number first, then the crossing-bar number | Rwanda, Primary pupil's book, Year 2 (English), Unit 11, printed pp. 220–223 |
+| The grid in the Kinyarwanda original — its characteristics and construction, and putting and locating a point on a grid (Ikinyatuzu) | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 11, printed pp. 215–219 |
 | Grid structure — vertical lines (posts) numbered left to right, horizontal lines (crossing lines) numbered bottom to top; locating and writing a point as a pair, e.g. A(6, 7), first number the vertical line, second the horizontal line | Rwanda, Primary Learner's Book, Year 3 (English), Unit 12 (§§12.1–12.2), printed pp. 313–315 |
 | Plotting points on a grid and joining them to form a square, a rectangle and a triangle (naming the vertices and the triangle type); where grids are used in real life; end-of-year review plotting A(3, 6), B(6, 7), C(3, 3), D(7, 3) on an 8 × 8 grid | Rwanda, Primary Learner's Book, Year 3 (English), Unit 12 (§12.3), printed pp. 316–320; End-of-year assessment C Q10, printed p. 355 |
 | Unit 12 in the Kinyarwanda edition (§§12.1–12.4) — the Kinyarwanda twin of the Year 3 grid unit, cited for its own pagination only, as the editions are not mirrors | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 12, printed pp. 256–262 |

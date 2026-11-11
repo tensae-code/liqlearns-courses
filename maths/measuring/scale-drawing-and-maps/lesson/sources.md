@@ -74,6 +74,8 @@ Every part traces to its book and page.
 **Book 48:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 49:** *Mero Ganit, Kaksha 3 (My Mathematics, Class 3)* — Nepal, CDC, Sanothimi, First edition BS 2051, Revised BS 2064, Reprint BS 2067, ISBN 978-999-33-719-0-8 (one work in three printings — Nepali, older English and Revised 2074 BS English; the held 2074 English file lacks printed pp. 1–16). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 50:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Map scale met first — 1:200 etc., real vs plan lengths | Laos, Grade 5 student book, Ch. 11, L52, printed pp.124–129 |
@@ -103,6 +105,7 @@ Every part traces to its book and page.
 | Investigation: the areas of scale drawings and the area ratio; problem solving with map journeys redrawn at a new scale | Malaysia, Mathematics Form 3, Ch. 4 §4.1, printed pp. 99–103 |
 | Scale drawing — actual lengths reduced to fit paper; the scale found as drawing length : actual length in the same units, with no units of its own | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 12 (§§12.1–12.2), printed pp. 196–198 |
 | Constructing scale drawings; actual distance = drawing length × value of 1 cm of the scale, and drawing length found back from actual distance and scale | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 12 (§§12.3–12.5), printed pp. 199–206 |
+| Application of ratios in scale drawing, inside the Senior 1 ratio unit (cross-cited here; the unit is stocked whole in the ratio-and-proportion lesson) | Rwanda, Senior 1 Student's Book, Unit 5, printed pp. 123–128 |
 | Map scales; real lengths from scaled drawings; scale diagrams | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 64 |
 | Scale drawings, loci/constructions (segment and angle bisectors), converting map ↔ real distances (curricular project, printed pp. 107–108) | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed pp. 107–108 |
 | Coordinates and scale drawings/maps | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 45 |

@@ -335,6 +335,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 181:** *Toán 9, Tập Một* (Mathematics 9, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39236-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 182:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 183:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 184:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -508,6 +512,7 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Arc length and sector area as fractions of the whole circle; inverse problems and shaded-region problems | Malaysia, Mathematics Form 2, Ch. 5 §5.3, printed pp. 90–95 |
 | Circle vocabulary completed, adding tangent, point of tangency and alternate segment (the theorems are filed under circle-theorems) | Malaysia, Mathematics Form 3, Ch. 6 chapter opener and §6.1, printed pp. 129–130 |
 | Arc length s = rθ and sector area ½r²θ measured in radians (main filing: radian-measure) | Malaysia, Additional Mathematics Form 5, Ch. 1 §§1.2–1.3, printed pp. 5–18 |
+| The circle as a shape — centre, radius and diameter, diameter = 2 × radius, drawn with compasses (the circle part of the Year 3 shapes unit, stocked whole in the shapes lesson) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§11.4), printed pp. 306–312; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 11, printed pp. 249–255 |
 | Circumference as the distance around a circle, measured with string; diameter and radius defined; pi found experimentally as C ÷ D (π = 22/7 or 3.14); C = πD and C = 2πr used both ways; diameter from circumference, d = C ÷ π | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 13 (§§13.1–13.3), printed pp. 210–216 |
 | Area of a circle from its diameter and from its circumference (finding r first); the radius found from the area (divide by π, then take the square root) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 14, printed pp. 265–269 |
 | The circle — circle in daily life (coin); centre and radius on printed p. 109; chord and diameter defined on printed p. 110 | Sudan, Grade 4 Mathematics, printed p. 109 |

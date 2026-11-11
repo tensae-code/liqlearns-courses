@@ -258,6 +258,8 @@ Every part traces to its book and page.
 **Book 189:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 190:** *Mathematics, Grade 4 student book, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2009. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 191:** *Imibare — Igitabo cy'Umwarimu, Umwaka wa 2* (Kinyarwanda original of the Year 2 teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with unit lesson lists and answers to all pupil-book exercises and unit assessments. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -414,10 +416,12 @@ Every part traces to its book and page.
 | Division by 2 and by 3 without remainder — sharing equally into groups, tables, dividing two- and three-digit numbers by the standard written method, and word problems | Rwanda, Primary pupil's book, Year 2 (English), Unit 1, printed pp. 34–46 |
 | Division by 4, 5 and 6 — sharing into groups, dividing two- and three-digit numbers by the standard written method, and word problems | Rwanda, Primary pupil's book, Year 2 (English), Unit 2, printed pp. 74–84; Unit 3, printed pp. 111–115 |
 | Items that differ in the Kinyarwanda original: Muhoza's 105 sweets shared among 5 friends (105 ÷ 5 = 21), where the English translation prints 196 sweets, which does not divide by 5; and Jabo's 196 cows shared between 2 children — taught corrected as 98 (the English teacher's guide answers it 196 : 2 = 99, which is wrong arithmetic) | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 1, printed p. 48; Unit 2, printed p. 87 |
+| Division by 6 without remainder in the Kinyarwanda original (Unit 3; the same span carries the book's multiplication by 6, by 10 and by 100, stocked in the multiplication lesson) | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 3, printed pp. 106–121 |
 | Dividing a 4-digit number by a 1-digit number with no remainder, quotients within 2,000, 5,000 and 10,000, in long-division format | Rwanda, Primary Learner's Book, Year 3 (English), Unit 1 (§1.17), printed pp. 41–43; Unit 2 (§2.13), printed pp. 81–83; Unit 3 (§3.13), printed pp. 125–127; End-of-year assessment A Q10, printed p. 350 |
 | Division word problems (the word-problems part): equal sharing with no remainder, within 2,000, 5,000 and 10,000 | Rwanda, Primary Learner's Book, Year 3 (English), Unit 1 (§1.18), printed pp. 44–45; Unit 2 (§2.14), printed pp. 84–85; Unit 3 (§3.14), printed pp. 128–129 |
 | The same division items in the Kinyarwanda original (unit/section map) — this book writes the division sign as ':' throughout, where the English twin uses '÷' | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 1 (§1.17), printed pp. 35–36; Unit 2 (§2.13), printed p. 64; Unit 3 (§3.13), printed p. 96; Unit 1 (§1.18), printed pp. 37–38; Unit 2 (§2.14), printed pp. 66–67; Unit 3 (§3.14), printed pp. 98–99 |
 | Teacher's formal definitions of QUOTIENT (ikigabanyo), DIVISOR (ikigabanya) and DIVIDEND (ikigabanywa) | Rwanda, Imibare, Teacher's Guide, Year 3 (Kinyarwanda), Unit 1 key vocabulary (§1.5), printed p. 19 |
+| Teacher's guidance and answers for the Year 2 division units in the Kinyarwanda guide — guide evidence | Rwanda, Imibare, Teacher's Guide, Year 2 (Kinyarwanda), Unit 1, printed p. 26; Unit 2, printed p. 64; Unit 3, printed p. 100 |
 | Long division without and with remainder, including 4-digit ÷ 1-digit and ÷ 2-digit divisors, and division word problems | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 1 (§1.4.4), printed pp. 24–27, 29 |
 | Long division of a 3-digit number by a 2-digit number, exact only (875 ÷ 25) | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 1 (§1.7), printed pp. 13–15 |
 | Dividing decimals by making the divisor whole; mixed multiply/divide decimal chains worked left to right | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 5 (§§5.7–5.8), printed pp. 99–101 |

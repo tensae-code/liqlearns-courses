@@ -1,6 +1,6 @@
 # Sources — Variation
 
-countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania, Tajikistan, Armenia, South Africa, Libya, Vietnam
+countries: Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania, Tajikistan, Armenia, South Africa, Libya, Vietnam, Rwanda
 
 Every part traces to its book and page.
 
@@ -40,6 +40,10 @@ Every part traces to its book and page.
 
 **Book 21:** *Mathematics, Grade 10 pupil's book, Part 2* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 22:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 23:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -94,7 +98,9 @@ Every part traces to its book and page.
 | Direct variation (§1-5) | Libya, Grade 10 pupil's book Part 2, §1-5, printed p.9 |
 | Other forms of direct variation (§2-5) | Libya, Grade 10 pupil's book Part 2, §2-5, printed p.14 |
 | Inverse variation (§3-5) | Libya, Grade 10 pupil's book Part 2, §3-5, printed p.17 |
-**Acceptance count: taught in 14 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania, Tajikistan, Armenia, South Africa, Libya, Vietnam).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
+| Inverse (indirect) proportions inside the Primary 6 ratio teaching — increasing and decreasing in a ratio, and indirect proportions (cross-cited here; the unit is stocked whole in the ratio-and-proportion lesson) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 6 (§§6.13–6.18, 6.23), printed pp. 102–110 |
+| Direct and inverse proportion — direct proportion by the ratio method and the unitary method; inverse proportion (workers and time, taps and tank, speed and time) (cross-cited here; the unit is stocked whole in the ratio-and-proportion lesson) | Rwanda, Senior 1 Student's Book, Unit 5, printed pp. 132–138 |
+**Acceptance count: taught in 15 countries (Sierra Leone, Jordan, Pakistan, Malaysia, Sudan, India, Afghanistan, Ecuador, Albania, Tajikistan, Armenia, South Africa, Libya, Vietnam, Rwanda).** Sierra Leone carries the whole lesson: its SSS 2 Term 1 handbook teaches variation as a block of four lessons — direct (L17, p.45), inverse (L18, p.48), joint (L19, p.51) and partial (L20, p.54), each with numerical and word problems — and returns to variation in review problems later in the SSS course. Jordan carries the base forms only: in Grade 7 Term 2, Unit 5, direct variation (L4, p.23) and inverse variation (L5, p.30), built on unit rate and proportion; Jordan teaches no joint or partial variation there, and the lesson does not claim it does. Pakistan carries a full Variations unit in Class 10 (Unit 3, printed pp.49–73): ratio and proportion first, then direct and inverse variation including variation with powers, third, fourth and mean proportionals and continued proportion, the theorems on proportions (invertendo, alternendo, componendo, dividendo, componendo-dividendo), joint variation, the k-method, and real-life variation problems, with a unit summary on pp.72–73; the filing lists no partial variation for Pakistan, so partial variation still rests on Sierra Leone alone.
 
 Vietnam carries variation in Grade 7 — directly proportional quantities (Bài 22) in the ratio-and-proportion lesson and inversely proportional quantities here (Bài 23). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -113,3 +119,5 @@ Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Alban
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 6: Directly proportional quantities (doubling one doubles the other; Inversely proportional quantities (work crews, price/quantity, feed stock, rectangle…; from Grade 7: Direct proportionality: constant ratio, formula y = kx in all but name; from Grade 8: Inverse proportionality: the function y = k/x, its properties and graph (hyperbola).
 
 Armenia enters through its Mathematics 6 (student). From its books: inverse proportionality.
+
+Rwanda enters from its Primary 6 Learner's Book (inverse proportion inside Unit 6's ratio teaching, printed pp. 102–110) and its Senior 1 Student's Book (direct and inverse proportion in Unit 5, printed pp. 132–138); both units are stocked whole in the ratio-and-proportion lesson.

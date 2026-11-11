@@ -292,6 +292,8 @@ Every part traces to its book and page.
 **Book 204:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 205:** *Guía Metodológica de Matemática — 6to grado* (NICAMATE 2) (teacher guide) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: guide to the Grade 6 NICAMATE 2 student book.
 
+**Book 206:** *Mathematics for Rwandan Schools — Senior 1 Teacher's Guide* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 484 5 (as printed; the imprint misprints the first author's name as 'Ndyabas'). No REB approval wording is printed anywhere in the book. Teacher evidence: a true companion — it mirrors the Senior 1 Student's Book unit for unit (verified from its own contents), with learning objectives, background information, lesson activities and answers to the student book's self-evaluation exercises and unit tests; it adds no pupil content beyond the student book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -490,6 +492,7 @@ Every part traces to its book and page.
 | Probability as chance, introduced through games only: coin tossing recorded in tables, tossing three coins, card games, fairness discussed | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 18, printed pp. 183–185 |
 | The vocabulary of chance (impossible, certain, likely, unlikely, equally likely, even chance, event); experiments and outcomes; chance of an outcome from recorded results, including dice over 48 tosses (chance of a face = 1/6) and the bottle-top experiment with unequal chances | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 15, printed pp. 253–258; Rwanda, Primary 6 Mathematics, Learner's Book, Unit 16, printed pp. 293–295 |
 | Probability as a number between 0 and 1; the terms experiment, outcome, event and sample space; experimental probability from repeated trials; the rule P(A) + P(A′) = 1; theoretical probability as favourable outcomes ÷ total equally likely outcomes; combined experiments from a listed sample space | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 16, printed pp. 295–299; Rwanda, Senior 1 Student's Book, Unit 9, printed pp. 231–242 |
+| Teacher's guidance and answers for the Senior 1 probability unit (Unit 9) — guide evidence | Rwanda, Senior 1 Teacher's Guide, Unit 9, printed p. 166 |
 | Tree diagrams for successive trials with and without replacement (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 10, printed pp. 436–439 |
 | Mutually exclusive and independent events combined, and Bayes' theorem, in a summative evaluation question on virus strains (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Summative Evaluations, printed p. 505 |
 | Random experiment — Random experiment introduced (Unit 5, §5-1/5-2) | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 113 |

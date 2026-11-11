@@ -99,6 +99,16 @@ Every part traces to its book and page.
 **Book 75:** *Mathematics, Class 7* — Nepal, CDC, Sanothimi, First edition VS 2071; revised 2nd edition VS 2076. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 76:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 77:** *Mathematics — Primary pupil's book — Year 2* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 78:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 79:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 80:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 81:** *Mathematics for Rwandan Schools — Senior 1 Teacher's Guide* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 484 5 (as printed; the imprint misprints the first author's name as 'Ndyabas'). No REB approval wording is printed anywhere in the book. Teacher evidence: a true companion — it mirrors the Senior 1 Student's Book unit for unit (verified from its own contents), with learning objectives, background information, lesson activities and answers to the student book's self-evaluation exercises and unit tests; it adds no pupil content beyond the student book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Profit and loss, and their percentages on cost | South Sudan, Pupil's Book 4, §2.4, pp.51–56; Pupil's Book 6, §2.8, pp.33–34; Sierra Leone, JSS 2 Term 1, L36–L38, pp.93–99; South Sudan, Student's Book 1, Unit 1, pp.23–27 (with overheads) |
@@ -133,10 +143,15 @@ Every part traces to its book and page.
 | Compound growth as an application of indices: an investment J = p(1 + k)ⁿ — RM1 000 000 at 6% for 20 years grows to RM3 207 135 (main filing: powers-and-indices) | Malaysia, Additional Mathematics Form 4, Ch. 4 §4.1, printed pp. 93–94 |
 | Insurance premiums: reading rate tables, and the factors that move a premium (age, smoking status, length of travel, sum insured) (main filing: insurance-risk-and-coverage) | Malaysia, Mathematics Form 5, Ch. 3 §3.1, printed pp. 80–83 |
 | Income tax calculated: chargeable income, the progressive rate table applied band by band, the RM400 rebate, and the Monthly Tax Deduction (PCB) balanced against the year's tax (main filing: taxation) | Malaysia, Mathematics Form 5, Ch. 4 §4.1, printed pp. 104–111 |
+| Saving and small income-generating projects inside the Year 2 money unit (the business-facing part of the unit, stocked whole in the money lesson) | Rwanda, Primary pupil's book, Year 2 (English), Unit 8, printed pp. 173–190 |
+| Saving and small income projects in the Kinyarwanda original of the Year 2 money unit | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 8, printed pp. 171–189 |
+| Saving and small income-generating projects inside the Year 3 money unit (stocked whole in the money lesson) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 8, printed pp. 229–250 |
+| Profit and loss inside the P4 money unit — buying and selling, cost price and selling price (stocked whole in the money lesson) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 11, printed pp. 128–135 |
 | Household budget arithmetic: a salary split into rent, fees, food and transport, the remainder saved | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 9 (§9.3), printed p. 142 |
 | Simple interest I = PRT/100 in all four directions — finding the interest, the rate, the principal and the time by rearranging — and the amount as principal + interest, with word problems throughout | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 9, printed pp. 151–167 |
 | Teacher's worked teaching point: converting a fractional rate and a time in months before using I = PRT/100 (6 months = 6/12 = 1/2 year; 7½% written as a fraction over 100) — guide evidence | Rwanda, Primary 6 Mathematics, Teacher's Guide, Unit 9 development, printed p. 182 |
 | Simple interest; tax — customs duty, withholding tax and VAT; insurance — premium, policy, sum assured and compensation, with life assurance | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 113–121 |
+| Teacher's guidance and answers for the Senior 1 money unit (Unit 4: discount, commission, profit and loss, loans and savings, tax and insurance) — guide evidence | Rwanda, Senior 1 Teacher's Guide, Unit 4, printed p. 101 |
 | Compound interest and simple interest as geometric and arithmetic sequence applications; the annuity value built from compound interest; the time for a savings balance to exceed a fixed debt, solved with logarithms (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 75–82; Unit 3, printed pp. 97–101 |
 | Compound interest A = P(1 + r/k)^{kn} at different compounding frequencies; the mortgage payment formula with worked payments; population growth and doubling time; depreciation and decay models; Richter scale comparisons (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 2, printed pp. 119–129 |
 | Profit and loss | Mauritania, Grade 4 student book, printed p. 78 |

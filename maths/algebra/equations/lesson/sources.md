@@ -306,6 +306,12 @@ Every part traces to its book and page.
 **Book 226:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 227:** *Mathematics, Grade 7, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 228:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 229:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 230:** *Mathematics for Rwandan Schools — Senior 1 Teacher's Guide* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 484 5 (as printed; the imprint misprints the first author's name as 'Ndyabas'). No REB approval wording is printed anywhere in the book. Teacher evidence: a true companion — it mirrors the Senior 1 Student's Book unit for unit (verified from its own contents), with learning objectives, background information, lesson activities and answers to the student book's self-evaluation exercises and unit tests; it adds no pupil content beyond the student book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -474,11 +480,14 @@ Every part traces to its book and page.
 | Writing a formula from a situation; finding the value of a variable by substituting into a formula; solving problems through formulae | Malaysia, Mathematics Form 2, Ch. 3 §3.1, printed pp. 44, 47–52 |
 | Changing the subject of a formula — rearranging, including a formula whose subject sits inside a more complex expression | Malaysia, Mathematics Form 2, Ch. 3 §3.1, printed pp. 46–47 |
 | Missing numbers in addition and subtraction sentences up to 100, and in Unit 13: a missing addend found by subtracting from the sum, a missing subtrahend by subtracting the difference from the first number, a missing first number by adding the difference and the second number, missing digits column by column, and a missing number in multiplication by dividing and in division by multiplying | Rwanda, Primary pupil's book, Year 2 (English), Preliminary Activities, printed p. 4; Unit 13, printed pp. 235–238 |
+| Missing numbers in the Kinyarwanda original — finding the missing number in addition, subtraction, multiplication and division sentences | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 13, printed pp. 229–235 |
 | Missing digits in written addition and subtraction worked column by column; a missing factor found by dividing the product by the known factor; a missing dividend (quotient × divisor) or divisor (dividend ÷ quotient) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 13 (§§13.1–13.4), printed pp. 323–327 |
 | Equalities with a missing number in addition, subtraction, multiplication and division, solved to make both sides equal; end-of-year review of missing numbers in all four operations and in equalities | Rwanda, Primary Learner's Book, Year 3 (English), Unit 13 (§13.5), printed pp. 328–333; End-of-year assessment A Q11, printed p. 350 |
 | Kinyarwanda-edition self-assessment equalities that differ from the English edition (• + 1 575 = 2 145 + 875 and 1 208 + 726 = 576 + •) — cited from this edition only, as the two editions are not mirrors | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 13 (§13.5), printed pp. 267–268 |
+| Filling in the missing numbers | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 13, printed pp. 141–144 |
 | Solving simple algebraic equations with one unknown by inverse operations; solving fractional algebraic equations by clearing fractions; forming and solving equations from word problems (ages, perimeters, sharing money) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 11, printed pp. 193–199 |
 | Meaning of letters in algebra; equations, identities and true/false number sentences; solving linear equations by inverse operations and by the balancing method (scales model) with checking; equations with fractions cleared by the LCM and equations with brackets; forming and solving linear equations from word problems | Rwanda, Senior 1 Student's Book, Unit 3, printed pp. 83–94 |
+| Teacher's guidance and answers for the Senior 1 algebra unit (Unit 3: linear equations and inequalities) — guide evidence | Rwanda, Senior 1 Teacher's Guide, Unit 3, printed p. 72 |
 | Solving simple equations — Finding the rational that satisfies a ×/÷ statement (proto-equation inside the division lesson) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 15 |
 | Replacement and solution sets — Replacement set (مجموعة التعويض) and solution set (مجموعة الحل) defined; solving by systematic substitution | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 36 |
 | What an equation is — Equation defined as an open sentence containing =; distinguished from < / > sentences | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 38 |

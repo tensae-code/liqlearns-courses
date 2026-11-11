@@ -167,6 +167,8 @@ Every part traces to its book and page.
 **Book 109:** *Toán 10, Tập Một* (Mathematics 10, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31109-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 110:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 111:** *Mathematics for Rwandan Schools — Senior 1 Teacher's Guide* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 484 5 (as printed; the imprint misprints the first author's name as 'Ndyabas'). No REB approval wording is printed anywhere in the book. Teacher evidence: a true companion — it mirrors the Senior 1 Student's Book unit for unit (verified from its own contents), with learning objectives, background information, lesson activities and answers to the student book's self-evaluation exercises and unit tests; it adds no pupil content beyond the student book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -254,6 +256,7 @@ Every part traces to its book and page.
 | What a set is and describing sets (roster, descriptive and set-builder methods); membership (∈, ∉); cardinality n(A); subsets, the number of subsets 2^n, and subsets of the natural numbers | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 1–3 and 5–7 |
 | Venn diagrams; intersection and union of sets, with n(A ∪ B); the universal set and the complement of a set | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 7–15 |
 | Difference of sets and symmetric difference; the empty set and disjoint sets; equal and equivalent sets; general problems on sets using Venn diagrams (two- and three-set survey problems) | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 15–20 |
+| Teacher's guidance and answers for the Senior 1 sets and relations unit (Unit 1) — guide evidence | Rwanda, Senior 1 Teacher's Guide, Unit 1, printed p. 38 |
 | Set concept — A set as a well-defined collection of objects; collective words (team, herd, flock) as sets; "beautiful countries"/"clever pupils" as non-examples | Sudan, Grade 6 Mathematics, printed p. 6 |
 | Describing sets — Roster (listing) method: braces, commas, order irrelevant, no element repeated; sets named with capital letters; Set-builder (distinctive property) method and conversion between roster and set-builder forms | Sudan, Grade 6 Mathematics, printed pp. 11, 15 |
 | Membership — Membership ∈ and non-membership ∉; the set {4} is not an element of {2, 3, 4, 5} | Sudan, Grade 6 Mathematics, printed p. 16 |

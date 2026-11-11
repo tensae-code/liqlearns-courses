@@ -376,6 +376,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 218:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 219:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 220:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -573,6 +575,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Sum of interior angles of a polygon = (n − 2) × 180°, derived by triangulating from one vertex | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 62–64 |
 | Sum of exterior angles of a polygon = 360°; the interior and exterior angle of a regular polygon; finding the number of sides from a given angle | Malaysia, Mathematics Form 2, Ch. 4 §4.2, printed pp. 64–72 |
 | Right, acute and obtuse angles first met and compared (obtuse > right > acute), found and made in the classroom | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed pp. 213–216 |
+| Types of angles in the Kinyarwanda original of the Year 2 book | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 10, printed pp. 210–214 |
 | Straight, parallel and intersecting lines; right (90°), acute (< 90°) and obtuse (90°–180°) angles in degrees; measuring and drawing angles with a protractor; clock-hand angles; comparing angles | Rwanda, Primary Learner's Book, Year 3 (English), Unit 10 (§§10.1–10.4), printed pp. 273–286; End-of-year assessment C Q1, Q11, printed pp. 353, 355; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 10 (§§10.1–10.5), printed pp. 221–233 |
 | Line types including perpendicular, horizontal, vertical and oblique; the angle as amount of turn and the degree; acute, right, obtuse, straight (180°) and reflex angles; complementary and supplementary angles; measuring with a protractor | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 14 (§§14.1, 14.3–14.5), printed pp. 145–146, 148–154 |
 | Angles on parallel lines and transversals — vertically opposite angles equal, angles on a straight line sum to 180°, angles at a point sum to 360°, corresponding and alternate angles equal, co-interior angles sum to 180°; drawing angles with a protractor; angle sum of a triangle = 180° | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 11 (§§11.1–11.7, 11.13), printed pp. 160–175, 191–192 |

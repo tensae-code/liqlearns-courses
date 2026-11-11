@@ -111,6 +111,16 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 73:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (English Version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 74:** *Matemática — Libro de Texto — 1er Grado (NICAMATE 2)* — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 75:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 76:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 77:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 78:** *Primary Learner's Mathematics P4 for Rwanda Schools* (pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 79:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with straight and curved lines as its Lesson 1 (printed p. 1), before the circle of Lesson 2.
 
 
@@ -121,6 +131,10 @@ On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with strai
 | Open (non-closed) lines | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 211 |
 | Curved lines and zigzag lines | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed p. 212 |
 | Naming pictured lines (application activities) | Rwanda, Primary pupil's book, Year 2 (English), Unit 10, printed pp. 209, 211–212 |
+| Types of lines in the Kinyarwanda original — straight lines and kinds | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 10, printed pp. 205–209 |
+| Types of lines in the Year 3 books (the lines part of Unit 10, stocked whole in the angles lesson) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 10 (§10.1), printed pp. 273–276; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 10, printed pp. 221–226 |
+| Lines, and measuring a line segment (the lines part of the P4 geometry unit, stocked whole in the angles and measuring lessons) | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 14 (§§14.1–14.2), printed pp. 145–147 |
+| Points and lines in the Senior 1 geometry unit (the lines part of Unit 6, stocked whole in the angles lesson) | Rwanda, Senior 1 Student's Book, Unit 6, printed pp. 139–153 |
 | Standing, slanting, sleeping lines — Lines and Lines (opening, image page): cricket stumps kept standing (Fatima), slanting (Jasbir), sleeping (Raima); match each child to her/his line | India, Math-Magic Class 2, printed p. 84 |
 | Straight and curved lines — standing, slanting, sleeping and curved lines; Ekta's lines are not straight; draw lines by joining dots, freehand, with a scale, with a pencil box | India, Math-Magic Class 2, printed p. 85 |
 | Letters and numbers from straight lines — Fun with Lines: clock numbers and letters made with straight lines; make numbers/letters with matchsticks; which cannot be made | India, Math-Magic Class 2, printed p. 86 |

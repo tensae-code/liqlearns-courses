@@ -493,6 +493,8 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 307:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 308:** *Matemática — Libro de Texto — 1er grado (NICAMATE 2), Primera Edición 2024* — Nicaragua, Ministerio de Educación (MINED). Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 309:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -765,6 +767,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Geometric properties of three-dimensional shapes — prisms, pyramids, cylinders, cones and spheres: faces, edges, vertices, flat and curved surfaces | Malaysia, Mathematics Form 2, Ch. 6 §6.1, printed pp. 100–101 |
 | Nets of cube, cuboid, prism, pyramid, cylinder and cone, including judging whether a given net folds to the solid | Malaysia, Mathematics Form 2, Ch. 6 §6.2, printed pp. 102–103 |
 | Lines and shapes named from pictures; the square (4 equal sides, 4 right angles, made by folding and cutting paper), the rectangle (opposite sides equal, length and width) and the triangle (3 sides, 3 angles), identified among mixed shapes | Rwanda, Primary pupil's book, Year 2 (English), Unit 10 preliminary, printed p. 208; Unit 12, printed pp. 224–225, 227–228, 230–231, 233–234 |
+| The square, rectangle and triangle in the Kinyarwanda original of the Year 2 book | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Unit 12, printed pp. 220–228 |
 | The square and rectangle in depth — equal sides, right angles, diagonals and medians, parts named in labelled figures | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§§11.1.1, 11.2.1), printed pp. 289–291, 294–295 |
 | Triangles — 3 sides and 3 angles summing to 180°; equilateral, isosceles, right-angled and scalene triangles — the scalene definition taught corrected (both editions print a scalene triangle as having one obtuse angle and two acute angles; a scalene triangle has 3 sides of different lengths), and the angle-sum wording taught corrected (the English isosceles box prints the sum as that "of an equilateral triangle"; the Kinyarwanda twin correctly says of a triangle) | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§§11.3.1–11.3.2.4), printed pp. 298–303; Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 11 (§11.3), printed pp. 245, 247 |
 | The circle as a shape — centre, radius and diameter, diameter = 2 × radius, the circumference as the circle's perimeter, drawn with compasses; end-of-year review of square/rectangle facts, triangles and circle parts | Rwanda, Primary Learner's Book, Year 3 (English), Unit 11 (§11.4), printed pp. 306–310; End-of-year assessment C Q2–Q4, printed pp. 353–354 |

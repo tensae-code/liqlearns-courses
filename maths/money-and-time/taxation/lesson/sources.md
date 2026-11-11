@@ -1,6 +1,6 @@
 # Sources — Taxation
 
-countries: Malaysia, India, Nepal
+countries: Malaysia, India, Nepal, Rwanda
 
 Every part traces to its book and page.
 
@@ -8,6 +8,8 @@ Every part traces to its book and page.
 **Book 2:** *Mathematics — Textbook for Class VIII* — India, NCERT, New Delhi, first edition January 2008, 2020-21 printing, ISBN 978-81-7450-814-0. Filed in maths/books/india.md (FULLY READ + CITATION CHECK PASSED). The held copy lacks the book's Answers and Just for Fun sections; nothing is cited from them.
 **Book 3:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 5:** *Mathematics for Rwandan Schools — Senior 1 Student's Book* — Rwanda, Longhorn Publishers (Rwanda) Ltd, 2016, ISBN 978 9997 74 483 8 (as printed). No REB approval wording is printed anywhere in the book. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal teaches tax as a unit of its own twice — Grade 9 Unit 2 (Tax, running to the VAT chain stocked in the business-mathematics lesson) and Grade 10 Unit 2 (Tax and money exchange).
 
@@ -23,7 +25,10 @@ On Malaysia in this lesson: Malaysia's Form 5 book is the first in the read set 
 | Sales tax and GST — sales tax / VAT / GST charged as a percentage added to the bill; finding price before GST from tax-inclusive price | India, Mathematics Class 8, printed p. 124 |
 | Tax | Nepal, Grade 9 student book, Unit 2, printed p. 25 |
 | Tax and money exchange | Nepal, Grade 10 student book, Unit 2, printed p. 11 |
+| Tax — indirect taxes, withholding tax and VAT — inside the Senior 1 money unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 116–121 |
 
-**Acceptance count: taught in 3 countries (Malaysia, India, Nepal).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
+**Acceptance count: taught in 4 countries (Malaysia, India, Nepal, Rwanda).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
 
 India enters taxation from Mathematics Class 8: sales tax and GST.
+
+Rwanda enters from its Senior 1 Student's Book (Longhorn, © 2016): tax — indirect taxes, withholding tax and VAT — taught inside Unit 4's money teaching (printed pp. 116–121), alongside insurance; the same unit's wider business content is stocked in the business-mathematics lesson.

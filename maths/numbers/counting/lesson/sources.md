@@ -295,6 +295,14 @@ Every part traces to its book and page.
 **Book 214:** *Mathematics, Grade 1 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2007 (guides the pre-2016 Grade 1 student book, which is not in the set), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 215:** *Guía Metodológica de Matemática — 1er Grado — NICAMATE 2* (teacher guide) — Nicaragua, MINED, Primera Edición, 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: guide to the Grade 1 NICAMATE 2 student book.
 
+**Book 216:** *Mathematics for Rwandan Primary Schools — Pupil's Book 5* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 217:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 218:** *Mathematics — Teacher's Guide, Year 2 Primary* (English edition, teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2020. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with lesson guidance and answers to every pupil-book activity and end-of-unit assessment. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 219:** *Imibare — Igitabo cy'Umwarimu, Umwaka wa 2* (Kinyarwanda original of the Year 2 teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with unit lesson lists and answers to all pupil-book exercises and unit assessments. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -501,9 +509,14 @@ Every part traces to its book and page.
 | Practice: completing number sequences in bubbles; naming the three numbers after and the three numbers before a number; numbers between two numbers | Kuwait, Hadiya Primary School Grade 3 Unit 1 worksheet booklet (teacher-made practice booklet — NOT a government textbook), بند ١-٢, PDF pp. 14–20 |
 | Counting, reading and writing whole numbers to 200, 500 and 1,000 — counting collections one by one and backwards, counting in tens and hundreds, number charts and number lines, and writing numbers to 200 in words | Rwanda, Primary pupil's book, Year 2 (English), Preliminary Activities, printed pp. 1–2; Unit 1, printed pp. 7–10; Unit 2, printed pp. 49–53; Unit 3, printed pp. 88–92 |
 | The same counting climb in the Kinyarwanda original (unit page map) | Rwanda, Imibare, Pupil's Book, Year 2 (Kinyarwanda), Preliminary Activities, printed pp. 1–6; Unit 1, printed pp. 7–48; Unit 2, printed pp. 49–87; Unit 3, printed pp. 88–121 |
+| Teacher's guidance and answers for the Year 2 counting units (preliminary activities and number Units 1–3) — guide evidence | Rwanda, Primary 2 Teacher's Guide (English), Preliminary Activities, printed p. 25; Unit 1, printed p. 27; Unit 2, printed p. 56; Unit 3, printed p. 86 |
+| Teacher's guidance and answers for the same Year 2 counting units in the Kinyarwanda guide — guide evidence | Rwanda, Imibare, Teacher's Guide, Year 2 (Kinyarwanda), Unit 1, printed p. 26; Unit 2, printed p. 64; Unit 3, printed p. 100 |
 | Reading and writing whole numbers to 2,000, 5,000 and 10,000 in figures and words, with number lines in steps of 100–500 | Rwanda, Primary Learner's Book, Year 3 (English), Unit 1 (§§1.1–1.2), printed pp. 1–4; Unit 2 (§§2.1–2.2), printed pp. 47–50; Unit 3 (§§3.1–3.2), printed pp. 89–92; End-of-year assessment A Q1, printed p. 349 |
 | The same items in the Kinyarwanda original (unit/section map) | Rwanda, Imibare, Pupil's Book, Year 3 (Kinyarwanda), Unit 1 (§§1.1–1.2), printed pp. 1–3; Unit 2 (§§2.1–2.2), printed pp. 40–42; Unit 3 (§§3.1–3.2), printed pp. 69–72 |
 | Forming numerals from given digits — smallest numeral by ascending digit order, largest by descending digit order | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 1 (§1.0), printed pp. 6–7 |
+| Reading and writing numbers in words and figures to 100,000, and comparing numbers | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 1 (§§1.1–1.3), printed pp. 5–13 |
+| Reading and writing numbers in words to 1,000,000, with place value and comparing | Rwanda, Mathematics for Rwandan Primary Schools, Pupil's Book 5, Unit 1 (§§1.1–1.2), printed pp. 1–5 |
+| Reading, writing, place value and comparing of numbers beyond 1,000,000 — place value taught to 7 digits, numbers read and written in millions, thousands and units periods, and worked numbers running to 9 digits | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 1 (§§1.1–1.5), printed pp. 1–10 |
 | Even, odd, prime and square numbers revisited as subsets of the natural numbers | Rwanda, Senior 1 Student's Book, Unit 2, printed pp. 39–41 |
 | Recognising and writing the number 1 — count a set of one, trace and write the digit 1, match numeral to sets | Sudan, Grade 1 Mathematics, printed p. 6 |
 | Recognising and writing the number 2 — count sets of two, write digit 2, match numeral to sets | Sudan, Grade 1 Mathematics, printed p. 8 |
@@ -886,7 +899,7 @@ Syria carries the primary climb in semester books — numbers to 9 and zero as t
 
 Saudi Arabia counts with the same one-number-at-a-time build in Grade 1 — count, name, model with counters, then read and write — and reaches skip counting by twos, fives and tens on the hundred chart in Part Two, with Grade 2 Part One colouring skip-count patterns on the chart. Kuwait gains further practice evidence here from a teacher-made Grade 3 booklet misfiled in Saudi Arabia's record: sequence-completion and before/after/between exercises (PDF pp. 14–20), cited as a Kuwaiti school booklet, not as a textbook.
 
-Rwanda teaches counting as a staged climb in its REB primary books — to 200, 500 and 1,000 in the Year 2 pupil's book (in both the English edition and the Kinyarwanda original), on to 2,000, 5,000 and 10,000 in Year 3, forming numerals from given digits in P4, and even, odd, prime and square numbers revisited as subsets of the natural numbers in Senior 1.
+Rwanda teaches counting as a staged climb in its REB primary books — to 200, 500 and 1,000 in the Year 2 pupil's book (in both the English edition and the Kinyarwanda original), on to 2,000, 5,000 and 10,000 in Year 3, reading and writing numbers to 100,000 in P4 (with forming numerals from given digits), to 1,000,000 in P5 and beyond 1,000,000 in P6, and even, odd, prime and square numbers revisited as subsets of the natural numbers in Senior 1.
 
 Sudan counts one number at a time in Grade 1 — each number 1 to 9 counted, traced, written and matched to its sets, zero taught last of the ten — then the number before and the number after, and counting in tens.
 

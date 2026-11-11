@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda
 
 Every part traces to its book and page.
 
@@ -47,6 +47,8 @@ Every part traces to its book and page.
 **Book 28:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 30:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+
 On Nepal in this lesson: construction is a named unit in both of Nepal's senior compulsory books — Grade 9 Unit 15 and Grade 10 Unit 14, following those books' own triangle and quadrilateral units.
 
 | Lesson part | Where it comes from |
@@ -58,6 +60,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Rhombi and parallelograms from two sides and an angle | Sierra Leone, SSS 2 Term 2, L88 (p.115); Pakistan, Grade 8 (pp.161–170) |
 | Trapeziums and other quadrilaterals | Sierra Leone, SSS 2 Term 2, L89 (p.118); Bangladesh, Class 8, Exp.5 (pp.93–124) |
 | Kites and the full quadrilateral set | Pakistan, Grade 8 (pp.161–170); Bangladesh, Class 8, Exp.5 (pp.93–124) |
+| Constructing polygons and nets — drawing triangles, squares and rectangles with protractor and ruler; constructing triangles, rectangles, squares and regular polygons (pentagon to decagon) with ruler and compasses; centre angles (cross-cited here; the unit is stocked whole in the compass-constructions lesson) | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 13, printed pp. 229–260 |
 | A triangle from two sides and the included angle, in five steps | Yemen, Grade 5 Part 2, 8-3 (p.145) |
 | Construction word problems | Sierra Leone, SSS 2 Term 2, L90 (p.121), L91 (p.124) |
 | The triangle inequality (المتراجحة في المثلث): the length of any side of a triangle is less than the sum of the lengths of the other two sides — if one length equals the sum of the other two, the three points lie on one straight line; testing whether three lengths can be the sides of a triangle (an equality or a failed inequality rules it out) and whether three points are collinear from their mutual distances | Syria, Grade 7 student's book, printed pp. 135–136, 139 |
@@ -126,7 +129,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing quadrilaterals (§7-4) | Libya, Grade 8 pupil's book, §7-4, printed pp.79–95 |
 | Constructing triangles and quadrilaterals | Nepal, Grade 9 student book, Unit 15, printed p. 284 |
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
-**Acceptance count: taught in 18 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 19 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -148,3 +151,5 @@ Afghanistan enters through its Ministry of Education course — the Grade 1 cour
 Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyrillic), all published in Dushanbe — Математика for Grade 5 (Маориф, 2022) and Grade 6 (5th edition, Маориф, 2021), Алгебра for Grades 7 (4th improved edition, 2023) and 8 (4th edition, 2023), and Геометрия — the continuation of stereometry — for Grade 11 (3rd edition, Лавҳ, 2020). From its books: from Grade 5: Constructing a triangle from its three sides with compass and ruler.
 
 Armenia enters through its Geometry 7. From its books: constructing a triangle from three elements.
+
+Rwanda enters from its Primary 6 Learner's Book: Unit 13 constructs polygons and nets — drawing triangles, squares and rectangles with protractor and ruler, and constructing triangles, rectangles, squares and regular polygons with ruler and compasses (printed pp. 229–260) — cross-cited here from the compass-constructions lesson, where the unit is stocked whole.
