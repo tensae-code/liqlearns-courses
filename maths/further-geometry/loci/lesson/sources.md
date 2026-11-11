@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Andorra, Brazil, Dominica
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Andorra, Brazil, Dominica, Italy
 
 Every part traces to its book and page.
 
@@ -63,7 +63,7 @@ On Nepal in this lesson: the concept of locus is §3.1 of Nepal's Grade 9 Option
 | Locus of points (կետերի երկրաչափական տեղ) | Armenia, Geometry 7, §17.41*, printed p. 134 |
 | Concept of locus | Nepal, Grade 9 Optional student book, §3.1, printed p. 146 |
 
-**Acceptance count: taught in 14 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Brazil, Dominica).**
+**Acceptance count: taught in 15 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal, Sri Lanka, Brazil, Dominica, Italy).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.
@@ -177,3 +177,21 @@ Into this lesson the placements stock 1 items from Book 4.
 Dominica is added to the countries line and to the acceptance count above on its student-book rows. Dominica's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 4 student books) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominica-placements.md.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 3 items, every one a pupil-textbook row, from Book 3 (*Matematica.blu — Vol. 1*, second part only), Book 7 (*Colori della Matematica — Edizione Blu, Vol. 2*) and Book 14 (*Colori della Matematica — Edizione Blu, Modulo B*).
+
+**Book 3:** Bergamini/Barozzi/Trifone, *Matematica.blu — Vol. 1* (Zanichelli, 2016; filed at Grade 9) — Italy; 54,032,035 bytes, 909 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Algebra Capitoli 13–21, Capitolo β and Geometry Capitoli G5–G11, its theory opening at printed p. 670; Capitoli 1–12 and G1–G4 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+**Book 7:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 2* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421675; filed at Grade 10) — Italy; 89,032,939 bytes, 902 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 14:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo B: Coniche* (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 44,978,242 bytes, 362 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Geometric loci (luoghi geometrici) | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G158 |
+| Geometric loci | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 588 |
+| Conics and loci | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 647 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

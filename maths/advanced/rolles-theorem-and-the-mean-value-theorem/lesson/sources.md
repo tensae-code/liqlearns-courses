@@ -1,6 +1,6 @@
 # Sources — Rolle's theorem and the Mean Value Theorem
 
-countries: Greece, Cambodia, Yemen, India, Afghanistan, Ecuador, Andorra
+countries: Greece, Cambodia, Yemen, India, Afghanistan, Ecuador, Andorra, Italy
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | Mean value theorem (Lagrange), with proof | Afghanistan, Mathematics Grade 12 (Dari), printed pp. 121–122 |
 | Apply the Mean Value Theorem to the polynomial at x = 2 and x = 3 | Ecuador, Matemática, Grade 13 (3ro BGU) student book, printed p. 30 |
 
-**Acceptance count: taught in 6 countries (Greece, Cambodia, Yemen, India, Afghanistan, Ecuador).** Greece teaches Rolle's theorem and the Mean Value Theorem in the differential calculus chapter of its Grade 12 Analysis book, together with De L'Hospital's rules for evaluating limits. Cambodia proves both theorems in its PRIVATE Khem Putthi Derivatives booklet (pp.50–52) and teaches L'Hôpital's rule there (pp.53–54) and in its PRIVATE Limits and Continuity booklet (pp.62–64). Yemen teaches Rolle's theorem and the Mean Value Theorem as one named lesson, 6-7, in the Grade 12 Science differentiation unit (contents/PDF p.183). No other country's filing carries these theorems as verified taught stock for this lesson; Iraq's Grade 12 Scientific lesson [3-2] is unverified and is cited nowhere here.
+**Acceptance count: taught in 7 countries (Greece, Cambodia, Yemen, India, Afghanistan, Ecuador, Italy).** Greece teaches Rolle's theorem and the Mean Value Theorem in the differential calculus chapter of its Grade 12 Analysis book, together with De L'Hospital's rules for evaluating limits. Cambodia proves both theorems in its PRIVATE Khem Putthi Derivatives booklet (pp.50–52) and teaches L'Hôpital's rule there (pp.53–54) and in its PRIVATE Limits and Continuity booklet (pp.62–64). Yemen teaches Rolle's theorem and the Mean Value Theorem as one named lesson, 6-7, in the Grade 12 Science differentiation unit (contents/PDF p.183). No other country's filing carries these theorems as verified taught stock for this lesson; Iraq's Grade 12 Scientific lesson [3-2] is unverified and is cited nowhere here.
 
 India enters Rolle's theorem and the mean value theorem from Mathematics Class 12: Rolle's theorem stated and verified on examples, with its geometric meaning in figures, and the mean value theorem after it.
 
@@ -45,3 +45,19 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 5 items, every one a pupil-textbook row, from Book 4 (*Matematica.blu 2.0 — Vol. 5*, second part only).
+
+**Book 4:** Bergamini/Barozzi/Trifone, *Matematica.blu 2.0 — Vol. 5*, 2a edizione (Zanichelli, 2017, ISBN 9788808513588; filed at Grade 13) — Italy; 36,931,747 bytes, 631 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Capitoli 25–31 and Capitolo σ, its theory opening at printed p. 1560; Capitoli 18–24 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rolle's theorem | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1658 |
+| Lagrange's (mean value) theorem | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1660 |
+| Consequences of Lagrange's theorem: monotonicity and the sign of the derivative | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1662 |
+| Cauchy's theorem | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1664 |
+| De L'Hôpital's theorem | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1666 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

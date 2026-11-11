@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam, Andorra, Cuba, Germany, Gabon
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam, Andorra, Cuba, Germany, Gabon, Italy
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ Every part traces to its book and page.
 | Equation of a surface given in space | Armenia, Geometry 11, §9.3, printed p. 101 |
 | Applying the coordinate method | Armenia, Geometry 11, §9.4, printed p. 105 |
 
-**Acceptance count: taught in 17 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam, Cuba, Germany, Gabon).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 18 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam, Cuba, Germany, Gabon, Italy).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
 
 Vietnam joins with its Grade 12 Volume 2 space-geometry lessons — the equations of planes and of lines in space, angle formulas in space, and the equation of a sphere (Bài 14–17; its Volume 1 vector-coordinate items are cited in the vectors lesson). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -212,3 +212,26 @@ The 2026-11-10 expansion read read Gabon's whole in-hand Maths set from the PDFs
 Gabon is added to the countries line and to the acceptance count above on its pupil-textbook rows. Gabon's class for Maths is **COURSES-CLOSED for the in-hand set**, with the pupil-coverage caveat recorded above: no primary pupil book is in hand — primary coverage rests on the IPN curricula and the *Super Efficace* teacher guides.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/gabon-placements.md.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 10 items, every one a pupil-textbook row, from Book 2 (*Matematica.blu 2.0 — Vol. 4*) and Book 10 (*Colori della Matematica — Edizione Blu, Modulo F*).
+
+**Book 2:** Bergamini/Trifone/Barozzi, *Matematica.blu 2.0 — Vol. 4* (Zanichelli, 2011; filed at Grade 12) — Italy; 11,710,476 bytes, 740 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 10 (printed p. 634), its pagination continuous from Vol. 3, which is not in hand. Pupil textbook (adopted commercial title).
+
+**Book 10:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo F: Geometria euclidea e geometria analitica nello spazio* (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 25,756,882 bytes, 218 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cartesian coordinates in space | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1082 |
+| The plane in space: its equation | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1083 |
+| The line in space: its equations | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1086 |
+| Some notable surfaces: sphere and other quadric surfaces | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1089 |
+| Functions of two variables | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1094 |
+| Introduction to analytic geometry in space | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 569 |
+| The equation of a plane and parallel/perpendicular conditions for two planes | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 572 |
+| The equation of a line and parallel/perpendicular conditions for lines and for a line and a plane | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 575 |
+| Distance from a point to a line or a plane | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 580 |
+| The spherical surface and the sphere | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 582 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

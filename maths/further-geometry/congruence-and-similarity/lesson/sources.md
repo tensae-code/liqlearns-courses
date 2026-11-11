@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Ireland, Fiji, Honduras
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile, Finland, Dominica, Dominican Republic, Guyana, Ireland, Fiji, Honduras, Italy
 
 Every part traces to its book and page.
 
@@ -531,7 +531,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 56 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Guyana, Ireland, Fiji, Honduras)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 57 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Guyana, Ireland, Fiji, Honduras, Italy)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -1199,3 +1199,64 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Similarity of triangles | Honduras — *Guía del Docente, Matemáticas, 9no grado (2022)* (teacher guide — teacher evidence only), guide printed p. 91 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — this lesson holds Honduras pupil-textbook rows, so Honduras counts in the taught-in figure; its teacher-guide rows are stocked here as teacher evidence only and are not what Honduras is counted on. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 40 items, every one a pupil-textbook row, from Book 1 (*Matematica.blu — Vol. 2*), Book 2 (*Matematica.blu 2.0 — Vol. 4*), Book 3 (*Matematica.blu — Vol. 1*, second part only), Book 5 (*Colori della Matematica — Edizione Verde, Vol. 1*), Book 6 (*Colori della Matematica — Edizione Blu, Vol. 1*) and Book 7 (*Colori della Matematica — Edizione Blu, Vol. 2*).
+
+**Book 1:** Bergamini/Trifone/Barozzi, *Matematica.blu — Vol. 2: Algebra, Geometria, Probabilità* (Zanichelli, 2010; filed at Grade 10) — Italy; 12,160,155 bytes, 907 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 9 (printed p. 633), its pagination continuous from Vol. 1. Pupil textbook (adopted commercial title).
+
+**Book 2:** Bergamini/Trifone/Barozzi, *Matematica.blu 2.0 — Vol. 4* (Zanichelli, 2011; filed at Grade 12) — Italy; 11,710,476 bytes, 740 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 10 (printed p. 634), its pagination continuous from Vol. 3, which is not in hand. Pupil textbook (adopted commercial title).
+
+**Book 3:** Bergamini/Barozzi/Trifone, *Matematica.blu — Vol. 1* (Zanichelli, 2016; filed at Grade 9) — Italy; 54,032,035 bytes, 909 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Algebra Capitoli 13–21, Capitolo β and Geometry Capitoli G5–G11, its theory opening at printed p. 670; Capitoli 1–12 and G1–G4 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+**Book 5:** Sasso/Zoli, *Colori della Matematica — Edizione Verde, Vol. 1* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421729; filed at Grade 9) — Italy; 76,934,490 bytes, 802 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 6:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 1* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421668; filed at Grade 9) — Italy; 93,032,683 bytes, 962 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 7:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 2* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421675; filed at Grade 10) — Italy; 89,032,939 bytes, 902 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Thales' theorem | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G294 |
+| Similarity and similar figures | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G379 |
+| The similarity criteria for triangles | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G380 |
+| Applications of the triangle similarity criteria | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G383 |
+| Similarity in the circumference: intersecting chords and secants | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G385 |
+| Similar polygons | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G389 |
+| Similarity as a transformation | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1156 |
+| Thales' theorem | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G323 |
+| Similarity and triangles | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G348 |
+| The similarity criteria for triangles | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G349 |
+| Similarity and Euclid's theorems | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G354 |
+| Similarity and polygons | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G356 |
+| Similarity and the circumference | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G360 |
+| The golden section and its applications | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G362 |
+| Congruence | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 648 |
+| Congruence and segments | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 650 |
+| Congruence and angles | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 651 |
+| Triangles and the congruence criteria | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 671 |
+| Proofs using the congruence criteria | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 675 |
+| Properties of isosceles triangles | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 678 |
+| Triangle inequalities | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 680 |
+| Congruence and right triangles | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 709 |
+| The little theorem of Thales | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 748 |
+| Congruence | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 716 |
+| Congruence and segments | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 719 |
+| Congruence and angles | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 721 |
+| Triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 744 |
+| First and second congruence criteria | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 745 |
+| Properties of isosceles triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 750 |
+| Third congruence criterion | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 753 |
+| Inequalities in triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 755 |
+| Congruence and right triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 798 |
+| The little theorem of Thales | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 838 |
+| Thales' theorem | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 755 |
+| Similarity and triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 759 |
+| Similarity and polygons | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 767 |
+| Similarity and the circumference | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 770 |
+| Similarity and the golden section | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 772 |
+| Application problems on similarity | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 778 |
+| From homotheties to similarities | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 848 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

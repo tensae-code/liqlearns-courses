@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Ireland, Fiji, Honduras
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Ireland, Fiji, Honduras, Italy
 
 Every part traces to its book and page.
 
@@ -299,8 +299,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric ratios for angles within one revolution | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 2, printed p. 74 |
 | Workbook practice: trigonometry (T1 U3) | Jordan, Grade 10 Workbook Term 1, Unit 3 (workbook evidence) |
 
-**Acceptance count: taught in 51 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Ireland, Fiji, Honduras).**
+**Acceptance count: taught in 52 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Ireland, Fiji, Honduras, Italy).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3 —
@@ -739,3 +739,21 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Trigonometric functions of an acute angle | Honduras — *Guía del Docente, Matemática I, Décimo grado* (teacher guide — teacher evidence only), the guide's class plan for the Grade 10 pupil book's printed p. 46 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — this lesson holds Honduras pupil-textbook rows, so Honduras counts in the taught-in figure; its teacher-guide rows are stocked here as teacher evidence only and are not what Honduras is counted on. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 5 items, every one a pupil-textbook row, from Book 2 (*Matematica.blu 2.0 — Vol. 4*) and Book 11 (*Colori della Matematica — Edizione Blu, Modulo D*).
+
+**Book 2:** Bergamini/Trifone/Barozzi, *Matematica.blu 2.0 — Vol. 4* (Zanichelli, 2011; filed at Grade 12) — Italy; 11,710,476 bytes, 740 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 10 (printed p. 634), its pagination continuous from Vol. 3, which is not in hand. Pupil textbook (adopted commercial title).
+
+**Book 11:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo D: Trigonometria; Numeri complessi e trasformazioni*, seconda edizione (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 59,081,419 bytes, 482 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Right triangles: solving with sine, cosine and tangent | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 850 |
+| Applications of the right-triangle theorems | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 853 |
+| Theorems on right triangles | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 236 |
+| Applications of the right-triangle theorems: area of a triangle and the chord theorem | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 238 |
+| Problems on right triangles with equations, inequalities and functions | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 242 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

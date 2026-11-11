@@ -1,6 +1,6 @@
 # Sources — Conic Sections
 
-countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras
+countries: Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy
 
 Every part traces to its book and page.
 
@@ -183,7 +183,7 @@ Every part traces to its book and page.
 | Parábola: parabola — elements, equations, tangents; link to the quadratic function and maximum/minimum | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 125 |
 | La elipse: ellipse — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 133 |
 | La hipérbola: hyperbola — elements and equations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 140 |
-**Acceptance count: taught in 32 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 33 countries (Greece, Iraq, Pakistan, Laos, Kuwait, Yemen, Indonesia, Vietnam, Iran, Cambodia, Nicaragua, Mauritania, Nepal, Syria, Rwanda, Sudan, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, El Salvador, Colombia, Costa Rica, Cuba, Chile, Dominica, Dominican Republic, Germany, Honduras, Italy).** North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Rwanda teaches conic sections whole in Advanced Mathematics Senior Six Unit 8 — the focus–directrix definition with eccentricity, all three conics with tangents and normals, the polar equation, and applications from planetary orbits to the whispering gallery.
 
@@ -413,3 +413,53 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Hyperbola | Honduras — *Matemática III (BCH), Guía del Docente* (teacher guide — teacher evidence only), the guide's class plan for the Grade 11 pupil book's printed p. 45 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — this lesson holds Honduras pupil-textbook rows, so Honduras counts in the taught-in figure; its teacher-guide rows are stocked here as teacher evidence only and are not what Honduras is counted on. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 31 items, every one a pupil-textbook row, from Book 1 (*Matematica.blu — Vol. 2*), Book 3 (*Matematica.blu — Vol. 1*, second part only), Book 7 (*Colori della Matematica — Edizione Blu, Vol. 2*), Book 11 (*Colori della Matematica — Edizione Blu, Modulo D*) and Book 14 (*Colori della Matematica — Edizione Blu, Modulo B*).
+
+**Book 1:** Bergamini/Trifone/Barozzi, *Matematica.blu — Vol. 2: Algebra, Geometria, Probabilità* (Zanichelli, 2010; filed at Grade 10) — Italy; 12,160,155 bytes, 907 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 9 (printed p. 633), its pagination continuous from Vol. 1. Pupil textbook (adopted commercial title).
+
+**Book 3:** Bergamini/Barozzi/Trifone, *Matematica.blu — Vol. 1* (Zanichelli, 2016; filed at Grade 9) — Italy; 54,032,035 bytes, 909 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Algebra Capitoli 13–21, Capitolo β and Geometry Capitoli G5–G11, its theory opening at printed p. 670; Capitoli 1–12 and G1–G4 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+**Book 7:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 2* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421675; filed at Grade 10) — Italy; 89,032,939 bytes, 902 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 11:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo D: Trigonometria; Numeri complessi e trasformazioni*, seconda edizione (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 59,081,419 bytes, 482 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+**Book 14:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo B: Coniche* (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 44,978,242 bytes, 362 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The quadratic function and the parabola | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. 880 |
+| The conics: circle, ellipse, parabola and hyperbola as loci in the Cartesian plane | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. 1135 |
+| The quadratic function and the parabola | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. 913 |
+| The parabola and the graphical interpretation of a quadratic equation | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 244 |
+| Applying rotations to conics | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 327 |
+| The equation of the circumference | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 380 |
+| The circumference and the line | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 383 |
+| How to determine the equation of a circumference | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 390 |
+| Mutual positions of two circumferences | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 393 |
+| Pencils (fasci) of circumferences | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 396 |
+| Circumferences and functions | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 399 |
+| The parabola as a locus and its equation | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 451 |
+| The parabola and the line | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 458 |
+| How to determine the equation of a parabola | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 462 |
+| Pencils (fasci) of parabolas | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 466 |
+| Parabolas and functions | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 470 |
+| The equation of the ellipse | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 529 |
+| The ellipse and the line | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 535 |
+| How to determine the equation of an ellipse | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 538 |
+| Translated ellipses | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 539 |
+| Ellipses and functions | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 543 |
+| The equation of the hyperbola | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 577 |
+| The equilateral hyperbola and the homographic function | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 583 |
+| The hyperbola and the line | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 588 |
+| How to determine the equation of a hyperbola | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 591 |
+| Translated hyperbolas | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 592 |
+| Hyperbolas and functions | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 596 |
+| The conics | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 638 |
+| Mutual positions of two conics and tangent conics | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 642 |
+| Conics and quadratic inequalities in two unknowns | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 652 |
+| Conics and the discussion of mixed parametric systems | Italy — *Colori della Matematica — Edizione Blu, Modulo B* (pupil textbook), printed p. 655 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

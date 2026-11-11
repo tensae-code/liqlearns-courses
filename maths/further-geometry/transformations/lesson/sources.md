@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy
 
 Every part traces to its book and page.
 
@@ -449,7 +449,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 51 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 52 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -1009,3 +1009,65 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Building figures with point (central) symmetry between them | Honduras — *Libro del Estudiante, Matemáticas, 6to grado* (pupil textbook), printed p. 156 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Honduras row in this lesson is a pupil-textbook row, so Honduras counts in full. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 37 items, every one a pupil-textbook row, from Book 1 (*Matematica.blu — Vol. 2*), Book 2 (*Matematica.blu 2.0 — Vol. 4*), Book 3 (*Matematica.blu — Vol. 1*, second part only), Book 5 (*Colori della Matematica — Edizione Verde, Vol. 1*), Book 6 (*Colori della Matematica — Edizione Blu, Vol. 1*), Book 7 (*Colori della Matematica — Edizione Blu, Vol. 2*), Book 11 (*Colori della Matematica — Edizione Blu, Modulo D*) and Book 13 (*Colori della Matematica — Edizione Blu, Modulo A*).
+
+**Book 1:** Bergamini/Trifone/Barozzi, *Matematica.blu — Vol. 2: Algebra, Geometria, Probabilità* (Zanichelli, 2010; filed at Grade 10) — Italy; 12,160,155 bytes, 907 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 9 (printed p. 633), its pagination continuous from Vol. 1. Pupil textbook (adopted commercial title).
+
+**Book 2:** Bergamini/Trifone/Barozzi, *Matematica.blu 2.0 — Vol. 4* (Zanichelli, 2011; filed at Grade 12) — Italy; 11,710,476 bytes, 740 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 10 (printed p. 634), its pagination continuous from Vol. 3, which is not in hand. Pupil textbook (adopted commercial title).
+
+**Book 3:** Bergamini/Barozzi/Trifone, *Matematica.blu — Vol. 1* (Zanichelli, 2016; filed at Grade 9) — Italy; 54,032,035 bytes, 909 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Algebra Capitoli 13–21, Capitolo β and Geometry Capitoli G5–G11, its theory opening at printed p. 670; Capitoli 1–12 and G1–G4 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+**Book 5:** Sasso/Zoli, *Colori della Matematica — Edizione Verde, Vol. 1* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421729; filed at Grade 9) — Italy; 76,934,490 bytes, 802 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 6:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 1* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421668; filed at Grade 9) — Italy; 93,032,683 bytes, 962 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 7:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 2* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421675; filed at Grade 10) — Italy; 89,032,939 bytes, 902 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+**Book 11:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo D: Trigonometria; Numeri complessi e trasformazioni*, seconda edizione (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 59,081,419 bytes, 482 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+**Book 13:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo A: Equazioni, disequazioni e funzioni; Rette e trasformazioni nel piano cartesiano* (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 50,182,812 bytes, 410 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Isometries in the Cartesian plane | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. 1127 |
+| Homotheties (omotetie) in the Cartesian plane | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. 1131 |
+| Composition of two transformations | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. 1133 |
+| What geometric transformations are | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G341 |
+| Translation (traslazione) | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G345 |
+| Rotation (rotazione) | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G347 |
+| Central symmetry (simmetria centrale) | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G348 |
+| Homothety (omotetia) | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G352 |
+| Geometric transformations: definitions and invariants | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1130 |
+| Translation | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1135 |
+| Rotation | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1138 |
+| Central symmetry | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1141 |
+| Isometries | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1148 |
+| Homothety | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1152 |
+| Affinities (affinità) | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 1159 |
+| Geometric transformations and isometries | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G422 |
+| Translation | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G424 |
+| Rotation | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G428 |
+| Central symmetry | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G431 |
+| A non-isometric transformation: homothety | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G438 |
+| Geometric transformations and isometries | Italy — *Colori della Matematica — Edizione Verde, Vol. 1* (pupil textbook), printed p. 710 |
+| Geometric transformations | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 867 |
+| Isometries | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 869 |
+| Central symmetries | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 877 |
+| Translations | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 879 |
+| Rotations | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 882 |
+| Proofs by means of isometries | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 884 |
+| Composition of transformations and classification of isometries | Italy — *Colori della Matematica — Edizione Blu, Vol. 1* (pupil textbook), printed p. 885 |
+| Some isometries in the Cartesian plane | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 145 |
+| Homotheties | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 843 |
+| Homotheties in the Cartesian plane | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 847 |
+| Rotations | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 324 |
+| Affinities | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 333 |
+| An overview of geometric transformations | Italy — *Colori della Matematica — Edizione Blu, Modulo D* (pupil textbook), printed p. 338 |
+| Central symmetries and particular rotations | Italy — *Colori della Matematica — Edizione Blu, Modulo A* (pupil textbook), printed p. 317 |
+| Translations | Italy — *Colori della Matematica — Edizione Blu, Modulo A* (pupil textbook), printed p. 324 |
+| Dilations and homotheties | Italy — *Colori della Matematica — Edizione Blu, Modulo A* (pupil textbook), printed p. 326 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

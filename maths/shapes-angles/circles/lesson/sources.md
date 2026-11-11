@@ -1,6 +1,6 @@
 # Sources — Circles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy
 
 Every part traces to its book and page.
 
@@ -651,7 +651,7 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Making patterns with circles | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 3 §3.4, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans, methods and answer keys for Pupil's Book 6 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 6, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 59 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
+**Acceptance count: taught in 60 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the
 practical thread-and-glass discovery of pi with C = πD and the
 disc area in Grade 6. Jordan carries the parts in Grade 6 and
@@ -1404,3 +1404,47 @@ The 2026-11-10 expansion read read Honduras's whole in-hand Maths set from the P
 | Regular polygons and the circle | Honduras — *Guía del Docente, Matemáticas, 9no grado (2022)* (teacher guide — teacher evidence only), guide printed p. 143 |
 
 Honduras is added to the countries line and to the acceptance count above on its pupil-textbook rows — this lesson holds Honduras pupil-textbook rows, so Honduras counts in the taught-in figure; its teacher-guide rows are stocked here as teacher evidence only and are not what Honduras is counted on. Honduras's class for Maths is **COURSES-CLOSED**. The download-list §A label fault is a library-record matter, reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 29 items, every one a pupil-textbook row, from Book 1 (*Matematica.blu — Vol. 2*), Book 3 (*Matematica.blu — Vol. 1*, second part only) and Book 7 (*Colori della Matematica — Edizione Blu, Vol. 2*).
+
+**Book 1:** Bergamini/Trifone/Barozzi, *Matematica.blu — Vol. 2: Algebra, Geometria, Probabilità* (Zanichelli, 2010; filed at Grade 10) — Italy; 12,160,155 bytes, 907 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 9 (printed p. 633), its pagination continuous from Vol. 1. Pupil textbook (adopted commercial title).
+
+**Book 3:** Bergamini/Barozzi/Trifone, *Matematica.blu — Vol. 1* (Zanichelli, 2016; filed at Grade 9) — Italy; 54,032,035 bytes, 909 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Algebra Capitoli 13–21, Capitolo β and Geometry Capitoli G5–G11, its theory opening at printed p. 670; Capitoli 1–12 and G1–G4 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+**Book 7:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Vol. 2* (Petrini / De Agostini Scuola, 2017, ISBN 9788849421675; filed at Grade 10) — Italy; 89,032,939 bytes, 902 PDF pp., MD5 identical to the source record's. Complete as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The circumference and the circle: definitions and parts | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G169 |
+| Theorems on chords | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G175 |
+| Positions of a line with respect to a circumference: tangent, secant, external | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G177 |
+| Mutual positions of two circumferences | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G181 |
+| Angles at the circumference and the corresponding central angles | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G183 |
+| Inscribed and circumscribed polygons | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G185 |
+| Inscribed and circumscribed quadrilaterals | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G190 |
+| The length of the circumference and the area of the circle | Italy — *Matematica.blu — Vol. 2* (pupil textbook), printed p. G393 |
+| The circumference and the circle | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G160 |
+| Theorems on chords | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G164 |
+| Circumferences and lines: tangents and secants | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G167 |
+| Mutual positions of two circumferences | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G171 |
+| Angles at the circumference | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G173 |
+| Inscribed polygons | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G208 |
+| Circumscribed polygons | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G209 |
+| Inscribed and circumscribed quadrilaterals | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G215 |
+| The length of the circumference and the area of the circle | Italy — *Matematica.blu — Vol. 1* (pupil textbook, second part only), printed p. G365 |
+| Circumference and circle | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 590 |
+| Chords and their properties | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 593 |
+| Parts of the circumference and of the circle | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 595 |
+| Line and circumference | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 598 |
+| Mutual position of two circumferences | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 601 |
+| Angles at the circumference | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 602 |
+| Inscribed and circumscribed polygons | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 635 |
+| Inscribed and circumscribed triangles | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 636 |
+| Inscribed and circumscribed quadrilaterals | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 638 |
+| Length of the circumference and area of the circle | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 820 |
+| Radius of the circumscribed and inscribed circumferences of a triangle | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 823 |
+| Complements on inscribed and circumscribed polygons | Italy — *Colori della Matematica — Edizione Blu, Vol. 2* (pupil textbook), printed p. 825 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

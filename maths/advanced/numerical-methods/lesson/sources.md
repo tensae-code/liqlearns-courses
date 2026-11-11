@@ -1,6 +1,6 @@
 # Sources — Numerical Methods
 
-countries: Rwanda, Belarus, Dominican Republic, Germany, Ireland
+countries: Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy
 
 Every part traces to its book and page.
 
@@ -16,7 +16,7 @@ On Rwanda in this lesson: Rwanda's Senior Five Advanced Learner's Book devotes i
 | Newton–Raphson method for solving f(x) = 0 | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 118–122 |
 | Fixed-point iteration x = g(x); comparing different rearrangements of the same equation | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 4, printed pp. 122–126 |
 
-**Acceptance count: taught in 5 countries (Rwanda, Belarus, Dominican Republic, Germany, Ireland).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
+**Acceptance count: taught in 6 countries (Rwanda, Belarus, Dominican Republic, Germany, Ireland, Italy).** Rwanda's Senior Five Advanced book carries the complete arc — interpolation, sign-change location, Newton–Raphson, fixed-point iteration with rearrangements compared — in one 22-page unit; other read countries solve the equations they meet exactly, so this lesson is built at that honest size.
 
 
 ## Belarus added 2026-11-11 (expansion merge)
@@ -77,3 +77,16 @@ The 2026-11-10 expansion read read Ireland's whole in-hand Maths set from the PD
 | The trapezoidal rule for area (§6.4 Riail thraipéasóideach chun achar a ríomh) | Ireland — *Téacs & Trialacha 6* (TT6; pupil textbook), printed p. 209 |
 
 Ireland is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Ireland row in this lesson is a pupil-textbook row, so Ireland counts in full. Ireland's class for Maths is **COURSES-CLOSED for the in-hand set**. The staging flag F1 (8 of the 9 PDFs absent from their phase3-staging folders, all secured in GitHub; restore owed) is a library-record matter — reported here, not fixed by this merge.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 2 items, every one a pupil-textbook row, from Book 4 (*Matematica.blu 2.0 — Vol. 5*, second part only).
+
+**Book 4:** Bergamini/Barozzi/Trifone, *Matematica.blu 2.0 — Vol. 5*, 2a edizione (Zanichelli, 2017, ISBN 9788808513588; filed at Grade 13) — Italy; 36,931,747 bytes, 631 PDF pp., MD5 identical to the source record's. **Partial volume as held — the file is the volume's SECOND PART only:** Capitoli 25–31 and Capitolo σ, its theory opening at printed p. 1560; Capitoli 18–24 are not in the file and are cited nowhere. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Approximate solution of an equation | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1791 |
+| Numerical integration | Italy — *Matematica.blu 2.0 — Vol. 5* (pupil textbook, second part only), printed p. 1963 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

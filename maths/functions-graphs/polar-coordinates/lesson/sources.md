@@ -1,6 +1,6 @@
 # Sources — Polar Coordinates
 
-countries: Bangladesh, Kuwait, Syria, Rwanda, Colombia, Andorra
+countries: Bangladesh, Kuwait, Syria, Rwanda, Colombia, Andorra, Italy
 
 Every part traces to its book and page.
 
@@ -23,7 +23,7 @@ Every part traces to its book and page.
 | Advanced: polar coordinates (r, θ) — pole and polar axis, and equivalent representations of a point; converting between polar and Cartesian coordinates and equations | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 420–423 |
 | Advanced: sketching polar curves by tables — the cardioid r = 2 + 2 sin t and the four-petal rose r = 4 cos 2t; the polar equation of a straight line 1/r = A cos θ + B sin θ; the polar equation of a circle via the cosine law | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 8, printed pp. 423–429 |
 
-**Acceptance count: taught in 5 countries (Bangladesh, Kuwait, Syria, Rwanda, Colombia).** Bangladesh carries polar coordinates as a named section of its Class 9 trigonometry-and-coordinates chapter — the definition of P(r, θ), both conversion formulas, and a full exercise set on printed p. 178 asking for points to be expressed in (r, θ) — with its Example 1 on printed p. 174 taught corrected in this lesson: r = 2 and P(2, 150°), not the printed r = √5. Kuwait carries polar coordinates inside its Grade 11 scientific complex-numbers unit, where lesson 7-2 (printed pp. 25–32) teaches polar coordinates together with the trigonometric form, under the conditions r ≥ 0 and argument in [0, 2π). Kuwait teaches no De Moivre's theorem and no nth roots in this book, and this lesson claims neither for it.
+**Acceptance count: taught in 6 countries (Bangladesh, Kuwait, Syria, Rwanda, Colombia, Italy).** Bangladesh carries polar coordinates as a named section of its Class 9 trigonometry-and-coordinates chapter — the definition of P(r, θ), both conversion formulas, and a full exercise set on printed p. 178 asking for points to be expressed in (r, θ) — with its Example 1 on printed p. 174 taught corrected in this lesson: r = 2 and P(2, 150°), not the printed r = √5. Kuwait carries polar coordinates inside its Grade 11 scientific complex-numbers unit, where lesson 7-2 (printed pp. 25–32) teaches polar coordinates together with the trigonometric form, under the conditions r ≥ 0 and argument in [0, 2π). Kuwait teaches no De Moivre's theorem and no nth roots in this book, and this lesson claims neither for it.
 
 Syria meets polar coordinates in the Argand plane: every point is located by its modulus r and argument θ.
 
@@ -61,3 +61,16 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 2 items, every one a pupil-textbook row, from Book 2 (*Matematica.blu 2.0 — Vol. 4*).
+
+**Book 2:** Bergamini/Trifone/Barozzi, *Matematica.blu 2.0 — Vol. 4* (Zanichelli, 2011; filed at Grade 12) — Italy; 11,710,476 bytes, 740 PDF pp., MD5 identical to the source record's. Complete as published: the volume opens at Capitolo 10 (printed p. 634), its pagination continuous from Vol. 3, which is not in hand. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Polar coordinates | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 928 |
+| Polar coordinates and the equations of curves | Italy — *Matematica.blu 2.0 — Vol. 4* (pupil textbook), printed p. 930 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.

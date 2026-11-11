@@ -1,6 +1,6 @@
 # Sources — Parts of a Sphere
 
-countries: Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica, Dominican Republic
+countries: Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica, Dominican Republic, Italy
 
 Every part traces to its book and page.
 
@@ -26,7 +26,7 @@ Every part traces to its book and page.
 | Spheres | Vietnam, Grade 9 Volume 2, Bài 32 "Hình cầu" (spheres), printed p. 105 |
 | The sphere (الكرة) as a whole solid with S = 4πR² and V = (4/3)πR³ (stocked here by the 2026-11-08 re-verification sweep merge; the same lesson is stocked in volume-and-surface-area) | Syria, Grade 9 Geometry student's book, printed p. 66 |
 
-**Acceptance count: taught in 9 countries (Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica, Dominican Republic).**
+**Acceptance count: taught in 10 countries (Tajikistan, Armenia, Libya, Vietnam, Syria, Australia, Costa Rica, Dominica, Dominican Republic, Italy).**
 
 Vietnam joins with the sphere in Grade 9 Volume 2 (Bài 32). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -103,3 +103,15 @@ Into this lesson the placements stock 2 items from Book 9.
 Dominican Republic is added to the countries line and to the acceptance count above on its student-book rows. Dominican Republic's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 11 dedicated *Matemática* books plus the Primero volumes carrying Grade 1's maths) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/dominican-republic-placements.md.
+
+## Italy added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Italy's whole in-hand Maths set from the PDFs — **14 pupil textbooks, all adopted commercial titles (Italy has no government textbooks; schools adopt titles under the AIE/MIUR adozioni system): the Bergamini *Matematica.blu* volumes (Zanichelli) and the Sasso *Colori della Matematica* Edizione Verde and Edizione Blu volumes and triennio modules A–G (Petrini / De Agostini Scuola)** — and placed 781 items. The expansion map's “14 student + 0 teacher” count and kind split are exact against the staging `books.json` files, `textbooks.tsv` and the push state; every file was verified against its record (byte size, and MD5 where the record carries one) and read in full. Counting grain: one item per numbered theory section of the book's own Indice/Sommario. Two extent faults ride with the set, honestly: the files filed as *Matematica.blu* Vol. 1 (Book 3) and *Matematica.blu 2.0* Vol. 5 (Book 4) are each only the SECOND PART of the volume — Vol. 1 opens at Capitolo 13 (printed p. 670) and its Capitoli 1–12 and G1–G4 are not in the file; Vol. 5 opens at Capitolo 25 (printed p. 1560) and its Capitoli 18–24 are not in the file — so both are named as partial volumes wherever they are cited, only their held content is placed, and the missing first parts are not in hand anywhere and are cited nowhere (the ground the Vol. 1 first part would have covered is supplied inside this set by Books 5–6 at Sasso depth, and the Vol. 5 first part's limits and continuity ground by Book 12, Modulo G). The placements' named exclusions are stocked nowhere: the eBook-only units the books' own Indici mark “(solo nell'eBook)”; and the apparatus around the numbered theory sections in every book — chapter openings, exercise blocks, laboratories, *Realtà e modelli*, exam-preparation sections (*Verso l'esame*, *Verso l'INVALSI*, *Verso l'università*), glossaries, answer keys, formula sheets, and *Approfondimento* boxes that are not numbered theory sections. Into this lesson the placements stock 1 item, every one a pupil-textbook row, from Book 10 (*Colori della Matematica — Edizione Blu, Modulo F*).
+
+**Book 10:** Sasso/Zanone, *Colori della Matematica — Edizione Blu, Modulo F: Geometria euclidea e geometria analitica nello spazio* (Petrini / DeA Scuola, 2020; filed at Grade 11) — Italy; 25,756,882 bytes, 218 PDF pp., MD5 identical to the source record's. Complete module as published. Pupil textbook (adopted commercial title).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Surface area and volume of a sphere and parts of a sphere | Italy — *Colori della Matematica — Edizione Blu, Modulo F* (pupil textbook), printed p. 533 |
+
+Italy is added to the countries line and to the acceptance count above on its pupil-textbook rows — every Italy row in this lesson is a pupil-textbook row, so Italy counts in full. Italy's class for Maths is **COURSES-CLOSED**. The two extent faults are library-record matters, reported here, not fixed by this merge: *Matematica.blu* Vol. 1 and *Matematica.blu 2.0* Vol. 5 are recorded as complete volumes in the download list and `books.json`, but each held file is the volume's second part only, and only the held parts are cited anywhere in this course.
