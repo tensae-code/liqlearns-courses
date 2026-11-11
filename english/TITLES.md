@@ -266,7 +266,9 @@ its own subtitle folder with its own lesson + questions):
   **Unit 7, Words for the World**) ·
   table-manners-and-etiquette · rights-and-responsibilities
   (added 2026-11-11 by the Colombia expansion merge —
-  **Unit 7, Words for the World**)
+  **Unit 7, Words for the World**) ·
+  flags-and-national-symbols (added 2026-11-11 by the
+  Liberia expansion merge — **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -395,6 +397,8 @@ its own subtitle folder with its own lesson + questions):
   listening-and-following-instructions (added 2026-11-11 by
   the Singapore expansion merge — **Unit 15, Reading Whole
   Texts**) ·
+  reading-a-map (added 2026-11-11 by the Liberia
+  expansion merge — **Unit 15, Reading Whole Texts**) ·
   texting-and-messaging (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 44,
   Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the
