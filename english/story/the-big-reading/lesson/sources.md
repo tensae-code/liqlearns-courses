@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Canada
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Uzbekistan, Nepal, Ecuador, Barbados, Afghanistan, Fiji, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Canada, Singapore
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -1386,3 +1386,33 @@ Canada does not join this lesson's complete-text standing: no Canada pupil book 
 Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
+
+## Singapore added 2026-11-11 (expansion merge)
+
+
+The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs — **2 teacher files, 0 student books**: the *NEL Educators' Guide for Language and Literacy (English Language)* (Ministry of Education, Singapore, 2022 series ©2023; 125 pp) and the *Big Book Teaching Steps* sheet (2 pp) — the preschool educator guides for Nursery 2 – Kindergarten 2 (ages 4–6) — 72 teaching items placed. Both files were grabbed from the official MOE source named in the record and verified byte-exact AND hash-exact against the staging books.json record before reading (the guide: 2,644,142 bytes, SHA-256 9471e9f051216641f13268f5b8008dfa13183ad8c1041be2b47996de31cbfb59; the sheet: 172,494 bytes, SHA-256 ed83b68e248f95a62df54b6da0ea74a66d7e4238fb979e61177657f149bf3bc6). Every Singapore item in this section is TEACHER EVIDENCE of what is taught: Singapore has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both files read in full, page by page through their text layers; no reduced-depth read. The rows below are stocked from the expansion placements (singapore-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *NEL Educators' Guide for Language and Literacy (English Language)* (TEACHER EVIDENCE ONLY: a preschool educator's guide, cited for what it teaches, never as a pupil's book) — Singapore, Ministry of Education, Republic of Singapore (2022 series, ©2023), ISBN 978-981-18-7427-7, 125 pp, for Nursery 2 – Kindergarten 2 (ages 4–6). Printed page = PDF page through the body (each body page is headed with its printed number; front matter PDF pp.1–8 is unnumbered apparatus); pages cited are printed pages.
+
+**Book 2:** *Big Book Teaching Steps* (TEACHER EVIDENCE ONLY: a 2-page procedures sheet for the Shared Book Approach, cited for what it teaches, never as a pupil's book — the NEL Big Books themselves are print-only classroom storybooks and are not in hand; this sheet is the only Big-Book PDF the portal publishes) — Singapore, Ministry of Education, 2 pp. No printed page numbers; cited as pp.1–2.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+| Listening with interest to stories, songs and rhymes — requesting a story, rhyme or poem to be read (KSD 1.1) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.27 |
+
+| Developing an interest in reading books: picking out reading materials and sharing what you like about a book (KSD 3.1) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.44 |
+
+| Reading aloud as a taught routine: knowing the story beforehand, seating so every child sees the pictures, holding the book facing the children, using facial expression, volume contrast and different voices for different characters | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.67–68 |
+
+| The Shared Book Approach (SBA) with a Big Book: the teacher models reading with a pointer gliding under the words, repeated readings of favourite books, children joining in; its stated goals include beginning reading skills, vocabulary and language structures through engaging stories | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.69–71 |
+
+| Book types taught in the Reading Corner, each for its own literacy work: alphabet books (letter names linked to objects/animals beginning with the letter, e.g. "B" for "banana"; named examples *Anno's Alphabet* and *The Sleepy Little Alphabet* — titles only, no text printed), information books (finding out about the world), picture books (text and illustrations together tell the story; meaning carried in pictures that the text does not state), rhyming books (awareness of letter sounds and the letter–sound link) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.103–107 |
+
+| The five-step Shared Book Approach procedure as a complete taught routine: (1) Tuning in — a relevant song or poem introduces the story's language structures orally; (2) Reread a familiar favourite Big Book — fluency through rereading; (3) Introduce the new Big Book — cover linked to children's prior knowledge, title/author/illustrator read and shown, prediction questions; (4) First reading — prediction and illustration questions, teacher reads aloud pointing fluidly to the words (sound–print link, pace, direction of print); (5) Second reading — straight through without stopping, for fluency and enjoyment, children read along and respond (the procedure's prediction/responding strands are also stocked in answering-from-the-text) | Singapore — Big Book Teaching Steps (MOE) — teacher evidence, pp.1–2 |
+
+Singapore's rows stock this lesson's shared-reading, reading-aloud and reading-enjoyment parts, all of them teacher-guide statements of what preschool children are taught; no complete book-length text is in hand for Singapore — the NEL Big Books the guide teaches from are print-only and not held — so Singapore joins neither the complete-text countries nor the distinction ladder on their terms.
+
+Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.

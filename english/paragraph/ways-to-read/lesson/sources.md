@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Canada
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Canada, Singapore
 
 Every part traces to its book and page.
 
@@ -623,3 +623,19 @@ The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs �
 Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
+
+## Singapore added 2026-11-11 (expansion merge)
+
+
+The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs — **2 teacher files, 0 student books**: the *NEL Educators' Guide for Language and Literacy (English Language)* (Ministry of Education, Singapore, 2022 series ©2023; 125 pp) and the *Big Book Teaching Steps* sheet (2 pp) — the preschool educator guides for Nursery 2 – Kindergarten 2 (ages 4–6) — 72 teaching items placed. Both files were grabbed from the official MOE source named in the record and verified byte-exact AND hash-exact against the staging books.json record before reading (the guide: 2,644,142 bytes, SHA-256 9471e9f051216641f13268f5b8008dfa13183ad8c1041be2b47996de31cbfb59; the sheet: 172,494 bytes, SHA-256 ed83b68e248f95a62df54b6da0ea74a66d7e4238fb979e61177657f149bf3bc6). Every Singapore item in this section is TEACHER EVIDENCE of what is taught: Singapore has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both files read in full, page by page through their text layers; no reduced-depth read. The rows below are stocked from the expansion placements (singapore-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *NEL Educators' Guide for Language and Literacy (English Language)* (TEACHER EVIDENCE ONLY: a preschool educator's guide, cited for what it teaches, never as a pupil's book) — Singapore, Ministry of Education, Republic of Singapore (2022 series, ©2023), ISBN 978-981-18-7427-7, 125 pp, for Nursery 2 – Kindergarten 2 (ages 4–6). Printed page = PDF page through the body (each body page is headed with its printed number; front matter PDF pp.1–8 is unnumbered apparatus); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+| The three phases of learning to read: Pre-reading (print carries a message; environmental signs read by visual cues); Initial reading (letter names/sounds, decoding, sight words, onset–rime awareness — "at" in *cat*/*mat*); Fluent reading (faster decoding and automaticity freeing attention for meaning) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.19 |
+
+Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.

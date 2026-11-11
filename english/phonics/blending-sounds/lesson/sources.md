@@ -1,6 +1,6 @@
 # Sources for this lesson — Blending sounds
 
-countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe
+countries: Egypt, Libya, Laos, China, Sierra Leone, Jordan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Kuwait, Malaysia, India, Ghana, Nicaragua, Kazakhstan, Barbados, Saudi Arabia, Cyprus, Fiji, Eritrea, Samoa, Sri Lanka, Nigeria, Zimbabwe, Singapore
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The blending material lived inside the alphabet
 lesson's sources (and its level-2 pass mark) until 2026-10-25, when
@@ -713,3 +713,25 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Singapore added 2026-11-11 (expansion merge)
+
+
+The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs — **2 teacher files, 0 student books**: the *NEL Educators' Guide for Language and Literacy (English Language)* (Ministry of Education, Singapore, 2022 series ©2023; 125 pp) and the *Big Book Teaching Steps* sheet (2 pp) — the preschool educator guides for Nursery 2 – Kindergarten 2 (ages 4–6) — 72 teaching items placed. Both files were grabbed from the official MOE source named in the record and verified byte-exact AND hash-exact against the staging books.json record before reading (the guide: 2,644,142 bytes, SHA-256 9471e9f051216641f13268f5b8008dfa13183ad8c1041be2b47996de31cbfb59; the sheet: 172,494 bytes, SHA-256 ed83b68e248f95a62df54b6da0ea74a66d7e4238fb979e61177657f149bf3bc6). Every Singapore item in this section is TEACHER EVIDENCE of what is taught: Singapore has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both files read in full, page by page through their text layers; no reduced-depth read. The rows below are stocked from the expansion placements (singapore-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *NEL Educators' Guide for Language and Literacy (English Language)* (TEACHER EVIDENCE ONLY: a preschool educator's guide, cited for what it teaches, never as a pupil's book) — Singapore, Ministry of Education, Republic of Singapore (2022 series, ©2023), ISBN 978-981-18-7427-7, 125 pp, for Nursery 2 – Kindergarten 2 (ages 4–6). Printed page = PDF page through the body (each body page is headed with its printed number; front matter PDF pp.1–8 is unnumbered apparatus); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+| Phonological awareness, phoneme level (KSD 3.4): identifying the individual sounds of spoken words, blending individual sounds and segmenting a word into its sounds | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.40, 45 |
+
+| The blending strand of KSD 3.5.3: reading words by blending letter sounds (the same item's word-family strand is stocked in word-families) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.45 |
+
+| Worked example "Recognising Beginning Sounds": matching pictures of objects that share the same beginning sound | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.48 |
+
+| Direct teaching of phonological awareness in three segments (Introduce the objective → Teacher modelling → Application of learning), worked on hearing the beginning sound of spoken words | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.74–76 |
+
+Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.

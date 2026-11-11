@@ -66,7 +66,9 @@ its own subtitle folder with its own lesson + questions):
   Alphabet**) ·
   left-and-right · odd-one-out (added 2026-11-11 by the
   South Africa re-verification sweep merge — **Unit 2, The
-  Alphabet**)
+  Alphabet**) ·
+  early-writing-stages (added 2026-11-11 by the Singapore
+  expansion merge — **Unit 2, The Alphabet**)
 - Phonics → blending-sounds · two-letter-sounds · blends ·
   word-families ·
   rhymes · songs (added 2026-11-10 by the Ghana
@@ -111,7 +113,10 @@ its own subtitle folder with its own lesson + questions):
   travel-dialogues (added 2026-11-11 by the Liechtenstein
   expansion merge — **Unit 5, Conversation**) ·
   keeping-a-conversation-going (added 2026-11-11 by the
-  Haiti expansion merge — **Unit 5, Conversation**)
+  Haiti expansion merge — **Unit 5, Conversation**) ·
+  speaking-voice · stages-of-learning-to-speak-a-new-language
+  (added 2026-11-11 by the Singapore expansion merge —
+  **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -347,6 +352,9 @@ its own subtitle folder with its own lesson + questions):
   expansion merge — **Unit 15, Reading Whole Texts**) ·
   reading-graphs-and-charts (added 2026-11-11 by the
   Zimbabwe expansion merge — **Unit 15, Reading Whole
+  Texts**) ·
+  listening-and-following-instructions (added 2026-11-11 by
+  the Singapore expansion merge — **Unit 15, Reading Whole
   Texts**) ·
   texting-and-messaging (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 44,

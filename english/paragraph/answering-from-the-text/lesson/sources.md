@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Canada, Singapore
 
 Every part traces to its book and page.
 
@@ -1972,3 +1972,25 @@ Book error carried, taught corrected: Book 2's Unit 5 journal prompt at printed 
 Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
+
+## Singapore added 2026-11-11 (expansion merge)
+
+
+The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs — **2 teacher files, 0 student books**: the *NEL Educators' Guide for Language and Literacy (English Language)* (Ministry of Education, Singapore, 2022 series ©2023; 125 pp) and the *Big Book Teaching Steps* sheet (2 pp) — the preschool educator guides for Nursery 2 – Kindergarten 2 (ages 4–6) — 72 teaching items placed. Both files were grabbed from the official MOE source named in the record and verified byte-exact AND hash-exact against the staging books.json record before reading (the guide: 2,644,142 bytes, SHA-256 9471e9f051216641f13268f5b8008dfa13183ad8c1041be2b47996de31cbfb59; the sheet: 172,494 bytes, SHA-256 ed83b68e248f95a62df54b6da0ea74a66d7e4238fb979e61177657f149bf3bc6). Every Singapore item in this section is TEACHER EVIDENCE of what is taught: Singapore has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both files read in full, page by page through their text layers; no reduced-depth read. The rows below are stocked from the expansion placements (singapore-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *NEL Educators' Guide for Language and Literacy (English Language)* (TEACHER EVIDENCE ONLY: a preschool educator's guide, cited for what it teaches, never as a pupil's book) — Singapore, Ministry of Education, Republic of Singapore (2022 series, ©2023), ISBN 978-981-18-7427-7, 125 pp, for Nursery 2 – Kindergarten 2 (ages 4–6). Printed page = PDF page through the body (each body page is headed with its printed number; front matter PDF pp.1–8 is unnumbered apparatus); pages cited are printed pages.
+
+**Book 2:** *Big Book Teaching Steps* (TEACHER EVIDENCE ONLY: a 2-page procedures sheet for the Shared Book Approach, cited for what it teaches, never as a pupil's book — the NEL Big Books themselves are print-only classroom storybooks and are not in hand; this sheet is the only Big-Book PDF the portal publishes) — Singapore, Ministry of Education, 2 pp. No printed page numbers; cited as pp.1–2.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+| Comprehension skills as a named set (KSD 3.6–3.6.4): talking and asking questions about a story; talking about characters and events; responding to literal and inferential questions; retelling and sequencing events (including by dramatising); predicting from the cover and predicting what happens next; suggesting a different ending; constructing meaning from texts in other media | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.41, 46 |
+
+| Dialogic reading: the child moves from listener to storyteller through the five CROWD prompt types — Completion (supply the missing word), Recall (events and characters), Open-ended (talk about a picture), Wh- questions on the pictures, Distancing (relate the story to your own experience) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.68–69 |
+
+| The prediction and responding strands of the five-step Shared Book Approach: prediction questions at the cover and during the first reading, illustration questions, and children responding after the straight-through second reading (e.g. drawing their favourite characters) (the full five-step procedure is stocked in the-big-reading) | Singapore — Big Book Teaching Steps (MOE) — teacher evidence, pp.1–2 |
+
+Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.

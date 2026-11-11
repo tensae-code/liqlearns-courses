@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Nigeria, Papua New Guinea, Zimbabwe, Singapore
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -1014,3 +1014,31 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Singapore added 2026-11-11 (expansion merge)
+
+
+The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs — **2 teacher files, 0 student books**: the *NEL Educators' Guide for Language and Literacy (English Language)* (Ministry of Education, Singapore, 2022 series ©2023; 125 pp) and the *Big Book Teaching Steps* sheet (2 pp) — the preschool educator guides for Nursery 2 – Kindergarten 2 (ages 4–6) — 72 teaching items placed. Both files were grabbed from the official MOE source named in the record and verified byte-exact AND hash-exact against the staging books.json record before reading (the guide: 2,644,142 bytes, SHA-256 9471e9f051216641f13268f5b8008dfa13183ad8c1041be2b47996de31cbfb59; the sheet: 172,494 bytes, SHA-256 ed83b68e248f95a62df54b6da0ea74a66d7e4238fb979e61177657f149bf3bc6). Every Singapore item in this section is TEACHER EVIDENCE of what is taught: Singapore has no student English book in hand, and no row below is pupil-book evidence; a teacher's guide never substitutes for a pupil's book. Read depth, as the placements declare it: both files read in full, page by page through their text layers; no reduced-depth read. The rows below are stocked from the expansion placements (singapore-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *NEL Educators' Guide for Language and Literacy (English Language)* (TEACHER EVIDENCE ONLY: a preschool educator's guide, cited for what it teaches, never as a pupil's book) — Singapore, Ministry of Education, Republic of Singapore (2022 series, ©2023), ISBN 978-981-18-7427-7, 125 pp, for Nursery 2 – Kindergarten 2 (ages 4–6). Printed page = PDF page through the body (each body page is headed with its printed number; front matter PDF pp.1–8 is unnumbered apparatus); pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+
+| English print characteristics taught explicitly: English is alphabetic — letters form words and words make up phrases and sentences — and print is read from left to right | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.18 |
+
+| Alphabetic knowledge (KSD 3.3–3.3.2): recognising and naming upper- and lower-case letters, matching the two cases, and knowing the sounds letters represent — "some of the 44 sounds" of English; the four components of letter knowledge: shape, name, sound, writing | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.39, 44 |
+
+| Worked example "Letter BINGO": naming upper- and lower-case letters of the alphabet on BINGO cards and striking out the letter called | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.47 |
+
+| Writing upper- and lower-case letters of the alphabet clearly on a single line (KSD 4.1, the letter-writing strand; the same item's posture/grip strand is stocked in early-writing-stages) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.52 |
+
+| Writing your own name, using upper- and lower-case letters (KSD 4.2; worked example "Recognising and Writing My Name": finding your name card for the attendance chart, then writing your name daily) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed pp.52, 54 |
+
+| Worked example "Letters Gallery Walk": forming upper- and lower-case letters from clay, twigs, leaves, pebbles, bottle caps and other materials, then talking about letter features on a gallery walk | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.53 |
+
+| The letter strand of the Shared Book Approach worked example *What the Ladybird Heard*: framing the letter "l" in *ladybird* — shape, name, sound; writing "l" and drawing things that begin with it (the example itself is stocked in animals; its rhyme strand in word-families) | Singapore — NEL Educators' Guide for Language and Literacy (English Language) (MOE, 2023) — teacher evidence, printed p.71 |
+
+Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.
