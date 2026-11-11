@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua
 
 Every part traces to its book and page.
 
@@ -260,6 +260,13 @@ cited once.
 | Vegetables as a named set — radish, turnip, carrot, potato, tomato, cabbage — inside "Do you like vegetables? — Yes, I do." | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Eleven, printed pp.102–103 |
 | Fruits as the next unit's set — melon, watermelon, pear, cherry, apricot, banana, peach — with "This is a/an…" sentences over them | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Twelve, printed pp.111–112 |
 | Food and drink sorted from pictures — milk, cola, tea, coffee, apricots, oranges, apples, mangoes, eggplant, cauliflower, radishes, beans — into food and drink, then into the food pyramid's four groups | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 14, Lessons 1–2, printed pp.132–135 |
+| Food words, with healthy and unhealthy food | Nicaragua, Activity Book 1 (Grade 1), Unit 8, printed pp.46–48 |
+| Food words, with the "It's a pizza" check | Nicaragua, Activity Book Multigrado, Unit 8, printed pp.47–49 (mostly a mirror of Activity Book 1, Unit 8) |
+| Food words, with food riddles | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.50–56 |
+| Common Nicaraguan food | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 12, printed p.58 |
+| Meals of the day | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 13, printed p.62 |
+| Food groups and servings — "What are you eating?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 15, printed p.73 |
+| Cooking verbs — blend, heat, dissolve, melt, marinate, cut, soak — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 
 | The first food set with the like frame — cheese, milk, juice, chicken, rice, sandwich — "What do you like? I like…" ("I like chicken. It's delicious," p.40) | Syria — Emar English Series, Pupil's Book 1, Unit 13 "My Food," pp.40–42 |
 | Restaurant requests as the meal unit's language — "What would you like to eat?", "Can I have pasta with vegetables, Mum?", "Can I have some water, please?" | Syria — Emar Syrian Series, Pupil's Book 3, Unit 19 "My Favourite Meal," pp.57–59 |
@@ -344,8 +351,8 @@ cited once.
 | Natural against processed foods — the supermarket sort: seeds, radish and asparagus against cookies, soda and canned tuna | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 155 |
 | Food picture flashcards and cut-outs (cake, pizza, banana, sandwich, popcorn, fries) — first food words as pictures to name and sort | Greece, Alpha English Grade 1 Workpack, food flashcards and cut-outs (A_A03_F01-8), PDF pp.7–8 |
 | Breakfast foods; countable and uncountable nouns | Mongolia, English XII, Unit 8, printed pp.136–137 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico).**
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua).**
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -404,3 +411,17 @@ books are read (see READING-QUEUE.md). Mexico's Grade 7 book works food as cultu
 **Sudan — SMILE Starter 2 / Book 6 (G6) added 2026-11-06** — 2 further Sudan books stock this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed); **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Starter 2's whole food unit stocks this lesson: the pointing rhyme and the *There is some … / There are some …* system for countable and uncountable food (printed pp.33–34), the letter-by-letter spelling of *peanuts* (printed p.34), the fruit-or-vegetable guessing dialogue (printed p.35), the sorting reading (printed p.38) and the final three-way sort with *I like / I don't like* (printed p.40). Book 6 (Grade 6) adds the weighed table — the day's protein, carbohydrate, fat, fruit and vegetables in grams and kinds, asked with *How much / How many kinds of … should we eat?* (Unit 6, Lesson 3, printed p.43).
 
 **Malaysia — primary pupil's books added 2026-11-06** — 4 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: lunch food words (banana, cake, cheese sandwich, apple, pizza, sausage, chicken, steak, peas, carrots) (p.46); fruit vs vegetables set (broccoli, onions, peaches, pineapples, mushrooms, pears, oranges, potatoes, green beans, corn, coconuts, tomatoes) (p.54); Get Smart Plus 3: food words with some/any in statements, negatives and questions about what's in food (pp.55–57); Get Smart Plus 4: food containers (a bag of, a carton of, a piece of, a box of, a can of, a bottle of) with some/any recycled (pp.49–51); English Plus 1: food words through school lunches around the world (South Africa, India, the UK, China, the USA, Mozambique, Australia, Spain, Japan) (pp.52–53); saying weights (100 g, half a kilo, two and a half kilos) and market shopping phrases, Options (p.96). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 1 Lunchtime row; the Year 3 row; the Year 4 row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

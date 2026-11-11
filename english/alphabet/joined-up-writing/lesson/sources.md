@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua
 
 Every part traces to its book and page.
 
@@ -47,8 +47,9 @@ pinned for them here.
 | Cursive as an assessed writing style: correction exercises set to be rewritten in cursive handwriting, a partner checking | Bangladesh — English for Today Class 5, correction exercises (Class 5 filing, section level) |
 | Pre-Writing — 2. Model various objects of interest • Use papers to model an object as learners observe. • Let learners | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.1.1, PDF p.49 (curriculum evidence) |
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
+| Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 3 countries (Barbados, Kuwait, Bangladesh).**
+**Acceptance count: taught in 4 countries (Barbados, Kuwait, Bangladesh, Nicaragua).**
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -62,3 +63,11 @@ filed: it teaches no joins, and none is claimed from it.
 Counts grow as other closed countries' books are read.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+This row cross-cites the Activity Book 1 tracing item where its placements target puts it; the item was first stocked in the course from the greeting lesson (hello-and-your-name).

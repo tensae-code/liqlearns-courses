@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -197,6 +197,9 @@ verification sweep.
 | Finite verbs named again a year up | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), printed p.29 |
 | Helping verbs against main verbs as the final book's first grammar: BE / DO / HAVE named as the helping verbs, set against main verbs | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 1, printed pp.4–5 |
 | Transitive against intransitive verbs — and why a verb without an object cannot be made passive | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 8, printed pp.96–97 |
+| Classroom action words — listen, draw, sing, point, say, open | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed p.5 |
+| Action verbs — jump, run, walk, touch… | Nicaragua, Activity Book 3 (Grade 3), Unit 2, printed pp.11–14 |
+| Leisure action verbs | Nicaragua, Activity Book 4 (Grade 4), Unit 3, printed pp.18–25 |
 
 | Action verbs as a named set at the beach — swim, fly, jump, run — worked with can / can't ("I can swim. Can you swim? No, I can't") | Syria — Emar English Series, Pupil's Book 1, Unit 22 "At the Beach," pp.69–71 |
 | The verb as a word kind in its own right: one-line definitions of all nine parts of speech, verbs among them, in the Parts of Speech appendix | Syria — Emar English Series 12, Workbook, Scientific Section, Appendix I "Parts of Speech," p.100 |
@@ -277,8 +280,8 @@ verification sweep.
 | Verbs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.5.1, PDF p.139 (curriculum evidence) |
 | Using Action Words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.4.1, PDF p.168 (curriculum evidence) |
 | Explore the use of proverbs to enrich communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.4.1, PDF p.59 (curriculum evidence) |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua).** India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -340,3 +343,13 @@ Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system
 **Albania added 2026-11-04** — 1 book stocks this lesson: **Book:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025, prepared by Anila Ziu and Nevila Serjani, no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Albania's record holds this one teacher's guide only — it serves the Akelius digital platform's A2 course (Chapters 31–40); there is no printed student's book, and the platform's lessons, readings, songs and games are named in the guide but never reproduced, so every Albania row here rests on what the guide itself prints — the chapter vocabulary lists, the "Language structures" example sets, the sample plans' stated content and the printed worksheets — and is worded as teacher's-guide evidence for a digital course. Filed as a partial: Albania names movement verbs as verbs in Chapter 31's outcomes and presents will (Chapter 35) and can (Chapter 40) as named verb-form focuses, but prints no verb paradigm or irregular-verb table, and none is claimed.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: beach activity phrases (catch a fish, paint a picture, eat ice cream, take a photo, listen to music, look for shells, read a book, make a sandcastle) (p.106); English Plus 1: sports words through the Sports Quiz (pp.62–63); Academy Stars Year 6: making nouns from verbs with -er and -or (paint–painter, direct–director) (p.24); irregular past participles (go–went–gone, see–saw–seen) (p.36); make or do: which verb goes with which phrase (make a cake, do the washing, make a decision, do an experiment) (p.55).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

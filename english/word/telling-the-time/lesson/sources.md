@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua
 
 Every part traces to its book and page.
 
@@ -159,6 +159,11 @@ covers the 6th Year book only).
 | The past/to system in a full table — quarter past one / quarter to one, ten past eight / ten to eight — with conversions both directions and times written under clock faces | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 10, printed pp.103–105 and 108 |
 | Time expressions widened: o'clock, fifteen past three, noon, a.m./p.m., then half past five, quarter to nine, quarter past two | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 13, Lessons 1–2, printed pp.122–125 |
 | Telling the time both ways (five past three / three-five; twenty to eleven / ten forty) inside the time-zones unit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 2, Lesson 2, printed pp.15–16 |
+| Times of day — in the morning, at noon, at midnight… | Nicaragua, Activity Book 4 (Grade 4), Unit 9, printed pp.65–71 |
+| Telling the time — o'clock | Nicaragua, Activity Book 4 (Grade 4), Unit 9, printed pp.66–69 |
+| "It's time to… / It's time for…" | Nicaragua, Activity Book 4 (Grade 4), Unit 9, printed pp.69–70 |
+| Telling the time | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 15, printed p.80 |
+| Telling the time, with dates | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 
 | Telling the time at o'clock only — "What time is it? It's six o'clock" (p.54) — with daily activities at set hours; only whole hours are taught in this book, no half / quarter times | Syria — Emar Syrian Series, Pupil's Book 2, Unit 17 "Telling the Time," pp.54–56 |
 | The clock completed a year up: quarter past / half past / quarter to, inside programme times — "What time does the football match start? — It starts at half past two" (p.21) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 7 "TV Programmes," pp.21–23 |
@@ -212,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Bangladesh carries
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua).** Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -298,3 +303,13 @@ times; secondary adds the quarter-and-half system.
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 meets the clock inside its chick story: a day is told in o'clock times — eat, go to bed, sleep, wake up — with the times given in the telling, never asked (Unit 2, Lesson 6, printed p.14). It sits before the Grade 1 book's "What's the time?" exchange in simplicity, though it is the Grade 2 book.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Get Smart Plus 3: telling the time: o'clock and half past (p.10); telling the time extended: a quarter past and a quarter to (p.70); times and weather around the world read off a world map (CLIL Geography) (p.116); English Plus 1: telling the time in words (quarter past, half past, twenty-five past two) in the Options extra lesson (p.93); Academy Stars Year 6: reading a complex ferry timetable to answer travel questions (p.67). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 3 o'clock/half-past row; the Year 3 p.70 row; the Year 5 time-expressions row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

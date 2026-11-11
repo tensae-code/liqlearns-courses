@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -139,9 +139,15 @@ covers the 6th Year book only).
 | “Trans-portation” — asking for and giving directions and information; informal letter layout; means of transport | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 5, Lesson 2, contents p.viii |
 | Hotel Unit 7 “Giving directions and information” — directions language for hotel guests | Greece, English for the Hotel and Tourist Trade, Unit 7, printed p.113 |
 | Hotel Unit 19 “Itineraries and tours” — route and itinerary language | Greece, English for the Hotel and Tourist Trade, Unit 19, printed p.291 |
+| Asking for and giving directions and locations | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 24, printed p.147 |
+| Direction words inside location answers — turn left, go straight… | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 3, printed pp.9–12 |
+| Locating places | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 3 |
+| Asking for and giving directions politely — tourist-office language | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 3 |
+| Direction expressions with a map — turn left, go straight on, opposite… | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2A, PDF p.52 |
+| Cardinal points, and describing where places are on a town map | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.65 |
 
-**Acceptance count: taught in 12 countries (Saudi Arabia,
-Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 13 countries (Saudi Arabia,
+Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -171,3 +177,15 @@ teacher evidence), routes and indirect questions in Grades
 9–10, and the idiomatic place prepositions in Grade 13
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

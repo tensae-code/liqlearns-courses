@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua
 
 Every part traces to its book and page.
 
@@ -207,6 +207,11 @@ cited once.
 | Statements turned into yes/no questions and answered, over all six vegetables: "This is a potato. — Is this a potato? — Yes, it is." | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Eleven, printed pp.104 and 106 |
 | The negative answer as its own pattern: "Is that a banana? — No, it is not a banana. It is a watermelon." — worked across the fruit set with that | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Twelve, printed pp.112–113 |
 | Be yes/no questions and short answers as grammar (Is he a student? Yes, he is / No, he is not) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 3, printed pp.27–28 |
+| "It's a… / Is it a…? — Yes, it is / No, it isn't" | Nicaragua, Activity Book 1 (Grade 1), Unit 2, printed pp.20–23 |
+| "Is it a…? — Yes, it is / No, it isn't", with new toy words | Nicaragua, Activity Book Multigrado, Unit 4, printed pp.30–34 |
+| "Are they…? — Yes, they are / No, they aren't" — plural questions | Nicaragua, Activity Book Multigrado, Unit 6, printed p.42 |
+| "Are they…? — Yes, they are / No, they aren't" | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.51–53 |
+| The question types surveyed together — yes/no, wh- and choice questions | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, printed pp.74–75 (PDF pp.80–81) |
 
 | Statements changed into questions — interrogatives, with "Was she…?" and "Did they…?" started for the learner | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed p.8 |
 | Statements turned into questions across a theme | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.44–51 |
@@ -287,9 +292,9 @@ cited once.
 | Yes/no questions with do/does and be — short answers, on family and daily life | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 10–11 |
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 | Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
-**Acceptance count: taught in 33 countries (Bangladesh,
+**Acceptance count: taught in 34 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua).** Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -373,3 +378,15 @@ invert, other verbs take the "helping verb" Do/Does
 **Albania added 2026-11-04** — 1 book stocks this lesson: **Book:** *Akelius A2 Level — A Practical Guide for English Language Teachers* (teacher's guide) — Albania, UNICEF Albania / ASCAP, 2025, prepared by Anila Ziu and Nevila Serjani, no ISBN printed. Filed in english/books/albania.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Albania's record holds this one teacher's guide only — it serves the Akelius digital platform's A2 course (Chapters 31–40); there is no printed student's book, and the platform's lessons, readings, songs and games are named in the guide but never reproduced, so every Albania row here rests on what the guide itself prints — the chapter vocabulary lists, the "Language structures" example sets, the sample plans' stated content and the printed worksheets — and is worded as teacher's-guide evidence for a digital course. Filed as a partial: Albania stocks the question forms — yes/no questions with be named as a chapter outcome, will questions and a can question printed in example sets — but no short-answer ladder (Yes, I am / No, he isn't) is printed in the guide, and none is claimed.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 4 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: "What's this? It's a …" and "Is it a …? Yes, it is / No, it isn't" (p.11); "Have we got any …? Yes, we have / No, we haven't" (p.49); *Super Minds* 1, Year 2: "Do you … at the weekend? Yes, I do / No, I don't" (p.61); "Do you like this/these …?" using this for one thing and these for more than one (p.83); "Can you …? Yes, I can / No, I can't" (p.97); Get Smart Plus 3: "Do you/they …? / Does he/she …?" with short answers, on ways of getting to school (p.17); English Plus 1: there is/there are with a/an, some and any (pp.13–15); Is there …? / Are there …? / How many …? questions about places (p.15); Academy Stars Year 6: question tags with be, the present simple and can (…, do you? …, aren't we? …, can't we?) (p.125). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 1 Is it a …? row; the Year 3 Do you …? / Does he/she …? row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

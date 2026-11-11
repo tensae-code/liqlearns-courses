@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -83,6 +83,7 @@ book only).
 | Introducing yourself and others as the opener's named functions, with "What's his/her name? / His/Her name's…" and the cast introduced by name | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed pp.4–9 |
 | Introducing family — "This is my family / Who's he? — He's my grandpa / Who's she? — She's my mother / Who are they? — They're my sisters" — with the formal "It's nice to meet you / …too" | Ecuador — *Starship English*, Level Pre A1.2 (Grade 3 file), Student Book, Unit 1, printed pp.10–15 |
 | Third-person introductions in the school cast — "What's his/her name?", "He's our librarian / She's our nurse," with the titles Mr. / Mrs. / Miss | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 1, printed p.4 |
+| "This is my teacher / my school / my friend" — introducing the people around you | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed p.12 |
 
 The same dialog also carries the age exchange and the toy-fish
 talk — those parts are filed in their own places (age: english/age/
@@ -94,7 +95,7 @@ how-old-are-you), not here.
 | Introducing others as a printed outcome — the plans file introducing people among the lesson outcomes, with the *How do you do? / This is …* frames inside the greetings lessons | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lessons 1–2, guide printed pp.4–15 |
 | Introducing other people: let me introduce you to…, I'd like you to meet…, pleased/glad to meet you | Mauritania, Study English, Grade 7, printed pp.20–22 |
 | The register of introductions — informal "this is…" against formal "I'd like to introduce…", answered "How do you do?" | Mauritania, Study English, Grade 7 Teacher's Guide (teacher evidence), printed pp.14–15 |
-**Acceptance count: taught in 29 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania).**
+**Acceptance count: taught in 30 countries (Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua).**
 Egypt carries introducing the family — "This is my father /
 mother / sister …" with the "Who's this?" exchange, and a year
 deeper the whole family lineup with my / his / her on family
@@ -506,3 +507,9 @@ filed South Sudan read, and none is claimed here.
 **Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: introducing others is a printed outcome of the opening lessons and the *This is …* frames stand inside them, but no guide prints a friend-introduction dialogue; the introductions the guides do print whole are self-introductions (Grade 10, Lesson 1), filed under the hello-and-your-name lesson.
 
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 opens its family unit with the introducing frame said over the family itself — "This is me. I'm with my sister / my father / my mother; this is my brother" — and a make-a-card task (Unit 2, Lesson 1, printed p.9): the earliest family presentation in the Sudan set, built on the same "This is my …" bridge this lesson teaches.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

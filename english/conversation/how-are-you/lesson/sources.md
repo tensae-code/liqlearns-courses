@@ -1,6 +1,6 @@
 # Sources for this lesson — How are you?
 
-countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania
+countries: Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -71,6 +71,8 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The feelings form of the question as a whole chapter's title and work — "How are you feeling" — its outcomes: identify and express emotions in short sentences, comfort and encourage, match emotions to situations, respond with empathy | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 "How are you feeling" overview, printed p.38 |
 | The feelings set printed as the chapter's vocabulary — angry, happy, sad, confused, surprised, worried, afraid, brave, nervous, shy, annoyed, bored, excited, upset, in love — with one printed structure sentence for each emotion word (the list misprints "don't warry" for don't worry and "clam" for calm; both are spelled correctly inside the chapter's own sentences) | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
 | The feelings deepened into the -ed / -ing contrast sets: "I feel annoyed. My brother annoys me. He is annoying"; "I feel bored. This movie bores me. This movie is boring" — the chapter's named grammar focus, participle adjectives | Albania, *Akelius A2 Level* teacher's guide, Chapter 36 overview, printed pp.38–39 |
+| The exchange outright — in the greetings table and a practice dialogue: "Hi, Rebeca, how are you? — Fine thanks, and you? — I'm great" | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
+| The exchange run in dialogue — "Hello Manuel, how are you? — I am fine, and you? — I am fine, too" | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B (recorded in the sweep diff, flag F5) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the feelings deepening of this
 exchange; the text now teaches it as Sub lesson 3, carried
@@ -84,7 +86,7 @@ same table's restaurant-ordering, making-plans,
 offers/promises and apologising rows belong to their own
 later lessons and stay there. No existing row changed.
 
-**Acceptance count: taught in 25 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 26 countries (Egypt, Libya, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Afghanistan, Ecuador, Saudi Arabia, Venezuela, Albania, Nicaragua) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China joins with the exchange itself in its first primary book
 (Grade 3 Volume 1) and deepens it three years later into feelings
 talk — "How do you feel?", "What's wrong?" (Grade 6 Volume 1).
@@ -117,12 +119,21 @@ and Libya's Grade 3 books use. South Sudan joined
 2026-11-03 with the same short exchange inside its
 first greetings unit — "How are you? — I am fine,
 thank you" — planned as its own section in its
-Primary 1 Teacher's Guide. Nicaragua's filed
-greeting material teaches hello, names and goodbye — not this
-question — so it is not counted here; Indonesia's filed books
-likewise teach no "How are you?" exchange (their feelings set in
+Primary 1 Teacher's Guide. Indonesia's filed books
+teach no "How are you?" exchange (their feelings set in
 Grade 4 is a different thing, recorded in the country file). The
 count grows as other closed countries' books are read.
+(Pre-existing error fixed 2026-11-11 by the Nicaragua
+re-verification sweep merge: this paragraph previously said
+Nicaragua's filed greeting material teaches hello, names and
+goodbye — not this question — and excluded Nicaragua on that
+ground. That was true of the primary books only; the recovered
+Grade 7 module teaches the exchange outright in its greetings
+table and a practice dialogue (Unit 1), and the filed Grade 10
+module runs it in dialogue (Unit 4B). Nicaragua is counted
+here from 2026-11-11; see its section at the end of this file.
+The older note below said the not-counted sentence "now names
+Nicaragua only"; after this fix it names Indonesia only.)
 Nepal joined 2026-11-03 with the exchange in both its first books: Grade 1's hello chant asks "How are you today? — I'm fine" (Unit 1, printed p.5), and Grade 2 runs "How are you? I'm fine. How about you? I'm also fine" (Unit 1, printed pp.1–7) — the return question carried in the Grade 2 form.
 Armenia joined 2026-11-03 with the exchange taught as its own starter lesson: "How are you?" with the answer "I am fine too, thank you." (Starter Unit, Lesson 2, printed p.4).
 (Pre-existing error fixed in this merge: this paragraph
@@ -377,3 +388,5 @@ is recorded for South Sudan, and none is claimed here.
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 extends this exchange to a group answer: the farm animals are greeted one by one and answer together — "We're fine, thank you", "Yes, we are" (Unit 4, Lesson 1, printed p.25) — the first plural form of the answer in the Sudan set, beside the Grade 1 singular stocked above.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 5 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: saying what you like and don't like, and asking "What about you?" (p.37); Get Smart Plus 3: asking "What do you do?" and "What do you want to be?" about jobs (pp.19–20); Get Smart Plus 4: restaurant dialogue phrases: ordering with "I'd like …, please" and the waiter's questions (p.57); English Plus 1: making plans and suggestions ("What's on? What do you want to do? Let's go to the …") (p.28); asking for permission: "Can I …?" and "Is it OK if I …?", giving and refusing permission (p.38); asking for help with languages ("How do you spell …? How do you say … in English? Can you say that again, please?") with the alphabet pronunciation table (p.48); ordering food and drink in a café, with prices (p.58); talking about last weekend ("How was your weekend? It was great, thanks.") (p.68); role-playing an interview with a famous person, with follow-up questions (p.78); making offers and promises with will ("I'll bring some drinks. I won't be late, I promise.") (p.88); Academy Stars Year 6: apologising and making and accepting offers ("I'm afraid I …, Shall I …?, Would you like me to …?") (p.56).
+
+**Nicaragua added 2026-11-11 (re-verification sweep merge)** — 2 books stock this lesson: **Book:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. **Book:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. The Grade 7 module was recovered and read for the first time by the 2026-11-08 re-verification sweep (the old filing and the gap lists wrongly recorded it as not held — sweep diff, flag F1); the Grade 10 module was read page by page in the sweep and is filed in english/books/nicaragua.md. Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md. Nicaragua teaches the exchange outright in the Grade 7 module's opening unit — the greetings table carries "How are you?" and a dialogue runs it: "Hi, Rebeca, how are you? — Fine thanks, and you? — I'm great" — and the Grade 10 module runs the same exchange in dialogue (Unit 4B).

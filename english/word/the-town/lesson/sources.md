@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -193,6 +193,12 @@ re-verification sweep.
 | Map work "About town," with directions | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), printed p.52 |
 | The capital as a place set — palace, shrine, airport, stadium, restaurant, museum, zoo, transport, mosque, library — spelled, matched and mapped around Kabul | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 6, printed pp.49–51 |
 | Town places matched to what they are — grocery store, mosque, airport, garage, hotel — inside the house unit's way-asking conversation | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 6, Lesson 3, printed pp.57–58 |
+| Places in town — the unit's word set | Nicaragua, Activity Book 3 (Grade 3), Unit 9, printed pp.57–63 |
+| Types of buildings | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 21, printed p.123 |
+| Places and people in the community | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 22, printed p.134 |
+| Community places | Nicaragua, Grade 7 Módulo Autoformativo, Unit 3 |
+| Spare-time places — "Where do you go in your spare time?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 29, printed p.131 |
+| Places in town — "Where is the bakery?" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed p.34 |
 
 | Places to go as the town set — museum, swimming pool, amusement park, beach, zoo, library — with "I'd like to go…", "Where would you like to go?" and prefer ("I'd like to go to the museum," p.28) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 9 "Places to Go," pp.27–29 |
 | The town then-and-now: past there was / were against present there is / are ("In the past, there weren't hotels. Now, there are many hotels") | Syria — Emar Syrian Series, Pupil's Book 3, Unit 22 "My Town," pp.66–68 |
@@ -262,8 +268,8 @@ re-verification sweep.
 | “The place we live in” — places, services, occupations and transport words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 1, printed pp.38–41 |
 | “Talking about a city in Greece” — writing a guidebook text about a city | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 3, printed pp.45–48 |
 | Workbook “Different Places – Different Buildings” — practice on types of buildings across cultures with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 3, WB printed pp.5–16 |
-**Acceptance count: taught in 32 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -332,3 +338,17 @@ Vientiane's landmarks to direct over (pp.66–70).
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2's second lesson is a street map: market, park, mosque, library, hospital, shop, school and my house placed on Nile Road, Medani Road and Main Road, with *next to* and street names saying where each place is (Unit 1, Lesson 2, printed p.2) — the town map met two years before the Grade 4 directions lesson stocked above.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Get Smart Plus 3: directions language (turn left/right, go straight, cross the street, stop) (p.65); Get Smart Plus 4: street-safety language and transport words; "How are we going to get there? By bus/car/bike/train/plane, on foot" (pp.59–61); English Plus 1: places in a town or city, through a London guide map (pp.12–13). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 3 town row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

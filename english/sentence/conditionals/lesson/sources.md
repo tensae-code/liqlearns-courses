@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua
 
 Every part traces to its book and page.
 
@@ -243,6 +243,8 @@ verification sweep.
 | The third conditional, REVISION ONLY, filed as exactly that: it appears once in the whole set, inside the final book's Unit 10 Revision — if + past perfect … would have + past participle, framed as fact against imagined past ("It didn't sink, so they didn't die" → "If the boat had sunk, they would have died"), with a full form table. Grade 12 is a consolidation year and this is revision material, not a taught unit; no conditional is named or numbered anywhere in Grades 11–12 | Afghanistan, *English for Afghanistan: Student's Book*, Grade 12, Unit 10, Revision, printed pp.134–136 |
 | Use conditional sentences in communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.5, PDF p.54 (curriculum evidence) |
 | Use conditional sentences in communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.2, PDF p.120 (curriculum evidence) |
+| The second conditional | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, printed p.120 (PDF p.126) |
+| If…then cause–effect — the first conditional (Future Environmental Problems) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4C |
 
 | Conditional sentences built on the conditional clause with if and unless | South Africa — English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed p.85 |
 | A sentence-mood lesson using "If I were fitter…" | South Africa — English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks), printed p.101 |
@@ -344,8 +346,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 31 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 32 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -436,3 +438,11 @@ line — the absence is checked, not unlooked-for.
 **Venezuela added 2026-11-04** — 3 books stock this lesson: **Book:** *My Victory — Guía para el docente*, 3er año (Teacher's Book, Grade 9) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-04-8; **Book:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5; **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. All filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. The conditional system is Grade 10's: Type 1 presented in Lessons 2–3, the second conditional's formula printed in Lesson 10's plan, the third conditional's formula with a full bilingual example printed in Lesson 11, and both restated as review in Lesson 12. Grade 9 contributes its only conditional, the first (Lesson 19, taught from a chart the guide points to but does not print). Grade 11 names all three types in its Lesson 16–17 plans but prints no formula or example, and its rows are worded as such. The zero conditional is NOT stocked from Venezuela: Grade 10 meets it only as a "Keep in mind" review poster (Lesson 9, student p.77), treated as already known and never given a presentation, and Grade 11 never presents it. Note, from the merge cross-check: the country file's header summary calls Grade 10's conditionals "review only," but its own Book 4 section files Types 1–3 as presented in Lessons 2–3, 10 and 11 with only Lesson 12 an explicit review — the book section is followed here.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Academy Stars Year 6: the first conditional introduced: If + present simple, will/won't + verb, and the comma rule (p.99); may, might and could for possible future events (may not / might not) (p.100). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 6 first-conditional row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

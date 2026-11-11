@@ -174,6 +174,11 @@ about the other person, and close the talk.*
   merge):** what-things-are-made-of ✅ (1 lesson — the material
   adjectives and "be made of" teaching of Mongolia's English
   XI, Unit 4, which no lesson housed)
+- **Sweep addition (2026-11-11, Nicaragua re-verification sweep
+  merge):** asking-about-size-and-measure ✅ (1 lesson — the
+  size-and-measure questions, How big / How long / How tall /
+  How much does it weigh?, of Nicaragua's Grade 8 Student's
+  Book, Lesson 2, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -205,11 +210,21 @@ properly.*
   merge):** there-is-there-are ✅ (1 lesson — the full there
   is/are system, beside introductory-there: Secundaria 1–2 and
   compendium Years 1–2, which no lesson housed in full)
+- **Sweep addition (2026-11-11, Nicaragua re-verification sweep
+  merge):** have-and-has ✅ (1 lesson — the have/has system for
+  things you own, positives, negatives and questions, of
+  Nicaragua's Activity Book 3 and Grade 7 Student's Book,
+  which no lesson housed)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
 questions, and answer in whole sentences.*
 - asking-yes-no-questions ✅ · asking-with-question-words ✅
+- **Sweep addition (2026-11-11, Nicaragua re-verification sweep
+  merge):** polite-indirect-questions ✅ (1 lesson — the
+  embedded questions, "Can you tell me where the shop is?", of
+  Nicaragua's Grade 9 Módulo Autoformativo, which no lesson
+  housed)
 
 ## Unit 12 — Now, Before, Later
 *End of unit: the learner can talk about the present, the past, and
@@ -790,6 +805,52 @@ Grade 11's recorded mid-size asset 404ing on the API endpoint
 byte sizes not matching the on-disk copies (same books, different
 scans — covers, ISBNs and pagination agree). The English path now
 stands at **207 lessons across 44 units**.
+
+**RE-VERIFICATION SWEEP ADDITION 2026-11-11 (NICARAGUA).** The
+2026-11-08 re-verification sweep re-read Nicaragua's held English
+books and rebuilt the placements from the books themselves: 389
+teaching items — 5 already in the course, 382 MISSING, 2 excluded
+(the Grade 7 and Grade 9 modules' workbook apparatus, which
+teaches no new content) — and every missing item is in this merge
+stocked. The set is 12 distinct files: the primary Activity Books
+1, 3 and 4 and the one Multigrado activity book (read page by
+page), and the Grade 7–10 Student's Books and Módulos
+Autoformativos (read by contents-and-grammar harvest, every
+taught target captured). The sweep's headline finding: the whole
+Grade 7–9 secondary series had never been filed at all — the
+filing and the gap lists recorded those books as not held, and
+the sweep recovered and read them (diff flag F1, record-side,
+reported not edited). The 382 stocked items land in 90 existing
+lessons and **3 NEW LESSONS**: **have-and-has** (Unit 10 — the
+have/has system of Activity Book 3 and the Grade 7 book),
+**asking-about-size-and-measure** (Unit 7 — How big / How long /
+How tall / How much does it weigh?, Grade 8, Lesson 2) and
+**polite-indirect-questions** (Unit 11 — the Grade 9 module's
+embedded questions). Six of the placements' named-NEW topics
+already had homes and were routed there and noted (there is and
+there are; can and can't; must, have to and should; prepositions
+of place; prepositions of time; countries, nationalities and
+languages), and three older slug schemes were remapped to current
+lessons (demonstratives out of pronouns; school objects out of
+school-subjects; toy words out of nouns). Two course-side errors
+the sweep proved are fixed in this merge: how-old-are-you no
+longer excludes Nicaragua (Activity Book 1 teaches "How old are
+you? I'm 6" at printed p.19 — flag F4), and how-are-you no longer
+excludes it either (the Grade 7 module teaches the exchange
+outright — flag F5). the-big-reading takes Nicaragua's
+thirty-six sustained readings under the same stated distinction
+as Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece
+and Mongolia — no complete book-length text, so Nicaragua does
+not join the five complete-text countries on their terms, and
+every reading is filed as a plot summary only. Book errors are
+stocked taught corrected with the error noted (Activity Book 3's
+"dessert" for desert and "jelly vean"; Activity Book 4's
+impossible "greater than fifty-three but less than fifty-one"
+clue; the Grade 8 book's two lessons both numbered 32; the
+Grade 10 reading's "Karla. He is a student"). Nothing else is
+excluded: 389 fresh items = 5 already in + 382 stocked + 2
+excluded. The English path now stands at **210 lessons across
+44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

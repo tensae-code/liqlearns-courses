@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -90,9 +90,11 @@ verification sweep.
 | Writing an e-mail about a sporting competition you attended | Mongolia, English XI, Unit 7, printed pp.113–114 |
 | Writing a reply letter with travel recommendations | Mongolia, English XI, Unit 10, printed p.166 |
 | Writing an e-mail about a trip | Mongolia, English XII, Unit 5, printed p.87 |
+| Writing an email to a friend | Nicaragua, Activity Book 4 (Grade 4), Unit 5, printed pp.39–40 |
+| A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 
-**Acceptance count: taught in 6 countries (Saudi
-Arabia, Mongolia, Malaysia, Egypt, China, India).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 7 countries (Saudi
+Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua).** India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -103,3 +105,11 @@ letters up the whole ladder — friendly letters and a
 pen-pal letter in Grade 5, a pen-pal unit in Grade 6,
 personal letters again at Grade 9 (stocked 2026-11-08
 by the re-verification sweep).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

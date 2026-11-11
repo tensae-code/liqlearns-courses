@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -166,6 +166,12 @@ covers the 6th Year book only).
 | The whole alphabet taught by name with a picture word for every letter — A apple, B banana, C cat, D dog, E elephant, F fish, on through T tree, U umbrella, V vase, W wolf, X x-ray, Y yak, Z zebra — each block followed by copying the letters in capital and small form on ruled lines | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Starter, printed pp.2–9 |
 | Vowel letters named as their own set — Aa, Ee, Ii, Oo, Uu with pictures, then copied | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Starter, printed pp.10–11 |
 | The alphabet re-taught a letter-block at a time through the first two units of the secondary course (A–D, E–H, I–L, then M–P, Q–T, U–Z) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Units 1–2, printed pp.2–21 |
+| The alphabet — letter names and order, as a named unit | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.4–10 |
+| "How do you spell your name?" — spelling aloud | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.4–6 |
+| Spelling a word letter by letter, the letters in order | Nicaragua, Activity Book Multigrado, Unit 6, printed p.41 |
+| The alphabet, with spelling names and capital and small letters | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 6, printed p.26 |
+| Spelling surnames | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
+| Spelling words aloud — an Additional Activities strand | Nicaragua, Secondary English, Grade 10 Student's Book, Additional Activities |
 
 **Egypt KG2 rows added 2026-10-25** (whole book read complete) —
 KG2 teaches the other 13 letters, each with sound words, a formation
@@ -387,7 +393,7 @@ sound is learned.
 | Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
 | Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
 | Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
-**Acceptance count: taught in 30 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).**
+**Acceptance count: taught in 31 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua).**
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -656,3 +662,17 @@ pp.83–90).
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 finishes what the Grade 1 book left unfinished: its Activities half writes and joins *i* through *z* (printed pp.41–58), completing the joined alphabet the Grade 1 section of the country file records as begun at *a–h* and left open, and then settles into "Copy and write" (from printed p.59).
 
 **Malaysia — primary pupil's books added 2026-11-06** — 2 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: the alphabet as a song, letter names A–Z (p.6); Get Smart Plus 4: cursive handwriting: the joined alphabet, then tracing and copying words and song lines, including "Malaysia" and "I'm from Malaysia" (pp.115–117). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 1 alphabet / letter-names row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

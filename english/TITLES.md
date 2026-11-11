@@ -115,7 +115,10 @@ its own subtitle folder with its own lesson + questions):
   the World**) ·
   what-things-are-made-of (added 2026-11-11 by the Mongolia
   re-verification sweep merge — **Unit 7, Words for
-  the World**)
+  the World**) ·
+  asking-about-size-and-measure (added 2026-11-11 by the
+  Nicaragua re-verification sweep merge — **Unit 7, Words
+  for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -126,6 +129,12 @@ its own subtitle folder with its own lesson + questions):
   there-is-there-are (added 2026-11-08 by the Bolivia
   re-verification sweep merge — **Unit 10, Building a
   Sentence**) ·
+  have-and-has (added 2026-11-11 by the Nicaragua
+  re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
+  polite-indirect-questions (added 2026-11-11 by the
+  Nicaragua re-verification sweep merge — **Unit 11,
+  Questions**) ·
   asking-yes-no-questions · asking-with-question-words ·
   present-actions · past-actions · going-to-later ·
   joining-with-and-and-but · describing-words-in-a-sentence ·

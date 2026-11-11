@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -95,9 +95,13 @@ colophon; cited once.
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 |
 | The measuring-instruments project: design and build simple measuring instruments from materials at hand — science done in English | Mexico, Grade 8, Project 8 "I Design Measuring Instruments to Quantify Physical Magnitudes", printed p. 62 |
 | The chemical-properties project: experimental tests of the chemical properties and bonds of everyday substances | Mexico, Grade 9, Project 5 "Matter, Everywhere and Everywhen", printed p. 36 |
+| School subjects — the unit's word set | Nicaragua, Activity Book 3 (Grade 3), Unit 8, printed pp.50–56 |
+| Reading a class schedule, and saying the schedule's times | Nicaragua, Activity Book 3 (Grade 3), Unit 8, printed pp.55–56 |
+| Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
+| School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 8 countries (Mexico, Mongolia,
-Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia).** Mexico carries the
+**Acceptance count: taught in 9 countries (Mexico, Mongolia,
+Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua).** Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -116,3 +120,11 @@ Chapter 0, and the class schedule described whole at
 Grade 7 (stocked 2026-11-09 by the re-verification sweep
 merge). Other closed countries join as their
 books are read (see READING-QUEUE.md). Mexico's science-in-English projects were stocked 2026-11-09 by the Mexico re-verification sweep merge — measuring instruments designed and built in Grade 8, and chemical-properties experiments in Grade 9 — beside its Grade 7 school-subjects set.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

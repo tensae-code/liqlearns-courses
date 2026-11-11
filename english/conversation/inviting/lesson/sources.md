@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua
 
 Every part traces to its book and page.
 
@@ -67,9 +67,11 @@ covers the 6th Year book only).
 | Writing party invitations with time, date and place — the written invitation inside the birthday chapter (stocked 2026-11-08 by the re-verification sweep) | Albania, Akelius A2 Guide, Chapter 40 "Birthday Party," printed pp.61–63 (PDF 64–66) — teacher-guide evidence |
 | Polite offers and invitations: “Would you like to go shopping with me? — Yes, I would love to” | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed p.42 |
 | Inviting, and accepting and declining invitations (would you like to…, how about + -ing, let's) | Mauritania, Study English, Grade 8, printed pp.12–15 |
+| Writing an invitation by email, after the special-days reading | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed pp.9–10 |
+| An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 
-**Acceptance count: taught in 6 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria, Mauritania).** Albania — teacher-guide
+**Acceptance count: taught in 7 countries (Albania, Bolivia,
+Malaysia, Nepal, Syria, Mauritania, Nicaragua).** Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -87,3 +89,9 @@ the birthday-card project.
 Mauritania invites — and accepts and declines — in its Grade 8
 book (stocked 2026-11-09 by the Mauritania re-verification
 sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The three sounds of -ed
 
-countries: Bolivia, India, Barbados
+countries: Bolivia, India, Barbados, Nicaragua
 
 Every part traces to its book and page.
 
@@ -33,8 +33,10 @@ READ + CITATION CHECK PASSED 2026-10-27).
 | The same three sounds presented again as the pronunciation of the simple past ending: /d/ (played, listened, exercised), /t/ (liked, washed, shopped), /Id/ (wanted, needed), with the REMEMBER note that regular verbs add "ed" | Bolivia — Year 5 review presentation of regular and irregular verbs (the "regular and irregular verbs (Review)" section), as filed in english/books/bolivia.md |
 | -ED PRONUNCIATION: "We say: I learnt my lesson (action word). But: A learn-ed pundit came (describing word)" — the describing-word -ed pronounced learn-id, rhyming with created, waited; words ending in the id sound ticked (accepted, irritated, completed, challenged) | India — Marigold Book Four, the Hiawatha unit's work (Class 4 filing) |
 | Suffixes -s/-es/-ies/-ed/-ied/-ing stocked among the word-building work | Barbados — Classes 1–2 syllabus bodies, as filed in english/books/barbados.md (syllabus evidence — practice stock for -ed words, not a presentation of the three sounds) |
+| The pronunciation of regular past-tense verbs — the /t/ /d/ /ɪd/ sounds (review section; the book teaches these sounds but no past-tense grammar anywhere in its 36 lessons) | Nicaragua, Secondary English, Grade 8 Student's Book, review section, printed p.162 (PDF p.168) |
+| The pronunciation of -ed, inside the book's past-tense treatment | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 
-**Acceptance count: taught in 3 countries (Bolivia, India, Barbados).**
+**Acceptance count: taught in 4 countries (Bolivia, India, Barbados, Nicaragua).**
 Bolivia stocks the thing itself, twice: the three lists
 at Year 3 Topic 4 (student p.219) and the same sorting
 again in its Year 5 review. India stocks the corner
@@ -47,3 +49,11 @@ presentation is claimed from Barbados. Bolivia's
 taught corrected (its -ed is /d/), never as a /t/
 example. Counts grow as other closed countries' books
 are read.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

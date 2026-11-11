@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -140,9 +140,14 @@ verification sweep.
 | Reading: physical activity and health — inactivity as a "silent killer" | Mongolia, English XI, Unit 7, printed pp.108–109 |
 | Reading: a biology lecture on the two sides of the brain and brain food | Mongolia, English XII, Unit 8, printed p.142 |
 | Reading: health and well-being (the WHO definition; physical, mental, social) | Mongolia, English XII, Unit 8, printed p.150 |
+| Health and care words — headache, stomachache, cold… | Nicaragua, Activity Book 4 (Grade 4), Unit 6, printed pp.41–49 |
+| Headaches and ailments — "I have a headache" (the book numbers it as a second "Lesson 32"; its numbering has no Lesson 33) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 33, printed p.147 |
+| Remedies — "What is the remedy?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 34, printed p.152 |
+| An HIV information lesson — "Live and let others live" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 35, printed p.156 |
+| An HIV/STI information lesson — "How can I get an HIV infection?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 36, printed p.159 |
 
-**Acceptance count: taught in 13 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 14 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -170,3 +175,11 @@ re-verification sweep merge). Other closed countries join as their books are rea
 Mauritania advises on illness in Grade 7 and discusses
 HIV/AIDS prevention in Grade 11 (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: a healthcare-tools catalogue, a blood-types research and donation campaign, and a healthy-habits project (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

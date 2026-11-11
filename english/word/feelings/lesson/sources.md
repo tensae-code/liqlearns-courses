@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -83,9 +83,16 @@ re-verification sweep.
 | Workbook “Expressing Attitude” — practice of opinion forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, Lesson 2, WB printed pp.45–54 |
 | Feelings and emotion words (upset, relaxed, nervous, embarrassed, amazed) | Mongolia, English XII, Unit 1, printed p.19 |
 | Emotional intelligence: the EI test and its vocabulary | Mongolia, English XII, Unit 1, printed pp.19–21 |
+| "I like / I don't like" — first likes, over food | Nicaragua, Activity Book 1 (Grade 1), Unit 8, printed pp.46–48 |
+| Like / don't like, with "Do you like…?" | Nicaragua, Activity Book 3 (Grade 3), Unit 8, printed pp.51–53 |
+| Feelings words | Nicaragua, Grade 8 Módulo Autoformativo, Unit 2B, printed p.58 |
+| Like + infinitive — likes and preferences | Nicaragua, Grade 9 Módulo Autoformativo, Unit 4A, PDF pp.108–110 |
+| The love / like / don't like / hate scale (with third-person -s) | Nicaragua, Grade 9 Módulo Autoformativo, Unit 4A, PDF p.112 |
+| Friendship vocabulary — bond, twin spirit, spouse, a shoulder to cry on… | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1, Lesson 2 |
+| Relationship words | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1C |
 
-**Acceptance count: taught in 8 countries (Albania, Bolivia,
-Mexico, Mongolia, China, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 9 countries (Albania, Bolivia,
+Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -104,3 +111,19 @@ in Grade 6 (stocked 2026-11-09 by the re-verification
 sweep merge).
 Other closed countries join as their books
 are read (see READING-QUEUE.md).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -81,9 +81,13 @@ covers the 6th Year book only).
 | Polite requests when eating out: ordering a starter, a main course and a drink, and asking for the bill | Mauritania, Study English, Grade 8, printed pp.16–17 |
 | Requests to borrow and lend: can/could/may I, can/could you, do/would you mind + -ing, do you mind if…, I wonder if you could…; borrow against lend | Mauritania, Study English, Grade 8, printed pp.20–23 |
 | Will for requests; shall for suggestions and offers | Mongolia, English XI, Unit 2, printed p.30 |
+| Polite classroom requests — "Can you repeat, please? May I come in?" — beside the classroom instructions | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 2, printed p.5 |
+| Polite questions with can / could / will / would — "Can you help me please?" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2A, PDF p.44 |
+| A hotel reservation dialogue — asking politely for a room | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 12 |
+| Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 
-**Acceptance count: taught in 8 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 9 countries (Cambodia,
+Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -106,3 +110,15 @@ could you… / can you… forms in Grade 7 (stocked
 Mauritania asks politely at the table and for borrowing and
 lending in its Grade 8 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

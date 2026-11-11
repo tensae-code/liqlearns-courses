@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -126,9 +126,14 @@ verification sweep.
 | Olympic facts (rings, flame, motto, mascot, diploma) | Mongolia, English XII, Unit 10, printed p.172 |
 | Reading: Olympic winter sports (figure skating, snowboarding, Big Air) | Mongolia, English XII, Unit 10, printed pp.172–173 |
 | The Paralympic and Special Olympic Games | Mongolia, English XII, Unit 10, printed p.184 |
+| Hobbies and pastimes — interview work | Nicaragua, Grade 7 Módulo Autoformativo, Unit 4 |
+| Sports and activities | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 24, printed p.110 |
+| Do, go or play (a sport) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 25, printed p.116 |
+| Sports equipment | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 26, printed p.120 |
+| Recreation — entertainment and recreation activities | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5 |
 
-**Acceptance count: taught in 10 countries (Albania,
-Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 11 countries (Albania,
+Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua).** Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -146,3 +151,13 @@ free-time set in Grade 8, asked as "What's your hobby?"
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia names what a game needs in Grade 6 and talks about extracurricular activities in Grade 7 (stocked 2026-11-09 by the re-verification sweep merge). Other closed
 countries join as their books are read (see
 READING-QUEUE.md). Mexico's Grade 7 games project and its Grade 9 games-strategy project were stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 sports vocabulary set.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

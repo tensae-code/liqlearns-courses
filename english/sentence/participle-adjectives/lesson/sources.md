@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -28,7 +28,14 @@ Every part traces to its book and page.
 | -ed and -ing adjectives — bored/boring, interested/interesting, excited/exciting, tired/tiring, worried/worrying, surprised/surprising: -ed for how a person feels, -ing for what causes it | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 24–25 |
 | Be inspired by — passive-style -ed expressions (be inspired/amazed/surprised/fascinated/impressed by, be interested in) with a national-heroine text | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF pp. 93–94 |
 | Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
+| -ed / -ing adjectives — bored against boring, in the emotions lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 4, printed p.13 |
 
-**Acceptance count: taught in 5 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia).**
+**Acceptance count: taught in 6 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua).**
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

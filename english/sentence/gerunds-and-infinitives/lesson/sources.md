@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -159,9 +159,12 @@ verification sweep.
 | Infinitives of purpose (to / in order to; not to) | Mongolia, English XII, Unit 7, printed p.120 |
 | Infinitives after nouns (ability, ambition, decision, plan + to…) | Mongolia, English XII, Unit 7, printed p.126 |
 | Gerunds and infinitives with a change of meaning (remember, forget, regret, stop, try; used to) — taught only in the book’s Grammar Reference | Mongolia, English XII, Grammar Reference, printed pp.193–195 |
+| Want / need + infinitive (Happy Valentine's Day) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 27, printed p.124 |
+| Gerunds as nouns — "Walking is important…" (Changing Habits) | Nicaragua, Grade 8 Módulo Autoformativo, Unit 4B, printed p.97 |
+| Infinitives of purpose — to + base verb | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5, PDF p.98 |
 
-**Acceptance count: taught in 13 countries (Cambodia,
-Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 14 countries (Cambodia,
+Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua).** Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -182,3 +185,13 @@ listening to tapes — inside its how-to-learn unit
 Mauritania teaches gerunds and infinitives with their verb
 patterns in its Grade 13 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico's Grade 9 book teaches sentences with two verbs — the first verb decides between the to-infinitive and the gerund (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

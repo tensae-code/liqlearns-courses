@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece
+countries: China, Iran, Indonesia, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -27,8 +27,16 @@ Every part traces to its book and page.
 | Classroom objects named in the opening unit — the things in the classroom | Iran, Prospect 1 (Grade 7), Welcome unit, printed p.5 |
 | The things in the classroom as a primary chapter's own vocabulary set — "Things in the Classroom," with "What is this? This is a desk" | Indonesia, English for Nusantara Kids Grade 3, Chapter 5 opener, printed p.116 (stocked 2026-11-09 by the Indonesia re-verification sweep merge) |
 | School objects: sixteen classroom-object flashcards (schoolbag, pencil case, sharpener, copybook, pen, bin, rubber, book, pencil, ruler…) with singular/plural grouping, and a trace-and-match worksheet | Greece, Beta English Grade 2 Workpack, school objects set (B02), PDF pp.26–29 |
+| School objects — the first naming set | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed pp.6–7 |
+| The school objects set again, with "My (object) is (colour)" | Nicaragua, Activity Book 1 (Grade 1), Unit 4, printed pp.30–33 |
+| The adjustment-period school objects repeated | Nicaragua, Activity Book Multigrado, printed pp.4–14 (mirror of Activity Book 1) |
+| School objects, with "I have a…" | Nicaragua, Activity Book Multigrado, Unit 2, printed pp.21–23 |
+| Classroom place words — floor, wall, door, window | Nicaragua, Activity Book 3 (Grade 3), Unit 2, printed p.11 |
+| School supplies — the unit's word set | Nicaragua, Activity Book 3 (Grade 3), Unit 4, printed pp.21–27 |
+| Classroom objects — the secondary course's first lesson | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 1, printed p.2 |
+| Classroom objects | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 
-**Acceptance count: taught in 4 countries (China, Iran, Indonesia, Greece).** Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 5 countries (China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -46,3 +54,19 @@ are "Hello!" (Grade 3 Volume 1, Unit 1), "My classroom"
 (Grade 4 Volume 1, Unit 1) and "My school" (Grade 4 Volume
 2, Unit 1) — kept here as tags, not as the lesson's title,
 which names the thing itself.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+Remap noted 2026-11-11: the sweep's placements named these items under the older school-subjects target; the school OBJECTS and supplies stock here, in the lesson built for classroom things (the Mongolia sweep merge routing) — the true subject items stock in school-subjects.

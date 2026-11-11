@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua
 
 Every part traces to its book and page.
 
@@ -175,6 +175,15 @@ covers the 6th Year book only).
 | The months listed whole — January to December — with before/after over them ("January comes before February") and ordinal position ("January is the first month of the year", third/twelfth/sixth/seventh to be supplied) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 4, printed pp.39–40 |
 | Days of the week read from a March calendar, with today/yesterday/tomorrow completed over them and a routines listening chart | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 13, Lesson 3, printed pp.126–127 |
 | Gregorian months in the countries unit, months written under their seasons | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 15, Lessons 3–4, printed pp.147–148 |
+| Days of the week | Nicaragua, Activity Book 3 (Grade 3), Unit 8, printed pp.53–55 |
+| Celebrations and special days — the unit's word set | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed pp.4–10 |
+| Months of the year | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed pp.5–7 |
+| Ordinal numbers for dates — Mother's Day May 30, Independence Sept 15 | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed pp.6–8 |
+| Ordinal numbers | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 17, printed p.95 |
+| Celebrating holidays | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 18, printed p.102 |
+| Days, months and birthdays, through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 4, printed pp.79–106 |
+| Celebrations, with ordinal numbers (review) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 28, printed p.128 |
+| Holidays | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 
 | The seven days with simple-present routines — "I go shopping on Monday", "We visit our grandparents on Saturday", "What do you do on Tuesday?" — and a days song | Syria — Emar Syrian Series, Pupil's Book 2, Unit 16 "Daily Routine," pp.51–53 |
 | Months and seasons together, with weather — "It's often cold and rainy [in January]", "It's always hot in July" (p.42) — and "Why do you like it? — I like it because…" | Syria — Emar Syrian Series, Pupil's Book 3, Unit 14 "Months and Seasons," pp.42–44 |
@@ -236,8 +245,8 @@ covers the 6th Year book only).
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
 | The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
-**Acceptance count: taught in 32 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania).** Egypt
+**Acceptance count: taught in 33 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua).** Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -333,3 +342,17 @@ first of January" (p.99).
 **Sudan — SMILE Starter 2 / Book 6 (G6) added 2026-11-06** — 2 further Sudan books stock this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed); **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Starter 2 adds the routine frame: a day told in first-person clock times — wake up at 6, school at 7, breakfast at 10, home after school, bed at 9 (Unit 2, Lesson 7, printed p.15); the same unit's Book Map names the subject pronouns as its grammar, and that naming is filed in word/pronouns. Book 6 (Grade 6) adds the timetable itself as a text: a weekly grid of subjects, days and times read and questioned (Unit 1, Lesson 1, printed p.1) — a genre the Grade 5 timetable language stocked above does not have.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: days of the week with the week's activities (p.58); Get Smart Plus 3: seasons and months; birthdays with in + month and on + day (pp.35–37); English Plus 1: daily routine verbs and the Days and Nights quiz (pp.22–23). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 2 days row; the Year 3 seasons/months row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

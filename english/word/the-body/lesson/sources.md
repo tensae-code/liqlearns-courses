@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -154,6 +154,10 @@ verification sweep.
 | Body parts labelled, with the body-action verbs that move them | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), printed pp.20–21 |
 | Parts of the body as the unit's vocabulary — head, face, ear, nose, neck, mouth, lips, eye, teeth — with tongue, fingers, knee, toes, leg, forehead, elbow, arm and foot inside its sentence lists | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed pp.128–132 |
 | Body plurals as their own drill set — tooth–teeth, lip–lips, eye–eyes, finger–fingers, foot–feet, ear–ears — ending in drawing a man and labelling the parts | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Fourteen, printed pp.133–135 |
+| Body parts — mouth, ears, hair, eyes, nose, teeth | Nicaragua, Activity Book 1 (Grade 1), Unit 7, printed pp.42–45 |
+| Body parts — the wordsearch set | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed p.7 |
+| Body words inside present-continuous questions — "Are you touching your ears?" | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.59–61 |
+| Body parts — "Where does it hurt?" (the book numbers this Lesson 32; its next lesson is also printed "Lesson 32" — the book's own numbering slip) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 32, printed p.144 |
 
 | The body unit set — hand, foot, eye, nose, mouth, ear — with "This is my…" and "Is it a / your…?"; a days-of-the-week song is printed inside this unit | Syria — Emar English Series, Pupil's Book 1, Unit 7 "My Body," pp.21–23 |
 | The five senses with their verbs — see / hear / smell / taste / touch — and sense verbs at work ("The cakes taste delicious," p.12) | Syria — Emar Syrian Series, Pupil's Book 3, Unit 4 "My Five Senses," pp.12–14 |
@@ -204,8 +208,8 @@ verification sweep.
 | My body: hair, head, eye, ear, mouth, shoulder, nose, arm, stomach, elbow, hand, fingers, knee, leg, foot | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.22–24 |
 | The parts of the body as a chapter's own set — eyes, nose, ears | Indonesia, English for Nusantara Kids Grade 4, printed p.107 (stocked 2026-11-09 by the re-verification sweep merge) |
 | A body poem read whole: "Noses" (Aileen Fisher) — the nose is the funniest thing, stuck out in the middle of the face with two holes where the breathing goes | India — Marigold Book Four (Class 4), Unit 2, printed pp.17–36 |
-**Acceptance count: taught in 33 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India).** India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 34 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua).** India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -267,3 +271,15 @@ stomachache (p.73).
 **Sudan — SMILE Starter 2 / Book 6 (G6) added 2026-11-06** — 2 further Sudan books stock this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed); **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Starter 2 adds the senses to the body set — seeing, smelling, eating and tasting worked with *can* over the food unit (Unit 5, Lesson 5, printed p.37). Book 6 (Grade 6) adds its body poem (Unit 6, Lesson 1, printed p.41): twenty-one named parts, each carrying its job in the body — the fullest early body list in the Sudan set.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: body words (head, arm, fingers, hand, knee, leg, toes, foot) (p.94); Get Smart Plus 4: illness and injury words (headache, stomach ache, earache, toothache, sore throat, cough, fever, cut, bleed, break) with have got (p.103); English Plus 1: describing people: height and build, hair, face and eyes, glasses/beard/moustache (Make Your Own Avatar) (pp.72–73). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 2 body-parts row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

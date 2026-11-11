@@ -79,6 +79,14 @@ covers the 6th Year book only).
 
 **Book 24:** Greece Exploiting the Earth, EPAL (Agriculture / Food / Environment and Chemistry / Metallurgy / Mining sectors): sector ESP student book in two parts — Greece, ITYE «Diophantos», for the Ministry of Education (ebooks.edu.gr), book code 24-0111. Filed in english/books/greece.md (Exploiting the Earth section, FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep. Part 2's units are stated in the book's skills tables at printed pp.115–120, and its rows cite those tables.
 
+**Book 25:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 26:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 27:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 28:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Imperatives: the base form for positive instructions, don't + base for negative; the note that they end with an exclamation point "because they are strong instructions" | Egypt, Primary 3, Term 2, printed p.8 (via EGYPT-BOOK-MAP.md) |
@@ -113,6 +121,10 @@ covers the 6th Year book only).
 | Giving And Following Commands/ Instructions/Directions And — Give and respond to commands, instructions | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 1 (Oral Language), standard B4.1.9.1, PDF p.37 (curriculum evidence) |
 | Giving And Following Commands/ Instructions/Directions — Give and respond to commands, instructions; give | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 1 (Oral Language), standard B5.1.9.1, PDF p.109 (curriculum evidence) |
 | “Transplanting procedures” — the imperative; ways of giving advice; temporal and conditional clauses in instructions | Greece, Exploiting the Earth, Part A2, printed p.23 |
+| Commands — Stand up, Sit down, Clap your hands, Make a circle | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed pp.8–10 |
+| The adjustment-period commands repeated | Nicaragua, Activity Book Multigrado, printed pp.4–14 (mirror of Activity Book 1) |
+| Imperatives — a revision lesson | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
+| Imperatives in recipes — chop, mix; and the negative imperatives ("I love to cook!") | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 17, printed p.79 |
 
 **Acceptance count: taught in 9 countries (Bolivia,
 Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece).** Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
@@ -146,3 +158,5 @@ admiration exclamations in Grades 8 and 10 (stocked 2026-11-09
 by the Mauritania re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+**Nicaragua — sweep additions (stocked 2026-11-11 by the re-verification sweep merge):** Nicaragua was already counted in this lesson from Activity Book 3's imperatives Grammar Tip (printed p.13), so the acceptance count does not change. The sweep adds the primary books' classroom commands (Activity Book 1, printed pp.8–10, and their Multigrado mirror), the Grade 7 module's imperatives revision lesson (Unit 2), and the Grade 8 book's recipe imperatives with their negatives (Lesson 17, printed p.79).

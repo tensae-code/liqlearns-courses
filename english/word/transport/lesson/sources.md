@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -87,9 +87,16 @@ verification sweep.
 | Means of transport sorted into Land, Air and Water (bus, car, train, bicycle, truck / aeroplane, helicopter / ship, boat, steamer) | India — Marigold Book Three (Class 3), Unit 6 word building, printed p.55 |
 | Transport: vehicle flashcards and cut-outs (van, car, train, plane, boat, ship, bus, bike, motorbike, helicopter, balloon, horse) and transport photographs (London bus, dog sled, camel) | Greece, Beta English Grade 2 Workpack, transport set (FB4), PDF pp.82–84 |
 | Things to pack for travel (insect repellent, first-aid kit, compass, binoculars, torch) | Mongolia, English XI, Unit 10, printed p.161 |
+| Means of transport | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 4 |
+| By + transport, and on foot | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 4, PDF p.72 |
+| Driving safety | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 4 |
+| Means of transport — the word set | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1A, PDF pp.8–10 |
+| By + means of transport | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1A, PDF p.10 |
+| Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
+| At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 9 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece).** Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 10 countries (Albania, Bolivia, Mongolia,
+Palestine, Rwanda, China, Iran, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -111,3 +118,13 @@ destination, the tourism word set and a workbook-only
 reading on being a good traveler — in Grade 10 (stocked
 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are read (see
 READING-QUEUE.md).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

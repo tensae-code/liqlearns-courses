@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -174,9 +174,15 @@ the 2026-11-08 re-verification sweep.
 | Reading: reduce, reuse, recycle | Mongolia, English XII, Unit 7, printed pp.121–122 |
 | Traditional Mongolian environmental laws and eco slogans | Mongolia, English XII, Unit 7, printed p.124 |
 | Kinds of pollution (air, water, soil, noise, radioactive) | Mongolia, English XII, Unit 7, printed p.127 |
+| Nature words met in colour contexts — tree, sun, apple, banana, cat, dog, horse, lizard, ladybug | Nicaragua, Activity Book 1 (Grade 1), Unit 3, printed pp.24–29 |
+| Nature words — the environment unit's set | Nicaragua, Activity Book Multigrado, Unit 6, printed pp.39–42 |
+| Nature and beach words — the vacation unit's set | Nicaragua, Activity Book 4 (Grade 4), Unit 4, printed pp.26–32 |
+| Environment collocations — global warming, endangered species, oil spill… | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 14 |
+| Disaster words, with safety imperatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 6, Lesson 16 |
+| Disaster words — the emergencies lesson | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5A |
 
-**Acceptance count: taught in 11 countries (Albania, Mexico,
-Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 12 countries (Albania, Mexico,
+Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -198,3 +204,17 @@ visit, an observatory conversation, a wildlife-protection
 workbook reading, and renewable energy in Grade 12
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the renewable-energy vocabulary in its Grade 12 student book, and four environment units at topic level in its two teacher guides — teacher-guide evidence only (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md). Mexico's environment strand was completed 2026-11-09 by the Mexico re-verification sweep merge: the Grade 7 Trash and coral-reef projects, the Grade 8 climate-probability and water-protection projects, and the Grade 9 sustainable-energy comparison joined its Grade 7 environment vocabulary set.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

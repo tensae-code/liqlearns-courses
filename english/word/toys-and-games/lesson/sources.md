@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece
+countries: Indonesia, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -12,5 +12,20 @@ Every part traces to its book and page.
 |---|---|
 | All three sub lessons — the toys chapter: toy vocabulary, favourite-toy talk, and "May I borrow the board game?" | Indonesia, English for Nusantara Kids Grade 4, printed p.57 |
 | Toys: flashcards (robot, doll, car, dinosaur, kite, yo-yo) and a class-survey grid for asking about toys | Greece, Beta English Grade 2 Workpack, toys set (B03), PDF pp.32–33 |
+| Toy words — the toys unit's set | Nicaragua, Activity Book 1 (Grade 1), Unit 2, printed pp.20–23 |
+| Toy words — yo-yo, doll, kite, helicopter, plane | Nicaragua, Activity Book Multigrado, Unit 4, printed pp.30–34 |
+| Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 
-**Acceptance count: taught in 2 countries (Indonesia, Greece).** Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+**Acceptance count: taught in 3 countries (Indonesia, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+Remap noted 2026-11-11: the sweep's placements named these toy-word items under the older nouns target; they stock here, in the lesson built for toys (the Indonesia sweep merge built it for exactly this word set). Activity Book 3's plurals content is named in its row.

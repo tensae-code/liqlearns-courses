@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -133,9 +133,10 @@ verification sweep.
 | “Art and Graffiti” — noun formation; descriptive writing | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 7, printed p.101 |
 | Job-noun suffixes -er/-or, -ist, -ian | Mongolia, English XI, Unit 2, printed p.25 |
 | Eater words from Latin -vore (herbivore, carnivore, omnivore, insectivore) | Mongolia, English XI, Unit 6, printed p.96 |
+| Word building — prefixes in-/un-/dis-/im-/re-/pre- and suffixes -er/-able/-ful | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
 
-**Acceptance count: taught in 10 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 11 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -155,3 +156,9 @@ China diff). Other closed countries join as their books
 are read (see READING-QUEUE.md). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

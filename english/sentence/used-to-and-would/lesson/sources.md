@@ -1,6 +1,6 @@
 # Sources — Used to and would
 
-countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece
+countries: Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan, Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -117,9 +117,10 @@ differ only in cover wording and colophon; cited once.
 | “From generation to generation!” — talking about past habits and states; past simple and used to; TV/radio and technology words | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 5, Lesson 3, printed p.75 |
 | Workbook “From generation to generation!” — new text: an extract from a TV guide; writing a paragraph about good ways to learn English | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 5, Lesson 3, printed p.72 |
 | “Getting Around and Shopping” — used to for past habits; travel and shopping language | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 6, printed p.84 |
+| One "used to" example inside a workbook story — exposure only: the book never teaches the structure, and no teaching is claimed from it | Nicaragua, Grade 9 Módulo Autoformativo, workbook section, PDF pp.145–224 |
 
-**Acceptance count: taught in 12 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
-Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
+**Acceptance count: taught in 13 countries (Afghanistan, Cambodia, Egypt, Malaysia, Nepal, Sudan,
+Uzbekistan, Bolivia, China, Mauritania, Mexico, Greece, Nicaragua).** Greece joins with the Grade 6 'Diaries' used-to lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). One correction is recorded as the course
 rule requires: Afghanistan's Grade 11 prints "Do not
 use used to in a question or a negative" — a
 NON-STANDARD rule, contradicted inside this very set by
@@ -141,3 +142,11 @@ citation at all).
 Mauritania teaches used to in Grade 9 and repeats the same
 transport text in Grade 10 (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico's Grade 8 book masters used to as a named structure — past habits and changed states (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+Exposure only, carried exactly as the sweep records it: inside the Grade 9 module's workbook section a story supplies one "used to" example ("My great-grandmother used to get up at 4:00 a.m."). The structure is never taught in the book, and nothing beyond this exposure is claimed here.

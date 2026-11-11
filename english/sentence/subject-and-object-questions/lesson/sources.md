@@ -1,6 +1,6 @@
 # Sources — Subject and object questions
 
-countries: Cambodia, Malaysia, Indonesia, Mexico, Mongolia
+countries: Cambodia, Malaysia, Indonesia, Mexico, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -62,9 +62,10 @@ colophon; cited once.
 | Object questions (with the auxiliary) against subject questions (no auxiliary) — who did it against who it was done to | Mexico, Grade 9, Project 1 "Afro-Mexican Communities: Stories for Inclusion", printed pp. 14–15 |
 | Subject and object questions; questions ending with a preposition | Mongolia, English XI, Unit 6, printed pp.95–96 |
 | Subject and object questions; questions with prepositions at the start or end | Mongolia, English XII, Unit 3, printed pp.53, 56–57 |
+| Wh- questions with no auxiliary — "Who always litters?" (Don't litter!) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 31, printed p.140 |
 
-**Acceptance count: taught in 5 countries (Cambodia,
-Malaysia, Indonesia, Mexico, Mongolia).** Cambodia carries the fullest treatment: its
+**Acceptance count: taught in 6 countries (Cambodia,
+Malaysia, Indonesia, Mexico, Mongolia, Nicaragua).** Cambodia carries the fullest treatment: its
 Grade 11 course — evidenced by the Teacher's Book, the
 student's book not being held — devotes a whole unit to
 the pair, object questions first and subject questions
@@ -80,3 +81,9 @@ re-verification sweep merge). No
 other closed country's filing teaches the subject/object
 distinction as a named point; the lesson does not claim
 them. Mexico's Grade 9 book sets object questions against subject questions — the auxiliary against no auxiliary (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

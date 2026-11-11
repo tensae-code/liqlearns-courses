@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -59,9 +59,14 @@ verification sweep.
 | The course's very first poem is a colour lesson: "A Happy Child" — a red house, a green tree, the sun; colour questions (the colour of the house, the tree, the sun) and happy/sad feelings work | India — Marigold (Class 1), Unit 1, printed pp.1–15 |
 | The colour characters and a rainbow sheet: “I'm blue, I'm the sea / I'm green, I'm a tree / I'm red, I'm the fire…” — each colour introduces itself | Greece, Beta English Grade 2 Workpack, colours set (A04_C01-8), PDF pp.125–128 |
 | The symbolism of colours in Mongolia | Mongolia, English XII, Unit 4, printed pp.67–68 |
+| First colours — red, blue, green, yellow | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed p.11 |
+| The colour set extended (pink, purple, orange…), with "What color is it? It's…" | Nicaragua, Activity Book 1 (Grade 1), Unit 3, printed pp.24–29 |
+| "My favorite color is…" | Nicaragua, Activity Book 1 (Grade 1), Unit 3, printed pp.24–29 |
+| The adjustment-period colours repeated | Nicaragua, Activity Book Multigrado, printed pp.4–14 (mirror of Activity Book 1) |
+| The colour set widened — gray, beige, brown — inside the environment unit | Nicaragua, Activity Book Multigrado, Unit 6, printed pp.39–42 |
 
-**Acceptance count: taught in 7 countries (Palestine, Bolivia,
-Mongolia, Iran, Indonesia, India, Greece).** Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 8 countries (Palestine, Bolivia,
+Mongolia, Iran, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -70,3 +75,11 @@ claimed); Mongolia carries the rainbow seven, the mixing
 chart and the primary/secondary/neutral sorting. Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

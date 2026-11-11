@@ -1,6 +1,6 @@
 # Sources for this lesson — How old are you?
 
-countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela
+countries: Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -72,6 +72,8 @@ Libya (Garnet) · Books verified on disk 2026-10-25.
 | The same exchange mapped in Grade 3's opener ("I'm (eleven) years old") — Syllabus-mapped only; the unit body is not in the held copy | Saudi Arabia, *We Can!* Student's Book 3 (Grade 3), Term 3 extract as bound, Unit 1 It's Nice to Meet You!, Syllabus-mapped |
 | “How old are you?” as its own numbered lesson, inside the unit that also teaches numbers 0–12 | Uzbekistan — *Fly High ENGLISH 5* (Grade 5), Unit 2, Lesson 3, printed p.11 |
 | “How old are you?” as the lesson's own question — Lesson 9's plan outcomes run asking *how old?*, describing people and asking colours, over the body set and the describing words; the *Happy Birthday* lines are printed in the steps | Venezuela — *My Victory* Teacher's Book 1 (Grade 7), Lesson 9, guide printed pp.56–61 |
+| "How old are you? I'm 6" — the age exchange itself, closing the numbers unit | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed p.19 |
+| Numbers 1–10 with "How old are you?" again | Nicaragua, Activity Book Multigrado, Unit 2, printed pp.19–20 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the birthday exchange and the
 third-person age question; the text now teaches both. Sub
@@ -88,7 +90,7 @@ nineteen," Grade 2; the Grade 3 third-person pair) and the
 Iran row (the age question widened to the whole family). No
 existing row changed.
 
-**Acceptance count: taught in 28 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
+**Acceptance count: taught in 29 countries (Egypt, Libya, Laos, China, North Macedonia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Nicaragua) — Egypt joined 2026-10-25, Primary 3 Term 1; see the Egypt section below.**
 China teaches the exchange in the full "years old" form with
 candle counting (Grade 3 Volume 1) and later ties age to the
 birthday date (Grade 5 Volume 2); North Macedonia practises it
@@ -136,12 +138,22 @@ the age whole — "I am eight years old." — with age
 named among the introduction's items in its guide; no
 "How old are you?" question wording is printed
 anywhere in its filed read, and none is claimed here.
-Nicaragua's filed books ask names in their greeting
-material, not age — so it is not counted here; Sierra
-Leone's filed books likewise state a boy's age ("He is 10
+Sierra
+Leone's filed books state a boy's age ("He is 10
 years old," Primary 1 Term 3, Lesson 146) but never teach the
 question, so Sierra Leone is not counted here. The count grows
 as other closed countries' books are read.
+(Pre-existing error fixed 2026-11-11 by the Nicaragua
+re-verification sweep merge: this paragraph previously said
+Nicaragua's filed books ask names in their greeting material,
+not age, and excluded Nicaragua on that ground. That held only
+for the books the old filing had read into its greeting lesson;
+Activity Book 1 teaches the exchange itself — "How old are
+you? I'm 6" — at printed p.19, and the Multigrado book
+re-teaches it at printed pp.19–20. Nicaragua is counted here
+from 2026-11-11; see its section at the end of this file. The
+older note below said the not-counted sentence "now names
+Nicaragua only"; after this fix it names Sierra Leone only.)
 Nepal joined 2026-11-03 with the question itself in its first book — "How old are you? — I'm five/six" and "How old is he/Raju?" in Grade 1's age unit (Unit 9, printed pp.57–61) — and ages stated whole across a whole family in Grade 2's numbers unit (Unit 3, printed pp.13–19).
 Armenia joined 2026-11-03 with the age question as its own starter lesson: "How old are you?", with numbers 1–10 and "I'm nine / I'm ten" (Starter Unit, Lesson 3, printed p.5).
 (Pre-existing error fixed in this merge: this paragraph
@@ -474,3 +486,5 @@ and not for the question.
 **Venezuela added 2026-11-04** — 1 book stocks this lesson: **Book:** *My Victory — Guía para el docente*, 1er año (Teacher's Book, Grade 7) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-02-4. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. The age question is Grade 7 Lesson 9's own — asked over the body and describing sets, with the birthday lines printed in the steps.
 
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 stocks this lesson's family ground: the age lesson's counting is turned on the family itself — "Have you got any brothers, Badr?", "How many … have you got?", numbers to 20 (Unit 2, Lesson 3, printed p.11). *Any* in a *have got* question and *How many* with *have got* are both first met here in the held Sudan books.
+
+**Nicaragua added 2026-11-11 (re-verification sweep merge)** — 2 books stock this lesson: **Book:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. **Book:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Both read page by page in the 2026-11-08 re-verification sweep and filed in english/books/nicaragua.md; placements in liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md. Nicaragua teaches the question itself, in the short form, at the end of its first numbers unit: "How old are you? I'm 6" (Activity Book 1, Unit 1, printed p.19), and the Multigrado book runs numbers 1–10 with the same exchange again (Unit 2, printed pp.19–20).

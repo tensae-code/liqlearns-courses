@@ -1,6 +1,6 @@
 # Sources — Describing words in a sentence
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Ghana, Nicaragua
 
 Every part traces to its book and page.
 
@@ -199,6 +199,9 @@ re-verification sweep.
 | Describing objects inside the sentence in the fixed adjective order size–length–shape–material–type, adjectives first sorted into those kinds | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 9, Lesson 2, printed pp.92–93 |
 | Article + adjective inside the sentence ("It is a nice restaurant"), with very against too | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 8, printed pp.94–95 |
 | Comparison worked inside sentences: short-adjective comparatives and the irregulars (good–better, bad–worse, far–farther), then more/less for longer adjectives and equality (as big as / not as busy as), ending in a city paragraph written from a graphic organiser using comparatives | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 13, printed pp.129–134 |
+| Comparatives — regular, with good→better, bad→worse | Nicaragua, Grade 9 Módulo Autoformativo, Unit 4B, PDF pp.116–121 |
+| Superlatives | Nicaragua, Grade 9 Módulo Autoformativo, Unit 4B, PDF p.120 |
+| Comparatives, including (not) as…as and the modifiers a bit / much | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2 |
 
 | Adjectives describing nouns inside sentences | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.74–75 |
 | Adjectives in their two sentence positions — "The small dog / The dog is small" | South Africa — English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks), printed p.48 |
@@ -282,9 +285,9 @@ re-verification sweep.
 | Similes opened out as a system: "as cold as ice" explained, then as white as snow, as slow as a tortoise, as sweet as honey — and learners coin their own | India — Marigold Book Five (Class 5), Unit 7 language work |
 | Descriptive Writing | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 3, Strand 4 (Writing), standard B3.4.10.1, PDF p.116 (curriculum evidence) |
 | Descriptive Writing — Use descriptive Collaboration | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.12.1, PDF p.157 (curriculum evidence) |
-**Acceptance count: taught in 34 countries (Bangladesh,
+**Acceptance count: taught in 35 countries (Bangladesh,
 Egypt, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India).** India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mauritania, India, Nicaragua).** India joins with similes opened out as a system in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bangladesh pictures the before-home in
 eight pairs; Mongolia names the describing law, writes the
 sense-verb home, and posts the comparing border — and its
 Grade 5 picture book now adds describing stock in pictures
@@ -403,3 +406,11 @@ Grade 11 (Student's Book, Unit 3, printed p.34).
 **Sudan — SMILE Book 6 (G6) added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Book 6 (Grade 6) teaches comparison as a system across three units — superlatives first, then *-er … than* (Unit 3, Lesson 1, printed p.17); superlatives in the wonders text (Unit 4, Lesson 2, printed p.26); and comparatives completing the exercise-benefits text (Unit 6, Lesson 4, printed p.44) — the systematic presentation the Grade 5 introduction stocked above leads to.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: prepositions in/on/under for where something is (p.35); Get Smart Plus 4: as … as for equal comparison, in animal descriptions (pp.85–86); very good at / good at / not very good at + noun for ability (p.98); Academy Stars Year 6: just as … as and not as … as for comparing (p.63); too + adjective and not + adjective + enough (p.64).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

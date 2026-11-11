@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -91,10 +91,15 @@ verification sweep.
 | Expository /Informative Writing — Write articles on varied topics event of the day | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 4 (Writing), standard B6.4.14.2, PDF p.232 (curriculum evidence) |
 | “The four corners of the Earth!” — the definite article and zero article; geographical words and large numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 6, Lesson 3, printed p.84 |
 | Workbook “The four corners of the Earth!” — new text: an article from a travel guide about Dubai; writing a tourist-office brochure | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 6, Lesson 3, printed p.75 |
+| A/an completed by the noun's first sound — "It's __ cat / It's an owl" | Nicaragua, Activity Book Multigrado, Unit 3, printed pp.28–29 |
+| Articles a/an | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 4, printed p.11 |
+| The definite article "the" | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.42–48 |
+| A/an chosen by sound, including the honest cases — "an honest…, a unit…" | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
+| "The" against no article — specific things against generalisations; the before hotels, theatres, some countries and geographical features | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 5, PDF p.102 |
 
-**Acceptance count: taught in 11 countries (Armenia,
+**Acceptance count: taught in 12 countries (Armenia,
 Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India, Greece).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+Sudan, Vietnam, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -108,3 +113,15 @@ grocery chapter's grammar (stocked 2026-11-09 by the
 re-verification sweep merge).
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

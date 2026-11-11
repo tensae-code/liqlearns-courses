@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -100,8 +100,12 @@ file).
 | Sentence stress — which words carry the stress in a sentence | Indonesia, English for Change Grade 11, printed p.98 |
 | “Acting Up!” — theatre: pronunciation stress and intonation for actors | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 5, Lesson 15, printed p.95 |
 | Workbook “Acting Up!” — practice of stress and intonation with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 5, Lesson 15, WB printed pp.53–62 |
+| Word stress by syllables | Nicaragua, Grade 7 Módulo Autoformativo, Unit 4 |
+| Counting syllables — pronunciation work inside the food-containers lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 14, printed p.68 |
+| Weak forms of of / to / and | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 17, printed p.82 (PDF p.88) |
+| Word stress — FOLKlore, anCEStors, paRADE | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B, printed pp.59–61 |
 
-**Acceptance count: taught in 10 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 11 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -130,3 +134,13 @@ teaches word stress and sentence stress in its Grade 11
 English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). Counts
 grow as other closed countries' books are read.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

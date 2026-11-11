@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -162,9 +162,19 @@ verification sweep.
 | Reading: jobs that technology is changing, and jobs that are disappearing | Mongolia, English XI, Unit 2, printed p.33 |
 | Soft skills (communication, leadership, teamwork, critical thinking) | Mongolia, English XII, Unit 3, printed p.46 |
 | Multiple intelligences matched to careers | Mongolia, English XII, Unit 3, printed pp.49–50 |
+| Professions — the unit's word set | Nicaragua, Activity Book 3 (Grade 3), Unit 3, printed pp.15–20 |
+| Workplaces matched to jobs | Nicaragua, Activity Book 3 (Grade 3), Unit 3, printed pp.17–18 |
+| "Want to be a/an…" — future job wishes | Nicaragua, Activity Book 3 (Grade 3), Unit 3, printed pp.18–20 |
+| Popular jobs in my town | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 10, printed p.42 |
+| Job skills and occupations | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
+| Places of work | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
+| Safety warnings and signs at work | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
+| Work schedules | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
+| Occupations and their definitions | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3A/C, PDF pp.80, 85 |
+| Workplaces — "Where does a barber work? He works in a barber shop" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3C, PDF p.101 |
 
-**Acceptance count: taught in 11 countries (Cambodia, Rwanda,
-Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 12 countries (Cambodia, Rwanda,
+Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua).** Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -181,3 +191,15 @@ whole people's-jobs unit — the job set, interviews, job
 advertisements, work duties and future jobs (stocked
 2026-11-08 by the re-verification sweep). Other closed countries
 join as their books are read (see READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

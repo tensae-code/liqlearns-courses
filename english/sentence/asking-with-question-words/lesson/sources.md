@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua
 
 Every part traces to its book and page.
 
@@ -238,6 +238,14 @@ verification sweep.
 | A full wh- set matched to its answers — what is his job, where is the post office, who is that man, when is the break — then widened in the same lesson: what time does it open, when do they work, who helps lost children, where does she buy stamps, why does he go by bus, how do you come to school | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 12, printed p.112 |
 | Questions with who / what / how — including How tall / How wide / How old — in the family unit's third lesson | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 5, Lesson 3, printed pp.46–47 |
 | Wh- questions with past-tense verbs (Where/What/When/What time/Who/Why + did), with questions written for given answers | Afghanistan, *English for Afghanistan: Student's Book*, Grade 8, Unit 3, Lesson 3, printed pp.28–29 |
+| Question words — What / How old / Who / How many | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
+| Question words for specific information | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 3, printed pp.49–78 |
+| Wh- questions in a news context — "Getting the news" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 3B, printed p.80 |
+| "How do you get to…?", with the do/does question chart (review) | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 4 |
+| Wh- questions in the present (review) | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3C, PDF p.100 |
+| "What was the… like?" — asking about experiences | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
+| Wh- questions about the past | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B |
+| The wh- question words — who / what / when / where / why / how (Preventing) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B |
 
 | The wh-question words set out in a table, with learners making their own questions | South Africa — English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks), printed p.9 |
 | Statements turned into questions with where, what and when | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed pp.44–51 |
@@ -338,9 +346,9 @@ verification sweep.
 | Workbook “What an Experience!” — practice of question forms with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 8, WB printed pp.29–40 |
 | “Save the tribes” — question forms in the present tenses; collocations | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 3, printed pp.9–12 |
 | Workbook “Save the tribes” — practice of present-tense question forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 3, WB printed pp.5–19 |
-**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -435,3 +443,19 @@ pp.18–29; reference, printed pp.111–119).
 **Sudan — SMILE Book 6 (G6) added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Book 6 (Grade 6) adds *how much / how many* at work planning a school trip (Unit 2, Lesson 5, printed p.13) and a measurement question set — how long, old, tall and wide, what made of, what for — asked over the Great Wall (Unit 4, Lesson 7, printed p.31).
 
 **Malaysia — primary pupil's books added 2026-11-06** — 4 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: "Is there a …? / Are there any …?" and "How many … are there?" with short answers (p.73); "Where's the …? / Where are the …?" answered with It's/They're + place phrase (p.109); Get Smart Plus 3: superlative "Which is the …?" questions in a board game (p.100); Get Smart Plus 4: "What is he/she doing?" — present continuous recycled in a guessing game (p.10); "How often do you …?" answered with once/twice/three times a week and every day (pp.16–17); past question forms "How old was he? How did he die? What was his name?" (p.31); "How much …? / How many …?" for daily food, drink, sleep and exercise (pp.52–53); "How long does it take?" and leave/arrive times for a trip (pp.61–63); English Plus 1: question words Where/What/Who in the Starter unit, with the "International Friends" email model (p.11) — the same page's and/or/but half stocks the joining lesson..
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

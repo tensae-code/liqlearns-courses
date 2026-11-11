@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua
 
 Every part traces to its book and page.
 
@@ -246,6 +246,7 @@ verification sweep.
 | The scope stated plainly: the passive is systematised in Grade 11 and EXTENDED in Grade 12, which adds the past perfect passive and the scientific present passive as new forms and revises the present perfect passive; passive sentences occur unexplained inside earlier readings (Grade 9's Eiffel Tower text, Grade 10's hospital text) and are not stocked | Afghanistan, the held set as filed in english/books/afghanistan.md (Grade 9, Grade 10, Grade 11 and Grade 12 sections) |
 | Use passive sentences for a range of functions | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.6, PDF p.55 (curriculum evidence) |
 | Use passive forms appropriately in speech | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.4, PDF p.121 (curriculum evidence) |
+| The passive voice | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, printed p.115 (PDF p.121) |
 
 | Active voice named alongside the passive | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.90 |
 | The set's one full passive lesson: the passive voice defined — "The action is done to the subject" — with active→passive conversions | South Africa — English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks), printed p.95 |
@@ -335,8 +336,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 31 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 32 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua).** India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -419,3 +420,9 @@ from its naming in Book Four to the full system here.
 **Venezuela added 2026-11-04** — 1 book stocks this lesson: **Book:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. The passive is a Grade 10 closing unit: Lesson 22's steps explain the present passive (simple and continuous), Lesson 23's steps the past passive (simple and continuous), and Lesson 24 prints the future passive with jumbled wordcard sentences and a worked conversion pair. Grade 11 is NOT counted for this lesson: its Lessons 22–23 name the passive in their plans, but no passive rule, formula or worked example is printed anywhere in that guide (poster and board work only), and forms inside its printed homework sentences are use, not presentation. Note, from the merge cross-check: the country file's header summary says the passive is "reached inside Lessons 22–23," but its Book 4 section files Lesson 24's future passive as well — the book section is followed here.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Academy Stars Year 6: the present passive introduced: is/are + past participle, for processes (p.73). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 6 present-passive row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

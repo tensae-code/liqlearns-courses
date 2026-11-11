@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -98,10 +98,19 @@ covers the 6th Year book only).
 | Families around the world: photographs of mothers and babies in different countries | Greece, Beta English Grade 2 Workpack, families set (B07_C01), PDF p.189 |
 | One framed “photo” card of the bear family of five | Greece, Beta English Grade 2 Workpack, family photo card (B01), PDF p.23 |
 | “Our yearbook” — giving information about yourself and your family; wh-question revision | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 10, Lesson 1, printed pp.117–121 |
+| Family members, introduced through puppets and storytelling | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed pp.12–13 |
+| Family words, with "This is my…" | Nicaragua, Activity Book 1 (Grade 1), Unit 6, printed pp.38–41 |
+| Drawing and labelling a family tree | Nicaragua, Activity Book 1 (Grade 1), Unit 6, printed p.41 |
+| The family unit — printed as "Unit 6" but sitting second in the book (the book's own numbering slip) | Nicaragua, Activity Book Multigrado, printed pp.16–18 (mostly a mirror of Activity Book 1, Unit 6) |
+| Family members | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 9, printed p.39 |
+| The family tree and family relationships | Nicaragua, Grade 7 Módulo Autoformativo, Unit 3 |
+| Family words, with their opposites | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1, Lesson 1 |
+| Family types — extended, nuclear, single-parent | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
+| Family words; personality qualities | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
 
-**Acceptance count: taught in 11 countries (Mongolia, North
+**Acceptance count: taught in 12 countries (Mongolia, North
 Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
-Indonesia, Mauritania, Greece).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its copy holds
@@ -126,3 +135,19 @@ books are read (see READING-QUEUE.md).
 Mauritania introduces the family in a written message in its
 Grade 7 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

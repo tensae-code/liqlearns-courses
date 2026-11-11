@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -106,9 +106,10 @@ lesson is reproduced.
 | “A Christmas song” — Christmas traditions around the world (project: a menu) | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 4, Lesson 3, printed pp.58–60 |
 | “World celebrations” — revision of question forms; a poster about Christmas and Easter | Greece, Think Teen! Grade 9 Student's Book, Unit 6, Lesson 3, printed p.69 |
 | Workbook “World celebrations” — practice on celebration language with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 6, Lesson 3, WB printed pp.65–75 |
+| Party and celebration words — the concert unit's word set | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.57–64 |
 
-**Acceptance count: taught in 10 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece).** Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+**Acceptance count: taught in 11 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -138,3 +139,9 @@ course. Iran carries festival talk with holiday wishes —
 "Wish you a great holiday," "Happy New Year" — in Grade 9
 (stocked 2026-11-09 by the re-verification sweep merge). Indonesia congratulates and expresses hopes in its Grade 8 celebration chapter (stocked 2026-11-09 by the re-verification sweep merge). Other closed countries join as their books are
 read (see READING-QUEUE.md).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

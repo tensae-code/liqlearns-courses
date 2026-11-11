@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -129,9 +129,15 @@ verification sweep.
 | “Weather around the world” (project) — weather, climate and a seasons poem | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 4, Lesson 3, printed pp.54–56 |
 | “A World Without End” — weather around the world; future forms revision | Greece, Think Teen! Grade 8 Advanced Student's Book, Unit 8, Lesson 24, printed p.147 |
 | Workbook “A World Without End” — practice on world weather with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 8, Lesson 24, WB printed pp.83–92 |
+| Weather words, with "How's the weather? It's sunny…" | Nicaragua, Activity Book 1 (Grade 1), Unit 9, printed pp.49–52 |
+| Clothes for the weather | Nicaragua, Activity Book 1 (Grade 1), Unit 9, printed pp.49–52 |
+| Seasons — project work closing the special-days unit | Nicaragua, Activity Book 4 (Grade 4), Unit 1, printed p.10 |
+| Weather words, an extended set | Nicaragua, Activity Book 4 (Grade 4), Unit 2, printed pp.11–17 |
+| Seasons and weather — "Is it hot in your city?" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 2C, printed p.65 |
+| "It's" + weather adjective, and the noun+y adjectives — cloudy, windy, rainy, foggy | Nicaragua, Grade 8 Módulo Autoformativo, Unit 3A, printed p.76 |
 
-**Acceptance count: taught in 11 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece).** Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 12 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua).** Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -158,3 +164,13 @@ re-verification sweep merge). Other closed countries join as their books are rea
 Mauritania names the four seasons in a Grade 7 vocabulary list
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

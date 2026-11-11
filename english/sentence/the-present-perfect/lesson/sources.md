@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -220,6 +220,7 @@ verification sweep.
 | Present perfect introduced — "Have you ever seen anyone use sign language?" — with have/has, never, yet, so far, in a gap-fill about a sign-language course | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 6, Lesson 3, printed pp.62–63 |
 | Present perfect with for / since ("We've known each other for six years / since third grade"), with the tense contrasted against the simple past (last week/yesterday against yet) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 7, Lessons 3–4, printed pp.73–78 |
 | Present perfect as a unit's named grammar — have/has + past participle, for actions finished at an unspecified past time, with yet, so far, since, before, up to now, already, ever | Afghanistan, *English for Afghanistan: Student's Book*, Grade 10, Unit 6, printed p.69 (restated in the unit Review, printed pp.76–77) |
+| Present perfect for experiences — "Yes, I have. When I was… / No, I haven't. But my mother has." (Revision) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5C, printed p.168 (PDF p.174) |
 
 | The present perfect introduced, in the book's final theme — the whole South Africa set's only present-perfect teaching, HL only | South Africa — English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks), printed pp.114–115 |
 
@@ -310,8 +311,8 @@ verification sweep.
 | Past simple vs present perfect | Mongolia, English XII, Unit 6, printed pp.110–111 |
 
 
-**Acceptance count: taught in 29 countries (Egypt,
-Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
+**Acceptance count: taught in 30 countries (Egypt,
+Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua).** India joins with present-perfect writing frames in Class 5, and the teacher-note point on past and present perfect used together in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Libya introduces the tense at Grade 8 with the
 song and the grammar box, guards the no-exact-time rule in
 its Teacher's Book, sets the ever/never/yet/already box at
 Grade 9, and states the whole entry again in its Grammar
@@ -392,3 +393,9 @@ course stocks nothing for that lesson from Laos.
 **Venezuela added 2026-11-04** — 1 book stocks this lesson: **Book:** *My Victory — Guía para el docente*, 4to año (Teacher's Book, Grade 10) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-05-5. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so every Venezuela row here is teacher's-book evidence, worded as such. The present perfect is Grade 10's: Lesson 6 presents the verb *have* in the present perfect against the past perfect and prints the lesson's participle list, and Lesson 21 names the tense again with perfect-tense tag questions and the auxiliary HAVE chart in its steps. Grades 7–9 never present it (Grade 9's filing is explicit: no perfect tense of any kind), and Grade 11 never presents the present perfect simple by name — its perfect presentations are the two perfect continuous tenses, filed under their own lesson and the unkeyed stock.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 1 further Malaysia book stocks this lesson, read directly: **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Academy Stars Year 6: the present perfect introduced: affirmative and negative with never, for experiences (p.37); Have you ever …? questions and short answers about experiences (p.38); present perfect with How long …?, for and since (p.51); present perfect with already and yet (p.52). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 6 Unit 3 row; the Year 6 Unit 4 row. One Year 6 item from the same read is NOT stocked in this lesson: *Academy Stars* printed p.111 introduces reported speech (*said* + tense shift) — a different lesson's part, held as named unkeyed stock rather than forced in here.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

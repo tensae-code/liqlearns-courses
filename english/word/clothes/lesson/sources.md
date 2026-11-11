@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -67,9 +67,15 @@ verification sweep.
 | “Clothes and communication” — review of present simple and modal verbs; clothes and fashion words | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 4, Lesson 3, printed pp.45–48 |
 | “Byzantine and Present” — revision of tenses; designing clothes | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 9, Lesson 3, printed pp.105–108 |
 | Workbook “Clothes and communication” — practice on clothes and fashion words with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 4, Lesson 3, WB printed pp.45–54 |
+| Clothes words — the clothes unit's set | Nicaragua, Activity Book 1 (Grade 1), Unit 5, printed pp.34–37 |
+| "I have a (colour) (clothes item)" — the first have pattern, met as a chunk (its full lesson is the new have-and-has, which cross-cites this row) | Nicaragua, Activity Book 1 (Grade 1), Unit 5, printed pp.34–37 |
+| Clothes words, an extended set inside the weather unit | Nicaragua, Activity Book 4 (Grade 4), Unit 2, printed pp.12–14 |
+| Clothes words — "What can I wear today?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 18, printed p.86 |
+| More clothes words — "What else do you wear?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 19, printed p.89 |
+| Jewelry and accessories | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 22, printed p.100 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Cambodia,
-Mongolia, China, India, Greece).** Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 7 countries (Bolivia, Cambodia,
+Mongolia, China, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -84,3 +90,13 @@ hang up, wash, put away) and choosing what to wear
 found this lesson carried no China citation). Other
 closed countries join as their books are read (see
 READING-QUEUE.md).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

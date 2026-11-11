@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -100,15 +100,17 @@ differ only in cover wording and colophon; cited once.
 | Determiners both / neither / either / none / all (of) | Mongolia, English XI, Unit 6, printed pp.98–99 |
 | Fewer / less / more with countable and uncountable nouns | Mongolia, English XI, Unit 7, printed pp.110–111 |
 | Phrases of quantity and quantifiers (a bar/carton/slice of; a few/a little; some/any/much/many) | Mongolia, English XII, Unit 8, printed pp.138–139 |
+| Food containers — a bag of…, a bottle of… | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 14, printed p.68 |
+| Count and noncount nouns | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 
 Libya is cited under its standing banner: the libya.md
 read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 11 countries (Bolivia,
+**Acceptance count: taught in 12 countries (Bolivia,
 Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia,
-Nepal, China, Mauritania, Greece).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+Nepal, China, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -125,3 +127,11 @@ the re-verification sweep).
 Mauritania teaches the quantity words and the containers set
 in its Grade 8 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 8 quantifier set was stocked 2026-11-09 by the Mexico re-verification sweep merge, beside its Grade 7 countability project.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

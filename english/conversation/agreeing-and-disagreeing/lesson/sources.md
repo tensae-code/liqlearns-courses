@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua
 
 Every part traces to its book and page.
 
@@ -93,9 +93,10 @@ differ only in cover wording and colophon; cited once.
 | The tombola-games project: designing games that favour democratic decision-making and assertive attitudes — agreeing and disagreeing practised as a civic skill | Mexico, Grade 8, Project 12 "Democratic Decision Making and Assertive Attitudes", printed p. 96 |
 | Opinion, agreement and disagreement phrases | Mongolia, English XI, Unit 7, printed p.107 |
 | How to debate: propositions, agreeing and disagreeing | Mongolia, English XII, Unit 3, printed p.48 |
+| Opinion expressions — "I think…, In my opinion…, As far as I'm concerned…" | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 5, Lesson 15 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico).** Mongolia
+**Acceptance count: taught in 8 countries (Cambodia,
+Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua).** Mongolia
 teaches the short echoes first, in Grade 6, with a box and
 a chain game; Cambodia works the echoes over leisure likes
 in Grade 10 and builds the opinion frames into a full
@@ -113,3 +114,9 @@ The sweep also stocked Mauritania's other agreement teaching:
 the Grade 9 forms, the Grade 10 polite/informal set, and Grade
 13's full and partial agreement with clarification (stocked
 2026-11-09 by the Mauritania re-verification sweep merge). Mexico's Grade 8 book practises agreement as a civic skill: tombola games designed for democratic decision-making and assertive attitudes (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

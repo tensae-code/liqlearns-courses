@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -73,9 +73,13 @@ covers the 6th Year book only).
 | Office Clerks Unit 5.10 “The price of publicity” | Greece, English for Office Clerks, Unit 5.10, printed p.291 |
 | Office Clerks Unit 6.10 “Credit cards” | Greece, English for Office Clerks, Unit 6.10, printed p.357 |
 | Hotel Unit 8 “Checking out and methods of payment” — payment language | Greece, English for the Hotel and Tourist Trade, Unit 8, printed p.133 |
+| Coins and currency | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 16, printed p.86 |
+| Asking for prices (in córdobas) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 16, printed p.77 |
+| "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
+| Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 7 countries (Cambodia,
-Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 8 countries (Cambodia,
+Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -97,3 +101,13 @@ READING-QUEUE.md).
 Mauritania works the market — quantities, some/any and prices
 in ouguiya — in its Grade 8 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

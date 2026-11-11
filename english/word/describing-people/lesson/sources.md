@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua
 
 Every part traces to its book and page.
 
@@ -150,9 +150,17 @@ verification sweep.
 | Workbook “Visualising colour” — practice on personality words with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 7, Lesson 3, WB printed pp.76–85 |
 | “Leaders. Born or made?” — discussion and mind-map: qualities of good leaders, born vs made | Greece, Αγγλικά Γενικού Λυκείου 2 (Grades 11–12), Unit 6, printed p.81 |
 | Teen behaviour words (peer pressure, tolerance, cyber addiction, bullying, diversity, social justice) | Mongolia, English XII, Unit 1, printed pp.16–17 |
+| Am / is / are (not) for describing people | Nicaragua, Activity Book 3 (Grade 3), Unit 6, printed pp.37–39 |
+| Describing people's appearance | Nicaragua, Grade 7 Módulo Autoformativo, Unit 3 |
+| Introducing and describing a person — the be chart: name, age, marital status, occupation, where from | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 1, printed p.2 |
+| "What does she look like?" — have and be for features (mustache, curly hair…) | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 5, printed p.18 |
+| Physical appearance with have against be | Nicaragua, Grade 8 Módulo Autoformativo, Unit 2A, printed p.48 |
+| Personality adjectives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1, Lessons 2–3 |
+| Personality adjectives — an extended set | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 8 |
+| Look like against be like | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1B |
 
-**Acceptance count: taught in 12 countries (Bolivia,
-Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece).** Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 13 countries (Bolivia,
+Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua).** Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -179,3 +187,19 @@ Mauritania describes people in Grade 7 (looks and clothes) and
 again in Grade 9 (who/whose descriptions and character words)
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

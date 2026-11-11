@@ -1,6 +1,6 @@
 # Sources — Giving advice
 
-countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia
+countries: Malaysia, Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -145,9 +145,15 @@ differ only in cover wording and colophon; cited once.
 | “Your problem sorted!” — giving advice and reasons; modals must/mustn't/don't have to/may/might/should; feelings adjectives | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 3, Lesson 2, printed p.33 |
 | Office Clerks Unit 5.2 “Pieces of advice on organising a trip” — advice-giving texts | Greece, English for Office Clerks, Unit 5.2, printed p.257 |
 | Study skills (setting goals, time management, organisation, note-taking) and modals for advice (ought to, had better, might want to, why don't…) (The unit's grammar box, printed p.29, prints the model sentence “She might not want go out this weekend” with the “to” missing; taught corrected.) | Mongolia, English XII, Unit 2, printed pp.28–30 |
+| Should / shouldn't for advice — the modal chart | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 33–34, printed pp.147–152 |
+| Should for recommendations (Staying Healthy) | Nicaragua, Grade 8 Módulo Autoformativo, Unit 4A, printed p.90 |
+| The module's back-matter grammar chart of the modals (may / should…) | Nicaragua, Grade 8 Módulo Autoformativo, grammar chart, printed p.113 |
+| Should with imperatives, affirmative and negative, in the road-safety lessons | Nicaragua, Grade 9 Módulo Autoformativo, Units 1B–1C, PDF pp.22–41 |
+| Should for obligation and advice (no -s in the third person) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
+| Should for opinions and suggestions (Pollution) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 4B |
 
-**Acceptance count: taught in 14 countries (Malaysia,
-Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
+**Acceptance count: taught in 15 countries (Malaysia,
+Nepal, Albania, Libya, India, Jordan, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 6 'Problem Page' advice-letter lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Malaysia gives
 the advice family whole at Form 1 — should, How about…?
 and If I were in your shoes… worked from four problem
 situations — and enters had better in its Form 5 grammar.
@@ -179,3 +185,15 @@ READING-QUEUE.md).
 Mauritania gives advice with the full modal ladder in its
 Grade 8 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico advises at community scale: individual goals that encourage the collective well-being (Grade 7), and a community life project with goals and safe environments (Grade 8) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -182,6 +182,19 @@ verification sweep.
 | The set's first full sentence models — "It is an ant.", "It is a ball.", "It is a car.", "It is a desk.", "It is an eagle.", "It is a fox." — read, copied, and answered with ("What is this?") | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Six, printed pp.58–59 |
 | The model frame turns: "This is a glass.", "This is an ice cream." as the next unit's sentence set | Afghanistan, *English for Afghanistan: Let's Start*, Grade 4, Unit Seven, printed p.67 |
 | Sentences joined into one by relative clauses — who/that for people, which/that for things, when for time, where for place — with completion and sentence-making | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 10, Lesson 1, printed pp.101–102 |
+| "What's this? It's a…" — the naming pattern | Nicaragua, Activity Book 1 (Grade 1), adjustment period, printed pp.6–7 |
+| "It's… / It isn't…" — animal descriptions | Nicaragua, Activity Book Multigrado, Unit 3, printed pp.24–29 |
+| Verb be — contractions and negatives (I'm, isn't…) | Nicaragua, Activity Book 3 (Grade 3), Unit 3, printed pp.15–16 |
+| Verb be (am/is/are), worked through the unit | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed pp.29–48 |
+| Simple present — its first full treatment | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 2, printed p.47 (PDF p.53) |
+| Simple present negatives — don't / doesn't | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 3, printed pp.49–78 |
+| Third-person -s/-es — the spelling (-es after ch/sh/ss/x/z; go→goes) and the sounds /s/, /z/, /ɪz/ | Nicaragua, Secondary English, Grade 7 Student's Book, Unit 3, printed pp.49–78 |
+| The parts of speech named — article, noun, verb, adjective | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
+| A typical day — the daily routine in the simple present | Nicaragua, Grade 7 Módulo Autoformativo, Unit 4 |
+| The simple present — its full conjugation table | Nicaragua, Grade 7 Módulo Autoformativo, Unit 4 |
+| Simple present and be — a revision opening | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed pp.2–16 |
+| Verb be — the full paradigm | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
+| Simple present — the full paradigm | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1 |
 
 | Subject, verb and object named and worked: subject, verb and object underlining, with transitive and intransitive verbs named, and subject/predicate work beside it | South Africa — English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks), printed pp.116–117 |
 | Simple sentences built as subject + predicate | South Africa — English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks), printed p.39 |
@@ -312,9 +325,9 @@ verification sweep.
 | Identify and use subject and predicate in text | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.1.2, PDF p.52 (curriculum evidence) |
 | Identify and use subject and predicate in texts | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.3, PDF p.121 (curriculum evidence) |
 | Create effective descriptive sentences when | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 4 (Writing), standard B9.4.2.1, PDF p.128 (curriculum evidence) |
-**Acceptance count: taught in 33 countries (Bangladesh,
+**Acceptance count: taught in 34 countries (Bangladesh,
 Bolivia, Ghana, Mongolia, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua).** India joins with "there" and "it" as empty subjects, as a teacher-note point in Class 6 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia states the formula;
 Ghana names the two parts; Bangladesh drills the building
 from tables; Mongolia checks the order; China adds the
 this/these, that/those sentence system, taught as one
@@ -377,3 +390,21 @@ READING-QUEUE.md).
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 builds sentences at the command level: position imperatives and preposition Bingo (printed p.13); classroom commands in affirmative and negative pairs, *Don't …* arriving here first in the series (printed p.18); and imperatives carrying the object *it*, then negated (printed p.24). Its Activities half (printed pp.41–80) works the same ground in writing — reordering, matching-and-writing, gap-spelling — at Grade 1's ceiling, one step up in a joined hand.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: classroom imperatives with please (open/close/sit/pass me) as whole commands (p.13); *Super Minds* 1, Year 2: there's a / there are for what is in a room (p.71); Get Smart Plus 3: imperatives for rules, positive and negative (Don't talk / Don't take photos / Be quiet) matched to places (pp.68–69); Get Smart Plus 4: the Grammar Reference: full paradigm tables for every structure in the book (the book's own grammar ceiling, pp.161–167) (pp.161–167).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 7:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

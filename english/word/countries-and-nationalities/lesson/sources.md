@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua
 
 Every part traces to its book and page.
 
@@ -29,8 +29,12 @@ covers the 6th Year book only).
 | Countries and nationalities — Morocco→Moroccan, Algeria→Algerian, Mali→Malian, England→English, Japan→Japanese — with jobs words | Mauritania, Study English, Grade 7, printed pp.21–22 |
 | “My country” — countries and nationalities; I'm from…; Where are you from? | Greece, Αγγλικά (Anglika) Grade 4 Pupil's Book, Unit 3, Lesson 1, printed pp.33–37 |
 | Languages spoken in European countries (which language in France, Spain, Poland) | Mongolia, English XI, Unit 1, printed p.9 |
+| Nationality — saying where people are from | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
+| Countries, capitals, population, currency, languages — "Where is my country?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed p.24 |
+| The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
+| Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Iran, Mauritania, Greece, Mongolia).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -38,3 +42,13 @@ Mauritania re-verification sweep merge). Mongolia joins with English XI, its Gra
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the compendium's Year 1 countries-and-nationalities set with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The Grade 7 student book's own countries-and-nationalities teaching (printed pp. 13–14) is stocked in Hello and Your Name, where its introduction dialogue lives; this lesson carries the compendium's paired set. The Bolivia source here is the teacher compendium — teacher-compilation evidence, cited as such, never as a student's book. Iran joins (stocked 2026-11-09 by the re-verification sweep merge): Prospect 2 opens Grade 8 with the country/nationality system as a whole lesson of its own, and its workbook practises the system on a labelled map and FIFA rankings.
 
 Searchable tag: the book's own name for this part is “countries and nationalities” (compendium Year 1).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

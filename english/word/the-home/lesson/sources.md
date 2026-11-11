@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -202,6 +202,12 @@ verification sweep.
 | The home word set worked across the "Around the house" theme — the house, its rooms and the things in them | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), Theme 6 "Around the house," printed pp.36–67 |
 | The new house as a whole unit's world — bedrooms, bathrooms, living room, kitchen, garden, swimming pool — with there is / there are statements and questions over it | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 6, Lessons 1 and 4, printed pp.53–54 and 59–62 |
 | A whole unit inside one room: bed cover, pillows, curtains, lamp, mirror — and where each thing is (in, on, under, in front of) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 7, printed pp.64–72 |
+| Furniture words — the "Where is it?" unit's set | Nicaragua, Activity Book Multigrado, Unit 5, printed pp.35–38 |
+| Rooms of the house | Nicaragua, Activity Book Multigrado, Unit 7, printed pp.43–46 |
+| Sharing housework — the home-chores word set | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 14, printed p.67 |
+| Rooms at home | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 19, printed p.108 |
+| Home appliances and features | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 20, printed p.117 |
+| Parts of the house and furniture | Nicaragua, Grade 7 Módulo Autoformativo, Unit 3 |
 
 | The five rooms as the house set — garden, living room, kitchen, bathroom, bedroom — with "Where's…? He's in the…", the negative "He isn't in the…", and in / on with a mouse and a box ("The mouse is in the box," p.35) | Syria — Emar English Series, Pupil's Book 1, Unit 11 "My House," pp.34–36 |
 | Rooms and furniture as a whole unit, with there is / there are in negatives and questions | Syria — Emar English Series, Pupil's Book 4, Unit 4 "My House," pp.12–14 |
@@ -262,9 +268,9 @@ verification sweep.
 | “Feel at home!” — there is/are, some/any, prepositions of place; my room, places and buildings | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 2, Lesson 3, printed p.18 |
 | Workbook “Feel at home!” — new texts: signs and notices; an article about London; writing a paragraph about a girl's neighbourhood | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 2, Lesson 3, printed p.17 |
 | Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
-**Acceptance count: taught in 34 countries (Egypt, Libya,
+**Acceptance count: taught in 35 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua).** India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -338,3 +344,13 @@ reading passage is a house text with written answers (p.117).
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2 opens on the home: its first lesson names the rooms of a house — bedroom, living room, kitchen, bathroom — and puts the furniture in its room with *put … in* (Unit 1, Lesson 1, printed p.1), the earliest rooms presentation in the Sudan set. Its family unit closes by locating each named family member in a room ("He's in the living room", Unit 2, Lesson 8, printed p.16).
 
 **Malaysia — primary pupil's books added 2026-11-06** — 2 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 2: rooms of a house (bathroom, bedroom, living room, hall, dining room, kitchen, stairs, cellar) (p.70); Get Smart Plus 3: furniture words and prepositions (upstairs/downstairs, behind, in front of, next to) (pp.45–46). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 2 rooms row; the Year 3 rooms/furniture row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

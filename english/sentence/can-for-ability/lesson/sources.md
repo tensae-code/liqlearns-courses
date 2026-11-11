@@ -1,6 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania, India
+countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -52,8 +52,15 @@ verification sweep.
 | Ability and inability: can/can't/cannot, can-questions and short answers (the book's model exchange at printed p.48 mismatches its answer — "Can you speak English? … Of course he can"; taught corrected) | Mauritania, Study English, Grade 7, printed pp.48–50 |
 | Can/could for ability, probability, suggestion and surprise — He can drive a car; You can't be serious | Mauritania, Study English, Grade 12, printed pp.7–9 |
 | Ability with can/cannot as talk time: the road-safety rhyme "Stop, Look and Listen" before crossing, and sentences with can/cannot (I ___ hear the sound of cars / the train whistle / the dogs barking) — the placements marked this NEW LESSON NEEDED: ability-with-can; it is stocked here because Can for Ability already teaches exactly this (routing noted 2026-11-09 by the India re-verification sweep merge) | India — Marigold Book Three (Class 3), Unit 6 Talk time, printed p.60 |
+| Can for ability and permission, with the other modals named (must, may, might, will, would, should) | Nicaragua, Grade 8 Módulo Autoformativo, Unit 3C, printed p.84 |
+| Can / can't for abilities — the things a worker can make or do | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
+| Can / can't afford, with "in" for time left — "It leaves in ten minutes" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1, PDF p.16 |
+| Can / can't for permission — "You can park here / You can't smoke here" | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2, PDF pp.48, 72 |
+| Can for job skills — affirmative, negative and questions | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3A, PDF p.78 |
+| Can / can't for ability | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2 |
+| Can for ability, possibility and permission | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
 
-**Acceptance count: taught in 5 countries (Bolivia, Iran, Indonesia, Mauritania, India).** India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua).** India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania
@@ -66,3 +73,17 @@ Iran joins (stocked 2026-11-09 by the re-verification sweep merge): Prospect 2 t
 Indonesia joins (stocked 2026-11-09 by the re-verification sweep merge): its Grade 4 book teaches can/cannot for ability in primary school — "I can see the trees. I cannot catch the ball." The same book pair's permission face (the Grade 5 library rules) is housed in the sibling lesson Can for Rules.
 
 Searchable tag: the books' own names for these parts are “Modal verb CAN” (Primaria 4), “CAN” (Secundaria 2), “COULD” (Secundaria 3) and “Can” / “Could” (compendium Years 2–3); Iran's part is “My Abilities” (Prospect 2, Lesson 3).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 2:** *Secondary English, Grade 9* — student's book — Nicaragua, Ministerio de Educación (MINED), 144 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 9* — self-study module — Nicaragua, Ministerio de Educación (MINED), 224 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

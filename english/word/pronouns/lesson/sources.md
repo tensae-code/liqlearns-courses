@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -256,6 +256,10 @@ verification sweep.
 | Subject pronouns I, you, he, she, we, they, it shown with the present simple in parallel columns, third-person -s visible in the matching column ("He opens a book", "She turns to page 34") | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.26 |
 | Subject pronouns and possessive adjectives as one printed table (I/my, you/your, he/his, she/her, it/its, we/our, they/their) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 5, Lesson 2, printed pp.44–45 |
 | Whose-questions worked from possessive adjectives and possessive pronouns together (my/mine, your/yours, his/his, her/hers, our/ours, their/theirs) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 9, Lesson 3, printed pp.86–87 |
+| "This is my / These are my", with "I have (number)…" — describing a monster | Nicaragua, Activity Book 1 (Grade 1), Unit 7, printed pp.42–45 |
+| This is / These are | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.8–9 |
+| The pronoun system in one table — personal pronouns including object pronouns, possessive adjectives, possessive pronouns, reflexive pronouns | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1, PDF p.12 |
+| A pronoun-correction exercise (Additional Activities) | Nicaragua, Secondary English, Grade 10 Student's Book, Additional Activities |
 
 | Subject and object pronouns as the first unit's language focus, inside the countries unit ("Listen to me," p.11) | Syria — English, Pupil's Book 6, Unit 1 "Countries," pp.8–11 |
 | Possessive adjectives against possessive pronouns as the theatre unit's grammar point — the standing-alone forms in work ("The ticket is mine," p.15) | Syria — English, Pupil's Book 6, Unit 2 "At the Theatre," pp.12–15 |
@@ -339,8 +343,8 @@ verification sweep.
 | Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
 | The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
 | Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India).** India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua).** India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -404,3 +408,15 @@ Mauritania re-verification sweep merge). Mexico's Grade 7 book sets the subject-
 **Sudan — SMILE Starter 2 / Book 6 (G6) added 2026-11-06** — 2 further Sudan books stock this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed); **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Starter 2 names the subject pronouns as a set — *I, you, he, she, we, they*, the Book Map grammar of its routine unit (printed p.15; Book Map printed pp.81–82) — and works possessive *our* and negative *hasn't got* in its two-birds story (printed p.21). Book 6 (Grade 6) teaches the relative clause with *who* as a defining frame — "A carpenter is someone who works with wood" (printed p.15), then *who* definitions for six more people (printed p.20) — the first *who*-clause teaching in the held basic-level books, filed here with the relative-pronoun stock above.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. **Book:** *Academy Stars* Pupil's Book, Year 6 (pupil's book) — Malaysia, Macmillan Education / Institut Terjemahan & Buku Malaysia for the Ministry of Education Malaysia, first published 2021, ISBN 978-967-460-874-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — Get Smart Plus 4: object pronouns (me, you, him, her, it, us, them) inside the Module 7 song (p.71); indefinite pronouns someone/something, anyone/anything, no one/nothing, everyone/everything (pp.75–76); English Plus 1: object pronouns, taught with past simple affirmative and negative (didn't + base verb) (p.75); Academy Stars Year 6: indefinite pronouns and adverbs in a full table: someone/somewhere/something, anyone/anywhere/anything, no one/nowhere/nothing (p.112). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 4 row; the Year 6 row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 4:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

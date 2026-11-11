@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua
 
 Every part traces to its book and page.
 
@@ -265,6 +265,17 @@ verification sweep.
 | Number words taught as a listen-and-repeat table — one to twenty, then thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred — with choose-the-word and write-in-number-form exercises up to ninety. This is the series' first numbers teaching: Grade 4 teaches no numbers, colours, days or time at all | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 4, printed pp.37–38 |
 | Numbers listed from 21 upward in a table running to 500, beside saying and writing phone numbers digit by digit | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 1, Lesson 2, printed pp.4–5 |
 | Ordinal numbers listed whole, 1st to 100th (first … hundredth, with fortieth, fiftieth, eightieth, ninetieth) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 7, Unit 15, Lesson 3, printed pp.147–148 |
+| Numbers 1–10 (the old filing's front notes said 1–5 — the book teaches 1–10; sweep diff, flag F2) | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.17–19 |
+| Numbers 1–10 again, with "How old are you?" | Nicaragua, Activity Book Multigrado, Unit 2, printed pp.19–20 |
+| Numbers 11–20 | Nicaragua, Activity Book Multigrado, Unit 7, printed p.46 |
+| Saying and reading phone numbers | Nicaragua, Activity Book 3 (Grade 3), Unit 1, printed pp.6–7 |
+| Number words 27–69, worked inside puzzle clues (one clue is impossible as printed — "greater than fifty-three but less than fifty-one", printed p.37 — an error in the book, taught corrected) | Nicaragua, Activity Book 4 (Grade 4), Unit 5, printed pp.36–38 |
+| Numbers 1–100 — the revision set | Nicaragua, Activity Book 4 (Grade 4), Unit 9, printed p.65 |
+| Numbers 1–10 | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 3, printed p.8 |
+| Numbers 11–20 (the contents list says "10 to 20"; the unit header says 11–20) | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 5, printed p.21 |
+| Numbers 20–100 | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 11, printed p.50 |
+| Cardinal and ordinal numbers 0–100 | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
+| Phone numbers | Nicaragua, Grade 7 Módulo Autoformativo, Unit 1 |
 
 | Numbers in two small climbs inside the first year: 1–5 in the classroom unit ("One two three, four and five," p.11), then 6–10 with ages and "How old are you?" | Syria — Emar English Series, Pupil's Book 1, Unit 3, pp.9–11; Unit 9 "My Birthday," pp.27–29 |
 | The climb past ten: numbers 11–20 taught with counted picture rows and a counting song ("There are eleven dolls," p.22), with "How many… are there?" | Syria — Emar Syrian Series, Pupil's Book 2, Unit 7 "At the Toy Shop," pp.22–24 |
@@ -371,9 +382,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 35 countries (Egypt, India,
+**Acceptance count: taught in 36 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico).** India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua).** India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -467,3 +478,19 @@ a whole song that sings three numbers (p.14).
 **Sudan — SMILE Starter 2 / Book 6 (G6) added 2026-11-06** — 2 further Sudan books stock this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed); **Book:** *SMILE Book 6 — Pupil's Book — Grade 6: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition, no year printed, no ISBN printed. Filed in english/books/sudan.md (Grade 6 — SMILE Book 6, Pupil's Book section, FULLY READ 2026-11-06; CITATION CHECK 2026-11-06 — 22 anchors, 21 passed, 1 not found — anchor E22, a back-matter heading wording that comes from the book's Contents and is NOT verified on printed p.119, and which no row in this lesson cites). Starter 2 adds addition in words — three numbers joined with *and* and totalled with *make* (Unit 3, Lesson 4, printed p.20). Book 6 (Grade 6) widens the range at both ends of its numbers unit: dates said in full with ordinals and years (Unit 2, Lesson 1, printed p.9), and cardinals to 100,000 with body statistics guessed aloud (Lesson 3, printed p.11).
 
 **Malaysia — primary pupil's books added 2026-11-06** — 3 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *Get Smart Plus 3* Student's Book (pupil's book, Year 3) — Malaysia, MM Publications with Syarikat Arena Ilmu, no year printed in the copy, ISBN 978-983-805-039-5 (the held copy is defective — printed pp.60–61 and p.113 are missing — and no row in this lesson rests on those pages). **Book:** *Get Smart Plus 4* Student's Book (pupil's book, Year 4) — Malaysia, MM Publications, Malaysian edition first published 2019, ISBN 978-967-0460-38-3. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: numbers 1–10 and asking age / saying your age (p.5); numbers 11–20 and writing a shopping list with quantities (p.52); Get Smart Plus 3: counting in tens to 100 and have/has got questions with short answers (pp.6–7); Get Smart Plus 4: ordinal numbers 1st–31st and saying dates and birthdays (p.37); money in ringgit and sen, ticket prices, in a bus-ticket dialogue for Cyberjaya (p.64). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 1 numbers 1–10 row; the Year 1 numbers 11–20 row; the Year 3 numbers-to-100 row; the Year 4 ordinals row. Malaysia's numbers stock in this lesson is no longer mapped-only: every primary row is now a direct pupil's-book row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book 1* — activity book, Grade 1 — Nicaragua, Ministerio de Educación (MINED), 53 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 4:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 5:** *Secondary English, Grade 7* — student's book — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+**Book 6:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

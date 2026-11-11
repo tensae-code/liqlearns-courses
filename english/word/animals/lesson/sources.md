@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua
 
 Every part traces to its book and page.
 
@@ -230,6 +230,8 @@ verification sweep.
 | Farm babies and pets — the mothers matched with their young | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), printed pp.18–19 |
 | The zoo set named and drilled — elephant, bear, lion, parrot, duck, peacock, camel, donkey, horse, with tiger joining in the drills — through word search, unscrambling and picture work | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 9, printed pp.91, 93–94 and 97–98 |
 | Animal facts in the same unit's sentences: "Lions live in jungle.", "Bears eat honey.", "Elephants eat grass." | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 9, printed pp.97–98 |
+| Animal words — including opossum, fox, donkey, owl | Nicaragua, Activity Book Multigrado, Unit 3, printed pp.24–29 |
+| Animal words and animal descriptions (the unit prints "dessert" for desert and "Came" for Camel at printed p.43 — errors in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 7, printed pp.43–49 |
 
 | The zoo set for the youngest learners — tiger, elephant, rabbit, monkey, parrot — with "There is a… / There are…", "Is there…? Are there…?" and big / small ("Look! There are four elephants," p.50) | Syria — Emar English Series, Pupil's Book 1, Unit 16 "Animals," pp.50–52 |
 | Baby animal names as their own set — puppy, kitten, duckling, chick, bunny — with can / can't extended to animals ("Can chicks walk? Yes, they can") | Syria — Emar Syrian Series, Pupil's Book 2, Unit 11 "Baby Animals," pp.35–37 |
@@ -310,9 +312,9 @@ verification sweep.
 | “Let's go to the zoo!” — describing animals and their habits; the imperative form | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 4, Lesson 1, printed p.42 |
 | Workbook Unit 4 (Ecofriendly), lessons 1–3 — practice of the imperative, can/can't and must/mustn't with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 4 (contents PDF p.6) |
 | The Beginners teacher's guide for Unit 4 “Ecofriendly!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.41 |
-**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India).** India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua).** India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -370,3 +372,11 @@ countries join as their books are read (see READING-QUEUE.md).
 **Sudan — SMILE Starter 2 added 2026-11-06** — 1 further Sudan book stocks this lesson: **Book:** *SMILE Starter 2 — Pupil's Book — Grade 2: Basic Level* (pupil's book) — Sudan, The National Centre for Curricula and Educational Research (NCCER), 2nd Edition 2020, no ISBN printed. Filed in english/books/sudan.md (Grade 2 — SMILE Starter 2, Pupil's Book section, FULLY READ + CITATION CHECK PASSED 2026-11-06 — 22 anchors, 22 passed). Starter 2's animals unit is the richest in the early Sudan set. Animal homes are paired with *have got* in its first unit (printed p.8); the Nile animals are measured — metres long, teeth, laying eggs or not (printed p.26); six animals are placed on a map of Sudan itself (printed p.27); the "Name the Animal" riddle game identifies animals from what they can do (printed p.29); and the closing animal poem is printed twice, the second time joined with *and* and *but* (printed p.32). One script slip on the map lesson ("Snakes lives in deserts") is filed in the country file as a slip and is not taught here.
 
 **Malaysia — primary pupil's books added 2026-11-06** — 2 further Malaysia books stock this lesson, read directly: **Book:** *Super Minds Student's Book 1* (pupil's book; one volume serving Year 1, printed pp.4–57, and Year 2, printed pp.58–117) — Malaysia, Cambridge University Press, first published 2012 (this copy 15th printing 2015), ISBN 978-0-521-14855-9. **Book:** *English Plus 1*, Second Edition, Student's Book (pupil's book, Year 5) — Malaysia, Oxford University Press (Malaysian adaptation by My Bookstore Sdn Bhd for the Ministry of Education Malaysia), first published 2021, ISBN 978-967-18342-0-6. All filed in english/books/malaysia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — 130 anchors tested across the five books, 129 passed exactly as cited, 1 corrected in place, 0 not found). Malaysia was already stocked in this lesson, so its countries line and acceptance count do not move; what changes is the evidence — primary stock previously carried as Scheme of Work / mapped coverage (or held only in the secondary books) is now stocked from the pupil's books themselves. Direct stock now read in the pupil's books — *Super Minds* 1, Year 1: pet/animal words (elephant, rat, lizard, frog, spider, duck, dog, cat) (p.34); *Super Minds* 1, Year 2: wild animals matched to habitats (tiger, parrot, camel, goat, polar bear, shark, jellyfish, penguin) (p.79); English Plus 1: animal names through the Creature Close-ups guessing game (pp.32–33). Mapped-to-direct upgrades in this lesson (the Scheme of Work rows are replaced by the pupil's-book rows above): the Year 1 pets row; the Year 5 Wild Life row.
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.

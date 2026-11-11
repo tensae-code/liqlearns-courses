@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua
 
 Every part traces to its book and page.
 
@@ -96,9 +96,10 @@ differ only in cover wording and colophon; cited once.
 | “E-shopping” — ordering and buying goods; filling in an online order | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 2, Lesson 3, contents p.vi |
 | Containers and quantities for shopping (a jar of, a bar of, a carton of, a loaf of) | Mongolia, English XI, Unit 8, printed p.123 |
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
+| "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 11 countries (Cambodia,
+Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua).** Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -128,3 +129,9 @@ READING-QUEUE.md).
 Mauritania shops in its Grade 7 book — identifying things and
 prices in ouguiya (MRU) (stocked 2026-11-09 by the Mauritania
 re-verification sweep merge). Mexico's Grade 8 book shops in dialogue: three teenagers talk about their newest technology purchases (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+
+## Nicaragua added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
+
+The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
