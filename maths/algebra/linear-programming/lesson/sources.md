@@ -24,10 +24,10 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 
 | Lesson part | Where it comes from |
 |---|---|
-| Linear programming introduced: a real situation's limits written as a system of linear inequalities in two variables | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 234–237 |
-| Drawing the system: boundary lines, solid and dashed, a test point, and the feasible region shaded where all inequalities hold at once | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 237–240 |
-| The objective function stated for the situation (profit, cost and similar quantities) | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 240–242 |
-| Maximum and minimum problems solved by evaluating the objective function at the vertices of the feasible region | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 242–244 |
+| Linear programming introduced: a real situation's limits written as a system of linear inequalities in two variables | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.1, printed pp. 234–239 |
+| Drawing the system: boundary lines, solid and dashed, a test point, and the feasible region shaded where all inequalities hold at once | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.1, printed pp. 234–239 |
+| The objective function stated for the situation (profit, cost and similar quantities) | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.1, printed pp. 234–239 |
+| Maximum and minimum problems solved by evaluating the objective function at the vertices of the feasible region | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.2, printed pp. 240–245 |
 | Using systems of linear inequalities to solve linear-programming problems | Vietnam, Grade 12 study book (Chuyên đề học tập Toán 12), Chuyên đề 2 Bài 3 "Vận dụng hệ bất phương trình bậc nhất hai ẩn để giải quyết một số bài toán quy hoạch tuyến tính" (using systems of linear inequalities to solve linear-programming problems), printed p. 23 |
 
 | Linear programming — The objective function, the constraints, the feasible region (فضاء الحل), and the fact that the optimum occurs at a corner vertex of the region's polygon (7-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 201 |

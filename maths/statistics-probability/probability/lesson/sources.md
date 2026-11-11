@@ -481,6 +481,7 @@ Every part traces to its book and page.
 | Sample spaces and events; listing outcomes, including two-stage experiments as ordered pairs | Malaysia, Mathematics Form 2, Ch. 13 §13.2, printed pp. 280–284 |
 | Theoretical probability for equally likely outcomes, P(A) = n(A)/n(S) | Malaysia, Mathematics Form 2, Ch. 13 §13.2, printed pp. 284–286 |
 | The probability of the complement of an event, P(A′) = 1 − P(A) | Malaysia, Mathematics Form 2, Ch. 13 §13.3, printed pp. 287–289 |
+| Simple probability problems that combine the three methods — experimental probability, equally likely outcomes and the complement rule applied together in one problem | Malaysia, Mathematics Form 2, Ch. 13 §13.4, printed pp. 290–293 |
 | Combined events: two-stage experiments whose sample space is listed and drawn as a tree diagram | Malaysia, Mathematics Form 4, Ch. 9 §9.1, printed pp. 244–245 |
 | Mutually exclusive and non-mutually exclusive events shown on Venn diagrams; the addition rule P(A or B) = P(A) + P(B) − P(A and B), reducing to P(A) + P(B) for mutually exclusive events | Malaysia, Mathematics Form 4, Ch. 9 §9.3, printed pp. 253–261 |
 | At-least-one probability found by adding tree branches or by the complement (1 − (11/13)² = 48/169) | Malaysia, Mathematics Form 4, Ch. 9 §9.3, Example 11, printed p. 260; §9.4, printed pp. 262–267 |
@@ -708,7 +709,7 @@ Syria introduces probability in Grade 7 — favourable over total, the 0-to-1 li
 
 Saudi Arabia words probability carefully: certain/impossible and more/less likely in Grade 2 with a draw-and-tally experiment, the four terms again in Grade 3, and in Grade 4 the numerical form "k out of n" with the half-the-total judgement — witnessed by the older 1445 Term-3 volume.
 
-Malaysia teaches probability in Form 2 from experiments to the complement rule, then combined events in Form 4 — tree diagrams, the addition rule on Venn diagrams, and at-least-one problems.
+Malaysia teaches probability in Form 2 from experiments to the complement rule and the simple problems that combine all three, then combined events in Form 4 — tree diagrams, the addition rule on Venn diagrams, and at-least-one problems.
 
 Rwanda teaches probability from chance games in Primary 4, through the vocabulary of chance and recorded experiments in Primary 5–6, to the full Senior 1 course — sample space, experimental and theoretical probability and the complement rule — with tree diagrams in Advanced Senior Five and a Bayes' theorem evaluation question in Advanced Senior Six.
 
