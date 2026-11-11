@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Azerbaijan, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea
 
 Every part traces to its book and page.
 
@@ -1171,7 +1171,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 55 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 56 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Azerbaijan, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -2045,3 +2045,39 @@ The 2026-11-10 expansion read read Djibouti's whole in-hand Maths set from the P
 Djibouti enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — the only document in Djibouti's in-hand set is a CRIPEN teacher's guide (Grade 5, édition 2023), not a pupil textbook, cited as the evidence kind it is, never counted as pupil teaching (the standing Ghana evidence-only precedent). Djibouti's class for Maths is PARTIAL (teacher-evidence-only): the 1 in-hand book is read in full and stocked, but no pupil textbook is in hand — the matching « À MOI LES MATHS » Grade 5 pupil manuel and livret exist and are named by the guide itself, but no complete pupil Maths file is held, and the located student Maths files are link-only partial extracts, unread.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/djibouti-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 15 items from Book 1, Book 2, Book 3, Book 4 and Book 5.
+
+**Book 1:** *Mathematics for Grade 1, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education; 1,687,625 bytes, 91 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 2). (No © line in the book's text layer; its contents and Ch. 1 title page were read from rendered pages and interior-verified as the Eritrean MoE book in the 2026-10-25 hunt.)
+
+**Book 2:** *Mathematics for Grade 2, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2009; 4,598,107 bytes, 93 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 4). A second Telegram copy of this book in the hunt folder is MD5-identical to the staged copy — one book, cited once.
+
+**Book 3:** *Mathematics for Grade 3, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2016; 4,716,196 bytes, 159 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 8). A second Telegram copy of this book in the hunt folder is MD5-identical to the staged copy — one book, cited once.
+
+**Book 4:** *Mathematics for Grade 4, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education; 3,979,886 bytes, 176 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 8).
+
+**Book 5:** *Mathematics for Grade 5, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2010; 1,574,172 bytes, 190 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 7). Record fault, not carried into the course as fact: a dirzon listing called this book a teacher book — its interior title page says Student's Book; the interior wins (already corrected in the download list, 2026-10-25).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measurement: comparing sizes and lengths — longer/shorter, bigger/smaller, with rulers and ropes pictured | Eritrea — *Mathematics for Grade 1, Student's Book* (student textbook), Grade 1, printed p. 40 |
+| Weight: comparing how heavy things are | Eritrea — *Mathematics for Grade 1, Student's Book* (student textbook), Grade 1, printed p. 70 |
+| Capacity: how much containers hold, measuring with a cup | Eritrea — *Mathematics for Grade 1, Student's Book* (student textbook), Grade 1, printed p. 82 |
+| Length: measuring and comparing lengths | Eritrea — *Mathematics for Grade 2, Student's Book* (student textbook), Grade 2, printed p. 56 |
+| Weight | Eritrea — *Mathematics for Grade 2, Student's Book* (student textbook), Grade 2, printed p. 63 |
+| Capacity / volume | Eritrea — *Mathematics for Grade 2, Student's Book* (student textbook), Grade 2, printed p. 68 |
+| Length: measuring, metres and kilometres (1 km = 1,000 m) | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 106 |
+| Weight | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 115 |
+| Capacity: litres and millilitres (1 litre = 1,000 ml; ½ litre = 500 ml) | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 120 |
+| Length | Eritrea — *Mathematics for Grade 4, Student's Book* (student textbook), Grade 4, printed p. 101 |
+| Weight | Eritrea — *Mathematics for Grade 4, Student's Book* (student textbook), Grade 4, printed p. 106 |
+| Capacity of liquids | Eritrea — *Mathematics for Grade 4, Student's Book* (student textbook), Grade 4, printed p. 107 |
+| Length | Eritrea — *Mathematics for Grade 5, Student's Book* (student textbook), Grade 5, printed p. 109 |
+| Weight | Eritrea — *Mathematics for Grade 5, Student's Book* (student textbook), Grade 5, printed p. 112 |
+| Capacity of liquids | Eritrea — *Mathematics for Grade 5, Student's Book* (student textbook), Grade 5, printed p. 114 |
+
+Eritrea is added to the countries line and to the acceptance count above — 15 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

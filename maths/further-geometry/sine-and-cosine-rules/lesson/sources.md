@@ -1,6 +1,6 @@
 # Sources — Sine and cosine rules
 
-countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Bahamas, Australia, Brazil, Costa Rica, Cuba
+countries: Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Sri Lanka, Colombia, Andorra, Bahamas, Australia, Brazil, Costa Rica, Cuba, Eritrea
 
 Every part traces to its book and page.
 
@@ -198,7 +198,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Using the sine of the angle to find the area of the triangle | Jordan, Grade 10 Student Book Term 1, Unit 4, Lesson 4, printed p. 119 |
 | Workbook practice: applications of triangles (T1 U4) | Jordan, Grade 10 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 32 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Colombia, Australia, Brazil, Costa Rica, Cuba).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
+**Acceptance count: taught in 33 countries (Kazakhstan, Egypt, Jordan, Libya, Sierra Leone, Vietnam, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Iraq, Cambodia, Kuwait, Iran, China, Pakistan, Malaysia, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, El Salvador, Colombia, Australia, Brazil, Costa Rica, Cuba, Eritrea).** Iran states and proves both the sine rule and the cosine rule in Grade 11 Geometry (2), and carries trigonometric identities and equations in Grade 11 Hesaban (1), Grade 12 Hesaban (2) and Grade 12 Mathematics (3) — the last naming the double-angle formulas explicitly.
 Kazakhstan carries the fullest treatment — all three Grade 9
 Geometry books prove both rules (by vectors, by coordinates,
 by altitude) and work the standard solving cases, including
@@ -386,3 +386,17 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 1 item from Book 1.
+
+**Book 1:** *Mathematics for Grade 9 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,289,307 bytes, 206 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The law of sines and the law of cosines | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed pp. 145–153 |
+
+Eritrea is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

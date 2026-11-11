@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Bhutan, Costa Rica
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Bhutan, Costa Rica, Eritrea
 
 Every part traces to its book and page.
 
@@ -127,7 +127,7 @@ On Nepal in this lesson: Nepal's compulsory course reaches algebraic fractions i
 | Teacher evidence — Grade 10 companion guide | Nepal, Grade 10 teacher guide — facilitation for the Grade 10 student book's Unit 11, Algebraic fractions |
 | Multiplying and dividing algebraic fractions | Yemen, Grade 9 Part 1, Unit 2, printed p. 90 |
 | Adding and subtracting algebraic fractions | Yemen, Grade 9 Part 1, Unit 2, printed p. 102 |
-**Acceptance count: taught in 26 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen, Sri Lanka, Colombia, Moldova, Australia, Bhutan, Costa Rica).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective. Yemen enters with multiplying, dividing, adding and subtracting algebraic fractions in Grade 9 Part 1, Unit 2.
+**Acceptance count: taught in 27 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal, Yemen, Sri Lanka, Colombia, Moldova, Australia, Bhutan, Costa Rica, Eritrea).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective. Yemen enters with multiplying, dividing, adding and subtracting algebraic fractions in Grade 9 Part 1, Unit 2.
 
 Vietnam carries algebraic fractions in Grade 8 Volume 2 — the concept, the basic property, and adding, subtracting, multiplying and dividing algebraic fractions (Bài 21–24). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -344,3 +344,18 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 2 items from Book 1.
+
+**Book 1:** *Mathematics for Grade 11 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 894,635 bytes, 237 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Operations on rational expressions: simplifying; multiplication and division; addition and subtraction | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 105–126 |
+| Solving rational equations and rational inequalities | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 127–141 |
+
+Eritrea is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

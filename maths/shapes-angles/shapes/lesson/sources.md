@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Bulgaria, Djibouti, Eritrea
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 55 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 56 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Bulgaria, Eritrea).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -2142,3 +2142,48 @@ The 2026-11-10 expansion read read Djibouti's whole in-hand Maths set from the P
 Djibouti enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — the only document in Djibouti's in-hand set is a CRIPEN teacher's guide (Grade 5, édition 2023), not a pupil textbook, cited as the evidence kind it is, never counted as pupil teaching (the standing Ghana evidence-only precedent). Djibouti's class for Maths is PARTIAL (teacher-evidence-only): the 1 in-hand book is read in full and stocked, but no pupil textbook is in hand — the matching « À MOI LES MATHS » Grade 5 pupil manuel and livret exist and are named by the guide itself, but no complete pupil Maths file is held, and the located student Maths files are link-only partial extracts, unread.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/djibouti-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 16 items from Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8 and Book 9.
+
+**Book 1:** *Mathematics for Grade 1, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education; 1,687,625 bytes, 91 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 2). (No © line in the book's text layer; its contents and Ch. 1 title page were read from rendered pages and interior-verified as the Eritrean MoE book in the 2026-10-25 hunt.)
+
+**Book 2:** *Mathematics for Grade 2, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2009; 4,598,107 bytes, 93 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 4). A second Telegram copy of this book in the hunt folder is MD5-identical to the staged copy — one book, cited once.
+
+**Book 3:** *Mathematics for Grade 3, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2016; 4,716,196 bytes, 159 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 8). A second Telegram copy of this book in the hunt folder is MD5-identical to the staged copy — one book, cited once.
+
+**Book 4:** *Mathematics for Grade 4, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education; 3,979,886 bytes, 176 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 8).
+
+**Book 5:** *Mathematics for Grade 5, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2010; 1,574,172 bytes, 190 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 7). Record fault, not carried into the course as fact: a dirzon listing called this book a teacher book — its interior title page says Student's Book; the interior wins (already corrected in the download list, 2026-10-25).
+
+**Book 6:** *Mathematics for Grade 6 Students' Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2015, ISBN 99948-1-451-6; 1,344,038 bytes, 143 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 7).
+
+**Book 7:** *Mathematics for Grade 7 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-582-2; 4,617,402 bytes, 156 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+**Book 8:** *Mathematics for Grade 8 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-590-3; 2,335,055 bytes, 171 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+**Book 9:** *Mathematics for Grade 10 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,777,396 bytes, 231 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shapes: naming and recognising plane shapes in pictures | Eritrea — *Mathematics for Grade 1, Student's Book* (student textbook), Grade 1, printed p. 44 |
+| Geometry: shapes and lines in pictures | Eritrea — *Mathematics for Grade 2, Student's Book* (student textbook), Grade 2, printed p. 49 |
+| Triangles | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 89 |
+| Quadrilaterals | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 92 |
+| Identifying plane shapes | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 96 |
+| Geometric shapes | Eritrea — *Mathematics for Grade 4, Student's Book* (student textbook), Grade 4, printed p. 121 |
+| Geometric shapes, including solids | Eritrea — *Mathematics for Grade 5, Student's Book* (student textbook), Grade 5, printed p. 134 |
+| Plane figures 1: sorting plane figures, classifying triangles, points and lines | Eritrea — *Mathematics for Grade 6 Students' Textbook* (student textbook), Grade 6, printed pp. 65–72 |
+| Sorting solid figures | Eritrea — *Mathematics for Grade 6 Students' Textbook* (student textbook), Grade 6, printed p. 114 |
+| Triangles | Eritrea — *Mathematics for Grade 7 Textbook* (student textbook), Grade 7, printed p. 70 |
+| Quadrilaterals | Eritrea — *Mathematics for Grade 7 Textbook* (student textbook), Grade 7, printed p. 80 |
+| Solid figures | Eritrea — *Mathematics for Grade 7 Textbook* (student textbook), Grade 7, printed p. 115 |
+| Solid figures | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 124 |
+| Attributes of geometric figures | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed p. 36 |
+| Polygons: angle and side properties; sums of interior angles; exterior angles of a triangle and of polygons | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed pp. 56–74 |
+| Polyhedra; cylinders, cones and spheres | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed pp. 106–116 |
+
+Eritrea is added to the countries line and to the acceptance count above — 16 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

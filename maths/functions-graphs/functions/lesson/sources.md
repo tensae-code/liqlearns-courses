@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 48 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba).**.** Egypt carries the
+**Acceptance count: taught in 49 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1230,3 +1230,38 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 9 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 3 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 14 items from Book 1, Book 2, Book 3, Book 4 and Book 5.
+
+**Book 1:** *Mathematics for Grade 6 Students' Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2015, ISBN 99948-1-451-6; 1,344,038 bytes, 143 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 7).
+
+**Book 2:** *Mathematics for Grade 8 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-590-3; 2,335,055 bytes, 171 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+**Book 3:** *Mathematics for Grade 9 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,289,307 bytes, 206 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+**Book 4:** *Mathematics for Grade 10 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,777,396 bytes, 231 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+**Book 5:** *Mathematics for Grade 11 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 894,635 bytes, 237 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Connections between unknowns: matching figures, quantity relationships in baking and box-making activities | Eritrea — *Mathematics for Grade 6 Students' Textbook* (student textbook), Grade 6, printed pp. 38–47 |
+| Graphs of linear equations | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 38 |
+| Describing functions: dependent and independent quantities; relationships in tables, graphs and equations | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed pp. 20–29 |
+| Representing linear functions | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed p. 50 |
+| Graphing linear functions and linear inequalities | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed pp. 54–60 |
+| Quadratic functions: representing and graphing them; effects of parametric changes | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed pp. 82–91 |
+| Graphs of polynomial functions | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed p. 186 |
+| Relations and functions: graphs of functions, function notation | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed pp. 1–16 |
+| One-to-one functions; inverse of a function; graph of the inverse | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed pp. 17–29 |
+| Representing quadratic functions | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed p. 1 |
+| Graphs of quadratic functions | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed p. 30 |
+| Polynomial functions | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed p. 41 |
+| Square root functions: graphs, domain and range, square-root equations, inverses | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 62–70 |
+| Rational functions and graphing them: even and odd functions, asymptotes, graphing techniques | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 71–104 |
+
+Eritrea is added to the countries line and to the acceptance count above — 14 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

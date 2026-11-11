@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea
 
 Every part traces to its book and page.
 
@@ -531,7 +531,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 48 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 49 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -990,3 +990,33 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 6 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 2 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 9 items from Book 1, Book 2, Book 3, Book 4 and Book 5.
+
+**Book 1:** *Mathematics for Grade 3, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2016; 4,716,196 bytes, 159 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 8). A second Telegram copy of this book in the hunt folder is MD5-identical to the staged copy — one book, cited once.
+
+**Book 2:** *Mathematics for Grade 5, Student's Book* (student textbook, Tigrinya medium) — Eritrea, State of Eritrea Ministry of Education, © 2010; 1,574,172 bytes, 190 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 7). Record fault, not carried into the course as fact: a dirzon listing called this book a teacher book — its interior title page says Student's Book; the interior wins (already corrected in the download list, 2026-10-25).
+
+**Book 3:** *Mathematics for Grade 8 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-590-3; 2,335,055 bytes, 171 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+**Book 4:** *Mathematics for Grade 10 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,777,396 bytes, 231 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+**Book 5:** *Mathematics for Grade 11 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 894,635 bytes, 237 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Similar shapes | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 97 |
+| Congruent shapes — shapes equal in every way | Eritrea — *Mathematics for Grade 3, Student's Book* (student textbook), Grade 3, printed p. 101 |
+| Congruent shapes | Eritrea — *Mathematics for Grade 5, Student's Book* (student textbook), Grade 5, printed p. 128 |
+| Congruent figures | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 95 |
+| Similarity | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 104 |
+| Congruency: congruent figures; methods for congruence of triangles; quadrilaterals and congruency | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed pp. 143–170 |
+| Similar polygons | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed p. 167 |
+| Similar triangles: the basic proportionality theorem; methods for similarity of triangles | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 172–187 |
+| Ratios for similar figures: areas and perimeters of similar triangles; ratio of surface area and volume of solid figures | Eritrea — *Mathematics for Grade 11 Textbook* (student textbook), Grade 11, printed pp. 194–200 |
+
+Eritrea is added to the countries line and to the acceptance count above — 9 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

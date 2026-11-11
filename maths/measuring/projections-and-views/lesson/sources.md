@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Andorra, Moldova, Belarus, Belize, Bhutan, Canada
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Andorra, Moldova, Belarus, Belize, Bhutan, Canada, Eritrea
 
 Every part traces to its book and page.
 
@@ -103,7 +103,7 @@ Every part traces to its book and page.
 | Workbook practice: three-dimensional shapes (T2 U8) | Jordan, Grade 8 Workbook Term 2, Unit 8 (workbook evidence) |
 | Drawing the views of a solid (ترسیم‌های هندسی) | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 4, printed pp. 77–96 |
 
-**Acceptance count: taught in 18 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Moldova, Belarus, Bhutan)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 19 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Moldova, Belarus, Bhutan, Eritrea)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 
@@ -241,3 +241,17 @@ The 2026-11-10 expansion read read Canada's whole in-hand Maths set from the PDF
 Canada is added to the countries line above and named in this section's rows as EVIDENCE ONLY — teacher-guide evidence from *Math First Peoples* (and, where they land, pupil evidence from *I Like Math!*) — and is NOT added to the acceptance count: no Canada item is counted in this lesson's taught-in figure, on the Ghana evidence-only precedent. Canada's class for Maths is **PARTIAL (evidence-only)** — the classified in-hand set is one teacher resource guide with no pupil Maths textbook in hand; the five exact-link provincial student textbooks were not read and are cited nowhere.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/canada-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 1 item from Book 1.
+
+**Book 1:** *Mathematics for Grade 10 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,777,396 bytes, 231 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nets and views of solids | Eritrea — *Mathematics for Grade 10 Textbook* (student textbook), Grade 10, printed p. 117 |
+
+Eritrea is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Bhutan, Canada, Costa Rica, Cuba
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea
 
 Every part traces to its book and page.
 
@@ -309,7 +309,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
 | Year revision overview, Pythagoras among it (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 140–144 Revision overview: parts 1–5 (year revision of this grade's placed items), printed pp. 204, 206, 208, 210, 212 |
 
-**Acceptance count: taught in 45 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Bhutan, Costa Rica, Cuba).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 46 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Bhutan, Costa Rica, Cuba, Eritrea).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -626,3 +626,20 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación). Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 2 items from Book 1 and Book 2.
+
+**Book 1:** *Mathematics for Grade 8 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-590-3; 2,335,055 bytes, 171 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+**Book 2:** *Mathematics for Grade 9 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011; 2,289,307 bytes, 206 PDF pp. Pages cited are the book's printed pages (contents-page printed numbers used directly; front matter in roman numerals).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pythagoras' theorem | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 85 |
+| Pythagoras' theorem and solving problems with it | Eritrea — *Mathematics for Grade 9 Textbook* (student textbook), Grade 9, printed pp. 130–135 |
+
+Eritrea is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

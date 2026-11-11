@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal, Australia
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal, Australia, Eritrea
 
 Every part traces to its book and page.
 
@@ -77,7 +77,7 @@ On Nepal in this lesson: dispersion in Nepal sits in the Optional books' statist
 | Mean absolute deviation computed step by step: mean, each value's distance from the mean, average of the distances; software graphs showing mean ± 1 MAD bands (6.4 vs 1.2 for two players) | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 182 |
 | Quartile deviation, mean deviation, standard deviation and coefficient of variation | Nepal, Grade 9 Optional student book, Lesson 5, printed p. 228 |
 | Quartile deviation, mean deviation, standard deviation and coefficient of variation | Nepal, Grade 10 Optional student book, Lesson 11, printed p. 242 |
-**Acceptance count: taught in 14 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal, Australia).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+**Acceptance count: taught in 15 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal, Australia, Eritrea).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
 
@@ -112,3 +112,17 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 1 item from Book 1.
+
+**Book 1:** *Mathematics for Grade 8 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-590-3; 2,335,055 bytes, 171 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measures of variation (dispersion) | Eritrea — *Mathematics for Grade 8 Textbook* (student textbook), Grade 8, printed p. 154 |
+
+Eritrea is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ On Nepal in this lesson: the unitary method is a named lesson in Nepal's books a
 | Unitary method | Nepal, Grade 8 student book, Unit 17, printed p. 136 |
 | Ratios and proportions using the unitary method | South Sudan, Pupil's Book 7, §1.4, printed p. 5 |
 
-**Acceptance count: taught in 16 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 17 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Vietnam carries the reduce-to-the-unit problem type in Grade 4 (Bài 47). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -169,3 +169,17 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Eritrea added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PDFs — **12 books, all student textbooks: Mathematics, Grades 1–12, one book per grade (State of Eritrea, Ministry of Education; Grades 1–5 Tigrinya-medium, Grades 6–12 English), 2,029 PDF pages in total** — and placed 256 teaching items. The expansion map's “12 student + 0 teacher” is exactly right: download-lists/eritrea.md (Telegram hunt 2026-10-25), the staging books.json files, textbooks.tsv and phase3-push-state.json all give the same twelve distinct student textbooks and nothing else; every file's byte size and pdfinfo page count match its record exactly, and every title/copyright page names the State of Eritrea Ministry of Education. No Eritrean Maths teacher guide is in hand (none exists in any record), so every Eritrea row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Eritrea counts in every lesson it stocks. Byte-identical second copies of the Grade 2 and Grade 3 books sit in the hunt folder (MD5-verified) — one book each, cited once. The one teacher-guide-shaped Maths file in the hunt folder is Ethiopian (Grade 6, GEQIP) — not an Eritrean book, excluded from the set entirely and cited nowhere. All twelve books are complete: every book runs to the end of its own contents. The placements' named exclusions — the introductions/prefaces of every book (learner-centred pedagogy addresses, no subject content), and exercises, activities and revision question sets as apparatus (their topics are counted through the sections that teach them, never double-counted) — are stocked nowhere. Printed-page bases differ per book and are stated in each book entry below. Into this lesson the placements stock 1 item from Book 1.
+
+**Book 1:** *Mathematics for Grade 7 Textbook* (student textbook) — Eritrea, State of Eritrea Ministry of Education, © 2011, ISBN 99948-1-582-2; 4,617,402 bytes, 156 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 5).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rate | Eritrea — *Mathematics for Grade 7 Textbook* (student textbook), Grade 7, printed p. 98 |
+
+Eritrea is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
