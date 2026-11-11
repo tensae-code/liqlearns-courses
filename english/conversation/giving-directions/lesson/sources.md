@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Samoa, Uganda, Uruguay
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Eritrea, Samoa, Uganda, Uruguay, Sri Lanka
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 (full-year combo;
@@ -154,7 +154,7 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 31 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Afghanistan, Cyprus, Eritrea, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its direction words and directions work, from left/right/up/down to the Easter egg hunt (stocked 2026-11-11 by the Cyprus expansion merge). Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 32 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Nepal, Ethiopia, Afghanistan, Cyprus, Eritrea, Samoa, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its direction words and directions work, from left/right/up/down to the Easter egg hunt (stocked 2026-11-11 by the Cyprus expansion merge). Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -610,3 +610,22 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Teacher's Guide*, Grade 7 — National Institute of Education (NIE), First Edition 2016 — Sri Lanka. NIE syllabus (38 competency levels) plus guide; teacher-guide evidence. Its appendix prints the Grade 7 textbook's listening texts (the Grade 7 pupil's book itself is not in hand — flag F2). Read in the 2026-11-10 expansion read.
+
+**Book 2:** *English Pupil's Book*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level.
+
+**Book 3:** *English Workbook*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil workbook whose units mirror the Grade 8 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Textbook listening texts printed in the guide (evidence of the Grade 7 pupil book's content): Unit 01 'What You See?', Unit 06 'Better Safe Than Sorry' (food-safety listening), a timetable-change announcement, Unit 09 'Our Beautiful World', Workbook Unit 03 'Pleasure' listening (drawing instructions: triangles, flag, sun, clouds) | Sri Lanka, English Teacher's Guide, Grade 7 (NIE, 2016), pp.35–41 |
+| Unit themes as reading/vocabulary content: planning and weekly plans (Unit 01), birds (02), being considerate (03), travel 'Between the Miles' (05), the world of children (07), beyond the classroom (10) | Sri Lanka, English Pupil's Book, Grade 8 (EPD), printed pp.1–111 (Units 01–10 themes) |
+| Units 2–10: pupil practice for the Pupil's Book units (Winged Friends; Let's Be Considerate; Mother Nature; Between the Miles; When We Are Together; The World of Children; It's a Small World; On Top of the World; Beyond the Classroom) — practice of the grammar placed from the Grade 8 Pupil's Book (practice evidence) | Sri Lanka, English Workbook, Grade 8 (EPD), printed pp.8–80 (Units 2–10) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

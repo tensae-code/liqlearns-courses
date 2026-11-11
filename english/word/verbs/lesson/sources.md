@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -299,6 +299,8 @@ Before, Later"). Jordan carries the third-person plays/doesn't work in Grade 3, 
 are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries action verbs inside first-book doing frames (Grade 1, Unit 8), the verb inside a named word-classes opening in Grade 11 (Unit 1) with transitive, intransitive and linking verbs as that book's Unit 7 grammar, and transitive/intransitive verbs again as Grade 9's Unit 11 Extra bit.
 Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system's memory page in Grade 5 (copy B, printed pp.146–147) and again closing the Grade 8 book (printed pp.153–154), and verb tenses tabulated as a system, with the irregular verbs listed after, in the Grade 7 appendix (printed pp.156, 162–163). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -826,3 +828,20 @@ Book error noted and taught corrected: the Senior One book's Term 3 Lesson 1 ans
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *Activity Based Oral English*, Grade 1 — teacher guide (old edition) — Sri Lanka. A one-page-per-theme oral-English activity guide (songs, games) run inside Environmental Related Activities lessons; the guide's activities are the teaching, so its rows are teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *Activity Based Oral English*, Key Stage 1 (Grades 1 AND 2) — Teacher's Hand Book — National Institute of Education (NIE), 2018 — Sri Lanka. ONE handbook covering both grades (the 2018 replacement for the two old separate guides), filed under both grades as byte-identical assets and cited once (flag F6); teacher-guide evidence. Its Sinhala-medium activity sections (PDF pp.60–73) are the same activities in another medium and are not stocked separately. Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water action verbs (swim, wash, bathe, jump, play) and following 'Simon says' instructions | Sri Lanka, Activity Based Oral English, Grade 1 Teacher Guide (old edition), printed p.4 |
+| Theme 4 Play with Water — vocabulary: swimming, playing, drinking, bathing, washing (-ing action words) | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF p.19 |
+| Theme 4 Play with Water — daily-action vocabulary: float, brush, wash, iron, wear, comb, eat, drink, read, write, go to school; routine song 'This is the way we drink our tea' | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF pp.39–40 |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

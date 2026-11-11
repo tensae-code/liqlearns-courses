@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -349,8 +349,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 39 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 40 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -704,3 +704,26 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 9 — National Institute of Education (NIE), First Edition 2018 — Sri Lanka. NIE syllabus (45 competency levels) plus guide; teacher-guide evidence. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 10 — National Institute of Education (NIE), First Edition 2015 — Sri Lanka. NIE syllabus plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 11 — National Institute of Education (NIE), syllabus implemented 2016 — Sri Lanka. NIE syllabus (72 competency levels — the O/L consolidation year) plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *English Pupil's Book*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. (Grabbed from its recorded Internet Archive source at the exact recorded byte size after the GitHub blob route truncated three times — same book, alternate verified route.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar: conditional clauses Types 1 and 2 — identifying the tenses of main and subordinate clauses and subject–verb agreement inside conditional sentences | Sri Lanka, English Language Teacher's Guide, Grade 9 (NIE, 2018), PDF p.28 (level 6.10) |
+| Grammar: 'if' clauses — identifying the difference between conditional types | Sri Lanka, English Language Teacher's Guide, Grade 10 (NIE, 2015), PDF p.32 (level 6.10) |
+| Grammar: conditional clauses and reported speech used accurately | Sri Lanka, English Language Teacher's Guide, Grade 11 (NIE, 2016), PDF p.20 (levels 6.10–6.11) |
+| Conditional sentences Type 1 (real future possibility) — building conditionals from a table and completing clauses | Sri Lanka, English Pupil's Book, Grade 9 (EPD), PDF pp.113–114 |
+| Conditional sentences Type 2 (unreal/imagined present-future) (stocked in both homes) | Sri Lanka, English Pupil's Book, Grade 9 (EPD), PDF p.114 |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

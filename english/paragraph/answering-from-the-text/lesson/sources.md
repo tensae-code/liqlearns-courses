@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 42 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 43 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -1532,3 +1532,33 @@ Book errors carried: E6 — Book 1 (p.91) prints “World Disney World” for Wa
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *English Teacher's Guide*, Grade 7 — National Institute of Education (NIE), First Edition 2016 — Sri Lanka. NIE syllabus (38 competency levels) plus guide; teacher-guide evidence. Its appendix prints the Grade 7 textbook's listening texts (the Grade 7 pupil's book itself is not in hand — flag F2). Read in the 2026-11-10 expansion read.
+
+**Book 4:** *English Language Teacher's Guide*, Grade 7 — National Institute of Education (NIE), 2007 syllabus edition — Sri Lanka. Syllabus plus fully worked lesson sequences carrying the actual pupil texts and dialogues; teacher-guide evidence, a different edition from the 2016 Grade 7 guide. (The record's 'Tamil' file is this same English file — one blob, cited once; flag F5.) Read in full in the 2026-11-10 expansion read.
+
+**Book 5:** *English Workbook*, Grade 7 — Educational Publications Department (EPD), First Print 2015 — Sri Lanka. A pupil workbook; no Grade 7 pupil's textbook is in hand in any record (flag F2), so this workbook — whose units mirror the textbook's — is the pupil-side evidence for Grade 7. Read at full unit level in the 2026-11-10 expansion read.
+
+**Book 6:** *English Workbook*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil workbook whose units mirror the Grade 8 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading aloud words/phrases/sentences in short familiar texts; understanding frequent vocabulary; extracting specific information from simple texts with pictures; reading for pleasure | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), pp.27–28, 48–55 |
+| Reading skills: using picture/visual clues; extracting specific information (names, dates, days, places) with wh-questions; transferring information into other forms; extracting the general idea of a text | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), pp.23–26 |
+| Reading: using visual clues to derive meaning; identifying characters, dress, qualities and messages in texts | Sri Lanka, English Teacher's Guide, Grade 7 (NIE, 2016), pp.20–22 |
+| Textbook listening texts printed in the guide (evidence of the Grade 7 pupil book's content): Unit 01 'What You See?', Unit 06 'Better Safe Than Sorry' (food-safety listening), a timetable-change announcement, Unit 09 'Our Beautiful World', Workbook Unit 03 'Pleasure' listening (drawing instructions: triangles, flag, sun, clouds) | Sri Lanka, English Teacher's Guide, Grade 7 (NIE, 2016), pp.35–41 |
+| Reading: extracting specific information from a text; selecting relevant information from a dialogue | Sri Lanka, English Language Teacher's Guide, Grade 7 (NIE, 2007 syllabus), syllabus (5.2–5.3) |
+| Practical reading: reading product labels — 'What's the expiry date of the product? / What's the date of manufacture?' | Sri Lanka, English Language Teacher's Guide, Grade 7 (NIE, 2007 syllabus), the worked lesson pages (Unit 9 sequence) |
+| Reading passage on Ananda Coomaraswamy and the origin of the Buddha image (biographical reading) | Sri Lanka, English Workbook, Grade 7 (EPD), PDF p.14 |
+| Unit 1 'Plan the Work — Work the Plan': reading a dialogue; reading a pen pal's weekly plan table and answering questions; completing a dialogue about weekend plans with given phrases | Sri Lanka, English Workbook, Grade 8 (EPD), printed pp.1–7 (Unit 1; PDF pp.11–13) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

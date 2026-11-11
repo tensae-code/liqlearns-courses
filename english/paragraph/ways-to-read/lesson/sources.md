@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -54,6 +54,8 @@ cited once.
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
 **Acceptance count: taught in 26 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa).** Cyprus joins with its scanning work — reading for specific information, named as a strategy in Year 4 (stocked 2026-11-11 by the Cyprus expansion merge). Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its reading strategies in Grades 7, 9 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -479,3 +481,25 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — a teacher's guide is cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 3 — National Institute of Education (NIE), First Edition 2017 — Sri Lanka. The NIE syllabus (19 Can Do Statements) plus teacher guide; its rows are teacher-guide evidence of the taught Grade 3 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *General English Teacher's Guide*, Grades 12 & 13 — National Institute of Education (NIE), First Edition 2017 — Sri Lanka. The A/L GENERAL English (language, not literature) guide — skill chapters for Listening, Reading, Writing, Speaking and Grammar; teacher-guide evidence. One guide whose cover reads 'Grades 12 & 13', filed under both grades and cited once (flag F4). Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading and understanding very basic greetings and information in simple texts | Sri Lanka, English Language Teacher's Guide, Grade 3 (NIE, 2017), printed p.27 |
+| Reading aloud words/phrases/sentences in short familiar texts; understanding frequent vocabulary; extracting specific information from simple texts with pictures; reading for pleasure | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), pp.27–28, 48–55 |
+| Reading aloud different text types accurately with pauses | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), printed p.16 |
+| Reading skills chapter: reading strategies for A/L texts | Sri Lanka, General English Teacher's Guide, Grades 12 & 13 (NIE, 2017), contents PDF p.9 (Reading chapter, guide pp.12–22) |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

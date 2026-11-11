@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -340,8 +340,8 @@ verification sweep.
 | Singular and plural forms — use an increasing range of singular and plural forms in sentences | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.1, PDF p.86 (curriculum evidence) |
 | Use noun phrases accurately in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.1, PDF p.118 (curriculum evidence) |
 | Singular against plural, chosen word by word: an apple/apples, an egg/eggs, a carrot/carrots, a cake/cakes — the plural -s on nouns (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.51 |
-**Acceptance count: taught in 41 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 42 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -883,3 +883,30 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *English Pupil's Book*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. Printed page = PDF page − 14 approx.; pages cited are the printed pages from its Contents.
+
+**Book 3:** *English Pupil's Book*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level.
+
+**Book 4:** *English Workbook*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil workbook whose units mirror the Grade 8 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 5:** *English Workbook*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil workbook whose 11 units mirror the Grade 6 Pupil's Book. Read-depth limit, as the placements declare it: this PDF is an image-only scan with no usable text layer, so it was read from rendered pages (contents and structure verified visually), not line by line (flag F9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Plural nouns: adding -s, -es (after s/x/z/sh/ch/ss), -en (ox/oxen, child/children), vowel change (tooth/teeth, man/men) | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), pp.22–23 |
+| Unit 3 'Where's Everything?': positions of things; plural nouns taught in full — adding -s; -es after s/sh/ch/x; y→ies; f/fe→ves; irregular plurals | Sri Lanka, English Pupil's Book, Grade 6 (EPD), printed pp.22–31 (Unit 3; plural rules at PDF pp.43–45) |
+| Count nouns: singular/plural forms and writing plurals | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF pp.22–23 |
+| Unit 04 'Mother Nature': uncountable nouns — no plural form; quantifiers used before them | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF pp.45–46 (Unit 04 'Mother Nature') |
+| Plural forms of collective nouns | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF p.58 |
+| Units 2–10: pupil practice for the Pupil's Book units (Winged Friends; Let's Be Considerate; Mother Nature; Between the Miles; When We Are Together; The World of Children; It's a Small World; On Top of the World; Beyond the Classroom) — practice of the grammar placed from the Grade 8 Pupil's Book (practice evidence) | Sri Lanka, English Workbook, Grade 8 (EPD), printed pp.8–80 (Units 2–10) |
+| Pupil practice for the 11 Pupil's Book units: written practice of the same vocabulary, grammar (present continuous, plurals, can, pronouns, adjective/adverb, simple past) and topics — the workbook companion to the Grade 6 Pupil's Book's units (practice evidence; image-only scan read from rendered pages) | Sri Lanka, English Workbook, Grade 6 (EPD), printed pp.1–74 (Contents, PDF p.9 rendered) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

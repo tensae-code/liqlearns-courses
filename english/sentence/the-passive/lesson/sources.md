@@ -1,6 +1,6 @@
 # Sources — The passive
 
-countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Egypt, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Pakistan, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -346,8 +346,8 @@ verification sweep.
 | Passive modals (can / must / have to be done) | Mongolia, English XII, Unit 7, printed pp.122–123 |
 
 
-**Acceptance count: taught in 39 countries (Egypt,
-Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
+**Acceptance count: taught in 40 countries (Egypt,
+Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Pakistan, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). India joins with passive forms completed in a passage, as a teacher-note point in Class 8 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia discovers the shape from the
 Edison pair, drills by + agent in its inventions unit,
 and spreads the present/past/future coats in its clothing
 unit and reference. Libya prints the full five-tense
@@ -688,3 +688,36 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Pupil's Book*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level.
+
+**Book 2:** *English Workbook*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil workbook whose units mirror the Grade 8 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 3:** *English Workbook*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil workbook whose units mirror the Grade 9 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 4:** *English Language Teacher's Guide*, Grade 8 — National Institute of Education (NIE), syllabus implemented 2017 — Sri Lanka. NIE syllabus plus guide; teacher-guide evidence. (The record's 'Sinhala' and 'Tamil' files are this same English-medium guide — one blob filed three times, cited once; flag F3.) Read in the 2026-11-10 expansion read.
+
+**Book 5:** *English Grade 9 Teacher's Instruction Manual* — National Institute of Education (NIE), First Print 2009 — Sri Lanka. The 2009-syllabus manual, a different edition from the 2018 Grade 9 guide; teacher-guide evidence. Book error carried: its p.11 prints a production placeholder ('insert the syllabus') where the syllabus table should stand, so its competency levels are cited only where the manual's own activity continuum and assessment sections evidence them (flag F8). Read in full in the 2026-11-10 expansion read.
+
+**Book 6:** *English Language Teacher's Guide*, Grade 11 — National Institute of Education (NIE), syllabus implemented 2016 — Sri Lanka. NIE syllabus (72 competency levels — the O/L consolidation year) plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+**Book 7:** *English Pupil's Book*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. (Grabbed from its recorded Internet Archive source at the exact recorded byte size after the GitHub blob route truncated three times — same book, alternate verified route.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 08 'It's a Small World': PASSIVE VOICE — present ('Snacks are made by mother'), finding passive sentences in a passage; passive voice simple past ('The book was donated by UNESCO', 'The letter was written by Nisal') | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF pp.82–88 (Unit 08 'It's a Small World') |
+| Unit 09 'On Top of the World': passive voice simple future ('The song will be sung by the choir'; will + be + past participle) | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF pp.102–103 (Unit 09 'On Top of the World') |
+| Units 2–10: pupil practice for the Pupil's Book units (Winged Friends; Let's Be Considerate; Mother Nature; Between the Miles; When We Are Together; The World of Children; It's a Small World; On Top of the World; Beyond the Classroom) — practice of the grammar placed from the Grade 8 Pupil's Book (practice evidence) | Sri Lanka, English Workbook, Grade 8 (EPD), printed pp.8–80 (Units 2–10) |
+| Unit 05 area: writing sentences in passive form | Sri Lanka, English Workbook, Grade 9 (EPD), PDF p.39 (Unit 05 area) |
+| Grammar: passive voice (present tense) in the syllabus | Sri Lanka, English Language Teacher's Guide, Grade 8 (NIE, 2017 syllabus), PDF p.30 |
+| Grammar: identifying passive sentences and constructing passive sentences | Sri Lanka, English Grade 9 Teacher's Instruction Manual (NIE, 2009), levels 6.8–6.9 |
+| Grammar: determiners and the difference between adjectives and determiners; adjectives in attributive and predicative position; active/passive transformation work under the determiner/sentence levels | Sri Lanka, English Language Teacher's Guide, Grade 11 (NIE, 2016), PDF pp.19–20 |
+| Passive voice — simple past tense: form (was/were + past participle), omitting the doer when unknown/unimportant, transforming active sentences into the passive | Sri Lanka, English Pupil's Book, Grade 9 (EPD), PDF pp.70–71 |
+| Passive voice consolidation (active→passive table and transformation practice) | Sri Lanka, English Pupil's Book, Grade 9 (EPD), PDF p.93 |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

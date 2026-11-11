@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine, Tunisia, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -153,6 +153,8 @@ contrasts it again inside Grade 12's whole continuous-
 and-perfect system. Greece teaches this tense earliest of all — at Grade 6 in primary, with for/since on a timeline — states the simple/continuous contrast formally at Grade 9, and matches the continuous form's uses to examples again in the EPAL book. Kazakhstan brings the tense in at Grade 8 — named in Excel's tense revision and contrasted with its simple twin in Laser — and works the simple/continuous pair again at Grade 9 in both Full Blast! and English Plus. Iraq brings the tense in late and states its arrival plainly: not at Grade 9, where no held book teaches it, but at Grade 10 in the "Writing home" lesson; Grade 11 revises it with for/since in "What have they been doing?", and Grade 12 sets the simple form against the continuous inside its rebuilt perfect system, with the continuous box printed in the Activity Book. Ethiopia teaches the tense in Grade 9 — Unit 8 presents present perfect and present perfect continuous together with forms tables, negatives, questions and since/for, and Unit 10 revises it in its four-tense table. South Sudan joined 2026-11-03: Secondary 1 teaches the tense outright in its Student's Book Unit 2 language practice — has/have + been + -ing, with for/since durations and recently/lately without duration — and its Teacher's Guide re-teaches it with fuller rules and answers. Nepal teaches the tense at Grade 9 — present perfect and present perfect continuous together in Unit 15, after the four present tenses are identified and practised at Grade 8 — and its Grade 9 teacher's guide, a non-companion DRAFT held as an incomplete excerpt, teaches it with since/for in its own Unit 19. Kuwait stocks this lesson from workbooks only: Over to You Workbooks 12A and 12B present and practise the present perfect continuous, and no Student's Book in Kuwait's held set teaches this form. Skyline 5B's present perfect is with just only and never continuous. Other closed countries join
 as their books are read (see READING-QUEUE.md).
 
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
+
 **Laos checked — NOT stocked (series-final, 2026-10-27).**
 All seven Laos secondary books and the three primary books
 were read whole for this tense (filings in
@@ -245,3 +247,16 @@ The 2026-11-10 expansion read read Tunisia's held English set from the PDFs — 
 
 Tunisia is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/tunisia-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 10 — National Institute of Education (NIE), First Edition 2015 — Sri Lanka. NIE syllabus plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar: present perfect continuous and past perfect continuous (affirmative/negative/interrogative, active voice) | Sri Lanka, English Language Teacher's Guide, Grade 10 (NIE, 2015), PDF p.28 (level 6.1) |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

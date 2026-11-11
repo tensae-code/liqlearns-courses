@@ -1,6 +1,6 @@
 # Sources — Prepositions of Time
 
-countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda
+countries: Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Sri Lanka
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -20,7 +20,7 @@ Every part traces to its book and page.
 | Prepositions inside travel and time questions — at / to / from / in / on / by | Nicaragua, Grade 9 Módulo Autoformativo, Unit 2B, PDF p.57 |
 | Prepositions of time — on + day/date, in + period | Nicaragua, Grade 9 Módulo Autoformativo, Unit 5B, PDF pp.137–139 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda).** Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 13 countries (Bolivia, Nicaragua, Yemen, Kazakhstan, Libya, Nepal, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Libya joins with prepositions of time — at/on/in as a system (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with time prepositions at/in/on in its Grade 10 Language review 1 (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the at/on/in time system taught in four places — two student books and two compendium charts — with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. The compendium entries are teacher-compilation evidence, cited as such, never as student's books.
 
@@ -176,3 +176,16 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Workbook*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil workbook whose units mirror the Grade 9 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 01: choosing the correct preposition in sentences (returns home from work; sits beneath the big banyan tree) | Sri Lanka, English Workbook, Grade 9 (EPD), PDF p.13 (Unit 01) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

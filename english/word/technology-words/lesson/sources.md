@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Tanzania, Ethiopia, Afghanistan, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -169,6 +169,8 @@ literacy unit at topic level in its Grade 12 teacher
 guide — teacher-guide evidence only (stocked 2026-11-09
 by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md). Mexico builds technology across the grades: tools and machines as the body's functions delegated, and a social-networks study (Grade 7); the automatons history reading (Grade 8); and a social-media lapbook (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its technology words in Grades 6, 9, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with technology word sets in Grades 5, 6, 7, 8, 9 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 4* journeys through chocolate as an inventions text (Unit 3), and *English 6* reads its Importance of Science & Technology whole (printed pp.101–109; its contents rotate the last units against the body openers, and the body opener governs). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -732,3 +734,22 @@ Book error E17, carried: Book 5 (p.158) prints “10 aspects of digigal citizens
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *Activity Based Oral English*, Grade 1 — teacher guide (old edition) — Sri Lanka. A one-page-per-theme oral-English activity guide (songs, games) run inside Environmental Related Activities lessons; the guide's activities are the teaching, so its rows are teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 3 — National Institute of Education (NIE), First Edition 2017 — Sri Lanka. The NIE syllabus (19 Can Do Statements) plus teacher guide; its rows are teacher-guide evidence of the taught Grade 3 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 3:** *Activity Based Oral English*, Key Stage 1 (Grades 1 AND 2) — Teacher's Hand Book — National Institute of Education (NIE), 2018 — Sri Lanka. ONE handbook covering both grades (the 2018 replacement for the two old separate guides), filed under both grades as byte-identical assets and cited once (flag F6); teacher-guide evidence. Its Sinhala-medium activity sections (PDF pp.60–73) are the same activities in another medium and are not stocked separately. Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Media and communication words (telephone, television, radio, newspaper, letter) matched to the sense organs (mouth, ears, eyes) | Sri Lanka, Activity Based Oral English, Grade 1 Teacher Guide (old edition), printed p.8 |
+| Science and technology vocabulary incl. digital literacy, used in simple instructions and authentic texts | Sri Lanka, English Language Teacher's Guide, Grade 3 (NIE, 2017), pp.35–36, 86–95 |
+| Theme 8 How Information is Received — vocabulary: radio, telephone, television | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF p.43 |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

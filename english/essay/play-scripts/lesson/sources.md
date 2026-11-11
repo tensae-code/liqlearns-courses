@@ -1,6 +1,6 @@
 # Sources — Play scripts
 
-countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Malaysia, Ghana, Barbados, India, Bangladesh, Mexico, Greece, Pakistan, South Sudan, Venezuela, Yemen, Iraq, South Africa, Nepal, Ethiopia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page. Ghana's evidence
 is the NaCCA curriculum only — no Ghana pupil textbook
@@ -146,6 +146,8 @@ Class 1; India prints a full one-act play and sets the
 prose-to-script conversion. Bangladesh prints the same
 Chekhov play in its senior book's Reading for Pleasure
 reader (added 2026-11-08 by the re-verification sweep). Mexico's Grade 9 book is a full drama source: a role-play on scenarios of injustice, the dramatic-text concepts named, and a play script written and staged for a current community problem (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Grade 9 "Perform a story" project and Grade 11 Literature Focus drama — "Baghdadi Bath" and "The Tempest" (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 and Grade 8 role-play (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -432,3 +434,22 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English (G.C.E. A/L) Teacher's Guide*, Grades 12–13 — National Institute of Education (NIE), First Edition 2017 — Sri Lanka. The A/L English LITERATURE subject guide (prescribed poetry, short stories, drama, novels); teacher-guide evidence. One guide for the two-year course, filed under both grades and cited once (flag F4). Prescribed texts are stocked as titles and theme summaries only — no text reproduced. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English (G.C.E. A/L) Grade 12 Teacher's Instructional Manual* — National Institute of Education (NIE), 2009 syllabus — Sri Lanka. Text-by-text teaching guidance with Themes/Issues analysis for the 2009 prescribed set; teacher-guide evidence, a different edition from the 2017 A/L guide. Prescribed texts stocked as titles and summaries only. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *Appreciation of English Literary Texts*, GCE O/L — National Institute of Education (NIE), 2015 — Sri Lanka. One file binding the subject SYLLABUS (PDF pp.1–16, covering Grades 10–11) with the Teacher's Resource Book (PDF pp.17–136); cited as syllabus + teacher's-resource evidence (flag F10). Book errors carried, taught corrected: the cover misprints 'SYLLBUS' for SYLLABUS, and the syllabus contents misspell Wisława Szymborska and Anton Chekhov. Prescribed texts stocked as titles only. Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Drama prescribed: 'The Glass Menagerie' (Tennessee Williams) [Competency 2 list]; 'The Tempest' (Shakespeare), 'The Dumb Waiter' (Harold Pinter), 'Sizwe Bansi is Dead' (Athol Fugard) — titles only | Sri Lanka, English (G.C.E. A/L) Teacher's Guide, Grades 12–13 (NIE, 2017), PDF pp.15–16 |
+| Prescribed drama in the 2009 set: Chekhov — 'The Seagull' (with Moscow Art Theatre context) and 'The Lake' — titles only | Sri Lanka, English (G.C.E. A/L) Grade 12 Teacher's Instructional Manual (2009), manual (Themes sections) |
+| Prescribed DRAMA: 'The Twilight of a Crane' (Yu Zuwa / Junji Kinoshita), 'The Bear' (Anton Chekhov — the book prints 'Chekov'; taught corrected) — titles only | Sri Lanka, Appreciation of English Literary Texts, GCE O/L — Syllabus and Teacher's Resource Book (NIE, 2015), PDF p.14 |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

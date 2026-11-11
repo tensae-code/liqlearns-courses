@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -446,9 +446,9 @@ verification sweep.
 | The Beginners teacher's guide for Unit 1 “I'm only human” | Greece, Think Teen! Grade 8 Beginners Teacher's Book (teacher evidence), printed p.9 |
 | Present continuous for gradual change | Mongolia, English XI, Unit 1, printed p.14 |
 | Present continuous, active and passive, for changing situations | Mongolia, English XII, Unit 1, printed pp.17–18 |
-**Acceptance count: taught in 46 countries (Egypt, Ghana,
+**Acceptance count: taught in 47 countries (Egypt, Ghana,
 Libya, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its present simple line — routines, third person and habits in Year 4, and Mr Hatch's routine in Year 6 (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the simple present as named work in Class 7, with the teacher-note contrast against the present continuous (stocked 2026-11-09 by the India re-verification sweep merge). Egypt boxes the every-day face inside
 routines; Mongolia tables the right-now face and its
 questions; Libya's reference names both faces' uses and
 posts the refusal list; Ghana names the simple present's
@@ -1246,3 +1246,39 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *English Pupil's Book*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. Printed page = PDF page − 14 approx.; pages cited are the printed pages from its Contents.
+
+**Book 4:** *English Workbook*, Grade 7 — Educational Publications Department (EPD), First Print 2015 — Sri Lanka. A pupil workbook; no Grade 7 pupil's textbook is in hand in any record (flag F2), so this workbook — whose units mirror the textbook's — is the pupil-side evidence for Grade 7. Read at full unit level in the 2026-11-10 expansion read.
+
+**Book 5:** *English Workbook*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil workbook whose units mirror the Grade 9 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 6:** *English Language Teacher's Guide*, Grade 11 — National Institute of Education (NIE), syllabus implemented 2016 — Sri Lanka. NIE syllabus (72 competency levels — the O/L consolidation year) plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+**Book 7:** *English Workbook*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil workbook whose 11 units mirror the Grade 6 Pupil's Book. Read-depth limit, as the placements declare it: this PDF is an image-only scan with no usable text layer, so it was read from rendered pages (contents and structure verified visually), not line by line (flag F9).
+
+**Book 8:** *Activity Based Oral English*, Key Stage 1 (Grades 1 AND 2) — Teacher's Hand Book — National Institute of Education (NIE), 2018 — Sri Lanka. ONE handbook covering both grades (the 2018 replacement for the two old separate guides), filed under both grades as byte-identical assets and cited once (flag F6); teacher-guide evidence. Its Sinhala-medium activity sections (PDF pp.60–73) are the same activities in another medium and are not stocked separately. Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Speaking: pronouncing words/phrases/sentences on familiar topics; personal pronouns in simple sentences | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), pp.21–22 |
+| Grammar — be verbs: present (am/is/are), past (was/were), future (will be/shall be), each in positive, negative, question and negative-question forms | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), pp.26–28 |
+| Grammar — simple present, simple past and simple future tenses (positive/negative/question/negative-question) for daily and past/future actions | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), pp.29–30 |
+| Unit 6 'What We Do': daily actions and routines | Sri Lanka, English Pupil's Book, Grade 6 (EPD), printed pp.49–62 (Unit 6 'What We Do') |
+| Units 02–07, 09–10 themes as pupil practice: friendship (Friends Indeed), pleasures, a busy day (daily routine), stories (Once Upon a Time), safety (Better Safe Than Sorry), travelling around the country, our beautiful world (nature) | Sri Lanka, English Workbook, Grade 7 (EPD), printed pp.11–70 (Units 02–07, 09–10) |
+| Unit 09 'The Greatest Wealth': sorting sentences under simple present tense and simple future tense headings | Sri Lanka, English Workbook, Grade 9 (EPD), PDF p.66 (Unit 09 'The Greatest Wealth') |
+| Grammar consolidation set: constructing sentences with be/have, there is/are, simple present/past/future (full paradigms re-taught) | Sri Lanka, English Language Teacher's Guide, Grade 11 (NIE, 2016), PDF pp.19, 43–44 |
+| Pupil practice for the 11 Pupil's Book units: written practice of the same vocabulary, grammar (present continuous, plurals, can, pronouns, adjective/adverb, simple past) and topics — the workbook companion to the Grade 6 Pupil's Book's units (practice evidence; image-only scan read from rendered pages) | Sri Lanka, English Workbook, Grade 6 (EPD), printed pp.1–74 (Contents, PDF p.9 rendered) |
+| Daily routine language: 'This is the way we wash our face'; 'Where is Thumbkin?' (fingers) | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF pp.24–25 |
+| Theme 4 Play with Water — daily-action vocabulary: float, brush, wash, iron, wear, comb, eat, drink, read, write, go to school; routine song 'This is the way we drink our tea' | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF pp.39–40 |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -343,8 +343,8 @@ verification sweep.
 | Pronouns introduced by name and job: sometimes we replace the names of people with another word instead of repeating the name | India — Marigold Book Two (Class 2), Unit 9 word work, printed pp.141–159 |
 | The PRONOUN TABLE printed in full (I, me / we, us; you; he, him, she, her / they, them; it for places and things) | India — Marigold Book Five (Class 5), Unit 10 language work |
 | Reference words: what "This" refers to in sentences from the story | India — Honeysuckle (Class 6), Working with Language in Taro's Reward, printed p.35 |
-**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda).** Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with the 'He/She is…' pronoun frame of Year 2's people unit (stocked 2026-11-11 by the Cyprus expansion merge). India joins with pronouns introduced in Class 2, reference words in Class 6, and Class 5's pronoun table printed in full (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the seven words with the
 plainest definitions any book gives them, and the first
 whose-box; Bangladesh carries the formal definition; Libya
@@ -749,3 +749,37 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *Activity Based Oral English*, Grade 1 — teacher guide (old edition) — Sri Lanka. A one-page-per-theme oral-English activity guide (songs, games) run inside Environmental Related Activities lessons; the guide's activities are the teaching, so its rows are teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 3 — National Institute of Education (NIE), First Edition 2017 — Sri Lanka. The NIE syllabus (19 Can Do Statements) plus teacher guide; its rows are teacher-guide evidence of the taught Grade 3 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 4:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *English Language Teacher's Guide*, Grade 7 — National Institute of Education (NIE), 2007 syllabus edition — Sri Lanka. Syllabus plus fully worked lesson sequences carrying the actual pupil texts and dialogues; teacher-guide evidence, a different edition from the 2016 Grade 7 guide. (The record's 'Tamil' file is this same English file — one blob, cited once; flag F5.) Read in full in the 2026-11-10 expansion read.
+
+**Book 6:** *English Pupil's Book*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. Printed page = PDF page − 14 approx.; pages cited are the printed pages from its Contents.
+
+**Book 7:** *English Language Teacher's Guide*, Grade 10 — National Institute of Education (NIE), First Edition 2015 — Sri Lanka. NIE syllabus plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+**Book 8:** *English Workbook*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil workbook whose 11 units mirror the Grade 6 Pupil's Book. Read-depth limit, as the placements declare it: this PDF is an image-only scan with no usable text layer, so it was read from rendered pages (contents and structure verified visually), not line by line (flag F9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vehicles (car, bus, train, van, boat), 'I see a … / You see … / We see …', road vs water | Sri Lanka, Activity Based Oral English, Grade 1 Teacher Guide (old edition), printed p.12 |
+| Personal pronouns and basic information about self: 'I'm … (name)', boy/girl; introducing self and others ('This is …') and answering wh-questions about name/age/grade/village | Sri Lanka, English Language Teacher's Guide, Grade 3 (NIE, 2017), pp.19–21, 49–55 |
+| Speaking: pronouncing words/phrases/sentences on familiar topics; personal pronouns in simple sentences | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), pp.21–22 |
+| Grammar — subject pronouns and object pronouns (I/me, we/us, you, he/him, she/her, it, they/them) | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), pp.31–32 |
+| Reading/reference skills in lessons: identifying the reference word for words in bold in a text (pronoun reference) | Sri Lanka, English Language Teacher's Guide, Grade 7 (NIE, 2007 syllabus), the worked lesson pages |
+| Unit 10 'Was It Yesterday?': pronouns taught in full (a pronoun takes the place of a noun); adjective vs adverb (fast runner / ran fast; hard work / worked hard) with adverb table; simple past tense | Sri Lanka, English Pupil's Book, Grade 6 (EPD), printed pp.100–110 (Unit 10 'Was It Yesterday?') |
+| Grammar: pronouns incl. reciprocal pronouns (each other/one another) — the reciprocal point is named here in pronouns, as the placements place it; the placements note a separate reciprocal lesson would be needed only if the point were separated out | Sri Lanka, English Language Teacher's Guide, Grade 10 (NIE, 2015), PDF p.30 (level 6.2) |
+| Pupil practice for the 11 Pupil's Book units: written practice of the same vocabulary, grammar (present continuous, plurals, can, pronouns, adjective/adverb, simple past) and topics — the workbook companion to the Grade 6 Pupil's Book's units (practice evidence; image-only scan read from rendered pages) | Sri Lanka, English Workbook, Grade 6 (EPD), printed pp.1–74 (Contents, PDF p.9 rendered) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

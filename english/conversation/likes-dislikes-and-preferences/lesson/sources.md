@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
 **Acceptance count: taught in 11 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+
+**Sri Lanka stocked 2026-11-11 (expansion merge):** Sri Lanka's rows in this lesson are teacher-guide/syllabus evidence only — none of its in-hand pupil's books or workbooks stocks this lesson — so the taught-in acceptance count above does not change.
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -175,3 +177,22 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *Activity Based Oral English*, Grade 2 — teacher guide (old edition) — Sri Lanka. The same 16 ERA themes as Grade 1 at Grade 2 depth; teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 7 — National Institute of Education (NIE), 2007 syllabus edition — Sri Lanka. Syllabus plus fully worked lesson sequences carrying the actual pupil texts and dialogues; teacher-guide evidence, a different edition from the 2016 Grade 7 guide. (The record's 'Tamil' file is this same English file — one blob, cited once; flag F5.) Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'I like … / I don't like …' with the animal list | Sri Lanka, Activity Based Oral English, Grade 2 Teacher Guide (old edition), printed p.13 |
+| Responding to polite offers/requests and to questions about likes and dislikes | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), printed p.37 |
+| Speaking: describing places and people using proper adjectives; expressing likes and dislikes with reasons; understanding and conveying short messages; giving and asking for information appropriately | Sri Lanka, English Language Teacher's Guide, Grade 7 (NIE, 2007 syllabus), syllabus (8.6–8.9) |
+
+Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

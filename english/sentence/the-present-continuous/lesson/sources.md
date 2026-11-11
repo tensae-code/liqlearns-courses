@@ -1,6 +1,6 @@
 # Sources — The Present Continuous
 
-countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay
+countries: Indonesia, Mauritania, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -18,7 +18,7 @@ covers the 6th Year book only).
 | All four sub lessons — the present continuous taught across the book's doing chapters: "What are you doing?" with am/is/are + verb-ing over chores, play and classroom actions | Indonesia, English for Nusantara Kids Grade 3, printed pp.59–88 |
 | The present continuous for actions happening now (be + verb-ing; the spellings taking/cutting/beginning) | Mauritania, Study English, Grade 7, printed pp.61–63 |
 
-**Acceptance count: taught in 11 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
+**Acceptance count: taught in 12 countries (Indonesia, Mauritania, Nepal, Ethiopia, Kuwait, Cyprus, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 4's present continuous — statements, questions, and the named contrast with the present simple (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the present continuous taught across thirty pages of the Grade 3 book with no lesson of its own — the course held the Past Continuous but not this one; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Its chore sentences also ground The Home, cited there for the vocabulary, here for the form. Other countries' present-continuous teaching joins as their sweep merges land.
 Mauritania joins with its Grade 7 book's present continuous
 for actions happening now (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 present continuous (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
@@ -175,3 +175,22 @@ The 2026-11-10 expansion read read Uruguay's held English set from the PDFs — 
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Language Teacher's Guide*, Grade 6 — National Institute of Education (NIE), First Edition 2014 (syllabus for 2015) — Sri Lanka. NIE syllabus (47 competency levels) plus guide; teacher-guide evidence. Its syllabus table is printed pp.15–42. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *English Pupil's Book*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level. Printed page = PDF page − 14 approx.; pages cited are the printed pages from its Contents.
+
+**Book 3:** *English Workbook*, Grade 6 — Educational Publications Department (EPD), First Print 2014 — Sri Lanka. A pupil workbook whose 11 units mirror the Grade 6 Pupil's Book. Read-depth limit, as the placements declare it: this PDF is an image-only scan with no usable text layer, so it was read from rendered pages (contents and structure verified visually), not line by line (flag F9).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grammar — present continuous tense (am/is/are + verb-ing) | Sri Lanka, English Language Teacher's Guide, Grade 6 (NIE, 2014), printed p.31 |
+| Unit 2 'Leisure': present continuous tense for leisure activities (named in the book's competency map) | Sri Lanka, English Pupil's Book, Grade 6 (EPD), printed pp.11–21 (Unit 2 'Leisure') |
+| Pupil practice for the 11 Pupil's Book units: written practice of the same vocabulary, grammar (present continuous, plurals, can, pronouns, adjective/adverb, simple past) and topics — the workbook companion to the Grade 6 Pupil's Book's units (practice evidence; image-only scan read from rendered pages) | Sri Lanka, English Workbook, Grade 6 (EPD), printed pp.1–74 (Contents, PDF p.9 rendered) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -89,7 +89,7 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 32 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa).** Cyprus joins with Year 1's polite asking — 'I want my…', please, thank you (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+**Acceptance count: taught in 33 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan, Nepal, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with Year 1's polite asking — 'I want my…', please, thank you (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -506,3 +506,34 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *Activity Based Oral English*, Grade 1 — teacher guide (old edition) — Sri Lanka. A one-page-per-theme oral-English activity guide (songs, games) run inside Environmental Related Activities lessons; the guide's activities are the teaching, so its rows are teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 2:** *Activity Based Oral English*, Grade 2 — teacher guide (old edition) — Sri Lanka. The same 16 ERA themes as Grade 1 at Grade 2 depth; teacher-guide evidence. Printed page = PDF page. Read in full in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 5 — National Institute of Education (NIE), First Edition 2020 — Sri Lanka. NIE syllabus (competency framework) plus teacher guide; teacher-guide evidence of the taught Grade 5 syllabus. Read in full in the 2026-11-10 expansion read.
+
+**Book 4:** *English Language Teacher's Guide*, Grade 7 — National Institute of Education (NIE), 2007 syllabus edition — Sri Lanka. Syllabus plus fully worked lesson sequences carrying the actual pupil texts and dialogues; teacher-guide evidence, a different edition from the 2016 Grade 7 guide. (The record's 'Tamil' file is this same English file — one blob, cited once; flag F5.) Read in full in the 2026-11-10 expansion read.
+
+**Book 5:** *English Workbook*, Grade 9 — Educational Publications Department (EPD), First Print 2017 — Sri Lanka. A pupil workbook whose units mirror the Grade 9 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 6:** *Activity Based Oral English*, Key Stage 1 (Grades 1 AND 2) — Teacher's Hand Book — National Institute of Education (NIE), 2018 — Sri Lanka. ONE handbook covering both grades (the 2018 replacement for the two old separate guides), filed under both grades as byte-identical assets and cited once (flag F6); teacher-guide evidence. Its Sinhala-medium activity sections (PDF pp.60–73) are the same activities in another medium and are not stocked separately. Read in full in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Polite shopping requests: 'Can I have a bottle / balloon / bag / doll please? — Yes, here you are' | Sri Lanka, Activity Based Oral English, Grade 1 Teacher Guide (old edition), printed p.11 |
+| Polite language for helping: 'Thank you', 'very good / well done', 'Can you help me?' | Sri Lanka, Activity Based Oral English, Grade 1 Teacher Guide (old edition), printed p.16 |
+| Classroom objects (book, blackboard, chalk, table, chair, desk, door, window) with polite requests 'Please bring me / give me / open / close / clean …' | Sri Lanka, Activity Based Oral English, Grade 2 Teacher Guide (old edition), printed p.14 |
+| Polite requests for help: 'May I help you? / Can I help you?', 'Please sweep / clean / bring me …', 'I'm hungry / thirsty', medicine, staircase | Sri Lanka, Activity Based Oral English, Grade 2 Teacher Guide (old edition), printed pp.22–23 |
+| Responding to polite offers/requests and to questions about likes and dislikes | Sri Lanka, English Language Teacher's Guide, Grade 5 (NIE, 2020), printed p.37 |
+| Conversations using language appropriately (worked dialogues, e.g. a mother–child dialogue about buying tea; asking to speak to the principal) | Sri Lanka, English Language Teacher's Guide, Grade 7 (NIE, 2007 syllabus), the worked lesson pages |
+| Unit themes as pupil practice: helping others (02 'May I Help You?'), meetings (03), extinct animals (04 'Extinct Friends'), art (06), where we are (07), success through creativity (08), health as wealth (09), being yourself (10) | Sri Lanka, English Workbook, Grade 9 (EPD), printed pp.5–68 (Units 02–10 themes) |
+| Theme 11 How We Get Our Needs — structures: 'Please give me …' | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF p.26 |
+| Theme 16 People Who Need Our Help — structures: 'I can't …' | Sri Lanka, Activity Based Oral English, Key Stage 1 Teacher's Hand Book (NIE, 2018), PDF p.29 |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka
 
 Every part traces to its book and page.
 
@@ -47,8 +47,8 @@ verification sweep.
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
 | Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 11 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 12 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -126,3 +126,22 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Sri Lanka added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs: **25 distinct documents** (31 record files; 6 byte-identical duplicate files collapsed with hash proof — the Grade 8 Teacher's Guide 2017 filed under three language names is one English-medium guide, the Grade 12 and Grade 13 A/L English and General English guides are single two-grade guides filed twice each, the Grade 7 English Language Guide 2007 'Tamil' file is the English file, and the ABOE 2018 Key Stage 1 handbook is one book for Grades 1 and 2 filed under both grades). The union set is: 3 EPD pupil's books (Grades 6, 8, 9), 4 EPD workbooks (Grades 6–9), 17 NIE teacher guides and manuals, the 2 old ABOE teacher guides plus the ABOE 2018 Key Stage 1 handbook, and the O/L *Appreciation of English Literary Texts* syllabus bound with its Teacher's Resource Book. No Grade 7 pupil's book exists in any record — Grade 7 rests on its workbook and teacher guides (flag F2). 250 teaching items were placed fresh from the books; Sri Lanka had no presence in the course before, so all 250 were missing. Evidence kinds are labelled in every book entry below: pupil's-book and workbook rows rest on pupil-side books; teacher-guide rows are teacher-guide evidence of the taught syllabus (the taught content of the NIE guides IS their syllabus/competency tables). Read depth, as the placements declare it: full page-by-page text-layer reads of the ABOE guides and handbook, the Grade 3, 5, 7 (2007 syllabus), 9, A/L and Appreciation books; the NIE secondary guides (Grades 6, 7 (2016), 8, 10, 11) read through their complete syllabus/competency tables plus the guide bodies' competency chapters; the EPD pupil books and workbooks read at full unit level with grammar sections verified line-level — except the Grade 6 Workbook, an image-only scan read from rendered pages (flag F9). The placements' named exclusions (front matter and boilerplate, assessment and pedagogy apparatus, the ABOE handbook's Sinhala-medium sections) stand as declared and are stocked nowhere. Stories and prescribed literary texts are stocked as titles and plot summaries only. The rows below are this lesson's share, stocked from the expansion placements.
+
+**Book 1:** *English Pupil's Book*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil's book; read at full unit level in the 2026-11-10 expansion read, grammar sections verified line-level.
+
+**Book 2:** *English Workbook*, Grade 8 — Educational Publications Department (EPD), First Print 2016 — Sri Lanka. A pupil workbook whose units mirror the Grade 8 Pupil's Book; read at full unit level in the 2026-11-10 expansion read.
+
+**Book 3:** *English Language Teacher's Guide*, Grade 10 — National Institute of Education (NIE), First Edition 2015 — Sri Lanka. NIE syllabus plus guide; teacher-guide evidence. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 02 'Winged Friends': reflexive pronouns — used as object after verb/preposition, and for emphasis | Sri Lanka, English Pupil's Book, Grade 8 (EPD), PDF pp.18–22 (Unit 02 'Winged Friends'; printed pp.12–21) |
+| Units 2–10: pupil practice for the Pupil's Book units (Winged Friends; Let's Be Considerate; Mother Nature; Between the Miles; When We Are Together; The World of Children; It's a Small World; On Top of the World; Beyond the Classroom) — practice of the grammar placed from the Grade 8 Pupil's Book (practice evidence) | Sri Lanka, English Workbook, Grade 8 (EPD), printed pp.8–80 (Units 2–10) |
+| Grammar: pronouns incl. reciprocal pronouns (each other/one another) — the reciprocal strand of the Grade 10 guide's pronoun level (level 6.2) | Sri Lanka, English Language Teacher's Guide, Grade 10 (NIE, 2015), PDF p.30 (level 6.2) |
+
+Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
