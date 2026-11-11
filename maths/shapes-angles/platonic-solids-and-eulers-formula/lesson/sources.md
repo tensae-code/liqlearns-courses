@@ -1,6 +1,6 @@
 # Sources — Platonic solids and Euler's formula
 
-countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Andorra, Bahamas
+countries: Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Andorra, Bahamas, Cabo Verde
 
 Every part traces to its book and page.
 
@@ -63,7 +63,7 @@ Every part traces to its book and page.
 | Platonic solids; Platonic solids again; presenting Platonic solids (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 127–129 Platonic solids; Platonic solids again; Presenting Platonic solids, printed pp. 168, 170, 172 |
 | Polyhedra; polyhedra and non-polyhedra; regular and non-regular polyhedra and non-polyhedra (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 114 Polyhedra, printed p. 132; South Africa, Grade 9 Book 2, Ws 115–117 Polyhedra and non-polyhedra; Regular and non-regular polyhedra and non-polyhedra; Polyhedra and non-polyhedra all around us (contents spells "polyhendra" throughout), printed pp. 134, 136, 138 |
 
-**Acceptance count: taught in 12 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka).**
+**Acceptance count: taught in 13 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan, Sri Lanka, Cabo Verde).**
 
 Nicaragua's Grade 10 book gives the fullest treatment: Unit 6 defines polyhedra, then teaches the five regular polyhedra — tetrahedron, hexahedron (cube), octahedron, dodecahedron and icosahedron — with a group activity building all five from coloured card nets. China's B edition meets Euler's formula V + F − E = 2 as an exploration inside its solid-geometry chapter, and its A edition sets the characteristic as a table exercise over prisms, pyramids and frustums in the chapter review. Armenia states Euler's formula inside its Grade 10 polyhedra chapter (Ch.II, p.74). Greece's senior book closes its solid-figures chapter with the regular polyhedra, and South Africa's Grade 8 and Grade 9 workbooks drill the five Platonic solids, their nets, and the faces–vertices–edges counts that Euler's formula ties together.
 
@@ -169,3 +169,17 @@ The 2026-11-10 expansion read read the Bahamas' whole in-hand Maths set from the
 The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every document in the Bahamas' in-hand set is a ministry requirement document (the 2010 primary guidelines, the 2003 BJC examination syllabus, the 2019 senior-high guidelines), not a pupil textbook or a teacher guide, cited as the evidence kind it is, never counted as teaching (the standing Ghana/Barbados evidence-only precedent). The Bahamas' class for Maths is PARTIAL (evidence-only): all 4 in-hand documents are read and stocked, but no pupil textbook is in hand; it advances only when a pupil book file — a Hodder *Bahamas Primary Mathematics* volume, or the Akhepran Grade 7 BJC textbook whose exact link already sits in the download list — lands in hand and is read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bahamas-placements.md.
+
+## Cabo Verde added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cabo Verde’s whole in-hand Maths set from the PDFs — **3 books, all of them student (pupil) manuals of the Ministério da Educação de Cabo Verde: *Manual de Matemática 3º ano* (Edição 2019), *Manual de Matemática 5º ano* (Edição 2020) and *Matemática 7º ano — Manual do(a) aluno(a)* (Edição 2020); 0 teacher guides** — and placed 197 teaching items (Grade 3: 47, Grade 5: 69, Grade 7: 81; 391 PDF pages, every page read). The expansion map’s count of 3 student + 0 teacher is CORRECT. Set boundary, proved from the records: `textbooks.tsv` carries exactly 17 Cabo Verde rows (all Government, grades 1–7), of which exactly three are Mathematics, all student; the download list’s §C enumerates 93 ministry manuals, including Maths manuals for grades 1, 2, 4, 6, 8, 9, 10 and 11 and applied-Maths manuals — every one of those is exact-link-only (no TSV row, no staging file, no GitHub copy) and NOT in hand, so none is cited here; counting any of them would be a set error. Record gap, reported not fixed (record-side): `phase3-push-state.json` contains no Cabo Verde entry at all, and there is no Cabo Verde folder or `books.json` in phase3-staging — the in-hand evidence is the TSV’s GitHub URLs themselves, and all three GitHub copies were located, verified (byte size and MD5; the Grade 5 ministry copy is byte-identical to the GitHub copy, so that book is one book, cited once) and read directly, so the set is settled despite the push-state gap. No duplicates exist in the set: three distinct grades, three distinct books. Printed page = PDF page in all three books. The placements’ named exclusions — front matter, unit openers, objectives lists and the closing national-anthem page in the Grade 5 and Grade 7 books; the Grade 3 book’s cover plate and welcome/mascot pages (PDF pp. 1, 3, 5), its part-opener pages (PDF pp. 55, 85, 107, 111), its closing test “Teste” (printed pp. 125–129 — mixed assessment re-using taught content, no new teaching) and the flag / national-anthem page (PDF p. 130) — and pure exercise / consolidation blocks that teach nothing new are stocked nowhere. The 12 book errors found in the read (2 in the Grade 5 book, 5 in the Grade 7 book, 5 in the Grade 3 book) are carried corrected on the rows they touch. Into this lesson the placements stock 1 item from Book 2.
+
+**Book 2:** *Manual de Matemática 5º ano* (student manual) — Cabo Verde, Ministério da Educação, Edição 2020; authors João Duarte, Vanda Delgado; 11,054,236 bytes, 118 PDF pp., MD5 7523a460a8d971a028632077eeb0789c (the GitHub copy and the ministry copy are byte-identical — one book, cited once). Printed page = PDF page throughout the body (its unit-opener pages, PDF pp. 6–7, are unnumbered and are cited by PDF page). Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Euler’s relation for a convex polyhedron: F + V = A + 2 | Cabo Verde — *Manual de Matemática 5º ano* (student manual), printed p. 62 |
+
+Cabo Verde is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of the Ministério da Educação de Cabo Verde. Cabo Verde’s class for Maths is **COURSES-CLOSED** — every in-hand Cabo Verde Maths book (all 3) has been read in full and stocked; the link-only ministry Maths manuals for the other grades are not in hand, and Cabo Verde reopens for a grade only if one of those manuals is ever grabbed and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cabo-verde-placements.md.

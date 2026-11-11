@@ -1,6 +1,6 @@
 # Sources — Errors and Accuracy
 
-countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Andorra, Bahamas, Belize, Australia, Bhutan
+countries: Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Andorra, Bahamas, Belize, Australia, Bhutan, Cabo Verde
 
 Every part traces to its book and page.
 
@@ -69,7 +69,7 @@ Every part traces to its book and page.
 | Approximate numbers and error | Vietnam, Grade 10 Volume 1, Bài 12 "Số gần đúng và sai số" (approximate numbers and error), printed p. 73 |
 | Approximate numbers (عددهای تقریبی) | Iran, Grade 6 student book, Ch. 9, printed p. 143 |
 
-**Acceptance count: taught in 14 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Australia, Bhutan).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
+**Acceptance count: taught in 15 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia, Libya, Vietnam, Iran, Australia, Bhutan, Cabo Verde).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 
 Vietnam carries approximate numbers and error in Grade 10 (Bài 12). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -172,3 +172,17 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 2 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Cabo Verde added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cabo Verde’s whole in-hand Maths set from the PDFs — **3 books, all of them student (pupil) manuals of the Ministério da Educação de Cabo Verde: *Manual de Matemática 3º ano* (Edição 2019), *Manual de Matemática 5º ano* (Edição 2020) and *Matemática 7º ano — Manual do(a) aluno(a)* (Edição 2020); 0 teacher guides** — and placed 197 teaching items (Grade 3: 47, Grade 5: 69, Grade 7: 81; 391 PDF pages, every page read). The expansion map’s count of 3 student + 0 teacher is CORRECT. Set boundary, proved from the records: `textbooks.tsv` carries exactly 17 Cabo Verde rows (all Government, grades 1–7), of which exactly three are Mathematics, all student; the download list’s §C enumerates 93 ministry manuals, including Maths manuals for grades 1, 2, 4, 6, 8, 9, 10 and 11 and applied-Maths manuals — every one of those is exact-link-only (no TSV row, no staging file, no GitHub copy) and NOT in hand, so none is cited here; counting any of them would be a set error. Record gap, reported not fixed (record-side): `phase3-push-state.json` contains no Cabo Verde entry at all, and there is no Cabo Verde folder or `books.json` in phase3-staging — the in-hand evidence is the TSV’s GitHub URLs themselves, and all three GitHub copies were located, verified (byte size and MD5; the Grade 5 ministry copy is byte-identical to the GitHub copy, so that book is one book, cited once) and read directly, so the set is settled despite the push-state gap. No duplicates exist in the set: three distinct grades, three distinct books. Printed page = PDF page in all three books. The placements’ named exclusions — front matter, unit openers, objectives lists and the closing national-anthem page in the Grade 5 and Grade 7 books; the Grade 3 book’s cover plate and welcome/mascot pages (PDF pp. 1, 3, 5), its part-opener pages (PDF pp. 55, 85, 107, 111), its closing test “Teste” (printed pp. 125–129 — mixed assessment re-using taught content, no new teaching) and the flag / national-anthem page (PDF p. 130) — and pure exercise / consolidation blocks that teach nothing new are stocked nowhere. The 12 book errors found in the read (2 in the Grade 5 book, 5 in the Grade 7 book, 5 in the Grade 3 book) are carried corrected on the rows they touch. Into this lesson the placements stock 1 item from Book 3.
+
+**Book 3:** *Matemática 7º ano — Manual do(a) aluno(a)* (student manual) — Cabo Verde, Ministério da Educação, Edição 2020; authors João Almeida Duarte, Vanda Duarte Delgado; 11,025,796 bytes, 143 PDF pp., MD5 c1d1df8d2c1fc34d4fd78623cfb687da. Printed page = PDF page throughout the body (the book's printed contents, PDF pp. 8–9, under-numbers the units by 2 and is not used for citations). Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Approximate value of a rational by defect and by excess; absolute error = |exact − approximate| | Cabo Verde — *Matemática 7º ano — Manual do(a) aluno(a)* (student manual), printed pp. 42–43 |
+
+Cabo Verde is added to the countries line and to the acceptance count above — 1 pupil items in this lesson, from real pupil books of the Ministério da Educação de Cabo Verde. Cabo Verde’s class for Maths is **COURSES-CLOSED** — every in-hand Cabo Verde Maths book (all 3) has been read in full and stocked; the link-only ministry Maths manuals for the other grades are not in hand, and Cabo Verde reopens for a grade only if one of those manuals is ever grabbed and read.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cabo-verde-placements.md.
