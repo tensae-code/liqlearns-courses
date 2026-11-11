@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 42 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova).**.** Egypt carries the
+**Acceptance count: taught in 43 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1010,3 +1010,24 @@ The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PD
 Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.
+
+
+## Belarus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PDFs — **2 books, both pupil textbooks, both in Belarusian: «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) for grades 10–11, ed. A. M. Kolmogorov, 4th ed., Minsk 1994; and «Геаметрыя. 10 клас» (Geometry, Grade 10) by U. U. Shlykov, 3rd revised ed., Minsk 2013. There is no teacher guide and no syllabus in the Belarus Maths set in hand, so every Belarus row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Belarus counts in every lesson it stocks** — and placed 83 teaching items. The expansion map's “2 student + 0 teacher” count is correct — textbooks.tsv, the grade-10 staging books.json and phase3-push-state.json agree exactly, and both books sit secured in GitHub release mid-size-books-7 — but both filing labels understate the books: the book filed as “Grade 10 Algebra” is a single textbook for grades 10–11, so it is also the in-hand grade-11 Algebra book, and the Geometry as held is Shlykov's 3rd revised edition of 2013, whose imprint records the 2008 predecessor under the title «Геаметрыя, 11». The grade-10 staging folder also holds an empty mathematics-geometry/student/ directory shell — no file in it; it is not a third book. Scope limit, carried exactly as the read declares it: Belarus Mathematics 1–6 and Algebra/Geometry 7–9 were never in hand — this merge stocks only what the two in-hand books teach, and Belarus's class is COURSES-CLOSED for the in-hand set only. Read depth: the Algebra PDF is a scanned-image file whose only text layer is a watermark; it was read visually, spread by spread, from page renders, and no part of it is reported from OCR; the Geometry file opened and read in full. Book errors: none found that changes a placement. The placements' named exclusions — the Algebra preface and notation list, the four “Звесткі з гісторыі” (notes from history) essays, the four end-of-chapter review question sets, Algebra Chapter V §§ 2–5 (exercise-only repetition of Chapters I–IV), the answers and hints and the subject index, both books' numbered exercise sets, the Geometry address to the reader and answers section, the Algebra endpaper formula sheets (record items — summaries of the taught content, not separate teaching), the sphere, cylinder and cone named-only mention in Geometry Chapter 1, and the verified absence of any treatment of the regular (Platonic) polyhedra — are stocked nowhere, except the Algebra review chapter's § 1, whose three topics are stated nowhere else in the book; those three are stocked, marked review-only. Into this lesson the placements stock 7 items (all from pupil textbooks) from Book A.
+
+**Book A:** «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) — pupil textbook for grades 10–11, ed. A. M. Kolmogorov (authors A. M. Kolmogorov, A. M. Abramau, Yu. P. Dudnitsyn, B. M. Iuleu, S. I. Shvartsburd), 4th ed., Minsk, «Народная асвета», 1994 — approved by the Ministry of Education of the Russian Federation and recommended by the Ministry of Education of the Republic of Belarus; the Belarusian translation of the Russian 1990 «Просвещение» edition; ISBN 5-341-01280-1; 12,296,259 bytes, 159 PDF spreads = 320 printed pp. Pages cited are the book's printed pages (its contents, printed pp. 318–320, spot-verified against folios read directly on the spreads).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Functions and their graphs in general: domain and range, reading and plotting graphs, a function as a correspondence | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 20 |
+| Even and odd functions, f(−x) = f(x) / f(−x) = −f(x), and the matching graph symmetries about the y-axis and the origin | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 30 |
+| Periodicity: periodic functions and the period of the trigonometric functions | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 30 |
+| Intervals where a function increases and decreases; extrema — maximum and minimum points and values | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 39 |
+| Investigating a function: the standard scheme (domain, evenness, period, zeros, monotonicity, extrema) | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 47 |
+| The concept of an inverse function: mutually inverse functions and the symmetry of their graphs about y = x | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 236 |
+| The power function y = x^p: its forms for different p | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 248 |
+
+Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.

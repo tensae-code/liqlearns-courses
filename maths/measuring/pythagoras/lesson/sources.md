@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus
 
 Every part traces to its book and page.
 
@@ -309,7 +309,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
 | Year revision overview, Pythagoras among it (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 140–144 Revision overview: parts 1–5 (year revision of this grade's placed items), printed pp. 204, 206, 208, 210, 212 |
 
-**Acceptance count: taught in 40 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 41 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Belarus).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -480,3 +480,18 @@ The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PD
 Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.
+
+
+## Belarus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PDFs — **2 books, both pupil textbooks, both in Belarusian: «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) for grades 10–11, ed. A. M. Kolmogorov, 4th ed., Minsk 1994; and «Геаметрыя. 10 клас» (Geometry, Grade 10) by U. U. Shlykov, 3rd revised ed., Minsk 2013. There is no teacher guide and no syllabus in the Belarus Maths set in hand, so every Belarus row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Belarus counts in every lesson it stocks** — and placed 83 teaching items. The expansion map's “2 student + 0 teacher” count is correct — textbooks.tsv, the grade-10 staging books.json and phase3-push-state.json agree exactly, and both books sit secured in GitHub release mid-size-books-7 — but both filing labels understate the books: the book filed as “Grade 10 Algebra” is a single textbook for grades 10–11, so it is also the in-hand grade-11 Algebra book, and the Geometry as held is Shlykov's 3rd revised edition of 2013, whose imprint records the 2008 predecessor under the title «Геаметрыя, 11». The grade-10 staging folder also holds an empty mathematics-geometry/student/ directory shell — no file in it; it is not a third book. Scope limit, carried exactly as the read declares it: Belarus Mathematics 1–6 and Algebra/Geometry 7–9 were never in hand — this merge stocks only what the two in-hand books teach, and Belarus's class is COURSES-CLOSED for the in-hand set only. Read depth: the Algebra PDF is a scanned-image file whose only text layer is a watermark; it was read visually, spread by spread, from page renders, and no part of it is reported from OCR; the Geometry file opened and read in full. Book errors: none found that changes a placement. The placements' named exclusions — the Algebra preface and notation list, the four “Звесткі з гісторыі” (notes from history) essays, the four end-of-chapter review question sets, Algebra Chapter V §§ 2–5 (exercise-only repetition of Chapters I–IV), the answers and hints and the subject index, both books' numbered exercise sets, the Geometry address to the reader and answers section, the Algebra endpaper formula sheets (record items — summaries of the taught content, not separate teaching), the sphere, cylinder and cone named-only mention in Geometry Chapter 1, and the verified absence of any treatment of the regular (Platonic) polyhedra — are stocked nowhere, except the Algebra review chapter's § 1, whose three topics are stated nowhere else in the book; those three are stocked, marked review-only. Into this lesson the placements stock 1 item (all from pupil textbooks) from Book B.
+
+**Book B:** «Геаметрыя. 10 клас» (Geometry, Grade 10) — pupil textbook (вучэбны дапаможнік) by U. U. Shlykov, 3rd revised ed., Minsk, «Народная асвета», 2013 — admitted (Дапушчана) by the Ministry of Education of the Republic of Belarus; translated from Russian by N. M. Alhanava; ISBN 978-985-12-2168-0; the 2008 previous edition was titled «Геаметрыя, 11»; 6,775,391 bytes, 160 PDF pp. Pages cited are the book's printed pages (printed folio = PDF page throughout the teaching body).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pythagoras in space: the diagonal of a rectangular parallelepiped — its square equals the sum of the squares of the three edges at one vertex | Belarus — «Геаметрыя. 10 клас» (pupil textbook), Grade 10, printed p. 114 |
+
+Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.

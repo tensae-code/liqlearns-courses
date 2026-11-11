@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka, Belarus
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ Every part traces to its book and page.
 | Arcsine and arccosine of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 3, printed p. 363 (teacher evidence) |
 | Arctangent and arccotangent of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 4, printed p. 383 (teacher evidence) |
 | Derivatives of the inverse trig functions | Libya, Grade 12 Mathematics (Science section), §10-6, printed p.165 |
-**Acceptance count: taught in 10 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya).**
+**Acceptance count: taught in 11 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Belarus).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
 Libya carries derivatives of the inverse trigonometric functions in Grade 12 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
@@ -88,3 +88,18 @@ Into this lesson the placements stock 2 items (0 from pupil books, 2 teacher evi
 Sri Lanka is added to the countries line above and named in its rows as teacher evidence, but it is NOT added to the acceptance count above — every Sri Lanka row in this lesson rests on a teacher guide, not a pupil textbook (the standing Ghana evidence precedent). Sri Lanka's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 94 files / 66 works across both reads) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/sri-lanka-placements.md and sri-lanka-2-placements.md.
+
+
+## Belarus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PDFs — **2 books, both pupil textbooks, both in Belarusian: «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) for grades 10–11, ed. A. M. Kolmogorov, 4th ed., Minsk 1994; and «Геаметрыя. 10 клас» (Geometry, Grade 10) by U. U. Shlykov, 3rd revised ed., Minsk 2013. There is no teacher guide and no syllabus in the Belarus Maths set in hand, so every Belarus row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Belarus counts in every lesson it stocks** — and placed 83 teaching items. The expansion map's “2 student + 0 teacher” count is correct — textbooks.tsv, the grade-10 staging books.json and phase3-push-state.json agree exactly, and both books sit secured in GitHub release mid-size-books-7 — but both filing labels understate the books: the book filed as “Grade 10 Algebra” is a single textbook for grades 10–11, so it is also the in-hand grade-11 Algebra book, and the Geometry as held is Shlykov's 3rd revised edition of 2013, whose imprint records the 2008 predecessor under the title «Геаметрыя, 11». The grade-10 staging folder also holds an empty mathematics-geometry/student/ directory shell — no file in it; it is not a third book. Scope limit, carried exactly as the read declares it: Belarus Mathematics 1–6 and Algebra/Geometry 7–9 were never in hand — this merge stocks only what the two in-hand books teach, and Belarus's class is COURSES-CLOSED for the in-hand set only. Read depth: the Algebra PDF is a scanned-image file whose only text layer is a watermark; it was read visually, spread by spread, from page renders, and no part of it is reported from OCR; the Geometry file opened and read in full. Book errors: none found that changes a placement. The placements' named exclusions — the Algebra preface and notation list, the four “Звесткі з гісторыі” (notes from history) essays, the four end-of-chapter review question sets, Algebra Chapter V §§ 2–5 (exercise-only repetition of Chapters I–IV), the answers and hints and the subject index, both books' numbered exercise sets, the Geometry address to the reader and answers section, the Algebra endpaper formula sheets (record items — summaries of the taught content, not separate teaching), the sphere, cylinder and cone named-only mention in Geometry Chapter 1, and the verified absence of any treatment of the regular (Platonic) polyhedra — are stocked nowhere, except the Algebra review chapter's § 1, whose three topics are stated nowhere else in the book; those three are stocked, marked review-only. Into this lesson the placements stock 1 item (all from pupil textbooks) from Book A.
+
+**Book A:** «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) — pupil textbook for grades 10–11, ed. A. M. Kolmogorov (authors A. M. Kolmogorov, A. M. Abramau, Yu. P. Dudnitsyn, B. M. Iuleu, S. I. Shvartsburd), 4th ed., Minsk, «Народная асвета», 1994 — approved by the Ministry of Education of the Russian Federation and recommended by the Ministry of Education of the Republic of Belarus; the Belarusian translation of the Russian 1990 «Просвещение» edition; ISBN 5-341-01280-1; 12,296,259 bytes, 159 PDF spreads = 320 printed pp. Pages cited are the book's printed pages (its contents, printed pp. 318–320, spot-verified against folios read directly on the spreads).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Arcsine, arccosine, arctangent and arccotangent defined as the inverse values on the principal intervals | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 62 |
+
+Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.

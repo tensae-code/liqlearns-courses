@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 43 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).**.** Kazakhstan carries
+**Acceptance count: taught in 44 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -883,3 +883,18 @@ The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PD
 Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.
+
+
+## Belarus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PDFs — **2 books, both pupil textbooks, both in Belarusian: «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) for grades 10–11, ed. A. M. Kolmogorov, 4th ed., Minsk 1994; and «Геаметрыя. 10 клас» (Geometry, Grade 10) by U. U. Shlykov, 3rd revised ed., Minsk 2013. There is no teacher guide and no syllabus in the Belarus Maths set in hand, so every Belarus row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Belarus counts in every lesson it stocks** — and placed 83 teaching items. The expansion map's “2 student + 0 teacher” count is correct — textbooks.tsv, the grade-10 staging books.json and phase3-push-state.json agree exactly, and both books sit secured in GitHub release mid-size-books-7 — but both filing labels understate the books: the book filed as “Grade 10 Algebra” is a single textbook for grades 10–11, so it is also the in-hand grade-11 Algebra book, and the Geometry as held is Shlykov's 3rd revised edition of 2013, whose imprint records the 2008 predecessor under the title «Геаметрыя, 11». The grade-10 staging folder also holds an empty mathematics-geometry/student/ directory shell — no file in it; it is not a third book. Scope limit, carried exactly as the read declares it: Belarus Mathematics 1–6 and Algebra/Geometry 7–9 were never in hand — this merge stocks only what the two in-hand books teach, and Belarus's class is COURSES-CLOSED for the in-hand set only. Read depth: the Algebra PDF is a scanned-image file whose only text layer is a watermark; it was read visually, spread by spread, from page renders, and no part of it is reported from OCR; the Geometry file opened and read in full. Book errors: none found that changes a placement. The placements' named exclusions — the Algebra preface and notation list, the four “Звесткі з гісторыі” (notes from history) essays, the four end-of-chapter review question sets, Algebra Chapter V §§ 2–5 (exercise-only repetition of Chapters I–IV), the answers and hints and the subject index, both books' numbered exercise sets, the Geometry address to the reader and answers section, the Algebra endpaper formula sheets (record items — summaries of the taught content, not separate teaching), the sphere, cylinder and cone named-only mention in Geometry Chapter 1, and the verified absence of any treatment of the regular (Platonic) polyhedra — are stocked nowhere, except the Algebra review chapter's § 1, whose three topics are stated nowhere else in the book; those three are stocked, marked review-only. Into this lesson the placements stock 1 item (all from pupil textbooks) from Book A.
+
+**Book A:** «Алгебра і пачаткі аналізу» (Algebra and Beginnings of Analysis) — pupil textbook for grades 10–11, ed. A. M. Kolmogorov (authors A. M. Kolmogorov, A. M. Abramau, Yu. P. Dudnitsyn, B. M. Iuleu, S. I. Shvartsburd), 4th ed., Minsk, «Народная асвета», 1994 — approved by the Ministry of Education of the Russian Federation and recommended by the Ministry of Education of the Republic of Belarus; the Belarusian translation of the Russian 1990 «Просвещение» edition; ISBN 5-341-01280-1; 12,296,259 bytes, 159 PDF spreads = 320 printed pp. Pages cited are the book's printed pages (its contents, printed pp. 318–320, spot-verified against folios read directly on the spreads).
+
+| Lesson part | Where it comes from |
+|---|---|
+| (Review-only — stated in this book only inside its review chapter) Arithmetic and geometric progressions: nth term and sum formulas in use | Belarus — «Алгебра і пачаткі аналізу» (pupil textbook), Grades 10–11, printed p. 267 |
+
+Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.
