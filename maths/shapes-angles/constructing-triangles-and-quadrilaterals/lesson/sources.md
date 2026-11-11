@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland, Mozambique, Jamaica, Haiti
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland, Mozambique, Jamaica, Haiti, Samoa
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
 | Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
-**Acceptance count: taught in 31 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland, Mozambique).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 32 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria, Chile, Dominica, Dominican Republic, Ireland, Honduras, Iceland, Mozambique, Samoa).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -466,3 +466,17 @@ The 2026-11-10 expansion read read Haiti's whole in-hand Maths set from the PDFs
 Haiti enters this lesson as teacher/curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every document in Haiti's in-hand Maths set is a teacher-side programme, framework or teacher sequence (MENFP / IPN / Nectar), not a pupil textbook, cited as the evidence kind it is, never counted as pupil teaching (the standing evidence-only precedent). Haiti's class for Maths is PARTIAL (evidence-only): every in-hand Maths document has been read in full and stocked, but no pupil Maths textbook is in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/haiti-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 1 items: 1 pupil.
+
+**Book 1:** *Mathematics Year 9 Book One* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2001, reprinted 2004; ISBN 982-517-010-7; 1,483,605 bytes, 188 PDF pp., MD5 b7876195d3f78ec9ca557ff5dbc29521. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Constructing triangles | Samoa — *Mathematics Year 9 Book One* (pupil book), printed p. 51 |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

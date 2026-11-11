@@ -1,6 +1,6 @@
 # Sources — Taxation
 
-countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Mauritius, Papua New Guinea, Uganda
+countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Mauritius, Papua New Guinea, Uganda, Samoa
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ On Malaysia in this lesson: Malaysia's Form 5 book is the first in the read set 
 | Tax — indirect taxes, withholding tax and VAT — inside the Senior 1 money unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 116–121 |
 | Income tax — inside the commercial arithmetic unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | South Sudan, Student's Book 2, Unit 1, printed pp. 12–13 |
 
-**Acceptance count: taught in 12 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Uganda).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
+**Acceptance count: taught in 13 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Uganda, Samoa).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
 
 India enters taxation from Mathematics Class 8: sales tax and GST.
 
@@ -188,3 +188,17 @@ The 2026-11-10 expansion read read Uganda's whole in-hand Maths library from the
 Uganda is added to the countries line and to the acceptance count above on its pupil rows. Uganda's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/uganda-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 1 items: 1 pupil.
+
+**Book 1:** *Mathematics Year 10 Book One* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2001, reprinted 2004; ISBN 982-517-011-5; 1,700,764 bytes, 98 PDF pp., MD5 72d7cd761f5a9321c9c2943bdf3cde55. Cover and title page read directly. Printed page = PDF page. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| VAGST problems: adding Samoa's Value Added Goods and Services Tax (10% in the book's worked examples) to prices | Samoa — *Mathematics Year 10 Book One* (pupil book), section 5.3 (the placements cite this item by section; no printed page is given) |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

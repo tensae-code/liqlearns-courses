@@ -1,6 +1,6 @@
 # Sources — Bearings
 
-countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Ghana, Sri Lanka, Bahamas, Australia, Bhutan, Dominica, Fiji, Nigeria, Papua New Guinea, Uganda
+countries: Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Ghana, Sri Lanka, Bahamas, Australia, Bhutan, Dominica, Fiji, Nigeria, Papua New Guinea, Uganda, Samoa
 
 Every part traces to its book and page.
 
@@ -48,7 +48,7 @@ Every part traces to its book and page.
 | The eight-point compass | Libya, Grade 5 pupil's book, Unit 13, Lesson 1, printed p.194 |
 | Bearing and scale drawing | Nepal, Grade 7 student book, Unit 10, printed p. 84 |
 
-**Acceptance count: taught in 14 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Sri Lanka, Australia, Bhutan, Dominica, Fiji, Uganda).**
+**Acceptance count: taught in 15 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia, Sri Lanka, Australia, Bhutan, Dominica, Fiji, Uganda, Samoa).**
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 Sierra Leone carries the fullest course — eight lessons from compass bearings to mixed rule-choice problems in SSS 2 Term 3. Libya carries bearings inside its sine/cosine-rule chapter in Grade 11 Science, with problems combining triangles and bearings. Nepal carries three-figure bearings, the ±180° reverse rule and scale-drawn journeys in its Grade 8 student book (student book only — its Grade 8 guide is a mismatch guide and is not cited). Jordan opens its Grade 10 trigonometry-applications unit with bearing from north. South Sudan carries bearings clockwise from north as three figures in Secondary 1, beside right-angled trigonometry and navigation problems.
@@ -257,3 +257,23 @@ The 2026-11-10 expansion read read Uganda's whole in-hand Maths library from the
 Uganda is added to the countries line and to the acceptance count above on its pupil rows; its teacher-guide rows in this lesson are named as teacher evidence and stay outside the count. Uganda's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/uganda-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 3 items: 3 pupil.
+
+**Book 1:** *Mathematics Year 10 Book Three* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004; ISBN 982-517-035-2; 2,656,088 bytes, 96 PDF pp., MD5 2478486ab8b968978f1e221d369124db. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 2:** *Mathematics Year 11 Book Two* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004; ISBN 982-517-046-6; 3,255,640 bytes, 117 PDF pp., MD5 bf349e6e199e5ad582a4bd04a856f813. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 3:** *Mathematics Year 12* (pupil book — the complete typeset edition) — Samoa, Ministry of Education, Sports and Culture (MESC) / Mahobe Resources (NZ), 2004; ISBN 0-9583328-9-4; 7,005,754 bytes, 240 PDF pp., MD5 4f378bd8e286a134b23e35d4363eba57. Cover and title page read directly. Staged in the records as a supposed workbook ("full-year-wk") but proved from its title page and interior to be the complete Year 12 student textbook (Units 1–8 + answers); the library's separate slot for the 113 MB scanned Year 12 edition is not in hand (live 404, only a truncated stub) and is cited nowhere. Printed page = PDF page. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using bearings to describe direction and plot courses | Samoa — *Mathematics Year 10 Book Three* (pupil book), printed p. 56 (section 11.1) |
+| Using bearings to describe direction and plot courses | Samoa — *Mathematics Year 11 Book Two* (pupil book), printed p. 23 (section 6.1) |
+| Bearings: describing direction and plotting courses, and finding unknown bearings and distances using scale diagrams | Samoa — *Mathematics Year 12* (pupil book), printed p. 63 |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

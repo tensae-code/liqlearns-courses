@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy, Mauritius, Iceland, Mozambique, Nauru, Peru, Jamaica, Haiti, Papua New Guinea, Switzerland, Uganda
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan, Canada, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy, Mauritius, Iceland, Mozambique, Nauru, Peru, Jamaica, Haiti, Papua New Guinea, Switzerland, Uganda, Samoa
 
 Every part traces to its book and page.
 
@@ -449,7 +449,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 56 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy, Iceland, Mozambique, Peru, Uganda).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 57 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan, Costa Rica, Cuba, Eritrea, Chile, Dominica, Dominican Republic, Gabon, Ireland, Fiji, Honduras, Italy, Iceland, Mozambique, Peru, Uganda, Samoa).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -1344,3 +1344,31 @@ The 2026-11-10 expansion read read Uganda's whole in-hand Maths library from the
 Uganda is added to the countries line and to the acceptance count above on its pupil rows; its teacher-guide rows in this lesson are named as teacher evidence and stay outside the count. Uganda's class for Maths is **COURSES-CLOSED**.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/uganda-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 9 items: 9 pupil.
+
+**Book 1:** *Mathematics Year 9 Book One* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2001, reprinted 2004; ISBN 982-517-010-7; 1,483,605 bytes, 188 PDF pp., MD5 b7876195d3f78ec9ca557ff5dbc29521. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 2:** *Mathematics Year 10 Book Two* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2004; 2,776,785 bytes, 133 PDF pp., MD5 ce61cf30e414aa7e8ecfede53b8b5ba4. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 3:** *Mathematics Year 11 Book Two* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2003, reprinted 2004; ISBN 982-517-046-6; 3,255,640 bytes, 117 PDF pp., MD5 bf349e6e199e5ad582a4bd04a856f813. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+**Book 4:** *Mathematics Year 12* (pupil book — the complete typeset edition) — Samoa, Ministry of Education, Sports and Culture (MESC) / Mahobe Resources (NZ), 2004; ISBN 0-9583328-9-4; 7,005,754 bytes, 240 PDF pp., MD5 4f378bd8e286a134b23e35d4363eba57. Cover and title page read directly. Staged in the records as a supposed workbook ("full-year-wk") but proved from its title page and interior to be the complete Year 12 student textbook (Units 1–8 + answers); the library's separate slot for the 113 MB scanned Year 12 edition is not in hand (live 404, only a truncated stub) and is cited nowhere. Printed page = PDF page. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reflection and translation of shapes | Samoa — *Mathematics Year 9 Book One* (pupil book), printed p. 135 |
+| Drawing an enlargement | Samoa — *Mathematics Year 10 Book Two* (pupil book), printed p. 36 (section 7.1) |
+| Finding the centre of enlargement | Samoa — *Mathematics Year 10 Book Two* (pupil book), printed p. 41 |
+| Combining transformations | Samoa — *Mathematics Year 10 Book Two* (pupil book), printed p. 87 |
+| Working with enlargements, including the centre of enlargement | Samoa — *Mathematics Year 11 Book Two* (pupil book), printed p. 30 |
+| Enlargements, and the scale factors of length, area and volume | Samoa — *Mathematics Year 12* (pupil book), printed p. 91 |
+| Reflection | Samoa — *Mathematics Year 12* (pupil book), printed p. 93 |
+| Rotation | Samoa — *Mathematics Year 12* (pupil book), printed p. 95 |
+| (Opener-stated) Describing the effect of combined transformations (enlargement, translation, reflection, rotation) — stated in the Unit Four opener | Samoa — *Mathematics Year 12* (pupil book), printed p. 85 |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

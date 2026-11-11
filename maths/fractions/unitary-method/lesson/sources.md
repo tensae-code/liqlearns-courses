@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea, Dominican Republic, Honduras, Papua New Guinea, Switzerland
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea, Dominican Republic, Honduras, Papua New Guinea, Switzerland, Samoa
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ On Nepal in this lesson: the unitary method is a named lesson in Nepal's books a
 | Unitary method | Nepal, Grade 8 student book, Unit 17, printed p. 136 |
 | Ratios and proportions using the unitary method | South Sudan, Pupil's Book 7, §1.4, printed p. 5 |
 
-**Acceptance count: taught in 20 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea, Dominican Republic, Honduras, Papua New Guinea).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 21 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan, El Salvador, Sri Lanka, Moldova, Australia, Eritrea, Dominican Republic, Honduras, Papua New Guinea, Samoa).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Vietnam carries the reduce-to-the-unit problem type in Grade 4 (Bài 47). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -246,3 +246,17 @@ The 2026-11-10 expansion read read Switzerland's whole in-hand Maths set from th
 Switzerland enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count — Switzerland has no pupil Maths textbook in hand; its in-hand set is three curriculum brochures, the mathematics chapters of two all-subjects curriculum volumes and one teacher guide, which state requirements and teaching guidance without being pupil textbooks (the standing evidence-only precedent). Switzerland's class for Maths is PARTIAL (evidence-only): the whole in-hand set is read and stocked, and it advances only when a Swiss pupil Maths textbook — one of the prescribed commercial series, today licence-gated — lands in hand and is read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/switzerland-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 1 items: 1 pupil.
+
+**Book 1:** *Mathematics Year 10 Book Three* (pupil book) — Samoa, Ministry of Education, Sports and Culture (MESC); © 2002, reprinted 2004; ISBN 982-517-035-2; 2,656,088 bytes, 96 PDF pp., MD5 2478486ab8b968978f1e221d369124db. Cover and title page read directly. Printed page = PDF page − 1. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Calculating and comparing unit costs | Samoa — *Mathematics Year 10 Book Three* (pupil book), printed p. 12 (section 8.2) |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

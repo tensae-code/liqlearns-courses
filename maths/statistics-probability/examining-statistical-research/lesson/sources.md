@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Nauru, Jamaica
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Nauru, Jamaica, Samoa
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 | The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 13 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji).**
+**Acceptance count: taught in 14 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile, Dominica, Fiji, Samoa).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
@@ -205,3 +205,18 @@ The 2026-11-10 expansion read read Jamaica's whole in-hand Maths set from the fi
 Jamaica enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Jamaica's in-hand Maths set holds no pupil textbook and no teacher guide, only the seven National Standards Curriculum guides, which state what must be taught without being pupil teaching material themselves (the standing evidence-only precedent). Jamaica's class for Maths is PARTIAL (evidence-only): every in-hand document has been read in full and stocked, and it advances only when a Jamaica pupil Maths textbook lands in hand and is read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/jamaica-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 2 items: 2 pupil.
+
+**Book 1:** *Mathematics Year 13* (pupil book) — Rory Barrett; Samoa, Ministry of Education, Sports and Culture (MESC), 2004; ISBN 0-9583564-6-7; 33,278,288 bytes, 238 PDF spreads (about 470 printed pp.), MD5 813cc1c6ad4239397957241193ef8687. Image-only scan (no text layer beyond the cover): read from rendered pages, with OCR text used as a reading aid and chapter openings verified visually. Printed folios are printed on the pages and are cited directly. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Misleading displays: suppressed scales, slanting ("advertiser's") scales and extrapolating beyond the data (chapter 37, Misleading Uses of Statistics) | Samoa — *Mathematics Year 13* (pupil book), printed p. 308 |
+| Misleading statistical claims: recognising unjustified conclusions drawn from statistics in media and advertising | Samoa — *Mathematics Year 13* (pupil book), printed p. 310 |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.

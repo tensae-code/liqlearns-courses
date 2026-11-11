@@ -1,6 +1,6 @@
 # Sources — Graph theory
 
-countries: Iran, Vietnam, Jordan, China, Malaysia, Sri Lanka, Bhutan
+countries: Iran, Vietnam, Jordan, China, Malaysia, Sri Lanka, Bhutan, Samoa
 
 Every part traces to its book and page.
 
@@ -35,7 +35,7 @@ Every part traces to its book and page.
 | Real information represented as a network (transport, games pupils like, flight routes); problem solving — the best route and the least time or cost read from a weighted network | Malaysia, Mathematics Form 4, Ch. 5 §5.1, printed pp. 143–150 |
 | Workbook practice: algorithms and graph theory (Business T1 U2) | Jordan, Grade 12 Workbook Term 1 (Business Track), Unit 2 (workbook evidence) |
 
-**Acceptance count: taught in 6 countries (Iran, Vietnam, Jordan, China, Malaysia, Bhutan).** Iran teaches graph vocabulary, the handshaking lemma with proof, and a deep domination treatment with the γ(G) ≥ ⌈n/(Δ+1)⌉ bound in its Grade 12 Discrete Mathematics book. Vietnam teaches basic graph concepts, Euler and Hamilton paths, and shortest paths in its Grade 11 study book — the series' only graph theory, filed as new material nowhere in its main books. Jordan teaches algorithms, bin packing, graphs, special graph types and Euler graphs as Unit 2 of its Grade 12 Business Mathematics book. China carries the Königsberg seven-bridges box as enrichment in its Grade 6 second volume's general review.
+**Acceptance count: taught in 7 countries (Iran, Vietnam, Jordan, China, Malaysia, Bhutan, Samoa).** Iran teaches graph vocabulary, the handshaking lemma with proof, and a deep domination treatment with the γ(G) ≥ ⌈n/(Δ+1)⌉ bound in its Grade 12 Discrete Mathematics book. Vietnam teaches basic graph concepts, Euler and Hamilton paths, and shortest paths in its Grade 11 study book — the series' only graph theory, filed as new material nowhere in its main books. Jordan teaches algorithms, bin packing, graphs, special graph types and Euler graphs as Unit 2 of its Grade 12 Business Mathematics book. China carries the Königsberg seven-bridges box as enrichment in its Grade 6 second volume's general review.
 
 Malaysia gives graph theory a full Form 4 chapter — the degree sum, trees and the minimum spanning tree, and networks drawn from real transport and flight data.
 
@@ -73,3 +73,21 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 3 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Samoa added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Samoa's whole in-hand Maths library from the PDFs — **9 files: 8 pupil textbooks + 1 curriculum statement, 0 teacher guides** — and the expansion map's “7 student Maths books, 0 teacher” count is **wrong**: the map missed the *Mathematics Year 12* typeset edition, staged in the records as a supposed workbook (“full-year-wk”) but proved from its title page and interior to be the complete MESC Year 12 pupil textbook (Units 1–8 + answers), and it missed the kind of the *Primary Curriculum Statement, Years 1–8*, which is a curriculum document, not a pupil book. The library's enumerated slot for the separate 113 MB scanned Year 12 edition is NOT in hand (live 404; only a truncated 1 MB archive stub exists) — that edition is cited nowhere and the slot stays a library-side matter; the complete typeset Year 12 pupil textbook in hand is the book read. No teacher guide for Maths exists in the Samoa set, and no Maths content was found hiding under another subject label. The eight pupil books are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Samoa's pupil rows **count** in a lesson's taught-in figure. The curriculum statement (CMAD, MESC, January 2013) states what is REQUIRED to be taught in Samoa primary schools and teaches nothing itself: its rows are **curriculum evidence only** and count in no taught-in figure — Samoa has no primary pupil textbooks in hand, so every primary (Years 1–8) Samoa row in the course is curriculum evidence. Counting grain: one item per distinct teaching section of a pupil book (the book's own numbered sections and their named subsections), and one item per coded learning outcome (NR / PA / DA / MS / SG / WM codes) of the curriculum statement; worked examples and exercise sets inside a section are part of that section's item, not separate items. The books' own errors are taught corrected: Year 10 Book 2's §7.1 heading prints “Drawing an Englargement” (for Enlargement); Year 11 Book 2's unit opener prints “Dealing with Angles Larger than 900” (for 90°); Year 13's contents lists chapter 2 as “Linear Inequations” while the chapter's printed title is “Linear Equations” and it teaches both — placed under the printed title. Named exclusions, stocked nowhere: the answers sections of every pupil book; Year 13's “Problems and Investigations” end-of-chapter sections, its Glossary/Index and its formula Appendix; calculator-keystroke asides (the mathematics is placed, the keystrokes are not); the curriculum statement's strand progression tables (printed pp. 81–120), which restate its coded outcomes; and Year 12's Unit 8 project unit, placed as one item. Into this lesson the placements stock 5 items: 5 pupil.
+
+**Book 1:** *Mathematics Year 13* (pupil book) — Rory Barrett; Samoa, Ministry of Education, Sports and Culture (MESC), 2004; ISBN 0-9583564-6-7; 33,278,288 bytes, 238 PDF spreads (about 470 printed pp.), MD5 813cc1c6ad4239397957241193ef8687. Image-only scan (no text layer beyond the cover): read from rendered pages, with OCR text used as a reading aid and chapter openings verified visually. Printed folios are printed on the pages and are cited directly. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Networks: vertices, edges, cycles and connected networks (chapter 43, Networks) | Samoa — *Mathematics Year 13* (pupil book), printed p. 364 |
+| Trees and spanning trees of a network | Samoa — *Mathematics Year 13* (pupil book), printed p. 366 |
+| Minimum (minimal) spanning trees: building the cheapest tree that connects every vertex | Samoa — *Mathematics Year 13* (pupil book), printed p. 367 |
+| Networks that contain numerical information: shortest paths through a weighted network | Samoa — *Mathematics Year 13* (pupil book), printed p. 368 |
+| Project networks: representing tasks, times and dependencies in a network diagram | Samoa — *Mathematics Year 13* (pupil book), printed p. 374 |
+
+Samoa is added to the countries line and to the acceptance count above on its pupil rows. Samoa's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/samoa-placements.md.
