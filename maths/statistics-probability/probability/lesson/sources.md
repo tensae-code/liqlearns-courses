@@ -266,6 +266,13 @@ Every part traces to its book and page.
 **Book 186:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 187:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 188:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
+**Book 189:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 190:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 191:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 192:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 193:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 194:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 195:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -335,6 +342,13 @@ Every part traces to its book and page.
 | Sample Space; Probability Trees; Probability Story Problems | Sierra Leone, JSS 3 Term 3, L138–L140, printed pp. 89–94 |
 | Statistics and Probability | Sierra Leone, SSS 3 Term 3, L120, printed p. 69 |
 | Probability | Sierra Leone, SSS 3 Term 3, L138, printed p. 123 |
+| Dénombrement et probabilités (the probabilités part) | Mauritania, 3AS, printed p. 255 |
+| Probabilités | Mauritania, 4AS, Ch. 15, printed p. 222 |
+| Probabilités | Mauritania, 6AS-M, Ch. 14, printed p. 185 |
+| Probabilités | Mauritania, 6AS-C, Ch. 15, printed p. 206 |
+| Dénombrement et probabilités (the probabilités part) | Mauritania, 6AS-LM, Ch. 4, printed p. 67 |
+| Probabilités (inside Ch. 6, Dénombrements et probabilités) | Mauritania, 7AS-LM, Ch. 6, printed p. 84 |
+| Probabilities (الاحتمالات, a unit of Ch. 5, تنظيم المعطيات) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
 
 | Arrangements and combinations — counting orders and choices without a named probability, the counting groundwork for probability (no factorials, no formulas) | Nicaragua, Grade 6 student book, Unit 12, printed pp. 142–147 |
 | Random and deterministic experiments; sample space — sets revision (unit set, empty set, extension vs comprehension, ordered pairs, Cartesian product); events as subsets, Venn diagrams, impossible, sure, complementary and mutually exclusive events; tree diagrams; counting techniques (fundamental counting principle, permutations, permutations with repetition, combinations, combinations with repetition); classical probability by Laplace's rule; 0 ≤ P(A) ≤ 1, P(E) = 1, P(∅) = 0, complement rule; frequentist probability — the addition rule for unions is used but never stated as a formula, and no conditional probability or independence is taught as a topic. The sample space printed on p. 21 mixes 3-tuples and 4-tuples into 14 elements; the lesson teaches the correct count, 16 quadruples, never the printed 14 | Nicaragua, Grade 10 student book, Unit 1, printed pp. 1–52 |

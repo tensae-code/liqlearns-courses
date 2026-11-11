@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania
 
 Every part traces to its book and page.
 
@@ -84,6 +84,12 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 52:** *Mathematics, Grade 3, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-348-7, National Library deposit no. 2022/4/2027 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 53:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 54:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 60:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,6 +133,15 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Historical note: Thales, Euclid's Elements and the parallel postulate — taught corrected: the historical note calls Euclid's Elements a treatise “of 11 books”; it has 13. | Tajikistan, Математика (Grade 6), printed p. 231 |
 | History of geometry, part 3: the medieval East — Omar Khayyam (1048–1131) and Nasir al-Din al-Tusi (1201–1272) on the theory of parallels and proportion theory, and the graphical solution of cubics; Euclid and Archimedes translated into Arabic by the end of the 9th century | Tajikistan, Геометрия (Grade 11), printed p. 134 |
 | History of geometry, part 5: the fifth postulate — Lobachevsky (1792–1856), Bolyai (1802–1860) and Gauss (1777–1855) and non-Euclidean geometry; Hilbert, Weyl and Kolmogorov (1903–1987) and complete axiom systems; the Grades 7–11 course stated to rest on Kolmogorov's system | Tajikistan, Геометрия (Grade 11), printed p. 136 |
+| Open and closed lines | Mauritania, Grade 1 student book, terms 1–3 |
+| Kinds of lines | Mauritania, Grade 3 student book, printed p. 19 |
+| The segment and the straight line | Mauritania, Grade 4 student book, printed p. 85 |
+| Intersection and perpendicularity; the idea of parallelism | Mauritania, Grade 4 student book, printed pp. 102, 104 |
+| Straight lines | Mauritania, Grade 5 student book, printed p. 12 |
+| Parallel lines, intersecting lines and perpendicular lines | Mauritania, Grade 5 student book, printed pp. 17, 22, 27 |
+| The straight segment | Mauritania, Grade 5 student book, printed p. 37 |
+| Straight lines; the segment | Mauritania, Grade 6 student book, printed pp. 88, 90, 92 |
+| Segments, demi-droites et droites | Mauritania, 1AS, Ch. 2, printed p. 31 |
 
 | Straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 42–45 |
 | The straight line — la recta = infinitely many points, endless, drawn with arrows, named by two points AB/BA; conclusions: infinitely many lines through one point, exactly one through two points | Venezuela, Contando con los recursos (Grade 4), printed pp. 84–87 |
@@ -218,7 +233,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Parallel and intersecting lines | Jordan, Grade 4 Student Book Term 1, Unit 5, Lesson 3, printed p. 94 |
 | Workbook practice: geometry and patterns (T1 U6) | Jordan, Grade 3 Workbook Term 1, Unit 6 (workbook evidence) |
 
-**Acceptance count: taught in 20 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 21 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Libya carries lines from Grade 2 (line segments, rays, perpendicular and parallel lines) through Grade 8 (parallel lines and angles, points, lines and planes in Grade 7) (stocked by the 2026-11-08 re-verification sweep).
 

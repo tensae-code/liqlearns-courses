@@ -361,6 +361,11 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 206:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 207:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 208:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 209:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 210:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 211:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 212:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 213:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -481,6 +486,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Angles of Elevation; Angles of Depression; Applications of Angles of Elevation and Depression – Part 1; … (6 lessons in the run) | Sierra Leone, SSS 2 Term 3, L103–L108, printed pp. 21–36 |
 | Angles of Polygons | Sierra Leone, SSS 3 Term 3, L129, printed p. 96 |
 | Angles of Elevation and Depression | Sierra Leone, SSS 3 Term 3, L136, printed p. 117 |
+| Vertices and angles | Mauritania, Grade 4 student book, printed p. 91 |
+| Drawing instruments: the protractor | Mauritania, Grade 4 student book, printed p. 98 |
+| The right angle | Mauritania, Grade 5 student book, printed p. 47 |
+| Measuring angles | Mauritania, Grade 6 student book, printed p. 153 |
+| Angles | Mauritania, 1AS, Ch. 6, printed p. 95 |
+| Angles et cercles (the angles part) | Mauritania, 3AS, Ch. 5, printed p. 107 |
 
 | Angles; right angle by paper folding; straight angle = two right angles; acute/obtuse | Bangladesh, *Elementary Mathematics, Class Three*, Ch 12 Geometry, printed pp. 123–136 |
 | Angle size in degrees; protractor; 30°/45°/60°/90°; acute/right/obtuse/straight; adjacent angles; complementary (sum 90°), supplementary (sum 180°), vertically opposite (equal); clock-hand angles; parallel and perpendicular lines | Bangladesh, *Elementary Mathematics, Class Four*, Ch 13 Lines and Angles, printed pp. 143–154 |

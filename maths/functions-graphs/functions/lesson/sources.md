@@ -53,10 +53,7 @@ Education, State of Libya, school year 1440–1441 H / 2019–2020,
 no ISBN printed. Filed in maths/books/libya.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-05).
 
-**Book 11:** *Mathématiques, 5AS (Grade 11), M/D streams*
-(student book) — Mauritania, Institut Pédagogique National
-(IPN), French. Filed in maths/books/mauritania.md (FULLY READ +
-CITATION CHECK PASSED 2026-11-05).
+**Book 11:** *Mathématiques 5ème AS, série mathématiques* (student book) — Mauritania, Institut Pédagogique National (IPN), French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED). (Entry corrected by the 2026-11-08 re-verification sweep merge: as filed, this entry bundled three books under a “5AS, M/D streams” header; its “Étude de fonction” p. 113 is the 6AS-M/6AS-C chapter, and the “Suites numériques” p. 129 it also cited belongs to the sequences lesson’s 6AS rows, not this book.)
 **Book 12:** *Mathematics, Grade 8 student book (secondary year 3)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2012. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *Mathematics, Grade 9 student book (upper-secondary year 4)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2013. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics, Grade 10 student book (upper-secondary year 5)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2014 (2010 curriculum). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
@@ -230,6 +227,18 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 141:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 142:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-384-5 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 143:** *Mathematics, Grade 10, Teacher Guide, Term 2* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-425-5 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 10 Term 2 course. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 144:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 147:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 148:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 149:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 150:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 151:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 152:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 153:** *Mathématiques 7ème SN* (7AS, série D pupil's book) — Mauritania, IPN, French, 122 pp; by Mohameden Ould El Hadi, Mohameden Ould Bah. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 154:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 155:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -253,7 +262,8 @@ CITATION CHECK PASSED 2026-11-05).
 | The concept of a function and the graph of a function; first-degree function and its graph; the slope of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII, Bài 27 Khái niệm hàm số và đồ thị của hàm số p.40; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 p.51 |
 | The function y = ax² (a ≠ 0) and its graph | Vietnam, Toán 9 Volume 2, Chapter VI, Bài 18 Hàm số y = ax² (a ≠ 0) p.4 |
 | Relation between two sets; relation as a set of ordered pairs; function and its graph; independent and dependent variable; explicit functions; polynomial, fractional and algebraic functions; algebra of functions | Libya, Grade 11 Science, Chapter 4 "Relations, functions and graphical forms", pp.95–110 |
-| Generalities on functions; study of a function; sequences | Mauritania, 5AS (Grade 11) student book, "Généralités sur les fonctions" p.83; "Étude de fonction" p.113; "Suites numériques" p.129 |
+| Generalities on functions | Mauritania, 5AS-M, Ch. 8, printed p. 83 |
+| Study of a function | Mauritania, 6AS-M, Ch. 9, printed p. 113; Mauritania, 6AS-C, Ch. 9, printed p. 113 |
 | Mappings; linear functions (x ↦ ax) and affine functions, graphs, monthly-cost models | Laos, Grade 8 student book, L11–L13, printed pp. 78–103 |
 | Quadratic functions: y = x², y = ax², vertex form y = a(x−p)² + q, maximum and minimum, sign, inequalities, Viète's relations | Laos, Grade 9 student book, L13–L22, printed pp. 68–99 |
 | Relations and functions: vertical-line test, even, odd and periodic functions, increasing and decreasing; constant, linear (including sign and floor functions and absolute-value functions), quadratic, cubic and square-root and cube-root functions | Laos, Grade 10 student book, L8–L15, printed pp. 63–165 |
@@ -298,6 +308,21 @@ CITATION CHECK PASSED 2026-11-05).
 | Calculating values of a function from a formula and a table | Tajikistan, Алгебра (Grade 7), printed p. 70 |
 | Linear dependence of the form y = kx + b that is not a direct proportionality | Tajikistan, Алгебра (Grade 7), printed p. 78 |
 | Mapping, Including Domain and Range; Functions – Part 1; Graphs of Linear Functions – Part 1; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 3, L98–L102, printed pp. 6–18 |
+| Fonctions linéaires et affines | Mauritania, 3AS, printed p. 233 |
+| Fonctions affines | Mauritania, 4AS, Ch. 14, printed p. 205 |
+| Applications (the functions part) | Mauritania, 5AS-M, Ch. 13, printed p. 149 |
+| Généralités sur les fonctions | Mauritania, 5AS-D, Ch. 8, printed p. 61 |
+| Applications (the functions part) | Mauritania, 5AS-D, Ch. 10, printed p. 85 |
+| Fonctions numériques | Mauritania, 5AS-LM, Ch. 3, printed p. 49 |
+| Generalities on numerical functions (عموميات على الدوال العددية) | Mauritania, 5AS-LO, Ch. 4, printed p. 35 |
+| Study of the basic algebraic functions (دراسة الدوال الجبرية الأساسية) | Mauritania, 5AS-LO, Ch. 5, printed p. 51 |
+| Étude et représentation de fonctions numériques | Mauritania, 6AS-D, Ch. VI, body p. 107 |
+| Fonctions numériques | Mauritania, 6AS-LM, Ch. 2, printed p. 28 |
+| Generalities on functions (عموميات على الدوال) | Mauritania, 6AS-LO, Ch. 3, body p. 28 |
+| Asymptotes and infinite branches; studying and drawing functions (inside Ch. 3, عموميات على الدوال) | Mauritania, 6AS-LO, Ch. 3, body p. 28 on |
+| Étude de fonctions | Mauritania, 7AS-D, Ch. 3, printed p. 36 |
+| Généralités sur les fonctions | Mauritania, 7AS-LM, Ch. 2, printed p. 23 |
+| Generalities on functions (عموميات على الدوال) — with limits, derivation and graphs inside | Mauritania, 7AS-LO, Ch. 2, body pp. 24–53 |
 
 | Direct proportion expressed as y = ax, with its graph | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as the function y = ax and inverse proportionality as y = a/x, with graphs | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |

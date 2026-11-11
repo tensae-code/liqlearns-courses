@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone, Kazakhstan, Libya, Jordan
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone, Kazakhstan, Libya, Jordan, Mauritania
 
 Every part traces to its book and page.
 
@@ -64,6 +64,12 @@ Every part traces to its book and page.
 **Book 43:** *Mathematics, Grade 11, Student Book, Term 2 — Academic Track* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-653-2, National Library deposit no. 2024/5/2711 (Arabic). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 44:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-654-9 (Arabic). Workbook evidence: practice companion to the Grade 11 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 45:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 1 — ORPHAN copy (plain file)* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, printed ISBN 978-9923-41-793-5 — the same printed ISBN as the companion copy, but a different book: an orphan workbook for a different arrangement of the course (its Unit 3 is limits and derivatives, limits set at p. 46). Workbook evidence, cited as the orphan arrangement wherever it is used. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 46:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 47:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 48:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -93,6 +99,15 @@ Every part traces to its book and page.
 | The tangent function and its graph | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 52–54 |
 | Grafikët e sinusit, kosinusit dhe tangjentit (Graphs of sine, cosine and tangent) and simple transformations of them | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 8, 12 |
 | Graph of sin 𝜃; Graph of cos 𝜃 | Sierra Leone, SSS 2 Term 3, L111–L112, printed pp. 45–48 |
+| Trigonométrie | Mauritania, 4AS, Ch. 13, printed p. 193 |
+| Angles orientés – Trigonométrie | Mauritania, 5AS-M, Ch. 7, printed p. 71 |
+| Angles orientés – Trigonométrie | Mauritania, 5AS-D, Ch. 7, printed p. 53 |
+| Angles orientés de vecteurs | Mauritania, 6AS-M, Ch. 6, printed p. 79 |
+| Trigonométrie – Calcul trigonométrique | Mauritania, 6AS-M, Ch. 7, printed p. 89 |
+| Angles orientés de vecteurs | Mauritania, 6AS-C, Ch. 6, printed p. 79 |
+| Trigonométrie – Calcul trigonométrique | Mauritania, 6AS-C, Ch. 7, printed p. 89 |
+| Fonctions trigonométriques (inside Ch. VI, Étude et représentation de fonctions numériques, §III) | Mauritania, 6AS-D, Ch. VI, body p. 107 |
+| Trigonométrie: cercle trigonométrique, angles orientés | Mauritania, 6AS-D, Ch. VII, body p. 131 |
 
 | The trigonometric point — The unit circle and the trigonometric point of an angle; coterminal angles θ + 2πn share the same point (6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 198 |
 | Sine and cosine defined — Sine = y-coordinate and cosine = x-coordinate of the trigonometric point; domain all reals, range [−1, 1] (within 6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 201 |
@@ -197,7 +212,7 @@ Every part traces to its book and page.
 | Representing trigonometric functions graphically | Jordan, Grade 11 Student Book Term 2 (Academic Track), Unit 4, Lesson 3, printed p. 33 |
 | Workbook practice: trigonometric functions (T2 U4) | Jordan, Grade 11 Workbook Term 2, Unit 4 (workbook evidence) |
 | Workbook practice: trigonometric functions (its U2) | Jordan, Grade 11 Workbook Term None — orphan copy, Unit 2 (workbook evidence) |
-**Acceptance count: taught in 29 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone, Kazakhstan, Libya, Jordan).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 30 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone, Kazakhstan, Libya, Jordan, Mauritania)**.** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Libya carries trigonometric functions of any angle in Grade 11 Mathematics (Science section), Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 

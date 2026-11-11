@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania
 
 Every part traces to its book and page.
 
@@ -81,6 +81,9 @@ Every part traces to its book and page.
 
 **Book 53:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 54:** *Mathematics, Grade 6, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-354-8, National Library deposit no. 2022/4/2030 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -118,6 +121,10 @@ Every part traces to its book and page.
 | Constructing One-Step Word Problems Using Subtraction Up to 10 from Pictures | Sierra Leone, Primary 1 Term 1, L35, printed p. 70 (teacher plans) |
 | Construct Word Problems Using Subtraction Up to 10 | Sierra Leone, Primary 1 Term 1, L37, printed p. 74 (teacher plans) |
 | Construction of Circles; Construction of Triangles; Construction of Parallel Lines; … (5 lessons in the run) | Sierra Leone, JSS 1 Term 2, L101–L105, printed pp. 167–179 |
+| Drawing instruments: ruler, set square, protractor, compass | Mauritania, Grade 4 student book, printed pp. 96, 97, 98, 100 |
+| Drawing the square, the rectangle, the parallelogram and the rhombus; drawing, colouring and cutting shapes | Mauritania, Grade 4 student book, printed pp. 118–123 |
+| The instruments needed to draw quadrilaterals, the circle and triangles | Mauritania, Grade 5 student book, printed p. 32 |
+| Geometric constructions | Mauritania, Grade 6 student book, printed p. 107 |
 
 | Drawing a circle — draw a circle with ruler and compasses (al-firjār / al-barjal) | Sudan, Grade 4 Mathematics, printed p. 111 |
 | Dividing a segment — construction: divide a given segment into n equal parts using an auxiliary ray and parallels | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 75 |
@@ -218,7 +225,7 @@ Every part traces to its book and page.
 | Circle and geometrical construction (inside circle and its parts, central angle, relative positions, tangents) | Kazakhstan, Geometry 7 (Turapbekov, English-medium edition), Ch. 4, printed pp. 142–190 |
 | Geometric constructions (§2-3) | Libya, Grade 8 pupil's book, §2-3, printed pp.74–76 |
 | Geometric constructions | Jordan, Grade 6 Student Book Term 1, Unit 4, Lesson 5, printed p. 117 |
-**Acceptance count: taught in 26 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+**Acceptance count: taught in 27 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 

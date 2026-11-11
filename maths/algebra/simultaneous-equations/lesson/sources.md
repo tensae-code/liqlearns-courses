@@ -145,6 +145,14 @@ Every part traces to its book and page.
 **Book 98:** *Mathematics, Grade 10, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-360-9, National Library deposit no. 2022/4/2036 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 99:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
 **Book 100:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 101:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 102:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 103:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 104:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 105:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 106:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 107:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 108:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -194,6 +202,14 @@ Every part traces to its book and page.
 | Solving word problems with a system of equations | Tajikistan, Алгебра (Grade 7), printed p. 236 |
 | Simultaneous Linear Equations using Elimination; Simultaneous Linear Equations using Substitution; Simultaneous Linear Equations using Graphical Methods – Part 1; … (5 lessons in the run) | Sierra Leone, SSS 2 Term 1, L9–L13, printed pp. 24–35 |
 | Simultaneous Equations | Sierra Leone, SSS 3 Term 3, L127, printed p. 90 |
+| Équations, inéquations et systèmes (the systèmes part) | Mauritania, 3AS, Ch. 4, printed p. 81 |
+| Systèmes d’équations et d’inéquations | Mauritania, 4AS, Ch. 9, printed p. 125 |
+| Équations, inéquations et systèmes (the systèmes part) | Mauritania, 5AS-LM, Ch. 2, printed p. 33 |
+| Équations – Inéquations – Systèmes – Matrices (the systèmes part) | Mauritania, 6AS-M, Ch. 2, printed p. 17 |
+| Équations – Inéquations – Systèmes – Matrices (the systèmes part) | Mauritania, 6AS-C, Ch. 2, printed p. 17 |
+| Équations – Inéquations – Systèmes – Matrices (the systèmes part) | Mauritania, 6AS-D, Ch. II, body p. 19 |
+| Équations, inéquations et systèmes (the systèmes part) | Mauritania, 6AS-LM, Ch. 1, printed p. 11 |
+| Systems of two first-degree equations (inside Ch. 1, نواتج التعلمات) | Mauritania, 6AS-LO, Ch. 1, body pp. 8–20 |
 
 | Simultaneous equations by elimination and substitution | South Sudan, Student's Book 1, Unit 4, printed pp. 104–105 |
 | Solving simultaneous equations using matrices | South Sudan, Student's Book 2, matrices, printed pp. 59–60 |

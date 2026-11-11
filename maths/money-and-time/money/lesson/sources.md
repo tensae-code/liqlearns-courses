@@ -130,6 +130,13 @@ Every part traces to its book and page.
 **Book 87:** *Mathematics, Grade 7, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-378-4, National Library deposit no. 2022/4/2064 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 88:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-367-8 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP deposit line names it Term 1 (الفصل الدراسي الأول) — a cataloguing slip inside the book; its cover, contents and deposit number 2022/4/2058 prove it is the Term 2 workbook, and it is cited as Term 2.
 **Book 89:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-369-2 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 90:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 91:** *Maths exercise cahier* (Grade 1 workbook — the Grades 1–3 Arabic-and-maths support programme cahier) — Mauritania, Arabic, 120 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 92:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 93:** *دفتر التمارين* (Grade 2 exercise workbook) — Mauritania, Arabic, 2026, 128 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 94:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 95:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 96:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -169,6 +176,15 @@ Every part traces to its book and page.
 | Calculation of Unit Price; Making Comparisons with Unit Price | Sierra Leone, JSS 2 Term 1, L44–L45, printed pp. 113–115 |
 | Change of Subject – Part 1; Change of Subject – Part 2 | Sierra Leone, SSS 1 Term 2, L85–L86, printed pp. 99–102 |
 | Foreign Exchange | Sierra Leone, SSS 3 Term 2, L71, printed p. 69 |
+| Simple buying and selling: the total and the change | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 34–36) |
+| Money practice: coin pieces and simple buying (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Handling coin pieces | Mauritania, Grade 2 student book, printed p. 26 |
+| Money; banknotes of 50 and 100; using the Mauritanian ouguiya | Mauritania, Grade 2 student book, printed pp. 45, 47, 49, 94 |
+| Money practice: banknotes 20/50/100 and coins (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| Coin pieces | Mauritania, Grade 3 student book, printed p. 39 |
+| Banknotes | Mauritania, Grade 3 student book, printed p. 88 |
+| Buying and selling | Mauritania, Grade 4 student book, printed p. 76 |
+| Buying and selling (1) and (2) | Mauritania, Grade 6 student book, printed pp. 22, 24 |
 
 | Prices in pounds in addition practice — read toy prices in Sudanese pounds (e.g. 43, 65, 16 pounds) and add them | Sudan, Grade 1 Mathematics, printed p. 69 |
 | Coins of India — coins currently in use in India: recognise the coins | India, Math-Magic Class 1, printed p. 124 |

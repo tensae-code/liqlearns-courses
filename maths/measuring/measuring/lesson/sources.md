@@ -438,6 +438,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 247:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 248:** *Mathematics, Grade 4, Teacher Guide, Term 2 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 4 Term 2 guide material (see the filing attribution note on the Term 2 fragment copies). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 249:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 250:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 251:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 252:** *دفتر التمارين* (Grade 2 exercise workbook) — Mauritania, Arabic, 2026, 128 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 253:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 254:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 255:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 256:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -566,6 +573,25 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The Degree as a Unit of Measure | Sierra Leone, SSS 1 Term 3, L117, printed p. 59 |
 | Length of an Arc | Sierra Leone, SSS 3 Term 1, L10, printed p. 36 |
 | Measures of Dispersion | Sierra Leone, SSS 3 Term 3, L112, printed p. 48 |
+| Comparing lengths; half and double; taking away and adding on a length | Mauritania, Grade 1 student book, terms 1–2 |
+| Measuring length in squares | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 34–36) |
+| Length practice (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Measuring length | Mauritania, Grade 2 student book, printed pp. 11, 37 |
+| Measuring capacity | Mauritania, Grade 2 student book, printed p. 70 |
+| Length practice: traditional units and centimetres (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| Comparing lengths | Mauritania, Grade 3 student book, printed p. 11 |
+| Capacity units | Mauritania, Grade 3 student book, printed p. 75 |
+| Measuring lengths | Mauritania, Grade 3 student book, printed p. 91 |
+| Comparing weights | Mauritania, Grade 3 student book, printed p. 94 |
+| Using the balance | Mauritania, Grade 3 student book, printed p. 99 |
+| Length and width | Mauritania, Grade 4 student book, printed p. 89 |
+| The metre, its multiples and its parts | Mauritania, Grade 4 student book, printed pp. 127, 130, 133 |
+| The gram and its multiples | Mauritania, Grade 4 student book, printed pp. 136–138 |
+| The metre, its parts and its multiples | Mauritania, Grade 5 student book, printed p. 13 |
+| Mass units: the gram, its parts and multiples | Mauritania, Grade 5 student book, printed p. 18 |
+| The (decimal) dial/scale (الدواليب) | Mauritania, Grade 5 student book, printed p. 40 |
+| Density (الكتلة الحجمية) | Mauritania, Grade 6 student book, printed p. 83 |
+| Capacity units | Mauritania, Grade 6 student book, printed p. 156 |
 
 | Length (metre/centimetre, 1 m = 100 cm, ruler use); weight (kg/g, 1 kg = 1000 g); volume of liquid (litre); time (analogue/digital clock, days, months) | Bangladesh, *Elementary Mathematics, Class Two*, Ch 5 Measurement, printed pp. 107–120 |
 | Length (mm/cm/m/km conversions); weight (kg/g); time (seconds/minutes/hours, quarter past/half past, durations) | Bangladesh, *Elementary Mathematics, Class Three*, Ch 11 Measurement, printed pp. 110–122 |

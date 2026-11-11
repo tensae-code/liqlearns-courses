@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania
 
 Every part traces to its book and page.
 
@@ -81,6 +81,13 @@ Every part traces to its book and page.
 **Book 54:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 55:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 60:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -102,6 +109,14 @@ Every part traces to its book and page.
 | Summary of properties of operations on real numbers: commutative, associative, distributive, identity elements | Rwanda, Senior 1 Student's Book, Unit 2, printed p. 62 |
 | The integers: positive integers N+, negative integers N−, and 0; membership notation ∈, ∉; the set of integers denoted Z | Tajikistan, Математика (Grade 6), printed p. 248 |
 | Irrational numbers proved by the diagonal of a square (√2); the real numbers, N ⊂ Z ⊂ Q ⊂ R | Tajikistan, Алгебра (Grade 8), printed p. 88 |
+| Les nombres rationnels | Mauritania, 2AS, Ch. 3, printed p. 41 |
+| Calcul dans ℝ | Mauritania, 3AS, Ch. 2, printed p. 31 |
+| Nombres réels et opérations | Mauritania, 4AS, Ch. 1, printed p. 7 |
+| Ordre, intervalles et valeurs absolues | Mauritania, 4AS, Ch. 2, printed p. 21 |
+| Calcul dans ℝ | Mauritania, 5AS-M, Ch. 1, printed p. 9 |
+| Calcul dans ℝ | Mauritania, 5AS-D, Ch. 1, printed p. 9 |
+| Calcul dans ℝ | Mauritania, 5AS-LM, Ch. 1, printed p. 9 |
+| Real numbers (inside Ch. 1, الأعداد الحقيقية والمقاييس الإسلامية — real numbers and the Islamic measures) | Mauritania, 5AS-LO, Ch. 1, printed p. 9 |
 
 | Whole numbers defined; numbers to tens of thousands — the numbers 0, 1, 2, 3, … are called whole numbers; read and write numbers within tens of thousands (27,536; 15,420) on abacus and place chart | Sudan, Grade 4 Mathematics, printed p. 3 |
 | Rational numbers — Rational number defined as أ/ب with ب ≠ 0, from families of equivalent fractions collapsing to one simplest form; numerator/denominator named; every integer is rational; ص (integers) ⊂ ن (rationals) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 3 |
@@ -228,7 +243,7 @@ Every part traces to its book and page.
 | Square roots and irrational expressions: the square root, irrational and real numbers, estimating roots, the graphs y = √x and y = ∛x | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 1, §1.1–1.18, printed pp. 8–56 |
 | Whole numbers (§1-1) | Libya, Grade 7 pupil's book, §1-1, printed p.9 |
 | Rational and irrational numbers (§10-2) | Libya, Grade 7 pupil's book, §10-2, printed p.62 |
-**Acceptance count: taught in 22 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya).** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+**Acceptance count: taught in 23 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
 
 Libya carries the real number system in Grade 7 — whole numbers in Chapter 1 and rational and irrational numbers in Chapter 2 (stocked by the 2026-11-08 re-verification sweep).
 

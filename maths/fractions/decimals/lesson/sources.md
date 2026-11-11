@@ -320,6 +320,10 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 167:** *Mathematics, Grade 5, Teacher Guide, Term 2* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-098-1 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 5 Term 2 course (the genuine NCCD guide). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 168:** *Learning-Support Materials Guide — Grade 5, Term 2, Unit 6 (decimal fractions) only (old Ministry series)* (teacher guide) — Jordan, Ministry of Education, first (experimental) edition 1443/2022; no ISBN printed (Arabic). Teacher evidence only: the old-Ministry learning-support guide for one unit of the old Grade 5 course; the filing (maths/books/jordan.md) reads the held 28-page file as this work, not a chunk of the NCCD Grade 5 Term 2 guide, and it is cited under that attribution. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 169:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 170:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *الرياضيات للسنة الخامسة — دليل المعلم* (Grade 5 teacher guide) — Mauritania, Arabic, 2025, 102 pp. Teacher evidence only: teaching theory, the Grade 5 inputs framework and per-lesson support. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 173:** *وثيقة تكوينية لتدريس الرياضيات للحلقة الثالثة* (Cycle 3 training document, Grades 5–6) — Mauritania, Arabic/French, 2026, 137 pp. Teacher evidence only: a training document whose maths axis covers the Grades 5–6 programme, not a grade teacher guide. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -413,6 +417,14 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Addition and Subtraction of Decimals; Multiplication and Division of Decimals | Sierra Leone, SSS 1 Term 1, L4–L5, printed pp. 12–15 |
 | Real World Use of Decimals | Sierra Leone, SSS 1 Term 1, L11, printed p. 31 |
 | Approximating of Decimals | Sierra Leone, SSS 1 Term 1, L28, printed p. 80 |
+| The number line (المستقيم العددي) | Mauritania, Grade 5 student book, printed p. 54 |
+| Decimal arithmetic: adding decimals, multiplying decimals, dividing decimals | Mauritania, Grade 5 student book, printed pp. 84, 91, 93 |
+| Operations on natural numbers and decimal numbers | Mauritania, Grade 5 student book, printed pp. 87, 92 |
+| Adding decimals; subtracting decimals | Mauritania, Grade 6 student book, printed pp. 35, 37, 39 |
+| Nombres décimaux et fractions (the decimals part) | Mauritania, 1AS, Ch. 3, printed p. 43 |
+| Nombres décimaux relatifs | Mauritania, 2AS, Ch. 2, printed p. 21 |
+| Teaching theory, the Grade 5 inputs framework and per-lesson support (teacher evidence) | Mauritania, Grade 5 teacher guide (teacher evidence) |
+| The Cycle 3 (Grades 5–6) training document: its maths axis covers the Grades 5–6 programme, aims and classroom sequences (teacher evidence) | Mauritania, Cycle 3 training document (teacher evidence) |
 
 | Fractions ↔ decimals; when a fraction can become a decimal exactly | South Sudan, Pupil's Book 5, 1.8 Fractions and decimals, printed pp. 23–26; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Squares and square roots of decimals | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4; South Sudan, Pupil's Book 8, 1.3 Squares and square roots of decimals and fractions, printed pp. 9–10 |

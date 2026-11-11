@@ -103,6 +103,14 @@ Every part traces to its book and page.
 **Book 69:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-384-5 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *Mathematics, Grade 10, Teacher Guide, Term 2 (chunk copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 10 Term 2 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 71:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-786-7 (Arabic). Workbook evidence: practice companion to the Grade 12 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 73:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 75:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 76:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 77:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 78:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 79:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -149,6 +157,18 @@ Every part traces to its book and page.
 | Elective course: prodhimi skalar (The scalar (dot) product of two vectors) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 70 |
 | Introduction to Vectors and Scalars; Basic Vector Properties; Addition and Subtraction of Vectors; … (6 lessons in the run) | Sierra Leone, SSS 3 Term 2, L73–L78, printed pp. 75–90 |
 | Magnitude of a Vector; Direction of a Vector; Parallel and Perpendicular Vectors; … (7 lessons in the run) | Sierra Leone, SSS 3 Term 2, L80–L86, printed pp. 96–114 |
+| Repères et vecteurs (the vecteurs part) | Mauritania, 2AS, Ch. 5, printed p. 61 |
+| Vecteurs du plan | Mauritania, 4AS, Ch. 6, printed p. 79 |
+| Calcul vectoriel | Mauritania, 5AS-M, Ch. 3, printed p. 25 |
+| Produit scalaire | Mauritania, 5AS-M, Ch. 9, printed p. 103 |
+| Applications (the vectors part) | Mauritania, 5AS-M, Ch. 13, printed p. 149 |
+| Calcul vectoriel | Mauritania, 5AS-D, Ch. 3, printed p. 21 |
+| Produit scalaire | Mauritania, 5AS-D, Ch. 9, printed p. 79 |
+| Applications (the vectors part) | Mauritania, 5AS-D, Ch. 10, printed p. 85 |
+| Droites et vecteurs dans le plan (the vecteurs part) | Mauritania, 5AS-LM, Ch. 4, printed p. 69 |
+| Produit scalaire | Mauritania, 6AS-M, Ch. 8, printed p. 101 |
+| Produit scalaire | Mauritania, 6AS-C, Ch. 8, printed p. 101 |
+| Coordinates of a point and components of a vector (inside Ch. 4, الهندسة في المستوى) | Mauritania, 6AS-LO, Ch. 4, body pp. 42–45 |
 
 | Vector — introduction; scalar vs vector; representation of a vector in coordinates and graph; triangle law of vector addition; operations of vectors; multiplication of a vector by a scalar; magnitude, direction of a vector and unit vector; no scalar (dot) product | Nepal, Grade 9 Optional Mathematics, Lesson 4 Vector, printed pp. 206–227 |
 | Vector — scalar (dot) product, parallel and perpendicular conditions, scalar product in coordinates, geometrical meaning and properties; mid-point formula; internal and external division theorems; vector proofs; no cross (vector) product | Nepal, Grade 10 Optional Mathematics, Lesson 10 Vector, printed pp. 217–241 |

@@ -328,6 +328,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 174:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 175:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 176:** *Mathematics, Grade 10, Teacher Guide, Term 1 (chunk copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 10 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 177:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 178:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 179:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 180:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -431,6 +435,10 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Area of a Circle | Sierra Leone, SSS 3 Term 1, L13, printed p. 47 |
 | Solving Problems on Circles | Sierra Leone, SSS 3 Term 1, L29, printed p. 93 |
 | Circles | Sierra Leone, SSS 3 Term 3, L130, printed p. 99 |
+| The circle | Mauritania, Grade 3 student book, printed p. 80 |
+| Cercles et disques | Mauritania, 1AS, Ch. 7, printed p. 107 |
+| Droites et cercles (the circles part) | Mauritania, 2AS, Ch. 9, printed p. 107 |
+| Angles et cercles (the circles part) | Mauritania, 3AS, Ch. 5, printed p. 107 |
 
 | Drawing a circle; centre, radius, diameter | Bangladesh, *Elementary Mathematics, Class Five*, Ch 10 §10.5 Circle, printed p. 109 |
 | Drawing a circle from pin and pencil; determining the centre; circumference by rolling; ratio of circumference to diameter; pi; area of a circle by cutting it into equal parts and rearranging | Bangladesh, *Mathematics, Class Seven*, Exp 8 Let's Measure a Circle, printed pp. 161–180 |

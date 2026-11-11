@@ -154,6 +154,13 @@ Every part traces to its book and page.
 **Book 107:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-369-2 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 108:** *Mathematics, Grade 2, Teacher Guide, Term 2 — Unit 9 chunk (first-edition part-work)* (teacher guide) — Jordan, Ministry of Education (Arabic). Teacher evidence only: a per-unit chunk of the first-edition Grade 2 Term 2 guide covering Unit 9 (time and money). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 109:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-371-5 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 110:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 111:** *Maths exercise cahier* (Grade 1 workbook — the Grades 1–3 Arabic-and-maths support programme cahier) — Mauritania, Arabic, 120 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 112:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 113:** *دفتر التمارين* (Grade 2 exercise workbook) — Mauritania, Arabic, 2026, 128 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 116:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -231,6 +238,13 @@ Every part traces to its book and page.
 | Time Intervals in Months, Weeks and Days | Sierra Leone, Primary 5 Term 2, L89, printed p. 64 (teacher plans) |
 | Measuring lengths of objects in millimetres and centimetres; Conversion of lengths from centimetres to millimetres and millimetres to centimetres | Sierra Leone, Primary 6 Term 1, L58–L59, printed pp. 129–131 (teacher plans) |
 | 12-hour and 24-hour clock; A.M. and P.M; Addition and subtraction with time; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 2, L106–L109, printed pp. 116–124 (teacher plans) |
+| Time words: yesterday, today, tomorrow; naming the hour in the closing exercises | Mauritania, Grade 1 student book, terms 1–2; the closing exercises at printed p. 141 |
+| Time-word practice (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Time: morning and evening; days of the week | Mauritania, Grade 2 student book, printed pp. 62, 78, 86 |
+| Time practice (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| The month and the year | Mauritania, Grade 3 student book, printed p. 29 |
+| Reading the time | Mauritania, Grade 3 student book, printed pp. 52, 84 |
+| Parts of the hour | Mauritania, Grade 5 student book, printed p. 20 |
 
 | Parts of the day — morning and evening activities at home and at school (no clock reading) | Sudan, Grade 1 Mathematics, printed p. 81 |
 | Days of the week — the seven days listed starting with Friday; order the days and fill the gaps | Sudan, Grade 1 Mathematics, printed p. 83 |

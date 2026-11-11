@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania
 
 Every part traces to its book and page.
 
@@ -91,6 +91,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 48:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 49:** *Mathematics, Grade 10 pupil's book, Part 2* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 50:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 51:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -127,6 +129,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Applying the circle theorems; equation of a tangent to a circle at a point (plan 59) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 104 |
 | Circle Theorem 1; Applications of Circle Theorem 1; Circle Theorem 2; … (12 lessons in the run) | Sierra Leone, SSS 3 Term 1, L17–L28, printed pp. 59–90 |
 | Circle Theorems | Sierra Leone, SSS 3 Term 3, L131, printed p. 102 |
+| Droites et cercles | Mauritania, 2AS, Ch. 9, printed p. 107 |
+| Angles et cercles | Mauritania, 3AS, Ch. 5, printed p. 107 |
 
 | Parts of a circle; diameter and chords; arcs; inscribed and central angles; angle on a semicircle (90°); cyclic quadrilaterals; concyclic points; circumcircle, incircle and excircle of a triangle; secant and tangent; arc length; sector and segment area | Bangladesh, *Mathematics, Class Eight*, Exp 7 Ins and outs of circles, printed pp. 147–180 |
 
@@ -223,7 +227,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Angles of a cyclic quadrilateral | Libya, Grade 10 pupil's book Part 2, §7-8, printed p.91 |
 | Alternate segment angles | Libya, Grade 10 pupil's book Part 2, §8-8, printed p.97 |
 
-**Acceptance count: taught in 29 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 30 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed

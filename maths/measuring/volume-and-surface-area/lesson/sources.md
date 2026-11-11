@@ -363,6 +363,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 175:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 176:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 177:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 178:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 179:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 180:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 181:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 182:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 183:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -487,6 +494,16 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Surface Area of a Triangular Prism; Volume of a Triangular Prism; Surface Area of a Cylinder; … (10 lessons in the run) | Sierra Leone, SSS 3 Term 1, L35–L44, printed pp. 111–142 |
 | Surface Area of Composite Solids; Volume of Composite Solids | Sierra Leone, SSS 3 Term 1, L47–L48, printed pp. 151–155 |
 | Area & Surface Area; Volume | Sierra Leone, SSS 3 Term 3, L133–L134, printed pp. 108–111 |
+| 3-D shapes: cube and spheres | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 29–36) |
+| Solids | Mauritania, Grade 3 student book, printed p. 97 |
+| The cuboid and the cube | Mauritania, Grade 5 student book, printed pp. 80, 90 |
+| The cube and the cuboid (the shape lessons) | Mauritania, Grade 6 student book, printed pp. 127, 129 |
+| Geometric terms for solids | Mauritania, Grade 6 student book, printed p. 132 |
+| Cuboid: lateral area, total area and volume; cylinder: area and volume | Mauritania, Grade 6 student book, printed pp. 196, 200, 203, 205 |
+| Cylindre, sphère et boule | Mauritania, 2AS, Ch. 12, printed p. 149 |
+| Pyramide et cône de révolution | Mauritania, 3AS, printed p. 271 |
+| Pyramide | Mauritania, 4AS, Ch. 16, printed p. 240 |
+| Cône de révolution | Mauritania, 4AS, Ch. 17, printed p. 254 |
 
 | Volume in litres and cubic units (volume of solids by formula is NOT taught here) | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.3, printed pp. 115–132 |
 | Measuring the planes of a box; making 3-D models | Bangladesh, *Mathematics, Class Six*, Ch 10 The Story of Geometric Shapes, printed pp. 190–221 |

@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania
 
 Every part traces to its book and page.
 
@@ -53,6 +53,11 @@ Every part traces to its book and page.
 **Book 29:** *Algebra, Grade 7* (Yelemesov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 30:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -84,6 +89,11 @@ Every part traces to its book and page.
 | Factorisation by Completing the Squares Method | Sierra Leone, JSS 3 Term 2, L82, printed p. 109 |
 | Practice with Factorisation | Sierra Leone, JSS 3 Term 2, L84, printed p. 115 |
 | Factoring – Common Factors; Factoring – Grouping | Sierra Leone, SSS 1 Term 2, L75–L76, printed pp. 72–74 |
+| Calcul littéral | Mauritania, 2AS, Ch. 4, printed p. 51 |
+| Calcul littéral | Mauritania, 3AS, Ch. 3, printed p. 69 |
+| Calcul littéral | Mauritania, 4AS, Ch. 4, printed p. 49 |
+| Literal calculation (الحساب الحرفي) | Mauritania, 5AS-LO, Ch. 2, printed p. 19 |
+| Factorising a trinomial: the canonical form (تفكيك ثلاثي الحدود: الشكل القانوني) | Mauritania, 6AS-LO, Ch. 2, body p. 23 on |
 
 | Geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab | Venezuela, Conciencia Matemática (Grade 8), printed p. 18 |
 | Rule — notable product (a + b)² = a² + 2ab + b² stated as a fixed-rule product | Venezuela, Conciencia Matemática (Grade 8), printed p. 19 |
@@ -136,7 +146,7 @@ Every part traces to its book and page.
 | HCF of algebraic terms | Libya, Grade 9 pupil's book, §4-1, printed p.20 |
 | Factorisation: by grouping; trinomials; difference of squares; sum/difference of cubes | Libya, Grade 9 pupil's book, §5-1, printed p.24 |
 
-**Acceptance count: taught in 14 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 15 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania)**.** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Libya carries factorisation in Grade 9, Chapter 1, where expansion and factorisation are taught as one chapter (stocked by the 2026-11-08 re-verification sweep).
 

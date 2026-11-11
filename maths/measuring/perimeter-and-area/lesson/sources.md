@@ -440,6 +440,9 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 228:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 229:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 230:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 231:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 232:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 233:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -547,6 +550,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area of Compound Shapes | Sierra Leone, SSS 3 Term 1, L8, printed p. 29 |
 | Perimeter of a Sector; Perimeter of a Segment | Sierra Leone, SSS 3 Term 1, L11–L12, printed pp. 39–43 |
 | Area of a Sector; Area of a Segment; Area and Perimeter of Composite Shapes | Sierra Leone, SSS 3 Term 1, L14–L16, printed pp. 50–56 |
+| Dimensions of the square and the rectangle | Mauritania, Grade 4 student book, printed pp. 155, 156 |
+| Area units: the square metre, its parts and multiples | Mauritania, Grade 5 student book, printed p. 29 |
+| Area of the rectangle | Mauritania, Grade 5 student book, printed p. 67 |
+| Area of the square and of the triangle | Mauritania, Grade 5 student book, printed pp. 64, 89 |
+| Area units: the square metre, its parts and multiples | Mauritania, Grade 6 student book, printed pp. 167, 169 |
+| Areas: square, rectangle, triangle, parallelogram, rhombus, trapezium | Mauritania, Grade 6 student book, printed pp. 173, 175, 177, 179, 182, 184 |
 
 | Length and perimeter; area of a rectangle = length × width, of a square = side × side; 1 m² = 10,000 cm² | Bangladesh, *Elementary Mathematics, Class Four*, Ch 10 Measurement, printed pp. 121–133 |
 | Area of rectangles, parallelograms and triangles | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.4–11.6, printed pp. 115–132 |

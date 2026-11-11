@@ -101,6 +101,10 @@ Every part traces to its book and page.
 **Book 64:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-384-5 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 65:** *Mathematics, Grade 10, Teacher Guide, Term 2 (chunk copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 10 Term 2 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 66:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-784-3 (Arabic). Workbook evidence: practice companion to the Grade 12 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 67:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 68:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 69:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 70:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -211,6 +215,10 @@ Every part traces to its book and page.
 | Elective course: zbatime të derivateve të rendit të dytë (Applications of second derivatives) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 67 |
 | Note: the sphere's area is the derivative of its volume with respect to the radius, S(R) = V′(R), and conversely V(R) = ∫₀ᴿ S(R) dR | Tajikistan, Геометрия (Grade 11), printed p. 129 |
 | History of geometry, part 4: Newton (1643–1727) and Leibniz (1646–1716) completing the differential and integral calculus — the results this book used for the volumes of cylinder, cone and ball; Monge (1746–1818) and Euler (1707–1783) and the birth of differential geometry; Hamilton (1805–1865) and Gibbs (1839–1903) founding vector calculus — named in this survey only: vectors themselves are not taught in this book | Tajikistan, Геометрия (Grade 11), printed p. 135 |
+| Dérivation – Dérivées – Primitives (the dérivation part) | Mauritania, 6AS-M, Ch. 5, printed p. 59 |
+| Derivation (الاشتقاق) | Mauritania, 6AS-LO, body p. 33 |
+| Dérivation (inside Ch. 2, Généralités sur les fonctions) | Mauritania, 7AS-LM, Ch. 2, printed p. 29 |
+| Derivation (inside Ch. 2, عموميات على الدوال) | Mauritania, 7AS-LO, Ch. 2, body pp. 24–53 |
 
 | Rates — Change Δx, Δy and average rate of change; contexts: rocket distance/time, expanding heated disc, production per worker; Worked average rates: √(x−2) from 3 to 3.21 (≈0.476); disc area as radius goes 6 → 6.1 cm (12.1π) | Sudan, Grade 12 Basic Mathematics (humanities track), printed pp. 31–32 |
 | Definition — Derivative motivated geometrically: secant slope → tangent slope as Δx → 0; First derivative defined from first principles; notations y′, f′(x), dy/dx, differential coefficient | Sudan, Grade 12 Basic Mathematics (humanities track), printed pp. 33, 35 |

@@ -271,6 +271,9 @@ textbook.
 **Book 168:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 169:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 170:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 171:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 172:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 173:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -340,6 +343,10 @@ textbook.
 | Graphs of sin 𝜃 and cos 𝜃 | Sierra Leone, SSS 2 Term 3, L113, printed p. 51 |
 | Travel Graphs | Sierra Leone, SSS 3 Term 2, L57, printed p. 27 |
 | Transformations on the Cartesian Plane | Sierra Leone, SSS 3 Term 3, L132, printed p. 105 |
+| Drawing on the grid | Mauritania, Grade 3 student book, printed p. 90 |
+| Repères et vecteurs (the repères part) | Mauritania, 2AS, Ch. 5, printed p. 61 |
+| Repères et droites du plan | Mauritania, 3AS, Ch. 7, printed p. 129 |
+| Repères du plan | Mauritania, 4AS, Ch. 7, printed p. 95 |
 
 | Direct proportion as y = ax, the Cartesian plane, graph of direct proportionality (a > 0 and a < 0), rule of three | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as y = ax and inverse proportionality as y = a/x, with graphs (a > 0 and a < 0); the Cartesian plane; restricted domain | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |

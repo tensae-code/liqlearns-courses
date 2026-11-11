@@ -1,6 +1,6 @@
 # Sources — Geometry in Space
 
-countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt
+countries: China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania
 
 Every part traces to its book and page.
 
@@ -41,6 +41,8 @@ Every part traces to its book and page.
 
 **Book 30:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *Applied Mathematics, Grade 11, Term 1* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 32:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -101,6 +103,8 @@ Every part traces to its book and page.
 | Applied exercise set: length of the parallel (latitude circle) of the Earth at latitude 60°; distance a point at latitude 60° N travels in one hour of the Earth's rotation (R = 6000 km) → 785 km | Tajikistan, Геометрия (Grade 11), printed p. 87 |
 | Tangent plane to a ball/sphere defined (exactly one common point, the point of tangency); Theorem 20 (proved in both directions — printed with the misprint "Тероемаи"): a plane is tangent iff it is perpendicular to a diameter at its endpoint — editorial note: Theorem 20's heading is misprinted “Тероемаи” in the book. | Tajikistan, Геометрия (Grade 11), printed p. 90 |
 | Lines and the ball: no common point / secant / tangent; a tangent line lies in the tangent plane; infinitely many tangent lines and planes from an external point — editorial note: Theorem 20's heading is misprinted “Тероемаи” in the book. | Tajikistan, Геометрия (Grade 11), printed p. 90 |
+| Géométrie dans l’espace | Mauritania, 5AS-M, Ch. 12, printed p. 141 |
+| Géométrie dans l’espace | Mauritania, 6AS-C, Ch. 12, printed p. 172 |
 
 | Axioms of space geometry; basic (undefined) concepts point, line, plane vs defined concepts; theorem vs axiom | North Macedonia, Grade 11, §5.7, printed p. 231 |
 | Mutual position of a line and a plane, of two planes, of two lines | North Macedonia, Grade 11, §5.8, printed p. 236 |
@@ -129,7 +133,7 @@ Every part traces to its book and page.
 | The plane | Egypt, Grade 11 Applied, Term 1, U2 L2, printed p. 64 |
 | The sphere | Egypt, Grade 11 Applied, Term 1, U2 L3, printed p. 69 |
 
-**Acceptance count: taught in 21 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt).**
+**Acceptance count: taught in 22 countries (China, Armenia, Vietnam, Kuwait, Greece, Iraq, Yemen, Cambodia, Kazakhstan, Laos, North Macedonia, Iran, Syria, India, Mongolia, Afghanistan, Ecuador, Albania, Bolivia, Tajikistan, Egypt, Mauritania)**.**
 
 China carries the full synthetic system twice, in the B-edition Compulsory Volume 4 Chapter 11 and in parallel in the A-edition Compulsory Volume 2 Chapter 8: three basic facts and corollaries, parallelism and perpendicularity as criterion-and-property systems, and the three space angles. Armenia carries the stereometry opening course in Geometry 10 Chapter I — axioms and consequences, positions including the skew-lines criterion, and line–plane perpendicularity. Vietnam carries the synthetic theorem system across both Grade 11 volumes: parallelism and parallel projection in Volume 1, perpendicularity, projection, the line–plane angle, perpendicular planes and distance in Volume 2 — the filing notes its space work is synthetic, with no space vectors. Kuwait carries the system in Grade 11 Term 2 Unit 10 — postulates, skew lines, the three-perpendiculars theorem, the dihedral angle and perpendicular planes — synthetic only, with no vectors or coordinates in space, as filed. Greece carries lines and planes in space in Euclidean Geometry Volume B Chapter 12, including Thales' theorem in space, the dihedral plane angle and projection. Iraq carries space geometry in Grade 11 Science Chapter 7 with six numbered theorems, and dihedral angles in Grade 12 Science Chapter 6, of which only the read-and-checked projection example (pp.238–240) is cited here.
 

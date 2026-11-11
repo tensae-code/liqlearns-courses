@@ -205,6 +205,12 @@ textbook.
 **Book 111:** *Mathematics, Grade 11, Student Book, Term 1 — Academic Track* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, reprinted 2025, ISBN 978-9923-41-791-1, National Library deposit no. 2025/6/3251 (Arabic). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 112:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 113:** *Mathematics, Grade 7, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-357-6 (Arabic). Workbook evidence: practice companion to the Grade 7 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 114:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 116:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 118:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 119:** *Mathématiques 7ème AS, série Mathématiques (C)* — Mauritania, IPN, French, 201 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -261,6 +267,13 @@ textbook.
 | Transformime funksionesh (Transformations of functions), incl. combinations | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
 | Elective course: kombinimi i transformimeve (Combining graph transformations; a function composed with its inverse gives y = x) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 35, 62 |
 | Translation – Part 1; Translation – Part 2; Reflection – Part 1; … (10 lessons in the run) | Sierra Leone, SSS 3 Term 2, L87–L96, printed pp. 117–144 |
+| Transformations | Mauritania, 2AS, Ch. 10, printed p. 117 |
+| Transformations dans le plan | Mauritania, 3AS, printed p. 209 |
+| Transformations géométriques | Mauritania, 5AS-M, Ch. 10, printed p. 115 |
+| Transformations géométriques planes | Mauritania, 6AS-M, Ch. 11, printed p. 159 |
+| Transformations géométriques planes | Mauritania, 6AS-C, Ch. 11, body p. 160 |
+| Transformations 1 | Mauritania, 7AS-C, Ch. 11, printed p. 136 |
+| Transformations 2 | Mauritania, 7AS-C, Ch. 12, printed p. 147 |
 
 | Congruence and similarity through photos (scaling as enlargement in pictures) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Line symmetry and rotational symmetry; the mirror test (reflection and rotation as symmetry only) | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |

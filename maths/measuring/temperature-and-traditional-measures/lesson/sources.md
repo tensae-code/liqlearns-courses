@@ -33,6 +33,8 @@ Every part traces to its book and page.
 **Book 22:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 23:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+**Book 24:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 25:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -47,6 +49,8 @@ Every part traces to its book and page.
 | Old Kazakh length units (tutam, qarys, qulam, shaqyrym, with yard, foot, mile) in a reference box | Kazakhstan, Abylkasymova et al., *Mathematics*, Grade 5 (Mektep, 2017), Part 1, §2, p.12 |
 | Traditional Lao mass units — baht, salung, hun — and the carat, alongside kg/g/t | Laos, Grade 5 student book (2009), L31, printed pp.76–89 |
 | Words Problems Involving Degrees Celsius | Sierra Leone, Primary 5 Term 2, L88, printed p. 62 (teacher plans) |
+| Agricultural measures: are, centiare, hectare | Mauritania, Grade 6 student book, printed p. 171 |
+| The Islamic measures (a unit of Ch. 5, تنظيم المعطيات — organising data) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
 
 | Traditional dry measures (al-makāyīl) — measuring sorghum and wheat: 1 kayla = 2 rubuʿ = 4 malwa; 1 rubuʿ = 2 malwa; conversions (7 kayla = 28 malwa; 48 malwa = 12 kayla) | Sudan, Grade 4 Mathematics, printed p. 53 |
 | Temperature — City temperatures in degrees Celsius with decimals (Srinagar 8.1°C, Mumbai 35.1°C): hottest, coolest, differences | India, Math-Magic Class 5, printed p. 145 |

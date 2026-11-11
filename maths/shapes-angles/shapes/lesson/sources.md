@@ -467,6 +467,16 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 287:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 288:** *Mathematics, Grade 5, Teacher Guide, Term 2 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 2 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 289:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
+**Book 290:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 291:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 292:** *دفتر التمارين* (Grade 2 exercise workbook) — Mauritania, Arabic, 2026, 128 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 293:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 294:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 295:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 296:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 297:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 298:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 299:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -597,6 +607,27 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Geometry | Sierra Leone, SSS 3 Term 1, L3, printed p. 11 |
 | Surface Area of a Cuboid; Volume of a Cuboid; Nets of Prisms | Sierra Leone, SSS 3 Term 1, L32–L34, printed pp. 102–108 |
 | Surface Area of a Sphere; Volume of a Sphere | Sierra Leone, SSS 3 Term 1, L45–L46, printed pp. 144–148 |
+| Shapes: square, rectangle, triangle | Mauritania, Grade 1 student book, terms 1–3 |
+| Comparing solids: box, bottle, ball; 3-D shapes — cube and spheres | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 29–36) |
+| Shape practice (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Solids; classifying solids; distinguishing geometric shapes | Mauritania, Grade 2 student book, printed pp. 68, 76, 88, 92 |
+| Shape and solid practice (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| Drawing simple geometric shapes | Mauritania, Grade 3 student book, printed p. 21 |
+| The rectangle | Mauritania, Grade 3 student book, printed p. 33 |
+| The square | Mauritania, Grade 3 student book, printed p. 45 |
+| The triangle | Mauritania, Grade 3 student book, printed p. 73 |
+| Solids | Mauritania, Grade 3 student book, printed p. 97 |
+| Base and height | Mauritania, Grade 4 student book, printed p. 93 |
+| The square | Mauritania, Grade 4 student book, printed p. 106 |
+| The triangle | Mauritania, Grade 5 student book, printed p. 60 |
+| The parallelogram | Mauritania, Grade 5 student book, printed p. 66 |
+| The rhombus and the trapezium | Mauritania, Grade 5 student book, printed pp. 73, 76 |
+| Quadrilaterals: the square and the rectangle | Mauritania, Grade 6 student book, printed pp. 101, 103, 105 |
+| The triangle: its kinds and properties | Mauritania, Grade 6 student book, printed p. 111 |
+| The parallelogram; the rhombus; the trapezium | Mauritania, Grade 6 student book, printed pp. 115, 116, 118, 121 |
+| Triangles et parallélogrammes | Mauritania, 1AS, Ch. 4, printed p. 63 |
+| Polygones | Mauritania, 2AS, Ch. 7, printed p. 87 |
+| Plane geometry (الهندسة في المستوي) | Mauritania, 5AS-LO, Ch. 6, printed p. 65 |
 
 | Round, triangular and quadrangular shapes in everyday objects | Bangladesh, *Elementary Mathematics, Class One*, Ch 12 Geometry, printed pp. 82–85 |
 | Round/triangular/quadrangular shapes; circle/sphere/cylinder, triangle/quadrangle/rectangle/square | Bangladesh, *Elementary Mathematics, Class Two*, Ch 4 Geometric Shapes and Patterns, printed pp. 102–106 |

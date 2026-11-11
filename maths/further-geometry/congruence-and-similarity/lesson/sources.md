@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania
 
 Every part traces to its book and page.
 
@@ -220,6 +220,9 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 114:** *Algebra and Geometry, Grade 7: didactic materials and problem collections* (Kucher et al.; Smirnov et al.) (workbook kind) — Kazakhstan, Mektep, 2017. Workbook evidence: exercises, tests and problem collections keyed to the Abylkasymova Grade 7 algebra chapters and the Smirnov Grade 7 geometry chapters. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 115:** *Mathematics, Grade 8* (Ryskeldieva et al., NIS line) — Kazakhstan, NIS (one 192-page book held in four identical part-files across languages/printings: Ch. 1 square roots and irrational expressions, Ch. 2 polygons and quadrilaterals, Ch. 3 quadratic equations, Ch. 4 relations between sides and angles of a right triangle). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 116:** *Geometry, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 118:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 119:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -281,6 +284,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Congruent and Similar Triangles | Sierra Leone, SSS 1 Term 3, L135, printed p. 109 |
 | Similar Triangles | Sierra Leone, SSS 2 Term 2, L63, printed p. 43 |
 | Area of Similar Shapes | Sierra Leone, SSS 3 Term 1, L7, printed p. 25 |
+| Projection orthogonale | Mauritania, 2AS, Ch. 8, printed p. 101 |
+| Projection dans le plan | Mauritania, 3AS, printed p. 167 |
+| Thalès | Mauritania, 3AS, printed p. 175 |
+| Théorème de Thalès | Mauritania, 4AS, Ch. 11, printed p. 152 |
 
 | Congruence and similarity through leaves, books and photos; paper aeroplane; the game of four sticks; the three congruence conditions for triangles (two sides + included angle; three sides; two angles + adjacent side) found by construction (printed pp. 125–132); similarity conditions for triangles and quadrilaterals (printed pp. 136–140) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Similar triangles; Pythagoras' theorem; ratios in triangles; quadrilaterals | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |
@@ -507,7 +514,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 36 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 37 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).

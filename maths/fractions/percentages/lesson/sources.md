@@ -267,6 +267,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 135:** *Mathematics, Grade 7, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-378-4, National Library deposit no. 2022/4/2064 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 136:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 137:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 138:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -326,6 +327,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percentage Error | Sierra Leone, SSS 2 Term 1, L7, printed p. 19 |
 | Additional Practice with Applications of Percentage | Sierra Leone, SSS 3 Term 2, L72, printed p. 72 |
 | Percentiles; Applications of percentiles | Sierra Leone, SSS 3 Term 3, L110–L111, printed pp. 42–45 |
+| Proportionnalité et pourcentage (the pourcentage part) | Mauritania, 1AS, Ch. 5, printed p. 85 |
 
 | Percent as part per hundred; percent ↔ decimal ↔ fraction; percentages of quantities | South Sudan, Pupil's Book 4, 1.6 Percentages, printed pp. 25–31; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Percentage increase and decrease | South Sudan, Pupil's Book 7, 1.5 Percentage increase and decrease, printed pp. 7–8 |

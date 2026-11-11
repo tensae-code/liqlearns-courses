@@ -283,6 +283,11 @@ Every part traces to its book and page.
 **Book 211:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 212:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 213:** *Mathematics, Grade 5, Teacher Guide, Term 1 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 5 Term 1 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 214:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 215:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 216:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 217:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 218:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -438,6 +443,22 @@ Every part traces to its book and page.
 | Addition of Numbers Involving 3 or More Terms Up to 100,000 | Sierra Leone, Primary 5 Term 2, L71, printed p. 25 (teacher plans) |
 | Addition of numbers up to 1,000,000 | Sierra Leone, Primary 6 Term 1, L16, printed p. 34 (teacher plans) |
 | Application of the Addition and Multiplication Laws | Sierra Leone, SSS 3 Term 3, L103, printed p. 21 |
+| The + sign; the idea of adding-on | Mauritania, Grade 1 student book, term 2 |
+| Adding inside each number band to 50, without then with carrying; horizontal and vertical layout | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 27–35; the pupil book’s lesson 37, printed p. 121, works the bands under 30) |
+| Addition practice within 50 (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Adding two numbers | Mauritania, Grade 2 student book, printed p. 9 |
+| Solving a problem (the addition side) | Mauritania, Grade 2 student book, printed p. 15 |
+| Addition without carrying; addition with carrying | Mauritania, Grade 2 student book, printed pp. 21, 23 |
+| The horizontal layout for addition; using the addition table to solve a problem; adding two numbers whose sum is less than 60 | Mauritania, Grade 2 student book, printed pp. 60, 66, 72 |
+| Addition practice, with and without carrying (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| The addition table | Mauritania, Grade 3 student book, printed p. 8 |
+| Using the addition table | Mauritania, Grade 3 student book, printed p. 23 |
+| Adding 1, 2 or 3; adding 10; adding 11 and 12; adding 9 to a number | Mauritania, Grade 3 student book, printed pp. 30, 50, 71, 92 |
+| Addition: the column operation | Mauritania, Grade 3 student book, printed p. 47 |
+| Sum and product (the sum part) | Mauritania, Grade 3 student book, printed pp. 57–58 |
+| Addition with carrying, to 9,999 | Mauritania, Grade 4 student book, printed p. 58 |
+| Operations on natural numbers: addition | Mauritania, Grade 5 student book, printed p. 26 |
+| Operations on naturals: addition and subtraction (the addition part) | Mauritania, Grade 6 student book, printed p. 17 |
 
 | Addition to 5, to 9, to 10, to 19; two-digit addition without carrying | Nepal, Grade 1 student book (English Version, Fifth Edition 2067 BS and Revised Edition 2074 BS), L7, L10, L13, L14, L19, L33, printed pp. 14–16, 23–24, 27–30, 39–43, 67–68 |
 | Addition of 2- and 3-digit numbers with and without carrying; commutative property | Nepal, Grade 2 English student book (old series, Revised Edition 2074 BS), L10, printed pp. 30–36 |

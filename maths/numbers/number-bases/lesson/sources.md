@@ -1,6 +1,6 @@
 # Sources — Number Bases
 
-countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania, Tajikistan
+countries: Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania, Tajikistan, Mauritania
 
 Every part traces to its book and page.
 
@@ -30,6 +30,8 @@ Every part traces to its book and page.
 **Book 16:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
 
 **Book 17:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -56,6 +58,8 @@ Every part traces to its book and page.
 | The binary system and its applications; writing natural numbers in binary | Tajikistan, Алгебра (Grade 7), printed p. 176 |
 | Developing tally charts based on answers to questions | Sierra Leone, Primary 2 Term 1, L56, printed p. 112 (teacher plans) |
 | Review of Number Bases and Indices | Sierra Leone, SSS 2 Term 1, L1, printed p. 3 |
+| Numbers in base 2: decomposition into powers of 2, binary writing, operations in binary (inside Ch. 1, Arithmétique) | Mauritania, 3AS, printed pp. 18–22 (body) |
+| Sexagesimal arithmetic: adding and subtracting sexagesimal numbers | Mauritania, Grade 5 student book, printed pp. 94–100 |
 
 | Binary system — The binary system: base 2, digits 0 and 1, place values as powers of 2; binary table for decimal 0–10; reading a binary number digit by digit | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 95 |
 | Binary to decimal — Binary → decimal by expanding into powers of 2 (111010₂ = 58; 10110₂ = 22) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 97 |
@@ -71,7 +75,7 @@ Every part traces to its book and page.
 | Decimal — The decimal system analysed against bases 2 and 5: ten digits, columns as powers of 10 from 10⁰, at most 9 per column, additive principle | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 29–30 |
 | World systems — Maya numeral glyphs shown; Inca quipu as a positional decimal knotted-cord register (a worked three-addend sum) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 32–33 |
 | History: positional systems base 20 (Maya), base 60 (Babylon), binary in computers | Uzbekistan, Matematika, Grade 5 (Russian), printed p. 24 |
-**Acceptance count: taught in 11 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania, Tajikistan).** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
+**Acceptance count: taught in 12 countries (Sierra Leone, Laos, Bangladesh, Nepal, Pakistan, Malaysia, Sudan, Venezuela, Uzbekistan, Albania, Tajikistan, Mauritania)**.** Sierra Leone carries the fullest bases course: JSS 3 opens base 2 and compares in it, and SSS 1 runs the complete course — expansion, repeated division, all four operations in non-decimal bases, and equations with an unknown digit or base. Laos carries bases inside one Grade 6 lesson that starts from base-ten expanded form and reaches a general base a, with arithmetic in bases 2, 3, 4, 5 and 7. Bangladesh carries binary twice — as a story in Class 7 and as a full system with the radix point and complements in Class 8. Nepal carries binary and base 5 across Grades 7 and 8, with the 2⁸…2⁰ place-value table. Pakistan carries the computer side only: binary, octal and hexadecimal place values and the 0–16 conversion table in its Class 12 Statistics book.
 
 Malaysia teaches number bases whole in Form 4 as a chapter of its own — representation by bundling, conversion both ways, the binary–octal shortcut by grouping digits in threes, and addition and subtraction carried out inside the base.
 

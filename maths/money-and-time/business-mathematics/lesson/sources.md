@@ -92,6 +92,9 @@ Every part traces to its book and page.
 **Book 67:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 70:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+**Book 71:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 72:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 73:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -133,6 +136,9 @@ Every part traces to its book and page.
 | Simple interest; tax — customs duty, withholding tax and VAT; insurance — premium, policy, sum assured and compensation, with life assurance | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 113–121 |
 | Compound interest and simple interest as geometric and arithmetic sequence applications; the annuity value built from compound interest; the time for a savings balance to exceed a fixed debt, solved with logarithms (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 2, printed pp. 75–82; Unit 3, printed pp. 97–101 |
 | Compound interest A = P(1 + r/k)^{kn} at different compounding frequencies; the mortgage payment formula with worked payments; population growth and doubling time; depreciation and decay models; Richter scale comparisons (Advanced) | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 2, printed pp. 119–129 |
+| Profit and loss | Mauritania, Grade 4 student book, printed p. 78 |
+| Buying and selling (1) and (2) | Mauritania, Grade 6 student book, printed pp. 22, 24 |
+| Zakat (a unit of Ch. 5, تنظيم المعطيات, named in the book’s preface) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
 
 | Profit and loss — Profit/loss percentages always on cost price; repairs and transport added to cost first (bicycle 7500 + 500, sold 9000 → 12.5٪ profit); finding selling price from a profit/loss percentage | Sudan, Grade 6 Mathematics, printed p. 89 |
 | Profit — Fish-drying factory: buy/sell prices, salt and packing costs, checking the claimed ₹44,000 monthly profit (recomputed: it is correct) | India, Math-Magic Class 5, printed p. 15 |

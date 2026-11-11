@@ -393,6 +393,10 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 **Book 221:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-373-9 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 222:** *Mathematics, Grade 4, Teacher Guide, Term 2* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-099-8 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 4 Term 2 course (complete guide; its imprint is internally inconsistent as printed — © HarperCollins 2023 and 'first (experimental) edition 1444/2023' against a catalogue block dated 2022, deposit no. 2020/10/4537 — recorded as printed). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 223:** *Mathematics, Grade 4, Teacher Guide, Term 2 (fragment copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 4 Term 2 guide material. The filing (maths/books/jordan.md) distinguishes the held Grade 4 Term 2 guide files into the complete guide, a per-unit issue of a revised scheme's Unit 6 (fractions) that is NOT a chunk of it (it adds a rounding-fractions lesson the complete guide does not have), a Unit 7 chunk of it, and the old-Ministry support-materials guide for Unit 6 only (Work B14); the fragment copies are cited as teacher evidence under that filing attribution. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 224:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 225:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 226:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 227:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -415,7 +419,7 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Comparing fractions with the same numerator or denominator | Egypt, Primary 3 Term 2 (old Education 2.0 series), Ch. 9 L. 7, printed p. 55 |
 | The unit fraction; fractions on the number line | Egypt, Prep 1 (Grade 7) Term 1 (new curriculum), U1 L4, printed p. 24 |
 | Fractions equal to one; fractions on the number line; fraction as division (first course) | Jordan, Grade 3 Term 2, Unit 9, L3 Fractions equal to one p.48, L4 Fractions on the number line p.50, L8 Fractions and division p.58; Vietnam, Grade 4 Volume 2, Theme 10, Bài 53 The fraction concept p.49, Bài 54 Fractions and division of natural numbers p.52, Bài 58 Comparing fractions p.64 |
-| Mauritania's honest limit (stated, not forced): fractions arrive in Grade 5, not before | Mauritania, Grade 1 student book: no fractions; Grade 2 student book: no fractions; Grade 3 student book: no fractions/decimals; Grade 4 student book: no fractions/decimals — filed in maths/books/mauritania.md (Bands A–B). Mauritania's fraction teaching used here is Grade 5, fractions concept and parts p.18, fraction reduction pp.56, 71; Grade 6, fractions pp.55, 57, common denominators p.59 |
+| Mauritania's honest limit (stated, not forced): fractions arrive in Grade 5, not before | Mauritania, Grade 1 student book: no fractions; Grade 2 student book: no fractions; Grade 3 student book: no fractions/decimals; Grade 4 student book: no fractions/decimals — filed in maths/books/mauritania.md (Bands A–B). Mauritania's fraction teaching used here is Grade 5, fractions concept and parts p.43, unifying denominators p.56, fraction reduction pp.68, 71; Grade 6, fractions pp.55, 57, common denominators p.59 |
 | Sierra Leone JSS first fraction course: numerator/denominator, comparing | Sierra Leone, JSS 1 Term 1, L14 Introduction to Fractions p.33, L15 Fractions with Different Denominators p.36 |
 | South Africa's early fractions: halves and quarters, then to sixths | South Africa, Grade 2 Workbook 2, units 90–94 Fractions – halves and quarters, printed pp.56–66; Grade 3 Workbook 2, units 91–93 fraction strip kits and sharing leading to fractions, printed pp.54–58 |
 | Fractions (first fractions) | Laos, Grade 3 student book, L43, printed p. 144 |
@@ -500,6 +504,10 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Real World Use of Fractions | Sierra Leone, SSS 1 Term 1, L10, printed p. 28 |
 | Recurring Decimals as Common Fractions | Sierra Leone, SSS 1 Term 1, L29, printed p. 83 |
 | Fractional Indices – Part 1; Fractional Indices – Part 2 | Sierra Leone, SSS 1 Term 1, L36–L37, printed pp. 103–106 |
+| Shares: equal shares of a whole (the precursor lesson — not fractions proper) | Mauritania, Grade 3 student book, printed p. 96 |
+| Nombres décimaux et fractions (the fractions part) | Mauritania, 1AS, Ch. 3, printed p. 43 |
+| Les nombres rationnels | Mauritania, 2AS, Ch. 3, printed p. 41 |
+| Fractions (a unit inside Ch. 1, المعادلات والمتراجحات) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
 
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | South Sudan, Pupil's Book 2, 1.11 Fractions, printed pp. 36–40 |
 | Equivalent fractions: same amount, different writing; the multiply/divide rule | South Sudan, Pupil's Book 3, 1.7 Comparing simple equivalent fractions, printed pp. 16–21; South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |

@@ -142,6 +142,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 75:** *Geometry, Grade 8* (Smirnov set) — Kazakhstan, Smirnov et al., Mektep (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 76:** *Mathematics, Grade 10, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-360-9, National Library deposit no. 2022/4/2036 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 77:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-362-3 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 78:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -182,6 +183,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Problem Solving with Trigonometric Ratios | Sierra Leone, SSS 2 Term 3, L110, printed p. 43 |
 | The Sine Rule; The Cosine Rule; Application of Sine and Cosine Rules | Sierra Leone, SSS 2 Term 3, L114–L116, printed pp. 54–60 |
 | Trigonometry | Sierra Leone, SSS 3 Term 3, L135, printed p. 114 |
+| Trigonométrie | Mauritania, 3AS, printed p. 193 |
 
 | Naming sides (opposite/adjacent/hypotenuse); the six ratios and reciprocal relations; values for 0°/30°/45°/60°/90° (full table); ratios for other angles by calculator; elevation and depression angles; distance-and-height problems (ladder 12 ft at 45° → ≈ 8.49 ft; broken pole 10 m at 30° → ≈ 17.32 m) — taught corrected: "geosynchronous line" is the horizontal line, the depression-angle definition is muddled (M9), and Greek gōnia means angle, not side (M8); the Exercise Q3 triangle (∠B = 90°, AC = 12 cm, BC = 13 cm) does not exist | Bangladesh, *Mathematics, Class Nine*, Ch 6 Trigonometry in Measurement, printed pp. 141–156 |
 

@@ -194,6 +194,16 @@ Every part traces to its book and page.
 **Book 134:** *Algebra, Grade 8* (Soltan set) — Kazakhstan, Soltan et al., Keleshek-2030 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 135:** *Algebra, Grade 8* (Yelemessov, English-medium edition) — Kazakhstan. Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 136:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
+**Book 137:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 138:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 139:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 140:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 141:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 142:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 143:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 144:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -254,6 +264,19 @@ Every part traces to its book and page.
 | Systems of linear inequalities in one variable; solution as intersection of intervals; bus-seats word problem — taught corrected: the solution's prose restates the bus problem's 10x > 238 once as 10x ≥ 238; the strict inequality is correct, as the problem states and the book's own system uses (the answer, 24 seats, is unaffected). | Tajikistan, Алгебра (Grade 8), printed p. 241 |
 | Fractional-linear inequalities (ax + b)/(cx + d) ⋛ 0 solved by sign analysis as pairs of systems | Tajikistan, Алгебра (Grade 8), printed p. 249 |
 | Inequalities on a Number Line; Solutions of Inequalities | Sierra Leone, SSS 2 Term 1, L21–L22, printed pp. 57–59 |
+| Équations et inéquations du premier degré (the inéquations part) | Mauritania, 2AS, Ch. 6, printed p. 75 |
+| Équations, inéquations et systèmes (the inéquations part) | Mauritania, 3AS, Ch. 4, printed p. 81 |
+| Ordre, intervalles et valeurs absolues | Mauritania, 4AS, Ch. 2, printed p. 21 |
+| Équations et inéquations (the inéquations part) | Mauritania, 4AS, Ch. 5, printed p. 63 |
+| Systèmes d’équations et d’inéquations (the inéquations part) | Mauritania, 4AS, Ch. 9, printed p. 125 |
+| Équations et inéquations (the inéquations part) | Mauritania, 5AS-M, Ch. 5, printed p. 45 |
+| Équations et inéquations (the inéquations part) | Mauritania, 5AS-D, Ch. 5, printed p. 35 |
+| Équations, inéquations et systèmes (the inéquations part) | Mauritania, 5AS-LM, Ch. 2, printed p. 33 |
+| Équations, inéquations et systèmes (the inéquations part) | Mauritania, 6AS-LM, Ch. 1, printed p. 11 |
+| First-degree equations and inequalities in one and two unknowns (inside Ch. 1) (the inequalities part) | Mauritania, 6AS-LO, Ch. 1, body pp. 8–20 |
+| Second-degree inequalities (متراجحات الدرجة الثانية) | Mauritania, 6AS-LO, Ch. 2, body p. 23 on |
+| Inéquations du second degré | Mauritania, 7AS-LM, Ch. 1, printed p. 12 |
+| Equations and inequalities (المعادلات والمتراجحات) (the inequalities part) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
 
 | First inequalities; the symbols > < ≥ ≤ | South Sudan, Pupil's Book 3, 4.1 Inequalities, printed pp. 61–63 |
 | Forming and solving inequalities | South Sudan, Student's Book 1, Unit 4, printed pp. 106–108 |

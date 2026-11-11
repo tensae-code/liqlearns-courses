@@ -70,6 +70,7 @@ Every part traces to its book and page.
 **Book 47:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
 
 **Book 48:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 49:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -97,6 +98,7 @@ Every part traces to its book and page.
 | Comparing journey times and crop yields by comparing expression values (worked problems) | Tajikistan, Алгебра (Grade 7), printed p. 13 |
 | Knowing Words to Describe Distance Away from Objects or Persons | Sierra Leone, Primary 1 Term 1, L51–L52, printed pp. 102–104 (teacher plans) |
 | Distance Formula | Sierra Leone, SSS 2 Term 1, L23, printed p. 61 |
+| Density (الكتلة الحجمية) | Mauritania, Grade 6 student book, printed p. 83 |
 
 | Speed as a rate — speed = distance ÷ time; km/h and miles/h; using the relation in all three directions | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 84 |
 | Distance–time tables — 40 km/h bicycle covering 40/80/120 km in 1/2/3 h; unit-mixed exercises (km/h and m/min) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 90 |

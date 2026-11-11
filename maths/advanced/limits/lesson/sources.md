@@ -60,6 +60,7 @@ Every part traces to its book and page.
 **Book 44:** *Algebra and Elements of Mathematical Analysis 11, natural-mathematics stream* — Armenia, Gegham Gevorgyan and Artur Sahakyan, student book, ISBN 978-9939-961-34-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 45:** *Mathematics, Grade 11, Term 1, General track (Literary section)* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (Deposit no. 10555/2015; ISBN 978-977-706-012-7). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 46:** *Mathematics, Grade 11, Term 1, General track (Literary section), Arabic edition* — Egypt, Ministry of Education and Technical Education, FIRST EDITION 2015/2016 (the held file is a double scan of this one book; cited once). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+**Book 47:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -87,6 +88,9 @@ Every part traces to its book and page.
 | The limit of sin x / x as x → 0 proved by the squeeze theorem; one-sided limits of trigonometric functions at a point; L'Hôpital's rule stated and applied to limits involving inverse trigonometric functions | Rwanda, Advanced Mathematics, Learner's Book, Senior Five, Unit 5, printed pp. 148–154 |
 | Limits of logarithmic and exponential functions at domain boundaries | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 2, printed pp. 85–86, 96, 106–110 |
 | Evaluating limits by Maclaurin expansion | Rwanda, Advanced Mathematics, Learner's Book, Senior Six, Unit 3, printed pp. 168–170 |
+| Asymptotes and infinite branches (inside Ch. 3, عموميات على الدوال) | Mauritania, 6AS-LO, Ch. 3, body p. 28 on |
+| Limites (inside Ch. 2, Généralités sur les fonctions) | Mauritania, 7AS-LM, Ch. 2, printed p. 23 |
+| Limits (inside Ch. 2, عموميات على الدوال) | Mauritania, 7AS-LO, Ch. 2, body pp. 24–53 |
 
 | History — Historical introduction to calculus: Greeks, Thabit ibn Qurra (826–901), Newton (1642–1727), Leibniz (1646–1716), Euler, Lagrange, Cauchy, Riemann, von Neumann quote | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 3 |
 | Concept — Limit idea built from tables and a graph with a hole at x = 2; limit notation نها; One-sided approach (from right +2, from left −2); when a limit does not exist; infinite limit written = ∞ | Sudan, Grade 12 Basic Mathematics (humanities track), printed pp. 10, 12 |

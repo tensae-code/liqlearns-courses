@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania
 
 Every part traces to its book and page.
 
@@ -37,6 +37,9 @@ Every part traces to its book and page.
 
 **Book 25:** *Mathematics, Grade 2 Book 2; Grade 4 Book 2; Grade 5 Book 2; Grade 7 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 7 Book 2 ISBN 978-1-4315-0220-2. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 **Book 26:** *Mathematics, Grade 8, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-381-4 (Arabic). Workbook evidence: practice companion to the Grade 8 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: this file was recorded in the library as the Grade 9 Term 2 workbook; the book itself is the Grade 8 Term 2 exercise book (cover: الرياضيات — الصف الثامن — كتاب التمارين), and Grade 9 has no workbook in hand.
+**Book 27:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -79,6 +82,9 @@ Every part traces to its book and page.
 | : drawing nets of geometric solids; three views of a solid (portfolio project, term 1) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 80 |
 | Representing 3D solids in 2D: top view, front and side elevations; volume of a cube-built solid; isometric paper | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 66 |
 | 3D solids and their three views/projections | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 44 |
+| Projection orthogonale | Mauritania, 2AS, Ch. 8, printed p. 101 |
+| Projection dans le plan | Mauritania, 3AS, printed p. 167 |
+| Projection dans le plan | Mauritania, 4AS, Ch. 10, printed p. 141 |
 
 | Definition — orthogonal projection of a point/segment on a line; an inclined segment projects shorter, a parallel one equal | Venezuela, Conciencia Matemática (Grade 8), printed p. 65 |
 | Application — front/side/top views of a house design (vistas) and orthogonal projection in building columns | Venezuela, Conciencia Matemática (Grade 8), printed p. 48 |
@@ -95,7 +101,7 @@ Every part traces to its book and page.
 | Visualise geometric objects; perspective (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 118 Visualise geometric objects, printed p. 140; South Africa, Grade 9 Book 2, Ws 120a–c Perspective, printed pp. 144, 146, 148 |
 | Workbook practice: three-dimensional shapes (T2 U8) | Jordan, Grade 8 Workbook Term 2, Unit 8 (workbook evidence) |
 
-**Acceptance count: taught in 12 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey).** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 13 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 

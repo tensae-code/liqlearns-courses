@@ -26,6 +26,8 @@ Every part traces to its book and page.
 
 **Book 20:** *Principles of Statistics (مبادئ الإحصاء), Grade 11* (student book; second year secondary, Humanities section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 21:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 2 — Business Track* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-790-4 (Arabic). Workbook evidence: practice companion to the Grade 12 Business Track student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 22:** *Mathématiques 7ème AS, série Mathématiques (C)* — Mauritania, IPN, French, 201 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 23:** *Mathématiques 7ème SN* (7AS, série D pupil's book) — Mauritania, IPN, French, 122 pp; by Mohameden Ould El Hadi, Mohameden Ould Bah. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -54,6 +56,8 @@ Every part traces to its book and page.
 | Population (demographic) statistics — the census, density, growth rate, sex ratio, vital statistics | Libya, Grade 12 Statistics (Humanities), Ch. 4, pp.89–107 |
 | Randomised response — honest answers to sensitive questions (reading) | China, Mathematics Compulsory Volume 2, A edition, Ch. 9, reading, p.185 (reading as filed) |
 | Definition — population vs sample; sample size; representativeness critique of a biased survey | Mongolia, Математик VIII (Grade 8), printed p. 172 |
+| Échantillonnage (inside Ch. 15, Probabilités et échantillonnage) | Mauritania, 7AS-C, Ch. 15, printed p. 181 |
+| Échantillonnage (inside Ch. 8, Probabilités et échantillonnage) | Mauritania, 7AS-D, Ch. 8, printed p. 98 |
 
 | Number of samples with replacement N^n (5^2 = 25), sample table | Venezuela, Naturaleza Matemática (Grade 10), printed pp. 29–30 |
 

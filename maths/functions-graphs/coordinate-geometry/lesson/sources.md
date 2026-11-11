@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania
 
 Every part traces to its book and page.
 
@@ -78,6 +78,13 @@ Every part traces to its book and page.
 **Book 51:** *Mathematics, Grade 10 pupil's book, Part 1* (student book; first year secondary) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 52:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 53:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 54:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 55:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 56:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 57:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 58:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 59:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -110,6 +117,13 @@ Every part traces to its book and page.
 | Graph of a linear equation in two variables | Tajikistan, Алгебра (Grade 7), printed p. 220 |
 | Mid-point Formula | Sierra Leone, SSS 2 Term 1, L24, printed p. 63 |
 | Mid-point of a Line Segment | Sierra Leone, SSS 3 Term 2, L79, printed p. 93 |
+| Repères et droites du plan | Mauritania, 3AS, Ch. 7, printed p. 129 |
+| Équations de droites | Mauritania, 4AS, Ch. 8, printed p. 111 |
+| Géométrie analytique | Mauritania, 5AS-M, Ch. 4, printed p. 33 |
+| Géométrie analytique | Mauritania, 5AS-D, Ch. 4, printed p. 27 |
+| Droites et vecteurs dans le plan (the droites part) | Mauritania, 5AS-LM, Ch. 4, printed p. 69 |
+| Plane geometry (الهندسة في المستوي) | Mauritania, 5AS-LO, Ch. 6, printed p. 65 |
+| Plane geometry: coordinates of a point and components of a vector; equation of a straight line; relative positions of two lines (inside Ch. 4, الهندسة في المستوى) | Mauritania, 6AS-LO, Ch. 4, body pp. 42–45 |
 
 | Lines parallel to the axes — Special cases x = a (parallel to y-axis) and y = b (parallel to x-axis) (3-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 83 |
 | Coordinate systems — Coordinate systems on a line and in the plane; describing point sets (quadrants, axes, lines) in set-builder form (7-2) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 230 |
@@ -242,7 +256,7 @@ Every part traces to its book and page.
 | Equation from gradient-and-point / two points (§§6-4–7-4) | Libya, Grade 10 pupil's book Part 1, §§6-4–7-4, printed p.142 |
 | Distance between two points | Libya, Grade 10 pupil's book Part 1, printed p.145 |
 | The midpoint | Libya, Grade 10 pupil's book Part 1, printed p.147 |
-**Acceptance count: taught in 25 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 26 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania)**.** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Libya carries coordinate geometry in Grade 9 (linear models and their equations) and Grade 10 Part 1, Chapter 4 (distance, midpoint, slope, equations of lines) (stocked by the 2026-11-08 re-verification sweep).
 

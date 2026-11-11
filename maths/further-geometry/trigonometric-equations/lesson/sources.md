@@ -1,6 +1,6 @@
 # Sources — Trigonometric equations
 
-countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan
+countries: Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania
 
 Every part traces to its book and page.
 
@@ -42,6 +42,11 @@ Every part traces to its book and page.
 **Book 29:** *Mathematics, Secondary 1 (Grade 10), Term 2* — Egypt, Ministry of Education and Technical Education (Arabic edition; distinct from the held old English edition). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 30:** *Mathematics, Grade 12, Student Book, Term 1 — Academic Track* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-783-6, National Library deposit no. 2025/6/3243 (Arabic). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 31:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-784-3 (Arabic). Workbook evidence: practice companion to the Grade 12 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 32:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 33:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 34:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 35:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 36:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,6 +76,11 @@ Every part traces to its book and page.
 | Ekuacione dhe identitete (Trig equations of forms sin nθ = k, sin(θ ± α) = k and analogues, and equations that produce a quadratic) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 8, 13 |
 | Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations, radian form) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 64 |
 | Elective course: zgjidhja e ekuacioneve trigonometrike (Solving trig equations with compound angles) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 65 |
+| Angles orientés – Trigonométrie | Mauritania, 5AS-M, Ch. 7, printed p. 71 |
+| Angles orientés – Trigonométrie | Mauritania, 5AS-D, Ch. 7, printed p. 53 |
+| Trigonométrie – Calcul trigonométrique | Mauritania, 6AS-M, Ch. 7, printed p. 89 |
+| Trigonométrie – Calcul trigonométrique | Mauritania, 6AS-C, Ch. 7, printed p. 89 |
+| Trigonométrie: équations et inéquations trigonométriques | Mauritania, 6AS-D, Ch. VII, body p. 131 |
 
 | Trig equation in sen x and csc x reduced to the cubic 12y³ − 25y² + y + 2 = 0; the root sen x = 2 discarded as impossible; solution families by quadrant and period | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed p. 79 |
 
@@ -95,7 +105,7 @@ Every part traces to its book and page.
 | Solving trigonometric equations | Jordan, Grade 12 Student Book Term 1 (Academic Track), Unit 2, Lesson 3, printed p. 61 |
 | Workbook practice: trigonometric identities and equations (Maths T1 U2) | Jordan, Grade 12 Workbook Term 1, Unit 2 (workbook evidence) |
 
-**Acceptance count: taught in 22 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan).** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 23 countries (Nicaragua, Laos, Armenia, Libya, Yemen, Kuwait, Cambodia, Vietnam, South Sudan, China, Malaysia, Rwanda, India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Albania, Bolivia, Palestine, Egypt, Jordan, Mauritania)**.** Nicaragua carries the general-solution method in its student book and the single-ratio rule with the easiest worked examples in its module. Laos carries equations and, uniquely in this lesson, a fully worked unit-circle inequality in consecutive lessons. Armenia carries the simplest equations and then names the main solving methods. Libya carries simple equations in Grade 11 and the a·cosθ ± b·sinθ equation form in Grade 12. Yemen gives equations their own lesson in Grade 11 Science. Kuwait solves equations in both its Grade 10 and Grade 11 Term 2 books. Cambodia solves the four basic forms in Grade 11 Basic and continues to equations and inequalities in Grade 11 Advanced. Vietnam teaches the basic equations in Bài 4. South Sudan solves equations graphically and arithmetically, including quadratic-shaped ones, in Secondary 4 Additional Mathematics. China solves from the trig lines and graphs in its B-edition Volume 3. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018) and the Grade 12 Algebra elective.
 
 Malaysia solves its trigonometric equations inside the same Additional Mathematics Form 5 chapter that builds the identities — the equations are the identities put to work.
 

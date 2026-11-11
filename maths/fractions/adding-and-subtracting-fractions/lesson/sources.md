@@ -324,6 +324,7 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Adding Fractions with the Same Denominator; Adding Fractions with Different Denominators; Subtracting Fractions with the Same Denominators; … (4 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L16–L19, printed pp. 36–44 (teacher evidence) |
 | Adding and Subtracting Fractions with Integers and Decimals | Sierra Leone, JSS 2 Term 1, L12, printed p. 33 |
 | Addition and Subtraction of Fractions | Sierra Leone, SSS 1 Term 1, L2, printed p. 6 |
+| Unifying fraction denominators | Mauritania, Grade 5 student book, printed p. 56 |
 
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |
 | Different denominators: make them the same first, with the LCM; 1/12 + 2/3 = 9/12 = 3/4 | South Sudan, Pupil's Book 5, 1.7 Adding and subtracting fractions using LCM, printed pp. 21–23 |

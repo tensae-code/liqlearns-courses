@@ -272,6 +272,10 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 142:** *Mathematics, Grade 7, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-378-4, National Library deposit no. 2022/4/2064 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 143:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-377-7 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 144:** *Mathematics, Grade 7, Teacher Guide, Term 2* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-421-7 (Arabic). Teacher evidence only: lesson guidance and keys for the Grade 7 Term 2 course. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 145:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 147:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 148:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -383,6 +387,11 @@ CITATION CHECK PASSED 2026-11-04).
 | Comparison of Ratios; Rate; Proportional Division | Sierra Leone, SSS 3 Term 2, L50–L52, printed pp. 6–12 |
 | Rates of Pay | Sierra Leone, SSS 3 Term 2, L59, printed p. 33 |
 | Ratio/Proportion/Rate/ Percentages | Sierra Leone, SSS 3 Term 3, L124, printed p. 81 |
+| Shares: equal shares of a whole | Mauritania, Grade 3 student book, printed p. 96 |
+| The idea of shares; unequal shares | Mauritania, Grade 5 student book, printed pp. 101, 103, 104, 106 |
+| Proportionnalité et pourcentage (the proportionnalité part) | Mauritania, 1AS, Ch. 5, printed p. 85 |
+| Proportionnalité | Mauritania, 5AS-LM, Ch. 5, printed p. 83 |
+| Ratio and proportion (units inside Ch. 1, المعادلات والمتراجحات) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
 
 | Ratio as comparison; scaling ratios | South Sudan, Pupil's Book 4, 1.5 Ratio, printed pp. 22–24 |
 | Ratio and proportion by the unitary method | South Sudan, Pupil's Book 6, 1.5 Ratios and proportion, printed pp. 15–17; South Sudan, Pupil's Book 7, 1.4 Ratios and proportions using the unitary method, printed pp. 5–6 |

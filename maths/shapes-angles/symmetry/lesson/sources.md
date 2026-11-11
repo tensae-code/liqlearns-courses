@@ -1,6 +1,6 @@
 # Sources — Symmetry
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, Mauritania
 
 Every part traces to its book and page.
 
@@ -229,6 +229,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 105:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
 **Book 106:** *Mathematics, Grade 4, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-351-7 (Arabic). Workbook evidence: practice companion to the Grade 4 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 107:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 108:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -276,6 +278,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Theorem 19 (proved): every diametral plane of a ball is a plane of symmetry, and the centre is a centre of symmetry; remarks: same for a sphere; every line through the centre is an axis of symmetry; infinitely many planes of symmetry | Tajikistan, Геометрия (Grade 11), printed p. 88 |
 | Draw and Identify Properties of Squares, Including Angles and Lines of Symmetry; Draw and Identify Properties of Rectangles, Including Angles and Lines of Symmetry | Sierra Leone, Primary 5 Term 2, L111–L112, printed pp. 116–119 (teacher plans) |
 | Line of Symmetry | Sierra Leone, JSS 2 Term 2, L94, printed p. 112 |
+| Transformations (the symmetry inside Ch. 10) | Mauritania, 2AS, Ch. 10, printed p. 117 |
+| Transformations dans le plan | Mauritania, 3AS, printed p. 209 |
 
 | Line symmetry and rotational symmetry; the mirror test; garden arrangement by symmetry | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
 
@@ -388,7 +392,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Reflection and reflective symmetry (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 89 Reflection and reflective symmetry, printed p. 56 |
 | Workbook practice: geometry (T1 U5) | Jordan, Grade 4 Workbook Term 1, Unit 5 (workbook evidence) |
 
-**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
+**Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, Mauritania)**.**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
 red-line test in Grade 3, axial symmetry in Grade 6, and the
 full axis-and-point symmetry chapter in Grade 7. Kazakhstan

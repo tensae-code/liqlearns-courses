@@ -117,6 +117,8 @@ Every part traces to its book and page.
 
 **Book 79:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
 **Book 80:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-654-9 (Arabic). Workbook evidence: practice companion to the Grade 11 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 81:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 82:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -159,6 +161,9 @@ Every part traces to its book and page.
 | Solving Logarithms Using Indices; Logarithms – Numbers Greater than 1; Antilogarithms – Numbers Greater than 1; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 1, L45–L48, printed pp. 129–136 |
 | Powers and Roots of Logarithms – Numbers greater than 1; Logarithms – Numbers less than 1; Antilogarithms – Numbers less than 0; … (8 lessons in the run) | Sierra Leone, SSS 1 Term 2, L49–L56, printed pp. 3–20 |
 | Indices and logarithms | Sierra Leone, SSS 3 Term 3, L122, printed p. 75 |
+| Fonctions logarithmes | Mauritania, 7AS-LM, Ch. 3, printed p. 45 |
+| Fonctions exponentielles | Mauritania, 7AS-LM, Ch. 4, printed p. 55 |
+| The logarithmic and exponential functions (الدالة اللوغاريتمية والأسية) | Mauritania, 7AS-LO, Ch. 3, body pp. 54–69 |
 
 | Powers with integer base and exponent: zero and negative exponents, multiplication/division of powers of equal base, power of a power, powers of equal exponent (module evidence) | Nicaragua, Grade 7 module, Unit I, Tema 4, printed pp. 50–52 |
 | Exponential function f(x) = aˣ, a > 0, a ≠ 1; natural exponential function eˣ; simple and compound interest; population growth and radioactive decay; inverse function; logarithmic function as the inverse of aˣ, log laws, graphing; exponential and logarithmic equations and applications — three misprints are corrected, never taught: "(1,015)^120" on printed p. 103 is (1,005)^120; "kt es la vida media" on p. 103 is wrong, the half-life is (ln 2)/k; "log 10 = 10" on p. 111 is log 10 = 1 (module evidence) | Nicaragua, Grade 10 module, Unit III, printed pp. 91–128 |

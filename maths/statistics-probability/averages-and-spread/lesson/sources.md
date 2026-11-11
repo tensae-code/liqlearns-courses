@@ -251,6 +251,13 @@ Every part traces to its book and page.
 **Book 179:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-375-3 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 180:** *Mathematics, Grade 10, Workbook (Exercise Book), Term 2* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-384-5 (Arabic). Workbook evidence: practice companion to the Grade 10 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 181:** *Mathematics, Grade 10, Teacher Guide, Term 2 (chunk copy)* (teacher guide) — Jordan, National Center for Curriculum Development (NCCD), Amman (Arabic). Teacher evidence only: a partial copy of the Grade 10 Term 2 guide. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 182:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 183:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 184:** *Mathématiques 5ème AS, série mathématiques* — Mauritania, IPN, French, 178 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 185:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 186:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 187:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 188:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -305,6 +312,13 @@ Every part traces to its book and page.
 | Mean of Grouped Data; Median of Grouped Data; Practice with mean, median, and mode of Grouped Data | Sierra Leone, SSS 2 Term 3, L134–L136, printed pp. 115–121 |
 | Statistics | Sierra Leone, SSS 3 Term 1, L4, printed p. 15 |
 | Statistics – Ungrouped Data; Statistics – Grouped Data | Sierra Leone, SSS 3 Term 3, L139–L140, printed pp. 126–129 |
+| Statistique | Mauritania, 1AS, Ch. 8, printed p. 119 |
+| Statistique | Mauritania, 2AS, Ch. 11, printed p. 135 |
+| Statistique | Mauritania, 5AS-M, Ch. 15, printed p. 167 |
+| Statistiques | Mauritania, 5AS-D, Ch. 12, printed p. 95 |
+| Statistiques | Mauritania, 5AS-LM, Ch. 6, printed p. 93 |
+| Statistics (الإحصاء) | Mauritania, 5AS-LO, Ch. 7, printed p. 73 |
+| Statistique (inside Ch. X, Statistique — Échantillonnage) | Mauritania, 6AS-D, Ch. X, body p. 169 |
 
 | Average (promedio) — concept, finding the total from the average, the average as a decimal number — the mean only; no median, mode, range or variance is taught anywhere in Nicaragua's set | Nicaragua, Grade 5 student book, Unit 13, printed pp. 134–147 |
 | Mean of numbers (4, 6, 3, 10, 2, 5 → sum 30 ÷ 6 = 5; a hen's eggs per day over a week) — mean only, no median or mode in Grade 5 | Ethiopia, Grade 5 student book, ch. 5 — data handling, printed pp. 63–81 |

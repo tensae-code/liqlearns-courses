@@ -266,6 +266,13 @@ Every part traces to its book and page.
 **Book 195:** *Mathematics, Grade 1, Teacher Guide booklet — 'Unit 2' (the subtraction unit, first-edition arrangement)* (teacher guide) — Jordan, Ministry of Education (Arabic). Teacher evidence only: the per-unit booklet issue of the first-edition Grade 1 guide covering the subtraction unit (numbered Unit 2 in that arrangement; it is Unit 4 in the current arrangement). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 196:** *Mathematics, Grade 2, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-347-0 (Arabic). Workbook evidence: practice companion to the Grade 2 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 197:** *Mathematics, Grade 3, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-349-4 (Arabic). Workbook evidence: practice companion to the Grade 3 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 198:** *الرياضيات للسنة الأولى الابتدائية* (Mathematics, Grade 1 pupil's book) — Mauritania, Institut Pédagogique National (IPN), Arabic, 145 pp (scanned-image book, read from rendered pages). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 199:** *Maths exercise cahier* (Grade 1 workbook — the Grades 1–3 Arabic-and-maths support programme cahier) — Mauritania, Arabic, 120 pp. Workbook evidence: practice sets paralleling the pupil book, strand by strand. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 200:** *الرياضيات، السنة الثانية الأساسية* (Mathematics, Grade 2 pupil's book) — Mauritania, IPN, Arabic, 105 pp (scanned-image book, read from rendered pages and its own printed contents, printed pp. 99–101). Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 201:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 202:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 203:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 204:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -385,6 +392,15 @@ Every part traces to its book and page.
 | Subtraction of Numbers up to 100,000 Using the Vertical Method With and Without Renaming | Sierra Leone, Primary 5 Term 1, L21, printed p. 51 (teacher plans) |
 | Subtraction of Numbers Involving 3 or More Terms Up to 100,000 | Sierra Leone, Primary 5 Term 2, L72, printed p. 27 (teacher plans) |
 | Subtraction of numbers up to 1,000,000 | Sierra Leone, Primary 6 Term 1, L17, printed p. 36 (teacher plans) |
+| The − sign; the idea of taking-away | Mauritania, Grade 1 student book, term 2 |
+| Subtracting inside each number band to 50 | Mauritania, Grade 1 student book, term 3 (teacher guide’s progression, weeks 27–35) |
+| Subtraction practice within 50 (workbook evidence) | Mauritania, Grade 1 workbook (workbook evidence) |
+| Solving a problem (the subtraction side) | Mauritania, Grade 2 student book, printed p. 15 |
+| Subtraction practice, with and without carrying (workbook evidence) | Mauritania, Grade 2 workbook (workbook evidence) |
+| Subtraction without carrying and with carrying; subtracting 9 from a number | Mauritania, Grade 3 student book, printed pp. 86, 87, 93 |
+| Subtraction with borrowing, to 9,999 | Mauritania, Grade 4 student book, printed p. 61 |
+| Operations on natural numbers: subtraction | Mauritania, Grade 5 student book, printed p. 31 |
+| Operations on naturals: addition and subtraction (the subtraction part) | Mauritania, Grade 6 student book, printed p. 17 |
 
 | Subtraction to 5, to 9, to 10, to 19; two-digit subtraction without borrowing | Nepal, Grade 1 student book (English Version, Fifth Edition 2067 BS and Revised Edition 2074 BS), L8, L10, L13, L14, L19, L34, printed pp. 17–20, 23–24, 27–30, 39–43, 69–70 |
 | Subtraction with borrowing, 3-digit, worked with “one ten means ten ones” | Nepal, Grade 2 English student book (old series, Revised Edition 2074 BS), L11, printed pp. 37–40 |

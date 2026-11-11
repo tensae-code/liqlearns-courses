@@ -33,10 +33,7 @@ printed; UKaid-funded, IRC / British Council partnership).
 Filed in maths/books/sierra-leone.md (FULLY READ + CITATION
 CHECK PASSED 2026-11-04).
 
-**Book 7:** *Mathématiques, 5AS (Grade 11), M/D streams*
-(student book) — Mauritania, Institut Pédagogique National
-(IPN), French. Filed in maths/books/mauritania.md (FULLY READ +
-CITATION CHECK PASSED 2026-11-05).
+**Book 7:** *Mathématiques 6ème AS, séries M* (student book) — Mauritania, Institut Pédagogique National (IPN), French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED). (Entry corrected by the 2026-11-08 re-verification sweep merge: as filed, this entry was headed “5AS (Grade 11), M/D streams” — the Suites numériques chapter it cites, Ch. 10 at printed p. 129, is this 6AS-M book’s, and the 6AS-C book carries the same chapter; no 5AS book teaches suites.)
 
 **Book 8:** *Mathematics, Grade 9, Book 1, Terms 1 & 2* (workbook)
 — South Africa, Department of Basic Education. Filed in
@@ -241,6 +238,13 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 **Book 143:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 144:** *Mathematics, Grade 10, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-382-1, National Library deposit no. 2022/4/2066 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 145:** *Mathematics, Grade 11, Workbook (Exercise Book), Term 1 — Academic Track, TRUE COMPANION copy (file …6262)* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, printed ISBN 978-9923-41-793-5 (Arabic). Workbook evidence: this is the held Grade 11 Term 1 student book's true companion (its limits set sits in Unit 2, p. 34, matching the student book's arrangement). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 146:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 147:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 148:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 149:** *Mathématiques 7ème SN* (7AS, série D pupil's book) — Mauritania, IPN, French, 122 pp; by Mohameden Ould El Hadi, Mohameden Ould Bah. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 150:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 151:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 152:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -254,7 +258,8 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences: finding the rule generating a sequence and extending it; Arithmetic Progressions: AP defined by first term a and common difference d; Geometric Progressions: GP defined by first term a and common ratio r; nth term of an arithmetic sequence; nth term of a geometric sequence; Series: sequence vs series, summing a series by adding terms; The Sum of an Arithmetic Series; numerical and real-life problems involving sequences and series; NOTE: no lesson on the sum of a geometric series here | Sierra Leone, SSS 2 Term 2 handbook, L49 Sequences p.3; L50 Arithmetic Progressions p.6; L51 Geometric Progressions p.8; L52 nth Term of an Arithmetic Sequence p.11; L53 nth Term of a Geometric Sequence p.14; L54 Series p.17; L55 The Sum of an Arithmetic Series p.19; L56 Problems p.22 |
 | Arithmetic patterns (constant difference); geometric patterns (constant ratio by division) | Sierra Leone, JSS 2 Term 3 handbook, L101 Arithmetic Patterns p.132; L103 Introduction to Geometric Patterns p.137 |
 | Geometric-series sums taught (in the whole-course review) — with the caution that the same lesson says "it is impossible to find the sum of an infinite sequence", which is not taught uncritically in this course | Sierra Leone, SSS 3 Term 3 handbook, L123 (geometric-series sums; flagged caution in maths/books/sierra-leone.md) |
-| Numerical sequences | Mauritania, 5AS (Grade 11) student book, "Suites numériques", p.129 |
+| Numerical sequences | Mauritania, 6AS-M, Ch. 10, printed p. 129 |
+| Numerical sequences | Mauritania, 6AS-C, Ch. 10, printed p. 129 |
 | Number patterns; number sequences; geometric patterns; number sequences and equations | South Africa, Grade 9 Book 1, Term 3, WS65 Number patterns; WS66 Number sequences; WS67 More number sequences; WS68 Geometric patterns; WS69 Number sequences and equations, pp.2–59 |
 | Number sequences, balance puzzles and grid directions | Laos, Grade 5 student book, L19–L20, printed pp. 50–55 |
 | Sequences, arithmetic and geometric sequences, limits and sums of sequences, applications of sequences | Laos, Grade 12 student book, L3–L6, printed pp. 13–46 |
@@ -295,6 +300,12 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Increasing numbers with a common difference; Increasing number patterns without a common difference; Decreasing number patterns with a common difference; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 1, L46–L49, printed pp. 103–109 (teacher plans) |
 | Writing sequences with multiples of 2 and 3; Writing sequences with multiples of 4 and 5 | Sierra Leone, Primary 6 Term 1, L54–L55, printed pp. 119–122 (teacher plans) |
 | Sequence of square numbers; Rule of sequences involving square numbers; Sequence of cube numbers; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 2, L116–L120, printed pp. 143–151 (teacher plans) |
+| Completing a series | Mauritania, Grade 3 student book, printed p. 83 |
+| Suites numériques | Mauritania, 6AS-D, Ch. III, body p. 45 |
+| Suites numériques | Mauritania, 6AS-LM, Ch. 3, printed p. 47 |
+| Suites numériques | Mauritania, 7AS-D, Ch. 5, printed p. 59 |
+| Suites numériques: arithmétiques/géométriques; limite d’une suite | Mauritania, 7AS-LM, Ch. 5, printed pp. 63, 65, 68 |
+| Numerical sequences (المتتاليات العددية): generalities, arithmetic and geometric sequences, convergence | Mauritania, 7AS-LO, Ch. 4, body pp. 70–91 |
 
 | Sequences, notation and general term; arithmetic sequences (aₙ = a₁ + (n−1)d) and sum of the first n terms (Sₙ = n(a₁ + aₙ)/2, proved by Gauss-style pairing); geometric sequences (aₙ = a₁·r^(n−1)) and sum of the first n terms (Sₙ = a₁(rⁿ − 1)/(r − 1)); summation notation Σ, its properties, Σk = n(n+1)/2 and Σk² = (1/6)n(n+1)(2n+1) — finite sums only; no infinite geometric series is taught | Nicaragua, Grade 11 student book, Unit 1, printed pp. 1–28 |
 | Identifying and extending growing patterns; predicting far terms (worked example p. 122 finds the 11th and 18th terms; exercise item 3 on p. 123 asks for the 17th and the 39th) — pattern work, not sequences-and-series proper | Ethiopia, Grade 3 student book, ch. 7 — patterns, printed pp. 117–127 |
