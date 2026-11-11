@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados
 
 Every part traces to its book and page.
 
@@ -358,6 +358,8 @@ countries join as their books are read (see READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries the plural spellings -s/-es and the irregular plurals in Grade 4 (Units 3 and 8), countable against uncountable with how many/how much in Grade 7 (Unit 2), and the noun inside a named word-classes opening in Grade 11 (Unit 1), with irregular plurals again in that book's Unit 13.
 Armenia joined 2026-11-03: it carries plurals beginning inside the first letter lessons in Grade 3 (Unit 1.4), nouns that refuse the singular/plural split as a named set in Grade 7 (Unit 4, printed p.103), and the noun system as reference in the Grade 7 appendix (printed pp.148–149).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Laos Grade 7 added 2026-10-27** — *English for Secondary
@@ -714,3 +716,24 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Countable and uncountable nouns | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 6, printed p.73 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Possessives in word attack (scope 3.1.5, begins Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 3.1.5; begins Class 1), PDF p. 10 (printed 3) — curriculum evidence |
+| Use nouns to name people, places and things | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 54 (47) — curriculum evidence |
+| Use "s" and "es" to form plurals; form irregular plurals (child–children, baby–babies, knife–knives, sheep–sheep) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 57 (50) — curriculum evidence |
+| Use plural and possessive forms of nouns correctly | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 54 (49) — curriculum evidence |
+| Identify nouns as words that name people, places and things; use connecting words to link simple sentences | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 37 (32) — curriculum evidence |
+| Use "es" to form the plural of certain words | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 38 (33) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

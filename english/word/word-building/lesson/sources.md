@@ -567,3 +567,36 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Prefixes and suffixes | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 6, printed p.74 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Sweep flag 1 lands here: the filing's prose described final-consonant doubling (shop → shopping) as stocked course content, but no sources row carried it; the Class 1 doubling row (PDF p. 38 (printed 31)) and the Class 4 doubling review row (PDF pp. 59–60) below now carry the point for real. The filing itself is reported, not edited. Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Spell words by doubling the final consonant before a suffix (shop → shopping) | Barbados, Primary Language Arts Syllabus, Class 1, word-building → PDF p. 38 (31) — curriculum evidence |
+| Spell words by dropping the final e before adding a suffix (make → making) | Barbados, Primary Language Arts Syllabus, Class 1, word-building → PDF p. 38 (31) — curriculum evidence |
+| Differentiate between "ie" and "ei" spellings | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 38 (31) — curriculum evidence |
+| Spell words with hard and soft c and g, and with the various sounds of consonants and vowels | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 39 (32) — curriculum evidence |
+| Correctly spell basic sight words and other commonly used words; use correct spelling to complete written tasks | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 55, 57 (48, 50) — curriculum evidence |
+| Use phonics and word structures to spell more difficult words | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 57 (50) — curriculum evidence |
+| Divide polysyllabic words with two consonants between two vowels (monkey, discuss) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 36 (31) — curriculum evidence |
+| Divide words with a twin consonant between separated vowel sounds (butter, cabbage) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 36 (31) — curriculum evidence |
+| Identify and use words with short and long vowel sounds (rag, rage) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 51 (46) — curriculum evidence |
+| Develop and use correctly words with t sounding like sh (portion), ss sounding like sh (mission), and cc sounding like ks (accident) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 51 (46) — curriculum evidence |
+| Correctly spell words identified by the teacher; use phonics to spell more difficult words | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 38 (33) — curriculum evidence |
+| Determine word meaning using structural analysis: compound words, prefixes, suffixes, roots, inflectional endings, blends and digraphs | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+| Spell key words in other subject areas | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 53–54 — curriculum evidence |
+| Spell words commonly misspelt and confused | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 57–59 — curriculum evidence |
+| Review words that double the final consonant before an ending; spell words with double consonants | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 59–60 — curriculum evidence |
+| Spell words with the schwa sound (Saturn, surgeon) | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 61 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

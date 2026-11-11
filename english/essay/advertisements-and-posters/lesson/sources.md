@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Malaysia, Jordan, Libya, Uzbekistan, Nepal, Ecuador
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Malaysia, Jordan, Libya, Uzbekistan, Nepal, Ecuador, Barbados
 
 Every part traces to its book and page.
 
@@ -78,6 +78,8 @@ verification sweep.
 | Help wanted — job ads, with finding the main idea of a text | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3B, PDF p.90 |
 
 **Acceptance count: taught in 23 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Malaysia, Jordan, Libya, Uzbekistan, Nepal, Ecuador).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with making an event poster (Grade 5) and reading notices about exhibitions and events (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with poster and slogan writing, a community clean-up notice, captions, the language of advertising, and a model charity-ride announcement (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -436,3 +438,19 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Making a poster explaining a local monument or building and why it is a work of art | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 5, printed pp.38–39 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expository writing set: class rules, news items, announcements, advertisements and reports (scope 4.3.1, begins Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.3.1; begins Class 1), PDF p. 14 (printed 7) — curriculum evidence |
+| Read across the content areas (newspapers, advertisements and other subjects' texts) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 43 (36) — curriculum evidence |
+| Distinguish between facts and opinions in advertisements; study the language used in broadcast advertisements | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 30 (25) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

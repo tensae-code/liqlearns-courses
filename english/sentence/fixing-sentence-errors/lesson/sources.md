@@ -1,6 +1,6 @@
 # Sources — Fixing sentence errors
 
-countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal
+countries: Ethiopia, Ghana, Sierra Leone, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sudan, Iraq, Armenia, South Africa, Jordan, Nepal, Barbados
 
 Every part traces to its book and page.
 
@@ -73,6 +73,8 @@ as curriculum evidence throughout, since no Ghana pupil
 textbook exists. Sierra Leone teaches completeness
 itself, with fragments and run-ons corrected inside the
 same lesson. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its spelling-mistake correction, proofreading, paragraph correction and sentence rewriting in Grades 6, 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 12* teaches editing and proofreading and final-draft critiquing in Unit 2 (printed pp.14–16) and sets spot-the-error as Unit 8's grammar work (printed p.60). It is filed in english/books/pakistan.md and was re-read page by page in the 2026-11-08 re-verification sweep.
 
@@ -225,3 +227,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Contractions: rewriting I'm, I've got, don't, she's, doesn't, hasn't in full and short forms | Nepal, *My English Book Grade 4* (Grade 4), printed p.18 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Identify and use proofreading marks applicable to the age level; develop at least one strategy for checking spelling errors | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 47 (42) — curriculum evidence |
+| Improve writing by substituting more complex words for underlined simple words and verb phrases; establish class criteria and individual improvement contracts | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 32 (27) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

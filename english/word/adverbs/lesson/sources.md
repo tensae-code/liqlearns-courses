@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados
 
 Every part traces to its book and page.
 
@@ -373,6 +373,8 @@ Grade 7, -ly formation in Grades 9–10, position in Grade 10,
 manner in Grade 11 (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — South Africa builds the adverb kinds year by year in the HL strand. Grade 3 Workbook 2 teaches adverbs answering how, when and where (printed pp.27, 29). Grade 4 Workbook 2 names adverbs of manner (printed pp.7, 11), degree (printed p.97) and place (printed p.98), and sets adjective against adverb (printed p.110). Grade 5 Workbook 2 classifies adverbs of manner, place and time (printed pp.29, 66), and Grade 6 Workbook 2 sorts adverbs into manner, place, time and frequency together (printed p.66).
@@ -665,3 +667,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Adverbs of frequency for frequent events | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 8, printed p.108 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use simple adjectives and adverbs appropriately; extend sentences by using adjectives and adverbs | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 55–56 (48–49) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

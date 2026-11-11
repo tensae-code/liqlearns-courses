@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -53,6 +53,8 @@ teaches main idea and note-taking together. China makes
 notes as a mind map — the shopping trip sorted around its
 questions (stocked 2026-11-08 by the re-verification
 sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its table, graph and chart work in Grades 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -154,3 +156,19 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Comparing two pie charts in writing | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 6, printed p.154 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Create outlines and webs for research purposes | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 37 (32) — curriculum evidence |
+| Select material pertinent to a given topic | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 43 (38) — curriculum evidence |
+| Classification of facts and events (scope 3.7.4, begins Class 3) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 3.7.4; begins Class 3), PDF p. 13 (printed 6) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

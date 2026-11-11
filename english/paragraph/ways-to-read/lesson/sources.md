@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -54,6 +54,8 @@ cited once.
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
 **Acceptance count: taught in 20 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Ethiopia joins with its reading strategies in Grades 7, 9 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -317,3 +319,39 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Skimming for gist and scanning for specific information; finding implicit information | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 1, printed p.9 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Participate in choral speaking; recite poems, rhymes, songs and stories | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 30 (23) — curriculum evidence |
+| Understand the purpose of oral reading; decode words accurately; use appropriate volume, pitch, tone, rate and enunciation | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Use appropriate phrasing, fluency and expression in oral reading | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Use efficient eye movement, effective eye–voice span and efficient breath control when reading aloud | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Maintain rhythm, voice projection and control, and audience awareness (eye contact) in oral reading | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Read aloud at independent level; self-correct when later reading shows an earlier miscue | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 36 (29) — curriculum evidence |
+| Use appropriate sight vocabulary to recognise words in isolation and in context (Dolch, Fry and Ekwall lists; the document's appendix prints Fry's 300 instant sight words) | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 37, 60–61 (30, 53–54) — curriculum evidence |
+| Silent reading: elimination of vocalisation (scope 3.3.1, begins Class 2) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 3.3.1; begins Class 2), PDF p. 11 (printed 4) — curriculum evidence |
+| Reproduce sound effects from books with various noises | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 28 (23) — curriculum evidence |
+| Identify the shape of words; use picture clues for word recognition | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 32 (27) — curriculum evidence |
+| Recognise and use basic sight words at the appropriate level; build a large stock of words commonly recognised at sight (Dolch, Fry or similar lists) and use them for meaningful reading | Barbados, Primary Language Arts Syllabus, Class 2, PDF pp. 32–33 (27–28) — curriculum evidence |
+| Locate and understand the function of the various sections of a book (list of contents, index) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 36 (31) — curriculum evidence |
+| Use the library (know its various sections and their functions) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 37 (32) — curriculum evidence |
+| Contribute to group discussion; participate in choral speaking and recite poems, rhymes, songs and stories | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 25 (20) — curriculum evidence |
+| Easily apply reading strategies: context clues, rereading, self-correcting, reading with others, predicting, questioning, clarifying and summarising | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 27 (22) — curriculum evidence |
+| Read aloud at independent level | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 28 (23) — curriculum evidence |
+| Employ rereading strategies to consolidate meaning; employ self-correcting strategies | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+| Use an appropriate reading rate for the content; vary and adjust the rate of reading to match the difficulty of the text and the purpose for reading | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+| Demonstrate mastery of reading skills and strategies across the curriculum; continue to develop vocabulary and fluency | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 37 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

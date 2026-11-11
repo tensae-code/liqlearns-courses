@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia,
@@ -192,6 +192,8 @@ Mauritania describes people in Grade 7 (looks and clothes) and
 again in Grade 9 (who/whose descriptions and character words)
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico describes people as identity: its Grade 7 book's mural of the different ways of being a teenager, and its Grade 8 book's portraits project against discrimination (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its describing work across Grades 3–10 — have/has descriptions, shapes, animal descriptions, products, people and places (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 4, 5, 6, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 5 object description, Grade 10 face-and-eyes adjectives and Grade 12 descriptive essay (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -637,3 +639,19 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing a descriptive essay | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 5, printed p.125 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Creative composition: language experience stories; description of persons, pets, places, animals, hobbies (scope 4.5.1, begins Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.5.1; begins Class 1), PDF p. 15 (printed 8) — curriculum evidence |
+| Develop simple characterisation sketches | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 44 (37) — curriculum evidence |
+| List the details given about characters and settings | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 31 (26) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

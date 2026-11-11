@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados
 
 Every part traces to its book and page.
 
@@ -343,6 +343,8 @@ workbook. Greece stocks this lesson only in part: it works word order as practic
 countries join as their books are read (see
 READING-QUEUE.md).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Syria added 2026-11-03** — *Emar series* (Syria, Ministry of Education; full read in english/books/syria.md). Syria stocks this lesson only in part: **sentence reordering in most units of Grade 3 Workbook 3** — adverb sentences, like-sentences, usually/now sentences, weather sentences, past sentences and could sentences — and **word-order correction as the writing work of Grade 9, Unit 7**, in both the Student's Book (printed pp.42–46) and the Workbook, with its word-order box (printed pp.32–36). No Syria book states a subject-and-verb sentence-building rule as a named lesson.
@@ -631,3 +633,33 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing sentences about the main economic activities of your area | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 1, printed p.1 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use increasingly complex sentence structures in oral communication (phrases, clauses, link words, descriptive vocabulary) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 31 (24) — curriculum evidence |
+| Communicate situations in full sentences | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 32 (25) — curriculum evidence |
+| Recognise and use statements and questions as sentence types | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 40 (33) — curriculum evidence |
+| Recognise and use the negative form of the basic sentence structure | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 40 (33) — curriculum evidence |
+| Use complete sentences | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 55 (48) — curriculum evidence |
+| Use at least two types of sentence structures | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 56 (49) — curriculum evidence |
+| Use the negative form in simple and compound sentence structures | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 56 (49) — curriculum evidence |
+| Use the basic sentence types correctly (subject–verb; subject–verb–object; subject–verb–complement patterns) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 53 (48) — curriculum evidence |
+| Use more complex sentence structures in oral communication | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 25 (20) — curriculum evidence |
+| Manage the conventions of written language so they aid rather than interfere with reading; use a variety of sentence structures to make writing effective and interesting | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 36 (31) — curriculum evidence |
+| Use complete sentences; extend sentences using adjectives and adverbs | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 37 (32) — curriculum evidence |
+| Use a variety of sentence structures (subject–verb–object etc.); use adjectives and adverbs appropriately; use negative forms correctly | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 37 (32) — curriculum evidence |
+| Use the basic sentence types correctly, including the indirect-object pattern (She gave him a book) and the object-plus-modifier pattern (The mason built the wall high) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 72–74 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

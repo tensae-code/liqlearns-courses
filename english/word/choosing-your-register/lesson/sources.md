@@ -44,7 +44,7 @@ verification sweep.
 | Register named in the book's own question — 'How would the register (or way of speaking)…' — where a policeman's way of speaking is set against a naughty boy's, in the dialogue weeks | South Africa, English HL Grade 6 Workbook 1, printed p.53 |
 | 'Invitations': formal and informal style through a party letter, a formal wedding invitation and a reply judged for correctness | Uzbekistan, English Matters 9, Unit 7, Lessons 5–6, printed p.78 |
 | 'A question of style': formal/informal vocabulary pairs (ask for/inform, find out/be knowledgeable about, guy/man, book/arrange) and a formal letter of complaint; the Review's wrongly mixed complaint letter to correct | Uzbekistan, English Matters 9, Unit 7, Lessons 7–8, printed p.80, and Review, printed p.85 |
-| The dialect objective in its fullest form — 'Discriminate between dialect and standard usage according to place and circumstance' — with the rationale defining dialect's role and code-switching | Barbados, Language Arts Syllabi, Classes 1–4, attainment/scope (syllabus evidence, as filed in barbados.md) |
+| The dialect objective in its fullest form — 'Discriminate between dialect and standard usage according to place and circumstance' — with the rationale defining dialect's role and code-switching | Barbados, Language Arts Syllabi, detailed syllabus bodies — Class 2, PDF p. 56 (printed 51); Class 4, PDF p. 79 (footer p. 72) — curriculum evidence (syllabus; the earlier "attainment/scope" label was a slip — sweep flag 3, corrected 2026-11-11) |
 | Active Writing: hedging, taught with the letter to the editor | Jordan, Grade 12 Student's Book, Semester 2, Unit 6, Lesson 6A, pp.24–25 |
 | Vague language as a named vocabulary set, in the fashion lesson (with materials and clothing idioms) | Jordan, Grade 12 Student's Book, Semester 2, Unit 7, Lesson 1A, pp.16–17 |
 | Manners as the register lesson at senior level: "Manners around the World" — etiquette in different countries | Bangladesh, English for Today, Classes XI–XII & Alim, Unit Ten, Lesson 1, printed p.171 (stocked 2026-11-08 by the re-verification sweep) |
@@ -139,3 +139,25 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | Project: “Culture shock!” | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 9, printed p.107 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Sweep flag 3 is fixed in this lesson: the dialect row in the main table above named “attainment/scope” as the objective's home; the objective stands in the detailed syllabus bodies — Class 2 (PDF p. 56 (printed 51)) and, in its fullest form, Class 4 (PDF p. 79) — and that row's source now says so. The dialect items themselves (Class 2 and Class 4) were already in course on that row and are not re-rowed here. Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use language appropriate to context and register; retell a story or incident in another tense; make an apology | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 28 (21) — curriculum evidence |
+| Observe and use common courtesies with appropriate register and tone; introduce persons | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 31 (24) — curriculum evidence |
+| Contribute to group discussion using Standard English; observe and use common courtesies of conversation | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 27 (22) — curriculum evidence |
+| Observe and use common courtesies with appropriate register and tone; develop and practise eye contact between speaker and listener; pay attention to the speaker and respond appropriately; use a variety of tones and stresses | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 26 (21) — curriculum evidence |
+| (attainment) Speak clearly and audibly, present information clearly, and use language appropriate to context; observe and use common courtesies with appropriate register and tone; develop eye contact between speaker and listener | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF pp. 17–18 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

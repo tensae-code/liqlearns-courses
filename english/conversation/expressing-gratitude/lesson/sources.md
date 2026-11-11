@@ -1,6 +1,6 @@
 # Sources — Expressing Gratitude
 
-countries: Mauritania, Egypt, Laos, Ethiopia
+countries: Mauritania, Egypt, Laos, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -14,6 +14,8 @@ Every part traces to its book and page.
 | Sub lesson 4 — the thank-you letter, to a whole family | Mauritania, Study English, Grade 10, printed pp.33–34 |
 
 **Acceptance count: taught in 4 countries (Mauritania, Egypt, Laos, Ethiopia).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found gratitude taught in two of them — the Grade 8 forms and the Grade 10 thank-you letter — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' gratitude teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## Egypt added 2026-11-11 (re-verification sweep merge)
 
@@ -54,3 +56,18 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Good manners expressions and dialogue | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 8 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Write letters of thank you and regret to communicate feelings | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 48 (43) — curriculum evidence |
+| Write letters expressing thanks and regret to communicate feelings | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

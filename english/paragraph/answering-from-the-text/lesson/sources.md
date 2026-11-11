@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados
 
 Every part traces to its book and page.
 
@@ -541,6 +541,8 @@ questions on every reading, and Pearls 9B sends pupils
 to find the evidence in the text in its cause-and-effect
 linker work. Rwanda answers from the text as its standing comprehension work from P1 up — passages, stories, graphs and sample papers all closed by questions on the text itself — with skimming and scanning named as reading skills in P5 and P6, but no not-given answering shape in any read book. Tanzania answers from the text as its one book's fixed cycle — every unit's story, passage or poem closed by fill-in-the-blanks, short-answer questions and a word-bank completion drawn from the text itself, two questions per unit stepping out to the pupil's own life — with no named scanning or not-given answering strategy in the book, so that naming rests on the other countries. Other closed countries join as their
 books are read (see READING-QUEUE.md). Mexico answers from the text in all three grades: a physical-activity data text (Grade 7), a true/false chinampas reading and a community appeal text (Grade 8), and an identify-the-experiment reading (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -1118,3 +1120,38 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Conflict resolution reading and discussion | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 9, printed p.234 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Note and recall details; identify salient and specific details; distinguish significant from minor details | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 46–47 (39–40) — curriculum evidence |
+| Relate what is read to prior knowledge and experience | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 46 (39) — curriculum evidence |
+| Explain clearly how something is done; say why something happens | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 47 (40) — curriculum evidence |
+| Make, confirm and revise predictions | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 47 (40) — curriculum evidence |
+| Draw conclusions from information given; apply information read to another context | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 49 (42) — curriculum evidence |
+| Interpret graphic aids such as charts, maps and diagrams | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 36 (31) — curriculum evidence |
+| Find and remember details; get meaning from the text | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 41 (36) — curriculum evidence |
+| Explain what has been read to demonstrate comprehension, including understanding pronoun reference (antecedents) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 42 (37) — curriculum evidence |
+| Collaborate with others to build text interpretations | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 27 (22) — curriculum evidence |
+| Use reading for functional purposes | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 28 (23) — curriculum evidence |
+| Support plausible interpretations with evidence from the text | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 30 (25) — curriculum evidence |
+| Read nonfiction texts and informational materials to develop understanding and expertise | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 31 (26) — curriculum evidence |
+| Make connections to related topics or real-world situations | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 31 (26) — curriculum evidence |
+| Apply previous knowledge to extract meaning from text | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+| Locate relevant and pertinent information in text | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+| Identify and state factual information from the text; assess accuracy of detail | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 40 — curriculum evidence |
+| Understand information and interpret facts in charts, indexes and illustrations | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 41 — curriculum evidence |
+| Make predictions | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 42–43 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

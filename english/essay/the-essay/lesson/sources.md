@@ -1,6 +1,6 @@
 # Sources — The essay
 
-countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt
+countries: Bolivia, Ghana, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Bangladesh, China, India, Mongolia, Palestine, Egypt, Barbados
 
 Every part traces to its book and page.
 
@@ -345,6 +345,8 @@ most important change and how it happened) (stocked
 countries join as their books are read (see
 READING-QUEUE.md). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — five books stock this lesson: *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 5 Workbook 2*, *English Home Language, Grade 6 Workbook 1*, *English First Additional Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 1 plans and writes a four-paragraph essay about an animal (printed pp.32–33); Workbook 2 writes a three-paragraph myth (printed pp.134–136); the Grade 6 Workbook 1 builds a persuasive argument with two supporting arguments and a concluding recommendation (printed pp.48–49); the First Additional Language Grade 5 Workbook 2's final worksheet is a three-paragraph hobby essay; and the First Additional Language Grade 6 Workbook 2 writes a descriptive essay with the past progressive (worksheet 104).
@@ -613,3 +615,22 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Essay writing (general) | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 6, printed p.157 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Provide an analysis of the subject, using information from a variety of sources in some depth, with inferences or evaluation of the information | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 33 (28) — curriculum evidence |
+| Write to persuade (point-of-view pieces, responses to literary works), promoting a thoughtful judgement — interpretative, analytical, evaluative or reflective | Barbados, Primary Language Arts Syllabus, Class 3, PDF pp. 33–34 (28–29) — curriculum evidence |
+| Support the judgement through multiple references to text, other works, other authors, non-print media or personal knowledge; demonstrate increasing understanding of the literary work | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
+| Analyse ideas by looking at them from more than one angle and through successively deeper layers of meaning | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 35 (30) — curriculum evidence |
+| Write to persuade the reader with supporting evidence (reference to a text, personal knowledge); anticipate the reader's concerns or counter-arguments | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 35 (30) — curriculum evidence |
+| Writing from different perspectives (scope 4.3.3, begins Class 4) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.3.3; begins Class 4), PDF p. 14 (printed 7) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

@@ -320,6 +320,11 @@ properly.*
   merge):** borrow-and-lend ✅ (1 lesson — the borrow/lend
   pair, taking against giving, of Venezuela's Grade 9 book,
   which no lesson housed)
+- **Sweep addition (2026-11-11, Barbados re-verification sweep
+  merge):** the-colon ✅ (1 lesson — the colon after "as
+  follows" and "the following", before the list that follows,
+  required by Barbados's Class 4 Language Arts Syllabus —
+  curriculum evidence; Barbados publishes no pupil textbooks)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
@@ -2354,3 +2359,54 @@ of time and frequency, in adverbs) were checked against HEAD during
 this merge and are not double-cited. **Ethiopia: 24 of 24 books
 re-read.** The English course now stands at **267 lessons across 44
 units**.
+
+**Barbados English re-verification sweep merge (2026-11-11):**
+the sweep re-read all 4 of Barbados's held English documents —
+the Primary Language Arts Syllabi for Classes 1–4 (Ministry of
+Education and Human Resource Development), 251 PDF pages — and
+placed 366 required teaching points fresh from the documents:
+37 already in course, 329 missing. All 329 are now stocked:
+395 provenance rows in all — 394 into 84 existing lessons
+(multi-homed in every target the placements name) plus the
+founding row of **1 NEW LESSON**: **the-colon** (Unit 10 —
+Building a Sentence), built on the Class 4 colon requirement
+(PDF pp. 69–70). The sweep's other two NEW LESSON topics were
+routed to lessons built since the sweep: **dictation** (built
+by the Sierra Leone merge) takes the three Class 2 dictation
+requirements, and **contractions-and-possessive-forms** (built
+by the Palestine merge), whose one thing is the apostrophe's
+two jobs, takes the Class 2 apostrophe requirement. The
+sweep's generic "conversation" targets are stocked in
+**dialogue-and-discussion**, the course's conversation lesson.
+Barbados is curriculum evidence everywhere: it publishes no
+government pupil textbooks, so in every lesson new to it
+Barbados is named in the countries line and the rows but NOT
+in the taught-in acceptance count (the Ghana precedent); in
+the 12 already-citing lessons touched, the rows complete its
+stock or its attribution and no count changes. Flags: (1) the
+filing presented final-consonant doubling (shop → shopping)
+as stocked course content but no sources row carried it — the
+Class 1 (PDF p. 38) and Class 4 (PDF pp. 59–60) doubling rows
+now stocked in word-building carry the point for real; the
+filing itself is reported, not edited. (2) Document defect,
+filing-side: the Class 3 PDF's Attainment Targets section is
+headed "CLASS 4" and is textually the Class 4 list, so the
+Class 3 document has no attainment section of its own — all
+Class 3 rows rest on its detailed syllabus, as the placements
+do. (3) FIXED course-side: choosing-your-register's dialect
+row named "attainment/scope" as the objective's home; the
+objective stands in the detailed syllabus bodies (Class 2,
+PDF p. 56; Class 4, PDF p. 79) and the row now says so; and
+letters-that-ask-and-advise's set-wide letter-kinds row is
+reworded to name Class 1, with the Class 2 and Class 4
+invitation-letter items given their own rows (both were
+counted already in course; they are not part of the 329).
+Document errors carried as printed, never held up as models:
+the Class 4 vowel-digraph objective lists its patterns as
+"or, oy, on, ow" ("on" as printed); the Class 4 document's
+metadata title is "DRAFT" and its literature appendices stand
+under another ministry's name. Exclusions are the sweep's own
+apparatus only — rationale, general objectives, suggested
+activities, assessments, resource lists and book lists teach
+no language point. **Barbados: 4 of 4 documents re-read.** The
+English course now stands at **268 lessons across 44 units**.

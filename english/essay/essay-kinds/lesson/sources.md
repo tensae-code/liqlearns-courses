@@ -1,6 +1,6 @@
 # Sources — Essay kinds
 
-countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia
+countries: Bolivia, Malaysia, India, Indonesia, Sierra Leone, Syria, Mexico, Ghana, Mongolia, Pakistan, Rwanda, South Sudan, Iraq, Armenia, Egypt, Nepal, Ethiopia, Barbados
 
 Every part traces to its book and page. Malaysia's Year 6
 evidence is given as the filing carries it: mapped by the
@@ -124,6 +124,8 @@ essay's four characteristics; Indonesia gives three
 kinds labelled structures of their own; Sierra Leone
 builds the five-paragraph essay and lessons for its
 kinds; Syria names the kind family outright. Mexico's Grade 9 book writes an argumentative text for a compendium of stories, sayings and proverbs in Spanish and an Indigenous language (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 for-and-against essay and Grade 11 discursive-essay phrases (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its persuasive, expository, descriptive and argumentative essay work in Grades 5, 8, 10 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -353,3 +355,24 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 **Sweep flag F8, resolved in this merge:** the Grade 12 book teaches the argumentative essay twice — Unit 8 (printed p.212) and Unit 9 (printed p.235), with two different models. The course already stocked one Grade 12 row (the Unit 8 instance); the Unit 9 row above stocks the second instance, so both are now cited and the point is not double-counted.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Produce pieces of writing using the four modes of writing (narrative, descriptive, expository, argumentative — Scope and Sequence 4.2.4) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 52 (45) + Scope and Sequence PDF p. 14 (7) (Scope and Sequence row 4.2.4) — curriculum evidence |
+| Determine how the reader should feel; identify the form the piece of writing will take; consider the purpose | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 48 (43) — curriculum evidence |
+| Read books in depth or book equivalents (essays, stories, groups of poems, articles, magazines about one issue, several books by a single writer) | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 29 (24) — curriculum evidence |
+| Identify the form the piece of writing will take; consider the purpose for the piece | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

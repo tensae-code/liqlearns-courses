@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan, Uzbekistan, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -187,6 +187,8 @@ re-verification sweep merge).
 The sweep also stocked Mauritania's Grade 11 sentence
 connectors and Grade 13's FANBOYS conjunctions (stocked
 2026-11-09 by the Mauritania re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its linking words, conjunctions and reason clauses across Grades 9–12, plus the Grade 12 Activity Book's writing-lesson connector teaching (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its connector and cohesion work in Grades 5, 10, 11 and 12 (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -600,3 +602,28 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Time conjunctions and their tense relations: when, before, since, so that, because, as soon as, until, after | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 4, printed p.93 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use increasingly complex sentence structures in oral communication (phrases, clauses, link words, descriptive vocabulary) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 31 (24) — curriculum evidence |
+| Introduce a subject or event and make transitions using correct link words; signal the end of a subject or event verbally | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 24 (19) — curriculum evidence |
+| Use but, who, whom, which and because to join sentences | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 54 (49) — curriculum evidence |
+| Complex sentence structures (scope 4.4.9, begins Class 3; simple and compound begin Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.4.9; begins Class 3), PDF p. 15 (printed 8) — curriculum evidence |
+| Use synonyms to replace words given; recognise cue words and understand their function | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 38 (33) — curriculum evidence |
+| Use structural elements to enhance meaning (in speech) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 34–35 — curriculum evidence |
+| Expand the basic sentence types using single-word modifiers, word phrases and clause modifiers | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 74–75 — curriculum evidence |
+| Use and, but, either…or, neither…nor, both…and, not only…but also, however, moreover, therefore, on the other hand, eventually and other bridge words and phrases to join sentences | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 76 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

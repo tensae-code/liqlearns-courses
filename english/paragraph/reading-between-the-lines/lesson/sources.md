@@ -257,3 +257,28 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Verbal reasoning questions | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 1, printed p.14 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use vocabulary to assist in making inferences and drawing conclusions | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 48 (41) — curriculum evidence |
+| Draw conclusions from information given; apply information read to another context | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 49 (42) — curriculum evidence |
+| Draw inferences and draw generalisations from reading | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 43 (38) — curriculum evidence |
+| Distinguish between fact and fantasy | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 43 (38) — curriculum evidence |
+| Respond to fiction (poetry, novels, drama) using critical, interpretive and evaluative processes | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 30 (25) — curriculum evidence |
+| Make inferences and draw conclusions about contexts, events, characters and settings | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 30 (25) — curriculum evidence |
+| Make inferences based on the information read | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 42 — curriculum evidence |
+| Make generalisations | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 43 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

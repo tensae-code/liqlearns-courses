@@ -1,6 +1,6 @@
 # Sources for this lesson — Blends
 
-countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana
+countries: Egypt, China, Iran, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Vietnam, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Ghana, Barbados
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -164,6 +164,8 @@ in its Workbook's Revision 2.
 Kuwait joined 2026-11-04 in part only: a single workbook micro-skill page blends the initial clusters str- and spr- from a ten-word bank. The matching Student's Book has no pronunciation strand, and Kuwait's Skyline primary books teach no consonant blends.
 Counts grow as other closed countries' books are read.
 Nepal joined 2026-11-03 with consonant clusters as named work at the top of its course: Grade 11 works the clusters /sk/ /sp/ /st/ inside its travel unit (Unit 19, printed pp.172–180), Grade 12 works consonant clusters again in its final unit (Unit 20, printed pp.170–179), and Grade 3 carries a teacher note on consonant clusters at printed p.46 — clusters named as their own set, not an opening-blend phonics strand, and recorded on those terms.
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -470,3 +472,19 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Phonics Unit 6 (the blend half): double letters ll, rr, tt; cc, ck; soft c and soft g (the same unit's silent spellings kn, wr, mb are stocked in silent-letters) | Ecuador — *Starship English*, Level A1.1 (Children) (Grade 4 file), Student Book, Unit 6, printed p.108 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use initial and final consonant blends to decode words (bl, pl, gr, br, sp, str; ng, ck, tch, nk) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 37 (30) — curriculum evidence |
+| Identify consonant clusters in initial and final positions (smart, chasm, skill, whisk) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 33 (28) — curriculum evidence |
+| Spell words with consonant cluster sounds in initial and final positions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 51 (46) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

@@ -364,3 +364,33 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | The writing process — pre-writing (brainstorming, purpose, audience), drafting, revising, editing (grammar, spelling, punctuation) and publishing — applied to writing an informative text | Ecuador — *English*, Superior Sublevel transition text (Grades 9–10 covers; read from the Grade 9 copy) (MINEDUC, 2024), Worksheet 4, printed pp.27–30 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Brainstorm to generate ideas for writing; organise ideas in a logical sequence; select appropriate and relevant facts and details; remain on topic | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 50 (43) — curriculum evidence |
+| Self-edit and peer-edit writing; proofread for appropriate grammar, spelling and structure; revise drafts based on feedback | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 50–51 (43–44) — curriculum evidence |
+| Communicate ideas for a specific purpose (to describe, relate, inform) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 53 (46) — curriculum evidence |
+| Generate ideas for writing using the five-senses cluster, pictures, stories heard, and the report cluster | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 45 (40) — curriculum evidence |
+| Write lots of relevant, colourful details freely and quickly in a first draft | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 46 (41) — curriculum evidence |
+| Read the draft aloud for teacher and peers to point out improvements; revise by adding, deleting, substituting or rearranging; rewrite the draft based on feedback | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 46 (41) — curriculum evidence |
+| Peer-edit using benchmarks; take part in mini-lessons as vocabulary, grammar or spelling needs arise | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 47 (42) — curriculum evidence |
+| Write the final draft free of errors; display the finished piece of writing; view a videotaped production of the piece | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 47 (42) — curriculum evidence |
+| Prepare a collection of material to spark writing (comic cartoons, photographs, newspaper stories); manipulate and rearrange words and phrases to stimulate imagination | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 32 (27) — curriculum evidence |
+| Proofread own and others' writing using dictionaries and other resources; peer-edit; revise drafts based on feedback | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 32 (27) — curriculum evidence |
+| Use peer editing, reading and listening to each other's work to suggest improvements | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 36 (31) — curriculum evidence |
+| Prewriting: generate ideas; drafting: record ideas and preliminary organisation; revising: organise for sequence, cohesion, conciseness, clarity and relevance | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 46 — curriculum evidence |
+| Editing: correct punctuation, spelling, grammatical structures and tone; publishing: present the finished piece | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 49 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

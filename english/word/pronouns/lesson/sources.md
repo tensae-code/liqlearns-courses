@@ -1,6 +1,6 @@
 # Sources — Pronouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Laos, Ecuador, Barbados
 
 Every part traces to its book and page.
 
@@ -365,6 +365,8 @@ Mauritania introduces the subject pronouns with the first wh-
 words in its Grade 7 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico's Grade 7 book sets the subject-pronoun and object-pronoun tables out whole in its identity adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **South Africa added 2026-11-03** — South Africa defines the pronoun in Grade 2 HL Workbook 2 in the book's own words — "A pronoun is a word used instead of a noun" (printed p.5). Grade 4 HL Workbook 1 teaches personal pronouns (printed p.53), the demonstratives this/that/these/those (printed pp.54–55) and possessive pronouns with my/mine and your/yours contrasted (printed p.56); Workbook 2 adds reflexive pronouns (printed p.99), a later kind here as in Ghana and Jordan. Grade 6 HL Workbook 2 gives the full indefinite-pronoun list (printed pp.8–9), and Grade 3 FAL Workbook 2 teaches the possessive set my/your/his/her/its/our/their (printed pp.44–45).
 
 **Syria added 2026-11-03** — Syria's pronoun system is a secondary build. Grade 6 Pupil's Book 6 opens with subject and object pronouns (Unit 1, pp.8–11) and possessive adjectives against possessive pronouns (Unit 2, pp.12–15); Grade 5 Pupil's Book 5 teaches the standing-alone possessives mine, yours, his, hers, ours, theirs (Unit 15, pp.54–56) and the indefinite set (Unit 18, pp.66–68); Grade 9 Student's Book 9 adds reflexive/emphatic pronouns (Unit 12, pp.72–75) and relative pronouns (Unit 9, pp.56–59). No Grade 1–4 Syria book names pronouns as a set — the early books use he / she inside frames only, and none is claimed here.
@@ -609,3 +611,22 @@ The 2026-11-08 re-verification sweep re-read Ecuador's English set from the file
 | Writing about a classmate with he/she (the possession half of the same point, his/her, is stocked in mine-and-yours) | Ecuador — *English*, Elementary Sublevel transition text, Grade 2 (MINEDUC, 2024), Worksheet 4, printed p.30 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ecuador-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Replace proper nouns with appropriate subject and object pronouns | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 54 (47) — curriculum evidence |
+| Explain what has been read to demonstrate comprehension, including understanding pronoun reference (antecedents) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 42 (37) — curriculum evidence |
+| Use subject and object forms of personal pronouns correctly | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 54 (49) — curriculum evidence |
+| Use all forms of personal and possessive pronouns correctly | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 76 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

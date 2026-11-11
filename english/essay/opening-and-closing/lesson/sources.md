@@ -1,6 +1,6 @@
 # Sources — Opening and closing
 
-countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia
+countries: Bolivia, Ghana, China, Indonesia, Sierra Leone, Greece, Iraq, South Africa, Syria, Armenia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Uzbekistan, Venezuela, Egypt, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -166,6 +166,8 @@ openers among the persuasive techniques of a model speech
 outline. Rwanda stocks the ends in part — its P3 pupil's book and guide teach the personal letter's frame as named parts (address, date, salutation, sign-off), its P5 book analyses a friendly letter's format part by part, and its P6 book names a composition's introduction / main body / conclusion as its structure — but no read Rwanda book gives a guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries, and there is no essay-ends teaching. Other closed countries join as their books are read (see
 READING-QUEUE.md). Ethiopia joins with its Grade 7 paragraph conclusions (stocked 2026-11-11 by the re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **South Africa added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The First Additional Language book's worksheet 100 uses a story, "My money has disappeared!", to teach introductions and conclusions by name (Theme 7, printed pp.70–102 — the worksheet and theme are cited, no single page is invented); the Home Language book's persuasive argument ends in a taught concluding recommendation (printed pp.48–49). Stated plainly: the named teaching is for story openings/closings plus an argument's conclusion — South Africa has no essay introduction/conclusion naming of the kind Greece's Αγγλικά 1 carries.
 
 **Syria added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: *Emar English Series 12, Student's Book, Literary Section* and *Emar English Series 12, Workbook, Scientific Section* — Syria, Ministry of Education; full read in english/books/syria.md. The literary book's Unit 8 "Essays" names introduction, body and conclusion as the academic essay's parts in its "What is an Essay" reading (pp.74–80), and the scientific workbook's Unit 1 carries a Writing Skill box on introduction/body/conclusion in the pupil's own personal-experience essay work (pp.2–8). Stated plainly: Syria names the two ends and teaches them in a skill box, but no read Syria book gives the fuller guide to introductory and concluding paragraphs, or states each end's duties, of the kind Greece's Αγγλικά 1 carries — so Syria is filed as a partial against this lesson's bar.
@@ -228,3 +230,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing a conclusion to a paragraph | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 7, printed p.89 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduce a subject or event and make transitions using correct link words; signal the end of a subject or event verbally | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 24 (19) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

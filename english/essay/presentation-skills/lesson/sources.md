@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -124,6 +124,8 @@ child's school-life PPT picked over for mistakes in
 Grade 6, and the learner's own graduation speech at
 Grade 9 (stocked 2026-11-08 by the re-verification
 sweep). Mexico teaches presenting across its course: its Grade 7 book opens with a project that proposes artistic activities for community health, and its Grade 9 book sets a traditions presentation and a chemical-reactions presentation with posters (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 presentation work (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its presenting, evidence-speaking and panel work in Grades 6, 8 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -273,3 +275,30 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Debate and panel discussion: presenting ideas logically, expressing opinion | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 1, printed p.4 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Develop and maintain eye contact between speaker and listener | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 31 (24) — curriculum evidence |
+| Maintain rhythm, voice projection and control, and audience awareness (eye contact) in oral reading | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Participate in speak-offs (impromptu speaking) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 25 (20) — curriculum evidence |
+| Express self through share-and-tell reporting; report on current local events | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 25 (20) — curriculum evidence |
+| Speak clearly and audibly at an acceptable rate, incorporating relevant details in descriptions, explanations and narratives | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 26 (21) — curriculum evidence |
+| Use appropriate grammar, word choice and pacing during a formal oral presentation | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 24 (19) — curriculum evidence |
+| Use language that is clear, audible and appropriate for the intended audience | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 24 (19) — curriculum evidence |
+| Use appropriate language and gestures to engage the listener; use body language and gestures to communicate | Barbados, Primary Language Arts Syllabus, Class 3, PDF pp. 24, 26 (19, 21) — curriculum evidence |
+| Use structural elements to enhance meaning (in speech) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 34–35 — curriculum evidence |
+| (attainment) Speak clearly and audibly, present information clearly, and use language appropriate to context; observe and use common courtesies with appropriate register and tone; develop eye contact between speaker and listener | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF pp. 17–18 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

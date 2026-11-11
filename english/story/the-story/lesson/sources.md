@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados
 
 Every part traces to its book and page.
 
@@ -705,6 +705,8 @@ in first/then/finally order and lesson on a model paragraph
 about Alice in Wonderland before the pupil's own story. Rwanda stocks the story in part — complete stories are read whole from P1 up, stories and fables are named topics in P2 and P5, Telling Stories is a named topic in P4, and story writing is set work through the set (narrations and alternative endings in P4, plan–draft–revise story work in P5, set-title stories in P6) — but no read Rwanda book names the story's furniture (setting, characters, plot) as a taught set, so that naming rests on the other countries. Tanzania stocks the story in part — one whole Standard One reading book of complete short stories (The wrong fish, The foolish rats, The magic tree, The Hen and the Kite among them), its Introduction naming story-telling as the course's own aim — but no read Tanzania book names the story's furniture (setting, characters, plot) as such, so that naming rests on the other countries. Other closed countries join as their books are read (see
 READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's literary festival and the complete tale “The Kindness Princess”, and its Grade 8 book's La Llorona artistic proposal (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — three books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 2* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The Home Language Grade 5 Workbook 2 analyses stories by character, plot and setting (printed pp.36–39) and ends with a fiction summit defining the fable, folk tale, myth, short story, novel and drama (printed pp.128–129); the First Additional Language Grade 6 Workbook 2 analyses story elements (worksheet 83, printed p.58); and the Home Language Grade 4 Workbook 1 writes stories from a mind map (Theme 1) and defines the fable (Theme 4).
@@ -1278,3 +1280,36 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing a narrative paragraph | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 7, printed p.91 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Discuss the qualities of characters; identify with characters | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 44 (37) — curriculum evidence |
+| Develop simple characterisation sketches | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 44 (37) — curriculum evidence |
+| Discuss situations which occur within the literature; identify lessons learnt | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 44–45 (37–38) — curriculum evidence |
+| Include a beginning, middle and end in writing | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 53 (46) — curriculum evidence |
+| Develop vocabulary through storytelling | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 25 (20) — curriculum evidence |
+| Create stories using wordless picture books | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 26 (21) — curriculum evidence |
+| Read different kinds of folktales (fairy tales, fables, myths, epics, tall tales) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 39 (34) — curriculum evidence |
+| Learn about human problems, solutions, morals and values through folktales | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 39 (34) — curriculum evidence |
+| Compare and contrast ways characters solve problems | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 30 (25) — curriculum evidence |
+| List the details given about characters and settings | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 31 (26) — curriculum evidence |
+| "Photograph the story": choose and describe the key points of a story as a set of photographs | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 31 (26) — curriculum evidence |
+| Write for self-expression or to entertain: poems, fictional narratives and autobiographical accounts | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
+| Write to tell a story (fictional or autobiographical); explore ideas and observations | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
+| Learn about human problems, solutions, models and values through reading literature | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 38 — curriculum evidence |
+| Gain insight into own problems through realistic fictional stories; identify with and learn from role models in literature; derive enjoyment and pleasure from the study of literature | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 39 — curriculum evidence |
+| Write stories that are tightly organised with an identifiable beginning, middle and end | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

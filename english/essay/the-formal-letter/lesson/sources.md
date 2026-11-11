@@ -1,6 +1,6 @@
 # Sources — The formal letter
 
-countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia
+countries: Greece, Sudan, Laos, Uzbekistan, China, India, Pakistan, Palestine, Sierra Leone, South Sudan, Armenia, Egypt, Nepal, Ethiopia, Barbados
 
 Every part traces to its book and page.
 
@@ -70,6 +70,8 @@ inside a whole letters unit. China sets the polite
 letter as the writing of its requests unit — to a
 school, asking for information, thanking at the end
 (stocked 2026-11-08 by the re-verification sweep). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 formal letter (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. Its Chapter III gives the whole system — personal letters, invitations with acceptance and refusal, and applications for leave, fee concession, a character certificate and a job (printed pp.16–27). *English 6* sets the formal letter in its Corruption unit (printed p.68 area), *English 7* in its adventure unit, and *English 8* sets formal against informal letters on its survey-report letter (printed p.122; the letter is addressed to the Managing Director, PCTB, though its rubric says Director of Education — the book's mismatch, taught as printed). The Grade 6–8 books are filed in english/books/pakistan.md and were re-read in the same sweep.
 
@@ -279,3 +281,21 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing letters: the formal/business letter; full-block and modified-block formats (the informal letter is stocked in postcards-and-personal-letters) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 9, printed p.253 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use commas to separate items in a list, in greetings and closures of letters, and in dates | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 54–55 (47–48) — curriculum evidence |
+| Use a comma to separate words in a series and items in an address; use a comma after a greeting and at the closing in a letter | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 52 (47) — curriculum evidence |
+| Use commas appropriately, including in letter formatting (address, date, greeting, closing) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 65–66 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

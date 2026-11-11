@@ -40,7 +40,7 @@ verification sweep.
 
 | Lesson part | Where it comes from |
 |---|---|
-| The primary letter kinds — invitation, praise, request, sympathy, apology — inside the primary writing syllabus | Barbados, Language Arts Syllabi, writing strand (as filed) — syllabus evidence |
+| The primary letter kinds — invitation, praise, request, sympathy, apology — inside the primary writing syllabus | Barbados, Primary Language Arts Syllabus, Class 1, Attainment Targets and detailed syllabus, PDF p. 53 (printed 46) — curriculum evidence (the row's set-wide wording traces to the Class 1 list; the Class 2 and Class 4 invitation-letter requirements carry their own rows in the Barbados section at the end of this file — sweep flag 3) |
 | Formal letters to authorities as named curriculum outcomes — letters to the Headmaster/mistress, Director of Education, Assembly Man/woman, SMC and PTA chairmen — inside formal writing (both addresses, heading, signature) | Ghana, NaCCA curricula, formal-writing strand (as filed) — curriculum evidence only |
 | The letter to the editor taught with a full model — a letter responding to an article about private funding of the arts — with Active Writing work on hedging | Jordan, Grade 12 Student's Book, Semester 2, Unit 3, Lesson 6A, printed pp.24–25 |
 | Features of an official letter to a person in authority (chairman of a board, managers, councillors, chiefs, ministers); formal letters for a range of purposes in formal style — no slang or contractions, respectful tone, both addresses | Sierra Leone, JSS formal-letters lessons 61–62 (as filed) |
@@ -196,3 +196,18 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Reading “Land of Plenty”; writing: a letter to the editor | Nepal, *English Grade Twelve (Compulsory)* (Grade 12), printed p.61 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: every Barbados row in this course is curriculum evidence, never a pupil-book citation. The sweep's flag 3 named an attribution weakness in this lesson: the Barbados row in the main table above named the primary letter kinds for the syllabi as a set, and the Class 2 and Class 4 invitation-letter items were counted as stocked on that row. That row is reworded above to name Class 1, whose list its wording traces to, and the two rows below give the Class 2 and Class 4 invitation-letter requirements their own attributions. Both items were counted already in course by the sweep — they are not part of its 329 missing items — and Barbados was already cited in this lesson, so no count changes.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Write invitation letters to relatives, friends and acquaintances | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 49 (printed 44) — curriculum evidence |
+| Write invitation letters to relatives, friends and acquaintances | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 52 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

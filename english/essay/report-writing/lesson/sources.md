@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan, Libya, Nepal, Ethiopia
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan, Libya, Nepal, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 1 (Student's Book) — Egypt, Ministry of Education (GPS Publishing). Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -55,6 +55,8 @@ re-verification sweep.
 | Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
 **Acceptance count: taught in 21 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan, Libya, Nepal, Ethiopia).** Libya joins with the science report in the Grade 10 extended-reading set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with an earthquake report, a full experiment write-up and experimental procedures from its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 marine-animal report and Grade 11 chart, graph and table reports (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 and Grade 11 report writing (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -294,3 +296,26 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing sentences and reports | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 1, printed p.27 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expository writing set: class rules, news items, announcements, advertisements and reports (scope 4.3.1, begins Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.3.1; begins Class 1), PDF p. 14 (printed 7) — curriculum evidence |
+| Write reports on school trips and other school activities | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 49 (44) — curriculum evidence |
+| Write to inform the reader (reports, narrative procedures) | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 33 (28) — curriculum evidence |
+| Provide an analysis of the subject, using information from a variety of sources in some depth, with inferences or evaluation of the information | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 33 (28) — curriculum evidence |
+| Include visuals or graphs as appropriate to support the text | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 33 (28) — curriculum evidence |
+| Write reports on school trips and other school activities | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 52 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

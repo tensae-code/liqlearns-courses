@@ -427,3 +427,27 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | A poem about trees, appreciated | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 6, printed p.74 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Listen to rhymed verse and insert appropriate rhyming words to complete it | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 28 (23) — curriculum evidence |
+| Identify imagery and rhyme in poetry | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 39 (34) — curriculum evidence |
+| Learn about and appreciate the rhyme and rhythm of language; explore the unknown and exercise imagination through poetry | Barbados, Primary Language Arts Syllabus, Class 2, PDF pp. 39–40 (34–35) — curriculum evidence |
+| Write buddy journals to convey feelings; compose poems to express emotions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 48 (43) — curriculum evidence |
+| Write for self-expression or to entertain: poems, fictional narratives and autobiographical accounts | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
+| Respond to the sensory content of all types of poetry | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 35 — curriculum evidence |
+| Explore the world of the unknown and exercise imagination through poetry, prose, drama and music | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 38 — curriculum evidence |
+| Learn about and appreciate the rhyme and rhythm of language | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 38 — curriculum evidence |
+| Compose poems to express emotions | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 50 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

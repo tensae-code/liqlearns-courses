@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados
 
 Every part traces to its book and page.
 
@@ -281,6 +281,8 @@ Mauritania sequences a tea-making and a recipe with the full
 connector set in its Grade 8 book (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mexico's Grade 9 book sequences a science experiment's steps, and names the sequence words themselves (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **South Africa added 2026-11-03** — four books stock this lesson: *English Home Language, Grade 4 Workbook 1*, *English Home Language, Grade 5 Workbook 1*, *English Home Language, Grade 6 Workbook 1* and *English First Additional Language, Grade 3 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. South Africa carries the full set: the Grade 4 Home Language book retells the cumulative folk tale in sequence with first, then, afterwards, finally (printed pp.44–49) and retells the hare-and-tortoise race as a sports report using First/Then/Afterwards/Finally (printed p.108), with a connectives list (printed pp.112–113); the Grade 5 book links a procedure with first, afterwards, next, finally (printed pp.24–25); the Grade 6 book orders a process with First/Then/Afterwards/Thereafter/Before/Finally (printed p.77); and the Grade 3 First Additional Language Workbook 2 sequences with First/Then/Lastly/Finally (printed p.57).
 
 **Nepal added 2026-11-03** — PARTIAL stock, filed exactly as a partial: two books stock this lesson in part: **Book:** *English Grade 8* — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre. **Book:** *Teachers' Guide English Grade 9* — Nepal, Curriculum Development Centre. All filed in english/books/nepal.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). The named teaching sits in the guide, **cited for its own teaching only, worded as such**: the Grade 9 teacher's guide is a DRAFT for an older twenty-unit textbook, not the held Grade 9 student's book, and the held copy is an incomplete excerpt — its Unit 6 (printed pp.49–54, which survives) teaches **imperatives with sequence markers (first/then/next)** as the grammar of giving instructions. The Grade 8 student's book carries the process in its order without naming the set: **"How to Wash Clothes in a Washing Machine", a seven-step instruction text** (Unit 3, printed pp.25–36). Stated plainly: no read Nepal student's book names the sequence set, and no "finally" is printed in this work — Nepal carries First/Then/Next, with no Finally claim.
@@ -463,3 +465,19 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Writing sentences in the simple past: listing yesterday's tasks and rearranging them | Ethiopia, English for Ethiopia, Grade 5 Student's Book, Unit 5, printed p.137 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Define and sequence the information needed to carry out a procedure | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 48 (41) — curriculum evidence |
+| Organise information in order to understand the sequence of events | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 49 (42) — curriculum evidence |
+| Rearrange ideas in proper sequence | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 42 (37) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

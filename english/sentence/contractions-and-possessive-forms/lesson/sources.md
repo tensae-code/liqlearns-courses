@@ -1,6 +1,6 @@
 # Sources — Contractions and Possessive Forms
 
-countries: Palestine, South Africa
+countries: Palestine, South Africa, Barbados
 
 Every part traces to its book and page.
 
@@ -12,6 +12,8 @@ Every part traces to its book and page.
 | The lesson's example forms and sentences | The mechanics the book names — short forms (contractions) and possessive forms — worked in the course's own sentences; no sentence is quoted from the book |
 
 **Acceptance count: taught in 2 countries (Palestine, South Africa).**
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 This lesson exists because of the 2026-11-08 re-verification
 sweep of Palestine's English books. The sweep re-read all 8 held
@@ -50,3 +52,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). The sweep marked apostrophes NEW LESSON NEEDED; the apostrophe's two jobs — ownership and contractions — are this lesson's one thing (the lesson was built by the Palestine re-verification sweep merge, 2026-11-11), so Barbados's apostrophe requirement (Class 2) is stocked here instead of in a new lesson. Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use an apostrophe to show ownership and in contractions | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 52 (47) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

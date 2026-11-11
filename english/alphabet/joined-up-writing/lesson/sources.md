@@ -132,3 +132,22 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Forming letters: connecting dotted lines and forming letters; drawing letter-like symbols | Ethiopia, English for Ethiopia, Grade 1 Student's Book, whole-book writing strand |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados was already cited in this lesson (2026-10-27 basics merge); the rows below complete its stock, and this merge changes no count.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Increase handwriting speed (scope 4.6.6, begins Class 2) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.6.6; begins Class 2), PDF p. 16 (printed 9) — curriculum evidence |
+| Write legibly using correct shape, size and proportion, slant and spacing; leave margins as prescribed; indent paragraphs correctly; head all work in the prescribed manner; use an acceptable, fluent, legible style | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 57 (52) — curriculum evidence |
+| Accurately form and consistently size letters; write legibly using cursive writing; observe appropriate spacing between words; head all work in the prescribed manner; leave margins as required | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 39 (34) — curriculum evidence |
+| (attainment) Accurately form and consistently size letters; use a fluent, legible style; observe spacing between words; head all work in the prescribed manner; leave margins as required | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF p. 27 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

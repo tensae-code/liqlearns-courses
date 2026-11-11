@@ -1,6 +1,6 @@
 # Sources — Apologising
 
-countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia
+countries: Malaysia, Nepal, Syria, South Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -77,6 +77,8 @@ cross-cultural "I'm Sorry" reading and a company apology
 letter, sets the apology letter as writing, and its
 (DRAFT) teacher's guide carries a seven-lesson apologising
 unit of its own. Iraq joins with its Grade 11 concern, sympathy, apology and explanation expressions (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 9 and Grade 10 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 2 good-manners expressions (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## South Sudan added 2026-11-11 (re-verification sweep merge)
 
@@ -217,3 +219,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Good manners expressions and dialogue | Ethiopia, English for Ethiopia, Grade 2 Student's Book, Unit 8 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use language appropriate to context and register; retell a story or incident in another tense; make an apology | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 28 (21) — curriculum evidence |
+| Letters: reply and excuse letters (scope 4.3.5, begins Class 1) | Barbados, Primary Language Arts Syllabi, Scope and Sequence chart (row 4.3.5; begins Class 1), PDF p. 14 (printed 7) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

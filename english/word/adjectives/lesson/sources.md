@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados
 
 Every part traces to its book and page.
 
@@ -433,6 +433,8 @@ READING-QUEUE.md).
 Nepal joined 2026-11-03: it carries adjectives with their opposites as a whole Grade 2 unit (Unit 8), classroom adjective lists in Grade 3 (Unit 8), and adjectives named as a unit's grammar with comparison in Grade 9 (Unit 18).
 Armenia joined 2026-11-03: it carries describing a friend — tall, young, smart — in Grade 3 (Unit 1.2, printed p.11; Unit 1.3, printed p.14), comparison taught as forms and then used on real places in Grade 4 (Unit 1.4, printed pp.23–25), and -ed against -ing adjectives as a named contrast in Grade 7 (Unit 1, printed p.13).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — South Africa teaches adjectives as describing words in sets through Grade 3 HL Workbook 1 (printed pp.80, 92, 118). Grade 4 HL Workbook 1 uses adjectives describing nouns (printed pp.74–75) and teaches the comparative and superlative degrees with -er/-est and more/most (printed pp.84–85) — filed here as Ethiopia's degrees rows are filed, as part of the book's adjective stock. Grade 6 HL Workbook 2 teaches the adjective in its two positions — "The small dog" against "The dog is small" (printed p.48) — and Grade 3 FAL Workbook 2 teaches degrees of comparison on hot/hotter/hottest and fast/faster/fastest (printed pp.44–45).
@@ -786,3 +788,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Hard-work adjectives: hardworking, diligent, industrious, tireless, dedicated | Ethiopia, English for Ethiopia, Grade 6 Student's Book, Unit 7, printed p.174 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Respond using sensory data (describe pictures and scenes, using adjectives) | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 34 (27) — curriculum evidence |
+| Use simple adjectives and adverbs appropriately; extend sentences by using adjectives and adverbs | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 55–56 (48–49) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

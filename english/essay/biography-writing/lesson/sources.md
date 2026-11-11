@@ -1,6 +1,6 @@
 # Sources — Biography writing
 
-countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia
+countries: Egypt, Ghana, South Sudan, Armenia, Bangladesh, Bolivia, China, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Rwanda, Sierra Leone, Sudan, Yemen, Iraq, Vietnam, South Africa, Laos, Kazakhstan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -226,6 +226,8 @@ Out unit (added 2026-11-08 by the re-verification sweep).
 China joins with its Grade 9 writing of an unforgettable
 person or event from junior high school (stocked
 2026-11-08 by the re-verification sweep). Mexico writes lives in every grade: a Robert Frost paragraph and a women's hidden-history project (Grade 7), Matilde Montoya's full biography (Grade 8), and the Mexican women artists (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 career-history interviewing and writing (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 athlete biographies (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Nursery* closes with character-sketch pages — My Self, My Mother, My Friend, My Teacher (printed pp.136–142); *English 5* prints two biographies, the Father of the Nation (printed p.31) and Arfa Karim (printed p.43); *English 6* writes biography in its Overpopulation unit (printed p.92); and *English 7* reads the Quaid-e-Azam biography (Unit 4, printed p.32). All four are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -519,3 +521,15 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Athlete biographies used as writing models (a famous Ethiopian long-distance runner) | Ethiopia, English for Ethiopia, Grade 10 Student's Textbook, Unit 5, printed p.140 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Write for self-expression or to entertain: poems, fictional narratives and autobiographical accounts | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 34 (29) — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

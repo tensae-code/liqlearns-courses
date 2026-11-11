@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados
 
 Every part traces to its book and page.
 
@@ -219,6 +219,8 @@ its Grade 4 teacher's guide carries a guessing-meanings
 lesson; South Africa practises the guessing on nonsense words themselves — its Grade 5 Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113) — and teaches working out word meanings as a strategy set in its Grade 6 First Additional Language Workbook 2: synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8); South Sudan joined 2026-11-03: it stocks the guessing in part — its Primary 3 Teacher's Guide's Introduction names the strategies for getting unstuck on a word (re-read, context clues, infer meaning, locate key words, predictions, word attack, printed pp.iv–x) — but that teaching sits in the guide's Introduction only, and no read South Sudan pupil's book practises guessing a word's meaning from its context as a lesson (the definition-and-matching vocabulary work elsewhere in the series is not this lesson). Tanzania joined 2026-11-04 in part: it teaches the word-relationship stock outright — synonyms named as synonyms (until/till; opponent, rival, enemy; buy/purchase; hate/dislike; speak/talk), opposites worked in dialogue, and one word's two meanings (mouse) talked apart — the very stock other countries' methods spend on unknown words, but it teaches no guessing from context anywhere, so the context ladder rests on the other countries. Other closed countries join as their
 books are read (see READING-QUEUE.md). Mexico's Grade 9 book listens for two coined words — “infodemic” and “infocracy” — and works them out from their context (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
+
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **South Africa added 2026-11-03** — two books stock this lesson: *English Home Language, Grade 5 Workbook 1* and *English First Additional Language, Grade 6 Workbook 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026; full read in english/books/south-africa.md. The stock is the lesson's guessing-from-context part: the Home Language book reads Carroll's "Jabberwocky" and has learners guess the nonsense words' meanings from the poem (printed pp.110–113), and the First Additional Language book teaches working out word meanings as a strategy set — synonyms and antonyms, prefixes and suffixes, and context clues (Theme 8).
@@ -312,3 +314,26 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Working out word meanings from context in a reading text (a strategy that recurs every unit) | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 1, printed p.1 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use context clues to decode unfamiliar words and to identify the meaning of words | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 41 (34) — curriculum evidence |
+| Determine the meaning of unknown words using context, glossaries and dictionaries | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 42 (35) — curriculum evidence |
+| Use cue words and context clues to understand text | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 46 (39) — curriculum evidence |
+| Use the remainder of the sentence, word structure and dictionary meaning to determine word meanings | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 41 (36) — curriculum evidence |
+| Demonstrate proficiency in reading skills and strategies across the curriculum and continue to develop vocabulary | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 28 (23) — curriculum evidence |
+| Use context clues to find meaning (picture descriptions, definitions, antonyms, synonyms, surrounding sentences) | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 36 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

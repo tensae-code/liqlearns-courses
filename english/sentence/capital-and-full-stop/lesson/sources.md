@@ -1,6 +1,6 @@
 # Sources — Capital letter and full stop
 
-countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya
+countries: Bangladesh, Ghana, Indonesia, Iran, Sierra Leone, Jordan, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Mauritania, India, Mongolia, Palestine, Egypt, Laos, Libya, Barbados
 
 Every part traces to its book and page.
 
@@ -229,6 +229,8 @@ their books are read (see READING-QUEUE.md).
 Mauritania teaches name-spelling and the capital-letter rules
 in its Grade 7 book (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -501,3 +503,31 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Punctuation revision | Ethiopia, English for Ethiopia, Grade 12 Student's Textbook, Unit 7, printed p.177 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Capitalise all proper nouns and words at the beginning of sentences | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 54 (47) — curriculum evidence |
+| Use correct punctuation at the end of sentences; use question marks appropriately | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 54–55 (47–48) — curriculum evidence |
+| Use commas to separate items in a list, in greetings and closures of letters, and in dates | Barbados, Primary Language Arts Syllabus, Class 1, PDF pp. 54–55 (47–48) — curriculum evidence |
+| Use full stops and abbreviations | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 52 (47) — curriculum evidence |
+| Use a comma to separate words in a series and items in an address; use a comma after a greeting and at the closing in a letter | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 52 (47) — curriculum evidence |
+| Use capital letters for first words in a sentence, lines of poetry, and titles of books, stories and poems; for "I" and "Oh"; for titles of persons (Mr., Miss., Mrs., Hon.); and for proper nouns — persons, countries, places, holidays, organisations | Barbados, Primary Language Arts Syllabus, Class 2, PDF pp. 52–53 (47–48) — curriculum evidence |
+| Use correct punctuation at the end of sentences; use commas correctly in greetings, dates and words in a series | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 36 (31) — curriculum evidence |
+| Use question marks appropriately | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 38 (33) — curriculum evidence |
+| Use full stops appropriately | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 63–64 — curriculum evidence |
+| Use commas appropriately, including in letter formatting (address, date, greeting, closing) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 65–66 — curriculum evidence |
+| Use capital letters appropriately (first words of sentences, lines of poetry, titles, important words in headings) | Barbados, Primary Language Arts Syllabus, Class 4, PDF pp. 71–72 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

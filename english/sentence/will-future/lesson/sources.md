@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -13,6 +13,8 @@ Every part traces to its book and page.
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
 **Acceptance count: taught in 7 countries (Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia).** Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 10 going-to/will contrast and Grade 11 future forms (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found will taught in two full treatments with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One filing honesty item is carried exactly: the old filing's read of the compendium was a read of a garbled extraction, with the Year 4 WILL paradigm (§§1.2–1.3) admittedly unread; the sweep read the book visually and confirms the paradigm is present at the page cited. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -109,3 +111,21 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Simple future and future perfect tenses identified in a paragraph, and their functions discussed | Ethiopia, English for Ethiopia, Grade 11 Student's Textbook, Unit 4, printed p.108 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use the three simple tenses | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 56 (49) — curriculum evidence |
+| Use the correct form of the verb in the simple present, simple future, simple past, present continuous and past continuous tenses | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 55 (50) — curriculum evidence |
+| Use the correct form of the verb in the simple present, simple future, simple past, present continuous and past continuous | Barbados, Primary Language Arts Syllabus, Class 4, PDF p. 77 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.

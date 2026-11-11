@@ -203,6 +203,9 @@ its own subtitle folder with its own lesson + questions):
   have-and-has (added 2026-11-11 by the Nicaragua
   re-verification sweep merge — **Unit 10, Building a
   Sentence**) ·
+  the-colon (added 2026-11-11 by the Barbados
+  re-verification sweep merge — **Unit 10, Building a
+  Sentence**) ·
   contractions-and-possessive-forms (added 2026-11-11
   by the Palestine re-verification sweep merge —
   **Unit 10, Building a Sentence**) ·

@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sudan, Venezuela, Yemen, Iraq, South Africa, Egypt, Kazakhstan, Uzbekistan, Ethiopia, Barbados
 Every part traces to its book and page.
 
 **Book 1:** Honeydew (Textbook in English for Class
@@ -139,6 +139,8 @@ teaches word stress and sentence stress in its Grade 11
 English for Change (stocked 2026-11-09 by the
 re-verification sweep merge). Counts
 grow as other closed countries' books are read. Iraq joins with its pronunciation, stress and phonemic work across Grades 4, 6, 7, 10 and 11 (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 7 vowel contrasts and schwa (stocked 2026-11-11 by the re-verification sweep merge).
+
+**Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -457,3 +459,28 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Long [ai] vs short [i] sounds | Ethiopia, English for Ethiopia, Grade 7 Student's Textbook, Unit 9, printed p.120 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Barbados added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Barbados's English set from the files: 4 documents verified in hand — the Primary Language Arts Syllabi for Classes 1–4 (Barbados, Ministry of Education and Human Resource Development), 251 PDF pages in all. Barbados publishes no government pupil textbooks: a syllabus states what must be taught but teaches nothing itself, so every Barbados row in this course is curriculum evidence — evidence that the Barbados syllabus requires the point at that class — never a pupil-book citation. The sweep placed 366 required teaching points fresh from the documents: 37 were already in the course and 329 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md). Class 3's rows rest on that document's detailed syllabus: its Attainment Targets section is headed “CLASS 4” and is textually the Class 4 list — a defect of the document itself (sweep flag 2; filing-side, reported and not edited). Barbados is new to this lesson, as curriculum evidence only: it is named in the countries line above and in the rows below, but it is NOT added to the taught-in acceptance count — a syllabus is not a pupil textbook (the Ghana precedent).
+
+**Book:** Primary Language Arts Syllabus, Class One — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Two — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Three — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+**Book:** Primary Language Arts Syllabus, Class Four — Barbados, Ministry of Education and Human Resource Development. Filed in english/books/barbados.md; re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence (syllabus) only — Barbados publishes no government pupil textbooks.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Use a variety of tones and stresses in expressing ideas orally | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 31 (24) — curriculum evidence |
+| Use Standard English pronunciation in oral reading | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 35 (28) — curriculum evidence |
+| Use rhythm, pace and intonation associated with Standard English in oral reading | Barbados, Primary Language Arts Syllabus, Class 1, PDF p. 36 (29) — curriculum evidence |
+| Speak correctly using intonation and stress; use a variety of tones and stresses in expressing ideas orally | Barbados, Primary Language Arts Syllabus, Class 2, PDF pp. 26–27 (21–22) — curriculum evidence |
+| Listen to different types of choral speaking and recognise intonation and stress | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 29 (24) — curriculum evidence |
+| Distinguish which syllable to stress in a two-syllable word usable as both noun and verb (record) | Barbados, Primary Language Arts Syllabus, Class 2, PDF p. 36 (31) — curriculum evidence |
+| Observe and use common courtesies with appropriate register and tone; develop and practise eye contact between speaker and listener; pay attention to the speaker and respond appropriately; use a variety of tones and stresses | Barbados, Primary Language Arts Syllabus, Class 3, PDF p. 26 (21) — curriculum evidence |
+| (attainment) Listen responsively and respectfully; follow oral directions with three or four steps; respond to cues; listen to build memory; communicate situations in full sentences using a variety of tones and stresses | Barbados, Primary Language Arts Syllabus, Class 4, Attainment Targets, PDF p. 18 — curriculum evidence |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/barbados-placements.md.
