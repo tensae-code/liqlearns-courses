@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Barbados, Saudi Arabia, Kuwait
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Barbados, Saudi Arabia, Kuwait, Cyprus
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -102,7 +102,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 30 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Saudi Arabia, Kuwait).** Libya joins with the Grade 2 feelings and states set — happy, sad, fine, thirsty, hungry — with “How do you feel?” (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its degrees-of-liking scale, Full Blast Plus 4's feelings adjectives, and Form 5's feelings words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 31 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Nepal, Ethiopia, Saudi Arabia, Kuwait, Cyprus).** Cyprus joins with its feelings words — happy/sad, angry/scared, bored, and the school-day states tired, thirsty, hungry, sick (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 feelings and states set — happy, sad, fine, thirsty, hungry — with “How do you feel?” (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with its degrees-of-liking scale, Full Blast Plus 4's feelings adjectives, and Form 5's feelings words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -544,3 +544,30 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Listening vocabulary from a last-weekend account: funny, laughed, told, smile, check, grateful | Kuwait, Skyline English Student's Book 3B (Grade 3), Unit 8, printed p.58 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit; writers Sophie Ioannou Georgiou, Claire Kouppa, Irene Temete, Maria Xanthou; 1st ed. 2011, revised 2013. Teacher's-book evidence: Year 1 is an oral-only year — the book states there is no pupil reading or writing in Year 1, and no pupil's book exists for the year. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 1, Part B, Unit 2* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'The Magic Box' Year 5 Teacher's Book, Unit 5* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *'The Magic Box' Year 5, Unit 9 book file* — Cyprus, Ministry of Education and Culture. The file is held at both the unit_8 and unit_9 paths and is headed 'UNIT 9' inside; the books.json titles state the swap correctly (book error E1 / flag F2), and the rows cite the book by its true Unit 9 identity. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Feelings words happy, sad, and behaviour words naughty, bad | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 8, PDF p.59 |
+| Feelings angry, scared, with friend/gorilla story words | Cyprus, 'Friends' Year 1 Part B, Unit 2 (teacher unit material), PDF p.1 |
+| Feelings bored, angry, and animals bee, owl, dinosaur, wolf, seal | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 3, PDF p.45 |
+| Personality adjectives selfish, lazy, generous, brave, kind, grumpy, and the feelings worried, grateful | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 5, PDF p.1 |
+| Physical states tired, thirsty, hungry, sick, and school-day words holiday, break, weekend, study; writing a paragraph about your daily routine | Cyprus, 'The Magic Box' Year 5 Unit 9 book file (headed 'UNIT 9'), PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Cooking Words
 
-countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait
+countries: Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Culinary Terms (BTH) — cooking methods (grill, broil, barbecue, gratin, stir-fry, bake, roast, stew, caramelize, steam, sauté, toast, poach, microwave, simmer, scramble, glaze) and cooking action verbs (add, slice, drain, dice, pour, mix, beat, break, grease, carve, combine, knead, chop, measure, stir, mince, peel, dissolve, crush, whisk, weigh) (the book lists “Weight” as the verb for weigh, printed p. 36 — taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 36–38 |
 | Gastronomy terms — picture grids of foods, drinks and cooking verbs | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 101 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Bolivia, Kazakhstan, Jordan, Uzbekistan, Nepal, Kuwait, Cyprus).** Cyprus joins with Year 5's recipe words and following a recipe, with the Gruffalo's food words (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) and *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the cooking word sets — the Grade 11 culinary (BTH) spread and the compendium's gastronomy grids — with no lesson of their own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -97,3 +97,21 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Reading: mill, company, bread, biscuits, bake, baker — flour and bread making | Kuwait, Skyline English Student's Book 2B (Grade 2), Unit 7, printed p.45 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'The Magic Box' Year 5 Teacher's Book, Unit 7* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fantasy-creature body words tusks, claws, wart, tongue, prickles; places lake, wood; adjectives terrible, silly; food apple crumble, scrambled eggs, toast, roast | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 17, PDF p.237 |
+| Food and recipe words vegetable, mushroom, peppers, olive, onion, potato, corn, butter, flour, sugar, pepper, bread, salt, lamb; recipe, ingredients, stir, mix, dish, teaspoon, cup, preparation, method; following a simple recipe | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 7, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 28 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan).** Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 29 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus).** Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -467,3 +467,21 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Listening vocabulary: agency, screen, monsoon, and few / fewer for quantity | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 5, printed p.11 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'The Magic Box' Year 5 Teacher's Book, Unit 7* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'The Magic Box' Year 5 Teacher's Book, Unit 8* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. The file pair is headed 'UNIT 8' inside both its copies (the unit_9 teacher path holds a byte-identical duplicate — book error E1). Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Countable vs uncountable nouns; 'Is there any…? Yes, there is some. / No, there isn't any. There is some…' | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 7, PDF p.1 |
+| Quantity nouns for uncountables: a glass of, a bottle of, a slice of, a packet of, a bar of, a teaspoon/tablespoon of, a scoop of | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 8, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

@@ -1,6 +1,6 @@
 # Sources — First, then, finally
 
-countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia
+countries: Bangladesh, Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Barbados, Saudi Arabia, Cyprus
 
 Every part traces to its book and page.
 
@@ -223,8 +223,8 @@ colophon; cited once.
 | Sequence adverbs — First / Then / Next / After that / Finally — with the Gallo Pinto recipe | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2, Lesson 4 |
 | Sequence words for past events — First / then / next / after that / finally | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3A, printed pp.77–78 |
 
-**Acceptance count: taught in 31 countries (Bangladesh,
-Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia).** Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
+**Acceptance count: taught in 32 countries (Bangladesh,
+Egypt, Mongolia, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Nepal, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Albania, Syria, Mauritania, Mexico, Nicaragua, Palestine, South Sudan, Libya, Saudi Arabia, Cyprus).** Cyprus joins with Year 5's story sequencing words — first, then, later, in the end (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with sequence connectors — First … Then … Next … After that … Finally … — in a plant-growth text (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Egypt prints the law and the set;
 Mongolia files the family by its grammar name; Bangladesh
 tells its methods under the signposts; China adds the
 dated diary as the model recount, its events sorted before
@@ -495,3 +495,16 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'The Magic Box' Year 5 Teacher's Book, Unit 3* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Size adjectives enormous, huge, gigantic, tiny, teeny, weeny, and sequencing words first, then, later, in the end for story writing | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 3, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

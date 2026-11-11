@@ -1,6 +1,6 @@
 # Sources — Conditionals
 
-countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua
+countries: Egypt, Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Nicaragua, Cyprus
 
 Every part traces to its book and page.
 
@@ -349,8 +349,8 @@ verification sweep.
 | “Working out garden designs” — the imperative; first conditional; should; hypothesising (1st/2nd/3rd conditionals); active to passive | Greece, Exploiting the Earth, Part A8, printed p.48 |
 | Zero and first conditionals, including varied first-conditional forms | Mongolia, English XII, Unit 8, printed pp.143–146 |
 
-**Acceptance count: taught in 32 countries (Egypt,
-Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua).** India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
+**Acceptance count: taught in 33 countries (Egypt,
+Libya, Mongolia, Laos, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Sudan, Pakistan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Cyprus).** Cyprus joins with Year 6's first conditional — 'If + present simple, will + infinitive' (stocked 2026-11-11 by the Cyprus expansion merge). India joins with if-clauses worked in Class 7 and unless = if not as a named point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Libya names the zero and first at
 Grade 9 and completes the set in its reference;
 Mongolia tables zero and first, teaches the first with
 unless, and reaches the second at Grade 10; Egypt
@@ -572,3 +572,18 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Conditionals contrasted: if + present → future (possible) vs if + past → would (unlikely/imagined) | Afghanistan, *English for Afghanistan: Student's Book*, Grade 11, Unit 6, printed p.83 |
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'The Magic Box' Year 6 Teacher's Book, Unit 8* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'The Magic Box' Activity Book, Year 6* (activity book, the whole book) — Cyprus, Ministry of Education and Culture, ISBN 978-9963-0-1582-5, 1st ed. 2016. The three standalone unit files (Units 1, 6, 7) are exact page excerpts of this book and were read in it. Citations are the whole book's printed pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The first conditional 'If + present simple, will + infinitive' (Activity Book printed pp.55–56: sentence matching, 'What will you do with €100,000?', completing the beans dialogue) | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 8, PDF p.2; Activity Book, printed pp.55–56 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

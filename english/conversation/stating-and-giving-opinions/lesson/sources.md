@@ -1,6 +1,6 @@
 # Sources — Stating and Giving Opinions
 
-countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait
+countries: Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Barbados, Kuwait, Cyprus
 
 Every part traces to its book and page.
 
@@ -36,7 +36,7 @@ covers the 6th Year book only).
 | Asking for and giving opinions: in my opinion, according to…, how do you feel about…? | Mauritania, Study English, Grade 11, printed pp.31–33 |
 | Asking for and giving opinions: what do you think about…, what's your opinion, how do you feel about…; in my opinion/view, as far as I'm concerned, it seems to me… | Mauritania, Study English, Grade 13, printed pp.14–16 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait).** This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
+**Acceptance count: taught in 7 countries (Indonesia, Mauritania, Nepal, Ecuador, Ethiopia, Kuwait, Cyprus).** Cyprus joins with its opinion work — 'I think…' over a Christmas text, and opinions about music with reasons (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found opinion teaching in four of them with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). It stands beside Agreeing and Disagreeing, which keeps the short reaction phrases the sweep found already stocked there (Indonesia's Grade 8 Chapter 3 opinion/presentation work among them). Other countries' opinion teaching joins as their sweep merges land.
 Mauritania asks for and gives opinions in Grade 11 and again,
 with the full frame set, in Grade 13 (stocked 2026-11-09 by
 the Mauritania re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its opinion work in Grades 5, 7 and 11 (stocked 2026-11-11 by the re-verification sweep merge).
@@ -130,3 +130,19 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Expressing opinions with role cards: agreement and disagreement, giving conditions and warnings, on an energy statement | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 7, printed p.60 (full-year folio; term folio p.13) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *Year 6 Project Unit 'What's Your Favourite Music?', Part 1* (teacher material) — Cyprus, Ministry of Education and Culture ('The Magic Box' programme). Teacher-material evidence; citations are PDF pages. Book error E6, carried: the song sheet heads the gospel song 'Kymbaya' for Kumbaya — taught corrected. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading a short paragraph and scanning a document for specific information, and saying what you think: 'I think…' with Christmas food pudding (comprehension mince pies, Yule log, barbecue) | Cyprus, 'Friends' Year 4 Teacher's Book, Project Unit 'Christmas around the world', PDF p.158 |
+| Opinions about music: expressing opinions and giving reasons about songs, understanding the main idea of a song (the gospel song 'Kumbaya'; Jamaican English in the 'Day-O' banana-boat song noticed and explained) | Cyprus, Year 6 Project Unit 'What's Your Favourite Music?', Part 1 (teacher material), PDF pp.1, 5–7 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

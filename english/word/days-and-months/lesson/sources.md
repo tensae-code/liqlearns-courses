@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus
 
 Every part traces to its book and page.
 
@@ -246,8 +246,8 @@ covers the 6th Year book only).
 | The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
 | The seven days of the week — Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — presented as a "Look and say" set | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 8, pupil printed p.66 |
 | The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
-**Acceptance count: taught in 35 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya).** Libya joins with the days of the week (Grade 2) and dates as a system — saying and writing dates, birthdays (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
+**Acceptance count: taught in 36 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya, Cyprus).** Cyprus joins with its days of the week and months, with dates and festival days (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the days of the week (Grade 2) and dates as a system — saying and writing dates, birthdays (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -568,3 +568,27 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Reading “Celebrating Ramadan in Kuwait”: vocabulary include, religious, community, cheerfully, typically, sign, gratitude, well-mannered, generosity, thrilling, collect, tolerance | Kuwait, English Pearls Student's Book 7A (Grade 7), Learning Unit 4, printed pp.67–68 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 2 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence. Printed page = PDF page + 5 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'The Magic Box' Year 6 Teacher's Book, Unit 7* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'The Magic Box' Activity Book, Year 6* (activity book, the whole book) — Cyprus, Ministry of Education and Culture, ISBN 978-9963-0-1582-5, 1st ed. 2016. The three standalone unit files (Units 1, 6, 7) are exact page excerpts of this book and were read in it. Citations are the whole book's printed pages. Read in the 2026-11-10 expansion read.
+
+Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; travel and wishes) whose Teacher's Books are not in hand anywhere in the records — the in-hand Year 6 teacher material stops at Unit 8 (plus Review 1 and two project units) — so the rows from those units in this section rest on Activity Book evidence alone, and any claim that Cyprus Year 6 is fully teacher-evidenced would be wrong on this set.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Days of the week Monday–Sunday | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 13, PDF p.124 |
+| Months January–December and 'When is…?' for birthdays and festivals | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 20, PDF p.224 |
+| Ordinal numbers 11th–31st and dates (Activity Book printed pp.42–43: completing twenty-first/thirty-second, matching international days to their dates) | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 7, PDF p.2; Activity Book, printed pp.42–43 |
+| Festival travel advice with should: what to take for St Patrick's Day, Diwali, Holi, La Tomatina, Thanksgiving, and when each festival is — Activity Book evidence alone; the unit's Teacher's Book is not in hand (flag F1) | Cyprus, 'The Magic Box' Year 6 Activity Book, Unit 10, printed pp.63–64 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

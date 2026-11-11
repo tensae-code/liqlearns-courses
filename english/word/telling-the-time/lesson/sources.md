@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania).** Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
+**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya, Tanzania, Cyprus).** Cyprus joins with its time line — o'clock (Year 3), half past (Year 4), and all the past/to forms (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -444,3 +444,22 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Copy-block sentences of a day told at set times: “Every day, I wake up at half past five”, usually, must be on time | Kuwait, Skyline Handwriting Book 3A (Grade 3), Block 2, printed pp.21–30 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'The Magic Box' Year 5 Teacher's Book, Unit 4* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. The file is held under the generic filename `teacher_book.pdf`; its contents are verified as Unit 4 from its header and storybook (book error E8). Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'What time is it? It's … o'clock', with daily action verbs watch, sleep, clean, eat, do, and clock/lunch | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 15, PDF p.160 |
+| Telling the time with half past ('What time is it? It's half past…') | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 12, PDF p.184 |
+| Telling the time in all forms: five past two, ten to twelve, quarter past, quarter to | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 4, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

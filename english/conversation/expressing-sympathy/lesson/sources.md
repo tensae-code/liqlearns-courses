@@ -1,6 +1,6 @@
 # Sources — Expressing Sympathy
 
-countries: Mauritania, Nepal, Ethiopia
+countries: Mauritania, Nepal, Ethiopia, Cyprus
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — condolences: my deepest condolences for your loss (the book's word-order set) | Mauritania, Study English, Grade 8, printed pp.45–46; the disaster set at Grade 10, printed pp.35–37 |
 | Sub lesson 4 — sympathy in writing over the earthquake text: I'm sorry for your loss, my condolences, thinking of you at this difficult time | Mauritania, Study English, Grade 10, printed pp.35–37 |
 
-**Acceptance count: taught in 3 countries (Mauritania, Nepal, Ethiopia).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 3 respecting-each-other expressions and Grade 8 sympathy expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Mauritania, Nepal, Ethiopia, Cyprus).** Cyprus joins with Year 5's sympathy expressions — 'I'm sorry to hear that. / Oh, dear!' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found sympathy taught in two of them — the Grade 8 set and the Grade 10 disaster lesson — with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' sympathy teaching joins as their sweep merges land. Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 3 respecting-each-other expressions and Grade 8 sympathy expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 
 ## Nepal added 2026-11-11 (re-verification sweep merge)
@@ -44,3 +44,16 @@ The 2026-11-08 re-verification sweep re-read Ethiopia's English set from the fil
 | Expressions of sympathy and anger | Ethiopia, English for Ethiopia, Grade 8 Student's Textbook, Unit 4, printed p.38 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/ethiopia-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'The Magic Box' Year 5 Teacher's Book, Unit 5* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sympathy expressions 'I'm sorry to hear that. / Oh, dear! / Would you like an aspirin? / Would you like to go home?' | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 5, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

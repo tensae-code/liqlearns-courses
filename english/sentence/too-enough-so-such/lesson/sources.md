@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 13 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia).** Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan, Libya, Ethiopia, Saudi Arabia, Cyprus).** Cyprus joins with its enough work — adjective + enough (big enough, strong enough) and too + adjective in story comprehension (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with too + adjective (Grade 7), so/such … that for cause and result (Grade 11-1) and so / enough / too as a completed set (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge). Ethiopia joins with its Grade 12 result expressions (stocked 2026-11-11 by the re-verification sweep merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -153,3 +153,19 @@ The 2026-11-08 re-verification sweep re-read all 6 of Saudi Arabia's held Englis
 Saudi Arabia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/saudi-arabia-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'The Magic Box' Year 5 Teacher's Book, Unit 4* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. The file is held under the generic filename `teacher_book.pdf`; its contents are verified as Unit 4 from its header and storybook (book error E8). Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'The Magic Box' Year 5 Teacher's Book, Unit 6* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Creatures hyena, skunk, lobster, praying mantis, whale, beetle, sparrow, rhino; action and social verbs call names, push, shout at, fight, share, smile, make friends, help; adjective + enough (big enough, strong enough) | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 4, PDF p.1 |
+| Story 'Marvin Wanted More' (Joseph Theobald), with greedy, lonely, high, strong, heavy, and too + adjective (comprehension); plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 6, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

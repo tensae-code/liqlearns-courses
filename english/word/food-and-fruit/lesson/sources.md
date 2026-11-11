@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus
 
 Every part traces to its book and page.
 
@@ -356,8 +356,8 @@ cited once.
 | Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
 | Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
 | Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
-**Acceptance count: taught in 39 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania).** Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 40 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus).** Cyprus joins with the food sets of Years 1–4, from fruit and likes to the Very Hungry Caterpillar's story foods (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
 North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
@@ -700,3 +700,31 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Reading: dietitian, balanced, diet, choice, avoid, difficult, adult, especially — healthy eating | Kuwait, Skyline English Student's Book 5B (Grade 5), Unit 8, printed p.63 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit; writers Sophie Ioannou Georgiou, Claire Kouppa, Irene Temete, Maria Xanthou; 1st ed. 2011, revised 2013. Teacher's-book evidence: Year 1 is an oral-only year — the book states there is no pupil reading or writing in Year 1, and no pupil's book exists for the year. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 1, Part B, Unit 3* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'Friends' Year 2 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence. Printed page = PDF page + 5 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'Friends' Year 2, Part B, Unit 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fruit apples, bananas, pears, oranges, and saying likes/dislikes: 'I like / I don't like…', 'S/he likes…' | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 16, PDF p.108 |
+| Food words ketchup, corn flakes, apple pie, lemonade, egg, toast, chips, jam, milk (comprehension: salt, custard, ice cubes), and home words toothbrush, toothpaste, bath, bed | Cyprus, 'Friends' Year 1 Part B, Unit 3 (teacher unit material), PDF p.1 |
+| Rhyme words put, take, kettle, tea (the nursery rhyme 'Polly Put the Kettle On') — kettle/tea stocked here as kitchen words; the rhyme itself is stocked as an oral text in the-story | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 2, PDF p.33 |
+| Food words carrots, tomatoes, pizza, chocolates, milk, with 'I like… / I don't like…', 'Do you like…?' and 'I come from…' | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 11, PDF p.107 |
+| Tropical fruit guava, mango, pineapple, avocado, passion fruit, tangerine, and story animals ostrich, antelope, parrot, goat | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 12, PDF p.113 |
+| Story-food words plums, strawberries, watermelon (comprehension set cake, pickle, salami, lollipop, pie, sausage, cupcake, healthy) | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 13, PDF p.124 |
+| Food words runner beans, spaghetti, soup, roast beef, chicken; today; 'come and eat it up' | Cyprus, 'Friends' Year 2 Part B, Unit 3 Teacher's Book, PDF p.1 |
+| Meals and food: food, sandwich, biscuits, orange juice, cereal; meals dinner, breakfast, lunch (story comprehension milkman, grocer, teapot, supper, cooker, café) | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 8, PDF p.119 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

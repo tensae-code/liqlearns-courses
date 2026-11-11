@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus
 
 Every part traces to its book and page.
 
@@ -649,8 +649,8 @@ verification sweep.
 | Story: at the fair the friends paint their faces and Extra cannot recognise them (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 4, pupil printed p.55 |
 | Story: a hot beach day where Extra rubs ice cream on himself instead of sun cream (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 4, pupil printed p.63 |
 | A complete poem read at story scale: Robert Frost's "Stopping by Woods on a Snowy Evening", with alliteration, imagery and paraphrasing (filed as a summary only) | Pakistan, *English IX* (older curriculum), Unit 7 (contents) |
-**Acceptance count: taught in 40 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya).** Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
+**Acceptance count: taught in 41 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Cyprus).** Cyprus joins with the programme's story spine — one mediated picturebook per unit across Years 1–6, from 'I Want My Dinner' to 'Eat Your Peas' (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with writing a story — guided story composition (Grade 8) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -1336,3 +1336,106 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Stories in the Holy Qur'an; Luqman's advice sorted into should / shouldn't (the advice half is stocked in giving-advice) | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 10, printed pp.78–79 (full-year folios; term folios pp.31–32) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit; writers Sophie Ioannou Georgiou, Claire Kouppa, Irene Temete, Maria Xanthou; 1st ed. 2011, revised 2013. Teacher's-book evidence: Year 1 is an oral-only year — the book states there is no pupil reading or writing in Year 1, and no pupil's book exists for the year. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 1, Part B, Unit 2* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'Friends' Year 1, Part B, Unit 3* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'Friends' Year 1, Part B, Unit 5* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *'Friends' Year 2 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence. Printed page = PDF page + 5 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 6:** *'Friends' Year 2, Part B, Unit 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 7:** *'Friends' Year 2, Part B, Unit 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 8:** *'Friends' Year 2, Part B, Unit 4* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 9:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 10:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 11:** *'The Magic Box' Year 5 Teacher's Book, Unit 2* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 12:** *'The Magic Box' Year 5 Teacher's Book, Unit 3* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 13:** *'The Magic Box' Year 5 Teacher's Book, Unit 4* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. The file is held under the generic filename `teacher_book.pdf`; its contents are verified as Unit 4 from its header and storybook (book error E8). Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 14:** *'The Magic Box' Year 5 Teacher's Book, Unit 5* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 15:** *'The Magic Box' Year 5 Teacher's Book, Unit 6* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 16:** *'The Magic Box' Year 5 Teacher's Book, Unit 7* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 17:** *'The Magic Box' Year 6 Teacher's Book, Unit 2* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 18:** *'The Magic Box' Year 6 Teacher's Book, Unit 3* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 19:** *'The Magic Box' Year 6 Teacher's Book, Unit 4* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 20:** *'The Magic Box' Year 6 Teacher's Book, Unit 5* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 21:** *'The Magic Box' Year 6 Teacher's Book, Unit 6* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. The file is held under the generic filename `year6_teachers_book.pdf`; its contents are verified as Unit 6 from its header and storybook (book error E8). Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 22:** *'The Magic Box' Year 6 Teacher's Book, Unit 7* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 23:** *'The Magic Box' Year 6 Teacher's Book, Unit 8* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 24:** *'The Magic Box' Activity Book, Year 6* (activity book, the whole book) — Cyprus, Ministry of Education and Culture, ISBN 978-9963-0-1582-5, 1st ed. 2016. The three standalone unit files (Units 1, 6, 7) are exact page excerpts of this book and were read in it. Citations are the whole book's printed pages. Read in the 2026-11-10 expansion read.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+Book errors E6, carried: the Year 3 Teacher's Book prints 'Colous' for Colours in its Unit 3 header, and the Year 6 Activity Book prints 'Snokrlum' once for Snorklum (Unit 3, printed p.19) — both taught corrected.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story 'I Want My Dinner' (Tony Ross) — a princess demands her dinner rudely; followed by ear in the teacher's telling, the text not printed in the guide; plot summary only | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 5, PDF p.45 |
+| Story 'Pudding' (Pippa Goodhart), followed by ear with prediction work; plot summary only, text not printed in the guide | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 8, PDF p.59 |
+| Cumulative story 'Brown Bear, Brown Bear' (Eric Carle) — each animal seen in turn, named with its colour — followed and joined in orally; plot summary only | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 9, PDF p.66 |
+| Story 'Dear Zoo' (Rod Campbell) — the zoo sends a series of unsuitable pets, each returned for a stated reason, until the perfect pet arrives; plot summary only | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 11, PDF p.80 |
+| Story 'Polar Bear, Polar Bear' (Eric Carle) — cumulative naming of zoo animals by their sounds, kept by the zookeeper; plot summary only | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 12, PDF p.87 |
+| Story 'Little Beauty' (Anthony Browne), followed with visual support; plot summary only, text not printed | Cyprus, 'Friends' Year 1 Part B, Unit 2 (teacher unit material), PDF p.1 |
+| Silly-combination story 'Ketchup on Your Cornflakes' (Nick Sharratt), told from slides; plot summary only | Cyprus, 'Friends' Year 1 Part B, Unit 3 (teacher unit material), PDF p.1 |
+| Story 'Go Away, Big Green Monster' (Ed Emberley) — a monster's face is built feature by feature and then dismissed feature by feature; plot summary only | Cyprus, 'Friends' Year 1 Part B, Unit 5 (teacher unit material), PDF p.1 |
+| Rhyme words put, take, kettle, tea (the nursery rhyme 'Polly Put the Kettle On') — kettle/tea stocked here as kitchen words; the rhyme itself is stocked as an oral text in the-story | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 2, PDF p.33 |
+| Story 'Walking Through the Jungle' (Julie Lacome) — a child walking through the jungle hears and flees a succession of animals; plot summary only | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 5, PDF p.54 |
+| Story 'From Head to Toe' (Eric Carle) — animals each move one body part and invite the child to copy; plot summary only | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 6, PDF p.64 |
+| Story 'We're Going on a Bear Hunt' (Michael Rosen) — a family crosses each landscape, finds a bear in the cave, and runs home through them all in reverse; plot summary only | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 10, PDF p.97 |
+| Story 'Handa's Surprise' (Eileen Browne) — Handa carries a basket of fruit to her friend while animals secretly take pieces and a surprise load replaces them; plot summary only | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 12, PDF p.113 |
+| Story 'The Very Hungry Caterpillar' (Eric Carle) — a caterpillar eats through foods day by day, grows fat, and becomes a butterfly; plot summary only | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 13, PDF p.124 |
+| The story/rhyme book 'Dr Seuss's ABC' (Dr Seuss), followed as the unit's alphabet text; plot summary only | Cyprus, 'Friends' Year 2 Part B, Unit 1 Teacher's Book, PDF p.1 |
+| The cumulative song-story 'Today Is Monday' (Eric Carle) — a food for each day of the week, eaten up at the end; plot summary only | Cyprus, 'Friends' Year 2 Part B, Unit 3 Teacher's Book, PDF p.1 |
+| Story 'Shark in the Park' (Nick Sharratt) — Timothy Pope looks through his telescope around the park and keeps thinking he sees a shark; plot summary only | Cyprus, 'Friends' Year 2 Part B, Unit 4 (teacher unit material), PDF p.1 |
+| Story 'My Many Colored Days' (Dr Seuss) — feelings matched to colours day by day; plot summary only | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 3, PDF p.45 |
+| Story 'Can't Catch Me' (Michael Foreman), with aliens/spaceship/bedtime words; plot summary only, text not printed in the guide | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 6, PDF p.78 |
+| Story 'Green Eggs and Ham' (Dr Seuss) — Sam-I-Am offers the dish in place after place until it is finally tasted and liked; plot summary only | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 11, PDF p.124 |
+| Story 'Beautiful Bananas' (Elizabeth Laird), with beautiful, honey, flowers; plot summary only | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 14, PDF p.149 |
+| The sound-words book 'Mr Brown Can Moo' (Dr Seuss) — animal and everyday sounds imitated in words, compared across languages; plot summary only | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 17, PDF p.189 |
+| Story 'The Tiger Who Came to Tea' (Judith Kerr) — a tiger arrives at teatime and eats and drinks everything in the house; plot summary only | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 8, PDF p.119 |
+| Story 'Class Two at the Zoo' (Julia Jarman), followed in storytelling; plot summary only | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 9, PDF p.135 |
+| The traditional story 'Chicken Licken' — an acorn falls, the chick decides the sky is falling and gathers animals on the way to tell the king; plot summary only | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 11, PDF p.164 |
+| Story 'The Smartest Giant in Town' (Julia Donaldson) — a giant buys smart new clothes and gives them away piece by piece to animals in need; plot summary only | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 15, PDF p.211 |
+| Story 'The Gruffalo' (Julia Donaldson) — a mouse invents a monster to scare off predators, then meets the real Gruffalo and tricks it in turn; plot summary only | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 17, PDF p.237 |
+| Story 'What the Ladybird Heard' (Julia Donaldson), with ladybird, farmer, pond, map and the comprehension set hog, van, prize, steal, gate, tractor, thief; plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 2, PDF p.1 |
+| Story 'A Squash and a Squeeze' (Julia Donaldson) — a woman who thinks her house is too small is advised to take animals in, then out again, and finds it huge; plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 3, PDF p.1 |
+| Story 'The Bad-Tempered Ladybird' (Eric Carle) — a rude ladybird challenges bigger and bigger creatures through the hours of the day; plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 4, PDF p.1 |
+| Story 'The Selfish Crocodile' (Faustin Charles and Michael Terry); plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 5, PDF p.1 |
+| Story 'Marvin Wanted More' (Joseph Theobald), with greedy, lonely, high, strong, heavy, and too + adjective (comprehension); plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 6, PDF p.1 |
+| Story 'The Lamb Who Came for Dinner' (Steve Smallman); plot summary only | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 7, PDF p.1 |
+| Story 'Oodles of Noodles' (Diana Hendry), with invention words design, drive, invention, invent, organise, noodles, vinegar; plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 2, PDF p.1 |
+| Story 'The Not-So Scary Snorklum' (Paul Bright and Jane Chapman), with mole, badger, whiskers, wings (Activity Book printed pp.17–20: predicting the ending, correcting Snorklum's Cyprus plans, writing a magazine article from his diary) | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 3, PDF p.1; Activity Book, printed pp.17–20 |
+| The traditional story 'The Enormous Turnip' (Russian) — a farmer and his whole family pull together to uproot a giant turnip (Activity Book printed p.25: sentence-ordering and retelling with then/later/in the end); plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 4, PDF p.1; Activity Book, printed p.25 |
+| The traditional story 'The Monkey and the Shark' (Zulu), named as the unit's second traditional story; plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 4, PDF p.1 |
+| Story 'Rhinos Don't Eat Pancakes' (Anna Kemp) — Daisy finds a rhino in her kitchen, nobody believes her, and in the end the rhino is flown home to Africa (recoverable from the Activity Book printed pp.32–33 story completion and interview); plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 5, PDF p.1; Activity Book, printed pp.32–33 |
+| Story 'The Paper Bag Princess' (Robert Munsch) — Princess Elizabeth, whose castle and clothes are burned by a dragon that carries off Prince Ronald, tracks the dragon in a paper bag, outwits it, rescues Ronald, and refuses to marry him after he scolds her appearance (Activity Book printed p.35 cloze retelling and pp.37–38 dragon interview/article tasks); plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 6, PDF p.1; Activity Book, printed p.35 |
+| Story 'The Snail and the Whale' (Julia Donaldson) — a tiny snail hitches a ride on a whale's tail around the world and later saves the beached whale by leaving a message at a school (Activity Book printed p.44 cloze retelling); plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 7, PDF p.1; Activity Book, printed p.44 |
+| Story 'Eat Your Peas' (Kes Gray, illus. Nick Sharratt) — Daisy refuses peas while her mother offers ever bigger rewards; in the end they eat ice-cream together, Daisy still not eating peas and her mother not eating Brussels sprouts (Activity Book printed p.56 cloze); plot summary only | Cyprus, 'The Magic Box' Year 6 Teacher's Book, Unit 8, PDF p.1; Activity Book, printed p.56 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

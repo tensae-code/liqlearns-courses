@@ -1,6 +1,6 @@
 # Sources — Ordering words
 
-countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal
+countries: Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus
 
 Every part traces to its book and page.
 
@@ -41,7 +41,7 @@ english/books/rwanda.md (FULLY READ; citation-checked
 | Alphabetical order as a named strand | Pakistan, *English 1*, contents Language Focus column |
 | Alphabetical order as a named strand | Pakistan, *English 3*, contents |
 
-**Acceptance count: taught in 11 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal).** Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Barbados, India, Rwanda, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, South Africa, Nepal, Cyprus).** Cyprus joins with Year 2 Part B's alphabetical order and spelling words aloud letter by letter (stocked 2026-11-11 by the Cyprus expansion merge). Yemen joins with alphabetical order of jobs in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge).
 Barbados stocks the ladder itself as syllabus-set
 work — 1st–2nd letter at Class 1, the 3rd letter at
 Class 2, the 4th at Class 3. India stocks the two
@@ -164,3 +164,16 @@ The 2026-11-08 re-verification sweep re-read Nepal's English set from the files:
 | Alphabetical order: rewriting words in abc order | Nepal, *My English Book Grade 3* (Grade 3), printed p.13 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/nepal-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 2, Part B, Unit 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Alphabetical order, spelling words aloud letter by letter, writing words spelled out, copying words | Cyprus, 'Friends' Year 2 Part B, Unit 1 Teacher's Book, PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

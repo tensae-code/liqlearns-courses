@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — preferences: prefer + noun/-ing, like, enjoy + -ing, 'd rather + base verb; prefer X to Y | Mauritania, Study English, Grade 13, printed pp.32–34 |
 | Sub lesson 4 — 'd rather X than Y, and asking preferences: do you prefer…or…?, would you rather…or…? | Mauritania, Study English, Grade 13, printed pp.32–34 |
 
-**Acceptance count: taught in 5 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus).** Cyprus joins with its likes line — 'Do you like…?', third-person likes, and 'I don't mind doing' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the taste strand taught in three places — Grade 7's likes and dislikes and Grade 13's desires and preferences — with no lesson carrying the wanting and choosing climbs; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' taste teaching joins as their sweep merges land. Ethiopia joins with its Grade 2 likes and dislikes (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -63,3 +63,39 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Grammar: present simple with the preference verbs like / prefer + places | Kuwait, English Pearls Student's Book 6A (Grade 6), Learning Unit 2, printed p.36 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit; writers Sophie Ioannou Georgiou, Claire Kouppa, Irene Temete, Maria Xanthou; 1st ed. 2011, revised 2013. Teacher's-book evidence: Year 1 is an oral-only year — the book states there is no pupil reading or writing in Year 1, and no pupil's book exists for the year. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 1, Part B, Unit 3* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'Friends' Year 2 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence. Printed page = PDF page + 5 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 6:** *'The Magic Box' Year 5, Unit 9 book file* — Cyprus, Ministry of Education and Culture. The file is held at both the unit_8 and unit_9 paths and is headed 'UNIT 9' inside; the books.json titles state the swap correctly (book error E1 / flag F2), and the rows cite the book by its true Unit 9 identity. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 7:** *'The Magic Box' Activity Book, Year 6* (activity book, the whole book) — Cyprus, Ministry of Education and Culture, ISBN 978-9963-0-1582-5, 1st ed. 2016. The three standalone unit files (Units 1, 6, 7) are exact page excerpts of this book and were read in it. Citations are the whole book's printed pages. Read in the 2026-11-10 expansion read.
+
+Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; travel and wishes) whose Teacher's Books are not in hand anywhere in the records — the in-hand Year 6 teacher material stops at Unit 8 (plus Review 1 and two project units) — so the rows from those units in this section rest on Activity Book evidence alone, and any claim that Cyprus Year 6 is fully teacher-evidenced would be wrong on this set.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fruit apples, bananas, pears, oranges, and saying likes/dislikes: 'I like / I don't like…', 'S/he likes…' | Cyprus, 'Friends' Year 1 Teacher's Book, Unit 16, PDF p.108 |
+| Asking about likes: 'Do you like…?' | Cyprus, 'Friends' Year 1 Part B, Unit 3 (teacher unit material), PDF p.1 |
+| Food words carrots, tomatoes, pizza, chocolates, milk, with 'I like… / I don't like…', 'Do you like…?' and 'I come from…' | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 11, PDF p.107 |
+| 'Do you like…? Yes, I do. / No, I don't.' with food words cheese, chips, cake, coffee, water, eggs, ham | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 11, PDF p.124 |
+| 'He/She/It likes… / doesn't like…' and apologising 'I'm sorry!' | Cyprus, 'Friends' Year 3 Teacher's Book, Unit 14, PDF p.149 |
+| Third-person likes questions 'Does he/she like…? Yes, he/she does. / No, he/she doesn't.' and plural 'Do they like…?', with food hamburger, rice, lemonade, chicken, pop corn and animals koala, panda, lemur, puppy, cute | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 5, PDF p.80 |
+| Frequency questions 'How often do you/does s/he…?' with once, twice, three times (a day/week/month), and 'I don't mind + noun' | Cyprus, 'The Magic Box' Year 5 Unit 9 book file (headed 'UNIT 9'), PDF p.1 |
+| 'I don't mind doing / I like doing / I don't like doing' sorted over chores and daily activities — Activity Book evidence alone; the unit's Teacher's Book is not in hand (flag F1) | Cyprus, 'The Magic Box' Year 6 Activity Book, Unit 9, printed p.57 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

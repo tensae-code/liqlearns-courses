@@ -1,6 +1,6 @@
 # Sources — Asking for Clarification and Repetition
 
-countries: Mauritania, Vietnam, Barbados, Afghanistan
+countries: Mauritania, Vietnam, Barbados, Afghanistan, Cyprus
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — repetition and spelling repair: say it again; how do you spell…? | Mauritania, Study English, Grade 7, printed pp.30–32 |
 | Sub lesson 3 — meaning repair: what does it mean; I beg your pardon | Mauritania, Study English, Grade 7, printed pp.30–32 |
 
-**Acceptance count: taught in 3 countries (Mauritania, Vietnam, Afghanistan).** This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 4 countries (Mauritania, Vietnam, Afghanistan, Cyprus).** Cyprus joins with its help phrases — 'How do you spell…?', 'I don't understand', 'Can you help me, please?' (stocked 2026-11-11 by the Cyprus expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found the clarification-and-repetition set taught as its own lesson in the Grade 7 book, inside the hotel-booking phone call, with no lesson of its own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' repair teaching joins as their sweep merges land. Vietnam joins with its Grades 8, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -57,3 +57,19 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | Lesson part | Where it comes from |
 |---|---|
 | Asking for repetition and clarification ("Sorry? How many…? Pardon? When did he invent it?") | Afghanistan, *English for Afghanistan: Student's Book*, Grade 9, Unit 9, printed p.94 |
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 3 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking for spelling help 'How do you spell…?', and noticing English words already in everyday life | Cyprus, 'Friends' Year 3 Teacher's Book, Project Unit 'English Around Us', PDF p.37 |
+| Help phrases in production: 'I don't understand.', 'Can you help me, please?', learn | Cyprus, 'Friends' Year 4 Teacher's Book, Project Unit 'Asking for help', PDF p.39 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

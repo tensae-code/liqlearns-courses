@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus
 
 Every part traces to its book and page.
 
@@ -492,8 +492,8 @@ verification sweep.
 | An interview with film director Christopher Nolan | Mongolia, English XII, Unit 10, printed p.181 |
 | Reading: film therapy | Mongolia, English XII, Unit 10, printed pp.185–186 |
 | Passage comprehension taught as its own chapter: solved examples first, then exercises | Pakistan, *English Grammar & Composition 9–10*, Chapter V, printed p.31 |
-**Acceptance count: taught in 35 countries (Egypt, Ghana,
-India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine).** India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
+**Acceptance count: taught in 36 countries (Egypt, Ghana,
+India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Cyprus).** Cyprus joins with its finding-information points, from the Year 4 e-pal e-mail to the Year 6 'Away from Home' refugee readings (stocked 2026-11-11 by the Cyprus expansion merge). India adds passages set apart for answering from in Classes 4, 5, 6, 7, 8, 10 and 11, from "The Blue Jackal" to "Discovering Tut" (stocked 2026-11-09 by the India re-verification sweep merge). India builds the carrier hunt into the page and
 prints the question-kind border; Ghana demands textual
 evidence under personal responses; Egypt examines by the
 unseen passage; China grades the answering shapes themselves
@@ -1187,3 +1187,41 @@ The 2026-11-08 re-verification sweep re-read all 9 of Afghanistan's held English
 | A reading text on computers in education, with true/false questions | Afghanistan, *English for Afghanistan: Let's Start*, Grade 5, Unit 3, printed p.30 |
 | The reading text "My favourite hobby is reading" (why reading is good) | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 8, printed p.73 |
 | A reading text: what a television is and how TVs changed | Afghanistan, *English for Afghanistan: Let's Start*, Grade 6, Unit 13, printed p.120 |
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 4 Pupil's Book, Unit 2* (pupil's book) — Cyprus, Ministry of Education and Culture. Pupil's-book evidence; citations are printed pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'The Magic Box' Year 5 Teacher's Book, Unit 2* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 4:** *'The Magic Box' Year 5, Unit 9 book file* — Cyprus, Ministry of Education and Culture. The file is held at both the unit_8 and unit_9 paths and is headed 'UNIT 9' inside; the books.json titles state the swap correctly (book error E1 / flag F2), and the rows cite the book by its true Unit 9 identity. Citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 5:** *'The Magic Box' Year 6 Pupil's Book, Unit 1* (pupil's book) — Cyprus, Ministry of Education and Culture. Pupil's-book evidence; citations are printed pages. Book error E5, carried: printed p.7 misprints 'favourite coluour' for colour — taught corrected — and one dialogue page (printed p.6) is set in a substituted font that extracts as gibberish, a production fault in the PDF; the dialogue is the standard Unit 1 introduction dialogue, evidenced by the teacher book and the facing questions. Read in the 2026-11-10 expansion read.
+
+**Book 6:** *'The Magic Box' Activity Book, Year 6* (activity book, the whole book) — Cyprus, Ministry of Education and Culture, ISBN 978-9963-0-1582-5, 1st ed. 2016. The three standalone unit files (Units 1, 6, 7) are exact page excerpts of this book and were read in it. Citations are the whole book's printed pages. Read in the 2026-11-10 expansion read.
+
+**Book 7:** *'The Magic Box' Year 6 Pupil's Book, Project Unit 'Away from Home'* (pupil's book) — Cyprus, Ministry of Education and Culture. Pupil's-book evidence; citations are printed pages. Read in the 2026-11-10 expansion read.
+
+Flag F1, carried: the Year 6 Activity Book teaches Units 9 and 10 ('Mr Hatch'; travel and wishes) whose Teacher's Books are not in hand anywhere in the records — the in-hand Year 6 teacher material stops at Unit 8 (plus Review 1 and two project units) — so the rows from those units in this section rest on Activity Book evidence alone, and any claim that Cyprus Year 6 is fully teacher-evidenced would be wrong on this set.
+
+Book error E1 / flag F2, carried: the Year 5 files at the Unit 8 and Unit 9 paths are swapped at source and byte-duplicated — the pupil-side file is headed 'UNIT 9' inside at both paths and the teacher file is headed 'UNIT 8' inside at both paths; the books.json titles state this correctly, no content is missing, and the rows cite each book by its true unit.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing to an e-pal: e-mail, e-pal, filling a form with personal information, reading an e-mail and answering true/false (Pupil's Book activity 3) | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 2, PDF p.45; Pupil's Book Unit 2, printed p.12 |
+| Reading a short paragraph and following instructions; new country names the USA, Ireland, and food words milkshake, vanilla, hot dog, sandwich (comprehension) | Cyprus, 'Friends' Year 4 Teacher's Book, Project Unit 'Reading about other places', PDF p.89 |
+| Finding specific information in a reading text, and describing and drawing a creature from an oral description | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 17, PDF p.237 |
+| Finding specific information in an authentic text, and detailed information in a listening text | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 2, PDF p.1 |
+| The poem 'Water Walk' read for main idea, with water-crisis texts about schools around the world | Cyprus, 'The Magic Box' Year 5 Unit 9 book file (headed 'UNIT 9'), PDF p.1 |
+| A personal-information dialogue story (a new teacher, Mrs Stephanie Meleti, introduces herself; pupils answer name/age/pet/favourite food/hobby questions, with teacher descriptions to match in activity 5) | Cyprus, 'The Magic Box' Year 6 Pupil's Book, Unit 1, printed pp.6–8 |
+| A mythical-creature description read and drawn: the Griffin (half bird, half lion, from Egypt/Greece/Persia) | Cyprus, 'The Magic Box' Year 6 Activity Book, printed p.16 |
+| Jules Verne's 'Around the World in 80 Days' as a listening route-map text (Phileas Fogg's route and leg times) | Cyprus, 'The Magic Box' Year 6 Activity Book, printed p.41 |
+| Reading a holiday advertisement for six kinds of information, then making your own 3-day holiday advertisement — Activity Book evidence alone; the unit's Teacher's Book is not in hand (flag F1) | Cyprus, 'The Magic Box' Year 6 Activity Book, Unit 10, printed pp.64–65 |
+| Reading/listening about refugees: the song 'Five Hundred Miles' gap-fill, Mr Stelios Petrou's 1974 refugee account completed from a word box, and 12-year-old Costas's letter to the President with circle-the-answer comprehension | Cyprus, 'The Magic Box' Year 6 Pupil's Book, Project Unit 'Away from Home', printed pp.19–20 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

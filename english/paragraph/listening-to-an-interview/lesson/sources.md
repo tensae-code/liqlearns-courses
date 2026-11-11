@@ -1,6 +1,6 @@
 # Sources — Listening to an Interview
 
-countries: Mexico, Barbados, Saudi Arabia, Kuwait
+countries: Mexico, Barbados, Saudi Arabia, Kuwait, Cyprus
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ cited once.
 |---|---|
 | The whole lesson: listening to an interview — the Susana Harp interview listening, "Afro-México y patrimonio cultural": hear the interview's shape, and identify the interviewee's likes and dislikes and the compliments the interviewer pays her; the practice interview in the lesson text is this course's own short interview in the same shape, and the book's recording is not transcribed | Mexico, Grade 7, Project 15 "Preserving Cultural Heritage in the Music of Afro-Mexican Communities", printed p. 141 |
 
-**Acceptance count: taught in 3 countries (Mexico, Saudi Arabia, Kuwait).** This
+**Acceptance count: taught in 4 countries (Mexico, Saudi Arabia, Kuwait, Cyprus).** Cyprus joins with its interview work — carrying out a short interview (Year 4) and a simple interview about yourself (Year 5) (stocked 2026-11-11 by the Cyprus expansion merge). This
 lesson exists because of Mexico's Grade 7 book: no book
 read before the 2026-11-08 re-verification sweep taught
 listening to an interview — its shape, and listening inside
@@ -87,3 +87,21 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Listening: an eyewitness account of a night-time incident; ordering the events | Kuwait, Over to You Student's Book 10B (Grade 10), Unit 12, printed p.94 (full-year folio; term folio p.47) |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 4 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence for the Pupil's Book / Activity Book pair it accompanies. Printed page = PDF page − 1 in this book; citations are PDF pages. Book error E2, carried: the contents page swaps the Unit 1 and Unit 2 page numbers (Unit 1 begins at PDF p.28, Unit 2 at PDF p.45); the rows cite the unit headers, not the contents. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'The Magic Box' Year 5 Teacher's Book, Unit 1* (teacher's book, per-unit file) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'The Magic Box' Year 5 Pupil's Book, Unit 1* (pupil's book) — Cyprus, Ministry of Education and Culture. Pupil's-book evidence; citations are printed pages. Read in the 2026-11-10 expansion read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers up to 100 in use, and carrying out a short interview: 'What time do/does…?', famous, interview, question, 'you're welcome', 'of course' | Cyprus, 'Friends' Year 4 Teacher's Book, Unit 18, PDF p.250 |
+| Meeting people: 'It's nice to meet you!', surname; writing a paragraph and a simple interview about yourself; a poem about a friend (the Pupil's Book, printed pp.6–10, holds the character story read-and-answer, name poems, a club form, and the 'I would like to go… because…' frame) | Cyprus, 'The Magic Box' Year 5 Teacher's Book, Unit 1, PDF p.1; Pupil's Book Unit 1, printed pp.6–10 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.

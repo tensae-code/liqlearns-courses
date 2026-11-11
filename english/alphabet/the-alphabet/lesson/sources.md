@@ -1,6 +1,6 @@
 # Sources — The alphabet
 
-countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait
+countries: Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Ghana, Nicaragua, Palestine, Kuwait, Cyprus
 
 Every part traces to its book and page. The PDF of Libya's Pupils Book
 is one book page per PDF page, with the book page printed at the
@@ -393,7 +393,7 @@ sound is learned.
 | Writing Letters – Small And Capital — Match lower and upper case letters Reading and Writing Skills general skills | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 1, Strand 4 (Writing), standard B1.4.3.1, PDF p.51 (curriculum evidence) |
 | Writing Letters – Small And Capital | Ghana, NaCCA English Language Curriculum for Basic 1–3 (2019), Basic 2, Strand 4 (Writing), standard B2.4.3.1, PDF p.78 (curriculum evidence) |
 | Letter Writing — write letters to friends about events, using the letter format | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.15.1, PDF p.161 (curriculum evidence) |
-**Acceptance count: taught in 33 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait).**
+**Acceptance count: taught in 34 countries (Egypt, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Palestine, Kuwait, Cyprus).** Cyprus joins with Year 2's letter-by-letter A–Z introduction and the Dr Seuss ABC word set (stocked 2026-11-11 by the Cyprus expansion merge).
 China joins through its Grade 3 Volume 1: the ABC song is placed
 before any letter teaching (Unit 1, p.6), and Recycle 2 adds a
 missing-letter sequence exercise (p.69) — the alphabet as a sung
@@ -801,3 +801,34 @@ The 2026-11-08 re-verification sweep re-read Kuwait's held English set from the 
 | Writing: finding the initial letters that complete a secret word, and completing food sentences | Kuwait, Skyline English Student's Book 1B (Grade 1), Unit 6, printed p.35 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kuwait-placements.md.
+
+## Cyprus added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Cyprus's held English set from the PDFs — 46 in-hand files holding 42 distinct books (1,469 PDF pages): the Ministry of Education and Culture 'Friends' Years 1–4 and 'The Magic Box' Years 5–6 primary programme. Two SHA-256 byte-identical duplicate pairs were collapsed (the Year 5 Unit 8/9 pupil and teacher files), and three Year 6 Activity Book unit files are exact page excerpts of the whole Activity Book and were read in it. 261 teaching items were placed fresh from the books; Cyprus had no presence in the course before, so all 261 were missing. The rows below are this lesson's share, stocked from the expansion placements. Evidence kinds are labelled as what they are: Years 1–4 are held as Teacher's Books (Year 1 is an oral-only year — no pupil's book exists for it), the Year 5–6 teacher books are per-unit files, and rows resting on a Pupil's Book or the Activity Book say so in their book entry. Read depth, as the placements declare it: full page-by-page reads of the pupil, activity and project files and of every teacher-book unit header, planning map, story/reading section and vocabulary list; teacher-book lesson-procedure prose is delivery of the header items and is not stocked separately. Stories and readings are stocked as plot summaries only.
+
+**Book 1:** *'Friends' Year 2 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture, Pedagogical Institute Curriculum Development Unit. Teacher's-book evidence. Printed page = PDF page + 5 in this book; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 2:** *'Friends' Year 2, Part B, Unit 1 Teacher's Book* (teacher's book) — Cyprus, Ministry of Education and Culture. Teacher's-book evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+**Book 3:** *'Friends' Year 2, Seasonal Unit — Mother's Day* (teacher unit material) — Cyprus, Ministry of Education and Culture. Teacher-material evidence; citations are PDF pages. Read in the 2026-11-10 expansion read.
+
+Book error E7, carried: the Year 2 book teaches the letters out of alphabetical order — the family unit teaching L, M, N is Unit 8 and the people unit teaching J, K is Unit 9. The course teaches the alphabet in order, not the book's order; the rows keep the book's unit order so the evidence traces.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter A a: recognising and writing the letter, with apple as its word | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 3, PDF p.41 |
+| Letters B b, C c: recognising and writing, with bear, cat | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 4, PDF p.47 |
+| Letters D d, E e, with dog, elephant | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 5, PDF p.54 |
+| Letters F f, G g | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 6, PDF p.64 |
+| Letters H h, I i, with hen, ice-cream | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 7, PDF p.74 |
+| Letters L l, M m, N n, with lion, mouse, nose (the book teaches J/K after L/M/N — book error E7, carried in this lesson's Cyprus section) | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 8, PDF p.81 |
+| Letters J j, K k, with jump, kangaroo | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 9, PDF p.92 |
+| Letters O o, P p, Q q, with octopus, pizza, queen | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 10, PDF p.97 |
+| Letters R r, S s, T t, with rabbit, sun, tomato | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 11, PDF p.107 |
+| Letters U u, V v, W w, X x, Y y, Z z, with umbrella, violin, window, xylophone, yo-yo, zebra — the alphabet completed | Cyprus, 'Friends' Year 2 Teacher's Book, Unit 12, PDF p.113 |
+| The alphabet-word set alligator, bubbles, doughnut, egg, feather, goggles, hat, igloo, jam, kitten, kite, moon, owl, puppy, question, rhino, turtle, water, x-ray, with 'What begins with…?' | Cyprus, 'Friends' Year 2 Part B, Unit 1 Teacher's Book, PDF p.2 |
+| Alphabetical order, spelling words aloud letter by letter, writing words spelled out, copying words | Cyprus, 'Friends' Year 2 Part B, Unit 1 Teacher's Book, PDF p.1 |
+| Spelling the word 'mummy' letter by letter, and Mother's Day wishes with the song line 'I love you this much' | Cyprus, 'Friends' Year 2 Seasonal Unit — Mother's Day (teacher unit material), PDF p.1 |
+
+Cyprus is new to this lesson: the countries line and the acceptance count above were updated together.
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/cyprus-placements.md.
