@@ -1134,6 +1134,59 @@ literature matching table). **South Sudan: 22 of 22
 re-read.** The English course now stands at **231 lessons
 across 44 units**.
 
+**Syria re-verification sweep merge (2026-11-11):** all
+23 of Syria's held English books were re-read by the
+2026-11-08 sweep (343 fresh items placed; 340 already in
+the course, 3 missing). All 3 missing items are now
+stocked. Two were marked NEW LESSON NEEDED at sweep time,
+when no lesson housed them; both topics have since been
+built as lessons from other countries' sweep finds, so
+Syria's items are stocked there instead of in duplicate
+lessons: the have to / has to obligation system (Grade 5
+Pupil's Book 5, Unit 1 "At School", printed pp.6–8,
+reinforced in Grade 6 Unit 14, the Grade 7 Teacher's
+Book's Module 5 and English for Starters 5 Unit 13) into
+**have-to-obligation**, and measuring length and height
+in metres (Grade 3 Pupil's Book 3, printed pp.51–52)
+into **asking-about-size-and-measure**. The third, the
+Grade 7 Teacher's Book's Literature Spot on H. G. Wells's
+*The War of the Worlds* (printed pp.104–105), is stocked
+in **the-big-reading** as a plot summary only — the
+abridged text sits in a student's book that is not in
+hand, so only the Teacher's Book's study of it is held,
+and Syria's complete-text standing there still rests on
+the Snow White reader in *English for Starters 5*, which
+the sweep re-verified word-for-word against the file it
+recovered from the recorded Drive link: bound in at
+printed pp.79–87 and COMPLETE, ending properly. The
+sweep's six flags are dispositioned: the record's two
+Grade 5 books are now kept distinct in the lesson files
+(the NCCD Pupil's Book 5 carries no reader and no story
+section; Snow White belongs to Starters 5 alone); the
+Starters 5 file had stood nowhere in the workspace at
+sweep start and was recovered during the sweep (the
+filing's "23 files, all in hand" framing was not true at
+sweep start — record-side); the held Grade 9 book's own
+cover band reads 2019–2020 against the filing's
+2025-2026 (record-side, the book itself is the right
+book); the gap-downloads manifest's "PDF pp.1–3 are
+blank" caveat is wrong for the recovered file, whose
+cover and title page are present and legible
+(record-side); and the Grade 12 books' false promises —
+an irregular-verb table promised in the Scientific
+Workbook's appendixes and tape scripts promised in the
+Grade 7 and Grade 9 workbooks, none of them in the files
+— are the books' own claims, stated correctly in the
+filing and nowhere repeated in the course (verified in
+this merge; no course edit needed). Book errors are
+stocked taught corrected with the error noted ("Samir
+and the Brids", "In a villoge", "Snow white" with a
+lower-case w in the Grade 6 film retelling — a second,
+one-page Snow White, a unit reading text, not a reader —
+and "Mona Liza"). **Syria: 23 of 23 re-read.** The
+English course now stands at **231 lessons across
+44 units**.
+
 ---
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named
