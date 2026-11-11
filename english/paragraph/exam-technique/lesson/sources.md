@@ -1,6 +1,6 @@
 # Sources — Exam technique
 
-countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq
+countries: Rwanda, Vietnam, Greece, Mongolia, Pakistan, Sierra Leone, Sudan, Venezuela, Iraq, Cambodia
 
 Every part traces to its book and page.
 
@@ -31,8 +31,8 @@ Every part traces to its book and page.
 | The exam paper's own instructions and the subjective marking scheme printed in the book — 80 marks: Q2 10, Q3 10, Q4 14, Q5 stanza 6, Q6 essay 15, Q7 idioms 10, Q8 translation 15 (the scheme the old filing's flat "no marking scheme" note missed; what the book lacks is a scheme for the model paper's answers) | Pakistan, *English 12*, printed pp.156–157 |
 | A model paper, objective and subjective, printed in full | Pakistan, *English 12*, printed pp.158–161 |
 
-**Acceptance count: taught in 9 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan,
-Sierra Leone, Sudan, Venezuela, Iraq).** Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Rwanda, Vietnam, Greece, Mongolia, Pakistan,
+Sierra Leone, Sudan, Venezuela, Iraq, Cambodia).** Cambodia joins with its Grade 9 "Preparing for an exam" study-behaviour unit (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'At the airport' whole-system revision lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). A narrow base, stated plainly: only two books in the whole read set teach examination technique itself. Rwanda devotes a full P.6 unit to it — the instruction verbs named, contents and index taught, composition structure, and pupils set to compose a paper. Vietnam's Grade 12 book appends a two-page strategy table sorted by question type and badges its exercises back to it. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 4 challenge words (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English X* prints sample rubrics at its back, and *English 12* prints the exam paper's instructions and subjective marking scheme (printed pp.156–157) and a full model paper (printed pp.158–161). Both are filed in english/books/pakistan.md and were re-read in the 2026-11-08 re-verification sweep.
 
@@ -105,3 +105,19 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | Challenge words — badge, form, score, correct, wrong, picture dictionary, bucket, borrow | Iraq — *English for Iraq*, Grade 4 Student's Book, Unit 7, printed p.90 |
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+Carried exactly as the sweep flags it (flag 2): the filing's "no examination preparation anywhere in the set" holds only for the 14 counted books. The Grade 12 baccalaureate exam-prep book held in the same folder IS examination preparation; it sits outside the counted set and is stocked nowhere in the course.
+
+**Book 8:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Preparing for an exam: study behaviour for a school test — the unit teaches how to prepare; it holds no mock or past paper | Cambodia, *ENGLISH Grade 9* (student's book), printed p.98 |
+
+Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.

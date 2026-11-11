@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 18 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen).** Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 19 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia).** Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -295,3 +295,17 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 | Lesson part | Where it comes from |
 |---|---|
 | The question “What's his name?” printed, with “His name is Bill / Her name is Anne” (sweep flag 2: this file's earlier “never printed” note was wrong and is corrected in place) | Yemen — *English Course for Yemen*, Pupil's Book 1 (Grade 7), printed p.12 |
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+**Book 2:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking a third person's name inside introducing yourself and others — "What is your name? My name is…" with the naming of others (the sweep names this question for this lesson, as a sub-point inside the Grade 4 introduction unit whose main stock sits in hello-and-your-name) | Cambodia, *English Grade 4* (student's book), printed p.6 |
+
+Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.

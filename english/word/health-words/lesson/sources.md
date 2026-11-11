@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia
 
 Every part traces to its book and page.
 
@@ -150,7 +150,7 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 25 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 26 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia).** Cambodia joins with its Grade 9 healthy-lifestyle and village-health-volunteer units and its guide-held Grade 11 healthy-living unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -461,3 +461,21 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+**Book 40:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 41:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held anywhere — the guide reproduces the student's pages in its spreads, so everything cited from it is guide-held only. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep from the guide's facsimiles of the student's pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy lifestyle | Cambodia, *ENGLISH Grade 9* (student's book), printed p.56 |
+| Village health volunteer | Cambodia, *ENGLISH Grade 9* (student's book), printed p.62 |
+| Healthy living (GUIDE-HELD — cited from the Grade 11 Teacher's Guide Book's facsimiles; the Grade 11 student's book is not held) | Cambodia, *ENGLISH Grade 11* (teacher's guide book), printed p.151 |
+
+Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.

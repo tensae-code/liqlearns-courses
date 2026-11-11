@@ -444,3 +444,17 @@ The rows above hold two kinds of stock, stated plainly: dictionary-skills teachi
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+**Book 56:** *English Grade 4* (student's book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), 8th printing 2020, ISBN 978-9924-9423-0-6. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The book's own end-of-book glossary (Appendix IV) — stocked as a vocabulary inventory only, on the same terms as Yemen's workbook word lists and Armenia's word lists in this file: a book's own glossary is not dictionary-skills teaching, so Cambodia is not added to this lesson's countries line or acceptance count (the sweep's flag on this point is carried in english/CURRICULUM.md) | Cambodia, *English Grade 4* (student's book), Appendix IV, printed p.133 |
+
+Cambodia is NOT counted in this lesson on this stocking: the countries line and the acceptance count above are unchanged.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia
 
 Every part traces to its book and page.
 
@@ -68,7 +68,7 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 8 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia).** Cambodia joins with the Grade 5 magic-'e' sets for the sounds 'a', 'i' and 'o' (stocked 2026-11-11 by the re-verification sweep merge). India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -117,3 +117,19 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+**Book 11:** *English Grade 5* (student's book) — Cambodia, MoEYS, 6th printing 2020, ISBN 978-9924-9423-2-0. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Magic 'e' sound 'a' — the silent-e spelling pattern | Cambodia, *English Grade 5* (student's book), printed p.96 |
+| Magic 'e' sound 'i' | Cambodia, *English Grade 5* (student's book), printed p.100 |
+| Magic 'e' sound 'o' | Cambodia, *English Grade 5* (student's book), printed p.104 |
+
+Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.

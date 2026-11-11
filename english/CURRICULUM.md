@@ -1642,3 +1642,65 @@ text and South Africa does not join the
 complete-text countries. **South Africa: 24 of 24
 read.** The English course now stands at **256
 lessons across 44 units**.
+
+**Cambodia merged 2026-11-11 (re-verification
+sweep):** all 14 held books — 8 Student's Books
+(Grades 4–10 and 12) and 6 Teacher's Guide Books
+(Grades 7–12); the MoEYS primary series (Grades
+4–6) and the KIZUNA series (Grades 7–12) — were
+re-read in the sweep: **175 fresh items. 138 were
+already in the course; 37 were missing and are
+now stocked** — 39 provenance rows in all,
+because the Grade 7 book's grouped remainder line
+is stocked in both of its named lessons
+(transport and past-actions) and one named
+sub-point (the "What's his/her name?" question
+inside the Grade 4 introduction unit) is stocked
+in whats-his-and-her-name. Cambodia is newly
+counted in 15 lessons. The sweep's one "NEW
+LESSON NEEDED" — there is / there are (Grade 4,
+printed p.58) — was NOT built: the lesson of that
+name was built by the Bolivia sweep merge, so
+Cambodia's point is stocked there instead. The
+Grade 4 glossary (Appendix IV, printed p.133) is
+stocked in using-the-dictionary as a vocabulary
+inventory only, on the Yemen/Armenia precedent —
+a book's own glossary is not dictionary-skills
+teaching, so Cambodia is not counted in that
+lesson. Flags: (1) the closed-52 inventory's "8
+student + 6 teacher" count is right but hides
+that Grade 11 is guide-only — no Grade 11
+student's book exists in any record; the course's
+sources already word every Grade 11 citation
+guide-held, and this merge's Grade 11 rows do the
+same (filing-side wording, reported, not
+edited). (2) The filing's "no examination
+preparation anywhere in the set" holds only for
+the 14 counted books: the held-but-out-of-set
+Grade 12 baccalaureate exam-prep book IS
+examination preparation; it is stocked nowhere,
+and the Grade 9 "Preparing for an exam" unit
+stocked in exam-technique teaches study behaviour
+for a school test — no mock or past paper. (3)
+The second held-but-out-of-set volume, called a
+"combined G10–G12 volume" in the record, is on
+cover/title check a Khmer upper-secondary
+curriculum document, not an English textbook; its
+exclusion from the count is right, its
+description is not (record-side, reported). (4)
+The Grade 9 Teacher's Guide's printed contents
+lists another book's unit titles against its own
+page numbers, and the Grade 9 student's Unit 19
+runs the wrong footer, "What's the time?", over
+the wedding unit — citations in this merge use
+the student's own titles, and the error is noted
+in congratulating-and-wishing. Method, as the
+sweep declares it: the books were read from their
+full text layers through contents and syllabus
+tables with body spot-checks; in the four largest
+secondary books the units beyond the individually
+itemised ones ride as one grouped line per book,
+so those books' counts understate. **Cambodia:
+14 of 14 read.** No new lesson was built; the
+English course total is unchanged at **256
+lessons across 44 units**.

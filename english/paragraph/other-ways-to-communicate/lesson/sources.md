@@ -1,6 +1,6 @@
 # Sources — Other ways to communicate
 
-countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa
+countries: Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia
 
 Every part traces to its book and page.
 
@@ -37,7 +37,7 @@ cited once.
 | Personal-space manners (hold the door, watch your volume, don't cut in line) | Mongolia, English XI, Unit 8, printed pp.127–128 |
 | Customs to respect when travelling (the sacred cow, shoes in mosques, pointing) | Mongolia, English XII, Unit 5, printed p.91 |
 
-**Acceptance count: taught in 12 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa).** Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Afghanistan, Ecuador, India, Mexico, Mongolia, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Cambodia).** Cambodia joins with its Grade 9 Pchum Ben festival unit and its guide-held Grade 11 customs unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with signs and messages, messages through history, TV listings, English as a world language, getting the message across and calligraphy (stocked 2026-11-11 by the re-verification sweep merge). India teaches sign language in a full Class 3 spread and asks Braille by name in Class 4 — the only filing source for Braille in the read set, stated plainly. Ecuador devotes a whole Superior worksheet to nonverbal communication, its all-signals rule, and gesture grids across cultures. Afghanistan's Grade 9 sign-language conversation lesson rides in for its subject; its grammar is stocked elsewhere. Mexico's Grade 7 book teaches the body-language gesture set, and talks about language itself — language against language systems, and the other languages of the class and community (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 language-learning vocabulary and Grade 11 TV, film and newspaper words (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -167,3 +167,20 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Cambodia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English books from their full text layers — contents and syllabus tables (which state each unit's function, form and vocabulary) with body spot-checks: 8 Student's Books (Grades 4–10 and 12) and 6 Teacher's Guide Books (Grades 7–12); 175 teaching items placed, 138 already in the course, 37 missing, 4 claims flagged. The primary books are the MoEYS series (Grades 4–6, 2020 printings); the secondary books are the Nippon Foundation / Education Support Center "KIZUNA" series (Grades 7–12; Grades 10–12 in cooperation with ACE). The Teacher's Guides for Grades 7–10 and 12 are teacher evidence for their paired student's books and add no learner items; the Grade 11 student's book is not held anywhere, so Grade 11 content is cited from the Grade 11 Teacher's Guide Book's facsimiles of the student's pages and is guide-held only. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md). Lesser depth, as the sweep declares it: in the four largest secondary student's books (Grades 7, 8, 10, 12), units beyond the individually itemised ones are carried as one grouped placements line per book, so those books' counts understate; the Grade 9 student's text layer drops the letter "f" in one font, and its f-words were settled from the paired guide's facsimiles.
+
+**Book 8:** *ENGLISH Grade 9* (student's book) — Cambodia, MoEYS with The Nippon Foundation / Education Support Center "KIZUNA", first printing 2016, no ISBN printed. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+**Book 9:** *ENGLISH Grade 11* (teacher's guide book) — Cambodia, MoEYS / KIZUNA in cooperation with ACE, no ISBN printed; the Grade 11 student's book is NOT held anywhere — the guide reproduces the student's pages in its spreads, so everything cited from it is guide-held only. Filed in english/books/cambodia.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep from the guide's facsimiles of the student's pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pchum Ben: the Cambodian festival of the dead — festival words | Cambodia, *ENGLISH Grade 9* (student's book), printed p.140 |
+| Customs: Cambodian customs (GUIDE-HELD — cited from the Grade 11 Teacher's Guide Book's facsimiles; the Grade 11 student's book is not held) | Cambodia, *ENGLISH Grade 11* (teacher's guide book), printed p.25 |
+
+Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
