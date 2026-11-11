@@ -1,6 +1,6 @@
 # Sources — Making offers
 
-countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan
+countries: Cambodia, Malaysia, Mongolia, Nepal, Syria, China, Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -67,8 +67,8 @@ covers the 6th Year book only).
 | The table-manners exchange — "Help yourself"; "I can use chopsticks" (checked in the food lesson's text too: absent there, stocked here as the sweep's diff routes it) | China — English (PEP) Grade 4 Volume 1, Unit 5, printed p.51 |
 | Offering help and things, accepting and declining offers (can I help you, would you like…, shall I…, let me…, could I give you a hand) | Mauritania, Study English, Grade 8, printed pp.9–11 |
 
-**Acceptance count: taught in 15 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
-Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan).** Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
+**Acceptance count: taught in 16 countries (Cambodia, Malaysia, Mongolia, Nepal, Syria, China,
+Mauritania, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Laos, Kazakhstan, Libya).** Libya joins with offers and requests at table (Grade 2) and polite offers — Shall I…? Would you like me to…? (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with offers with countable and uncountable nouns, “What would you like?”, offers of help and recommendations across its Grades 7, 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Syria opens the lesson
 with the explorer offer in its older York Press Grade 5
 course; Mongolia teaches the table offer in Grade 6 and
 names shall offers in Grade 7; Cambodia gives offers two
@@ -229,3 +229,18 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 2 Pupil's Book (Primary 2) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Offers and requests at table: “Do you want a/an/some …? Yes, please. / No, thank you. Here you are.”; “I want a/an …”; “I'm (not) hungry / thirsty” | Libya, Grade 2 Pupil's Book, Unit 3, printed p.29 |
+| Polite offers: Shall I…? Would you like me to…?, accepting and refusing (the suggestions half of this functional-box point is stocked in making-suggestions) | Libya, Grade 11-1 (Literary) Course Book, Units 1–8 functional boxes |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

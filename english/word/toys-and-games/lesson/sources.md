@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan
+countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 | Presents/toys word set with the indefinite article — a ball, a CD, a doll, a teddy, a car, a radio | North Macedonia — EXTRA and Friends 2, Pupil's Book, Grade 2, Module 1, Lesson 3, printed p.6 |
 
-**Acceptance count: taught in 7 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan).** North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+**Acceptance count: taught in 8 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan, Libya).** Libya joins with the Grade 1 toy words — balloon, skates, bear, kite, doll, car, bike (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -76,3 +76,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Toy words, inside and outside sets — action figure, building set, dinosaur, puzzle; ball, bike, kite, scooter, slide, swing | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 1, printed p.8 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 1 Pupil's Book (Primary 1) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Toy words — balloon, skates, bear, kite, doll, car, bike (with the y and x lessons). The sweep's placements left this point's home unsettled (sports / the-town, no toys lesson then existing); it is stocked here, in the course's toys lesson, which was built after the sweep | Libya, Grade 1 Pupil's Book, Unit 7, printed pp.78–79 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

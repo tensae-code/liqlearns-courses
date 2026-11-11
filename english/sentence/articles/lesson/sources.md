@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya
 Every part traces to its book and page.
 
 **Book 1:** Year 1 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -105,7 +105,7 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 23 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+**Acceptance count: taught in 24 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan, Libya).** Libya joins with a/an with singular food nouns (Grade 2) and the articles system — a/an, the and zero article (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -372,3 +372,18 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Articles — the advanced treatment (Unit 8) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 8, printed pp.32–33 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 2 Pupil's Book (Primary 2) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *21st Century English for Libya*, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a/an with singular food nouns: “It's a lemon. It's an orange.” | Libya, Grade 2 Pupil's Book, Unit 3, printed p.29 |
+| Articles as a system: a/an for first mention, the for known/unique things and with rivers/seas/mountain groups/deserts, zero article with most countries/cities/lakes | Libya, Grade 10 Course Book, Unit 3, printed p.34 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

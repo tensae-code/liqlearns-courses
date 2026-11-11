@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 5 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan).**
+**Acceptance count: taught in 6 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan, Libya).** Libya joins with must/mustn't for school rules (Grade 5), the advice and obligation modals compared (Grade 10) and prohibition/advice modals compared (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the obligation modals compared as a family in two places — the Grade 11 student book's SHOULD/MUST unit and the compendium's starred Year 5 comparison — while the course taught them only scattered inside other lessons. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the comparison itself. The compendium's comparison is carried in its own wording, including its statement that have to is “not a modal verb”, so the claim is checkable against the cited page. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -104,3 +104,21 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Modal and related verbs (Unit 5 treatment) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 5, printed pp.50–51 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 5 Pupil's Book (Primary 5) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *21st Century English for Libya*, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| must / mustn't for challenge and school rules | Libya, Grade 5 Pupil's Book, Unit 7, printed p.110 |
+| Advice and obligation modals compared — should / must / ought to / could | Libya, Grade 10 Course Book, Unit 6, printed p.67 |
+| Prohibition and advice modals compared — can/can't, must/mustn't, should/shouldn't | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed pp.102–103 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

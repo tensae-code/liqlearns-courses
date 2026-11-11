@@ -23,3 +23,7 @@ Every part traces to its book and page.
 Libya is cited under its standing banner: the libya.md read is agent-assisted and the 10-citation spot-check is still owed; every Libya line above is worded within that state.
 
 **Acceptance count: taught in 3 countries (Libya, China, Greece).** Greece joins with the Grade 7 Beginners 'In the year 2525!' predictions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+
+## Libya — verification note added 2026-11-11 (re-verification sweep merge)
+
+The Libya rows in this file were cited under the standing banner that the libya.md read is agent-assisted and a 10-citation spot-check is still owed. The 2026-11-08 re-verification sweep independently re-read all 38 Libya books from the book files, and this file's Libya rows are among those it spot-checked against the books: they agree (sweep flag 5). The sweep's findings are recorded where they belong: the filing itself carries word-for-word textbook passages throughout (flag 1 — its scrub is the user's call; the 2026-11-11 Libya merge stocked from the sweep's own-words placements only), and three other lessons carried Libya secondary books labelled one grade low (flag 2 — fixed in the-present-perfect, the-present-perfect-continuous and the-passive).

@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya
 Every part traces to its book and page.
 
 **Book 1:** English Primary 3, Term 2 — Egypt, Ministry
@@ -135,7 +135,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 24 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan).** Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 25 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia, Laos, Kazakhstan, Libya).** Libya joins with the Grade 1 classroom action words and instructions (open, draw, close; stand up, sit down, hands up/down, turn around) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -462,3 +462,16 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 1 Pupil's Book (Primary 1) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom action words — open, draw, close (with z, zebra, zero) | Libya, Grade 1 Pupil's Book, Unit 6, printed p.66 |
+| Classroom instructions — stand up, sit down, hands up/down, turn around (with w) | Libya, Grade 1 Pupil's Book, Unit 6, printed p.67 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

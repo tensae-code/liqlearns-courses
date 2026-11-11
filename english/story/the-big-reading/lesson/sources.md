@@ -1003,3 +1003,37 @@ Book error carried from the sweep: the Grade 3 Pupil's Book Semester 1 festival 
 | Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.64–68 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya was already counted in this lesson; the rows below complete its stock from the parts of the set the earlier stocking never reached.
+
+**Book:** *English for Libya*, Grade 1 Pupil's Book (Primary 1) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 3 Pupil's Book (Primary 3) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 5 Pupil's Book (Primary 5) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 8 (Preparatory 2) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *21st Century English for Libya*, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Scientific Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Short story: “Sarah's Little Fish” — a girl and her small pet fish (reading for enjoyment/gist). A short story, not a complete book-length text | Libya, Grade 1 Pupil's Book, Unit 9, printed p.105 |
+| Story lesson: a magic picture on a classroom shelf (short narrative reading) | Libya, Grade 3 Pupil's Book, Unit 1, printed p.22 |
+| Story: The Greedy King (moral tale) | Libya, Grade 3 Pupil's Book, Unit 8, printed p.125 |
+| Fable: The Lion and the Mouse (filed as a plot summary only) | Libya, Grade 5 Pupil's Book, Unit 1, printed p.22 |
+| Fable: City Mouse and Village Mouse (filed as a plot summary only) | Libya, Grade 5 Pupil's Book, Unit 2, printed p.40 |
+| Story: The Magic Bird (filed as a plot summary only) | Libya, Grade 5 Pupil's Book, Unit 4, printed p.64 |
+| Story: The Little Brown Bird (filed as a plot summary only) | Libya, Grade 5 Pupil's Book, Unit 6, printed p.100 |
+| Story reading: The Birdwatcher (short narrative) | Libya, Grade 8 Course Book, Unit 1, printed p.16 |
+| The Unit 3 story set — Good Gwen and Lazy Ben; Mad Mack; The Hungry Fox; Once Upon a Time; Khalid and the Key (counted once as the unit's story set) | Libya, Grade 8 Course Book, Unit 3, printed pp.33–40 |
+| The Grade 10 extended-reading set — a gap-year magazine article, a GPS rescue newspaper story, a wedding-customs article, a science report and a weather forecast (counted once as the book's extended-reading set; points of the set are also stocked in news-writing and report-writing) | Libya, Grade 10 Course Book, Unit 4, printed p.44; Unit 8, printed p.90; Unit 5, printed p.56; Unit 7, printed pp.80–86 |
+| The Scientific section's distinct reading set — science-flavoured lesson texts across the units (water facts and water use; science-based environment, food, media and leisure texts), counted once as a distinct reading set. This book has no Readers section — a real difference from the Literary book | Libya, Grade 11-2 (Scientific) Course Book, throughout |
+
+**Completeness note:** none of the readings stocked above is a complete book-length text. Libya's complete-text standing in this lesson rests on the two Grade 11-1 bound-in graded readers already stocked in this file (*Robinson Crusoe*, printed pp.150–177, and *Treasure Island*, printed pp.178–216).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

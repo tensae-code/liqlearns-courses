@@ -1,6 +1,6 @@
 # Sources — Telling the time
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya
 
 Every part traces to its book and page.
 
@@ -217,8 +217,8 @@ covers the 6th Year book only).
 | Time recapped in the Chapter 0 opening block, with the days and months | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | Telling the time: o'clock, half past, a quarter to, minutes past/to, a.m./p.m., midday/midnight, from…to (the book prints "12:00 P." for p.m.; taught corrected) | Mauritania, Study English, Grade 7, printed pp.51–53 |
-**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone).** Bangladesh carries
+**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, Sierra Leone, Libya).** Libya joins with telling the time inside daily routines — “What time do you start school?” (Grade 6) (stocked 2026-11-11 by the re-verification sweep merge). Bangladesh carries
 the clock's hands, the
 o'clock shape, and the a.m./p.m. rule; Egypt carries times
 inside the day's routines with the book's own question;
@@ -409,3 +409,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 6 Pupil's Book (Primary 6) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telling the time and daily-life times: “What time do you start school?” — clock times inside daily routines | Libya, Grade 6 Pupil's Book, Unit 6, printed pp.37–42 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

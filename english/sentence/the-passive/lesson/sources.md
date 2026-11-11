@@ -9,11 +9,14 @@ Mongolia, Ministry of Education, Culture, Science and
 Sports. Filed in english/books/mongolia.md (FULLY READ +
 CITATION CHECK PASSED 2026-10-26).
 
-**Book 2:** English for Libya, Grade 9 (Preparatory 3)
+**Book 2:** English for Libya, Grade 10 (Secondary 1)
 Course Book — Libya, Garnet Education. Filed in
 english/books/libya.md (read 2026-10-25; the file's head
 banner stands — agent-assisted read, the 10-citation
-spot-check still owed).
+spot-check still owed). Corrected 2026-11-11
+(re-verification sweep merge, sweep flag 2): this entry
+was labelled Grade 9; the row it serves is the Grade 10
+book's.
 
 **Book 3:** English, Preparatory 9 Term 1 (Student's
 Book) and Preparatory 8 Term 1 — Egypt, Ministry of
@@ -195,7 +198,7 @@ verification sweep.
 | The PASSIVE discovery with the three simple coats together — present is/are + participle, past was/were, future will be — + passive completions about deels | Mongolia, English X, Unit 5 "Clothing Now and Then," discovery 9, p.76 |
 | The CAN PASSIVE discovery — "Plastic bottles can be turned into a recycling bin" + active/passive can completions | Mongolia, English X, Unit 8, discovery 21a, p.131 |
 | The Grammar Reference statement — the passive (to be + past participle) with present/past/future active–passive tables | Mongolia, English X, Grammar Reference, Unit 5 entry (pp.168–177) |
-| The passive's full five-tense table — present simple, present continuous, past simple, present perfect simple, future simple — and *by* to name the doer | Libya, Grade 9 Course Book, Unit 7 grammar (the passive, p.82, as filed in libya.md) |
+| The passive's full five-tense table — present simple, present continuous, past simple, present perfect simple, future simple — and *by* to name the doer | Libya, Grade 10 (Secondary 1) Course Book, Unit 7 grammar (the passive, p.82; grade corrected 2026-11-11, sweep flag 2 — earlier labelled Grade 9) |
 | The passive stated in the reference set (Unit 7) | Libya, Grammar and Functions Reference (the Grade 10–11 set), pp.105–106 (as filed) |
 | The PRESENT PERFECT PASSIVE (new in Egypt's run): have / has + been + the past participle — "The homework has been done"; "The Pyramids have been visited" — taught beside its active twin | Egypt, Preparatory 9 Term 1, Unit 1, Tips p.17 |
 | The FUTURE SIMPLE PASSIVE: will be + past participle, "used to describe actions that will be done in the future," shown against its active pair ("We will finish this project next Friday" → "This project will be finished next Friday") | Egypt, Preparatory 9 Term 1, Unit 3, Tip p.45 |
@@ -565,3 +568,7 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | The “made of” passive form — “What is it made of? It's made of plastic / They're made of gold” | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 8, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya — grade-label correction 2026-11-11 (re-verification sweep merge)
+
+Sweep flag 2, fixed in this file: the five-tense passive table row above cited the Grade 9 (Preparatory 3) Course Book; the table is the Grade 10 (Secondary 1) Course Book's, Unit 7, p.82 — the row and the Book 2 entry now say Grade 10. The point itself is genuinely in the Grade 10 book — only the grade label was wrong. The neighbouring row citing the Grammar and Functions Reference at pp.105–106 was left as filed: it is vague about which book of the Grade 10–11 set it means, but it is not the proven error, and that reference's passive entry is genuine. No new Libya rows were stocked into this lesson: the sweep counted the Grade 10 passive point as already in course once labelled correctly, and the Grade 11-1 passive extension is stocked in the-passive-in-every-tense. The sweep (2026-11-08) re-read all 38 Libya books from the book files; its placements are liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

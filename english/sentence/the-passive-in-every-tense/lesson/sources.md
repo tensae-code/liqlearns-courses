@@ -1,6 +1,6 @@
 # Sources — The passive in every tense
 
-countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq
+countries: Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya
 
 Every part traces to its book and page.
 
@@ -47,7 +47,7 @@ Every part traces to its book and page.
 | Present and past perfect passive, reviewed in museum contexts | Mongolia, English XI, Unit 10, printed pp.156–157 |
 | The passive voice taught systematically for the present tenses — indefinite, continuous and perfect, each in its own section (the same book carries the passive through the past and future tenses too; those coats are stocked at the past perfect and future perfect lessons) | Pakistan, *English Grammar & Composition 9–10*, printed pp.88–95 (sections at printed pp.88, 91, 93) |
 
-**Acceptance count: taught in 10 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq).** Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 11 countries (Bolivia, Egypt, Greece, Kuwait, Malaysia, Nepal, Yemen, Mongolia, Pakistan, Iraq, Libya).** Libya joins with the passive extended — continuous and perfect forms (Grade 11-1) and the passive in continuous tenses with the causative perfect form (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 8 present and past continuous passive, from the Student's Book's own book map (stocked 2026-11-11 by the re-verification sweep merge).
 
 The basic present/past passive itself is stocked by the earlier lesson, The passive, and is not re-counted here; this lesson's count covers only the countries whose books carry the deeper coats named above. Nepal's entry is teacher's-guide evidence and is worded as such everywhere it is used.
 
@@ -78,3 +78,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 12 (Secondary 3, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The passive extended — present/past/future, with continuous and perfect examples | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed pp.105–106 |
+| The passive in continuous tenses, + have + object + past participle (the causative perfect form) | Libya, Grade 12-1 (Literary) Course Book, Grammar 2 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

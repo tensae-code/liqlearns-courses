@@ -1,6 +1,6 @@
 # Sources — Making suggestions
 
-countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan
+countries: Albania, Cambodia, Mongolia, Syria, Iran, Mauritania, Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya
 Every part traces to its book and page.
 
 **Book 1:** English for Starters 5, Pupil's Book — Syria,
@@ -72,8 +72,8 @@ covers the 6th Year book only).
 | Workbook “Amusement Park” — practice of suggestion forms with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 3, Lesson 3, WB printed pp.34–41 |
 | “Food and Entertainment” — making suggestions; adjectives and adverbs; comparisons; word building: adjectives in -ous; verb + preposition combinations; menu writing; a film review (reading) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF pp.8–9 |
 
-**Acceptance count: taught in 16 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
-Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan).** Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 17 countries (Albania, Cambodia, Mongolia, Syria, Iran, Mauritania,
+Greece, Rwanda, South Sudan, Sudan, Venezuela, Yemen, Iraq, Vietnam, Laos, Kazakhstan, Libya).** Libya joins with polite suggestions — Shall we…? — with accepting and refusing (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with suggestions with “Let's…”, “How about…?” and recommendations across its Grades 7, 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's let's suggestions and Primary 6's Shall we…? grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Customs around the world' opinions-and-suggestions lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with suggestion formulae in its Grade 7 food lesson (stocked 2026-11-09 by the re-verification sweep merge). Albania — teacher-guide evidence —
 stocks the desire and preference forms, want and would
 like, that a suggestion answers to. Syria teaches the three shapes first in
 its York Press Grade 5 course, inside a walk planned from a
@@ -257,3 +257,15 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Polite suggestions: Shall we…? (the Shall I…? / Would you like me to…? offers of the same functional boxes are stocked in making-offers), accepting and refusing | Libya, Grade 11-1 (Literary) Course Book, Units 1–8 functional boxes |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

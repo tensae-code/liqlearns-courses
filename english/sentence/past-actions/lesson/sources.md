@@ -1,6 +1,6 @@
 # Sources — Past actions
 
-countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt
+countries: Bolivia, Ghana, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya
 
 Every part traces to its book and page.
 
@@ -413,9 +413,9 @@ verification sweep.
 | “Holiday Memories – Summer Snapshots” — present simple vs past simple; giving advice; agreeing; holiday, place, health and transport words; informal letter layout; writing summaries | Greece, Γενικά Αγγλικά Α΄ ΕΠΑΛ (General English 1), Unit 2, printed p.18 |
 | “Getting Away” — past simple, past continuous, present perfect; second conditional; postcard writing (facts, impressions, plans) | Greece, Γενικά Αγγλικά Β΄ & Γ΄ ΕΠΑΛ (General English 2), contents PDF p.8 |
 | Past tenses for storytelling (past simple, past continuous, past perfect) | Mongolia, English XII, Unit 6, printed pp.107–108 |
-**Acceptance count: taught in 36 countries (Bolivia, Ghana,
+**Acceptance count: taught in 37 countries (Bolivia, Ghana,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Mexico, India, Nicaragua, Palestine, Egypt, Libya).** Libya joins with the first past simple in a ball-game story (Grade 3) and the past simple narrative system — was/were, went, did (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with the look/looked pattern and past forms filled in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia boxes the -ed frame and drills the
 movers by name; Bolivia states the whole paradigm including
 the Did/didn't law; Ghana seats the simple past where
 stories live; China adds the past staged regular first,
@@ -846,3 +846,18 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Narrative tenses — the past-tense survey of Unit 4 (past perfect simple and continuous are stocked in their own lessons) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 4, printed pp.42–43 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 3 Pupil's Book (Primary 3) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 5 Pupil's Book (Primary 5) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| First past simple, in a ball-game story: kicked, spun, headed, bounced | Libya, Grade 3 Pupil's Book, Unit 4, printed p.65 |
+| The past simple narrative system — was/were, went, did; “When I was 9, I always did my homework.”; yesterday/today/tomorrow | Libya, Grade 5 Pupil's Book, Unit 6, printed pp.88–96 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

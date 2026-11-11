@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya
 
 Every part traces to its book and page.
 
@@ -246,8 +246,8 @@ covers the 6th Year book only).
 | The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
 | The seven days of the week — Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — presented as a "Look and say" set | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 8, pupil printed p.66 |
 | The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
-**Acceptance count: taught in 34 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia).** North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
+**Acceptance count: taught in 35 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia, Libya).** Libya joins with the days of the week (Grade 2) and dates as a system — saying and writing dates, birthdays (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -481,3 +481,18 @@ The 2026-11-08 re-verification sweep re-read Kazakhstan's 32 distinct held Engli
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 2 Pupil's Book (Primary 2) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 7 (Preparatory 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Days of the week | Libya, Grade 2 Pupil's Book, Unit 6, printed p.65 |
+| Dates as a system — saying and writing dates, birthdays | Libya, Grade 7 Course Book, Unit 9 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

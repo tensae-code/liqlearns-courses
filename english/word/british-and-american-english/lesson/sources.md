@@ -1,6 +1,6 @@
 # Sources — British and American English
 
-countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia
+countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya
 
 Every part traces to its book and page.
 
@@ -34,7 +34,7 @@ differ only in cover wording and colophon; cited once.
 | A listening on where English comes from: English as a product of multiple influences from other languages | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 136 |
 | The Advanced teacher's guide for Unit 1 “Unity in Diversity” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), contents, printed p.1 (unit start) |
 
-**Acceptance count: taught in 7 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia).** Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia, Libya).** Libya joins with English in the world — varieties and uses of English worldwide (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -63,3 +63,15 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Culture Pages: “Which English do you speak?” among them | Malaysia, Form 4 *Full Blast Plus 4*, Culture Pages, printed pp.128–131 |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 12 (Secondary 3, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| English in the world — varieties and uses of English worldwide | Libya, Grade 12-1 (Literary) Course Book, Unit 8, printed pp.90–101 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

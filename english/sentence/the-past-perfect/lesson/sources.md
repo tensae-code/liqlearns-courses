@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan, Libya
 
 Every part traces to its book and page.
 
@@ -105,7 +105,7 @@ verification sweep.
 | The past perfect and the past perfect continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | The past perfect (with the past perfect continuous) as a named strand of the population unit | Pakistan, *English X*, Unit 11 (contents) |
 
-**Acceptance count: taught in 23 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 24 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan, Libya).** Libya joins with the past perfect simple (Grade 10) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 past perfect simple (stocked 2026-11-11 by the re-verification sweep merge).
@@ -240,3 +240,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Narrative tenses — the past-perfect strand of the Unit 4 survey | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 4, printed pp.42–43 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *21st Century English for Libya*, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past perfect simple | Libya, Grade 10 Course Book, Unit 2, printed p.28 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

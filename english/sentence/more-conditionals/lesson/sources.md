@@ -1,6 +1,6 @@
 # Sources — More conditionals
 
-countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan
+countries: Armenia, Ethiopia, Kuwait, Malaysia, Nepal, South Africa, Syria, Bolivia, Mauritania, India, Greece, Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya
 Every part traces to its book and page.
 
 **Book 1:** *English 11* — Armenia, COAF. Filed in
@@ -93,9 +93,9 @@ the 2026-11-08 re-verification sweep.
 | The second conditional, in the Great Expectations unit | Pakistan, *English X*, Unit 10 (contents) |
 | The third conditional, in the book's closing grammar stretch, with subordinating conjunctions and the adverb clause | Pakistan, *English X*, closing units (contents) |
 
-**Acceptance count: taught in 16 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
+**Acceptance count: taught in 17 countries (Armenia, Ethiopia, Kuwait, Malaysia, Nepal,
 South Africa, Syria, Bolivia, Mauritania, India, Greece,
-Mongolia, Pakistan, Sudan, Iraq, Kazakhstan).** Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
+Mongolia, Pakistan, Sudan, Iraq, Kazakhstan, Libya).** Libya joins with “how things could have been different” — third-conditional territory (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners second-conditional lesson and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with conditional sentences for unreal and hypothetical conditions, in Class 11's note-work (stocked 2026-11-09 by the India re-verification sweep merge). Armenia teaches mixed conditionals as a named
 grammar with historical counterfactuals; Malaysia
 teaches mixed forms at Form 5 and tables the whole
 family in its reference. Ethiopia is counted with its
@@ -156,3 +156,15 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 12 (Secondary 3, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “How things could have been different” — third-conditional territory | Libya, Grade 12-1 (Literary) Course Book, Grammar 1 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

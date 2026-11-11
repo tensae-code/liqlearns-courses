@@ -1,6 +1,6 @@
 # Sources — Finding the idea of a text
 
-countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua
+countries: Bangladesh, Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya
 
 Every part traces to its book and page.
 
@@ -246,8 +246,8 @@ differ only in cover wording and colophon; cited once.
 | Main idea and topic sentence (Folklore) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2B |
 | Four later units read for their ideas: All is Not Lost; Drug Addiction; Noise in the Environment; Three Days to See | Pakistan, *English IX* (older curriculum), contents pp.4–5 |
 
-**Acceptance count: taught in 30 countries (Bangladesh,
-Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua).** Ghana names the weighing (main idea vs supporting
+**Acceptance count: taught in 31 countries (Bangladesh,
+Ghana, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Mexico, Mongolia, Nicaragua, Libya).** Libya joins with facts and figures — interpreting data, charts and figures in English (Grade 12-1) (stocked 2026-11-11 by the re-verification sweep merge). Ghana names the weighing (main idea vs supporting
 details) and the own-words law; Bangladesh sets the choice
 as a task; China hunts the idea by title-choice and by the
 one question a whole text answers, and names the
@@ -398,3 +398,15 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 
 The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books from the files themselves. The held Grade 6 copy lacks about 20 printed pages, including a contents page, and the held Grade 9 copy is a photographed set with gaps (printed pp.11, 62, 129, 195, 248 were never photographed, and its contents rows for Modules 5–7 are only partly present). The "FULLY READ + CITATION CHECK PASSED" formula in this file's Kazakhstan Full Blast book entries therefore does not hold for these two copies: rows resting on them stand on the copy as held, and any claim about Full Blast Grade 9 Modules 5–7 cannot be confirmed or refuted from the copy in hand — it stands as the filing's claim, not as verified (sweep flags 2–3). A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants. The filing (english/books/kazakhstan.md) is reported, not edited.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 12 (Secondary 3, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Facts and figures — interpreting data, charts and figures in English | Libya, Grade 12-1 (Literary) Course Book, Unit 3, printed pp.30–41 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan
+countries: Bolivia, Kazakhstan, Jordan, Libya
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | WILL — predictions and moment-of-speaking decisions, won't, questions with short answers, future time expressions, and a Pachamama-predictions reading | Bolivia, Texto de Aprendizaje (English), Grade 10 (Secundaria 4) student book, printed pp. 10–12 |
 | WILL in full — the paradigm and future time expressions (the very paradigm the old filing left unread in its garbled extraction; the sweep's fresh visual read confirms it here, student folio 190) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 4, compendium PDF p. 70 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Kazakhstan, Jordan).**
+**Acceptance count: taught in 4 countries (Bolivia, Kazakhstan, Jordan, Libya).** Libya joins with will for spontaneous decisions and offers of help (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found will taught in two full treatments with no lesson of its own in the course. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for it. One filing honesty item is carried exactly: the old filing's read of the compendium was a read of a garbled extraction, with the Year 4 WILL paradigm (§§1.2–1.3) admittedly unread; the sweep read the book visually and confirms the paradigm is present at the page cited. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -52,3 +52,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Uses of will; will vs would (Unit 9) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 9, printed pp.40–41 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 7 (Preparatory 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| will for spontaneous decisions and offers of help | Libya, Grade 7 Course Book, Unit 8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya
 
 Every part traces to its book and page.
 
@@ -57,7 +57,7 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 11 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
+**Acceptance count: taught in 12 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan, Libya).** Libya joins with reporting commands and requests — tell for commands, ask for requests (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -136,3 +136,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Reported commands — the commands half of the Unit 4 reported-speech point | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 4, printed p.42 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reporting commands and requests — tell for commands, ask for requests | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed p.105 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

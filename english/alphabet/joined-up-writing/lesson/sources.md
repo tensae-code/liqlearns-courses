@@ -1,6 +1,6 @@
 # Sources — Joined-up writing
 
-countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq
+countries: Barbados, Kuwait, Bangladesh, Ghana, Nicaragua, Yemen, Iraq, Libya
 
 Every part traces to its book and page.
 
@@ -49,7 +49,7 @@ pinned for them here.
 | Penmanship And Handwriting | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 4 (Writing), standard B5.4.2.1, PDF p.145 (curriculum evidence) |
 | Tracing and writing the greeting words in cursive script — the book's first writing | Nicaragua, Activity Book 1 (Grade 1), Unit 1, printed pp.14–16 |
 
-**Acceptance count: taught in 6 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq).** Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Barbados, Kuwait, Bangladesh, Nicaragua, Yemen, Iraq, Libya).** Libya joins with the Activity Books' handwriting line — guided tracing (Grade 1), tracing into independent writing (Grade 2), and spelling and writing words and short sentences unaided (Grade 3) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 workbook's handwriting formation — tracing digits and matching capital to small letters (stocked 2026-11-11 by the re-verification sweep merge).
 The three countries stock three different parts of the
 one thing, and the lesson keeps them apart: Barbados's
 syllabi name and classify the joins themselves (the only
@@ -91,3 +91,21 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | The year's systematic handwriting teaching — letter formation with dotted models and word tracing (a/ant, b/bag, c/cat, d/dog, e/egg, f/fan …), activity-book-only teaching | Iraq — *English for Iraq*, Grade 3 Activity Book, printed pp.2–5 (Unit 1, Lessons 1–2) and through the book |
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 1 Activity Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 2 Activity Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 3 Activity Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter-formation handwriting: guided tracing of every capital and small letter and of the unit words, progressing to copying | Libya, Grade 1 Activity Book, throughout |
+| Handwriting progression: tracing, then writing small/capital letters and unit words independently | Libya, Grade 2 Activity Book, throughout |
+| Independent short writing: copying gives way to spelling and writing words and short sentences unaided | Libya, Grade 3 Activity Book, throughout |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

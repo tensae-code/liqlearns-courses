@@ -10,9 +10,14 @@ Filed in english/books/libya.md (read 2026-10-25; the
 file's head banner stands — agent-assisted read, the
 10-citation spot-check still owed).
 
-**Book 2:** English for Libya, Grade 9 (Preparatory 3)
+**Book 2:** English for Libya, Grade 10 (Secondary 1)
 Course Book — Libya, Garnet Education. Filed in
 english/books/libya.md (same filing state as Book 1).
+Corrected 2026-11-11 (re-verification sweep merge,
+sweep flag 2): this entry was labelled Grade 9; the
+rows it serves are the Grade 10 book's (the held
+Grade 9 Course Book has no Grammar Reference and
+no such lessons).
 
 **Book 3:** English, Primary 6 Term 2 (Student's Book,
 2025/2026) — Egypt, Ministry of Education. Filed in
@@ -187,8 +192,8 @@ verification sweep.
 | The usage note: the present perfect does not say exactly when things happened; the period is allowed ("I have cooked chicken this week"), an exact time is wrong ("I have cooked chicken on Thursday") | Libya, Grade 8 Teacher's Book, Unit 3 notes (as filed in libya.md) |
 | *just* sits between have/has and the participle; the irregular participle patterns (same form, -en added, vowel change, complete change) and the verb tables (see/saw/seen, give/gave/given, do/did/done, forget/forgot/forgotten, drink/drank/drunk, buy/bought/bought) | Libya, Grade 8 Teacher's Book / Work Book, Unit 3 (as filed in libya.md) |
 | The contrast: "Have you ever been to France? — the question asks about any time in the past [present perfect]. Yes, I went there last year — a definite time in the past [past simple]" | Libya, Grade 8 Work Book, Unit 5, Lesson 3 (as filed in libya.md) |
-| The Functional Grammar box "Sharing experiences: Present perfect with ever, never, yet and already" ("Have you ever been to Greece? I've never visited England. I haven't picked up the brochures yet. Tariq's father has already seen the Pyramids.") | Libya, Grade 9 Course Book, Lesson 2 "Choosing a Holiday," p.33; Grammar Reference pp.99–100 |
-| The Grammar Reference entry: present perfect simple — uses (effect on the present; for/since; recently); exact past time takes the past simple instead; ever/never, yet, already positions | Libya, Grade 9 Course Book, Grammar Reference, Unit 3 (book pp.96–105, as filed in libya.md) |
+| The Functional Grammar box "Sharing experiences: Present perfect with ever, never, yet and already" ("Have you ever been to Greece? I've never visited England. I haven't picked up the brochures yet. Tariq's father has already seen the Pyramids.") | Libya, Grade 10 (Secondary 1) Course Book, Unit 3, Lesson 2 "Choosing a Holiday," p.33; Grammar and Functions Reference pp.99–100 (grade corrected 2026-11-11, sweep flag 2 — earlier labelled Grade 9) |
+| The Grammar Reference entry: present perfect simple — uses (effect on the present; for/since; recently); exact past time takes the past simple instead; ever/never, yet, already positions | Libya, Grade 10 (Secondary 1) Course Book, Grammar and Functions Reference, Unit 3 (book pp.96–105; grade corrected 2026-11-11, sweep flag 2 — earlier labelled Grade 9) |
 | The full Present Perfect section: form has/have + past participle; uses (actions started in the past and continuing now; things happened recently with results we can see today); the structure table (affirmative / negative / question); the Tip (has with he/she/it, have with I/you/we/they); regular participles add -ed, irregulars change form (build→built, go→gone, write→written) | Egypt, Primary 6 Term 2, Unit 3, p.47 |
 | The tense at review level only: China's Grade 9 book teaches no new present-perfect unit — its new perfect teaching is the past perfect — and its Grammar reference (pp.150–155) carries NO present-perfect section (it covers the passive, the past perfect, modal inference, object clauses, relative clauses and word formation); the book's present-perfect presence is review use at Unit 13, printed p.100, and Unit 14, printed p.108. A review witness, not a teaching one. (Row corrected 2026-11-08 by the re-verification sweep, flag 9: an earlier version of this row wrongly placed the present perfect inside the pp.150–155 Grammar reference.) | China — English ("Go for it!") Grade 9, Unit 13, printed p.100; Unit 14, printed p.108 |
 | The full Present Perfect tables (affirmative / negative / interrogative, has/have + past participle, contractions hasn't/haven't), opened by two lead texts built on the tense and closed by a choose-the-form paragraph about a firefighter's 30 years | Iran, Vision 2, Lesson 2, Grammar, pp.64–67 |
@@ -514,3 +519,17 @@ Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
 The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books from the files themselves. The held Grade 6 copy lacks about 20 printed pages, including a contents page, and the held Grade 9 copy is a photographed set with gaps (printed pp.11, 62, 129, 195, 248 were never photographed, and its contents rows for Modules 5–7 are only partly present). The "FULLY READ + CITATION CHECK PASSED" formula in this file's Kazakhstan Full Blast book entries therefore does not hold for these two copies: rows resting on them stand on the copy as held, and any claim about Full Blast Grade 9 Modules 5–7 cannot be confirmed or refuted from the copy in hand — it stands as the filing's claim, not as verified (sweep flags 2–3). A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants. The filing (english/books/kazakhstan.md) is reported, not edited.
 
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya was already counted in this lesson; the rows below complete its stock from the parts of the set the earlier stocking never reached.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present perfect simple vs past simple, contrasted | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed pp.98–99 |
+
+**Grade-label correction (sweep flag 2), fixed in this merge:** two Libya rows above this section cited the Grade 9 Course Book for content that is the Grade 10 (Secondary 1) book's — the “Sharing experiences” box (Unit 3, printed p.33) and the Grammar Reference entry (book pp.96–105); the held Grade 9 (Preparatory 3) Course Book has no Grammar Reference and no such lessons. Both rows and the Book 2 entry above are corrected to Grade 10. The points themselves are genuinely in the Grade 10 book — only the grade labels were wrong (the same shift was corrected for conditionals on 2026-11-04).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

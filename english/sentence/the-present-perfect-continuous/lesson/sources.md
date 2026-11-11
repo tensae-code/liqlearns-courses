@@ -13,6 +13,10 @@ file's head banner stands — agent-assisted read, the
 **Book 2:** English for Libya, Grade 9 (Preparatory 3)
 Course Book — Libya, Garnet Education. Filed in
 english/books/libya.md (same filing state as Book 1).
+Note added 2026-11-11 (re-verification sweep merge,
+sweep flag 2): after the corrections in this file, no
+row below cites this book — the rows earlier labelled
+Grade 9 are the Grade 10 (Secondary 1) book's.
 
 **Book 3:** English for Libya, Grade 10 (Secondary 1)
 Course Book and Work Book — Libya, Garnet Education.
@@ -77,10 +81,10 @@ re-verification sweep.
 | Lesson part | Where it comes from |
 |---|---|
 | The box "Describing action that continues from the past: Present perfect continuous tense — The pilot has been flying for two hours. I have been waiting for the bus since four o'clock." | Libya, Grade 8 Course Book, Unit 3, Lesson 6 "Transport," p.38 |
-| The Functional Grammar box "Talking about recent habits: Present perfect continuous" — "I've been speaking English every day. · Have you been going to the beach?" — inside the Travel Experiences lesson (Mahmoud's email and Sarah's postcard, both written in the tense) | Libya, Grade 9 Course Book, Lesson 8 "Travel Experiences," p.40; box reference Grammar Reference p.101 |
-| The Round up line: "say what you have been doing, present perfect continuous (I have been learning how to ride a quad bike. · Have you been swimming a lot?)" | Libya, Grade 9 Course Book, Round up, p.41 |
-| The Grammar Reference entry for the tense in the Unit 3 set | Libya, Grade 9 Course Book, Grammar Reference (Unit 3 lists "Present perfect continuous (p.40)," book pp.96–105, as filed) |
-| The lesson "What have they been doing?" — Track 10 table (Huda — "She's been taking photos"; Adam, Anne Marie, Rob & Mark, Issa, Nadia) and its Functional Grammar note: present perfect continuous; for (period) vs since (start point) | Libya, Grade 10 Course Book, Lesson 6, p.13; reference p.100 |
+| The Functional Grammar box "Talking about recent habits: Present perfect continuous" — "I've been speaking English every day. · Have you been going to the beach?" — inside the Travel Experiences lesson (Mahmoud's email and Sarah's postcard, both written in the tense) | Libya, Grade 10 (Secondary 1) Course Book, Unit 3, Lesson 8 "Travel Experiences," p.40; box reference Grammar and Functions Reference p.101 (grade corrected 2026-11-11, sweep flag 2) |
+| The Round up line: "say what you have been doing, present perfect continuous (I have been learning how to ride a quad bike. · Have you been swimming a lot?)" | Libya, Grade 10 (Secondary 1) Course Book, Unit 3 Round up, p.41 (grade corrected 2026-11-11, sweep flag 2) |
+| The Grammar Reference entry for the tense in the Unit 3 set | Libya, Grade 10 (Secondary 1) Course Book, Grammar and Functions Reference (Unit 3 lists "Present perfect continuous (p.40)," book pp.96–105; grade corrected 2026-11-11, sweep flag 2) |
+| The lesson "What have they been doing?" — Track 10 table (Huda — "She's been taking photos"; Adam, Anne Marie, Rob & Mark, Issa, Nadia) and its Functional Grammar note: present perfect continuous; for (period) vs since (start point) | Libya, Grade 10 Course Book, Lesson 6, p.13; the for/since reference box is in the Grade 11-1 (Secondary 2, Literary) Course Book's Grammar and Functions Reference, p.100 (attribution corrected 2026-11-11, sweep flag 2) |
 | The Work Book practice: PPC completions (hasn't been sleeping · has been cooking · have been playing · hasn't been working) and the for/since sentences (I've been writing a poem since Tuesday · We've been waiting for a bus since ten o'clock · You've been watching TV for an hour · They've been making Eid cakes for two days · It's been raining for two hours · She's been crying for ten minutes) | Libya, Grade 10 Work Book, Lesson 6, pp.11–12 |
 | The PRESENT PERFECT CONTINUOUS box stated in full: have/has + been + present participle — actions started in the past still continuing, recently finished with a visible present result, duration, temporary habits; "I'm tired because I have been studying all night" | Egypt, Secondary 12 Term 1, Unit 1, Lesson 3 "Tired Hands, Caring Hearts," Language in Context, pp.17–19 |
 | The history note: Egypt's tasks required this tense from Secondary 10 while no Egypt book boxed it; the box arrives at Secondary 12 Term 1, closing the run's standing hole | Egypt, Secondary 10 Term 2 filing and Secondary 12 Term 1 filing, english/EGYPT-BOOK-MAP.md |
@@ -224,3 +228,7 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 
 The 2026-11-08 re-verification sweep re-read Kazakhstan's held Full Blast! books from the files themselves. The held Grade 6 copy lacks about 20 printed pages, including a contents page, and the held Grade 9 copy is a photographed set with gaps (printed pp.11, 62, 129, 195, 248 were never photographed, and its contents rows for Modules 5–7 are only partly present). The "FULLY READ + CITATION CHECK PASSED" formula in this file's Kazakhstan Full Blast book entries therefore does not hold for these two copies: rows resting on them stand on the copy as held, and any claim about Full Blast Grade 9 Modules 5–7 cannot be confirmed or refuted from the copy in hand — it stands as the filing's claim, not as verified (sweep flags 2–3). A complete Full Blast G6 and a proper Full Blast G9 scan remain library wants. The filing (english/books/kazakhstan.md) is reported, not edited.
 
+
+## Libya — grade-label corrections 2026-11-11 (re-verification sweep merge)
+
+Sweep flag 2, fixed in this file: three rows above cited the Grade 9 (Preparatory 3) Course Book for content that is the Grade 10 (Secondary 1) book's — the "Travel Experiences" Functional Grammar box (Unit 3, Lesson 8, p.40), its Round up (p.41) and the Grammar and Functions Reference entry (book pp.96–105); the held Grade 9 Course Book has no Travel Experiences lesson and no Grammar Reference (its back matter is a Checklist, Transcripts and Key Words). A fourth row cited "reference p.100" under the Grade 10 book: that for/since reference box is in the Grade 11-1 (Secondary 2, Literary) Course Book's Grammar and Functions Reference (p.100), and the row now says so. The Grade 8 row above ("Transport", Unit 3, Lesson 6, p.38) is genuinely the Grade 8 book's and stands. The points themselves are genuinely in the books now named — only the grade labels were wrong. No new Libya rows were stocked into this lesson by the merge: the sweep counted this lesson's Libya points as already in course once the labels are corrected. The sweep (2026-11-08) re-read all 38 Libya books from the book files; its placements are liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

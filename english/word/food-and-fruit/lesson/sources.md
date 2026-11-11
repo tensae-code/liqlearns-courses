@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya
 
 Every part traces to its book and page.
 
@@ -356,8 +356,8 @@ cited once.
 | Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
 | Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
 | Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
-**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos).**
+**Acceptance count: taught in 38 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya).** Libya joins with the Grade 2 food and drink set and likes and dislikes at table (stocked 2026-11-11 by the re-verification sweep merge).
 North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
@@ -619,3 +619,16 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Food-describing adjectives and table-manner words (Unit 4 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 4, printed pp.36–45 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 2 Pupil's Book (Primary 2) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food and drink word set — fruit, banana, mango, strawberry, grapes, pear, watermelon, dates; café/menu words sandwich, pizza, burger, juice, water, milkshake, ice-cream, lunchbox; table foods plate, apple, bread, fish, chicken, orange, eggs, cheese, steak, cucumber, carrot, rice, tomato | Libya, Grade 2 Pupil's Book, Unit 3, printed p.29 |
+| Likes and dislikes — “I like … / I don't like …”, “He likes … / She likes …”, “What's your favourite fruit?” | Libya, Grade 2 Pupil's Book, Unit 3, printed p.29 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

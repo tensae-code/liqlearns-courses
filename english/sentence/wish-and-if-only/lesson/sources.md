@@ -1,6 +1,6 @@
 # Sources — Wish and if only
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya
 Every part traces to its book and page.
 
 **Book 1:** Year 6 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -60,7 +60,7 @@ covers the 6th Year book only).
 | Wish + past simple for present wishes | Mongolia, English XI, Unit 2, printed p.34 |
 | Wish / if only + past perfect for regrets about the past | Mongolia, English XI, Unit 3, printed pp.46–47 |
 
-**Acceptance count: taught in 16 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan).** Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
+**Acceptance count: taught in 17 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Mauritania, Greece, Mongolia, Palestine, Rwanda, South Sudan, Venezuela, Yemen, Laos, Kazakhstan, Jordan, Libya).** Libya joins with regrets — I wish / If only + past perfect (Grade 11-1) (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with “wish” + could in its Grade 12 modal review (a sub-point the sweep named inside a stocked item) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with future hopes in would like sentences, from Primaries 4 and 6 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners 'History of fashion' I-wish lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia states the
 whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
@@ -201,3 +201,15 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | wish / if only with past modals, for regrets (Unit 9) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 9, printed p.40 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 11 (Secondary 2, Literary Section) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Regrets: I wish / If only + past perfect | Libya, Grade 11-1 (Literary) Course Book, Grammar and Functions Reference, printed p.104 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

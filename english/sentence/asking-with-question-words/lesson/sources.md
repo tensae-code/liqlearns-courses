@@ -1,6 +1,6 @@
 # Sources — Asking with question words
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Ghana, Nicaragua, Palestine, Libya
 
 Every part traces to its book and page.
 
@@ -346,9 +346,9 @@ verification sweep.
 | Workbook “What an Experience!” — practice of question forms with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 3, Lesson 8, WB printed pp.29–40 |
 | “Save the tribes” — question forms in the present tenses; collocations | Greece, Think Teen! Grade 8 Beginners Student's Book, Unit 1, Lesson 3, printed pp.9–12 |
 | Workbook “Save the tribes” — practice of present-tense question forms with the unit's texts | Greece, Think Teen! Grade 8 Beginners Workbook, Unit 1, Lesson 3, WB printed pp.5–19 |
-**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
+**Acceptance count: taught in 38 countries (Bangladesh, Egypt,
 Mongolia, Laos, China, Indonesia, Iran, Sierra Leone,
-Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine).** India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
+Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, India, Nicaragua, Palestine, Libya).** Libya joins with “What's this? It's a …” and “What can you see?” (Grade 1) and the Wh- question set as an explicit system (Grade 5) (stocked 2026-11-11 by the re-verification sweep merge). India joins with the "Why?" poem in Class 4 and question words as named work in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mongolia tables the family with its answer
 shapes; Bangladesh gives the words their voice; Egypt has
 drilled the questions and whole answers since the youngest
 books; China adds the words worked as whole units — where,
@@ -660,3 +660,19 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | “What's this? It's a …” — identifying classroom things | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 3, printed p.22 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 1 Pupil's Book (Primary 1) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English for Libya*, Grade 5 Pupil's Book (Primary 5) — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “What's this? It's a …” | Libya, Grade 1 Pupil's Book, Unit 6, printed p.72 |
+| “What can you see?” — observation talk | Libya, Grade 1 Pupil's Book, Unit 9, printed p.109 |
+| The Wh- question set as an explicit system — Who? What? When? Where? How? Why? | Libya, Grade 5 Pupil's Book, Unit 6, printed p.86 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.

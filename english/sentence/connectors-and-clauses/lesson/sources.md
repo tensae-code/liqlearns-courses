@@ -535,3 +535,7 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Cause-and-effect phrases (Unit 2) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 2, printed p.18 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya — verification note added 2026-11-11 (re-verification sweep merge)
+
+The Libya rows in this file were cited under the standing banner that the libya.md read is agent-assisted and a 10-citation spot-check is still owed. The 2026-11-08 re-verification sweep independently re-read all 38 Libya books from the book files; the Libya rows it spot-checked (the greetings set, the alphabet, two-letter sounds, the quantifiers shop set, conditionals after its 2026-11-04 correction, plans-in-the-past and the Grade 11 readers) agree with the books (sweep flag 5). This file's own Libya rows were not among the spot-checked set, so its banner stands as written. The sweep's other findings are recorded where they belong: the filing itself carries word-for-word textbook passages throughout (flag 1 — its scrub is the user's call; the 2026-11-11 Libya merge stocked from the sweep's own-words placements only), and three lessons carried Libya secondary books labelled one grade low (flag 2 — fixed in the-present-perfect, the-present-perfect-continuous and the-passive).

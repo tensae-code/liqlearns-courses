@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -39,7 +39,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 13 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 14 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan, Libya).** Libya joins with the future continuous — first presented in Grade 8 and taught in Grade 10 (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -134,3 +134,18 @@ The 2026-11-08 re-verification sweep re-read Jordan's English set from the files
 | Future continuous (Unit 5, taught with the future perfect) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed p.50 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
+
+## Libya added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Libya's English set from the book files: 38 books verified in hand — Primary G1–G5 Pupil's, Activity and Teacher's Books (G6: Pupil's and Activity only), the G7 Course Book and Workbook, G8–G10 Course, Teacher's and Work Books, and G11/G12 in Literary and Scientific terms (5,009 PDF pages in all). The sweep placed 224 teaching items fresh from the books: 54 were already in the course and 170 were missing. The rows below are this lesson's share of the missing, stocked from the sweep's own-words placements (liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md) — never from the old filing (english/books/libya.md), which carries word-for-word textbook passages (sweep flag 1; its scrub is the user's call, and nothing below rests on it). Teacher's Books are teacher evidence only (0 learner items counted from them), and activity/workbook exercises that only mirror the pupil's or course book are not counted. The three files held as "Grade 4" are the Primary 3 course re-badged as Primary 4 — settled by whole-text diff — so they are counted once at Grade 3 and cited nowhere as Grade 4; Libya's real Grade 4 books are still owed. Read depth is the sweep's declared one: scan-only books were read at the lesser depth the placements declare (the G2 Pupil's Book via its Book Map and unit pages; the G8/G9 Course Books via unit dividers and sampled pages; G10–G12 from page-by-page read notes spot-verified against the books' own contents and grammar indexes). Libya is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *English for Libya*, Grade 8 (Preparatory 2) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *21st Century English for Libya*, Grade 10 (Secondary 1) Course Book — Libya, Garnet Education. Re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Future continuous, first presentation (“I will be walking …”, in a seasons/months unit; the system is completed at Grade 10) | Libya, Grade 8 Course Book, Unit 2, printed p.24 |
+| Future continuous | Libya, Grade 10 Course Book, Unit 5, printed p.57 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/libya-placements.md.
