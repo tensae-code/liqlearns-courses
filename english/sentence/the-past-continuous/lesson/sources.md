@@ -1,6 +1,6 @@
 # Sources — The past continuous
 
-countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -110,7 +110,7 @@ re-verification sweep.
 | Simple past and past continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Past indefinite and past continuous as the justice unit's grammar (with précis writing) | Pakistan, *English X*, Unit 1 (contents) |
 
-**Acceptance count: taught in 21 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 22 countries (Bolivia, Cambodia, Mongolia, Kuwait, Vietnam, Sudan, Iran, Indonesia, Mauritania, Mexico, India, Greece, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa).** Yemen joins with the past continuous presented, in a witness account, for a picture scene and as story setting, across its Grades 8, 9 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's past continuous, named and used in animal recounts (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'We survived the tsunami!' lesson on past simple vs past continuous (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past continuous interrupted by the past simple in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran teaches it as the past progressive, the grammar of its Grade 10 travel lesson, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia pairs it with the simple past in Grade 9 (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past continuous in Grade 9 and returns
 to it three times in Grade 11 — the full paradigm,
 simultaneous actions, and duration (stocked 2026-11-09 by the
@@ -275,3 +275,19 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Past simple vs past continuous | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.10 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 24:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 25:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past and future continuous tenses taught: past continuous describes an action happening at a specific time in the past | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.28 |
+| Tense game: present continuous vs past continuous board game | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.30 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

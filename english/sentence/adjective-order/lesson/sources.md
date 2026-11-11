@@ -1,6 +1,6 @@
 # Sources — Adjective order
 
-countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela
+countries: Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa
 
 Every part traces to its book and page.
 
@@ -46,7 +46,7 @@ verification sweep.
 | Adjective order — opinion, size, shape, age, colour, nationality, material | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B, printed p.94 (PDF p.100) |
 | Degrees and order of adjectives, with the adjective phrase, in the Try Again unit | Pakistan, *English X*, Unit 3 (contents) |
 
-**Acceptance count: taught in 11 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Bolivia, Cambodia, Egypt, Mongolia, Sudan, Indonesia, India, Nicaragua, Pakistan, Sierra Leone, Venezuela, South Africa).** India joins with the order of adjectives in a noun phrase noticed in Class 8's first story (stocked 2026-11-09 by the India re-verification sweep merge).
 
 The two tables differ in two named places, and the lesson says so: Bolivia's table opens with Quantity/Number and calls the second box Quality; Sudan's opens at opinion and lists no quantity box. The shared line — quality/opinion, size, shape, age, colour, nationality, material — is identical in both.
 
@@ -86,3 +86,19 @@ The 2026-11-08 re-verification sweep re-read all 5 of Venezuela's held English b
 | Adjectives and their order in descriptions — the order adjectives take before a noun | Venezuela, *My Victory* Teacher's Book 3 (Grade 9), Lesson 23, student printed pp.184–191 (guide plan printed p.140) |
 
 Venezuela is new to this lesson: the countries line and the acceptance count above were updated together. Placements: liqlearns-courses-work/sweep-2026-11-08/english/venezuela-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 10:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 11:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives before nouns taught (The small dog) + gap-fill | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.42 |
+| Adjective order in descriptive phrases (bright red shirt; emerald green tights; a rectangular orange hat with two feathers stuck on the top; yellow pointed felt shoes with blue shoelaces) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.77 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

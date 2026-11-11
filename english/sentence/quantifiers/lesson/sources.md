@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -114,9 +114,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 20 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico,
-Mongolia, Nepal, China, Mauritania, Greece, Nicaragua,
-Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 21 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -274,3 +272,18 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Wants with some "What do you want? — I want some yams." | Vietnam, Tiếng Anh 2 (Global Success), Unit 9, printed p.40 (Book Map) |
 | Grammar — should / shouldn't for advice; some / any for amount | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 6, printed p.66 |
 | Grammar — quantity words some and a lot of / lots of with countable and uncountable nouns | Vietnam, Tiếng Anh 7 (Global Success), Unit 5, printed p.50 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 24:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing 5 sentences about last weekend + circling past verbs; many/much with countable/uncountable (Getting it right page) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.15–16 |
+| Countable/uncountable check: fill in a, an or some | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.110 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

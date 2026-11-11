@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa
 
 Every part traces to its book and page.
 
@@ -68,8 +68,7 @@ verification sweep.
 | Silent letters in the Beauty of Nature unit | Pakistan, *English 4*, Unit 2 (contents) |
 | Silent letters in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 7 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan,
-Sudan).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 8 countries (Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa).** India adds the Class 2 Unit 3 sound work in full (the sm_le/k_te/m_ce/l_ne completions and the longest-word joke-riddle), with the wrinkle/talk row's book corrected to Marigold Book Two (see Flag 2 of the sweep diff) (stocked 2026-11-09 by the India re-verification sweep merge).
 Ecuador stocks the definition and the fullest card
 families (K, B, H, W) with a closing use-it task;
 Kuwait stocks the four spelling families as a graded
@@ -102,3 +101,19 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 9:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 10:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Silent letters taught: circle the letters you do not sound (write, know, comb, half, wrong, knock, numb, calf) + numbering words in alphabetical order | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS98, printed p.73 |
+| Silent-e words matching (cake/rose/tube/gale/race/tune/snake/rake/gate/pine/bake) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.99 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

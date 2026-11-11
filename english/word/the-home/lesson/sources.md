@@ -493,3 +493,22 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Reading about stilt houses for specific information (listening: the life of minority children) | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
 | Speaking — talking about the type of home you live in | Vietnam, Tiếng Anh 8 (Global Success), Unit 4, printed p.40 |
 | Prepositions of place and time — the unstocked half of this unit's grammar line (named in sweep flag 7; the placements key the combined line to Mine and Yours, where the possessive-pronoun half is stocked — the prepositions half is stocked here) | Vietnam, Tiếng Anh 8 (Global Success), Unit 10, printed p.104 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 59:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 60:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 61:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reader: Keeping our home clean (everyone helps: sweep/wash/dust/peel) + ee/oo word hunt | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 7, printed p.54 |
+| Helping checklist (wash dishes, cook, dust, tidy, fetch water, sweep, garden, shop…) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS120, printed p.118 |
+| Cleaning-the-home words (feather duster/washing/peeling/bowl/sweeping/broom) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS13, printed p.26 |
+| Reader: Ann visits Nomsa (finding the round house with a grass roof next to the square house) + house questions (which houses are on the left, square, round, pink, red roof) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS18, printed p.37 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

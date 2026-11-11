@@ -868,3 +868,35 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 16:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 19:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 20:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 21:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 22:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 23:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Letter q / qu (quick/quiet/queen/quack/squid set; reader "Quickly wash the pots") | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), WS61–62, printed pp.122–125 |
+| Story "Fun in the sun" (longer connected reader about children playing with shells at the beach) + th- words (thin/this/that/think) and sight words about/some/they | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS69, printed p.10 |
+| ph/gh/ff word completion and sorting (dolphin/phase/elephant/laugh/coffee/enough/tough/photo/cough) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS70, printed p.12 |
+| Library day reader + finding sh-words in a text | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.22 |
+| Word work sh/ch/th/wh sets (ship/chip/this/what; sheep/chin/that/when) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS9, printed p.19 |
+| sh word gap-fill (fish/shells/shoes/ship/shark sentences) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS22, printed p.44 |
+| -tch word work (hatch/witch/latch sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS14, printed p.29 |
+| ph word work (phone/phonics/geography sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS15, printed p.31 |
+| ch word work (change/church/bunch sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS17, printed p.35 |
+| Hard C and soft C taught with illustrations | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.40 |
+| Soft c word work (circle/race/city/cell sets) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.111 |
+| Hard G and soft G taught: soft G sounds like a J (giraffe, giant, George, gypsy, geography, gem, gentle, gym) vs hard G (good, golf, goose, gate, gown, get, gold, grow) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.28 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

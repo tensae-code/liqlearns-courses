@@ -425,3 +425,32 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Vocabulary — customs and traditions | Vietnam, Tiếng Anh 8 (Global Success), Unit 5, printed p.50 |
 | Reading about a local festival for general and specific information (listening: a festival) | Vietnam, Tiếng Anh 8 (Global Success), Unit 5, printed p.50 |
 | Project — local customs and traditions of your home town | Vietnam, Tiếng Anh 8 (Global Success), Unit 5, printed p.50 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 48:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 49:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 50:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 51:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 52:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 53:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story: The munchy munchy caterpillar (a caterpillar eats 1 leaf Monday, 2 apples Tuesday, 3 pears Wednesday — days + counting retelling) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS39, printed p.78 |
+| Calendar: days of the week + counting numbers 1–30 on a September calendar | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS10, printed p.21 |
+| Night walk words (moon/stars/owl/rocket/bat) + "This is the moon. These are bats" (this/these) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS14, printed p.28 |
+| Calendar questions: months of the year, "In which month is your birthday / is Christmas?" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS36, printed p.72 |
+| Writing 3 sentences about your holidays with word-bank help; filling missing days of the week | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 1, printed p.9 |
+| Birthday calendar: asking friends' birthdays, writing dates, practising your own birthday date | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 4, printed pp.36–37 |
+| Writing the days of the week in order + what you usually do each day | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed p.93 |
+| Calendar: entering dated events on a July calendar (birthdays, doctor, zoo, library) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS66, printed p.4 |
+| Plans for next year: what year it will be, your plans; this-year month-by-month recall | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS122–123, printed pp.123–124 |
+| Year talk: hot months/cold months, calendar activities, things you have done; writing your birthday date | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS34, printed pp.68–69 |
+| Weekly planner: days in order from Sunday + "I play soccer on Saturday" sentences | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS32, printed p.65 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

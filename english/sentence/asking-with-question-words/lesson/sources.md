@@ -590,3 +590,28 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Everyday English — asking for and giving information about TV programmes | Vietnam, Tiếng Anh 6, Volume 2 (Global Success), Unit 7, printed p.6 |
 | Everyday English — asking for details | Vietnam, Tiếng Anh 7 (Global Success), Unit 6, printed p.60 |
 | Everyday English — asking for explanations | Vietnam, Tiếng Anh 7 (Global Success), Unit 10, printed p.104 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 72:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 73:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 74:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 75:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 76:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What is this?" with action pictures (I sing / I eat / I sleep / I sit) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS2, printed p.4 |
+| Survey: "How do you come to school? How do you go home?" + writing 1 sentence each way | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS6, printed p.13 |
+| Asking "Who is this? What is he/she doing?" | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS11, printed p.23 |
+| "When do you…? I … in the morning/afternoon/night" question-and-answer pattern | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS33, printed p.67 |
+| Interviewing a friend about elephants (asking questions from the text) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS110, printed p.96 |
+| Changing statements into questions using bracket words | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.23 |
+| Making questions with who/what/when/where/how about book covers | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.47 |
+| Question-words poster work (Who? What? Where? When?) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), Term 4 (embedded text fragment, PDF p.122) |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

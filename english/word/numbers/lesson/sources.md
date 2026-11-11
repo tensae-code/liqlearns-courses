@@ -614,3 +614,28 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 |---|---|
 | Numbers one to ten | Vietnam, Tiếng Anh 3, Volume 1 (Global Success), Starter, printed p.7 |
 | Distance "How far is it from … to …? — It's about … kilometres." (numbers 29, 40, 100, 129) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 19, printed p.58 (Book Map) |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 69:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 70:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 71:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 72:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Thick vs thin, counting coloured books | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS78, printed p.28 |
+| Completing garden sentences; counting pictures in groups | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS120, printed pp.116–117 |
+| Colours and numbers revision (circle number + colour, say both) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS10, printed p.20 |
+| Calendar: days of the week + counting numbers 1–30 on a September calendar | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS10, printed p.21 |
+| Reader: transport sentences (I am in the bus. Ken is in the taxi. Sam rides a green bike.) + counting questions (how many cars/trees/bikes/aeroplanes/people?) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS5, printed p.10 |
+| Family garden scene: counting chickens, colouring tomatoes | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS10, printed p.20 |
+| Picnic scene: counting peaches and birds | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS13, printed p.26 |
+| Animal-train questions (how many animals, coach numbers, coach colours, favourite animal) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS22, printed p.44 |
+| Class survey with tally marks (how many chose the dragon book) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS27, printed p.55 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

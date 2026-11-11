@@ -617,3 +617,41 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Describing food "The popcorn is yummy." | Vietnam, Tiếng Anh 2 (Global Success), Unit 1, printed p.6 (Book Map; pattern lessons) |
 | Vocabulary — types of films; adjectives describing films | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
 | Vocabulary — experiences; adjectives describing experiences | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 80:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 81:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 82:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 83:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 84:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 85:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 86:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 87:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 88:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Big and small: "The mouse is small. The elephant is big" (mouse/elephant/butterfly/hippopotamus/chick/giraffe) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS5, printed p.11 |
+| Story: friends go shopping; clothes that do not fit, "This is too big" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS6, printed p.12 |
+| Big/small word choice (man/mouse/ant/house) + writing each row's starting letter | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS7, printed p.14 |
+| Sequencing the wedding story 1–4 and writing a sentence per picture; choosing correct describing words (happy/pretty/young/sunny) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 5, printed pp.44–45 |
+| like / do not like sentence completion (soccer/netball/swimming); near and far in a picture | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 7, printed pp.60–61 |
+| Nouns and adjectives work around the bike story | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.118 |
+| Adjectives taught: nouns are naming words; adjectives describe nouns | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.19 |
+| Sorting words into nouns/verbs/adjectives boxes (milk/dog/sit; farmer/she/garden/eggs; delicious/sweet/wonderful/small) + underlining proper nouns | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.81–82 |
+| Filling adjectives to describe pictures | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.82 |
+| Filling adjectives to describe nouns (each adjective used once) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.107 |
+| Adverbs vs adjectives in sentences (make sentences more interesting) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.127 |
+| Writing 5 sentences about your dragon picture with as many adjectives as you can | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.97 |
+| Eagle adjectives (noble/timid/swift/clever/mighty/royal/soaring/commanding/impressive/proud/dignified) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.64 |
+| Labelling a woolly mammoth from a table + underlining all the adjectives | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.15 |
+| Adjectives by category: underline all adjectives; circle those telling temperature (hot/warm/freezing), age… | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.41 |
+| Adjectives work in sentence pairs | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.29 |
+| Similes made up; a recipe corrected; adjectives used in sentences; a plural exercise completed; a punctuation activity completed | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet p.32) |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

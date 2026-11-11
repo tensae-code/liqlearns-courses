@@ -1,6 +1,6 @@
 # Sources — Diary and journal
 
-countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam
+countries: Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -101,8 +101,7 @@ verification sweep.
 | Writing your own diary entry | Mongolia, English XII, Unit 6, printed pp.111, 116 |
 | A diary page among the book's writing kinds | Pakistan, *English 8*, printed pp.116–117 |
 
-**Acceptance count: taught in 12 countries (Malaysia, Nepal, Egypt, China, India, Mongolia,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
+**Acceptance count: taught in 13 countries (Malaysia, Nepal, Egypt, China, India, Mongolia, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, South Africa).** Yemen joins with two Grade 8 diaries, a camping diary and a 1937 flying-boat travel diary (stocked 2026-11-11 by the re-verification sweep merge). India joins with diary-shaped writing and diaries read whole across Classes 8, 9, 10 and 12 — Jim's letter home, the Monsoon Diary, Kathmandu, Anne Frank and her taught diary point (stocked 2026-11-09 by the India re-verification sweep merge). Malaysia teaches the diary entry as a
 genre in the pupil's book itself, beside Pepys's 1666
 extracts; Nepal reads a dated entry whole, then sets one;
 Egypt teaches the kind at four depths — the four printed
@@ -186,3 +185,49 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Writing a diary entry about best friends | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 3, printed p.30 |
 | Writing a diary entry about a tour of a city | Vietnam, Tiếng Anh 7 (Global Success), Unit 12, printed p.124 |
 | Writing about family routines | Vietnam, Tiếng Anh 10 (Global Success), Unit 1, printed p.8 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 19:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 20:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 21:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 22:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 23:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 24:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 25:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 26:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 27:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 28:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 29:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making a birthday card with a message; writing your own birthday wish as a diary entry (Dear diary…) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.8–9 |
+| Reading a diary: Sam's diary of the Addo Elephant Park trip + questions | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.86 |
+| Keeping your own diary for four days (weather and news) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.89 |
+| Feelings talk + role play; writing as Nomsa (diary-style) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS68, printed p.8 |
+| Diary entry: a time you were sick (how you felt, medicine, who cared for you) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS116, printed p.108 |
+| Writing a diary entry as the child who fell before the winning line (how you felt) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS6, printed p.13 |
+| Writing a diary entry about the storm pictures | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS35, printed p.70 |
+| Diary entry: how you got lost and what happened next (Dear Diary) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS9, printed p.18 |
+| Reading a diary page: Ann's diary of the fun fair (15 September; what happened to Nomsa and Ann, how they solved the problem) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS15, printed p.30 |
+| Diary entry as a story character (Imagine you are Ben or Lulu; how you felt) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS28, printed p.56 |
+| Diary entry as Jabu (about 40 words summarising the day) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.15 |
+| Story: Mandu's secret diary (floury paw prints mystery) + sequencing sentences 1–6 | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.94–96 |
+| Planning and writing a diary entry as Mary Ann | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.8–9 |
+| Reading published diary entries (Diary of a Wimpy Kid extracts) + listing the events | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.14–16 |
+| Writing your own diary entry (Day/Date, illustrated) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.17 |
+| How Jojo's feelings changed (beginning felt… because…; end…) + diary entry as Jojo | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.91 |
+| Reading diaries: starting each paragraph with a time expression; a Cradle of Humankind outing diary | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed pp.94–95 |
+| Keeping your own diary for three days (what you did, how you felt) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.96 |
+| Reading two diaries side by side (Mandu and Peter's yesterday, by time) + writing 4 sentences about each + 4 about yourself | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.124–125 |
+| Diary theme: talking about keeping a diary; identifying a diary-entry text by its features | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Term 3 Wk 1–2, printed p.8 |
+| Diary discussion: why keep a diary; what you write in it | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.65 |
+| Story: The monster in the cupboard (predict the ending; describe the monster; diary entry as Robert — Dear Diary, how you felt that night) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Term 3 Wk 1–2, printed p.2 |
+| Diary writing introduced; writing a diary entry summarising a story | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet p.28) |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

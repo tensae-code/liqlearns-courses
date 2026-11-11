@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -105,9 +105,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 16 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh,
-Indonesia, Mexico, Greece, Palestine, Rwanda,
-Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 17 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -303,3 +301,77 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 13:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 14:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 15:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 16:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 19:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 20:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 21:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 22:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 23:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 24:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 25:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 26:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 27:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 28:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Song: Twinkle twinkle little star | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS110, printed p.94 |
+| Song: balloons colour rhyme (red/blue/green/yellow) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS13, printed p.27 |
+| Song: The wheels on the bus | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS17, printed p.35 |
+| Song: If you're happy and you know it | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS29, printed p.59 |
+| Christmas time: song (Jingle Bells first verse) + festive scene talk, "It is Christmas" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS37, printed pp.74–75 |
+| Poem: Five little chickens (five chicks wish for worm/slug/grief/stone; mother hen answers) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS93, printed p.60 |
+| Performing a poem in a group (each learner one chick) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS94, printed p.62 |
+| Poem/song: Twenty froggies went to school | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS3, printed p.6 |
+| Singing a celebration song in your first language, then an English Christmas song (Little Drummer Boy) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS33, printed p.67 |
+| Making a card for a friend, one card carrying a short poem | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS68, printed p.9 |
+| Poem: Two little kittens (two kittens fight over a mouse on a stormy night) + questions | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS103, printed p.82 |
+| Reciting/role-playing the poem | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS104, printed p.84 |
+| Song: Twinkle twinkle little star at night camp | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS12, printed p.24 |
+| Song: The more we get together | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS20, printed p.40 |
+| Poem reading in pairs (Christopher Robin hopping poem) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS29, printed p.61 |
+| Christmas song: Little Drummer Boy | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS35, printed p.70 |
+| Poetry page: reading aloud for beat/rhythm and rhyming-word patterns | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.18 |
+| Underlining rhyming pairs in colours; underlining verbs in a poem | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.19 |
+| Completing a poem with missing rhyming words | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.20 |
+| Shape poems noticed and written (poems shaped like their picture) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.26–27 |
+| Poetry kinds: reading different kinds of poems; tongue-twister poem discussion | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.36–37 |
+| Poem: Myself and the elf + questions | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.38 |
+| Completing a verse with rhyming words; planning your own poem | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.40–41 |
+| Poem: The animal rescue store (reading aloud with expression; rhyming words; questions) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.44–45 |
+| Shape poems from Africa | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.46 |
+| Poem: Where is the rain? (giraffe and elephant dialogue poem) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.47 |
+| Writing your own shape poems for four pictures | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.48 |
+| Poem: Little train on the track (reading aloud with movements, beat/rhythm) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.60 |
+| Poem lines: listening to rhythm, underlining last words, completing the poem | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.61 |
+| Poem: Custard the dragon (predicting from title/pictures) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.64 |
+| Writing your own poem about a pet (describing words + rhyming words first) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.65 |
+| Poem about insects read aloud; underlining rhyming words; finding rhymes for given words; writing a poem in rhyming sentence pairs | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.112–113 |
+| Poem: Animals and eggs (read aloud / sung to Twinkle Twinkle; underlining rhyming words) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.26 |
+| Shape poems: reading them (they look like the thing they describe but do not have to rhyme) + writing your own on drawings | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.50–51 |
+| Poem rhyme-finding (words that rhyme with away/hall/scent/yard/reward…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 9–10, printed p.65 |
+| Poem: Holding hands (elephants holding hands by holding tails; underlining rhyming words) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.77 |
+| Poem: Dragons and dinosaurs (characters, where they live, how the story changed) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.96 |
+| Strange-words poem (Jabberwocky-type): acting verses 2–4; looking up brillig and toves in dictionaries — they are not there because the words were invented | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.88–89 |
+| Poem: Who am I? (a shadow poem) + a poem that does not rhyme compared with a rhyming version | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.91–93 |
+| Happiness poem (Happiness is an orange; it smells like a field of flowers; it tastes like…) — metaphors for an abstract noun | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.95 |
+| Poem: Going to school (acting it out) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.17 |
+| Dog poem questions (does the dog like the beach, why; enjoys chasing seagulls) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.26 |
+| Poem questions (Albert Mogale — what people should do/need) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.36 |
+| Praise poem for South Africa (Let us hold hands together… proud nation…) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.46 |
+| Aliens poem (practise and perform; rhythm; rhymes for space/hard/fly/fell) + space dice game | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.35 |
+| Two poems read; an acrostic poem read and written; figures of speech identified in poems | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet p.26) |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

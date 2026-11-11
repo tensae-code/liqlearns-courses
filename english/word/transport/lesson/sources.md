@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -95,8 +95,7 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 17 countries (Albania, Bolivia, Mongolia,
-Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 18 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -273,3 +272,33 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Speaking — talking about why a means of transport will / won't be popular | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
 | Writing a paragraph about the advantages of a future means of transport | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
 | Project — our future means of transport: imagining a future vehicle | Vietnam, Tiếng Anh 7 (Global Success), Unit 11, printed p.114 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 18:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 19:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 20:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 21:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 22:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 23:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Transport reader (taxi, parents driving, Gautrain) + sight words school/uncle/asked/because/eight | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS103–104, printed pp.80–83 |
+| Ways to come to school (walk/motorbike/taxi/bike/bus/train/car) + "How do you get to school?" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS16, printed p.33 |
+| "I come to school by ___" sentence pattern with tracing | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS17, printed p.34 |
+| Song: The wheels on the bus | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS17, printed p.35 |
+| Reader: Sam went to the airport (planes, control tower, screens, jumbo jet) + questions | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS71, printed p.14 |
+| Reader: transport sentences (I am in the bus. Ken is in the taxi. Sam rides a green bike.) + counting questions (how many cars/trees/bikes/aeroplanes/people?) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS5, printed p.10 |
+| Transport words (plane/van/motorbike/train/bus stop) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS5, printed p.11 |
+| "I go to school by bus/taxi/car/bike / on foot" listen-and-repeat + drawing your journey | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS6, printed p.12 |
+| Survey: "How do you come to school? How do you go home?" + writing 1 sentence each way | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS6, printed p.13 |
+| Reader: Travelling back home + describing vehicles in a table (What did it look like? How did it go?) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.94 |
+| Comparing two forms of transport (same/different) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.96 |
+| Airport picture (control tower/luggage/air hostess/stairs) + story: Flying back home + questions (feelings, how they travel, what they see from the window) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS28, printed pp.56–57 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

@@ -106,3 +106,42 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 9:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 10:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 11:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 12:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 13:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 14:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 15:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 16:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 19:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Choosing is/are correctly in sentences | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 2, printed p.80 |
+| want/wants-type verb choice in sentences | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.54 |
+| is/am/are choice to complete sentences (I is am are enjoying school. You…are…) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS106, printed p.89 |
+| Subject-verb concord stickers: circling is/are (She is/are a sailor. I am/are ten. You is/are… They is/are nine) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS25, printed p.51 |
+| is/am/are circling (I is/am on the bus. We is/are going… He is/are… It is/are… They is/are…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS27, printed p.55 |
+| there is/are circling in a classroom picture (There is/are one teacher… four boys… two windows…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS35, printed p.71 |
+| is/are choice (The girl is/are lost. They is/are at the fun fair. He is/are the driver…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS17, printed p.34 |
+| was/were, are/is agreement choices (The two girls was/were clever. The children are/is back…) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.99 |
+| am/are/is revision gap-fill + joining sentence pairs with and/because/so/but | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.84–85 |
+| is/are circling (It is/are sunny today. She is/are flying a kite. The children is/are at sports.) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.75 |
+| is/are rule stated: is for one person, are for more (They is/are at school. She is/are running.) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.83 |
+| Circling the correct verb form in sentences | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.84 |
+| The verb to be: circling the best form (We heard the phone ring while we was/were…; It is/are/am essential that we leave now…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.118–119 |
+| Subject-verb agreement work + writing shortened words out in full | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.25 |
+| Subject-verb agreement: Use is or are (There ___ one book. There ___ two books.) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.7 |
+| Subject-verb agreement defined: the subject of a sentence must agree with the verb (Jim plays s…) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.7 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

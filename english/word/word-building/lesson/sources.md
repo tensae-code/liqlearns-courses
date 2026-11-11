@@ -396,3 +396,32 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Words and phrases related to community development; adjective suffixes -ed vs -ing and -ful vs -less | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 29:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 30:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 31:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 32:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 33:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 34:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 35:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 36:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word sums (word-building arithmetic) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed p.93 |
+| Word-building blocks: adding letters to -ture/-tion/-sure/-sion and ph/ar/ear/ur/air sounds | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS104, printed p.85 |
+| Poster text: Bongi cleans up the litter + un- words (untidy, unfair-type: untidy/places/parks/remove word work) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.120–121 |
+| Word sums with blends (cr+cream, br…, dr+earn, str+eet, fl+ing…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS37, printed p.74 |
+| Prefixes taught: a prefix is a word part added at the beginning of a root word; every prefix has a meaning | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.40 |
+| Suffixes: underlining root words, circling suffixes (grateful/hopeless/hopeful/cordless/playful/colourful/speechless/careful/enjoyable) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.43 |
+| Prefix/suffix revision definitions | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 9–10, printed pp.66–67 |
+| Prefixes taught by meaning table (re- = again or back, dis-…) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.8 |
+| Prefixes and suffixes: What is a prefix? — not a full word, a word part added…; what happens when the suffix joins the root word | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.40 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

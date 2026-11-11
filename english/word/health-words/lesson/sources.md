@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -150,10 +150,7 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 24 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh,
-China, Iran, Indonesia, Mauritania, Mexico, India,
-Greece, Mongolia, Nicaragua, North Macedonia, Pakistan,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 25 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -427,3 +424,40 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Speaking — talking about how to have a well-balanced life as a secondary student | Vietnam, Tiếng Anh 9 (Global Success), Unit 3, printed p.28 |
 | Words and phrases related to health and fitness | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |
 | Culture/project — bacteria and viruses (CLIL); designing a poster about a healthy habit | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 31:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 32:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 33:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 34:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 35:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 36:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 37:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 38:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 39:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Things we use to keep clean | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), WS12, printed pp.24–25 |
+| Keeping clean words (comb/toothbrush/toothpaste/brush/towel/soap/shampoo/wash basin/toilet paper/tissues) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS9, printed pp.18–19 |
+| Story: Sam is sick (spots/plasters/doctor/medicine/thermometer/tablets story pictures told in order) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS3, printed pp.6–7 |
+| Reader: The nurse comes to school (eye tests, glasses) + multiple-choice comprehension | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed pp.22–23 |
+| Information text: BE SAFE AT HOME pamphlet (stove, kettle cord, medicines, sharp things, plugs, paraffin) + answering from each animal's advice | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS85, printed p.44 |
+| Doctor scene (pills/nurse/doctor/stethoscope) + narrative reading | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS9, printed p.18 |
+| Writing a sentence per sequenced picture; saying how you feel ("I feel sick. I have a stomach ache.") | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS10, printed p.21 |
+| Reader: A hospital visit (Ken knocked off his bike, broken leg, X-ray, friends visit) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS11, printed p.22 |
+| Hospital words (X-ray/plaster cast/pyjamas) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS11, printed p.23 |
+| Safety Day: reading fireman's and traffic officer's pamphlets (road safety; fire safety — don't play with matches, two ways out) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS6, printed pp.12–13 |
+| Drawing a safety warning + writing 5 sentences | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS7, printed p.14 |
+| Health Day: nurse's food chart/pyramid talk (eat more from the bottom; sugars/fats at top; dairy; meat/fish/chicken/eggs) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS8, printed pp.16–17 |
+| Safety details you should know if you get lost + police number 10111 | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS9, printed p.18 |
+| Pamphlet: Screen time (harmful effects of too much screen time; what to do instead) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.18–21 |
+| Pamphlet: All about bullying (what to do; never speak to the bully alone) + multi-tick questions | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed pp.24–27 |
+| Health pamphlet read; health-seeking behaviour discussed | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet pp.18–20) |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

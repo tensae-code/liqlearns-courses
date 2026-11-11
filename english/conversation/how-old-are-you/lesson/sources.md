@@ -526,3 +526,17 @@ The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English b
 | The model exchange in the introduction work — "How old are you? Answer: I am 12 years old." | Sierra Leone — JSS 2 Pupils' Handbook, Term 1, introduction work (front matter, before Lesson 1; no printed page is claimed for it) |
 
 The three Primary plans are teacher evidence, cited as such; the JSS handbook item is a pupil book's own model exchange. These same plans also stock their own topics elsewhere in this merge (the Primary 2 plan stocks dialogue-and-discussion, the Primary 3 plan the-story, the Primary 1 plan verbs) — the age-question part of each is stocked here, as flag F1 directs.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 2:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reader: "I am seven years old today" (party, presents) + l-words (letter/lamp/lorry/lion/leaf/lizard) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS35, printed p.70 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

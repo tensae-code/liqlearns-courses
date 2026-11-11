@@ -385,3 +385,37 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Speaking — talking about the lives of two national heroes of Viet Nam | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.13 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 40:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 41:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 42:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 43:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 44:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 45:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 46:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 47:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story pictures: Jabu's bag (Jabu walks, falls; Ken and Nomsa help) told in sequence | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS23, printed p.46 |
+| Story: Sam is sick (spots/plasters/doctor/medicine/thermometer/tablets story pictures told in order) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS3, printed pp.6–7 |
+| Story: a goat eats my garden (picture story told to a friend) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS21, printed p.42 |
+| Story: Fetch my cat (picture story: a cat up a tree, a ladder) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS28, printed p.56 |
+| Reader: Jabu went to the zoo (first-person recount; a monkey grabs Jabu's cap) + sentence answers | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS69, printed p.10 |
+| Grandmother's story: the clay pot (a pot dries in the sun, rain comes in the night, the pot is gone in the morning) + circling th-words; ordering the story's sentences | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed pp.64–66 |
+| Reviewing the term's stories (which story, which characters) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.132–134 |
+| Storm pictures sequenced; telling as the child; role play | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS35, printed p.70 |
+| Retelling Winnie the Pooh (Pooh gets stuck) with First… Then… Then after that… | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS29, printed p.58 |
+| Role play of the fire story + mind-map writing | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.12 |
+| Role play + writing one sentence each for beginning/middle/end | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.39 |
+| Retelling the lion and the mouse with one event from each part; writing the mouse's speech ("Please don't eat me, Mr Lion. I will help you one day") | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.46–47 |
+| Role play of the tree-house birds story | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.9 |
+| Role play of Anansi and the watermelon | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.76 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

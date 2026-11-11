@@ -1082,3 +1082,44 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 101:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 102:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 103:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 104:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 105:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 106:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 107:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 108:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 109:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Make-your-own story book (fold/staple booklet with cover, about-the-writer, beginning–end pages) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS109, printed pp.95–96 |
+| Story planner + make-your-own story book (second booklet) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS124, printed pp.126–128 |
+| Sequencing the school-goat story + writing your own story booklet | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.32 |
+| Child safety: writing an 8-sentence story about a time you were lost | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.54 |
+| Story planner + make-your-own book (characters, middle, end) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS80, printed pp.31–34 |
+| Story planner + make-your-own book (third booklet) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS112, printed pp.98–100 |
+| Writing the soccer-trip story from pictures with your own ending | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS120, printed p.116 |
+| Role play + writing 5 sentences about what happened to Sam on the mountain | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS27, printed p.54 |
+| Writing a story (meeting an alien or a dragon) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS28, printed p.57 |
+| Writing a story of about 120 words (beginning/middle/end) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.101 |
+| Writing your own story from a mind map (illustrated) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.6–7 |
+| Planning a story from pictures (3 sentences per picture) + writing it | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.48–49 |
+| Story writing from a mind-map topic (beginning/middle/what happened next/ending) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.108–109 |
+| Planning and writing the Ugly Duckling story | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.116–117 |
+| Role play + story writing about Gogo's garden | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.40 |
+| Story writing from a mind map | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.4–5 |
+| Dogs story: tell the story from a picture using given words | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.25 |
+| Finishing a story (word meanings, then dictionary check) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.37 |
+
+**Sweep verification note (flag 3 of the South Africa diff):** this file also carries older stock from South Africa's Grade 6 FAL Workbook 2 — the scan-only book. The sweep's OCR read covered that book's contents spread and opening worksheets only, so the older Grade 6 FAL Workbook 2 claims in this file could be neither confirmed nor refuted; they stand as unverified until the book is OCR'd whole. No row in the section above rests on that book except where it is named as an OCR-verified or contents-spread item.
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

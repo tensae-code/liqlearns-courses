@@ -1,6 +1,6 @@
 # Sources — Review writing
 
-countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam
+countries: Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -40,7 +40,7 @@ Every part traces to its book and page.
 | Writing a comment on a film you watched | Mongolia, English XII, Unit 10, printed p.180 |
 | Telling the story of a film (set phrases for beginning, middle, end) | Mongolia, English XII, Unit 10, printed p.183 |
 
-**Acceptance count: taught in 12 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, Malaysia, Nepal, Yemen, China, Greece, Mongolia, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa).** Greece joins with the Grade 6 film-review project (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt states the kind whole — definition, four parts, a weighed model; its second book adds the film review. Malaysia stocks the restaurant review, the film review read, and the review's description skill named. Nepal reads and writes book and film reviews in both formats. Yemen sets the short review as a workbook commission (its printed slip 'see' for 'seen' is taught corrected, never as fact). China joins with a CD review read and completed (stocked 2026-11-08 by the re-verification sweep). No book's review text is reproduced; the model titles and verdict shapes only are named. Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 film reviews and Grade 11 film-review comparison (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grade 7 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -122,3 +122,30 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Speaking — talking about a film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
 | Writing a paragraph about a film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
 | Project — your favourite film | Vietnam, Tiếng Anh 7 (Global Success), Unit 8, printed p.82 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 12:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 13:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 14:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 15:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 16:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing about a book you liked (title, 2 sentences, drawing the cover) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS76, printed p.24 |
+| Writing about a book you liked (title, author, a paragraph) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.24 |
+| Writing about a book (title, author, what it was about, a picture) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS76, printed p.24 |
+| Reading a book review (headings in the left-hand column) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.14 |
+| Writing a review in the right order (sentences under headings: The story is about… / Pele is a good example because…) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.5 |
+| Book review: The lion and the mouse by Jerry Pinkney (reviewed by Meghan Cox; watercolour pictures) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.57 |
+| Book review: A magical day for dreaming (stories based on real life; Reach for a Dream) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.49 |
+| Reading a book review + writing a book review of a story | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet pp.14, 30) |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

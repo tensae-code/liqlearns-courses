@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -199,10 +199,7 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 24 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh,
-Bolivia, China, Iran, Indonesia, India, Greece,
-Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda,
-Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 25 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -549,3 +546,32 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Culture/project — how green festival traditions are; designing a leaflet about going green | Vietnam, Tiếng Anh 12 (Global Success), Unit 3, printed pp.41–43 |
 | Words related to conserving wildlife | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.102 |
 | Culture/project — the IUCN Red List; designing a poster about an endangered species | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed pp.109–111 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 43:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 44:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 45:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 46:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 47:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 48:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reader: We try to eat well (garden vegetables; a goat eats the plants) + ee/ea word hunt + full-sentence question answers | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 8, printed p.62 |
+| The water cycle in pictures (water goes round: sun, sea, rivers, up to the clouds) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 5, printed p.109 |
+| How a frog grows (egg → tadpole → froglet → frog) told in order | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 6, printed p.117 |
+| Family garden scene: counting chickens, colouring tomatoes | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS10, printed p.20 |
+| Garden things (fork/spade/carrots/sun/watering can/hat/cabbage/worm) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS12, printed pp.24–25 |
+| Night walk words (moon/tent/torch/pyjamas/tracksuit/fire/stars/owl/lamp/cooler box) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS25, printed pp.50–51 |
+| Information text: The sun and the moon (the moon looks different as it travels around the earth) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.115 |
+| Poster text: Bongi cleans up the litter + un- words (untidy, unfair-type: untidy/places/parks/remove word work) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.120–121 |
+| Class clean-up planning talk | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.122 |
+| Labelling parts of a plant (leaves/stem/soil/petals) + what plants need to grow | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS37, printed p.74 |
+| Camping text + questions (where are the children, how do they cook, what Ken and Nomsa want to do and why, would you like to find a lion) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS11, printed pp.22–23 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

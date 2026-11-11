@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -80,7 +80,7 @@ verification sweep.
 | Writing an article, "How to make people environmentally friendly?" | Mongolia, English XII, Unit 7, printed p.129 |
 | Writing a magazine article about a wheelchair fashion or dance show | Mongolia, English XII, Unit 10, printed pp.187–188 |
 
-**Acceptance count: taught in 11 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 StudyMall/EcoMall project (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 12 countries (Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa).** India joins with a school-magazine article comparing tennis players from a data table in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt defines both kinds — the short article and the fact file — in its own Tips; Kuwait fixes the magazine article's working size and its hook-model; Malaysia names the hook's tools (direct tone, rhetorical questions, paragraph analysis) and reads the kind at full colour; Vietnam orders the body by its points in two school articles; China joins with the newspaper-or-magazine article about a favourite kind of music or movie (stocked 2026-11-08 by the re-verification sweep). All articles in this lesson are stated in LiqLearns' own words; model titles only are named, no model text reproduced. Mexico writes articles as projects in all three grades: an album of English-speaking cultural manifestations (Grade 7), a Conquest fanzine and a Revolution analysis (Grade 8), and inclusion and independence research articles (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 9 StudyMall/EcoMall project (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Sierra Leone added 2026-11-11 (re-verification sweep merge)
 
@@ -144,3 +144,17 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Writing an article about the benefits and challenges of lifelong learning by synthesising and summarising | Vietnam, Tiếng Anh 12 (Global Success), Unit 10, printed p.128 (unit opener) |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 14:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing an article about a friend who taught you guitar | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.40 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

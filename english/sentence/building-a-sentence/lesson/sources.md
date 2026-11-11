@@ -526,3 +526,41 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 |---|---|
 | "This is a dog." (this is a + noun; song adds on/near position words) | Vietnam, Tiếng Anh 1 (Global Success), Unit 4, printed p.19 |
 | "That's a monkey." (that's a + noun) | Vietnam, Tiếng Anh 1 (Global Success), Unit 10, printed p.45 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 62:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 63:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 64:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 65:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 66:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 67:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 68:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 69:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 70:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 71:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Completing animal sentences with a missing word (sleeps/flaps/goes grr) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS86, printed p.46 |
+| Writing 2 sentences about your own picture (favourite game) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS92, printed p.58 |
+| Writing 3 sentences about a picture sequence (the fire) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS106, printed p.86 |
+| Completing garden sentences; counting pictures in groups | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS120, printed pp.116–117 |
+| Word work s-set (Sam/sits/sat/sad/sit/sun) + building the sentence "Sisi sits. Sam sits." from word cards | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS2, printed p.5 |
+| Tracing and copying the sentence "I am on the bus" + letter Uu | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS33, printed p.67 |
+| am/is/are to complete sentences | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 1, printed p.8 |
+| Making sentences by matching sentence halves, then copying them | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed p.88 |
+| Completing sentences with given words (before/story/teacher/two/knew) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS75, printed p.23 |
+| Unjumbling words into sentences with capital letter and full stop (it is raining; I am wet; the bus left) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS28, printed p.57 |
+| there is / there are picture sentences: ticking correct ones (There is a vase on the TV. There are books…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS20, printed p.40 |
+| Writing sentences starting There is (one thing) or There are, with the rule stated | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS20, printed p.41 |
+| Subject completion game (It/We/They/Ann and Bongi + verb phrases) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS19, printed p.39 |
+| The magic sentence-maker: making many different sentences | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.80 |
+| Forming sentences from boxes (adjectives, adverbs, conjunctions, own nouns and verbs) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.13 |
+| Linking language: a sentence has two parts; the person or thing the sentence is about is called the subject | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.34 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

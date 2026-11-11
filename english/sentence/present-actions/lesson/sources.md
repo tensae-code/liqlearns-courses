@@ -771,3 +771,51 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Camp activities, one person "What's he / she doing? — He's / She's …" (building a campfire, dancing around the campfire, playing card games, putting up a tent, singing songs, taking a photo, telling a story) | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 20 "At summer camp", printed p.64 |
 | Camp activities, group "What are they doing? — They're …" | Vietnam, Tiếng Anh 4, Volume 2 (Global Success), Unit 20, printed p.64 (Book Map) |
 | Grammar — adverbs of frequency; present simple for future events | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 92:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 93:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 94:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 95:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 96:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 97:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 98:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 99:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 100:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 101:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 102:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 103:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Filling in -ing words for what children do | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS108, printed p.90 |
+| Likes sentences: We like / He likes to eat / They like to eat / He likes to drink | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS84, printed p.42 |
+| Present continuous family scene: "Mom is watering the plants. Dad is digging. The dog is standing. Grandmother is reading…" | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS11, printed p.22 |
+| Likes with infinitives: "Ann likes to kick a ball. The children like to swim…" + "Can you swim?" | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS14, printed p.28 |
+| Present continuous picture sentences (Jim is doing his homework. The girl is taking her medicine…) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS81, printed p.37 |
+| Completing sentences with verbs, then naming present or past tense | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS84, printed p.43 |
+| Completing sentences with verbs, then naming the tense: present, past or future | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS100, printed p.77 |
+| -ing word work (running/singing/eating/jumping/winning/dancing/sleeping/looking) + 5 sentences about Sports Day | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS7, printed p.15 |
+| What children are doing: present continuous talk over a calendar picture | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS32, printed p.64 |
+| -ing word work (swimming/walking/baking sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS32, printed p.65 |
+| Likes/dislikes with -ing: "Ann likes riding a bike and eating bananas. Ann does not like watching…" | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS34, printed p.68 |
+| Present simple with don't/doesn't matching (My family and I don't live in Bisho. Maria doesn't do her homework…) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.57 |
+| Tense game: forming sentences from time expressions | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.127 |
+| Auxiliary verbs taught: helper verbs — choosing the correct auxiliary | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.129 |
+| Present continuous: completing sentences with verbs happening right now | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.28 |
+| Writing sentences with time frames (Right now I am… / Yesterday… / Last weekend… / At the moment he… / In the December holidays she…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.31 |
+| Present continuous picture talk: all actions happening now end in -ing | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.63 |
+| Changing sentences from then to now (Pele lived… → Pele lives…) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.4 |
+| Present continuous explained: we use it for an action taking place now (the -ing form) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.86–87 |
+| Tense game (dice, time expression, form a sentence) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.22 |
+| Simple tense game (Past/Present/Future board: Next week they are/will go to Durban; We will be going/goes to London; Tomorrow I will/am going to play netball; Is/are you going to meet Jane) | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.4 |
+| Present continuous taught: used for things happening now | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.12 |
+| Tense game: continuous/progressive board game with cut-out markers | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.19 |
+| Present progressive taught: write the sentence as if the action is happening now; called the present progressive tense; all verbs end in –ing (She is…) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.34 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

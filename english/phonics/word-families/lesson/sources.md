@@ -442,3 +442,56 @@ The 2026-11-08 re-verification sweep re-read all 13 of Sudan's held English book
 Sudan was already counted in this lesson; the acceptance count does not change.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/sudan-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 10:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 11:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 12:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 13:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 14:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 15:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 16:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word work t-set (top/tip/tap/tub/tin/ten) + sentence "This is too big" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS7, printed p.15 |
+| Word work p-set (pig/pot/pat/pit/pond/pan) + sentence "The pig is pink" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS9, printed p.19 |
+| Word work i-set (in/ink/sit/is/it/tin) + sentence "I swim in the pool" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS12, printed p.25 |
+| Word work n-set (no/new/name/not/nest/net/nose) + sentence "Ann is a nurse" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS14, printed p.29 |
+| Word work b-set (bed/bat/bit/bet/Bob/bad) + sentence "Bob is at the bin" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS17, printed p.35 |
+| Word work m-set (men/mat/mad/mop/mix/met) + sentence "The moon and the stars" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS19, printed p.39 |
+| Word work g-set (got/go/mug/get/gum/jug) + sentence "A goat eats my garden" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS22, printed p.45 |
+| Word work o-set (hot/top/not/dog/on) + sentence "It was hot on Monday" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS24, printed p.49 |
+| Word work h-set (hat/hail/hard/hot/hole/hatch) + sentence "They help us" + filling h (honey/heart/hose) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS27, printed p.55 |
+| Word work f-set (fun/fin/frog/fat/fan/fit) + sentence "Please fetch my cat" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS29, printed p.59 |
+| Word work u/r sets (up/cup/cut; run/rat/robot) + sentence "We run to the bus" | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS32, printed p.65 |
+| Word work k/d sets (kite/kick/kiss; dog/drum/did/kettle) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS35, printed p.71 |
+| The j- and l-sounds word work (log/lip/lump/lot/let/lap; job/jog/jump/jet/joy/joke) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS36, printed p.73 |
+| Reader: We eat at school + circling oo-words in a text | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed p.26 |
+| Completing words with oo/ee; morning/afternoon/night matching | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 6, printed p.53 |
+| Reader: Keeping our home clean (everyone helps: sweep/wash/dust/peel) + ee/oo word hunt | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 7, printed p.54 |
+| Sound boxes oo/ea sorting (spoon/cool/meat/weep sets) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 8, printed p.69 |
+| Silly News reader: Mr Dog in coat and hat (oa words boat/moat/coat/goat/toad) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 8, printed p.130 |
+| Words ending in -ck (clock/lock/block/sock/kick/rock/brick/sack) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS72, printed p.16 |
+| Word work short-vowel sets (ant/cat/egg/hen/hat/bat/bed/ten/mat/rat/tent/men) + writing 5 sentences with chosen words | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS2, printed p.4 |
+| Sound-train revision sorting (week/cool/weep/grow; plug/keep/blue; spoon/slip/play sets) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS19 cont., printed p.41 |
+| Rhyming words matching (day/fly/make/cake/cry sets) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.25 |
+| Teachers' Day text (5 October; letters and cards to thank teachers) + finding rhyming words in a poem (grey/know sets) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS113, printed pp.102–103 |
+| oo word work (fish/much/boot/moon/dish/spoon sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS13, printed p.27 |
+| Sound-box revision sorting | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS15, printed p.31 |
+| ea word work (eat/read/need; meat/neat/week; deal/seal/wheel sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS20, printed p.41 |
+| ea/ee word sorting (beat/sea/see/bee/meet/heat sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS27, printed p.54 |
+| y word work (fly/my/ply/by/sky/why/cry/try/dry) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS28, printed p.57 |
+| Completing y words (fl__/cr__/sp__/fr__/dr__/sh__) + punctuating (ann and nomsa wanted to cry) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS29, printed p.59 |
+| Sentence joining revision + circling oi/oy words | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS2, printed p.5 |
+| ou word work (round/sound/mouse sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS10, printed p.21 |
+| er word work (turn/her/bird sets) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS24, printed p.49 |
+| Two sounds of y word work (by/fly vs yes/yet-type boxes) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS33, printed p.67 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

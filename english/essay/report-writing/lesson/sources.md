@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa
 
 Every part traces to its book and page.
 
@@ -55,7 +55,7 @@ re-verification sweep.
 | A survey report printed whole: "Paucity of Textbooks in the Area of Allama Iqbal Town, Lahore" | Pakistan, *English 8*, printed p.122 |
 | Informative and explanatory texts as the unit's writing work | Pakistan, *English 12*, Unit 6, printed pp.38–44 (unit range) |
 
-**Acceptance count: taught in 16 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq).** Yemen joins with an earthquake report, a full experiment write-up and experimental procedures from its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 marine-animal report and Grade 11 chart, graph and table reports (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 17 countries (Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa).** Yemen joins with an earthquake report, a full experiment write-up and experimental procedures from its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's animal research and presentation (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'Catastrophes' report-writing lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with report writing taught as an explicit lesson in Class 5, with its printed rules (stocked 2026-11-09 by the India re-verification sweep merge). Egypt states the formal frame whole and also teaches the kind at school-report size; Sudan carries the survey report whole, questionnaire to conclusion; Malaysia drills the report's two danger places, its opening and its closing; Vietnam bends the frame toward a decision in the problem-solving report; Kuwait proves the frame at two-paragraph size. The frame, the survey run and the formal dress in this lesson are stated in LiqLearns' own words; no book's model text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 marine-animal report and Grade 11 chart, graph and table reports (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -199,3 +199,23 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Writing — describing a line graph about trends in urbanisation | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.55 |
 | Writing — describing pie charts | Vietnam, Tiếng Anh 12 (Global Success), Unit 7, printed p.95 |
 | Writing a problem-solving report on protecting tigers | Vietnam, Tiếng Anh 12 (Global Success), Unit 8, printed p.108 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 16:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing your own information pamphlet (plan, draft, edit, headings, caption) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.80–81 |
+| Designing your own pamphlet (front page, back page with phone/address/e-mail) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed pp.30–31 |
+| Designing a pamphlet about an animal (planner, front/back page) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.114 |
+| Factual writing: the article about tigers (a lot of the information is factual) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.30 |
+| Charting facts by quality/habit/eating for a factual text (elephants: "They have a long trunks" error spotting) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.31 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

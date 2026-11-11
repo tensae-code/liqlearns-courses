@@ -376,3 +376,57 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 28:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 29:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 30:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 31:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 32:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 33:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 34:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 35:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 36:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 37:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 38:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 39:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 40:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 41:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 42:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matching capital letters to small letters; naming picture groups (fruit/cats/plants/cars/dogs/clothes) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS70, printed p.13 |
+| Same-sound sorting: words that look different but sound the same (paint/tray, teach/peach, cloud/down sets) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS111, printed p.96 |
+| Odd-picture-out by category + tracing who has which pet | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS35, printed p.71 |
+| Open/closed opposites + letter m writing (umbrella/bus/run/raincoat) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS18, printed p.37 |
+| Opposites set 1 (day/night, young/old, slow/fast, short/tall, small/big, heavy/light) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS30, printed p.60 |
+| Opposites set 2 (hot/cold, front/back, long/short, soft/hard, wet/dry, asleep/awake) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS30, printed p.61 |
+| Punctuating sentences; opposites matching (tall/short, up/down, big/small, happy/sad, front/back, hot/cold) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS70, printed pp.12–13 |
+| Same-sound sorting: ea as in eat vs ea as in head (tea/seat/meat vs ready/weather/bread sets) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS78, printed p.28 |
+| Punctuating with capital letter + full stop or question mark; synonyms matching (little/small, correct/right, a lot/plenty, speak/talk, lost/missing, pretty/beautiful) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS86, printed pp.46–47 |
+| Vowel-sound wheels: grouping words with the same vowel sound and spelling (out/put, head/eat families) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS94, printed p.63 |
+| Opposites revision matching | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS102, printed p.81 |
+| Same-vowel sorting (tube/crazy/cute/shady; squash/cushion/swamp sets) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS123, printed p.125 |
+| Listing foods under Fruit / Vegetables headings | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS17, printed p.35 |
+| Homophones in sentences: see/sea, their/there (write a sentence with each to show the meaning) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS70, printed p.13 |
+| Sorting animals: Wild / Farm / Domestic headings (hens, rhino, hamster…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS5, printed p.10 |
+| Opposites matching (hot/cold, win/lose, sunny/rainy, happy/unhappy, noisy/quiet) + writing sentences with three pairs | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS7, printed p.15 |
+| Antonyms matching (immediately/accidentally/flammable/toxic/quick opposites) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.79 |
+| Synonym quiz using a dictionary (tired→exhausted, humid, beautiful) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.101 |
+| Synonyms defined: words with the same or nearly the same meaning | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.9 |
+| Matching bold words with meanings nearly the same — synonyms in use | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.22 |
+| Antonyms defined: words opposite in meaning (bad/good) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.39 |
+| Finding synonyms in a Mandela passage + matching phrases with their meanings (come crawling back; in the right…) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.13–15 |
+| Opposites of underlined words in simple sentences | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.71 |
+| Closest-meaning circling (synonyms) + writing words in your dictionary (heading/title/caption parts) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.35 |
+| Synonyms: words with the same meanings; use them to make language more vivid (mouse is small/tiny/little) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.41 |
+| Synonym matching (preferred/enormous/halfway/gets better/chilly ↔ favourite/massive/middle/improves/cold) + antonym matching | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.30 |
+| Homophones taught: words that sound the same but are spelled differently and have different meanings (tail/tale in context) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.25 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

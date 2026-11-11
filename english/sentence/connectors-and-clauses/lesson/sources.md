@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -162,10 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 20 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya,
-Indonesia, India, Greece, Mongolia, North Macedonia,
-Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan,
-Sudan, Yemen, Iraq, Armenia).** Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 21 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa).** Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -419,3 +416,47 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Grammar — complex sentences with adverb clauses of time | Vietnam, Tiếng Anh 8 (Global Success), Unit 7, printed p.72 |
 | Grammar — adverbial clauses of concession, result and reason | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
 | Compound sentences — the unstocked half of this unit's grammar line (the to-infinitive/bare infinitive half was stocked in 2026; named in sweep flag 7) | Vietnam, Tiếng Anh 10 (Global Success), Unit 3, printed p.28 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 35:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 36:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 37:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 38:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 39:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 40:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 41:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 42:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 43:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 44:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 45:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Giving a gift with a reason: "I will give the umbrella to my teacher because…" | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 1, printed p.73 |
+| Sentence joining with because: matching halves (Pam ate her lunch because she was hungry) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS100, printed p.77 |
+| Sentence building with because: matching halves (He did not go to school because…) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.23 |
+| Sentence joining revision + circling oi/oy words | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS2, printed p.5 |
+| Complex sentences taught: complex sentences have more than one verb — underline verbs, join sentence pairs | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.12 |
+| Compound sentences taught: join two simple sentences with a conjunction to form a compound sentence | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.27 |
+| Joining sentences with joining words (and/but-type middle column) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.43 |
+| Conjunctions revision: and adds, but shows contrast… | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.51 |
+| am/are/is revision gap-fill + joining sentence pairs with and/because/so/but | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.84–85 |
+| Clauses taught: a clause has a subject and a predicate; two types — independent clauses… | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.129 |
+| Joining sentences with middle-column joining words | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.29 |
+| Joining sentences with and/because (He did not come to school. He was sick. → …because…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.97 |
+| Joining simple sentences to make compound sentences | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.35 |
+| Noun, adjectival and adverbial phrases: underline each phrase and name its kind | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.39 |
+| Joining sentences using conjunctions in brackets; replacing proper nouns with pronouns | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.63–64 |
+| Complex sentences with conjunctions (and/but/because/so) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.32 |
+| Joining sentences with conjunctions and underlining the verbs | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.35 |
+| Joining simple sentences into complex ones with and/because (The cat ate a mouse. The cat ate some cheese.) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.44 |
+| Joining sentences revisited: conjunctions are joining words; without them speech and writing would… (join: The principal was strict. The principal was kind. / Sam likes coffee. Ann likes tea.) | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.15 |
+| Conjunctions: joining words that connect or join phrases or sentences | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.37 |
+| Conjunctions worked in the theme | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

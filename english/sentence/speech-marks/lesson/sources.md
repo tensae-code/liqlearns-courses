@@ -137,3 +137,34 @@ The 2026-11-08 re-verification sweep re-read all 13 of Yemen's held English book
 |---|---|
 | Speech marks punctuation (in the serial story “The snake”, episode 1) | Yemen — *English Course for Yemen*, Pupil's Book 3 (Grade 9), printed p.14 |
 | The semi-colon — a language-study box on using “;” to join closely related statements, with punctuation practice (“Punctuate these statements. Use a semi-colon if you can.”) | Yemen — *English Course for Yemen*, Workbook 5 (Grade 11), printed p.88 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 12:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 13:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 14:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 15:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 16:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 17:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 18:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Direct speech set out: Ann says, "I want to see the Big Five." / Lebo asks, "Can I go up the mountain?" | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.73 |
+| More direct speech practice (Peter says, "…", Jabu says, "…", Bongi says, "…") | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.85 |
+| Writing what the lion and mouse said inside inverted commas | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.106 |
+| Speech-bubble story: Play safe (a stranger offers sweets: "If you come with me I will give you these sweets") + writing the story's ending | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS71, printed p.14 |
+| Picture story: We see an accident (filling the driver's last speech bubble) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS89, printed p.52 |
+| Rewriting speech as direct speech with speech marks ("You are so boring, come and play," the grasshopper said) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS124, printed p.125 |
+| Retelling the lion and the mouse with one event from each part; writing the mouse's speech ("Please don't eat me, Mr Lion. I will help you one day") | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed pp.46–47 |
+| Direct speech: writing the words spoken by each character from speech bubbles | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.10 |
+| Filling inverted commas to show the words a person is saying | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.16 |
+| Quotation marks taught: they go before and after the exact words of a speaker | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.13 |
+| Dialogue punctuation choice (. ? " " ! ,) in sentences ("We can talk about costumes hair and make-up while we eat she said") | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.24 |
+| Story discussion: characters, setting and events (Tom and the new boy) + filling speech bubbles in a cartoon story | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet p.30) |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

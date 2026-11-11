@@ -1,6 +1,6 @@
 # Sources — Inviting
 
-countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam
+countries: Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -73,8 +73,7 @@ covers the 6th Year book only).
 | An email invitation — reading one and writing one | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.63–64 |
 | Invitations as a named writing kind, among short notes, dialogues, descriptive paragraphs and story writing | Pakistan, *English 4*, contents writing strands |
 
-**Acceptance count: taught in 13 countries (Albania, Bolivia,
-Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam).** Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
+**Acceptance count: taught in 14 countries (Albania, Bolivia, Malaysia, Nepal, Syria, Mauritania, Nicaragua, Pakistan, Sierra Leone, Venezuela, Yemen, Iraq, Vietnam, South Africa).** Yemen joins with inviting and making arrangements, accepting and refusing, and a wedding invitation across its Grades 7, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Albania — teacher-guide
 evidence — stocks the written party invitation, with its
 time, date and place, inside its birthday chapter. Syria's York Press Grade 5
 course teaches the whole spoken exchange — plan,
@@ -173,3 +172,17 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Project — organising music shows (a Traditional Music Night invitation) | Vietnam, Tiếng Anh 7 (Global Success), Unit 4, printed p.40 |
 | Everyday English — inviting and accepting invitations | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
 | Everyday English — making and responding to invitations | Vietnam, Tiếng Anh 10 (Global Success), Unit 7, printed p.76 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 12:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Role play: welcoming a new boy or girl; class survey of favourite books (most/least) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 2, printed p.16 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

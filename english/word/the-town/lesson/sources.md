@@ -578,3 +578,48 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Culture/project — initiatives to preserve heritage around the world; proposing ways to preserve a type of heritage | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
 | Words related to urbanisation | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed p.50 |
 | Culture/project — urbanisation in Malaysia and Australia; research on an urban area in Viet Nam | Vietnam, Tiếng Anh 12 (Global Success), Unit 4, printed pp.57–59 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 69:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 70:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 71:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 72:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 73:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 74:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 75:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 76:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 77:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 78:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom words (school bag, lunchbox, crayons, pencil, glue, scissors, ruler, eraser) | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), WS10, printed pp.20–21 |
+| Matching words to road signs (children crossing, turn right/left, no entry, no bikes, stop) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS102, printed p.79 |
+| Picture talk about a scene + naming pictured things with stickers (cat/swing/tree/sun/dog/kite) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS1, printed p.3 |
+| Arriving at school words (car/bag/boy/school) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS16, printed p.32 |
+| Road safety words (robot/traffic light, whistle, safety vest, scholar patrol, stop, zebra crossing) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS18, printed p.36 |
+| Reader: Driving in the city (Johannesburg; Ben jumps off the bus after a striped cat) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 2, printed p.82 |
+| Back-to-school picture talk + classroom words (book/bookshelf/table/chair) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), Theme 1 WS1, printed p.2 |
+| Picnic words (kite/bird/blanket/newspaper/basket) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS13, printed p.27 |
+| Places in town picture (hospital/school/station/library/bakery) + what you can get at each | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS19, printed p.38 |
+| Town people and places (policeman/baker/butcher/butchery/librarian/spaza shop) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS19, printed p.39 |
+| Places list (school/clinic/hospital/taxi rank/bus stop/library/supermarket/greengrocer/bakery/pharmacy) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS20, printed p.40 |
+| Library picture talk (taking a book home; wanting a book about frogs/tennis; no eating sign) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS5, printed p.10 |
+| Road signs matching (children crossing, stop, animals crossing, bus stop, yield, rocks falling, no entry, hospital) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS12, printed p.25 |
+| Circus words (lion/seal/popcorn/elephant/candy floss/clown) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS15, printed p.31 |
+| Reader: Town life (Jim's family moves to town for father's new job) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS81, printed p.36 |
+| Map of South Africa: pointing to the 9 provinces, naming your province | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS94, printed p.62 |
+| Completing a provinces map (six missing provinces cut and pasted) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS98, printed p.72 |
+| World map work: continents and oceans (North/South America, Atlantic, Europe, Asia, Pacific, Africa, Indian, Oceania, Antarctica, Arctic) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), printed pp.128–129 |
+| Places in a new town: what you can get at fire station/airport/hospital/library/police station/bakery | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS23, printed p.46 |
+| There is sentences about town places (There is a police car at the police station…) + "I am hungry — where do I go?" purpose matching | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS23, printed p.47 |
+| Map data: provinces by population (largest/smallest, 5,4 million…) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.52 |
+| Text: Pretoria (northern Gauteng, administrative capital, Jacaranda City) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.15 |
+| Africa travel: identifying countries and planning the order of travel | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.16 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

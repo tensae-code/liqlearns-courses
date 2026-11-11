@@ -413,3 +413,25 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Other people's possessions "He / She has … / They have …" | Vietnam, Tiếng Anh 3, Volume 2 (Global Success), Unit 17, printed p.46 (Book Map) |
 | Possession "Whose … is this? — It's …" (crayon, glue stick, pencil sharpener, set square) | Vietnam, Tiếng Anh 5, Volume 1 (Global Success), Unit 8, printed p.56 (Book Map) |
 | Grammar — possessive case; prepositions of place | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 2, printed p.18 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 44:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 45:** *English First Additional Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 46:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 47:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Whose clothes: saying who clothes belong to (mother/father/brother/sister/baby/grandma) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS14, printed pp.28–29 |
+| Possessive 's and plurals in talk: "These are Sam's socks"; cats/sweets/socks/sandals | South Africa, English First Additional Language (FAL), Grade 1 Workbook 2 (Rainbow Workbooks), WS2, printed p.5 |
+| "Whose pen/book/jersey is this? It is my pen/book/jersey" + asking about 5 things | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS9, printed p.18 |
+| Possessive 's: "Whose are these? These are Sam's socks" (cats/balls/socks/books) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS18, printed p.37 |
+| Possessive apostrophe taught: adding 's to show belonging (Thabo's bike, Jim's book, Ann's mother, Bongi's dog) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.119 |
+| Plural possessive apostrophe: apostrophe after the noun for more than one owner (the girls' books, my sisters' books) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.123 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

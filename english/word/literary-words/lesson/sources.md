@@ -1,6 +1,6 @@
 # Sources — Literary words
 
-countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam
+countries: Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -102,9 +102,7 @@ verification sweep.
 | Personification named and defined as a poetic literary device — "Personification is a poetic literary device" | Pakistan, *English 7*, Unit 9, printed p.79 |
 | Literary devices as the unit's grammar work (the key to its spot-the-error exercise is printed on the same page) | Pakistan, *English 12*, Unit 9, printed p.71 |
 
-**Acceptance count: taught in 19 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran,
-Mauritania, Mexico, India, Greece, Nicaragua, Pakistan,
-Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 20 countries (Egypt, Ghana, Jordan, Sierra Leone, Bangladesh, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Rwanda, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with famous writers, a famous Shakespeare play, geometry definitions and the Grade 12 science definitions, stocked as word sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 4's riddle boxes and Primary 6's music words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced arts and music lessons, their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Latin expressions and figurative meanings in Class 11's note-work, and literary devices and metaphorical expressions in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the word sets of its Grade 10 travel reading and Grade 11 art-and-culture reading (stocked 2026-11-09 by the re-verification sweep merge). Egypt names the five kinds in a full literature unit and studies a bound-in novel by chapters. Ghana's JHS curriculum analyses literature by plot, setting and characters and stocks the device set (curriculum evidence, worded as such). Sierra Leone teaches the simile/metaphor test outright and adds irony, euphemism and repetition. Jordan stocks film genres and a set poem about loving words themselves. Bangladesh names the literary kinds (satire, tragedy, comedy) off its senior book's opening folk tale and reads literature by theme — dreams, peace — in the same book (added 2026-11-08 by the re-verification sweep).
 Mauritania names the writing genres in its Grade 13 book
 (stocked 2026-11-09 by the Mauritania re-verification sweep
 merge). Mexico's Grade 7 book matches its women's-history word set — suffrage, empowerment, feminism, patriarchy, equity — to its definitions (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its Literature Focus drama terms (Grade 11) and "The Swing" discussion (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 7, 9 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
@@ -299,3 +297,25 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Vocabulary — aspects of languages; English language learning | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
 | Speaking — talking about borrowed words | Vietnam, Tiếng Anh 9 (Global Success), Unit 9, printed p.92 |
 | Phrases related to life stories | Vietnam, Tiếng Anh 12 (Global Success), Unit 1, printed p.10 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 24:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 25:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 26:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 27:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 28:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound words (onomatopoeia): matching tick tock / meow / cheep / toot toot / drip drip / ring ring to pictures | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.29 |
+| Alliteration taught: characters given names with the same first letters; using alliteration in your play's poster | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 7–8, printed p.124 |
+| Alliteration defined: words close together use the same sound/letter | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.90 |
+| Crossword clues (names of either a figure of speech or a part of speech) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.6 |
+| Alliteration tongue twister read (Tricky Tristan tracked a trail of tiny turtles…) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), Term 3–4 (embedded text fragment, PDF p.55) |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

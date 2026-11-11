@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -96,9 +96,7 @@ verification sweep.
 | A letter from Managua — a reading that carries comparatives | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 10 |
 | Writing a greeting card as a named writing task | Pakistan, *English 2*, contents writing strand |
 
-**Acceptance count: taught in 17 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India,
-Nicaragua, Pakistan, Palestine, Sierra Leone,
-South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
+**Acceptance count: taught in 18 countries (Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with a birthday letter and two postcard writings from its Grades 8 and 9 books (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 3's mailbox poem and thank-you letter, Class 5's labelled model letter, Class 10's listened-to letter and Class 12's letter of news (stocked 2026-11-09 by the India re-verification sweep merge). Egypt models the
 postcard whole and frames the friendly letter in five
 parts; Saudi Arabia and Mongolia both teach from a model
 card read first — Jeddah and Istanbul — Mongolia adding
@@ -327,3 +325,77 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Writing an email about leisure activities with friends | Vietnam, Tiếng Anh 8 (Global Success), Unit 1, printed p.8 |
 | Writing an email about changes in your family | Vietnam, Tiếng Anh 9 (Global Success), Unit 6, printed p.60 |
 | Writing a short message | Vietnam, Tiếng Anh 11 (Global Success), Unit 1, printed p.8 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 22:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 23:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 24:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 25:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 26:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 27:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 28:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 29:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 30:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 31:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 32:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 33:** *English First Additional Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 34:** *English Home Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 35:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making a get-well card | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS98, printed p.70 |
+| Writing special messages to friends (best-friend messages in each other's books) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS68, printed p.8 |
+| Reading a party invitation (date/time details) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS91, printed p.56 |
+| Completing your own party invitation (turning age, date, start/end time) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS92, printed p.58 |
+| Reading a letter: a friend's letter with address and date (24 Crest Road, Seaville, 20 August) + multiple-choice comprehension | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS97 (Theme 7), printed p.70 |
+| Writing a birthday message on a card | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS113, printed p.105 |
+| Making a best-friends card with a message | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS116, printed p.111 |
+| Sequencing a doctor visit + making a get-well card (draw and write a message) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS10, printed p.20 |
+| Reading a birthday invitation (Dear Ken, please come to my party, I am turning 8, 23 August) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS22, printed p.44 |
+| Completing your own invitation (Dear…, When, Time, Where, Phone, From) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS22, printed p.45 |
+| Reading a letter: Ann writes to Nomsa from her granny's (holidays, missing her, what she will show her) + questions (who wrote, to whom, where, what…) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS23, printed pp.46–47 |
+| Writing a letter to a friend with a frame (Dear…, I am at…, I play…, When I come back I will show you…, Your friend…) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS24, printed p.48 |
+| Making a Christmas/holiday card | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS32, printed p.65 |
+| Making a birthday card with a message; writing your own birthday wish as a diary entry (Dear diary…) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.8–9 |
+| Making a get-well card | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.42 |
+| Reading an invitation: Grandfather's birthday picnic (What/Who/When details) + survey questions (name, where do you live…) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.56–58 |
+| Reading a postcard (Gold Reef City postcard to Dumi) + questions | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.90 |
+| Sentence matching + writing your own sentences describing a person or place; writing postcards to two friends | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.92–93 |
+| Making a card for a friend, one card carrying a short poem | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS68, printed p.9 |
+| Reading a letter with address/date (24 Jupiter Street, Marsville, 14 August 2026; news about karate) + questions | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS73, printed p.18 |
+| Addressing an envelope to yourself | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS86, printed p.46 |
+| Reading a letter from a friend living in South Africa (123 Rose Street, 13 October; Lee from elsewhere, six months here) + questions | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS105, printed p.86 |
+| Writing a thank-you card for your teacher; underlining verbs | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS114, printed p.104 |
+| Reading a sick-note letter (Spotty Ann: chicken pox letter to her teacher, 25 Berry Road, 19 October) + MCQ on purpose | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS115, printed p.106 |
+| Writing a get-well letter to Ann with school news | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS116, printed p.109 |
+| Sending a postcard as Sam or Sara (what you did, why you enjoyed/did not enjoy it) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS118, printed p.112 |
+| Reading a letter: Ann writes to Nomsa (best friend, come and visit on Saturday, play with dolls, ride…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS16, printed p.32 |
+| Letter questions (who wrote, what will they do, where, what will they eat, what at the lake) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS16, printed p.33 |
+| Writing an invitation card to come and play (date, my address is, we will play, from) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS17, printed p.35 |
+| Writing a birthday card | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS17, printed p.35 |
+| Writing a postcard about the island trip (with address lines: name, house number and street) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS25, printed p.50 |
+| Reading a letter Ann wrote from the mountain trip | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS26, printed p.52 |
+| Writing a letter to your family about the trip (places visited, what you saw; Dear… Love from…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS29, printed p.58 |
+| Reading a letter about a fishing trip (27 Lake Road, New Town, 6 September 2015, Dear John…) + questions (who wrote, to whom, date, why a pot and pan) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS13, printed pp.26–27 |
+| Writing a letter with your news (things at school and home) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS14, printed p.28 |
+| Fancy-dress party story (Jabu turned nine) + reading the invitation + questions (whose, how old, where, how long, what to wear) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS16, printed pp.32–33 |
+| Writing a letter about what you did last weekend (address: 56 Mandela Street, Cape Town) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS34, printed p.69 |
+| Initial blends gap-fill (str/cr/dr/gr/br: grapes/jump/bridge sets) + writing Christmas cards | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS36, printed p.73 |
+| Reading an invitation (Environmental Club insect trip) + underlining nouns and naming their type | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.24–25 |
+| Writing a letter as Jojo to a friend at his old school (address, mind map) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed pp.92–93 |
+| Planning a letter about your own pet | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.72 |
+| Describing where you live on a mind map (languages I speak, type of home…) + writing your address, date, greeting and ending (letter layout) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.76–77 |
+| Poster/invitation: Environmental Club insect trip (what trip, on what day and time) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.90–91 |
+| Writing a letter replying to Carven (looking forward to the visit) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.18 |
+| Correcting a postcard (Merriam wrote a postcard to Onicca but made mistakes — underline and correct) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.27 |
+| Holiday letter reading: 27 Apple Road, New Town, 0301, 20 September 2015, Dear Dan (lucky — went to Cape Town) | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed pp.24–25 |
+| Writing a letter to a friend (news from home/school; fill address, date, Dear…, first news item, second news item, end…) | South Africa, English Home Language (HL), Grade 6 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.27 |
+| Writing a letter to a friend (news at home/school or other interesting activities) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.16 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

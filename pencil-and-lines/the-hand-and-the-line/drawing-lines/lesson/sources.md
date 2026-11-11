@@ -197,3 +197,17 @@ here.
 **Yemen checked 2026-11-04 - not stocked.** No held Yemen book teaches drawing lines or any pre-writing line work. Workbook 1's tracing is of digits and letters (handwriting inside the alphabet and numbers work), and a course that starts at Grade 7 has no pre-writing stage, so nothing is stocked.
 
 **Afghanistan checked 2026-11-04 — not stocked.** No line-drawing teaching exists in any of the nine held books. Grade 4's ruled-line work is letter copying; Grade 5's shapes unit (Unit 12, printed p.125) names line, circle, triangle, rectangle, oval and diamond as vocabulary to name and describe, not lines to draw; Grade 12's calligraphy unit is about scripts and handwriting. Nothing is stocked.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 1:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pencil control: tracing lines, drawing strings/stems/paths (balloons, sweets, bee/butterfly mazes) | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), WS4–5, printed pp.9–11 |
+
+South Africa was already counted in this lesson; the row above completes its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

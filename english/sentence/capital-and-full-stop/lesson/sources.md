@@ -359,3 +359,51 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | The apostrophe's placing — before and after s | Iraq — *English for Iraq*, Grade 8 Student's Book, Unit 1 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 49:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 50:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 51:** *English Home Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 52:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 53:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 54:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 55:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 56:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 57:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 58:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 59:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 60:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 61:** *English First Additional Language, Grade 6 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sequencing pictures and filling missing sentence words + full stop at the end of a sentence | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS98, printed p.71 |
+| Rewriting sentences with capital letters and correct punctuation (. ? ! ,) | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 3, printed p.29 |
+| Punctuating sentences with capital letters, full stops and question marks | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 7, printed p.121 |
+| Punctuating sentences; opposites matching (tall/short, up/down, big/small, happy/sad, front/back, hot/cold) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS70, printed pp.12–13 |
+| Punctuating with capital letter + full stop or question mark; synonyms matching (little/small, correct/right, a lot/plenty, speak/talk, lost/missing, pretty/beautiful) | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS86, printed pp.46–47 |
+| Sentence types taught: telling sentence ends ., question ?, excitement ! — complete and label sentences | South Africa, English Home Language (HL), Grade 2 Workbook 2 (Rainbow Workbooks), WS106, printed p.89 |
+| Unjumbling words into sentences with capital letter and full stop (it is raining; I am wet; the bus left) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS28, printed p.57 |
+| Reader: Teacher has a birthday + answering questions in full sentences (capital start, full stop end — the rule is stated on every question page of this book) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.6–7 |
+| Filling correct punctuation: question mark, exclamation mark or full stop | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.21 |
+| Punctuating sentences (do you know the way to town / stop before you fall / ann's birthday is in july) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.107 |
+| End punctuation choice: ? ! or . at sentence ends | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS74, printed p.21 |
+| Capital-letter nouns: underlining nouns that need capitals (bongi, mandla, october, durban, monday, polokwane, limpopo vs chair/cake/book/flower/pen/bike) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS86, printed p.47 |
+| Punctuating sentences with capitals and marks (sam and nomsa went to robben island on wednesday) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS27, printed p.55 |
+| Completing y words (fl__/cr__/sp__/fr__/dr__/sh__) + punctuating (ann and nomsa wanted to cry) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS29, printed p.59 |
+| Punctuating a paragraph: capitals for names, commas between list items | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.31 |
+| Sentence types revision: statements end with a full stop; questions… | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.50 |
+| Punctuating mixed sentences (don't cross in front of the truck / whose jersey is this / wow look at the big lion / peter and sam went to the sea in july) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.111 |
+| End punctuation: ? ! or . (Help, the house is on fire / Six strong firemen came…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.13 |
+| Filling end punctuation ? ! . | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.62 |
+| Biography passage: Banjo (mr banjo lived in the western cape… — punctuating it with capitals and full stops) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed pp.21–23 |
+| Punctuating an unpunctuated story (capitals…) | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.67 |
+| Capital letters for proper nouns: rewriting (justin bieber held two concerts in south africa… — capital letters are used for all proper nouns) | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 9–10, printed p.55 |
+| Similes made up; a recipe corrected; adjectives used in sentences; a plural exercise completed; a punctuation activity completed | South Africa, English First Additional Language (FAL), Grade 6 Workbook 2 (Rainbow Workbooks), contents p.5 (worksheet p.32) |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

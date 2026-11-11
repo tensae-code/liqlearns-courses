@@ -562,3 +562,26 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Frequency of healthy habits "How often does he / she …?" (every day, once a week, twice a week, three times a week) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 14, printed p.24 (Book Map) |
 | How a story character acted "How did …? — He / She …" with manner adverbs (cook well, run fast, sing beautifully, work hard) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 17, printed p.46 (Book Map) |
 | Grammar — adverbs of frequency; present simple for future events | Vietnam, Tiếng Anh 8 (Global Success), Unit 8, printed p.82 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 70:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 71:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 72:** *English Home Language, Grade 5 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 73:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Frequency quiz: Sometimes I… (how often you do things) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.50 |
+| Using adverbs: adverbs describe how something is done, many end in -ly; gap-fill | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.126 |
+| Adverbs vs adjectives in sentences (make sentences more interesting) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.127 |
+| Adverbs of how vs when: deciding whether the underlined adverb tells how or when | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.132 |
+| Adverbs of degree taught: they tell to what extent something happens (too/very/nearly) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 5–6, printed p.43 |
+| Circle verb / underline adverb; how or why the action takes place | South Africa, English Home Language (HL), Grade 5 Workbook 2 (Rainbow Workbooks), Wk 9–10, printed p.83 |
+| Adverbs matching: match each sentence with the correct adverb (We play soccer every day ↔ daily/weekly-type adverbs) | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.20 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

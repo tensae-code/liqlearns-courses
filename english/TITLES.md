@@ -63,6 +63,9 @@ its own subtitle folder with its own lesson + questions):
   re-verification sweep merge — **Unit 2, The Alphabet**) ·
   print-concepts-and-book-handling (added 2026-11-11 by the
   Sierra Leone re-verification sweep merge — **Unit 2, The
+  Alphabet**) ·
+  left-and-right · odd-one-out (added 2026-11-11 by the
+  South Africa re-verification sweep merge — **Unit 2, The
   Alphabet**)
 - Phonics → blending-sounds · two-letter-sounds · blends ·
   word-families ·
@@ -70,7 +73,10 @@ its own subtitle folder with its own lesson + questions):
   re-verification sweep merge — **Unit 3, Sounds Together**) ·
   syllables-and-word-parts · dictation (added 2026-11-11 by
   the Sierra Leone re-verification sweep merge — **Unit 3,
-  Sounds Together**)
+  Sounds Together**) ·
+  loud-and-soft-sounds (added 2026-11-11 by the South
+  Africa re-verification sweep merge — **Unit 3, Sounds
+  Together**)
 - Conversation → hello-and-your-name · how-are-you ·
   good-morning-and-good-afternoon · introducing-a-friend ·
   whats-his-and-her-name · how-old-are-you ·
@@ -170,7 +176,10 @@ its own subtitle folder with its own lesson + questions):
   government-and-politics-words · space-and-astronomy-words ·
   religions-and-festivals-words (added 2026-11-11 by the
   Armenia re-verification sweep merge — **Unit 7, Words
-  for the World**)
+  for the World**) ·
+  safety-at-home · my-body-belongs-to-me · stereotypes
+  (added 2026-11-11 by the South Africa re-verification
+  sweep merge — **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -263,7 +272,10 @@ its own subtitle folder with its own lesson + questions):
   2026-10-27 — **Unit 16, The Essay**)
 - Story → the-story · telling-a-story-back ·
   the-big-reading (built 2026-10-27 — **Unit 17, Stories**;
-  with this, all 17 units of the English path are built)
+  with this, all 17 units of the English path are built) ·
+  riddles (added 2026-11-11 by the South Africa
+  re-verification sweep merge — **Unit 41, Stories and
+  Poems in Detail**)
 **Catch-up build 2026-11-07 (110 lessons, Units 19–44 plus
 additions inside Units 2, 3, 5, 7, 8 — full map in
 CATCH-UP-PLAN.md and CURRICULUM.md):** Sentence → question-tags ·

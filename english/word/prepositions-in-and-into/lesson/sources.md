@@ -1,6 +1,6 @@
 # Sources — Prepositions In and Into
 
-countries: Albania
+countries: Albania, South Africa
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions "in" and "into", and their different uses | Albania, Akelius A2 Guide, Chapter 33 "Sports," grammar focus, printed p.21 (PDF 24) |
 | "into" for a movement ending inside, in the chapter's own sports examples — throw/kick the ball into the goal/hoop; "You kick a ball" | Albania, Chapter 33, outcomes and Language structures, printed pp.21–22 (PDF 24–25) |
 
-**Acceptance count: taught in 1 country (Albania).**
+**Acceptance count: taught in 2 countries (Albania, South Africa).**
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -36,3 +36,33 @@ was stocked nowhere. Under the everything-goes-in ruling
 entry is teacher-guide evidence and is worded as such
 everywhere it is used. Searchable tag: "in and into" —
 the focus's own name in the book.
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 2:** *English Home Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 3:** *English First Additional Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 4:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 5:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 6:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 7:** *English Home Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 8:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 9:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Position words in/on/under/next to/inside/behind/in front of/in the middle (children and a box/chair) | South Africa, English Home Language (HL), Grade 1 Workbook 1 (Rainbow Workbooks), WS6, printed pp.12–13 |
+| Position words in front of/on/behind/next to for where chicks are | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS10, printed p.21 |
+| Word work o-words (hot/not/lot/on/socks/cobra) + filling on/in/under/in front of/behind for where the monkey is | South Africa, English First Additional Language (FAL), Grade 2 Workbook 1 (Rainbow Workbooks), WS24, printed p.49 |
+| Prepositions in/on/next to/under/in front of to complete circus sentences | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS16, printed p.33 |
+| Prepositions set: before/inside/outside/after/between/underneath | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.11 |
+| Circling prepositions in sentences | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.76 |
+| Prepositions of place revision list in sentences | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS108, printed p.93 |
+| Prepositions in a picture story (where things are in relation to each other) | South Africa, English Home Language (HL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.22 |
+| Where animals are: sentences with on/next to/behind/under | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.51 |
+| Prepositions taught: words that show the relationship of one thing to another | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.45 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

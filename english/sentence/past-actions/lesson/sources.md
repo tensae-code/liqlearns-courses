@@ -692,3 +692,47 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Past holiday questions "Did you …? — Yes, I …" about a family trip | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 11 "Family time", printed p.6 |
 | Family holiday activities "What did your family do in …? — We …" (buy souvenirs, collect seashells, eat seafood, see some interesting places, take a boat trip around the bay, walk on the beach) | Vietnam, Tiếng Anh 5, Volume 2 (Global Success), Unit 11, printed p.6 (Book Map) |
 | Grammar — past simple | Vietnam, Tiếng Anh 7 (Global Success), Unit 3, printed p.28 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 83:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 84:** *English Home Language, Grade 2 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 85:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 86:** *English Home Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 87:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 88:** *English First Additional Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 89:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 90:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 91:** *English First Additional Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 92:** *English Home Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 93:** *English First Additional Language, Grade 6 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Past -ed: spotting -ed words in sentences (rushed/walked/washed/jumped) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS106, printed p.86 |
+| Filling missing -ed verbs in sentences (walked/chased/jumped/helped/washed) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS110, printed p.95 |
+| Changing sentences from present tense to past tense | South Africa, English Home Language (HL), Grade 2 Workbook 1 (Rainbow Workbooks), Wk 8, printed p.68 |
+| Past -ed word work (walked/dressed/cooked/talked/brushed/baked/played/danced/raked) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS24, printed p.49 |
+| Matching present and past tenses (talk/talked, dance/danced, drive/drove, cry/cried) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.51 |
+| Writing sentences in the past tense starting with Yesterday (will eat → ate, played, drove) | South Africa, English Home Language (HL), Grade 3 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.59 |
+| Completing sentences with verbs, then naming present or past tense | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS84, printed p.43 |
+| Drawing/writing what you did last weekend (4 pictures + sentences) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS100, printed p.76 |
+| Irregular past taught: "You can't form the past tense of these verbs by adding -ed" (different words needed) + circling the correct form | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS102, printed p.81 |
+| Verb race: present→past pairs (dig/dug, give/gave, draw/drew, go/went, drive/drove, have/had, eat/ate, keep/kept) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS104, printed p.85 |
+| Drawing 3 things you did last weekend + a sentence per picture | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS4, printed p.8 |
+| Writing sentences in the past tense with was/went/walked (It is cold → Yesterday it was…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS4, printed p.9 |
+| Tense rewriting: rewrite sentences in the past tense, then in the future tense (Today I am meeting a dragon → Yesterday… / Next week…) | South Africa, English First Additional Language (FAL), Grade 3 Workbook 2 (Rainbow Workbooks), WS26, printed p.53 |
+| Rewriting sentences starting with Yesterday (rides→rode, looked, went, crossed, saw, took) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.9 |
+| Verb race: present/past tense tracks | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.14 |
+| Writing 5 sentences about last weekend + circling past verbs; many/much with countable/uncountable (Getting it right page) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed pp.15–16 |
+| Rewriting sentences starting with Yesterday (I watch TV / I play soccer / I walk to school…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 5–6, printed p.41 |
+| Past tense taught: usually add -ed; some verbs change completely (run–ran) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 1–2, printed p.17 |
+| Writing past-tense sentences about Mandela starting with given words | South Africa, English First Additional Language (FAL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.45 |
+| Tense rewriting: present → future → past (It is hot. Tomorrow it will… / Yesterday it was…; It is raining…) | South Africa, English Home Language (HL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed p.19 |
+| Past tense circling + matching present↔past lines | South Africa, English First Additional Language (FAL), Grade 6 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.8 |
+
+South Africa was already counted in this lesson; the rows above complete its stock.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.

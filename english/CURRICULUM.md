@@ -71,6 +71,8 @@ sounds.*
   and which way print runs, from Sierra Leone's Primary 1–3
   lesson plans)
 
+- **Sweep addition (2026-11-11, South Africa re-verification sweep merge):** left-and-right ✅ (1 lesson — knowing your own left hand from your right: tracing both hands, counting the fingers, and your writing side and kicking side, from South Africa's Grade 1 HL Workbook 1) · odd-one-out ✅ (1 lesson — spotting the one picture in a row that is not like the others, and saying why, from South Africa's Grade 1 HL Workbook 1)
+
 ## Unit 3 — Sounds Together
 *End of unit: the learner can put sounds together to read a word.*
 - blending-sounds ✅ · two-letter-sounds ✅
@@ -87,6 +89,8 @@ sounds.*
   from Sierra Leone's Primary 1 plans; and dictation itself —
   listen whole, write exactly, check honestly — from its
   Primary 4 plans)
+
+- **Sweep addition (2026-11-11, South Africa re-verification sweep merge):** loud-and-soft-sounds ✅ (1 lesson — things named by the noise they make and sorted into loud sounds and soft sounds, from South Africa's Grade 1 HL Workbook 1)
 
 ## Unit 4 — First Words
 *End of unit: the learner can read whole little words.*
@@ -262,6 +266,8 @@ about the other person, and close the talk.*
   religions-and-festivals-words ✅ (1 lesson — the world
   religions and religious celebrations of Armenia's
   Grade 12, Topic 3, which no lesson housed)
+
+- **Sweep addition (2026-11-11, South Africa re-verification sweep merge):** safety-at-home ✅ (1 lesson — spotting dangers in a picture of a home and saying why each is dangerous, from South Africa's Grade 1 HL Workbook 1) · my-body-belongs-to-me ✅ (1 lesson — your body belongs to you; private parts are private; tell a trusted grown-up, taught by seven of South Africa's workbooks, Grades 1–6) · stereotypes ✅ (1 lesson — a fixed belief that everyone in a group is the same, defined and worked inside South Africa's Grade 4 HL play unit)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -639,6 +645,8 @@ their meanings, which split and which never split, and the
 three-word family.*
 - phrasal-verbs ✅ (catch-up build 2026-11-07 — 1 lesson,
   16 question items; filed under the Word title)
+
+- **Sweep addition (2026-11-11, South Africa re-verification sweep merge):** riddles ✅ (1 lesson — answering riddles by working their clues, and making your own, from South Africa's Grade 2 HL, Grade 3 HL and Grade 3 FAL workbooks)
 
 ## Unit 42 — Reading Like a Detective
 *End of unit: the learner can read between the lines and
@@ -1556,3 +1564,81 @@ cover; content complete); the series prints no
 irregular-verb table in any book although irregular
 past forms are required from Grade 5 on — a design gap,
 filed as such. **Vietnam: 16 of 16 read.**
+
+**South Africa merged 2026-11-11 (re-verification sweep):**
+all 24 held books — the DBE Rainbow Workbooks, English
+Home Language and English First Additional Language,
+Grades 1–6, Workbooks 1 and 2, every one a student
+workbook — were re-read in the sweep: **1,370 fresh
+items. 207 were already in the course; 1,163 were
+missing and are now stocked — 1,332 provenance rows
+in all, because dual-target items are stocked in each
+lesson they name — and nothing was excluded beyond
+the apparatus the diff names (national anthem and
+constitution pages, the minister's foreword, water-tips
+covers, sticker and cut-out sheets, the blank
+personal-dictionary pages at the backs of the Grade
+4–5 books, teacher sign/date lines and the COVID
+handwashing cover insert).** South Africa is newly
+counted in 66 lessons and was already counted in 46.
+Read depth stands as the sweep declares it: Grades
+1–3 and Grade 4 Home Language were read at
+page-digest level, the Grade 5–6 books at
+worksheet/theme level, and Grade 6 FAL Workbook 2 is
+scan-only, read from page renders and OCR — its
+counts are floors. **Seven new lessons were built:**
+left-and-right and odd-one-out (Unit 2),
+loud-and-soft-sounds (Unit 3), safety-at-home,
+my-body-belongs-to-me and stereotypes (Unit 7), and
+riddles (Unit 41). Two further "NEW LESSON NEEDED"
+topics already existed as lessons and were stocked
+there: contractions (5 items) in
+contractions-and-possessive-forms, and shapes
+(3 items) in word/shapes. Flags: (1) the course's
+claim that its Grade 6 HL lesson was the whole set's
+only present-perfect teaching, HL only, is FALSE —
+the tense is taught explicitly in Grade 4 FAL
+Workbook 1, printed p.55; the claim is corrected in
+the-present-perfect in all three places it stood.
+(2) The filing's flat verdict that Grade 3 still has
+"no reported speech" is not safe as written — Grade
+3 HL Workbook 1 carries reported-speech worksheet
+work at Wk 1–2, printed p.16, now stocked in
+reported-statements; the verdict itself is
+filing-side and is reported, not edited. (3) Seven
+older course claims resting on the scan-only Grade 6
+FAL Workbook 2 could be neither confirmed nor
+refuted by the sweep's partial OCR read; a dated
+verification note now stands in each of the eight
+files that carry them (note-making, the-essay,
+the-story, asking-yes-no-questions,
+using-the-dictionary, words-you-dont-know,
+joining-with-and-and-but, opening-and-closing), and
+the claims stand as unverified until the book is
+OCR'd whole. (4) Nouns page anchors corrected in
+word/nouns: the Grade 4 HL common-noun definition
+stands at printed p.7, not p.6 as first filed, and
+the collective-nouns pages are kept as a
+contents-spine citation, the teaching verified
+present in the book's text layer. (5) The filing
+header's "493 anchors, 485 passed" citation-check
+claim was not re-run by the sweep — filing-side,
+reported only. Book errors are carried
+taught-corrected: the Grade 6 HL Workbook 2
+future-perfect worksheet prints its rule with "the
+past tense" for the past participle (the correction
+already stood in future-perfect); a worksheet headed
+"Reported speech" in fact teaches direct-speech
+punctuation (the note already stood in speech-marks);
+Grade 5 HL Workbook 2's factual-writing chart prints
+"They have a long trunks" — the stocked point is the
+error-spotting itself; Grade 3 FAL Workbook 1 credits
+"How the Elephant Got Its Trunk" to "G. Kipling" —
+the author is Rudyard Kipling, noted on the
+ways-to-read row. South Africa's big-reading rows are
+short workbook readers, stories and fables stocked as
+plot summaries only; none is a complete book-length
+text and South Africa does not join the
+complete-text countries. **South Africa: 24 of 24
+read.** The English course now stands at **256
+lessons across 44 units**.

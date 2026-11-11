@@ -1,6 +1,6 @@
 # Sources — Giving directions
 
-countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam
+countries: Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa
 
 Every part traces to its book and page.
 
@@ -155,10 +155,7 @@ covers the 6th Year book only).
 | Following traffic rules (with letters and sounds) | Pakistan, *English 2*, Unit 5 (contents) |
 | Road Safety: traffic rules and making queues (with weak and strong forms of do/does and negatives) | Pakistan, *English 3*, Unit 5 (contents) |
 
-**Acceptance count: taught in 21 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia,
-Libya, Kuwait, Bolivia, China, Indonesia, Mauritania,
-Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan,
-Sudan, Venezuela, Iraq, Armenia, Vietnam).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
+**Acceptance count: taught in 22 countries (Saudi Arabia, Mongolia, Cambodia, Rwanda, Malaysia, Libya, Kuwait, Bolivia, China, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa).** Greece joins with road-safety and directions lessons from its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge).**
 Saudi Arabia teaches the exchange whole in one primary
 unit — the ask, both distance answers, how long, and the
 left/right landing. Mongolia works direction dialogues
@@ -339,3 +336,41 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Project — drawing a map of a neighbourhood and giving directions on it | Vietnam, Tiếng Anh 6, Volume 1 (Global Success), Unit 4, printed p.42 |
 | Grammar — It indicating distance; should / shouldn't | Vietnam, Tiếng Anh 7 (Global Success), Unit 7, printed p.72 |
 | Everyday English — asking for and giving directions | Vietnam, Tiếng Anh 11 (Global Success), Unit 6, printed p.66 |
+
+## South Africa added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held English books — the Department of Basic Education Rainbow Workbooks: English Home Language and English First Additional Language, Grades 1–6, Workbooks 1 and 2 (1,370 teaching items placed; 207 already in the course, 1,163 missing, 5 claims flagged). Every book is a student workbook — the set holds no teacher guides. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md). Read depth, as the sweep declares it: Grades 1–3 and Grade 4 Home Language were read at page-digest level, the Grade 5–6 books at worksheet/theme level, and Grade 6 FAL Workbook 2 is scan-only, read from page renders and OCR — its item counts are floors, not ceilings.
+
+**Book 35:** *English Home Language, Grade 1 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 36:** *English First Additional Language, Grade 1 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 37:** *English First Additional Language, Grade 2 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 38:** *English Home Language, Grade 3 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 39:** *English First Additional Language, Grade 3 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 40:** *English Home Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 41:** *English First Additional Language, Grade 4 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 42:** *English First Additional Language, Grade 4 Workbook 2 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+**Book 43:** *English Home Language, Grade 5 Workbook 1 (Rainbow Workbooks)* — South Africa, Department of Basic Education, Sixteenth edition 2026. Filed in english/books/south-africa.md (FULLY READ + CITATION CHECK PASSED 2026-11-03); re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Traffic light colours: name each colour and what it tells you to do (go/stop/wait) | South Africa, English Home Language (HL), Grade 1 Workbook 2 (Rainbow Workbooks), WS102, printed p.78 |
+| Road safety words (robot/traffic light, whistle, safety vest, scholar patrol, stop, zebra crossing) | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS18, printed p.36 |
+| Robot colours as instructions: "I stop when the robot is red", "I look left and right"; tracing stop/careful/go | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS18, printed p.37 |
+| Crossing the road routine (look right, look left, look right again, cross if clear) + road signs talk | South Africa, English First Additional Language (FAL), Grade 1 Workbook 1 (Rainbow Workbooks), WS19, printed p.38 |
+| Road safety role play (what happened to Ken) + crossing routine (look left, look right, look left again) | South Africa, English First Additional Language (FAL), Grade 2 Workbook 2 (Rainbow Workbooks), WS12, printed p.24 |
+| Reading a grid map: pointing to places by block | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS82, printed p.38 |
+| Map grid references: giving a place as number+letter (clinic 2A) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS82, printed p.39 |
+| Map questions: streets and corners (in which street is the school? on which corner is the supermarket?) | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS85, printed pp.44–45 |
+| Making your own map (cut-out places on a grid) + giving each place's grid reference and a reason | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS87, printed pp.48–49 |
+| Asking/giving directions with turn left/right at the corner phrases | South Africa, English Home Language (HL), Grade 3 Workbook 2 (Rainbow Workbooks), WS88, printed p.50 |
+| Map work: places and transport routes on a Johannesburg map | South Africa, English First Additional Language (FAL), Grade 3 Workbook 1 (Rainbow Workbooks), WS21, printed p.43 |
+| Giving directions around your school + drawing the school map + writing directions gate→classroom | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.124–125 |
+| Map reading: where Jabu and Thandi live (filling missing words from a town picture) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed p.126 |
+| Compass directions on a map: north/south choices (Hadebe Street is north/south of Mandla Street) + giving directions in blocks (4 blocks south, 1 block west) | South Africa, English Home Language (HL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 7–8, printed pp.130–131 |
+| Map work: finding your way to six places; street names; using a compass | South Africa, English First Additional Language (FAL), Grade 4 Workbook 1 (Rainbow Workbooks), Wk 3–4, printed pp.26–27 |
+| Giving directions on a map (always start directions from…) | South Africa, English First Additional Language (FAL), Grade 4 Workbook 2 (Rainbow Workbooks), Wk 3–4, printed p.93 |
+| Giving and following directions in pairs (one gives, the other follows and checks) | South Africa, English Home Language (HL), Grade 5 Workbook 1 (Rainbow Workbooks), Wk 1–2, printed p.76 |
+
+South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
