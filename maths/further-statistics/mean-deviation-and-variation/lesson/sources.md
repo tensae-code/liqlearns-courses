@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal
 
 Every part traces to its book and page.
 
@@ -26,6 +26,10 @@ Every part traces to its book and page.
 **Book 16:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 17:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+**Book 18:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: dispersion in Nepal sits in the Optional books' statistics lessons — Grade 9 Lesson 5 and Grade 10 Lesson 11 (quartiles and percentiles, quartile deviation, mean deviation, standard deviation and its coefficient, coefficient of variation).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -71,7 +75,9 @@ Every part traces to its book and page.
 | Estadística descriptiva: dispersion measures and mean deviation (worked housing example verified: mean 17.83, mean deviation ≈ 14.9) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 134 |
 | Comparing two data sets with the same mean, median and mode: range (açıklık) and mean absolute deviation (ortalama mutlak sapma) as spread measures | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 181 |
 | Mean absolute deviation computed step by step: mean, each value's distance from the mean, average of the distances; software graphs showing mean ± 1 MAD bands (6.4 vs 1.2 for two players) | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 182 |
-**Acceptance count: taught in 12 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+| Quartile deviation, mean deviation, standard deviation and coefficient of variation | Nepal, Grade 9 Optional student book, Lesson 5, printed p. 228 |
+| Quartile deviation, mean deviation, standard deviation and coefficient of variation | Nepal, Grade 10 Optional student book, Lesson 11, printed p. 242 |
+**Acceptance count: taught in 13 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone, Nepal).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
 

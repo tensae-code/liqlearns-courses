@@ -173,7 +173,7 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 69:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Fifth Edition (English Version) 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *My Mathematics, Class 2* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (old series, English version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
-**Book 71:** *मेरो गणित, कक्षा २ (My Mathematics, Class 2)* — Nepal, CDC, Sanothimi, First Edition BS 2078 (Nepali; textbook and workbook). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *मेरो गणित, कक्षा २ (My Mathematics, Class 2)* — Nepal, CDC, Sanothimi, First Edition BS 2078 (Nepali — one student textbook; the consolidation worksheets at printed pp. 229–248 are inside the same book, and no separate workbook exists in the set). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 72:** *मेरो गणित, कक्षा ३ (My Mathematics, Class 3)* — Nepal, CDC, Sanothimi, First edition BS 2051, Revised BS 2064, Reprint BS 2067, ISBN 978-999-33-719-0-8. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 73:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (English content; filed as Nepali medium). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 74:** *My Mathematics, Grade 5* — Nepal, CDC, Sanothimi, Revised Edition 2066 BS (partial held copy: printed pp. 1–17, all of Unit 1 Geometry, missing). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).

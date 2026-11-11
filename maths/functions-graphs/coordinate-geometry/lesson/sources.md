@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam, Nepal
 
 Every part traces to its book and page.
 
@@ -90,6 +90,10 @@ Every part traces to its book and page.
 **Book 62:** *Hesaban (1) [Calculus (1)], Grade 11 student book* (Mathematical Sciences branch; code 111214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2787-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 63:** *Mathematics (2), Grade 11 student book* (Experimental Sciences branch; code 111211) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 64:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 65:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 66:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: Nepal's Optional books carry coordinate geometry — Grade 9 §§3.1.2–3.1.5 (section point, slope, intercepts, the equation of a straight line) and Grade 10 Lesson 8 (the line through two points, the angle between lines, conic sections, the circle and its equation).
 
 
 | Lesson part | Where it comes from |
@@ -270,7 +274,9 @@ Every part traces to its book and page.
 | Equation from gradient-and-point / two points (§§6-4–7-4) | Libya, Grade 10 pupil's book Part 1, §§6-4–7-4, printed p.142 |
 | Distance between two points | Libya, Grade 10 pupil's book Part 1, printed p.145 |
 | The midpoint | Libya, Grade 10 pupil's book Part 1, printed p.147 |
-**Acceptance count: taught in 27 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam)**.** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+| Section point, slope, intercepts and the equation of a straight line | Nepal, Grade 9 Optional student book, §§3.1.2–3.1.5, printed p. 155 (approx. — contents-derived) |
+| The line through two points; the angle between lines; conic sections; the circle and its equation | Nepal, Grade 10 Optional student book, Lesson 8, printed p. 139 |
+**Acceptance count: taught in 28 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone, Kazakhstan, Libya, Mauritania, Vietnam, Nepal)**.** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Vietnam carries coordinate geometry in Grade 10 Volume 2 — the equation of a straight line, the relative position of two lines with angles and distances, and the circle in the coordinate plane (Bài 19–21). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

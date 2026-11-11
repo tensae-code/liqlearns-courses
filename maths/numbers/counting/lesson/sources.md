@@ -76,7 +76,7 @@ Every part traces to its book and page.
 **Book 58:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Fifth Edition (English Version) 2067 BS (filed as Nepali medium; English in content). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 60:** *My Mathematics, Class 2* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (old series). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
-**Book 61:** *My Mathematics, Class 2* (Nepali, textbook AND workbook) — Nepal, CDC, Sanothimi, First Edition BS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *My Mathematics, Class 2* (Nepali — one student textbook; the consolidation worksheets at printed pp. 229–248 are inside the same book, and no separate workbook exists in the set) — Nepal, CDC, Sanothimi, First Edition BS 2078. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 62:** *My Mathematics, Class 3* — Nepal, CDC, Sanothimi, First edition BS 2051; Revised BS 2064; Reprint BS 2067, ISBN 978-999-33-719-0-8. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 63:** *My Mathematics, Class 3* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED). Partial copy: Lessons 1–4 (printed pp. 1–16) absent; truncated at the end of Lesson 29.
 **Book 64:** *My Mathematics, Grade 4* — Nepal, CDC, Sanothimi, English Version 2067 BS (filed as Nepali medium; English in content). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).

@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal
 
 Every part traces to its book and page.
 
@@ -44,6 +44,10 @@ Every part traces to its book and page.
 **Book 26:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 27:** *Mathematics, Grade 8 pupil's book* (student book; second year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: construction is a named unit in both of Nepal's senior compulsory books — Grade 9 Unit 15 and Grade 10 Unit 14, following those books' own triangle and quadrilateral units.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -120,7 +124,9 @@ Every part traces to its book and page.
 | Constructing quadrilaterals | Libya, Grade 5 pupil's book, Unit 15, Lesson 2, printed p.225 |
 | Constructing triangles (§4-4) | Libya, Grade 8 pupil's book, §4-4, printed pp.79–95 |
 | Constructing quadrilaterals (§7-4) | Libya, Grade 8 pupil's book, §7-4, printed pp.79–95 |
-**Acceptance count: taught in 17 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya).** North Macedonia enters from its main set — Grade 7 (2025).
+| Constructing triangles and quadrilaterals | Nepal, Grade 9 student book, Unit 15, printed p. 284 |
+| Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
+**Acceptance count: taught in 18 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 

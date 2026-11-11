@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal
 
 Every part traces to its book and page.
 
@@ -23,6 +23,9 @@ Every part traces to its book and page.
 
 **Book 11:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 13:** *My Mathematics, Grades 3, 4 and 5, and Mathematics, Classes 6, 7 and 8, student books* — Nepal, CDC, Sanothimi. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: the unitary method is a named lesson in Nepal's books at every level from Grade 3 to Grade 8 — Grade 3 Lesson 24, Grade 4 §4.4, Grade 5 Unit 14, Grade 6 Lesson 8, Grade 7 Unit 19 and Grade 8 Unit 17.
 
 
 | Lesson part | Where it comes from |
@@ -46,8 +49,14 @@ Every part traces to its book and page.
 | Understanding rate | Libya, Grade 5 pupil's book, Unit 11, Lesson 1, printed p.180 |
 | Word problems (rate) | Libya, Grade 5 pupil's book, Unit 11, Lesson 2, printed p.183 |
 | Problems solved by reducing to the unit | Vietnam, Grade 4 Volume 2, Bài 47 "Bài toán liên quan đến rút về đơn vị" (problems solved by reducing to the unit), printed p. 31 |
+| Unitary method | Nepal, Grade 3 student book, Lesson 24, printed p. 100 |
+| Unitary method | Nepal, Grade 4 student book, §4.4, printed p. 69 |
+| Unitary method | Nepal, Grade 5 student book, Unit 14, printed p. 102 |
+| Unitary method | Nepal, Grade 6 student book, Lesson 8, printed p. 98 |
+| Unitary method | Nepal, Grade 7 student book, Unit 19, printed p. 156 |
+| Unitary method | Nepal, Grade 8 student book, Unit 17, printed p. 136 |
 
-**Acceptance count: taught in 10 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 11 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Vietnam carries the reduce-to-the-unit problem type in Grade 4 (Bài 47). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

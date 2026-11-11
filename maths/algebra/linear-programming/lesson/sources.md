@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal
 
 Every part traces to its book and page.
 
@@ -20,6 +20,10 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 **Book 10:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1 — Business Track* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-788-1 (Arabic). Workbook evidence: practice companion to the Grade 12 Business Track student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 11:** *Chuyên đề học tập Toán 12* (Mathematics 12 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39275-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Mathematics (Statistics), Grade 12, Term 2 student book (literary track)* — Kuwait, Ministry of Education, 2nd edition 1446 AH / 2024–2025 (old generation). Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED). (The file is named *-wb; the book's own cover and title page prove it is a student book, and it is cited as one. Literary/Statistics track — a separate track from the scientific books, never merged with them.)
+**Book 13:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: linear programming is Lesson 3 of Nepal's Grade 10 Optional book; the Grade 9 Optional book's §1.3 supplies the linear inequalities in one and two variables, with graphs, that it builds on.
 
 
 | Lesson part | Where it comes from |
@@ -65,7 +69,9 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Introduction to linear programming: guidance and answers (teacher evidence) | Ethiopia, Grade 12 teacher guide (teacher evidence), Unit 4, guide pp. 153–218 |
 | Workbook practice: linear programming (Business T1 U3) | Jordan, Grade 12 Workbook Term 1 (Business Track), Unit 3 (workbook evidence) |
 | Linear programming (literary/Statistics track) | Kuwait, Grade 12 Term 2 Statistics student book (literary track), Unit 5 — Linear inequalities, printed p. 79 |
-**Acceptance count: taught in 11 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Linear inequalities in one and two variables, with graphical representation | Nepal, Grade 9 Optional student book, §1.3, printed p. 51 |
+| Linear programming: linear inequalities, systems, solving LP problems | Nepal, Grade 10 Optional student book, Lesson 3, printed p. 26 |
+**Acceptance count: taught in 12 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Vietnam carries linear programming in its Grade 12 study book — using systems of linear inequalities in two unknowns to solve linear-programming problems (Chuyên đề 2 Bài 3). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

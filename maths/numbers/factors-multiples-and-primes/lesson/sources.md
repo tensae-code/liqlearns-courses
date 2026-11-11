@@ -189,6 +189,9 @@ Every part traces to its book and page.
 **Book 138:** *Mathematics, Grade 5, Term 1 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
 **Book 140:** *Mathematics, Grade 6 teacher guide (secondary year 1)* — Laos, Ministry of Education and Sports / Institute of Educational Science Research, 2010 (companion to the Grade 6 student book), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 141:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 142:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 143:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -597,6 +600,9 @@ Every part traces to its book and page.
 | Workbook practice: number properties (T1 U4) | Jordan, Grade 4 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: number properties (T1 U3) | Jordan, Grade 5 Workbook Term 1, Unit 3 (workbook evidence) |
 | TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 1 guide | Jordan, Grade 5 Teacher Guide Term 1, fragment copy (teacher evidence) |
+| Highest common factor and lowest common multiple | Nepal, Grade 9 student book, Unit 10, printed p. 197 |
+| Highest common factor and lowest common multiple | Nepal, Grade 10 student book, Unit 8, printed p. 99 |
+| Teacher evidence — Grade 10 companion guide | Nepal, Grade 10 teacher guide — facilitation for the Grade 10 student book's Unit 8, HCF and LCM |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the divisibility tests and the
 Euclidean GCD; the text now teaches them. Sub lesson 2

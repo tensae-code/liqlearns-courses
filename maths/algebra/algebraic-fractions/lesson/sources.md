@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal
 
 Every part traces to its book and page.
 
@@ -43,6 +43,11 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 26:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathematics, Grade 8 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 5th ed., 1445H/2023; no ISBN printed. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
+**Book 29:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Shikshak Nirdeshika, Aadharbhoot Taha Kaksha 8 Ganit (Teacher Guide — Basic Level Mathematics, Class 8)* — Nepal, CDC, Sanothimi, First edition 2081 BS. TEACHER EVIDENCE ONLY, and a mismatch guide: it is keyed to a newer Grade 8 student book (its contents carry Tessellation and Algebraic Fractions lessons the held Grade 8 student book does not list, in a different order); it is cited only for what the guide itself teaches, never as evidence for the held student book. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: Nepal's compulsory course reaches algebraic fractions in Grade 10 (Unit 11). The Grade 8 teacher guide carries an algebraic-fractions lesson of its own, keyed to a newer Grade 8 book — stocked below as teacher evidence for that guide, never for the held Grade 8 student book, which has no such unit.
 
 
 | Lesson part | Where it comes from |
@@ -116,7 +121,10 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Rational expressions introduced and simplified (معرفی و ساده کردن عبارت‌های گویا) | Iran, Grade 9 student book, Ch. 7, printed p. 114 |
 | Calculations with rational expressions (محاسبات عبارت‌های گویا) | Iran, Grade 9 student book, Ch. 7, printed p. 119 |
 | Equations containing rational expressions (معادله‌های شامل عبارت‌های گویا) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 1, printed p. 33 |
-**Acceptance count: taught in 18 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+| Algebraic fractions | Nepal, Grade 10 student book, Unit 11, printed p. 126 |
+| Teacher evidence — Grade 8 guide, algebraic fractions (newer book) | Nepal, Grade 8 teacher guide, First edition 2081 BS, Algebraic Fractions lesson, guide pp. 154–167 |
+| Teacher evidence — Grade 10 companion guide | Nepal, Grade 10 teacher guide — facilitation for the Grade 10 student book's Unit 11, Algebraic fractions |
+**Acceptance count: taught in 19 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq, Nepal).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Vietnam carries algebraic fractions in Grade 8 Volume 2 — the concept, the basic property, and adding, subtracting, multiplying and dividing algebraic fractions (Bài 21–24). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

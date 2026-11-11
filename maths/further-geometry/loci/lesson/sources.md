@@ -1,6 +1,6 @@
 # Sources — Loci: paths of moving points
 
-countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia
+countries: Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal
 
 Every part traces to its book and page.
 
@@ -26,6 +26,9 @@ Every part traces to its book and page.
 
 **Book 14:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 15:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 16:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+
+On Nepal in this lesson: the concept of locus is §3.1 of Nepal's Grade 9 Optional book.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -58,8 +61,9 @@ Every part traces to its book and page.
 | Loci: points satisfying conditions (circle x² + y² = 4 cited in ditare plan 74) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 46 |
 | Laboratorio matemático: GeoGebra work on loci, intersections and tangents | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 171 |
 | Locus of points (կետերի երկրաչափական տեղ) | Armenia, Geometry 7, §17.41*, printed p. 134 |
+| Concept of locus | Nepal, Grade 9 Optional student book, §3.1, printed p. 146 |
 
-**Acceptance count: taught in 10 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia).**
+**Acceptance count: taught in 11 countries (Sierra Leone, Kazakhstan, Iran, Greece, Malaysia, Mongolia, Uzbekistan, Albania, Bolivia, Armenia, Nepal).**
 Sierra Leone carries the fullest course — five pupil-handbook lessons in SSS 2 Term 2 that construct the four standard loci one rule at a time and close with mixed practice. Kazakhstan carries the locus as named theory in Grade 7: Turapbekov's book defines it as a topic, and Smirnov's book gives geometric loci their own section immediately before its construction problems, which is the order this lesson follows. Iran carries the locus as a proving tool in Grade 12: its Geometry (3) book recalls the two bisector loci with proofs, proves the circle as a locus in both directions, and builds a catalogue of standard loci at the head of its conic-sections chapter — the same catalogue idea this lesson uses to close. Greece carries loci inside circle geometry in Grades 10–11: its Euclidean Geometry Volume A treats the basic loci in the circle — the arc subtending a known angle — in its inscribed-figures chapter, and uses loci in geometric constructions there.
 
 Malaysia teaches loci whole in Form 3 — all five standard loci constructed, then combined — and returns in Additional Mathematics Form 4 to write loci as equations, where the constant-ratio locus turns out to be a circle.
