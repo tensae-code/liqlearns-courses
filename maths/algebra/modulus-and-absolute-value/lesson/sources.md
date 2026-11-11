@@ -1,6 +1,6 @@
 # Sources — Modulus and Absolute Value
 
-countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran
+countries: Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran, Iraq
 
 Every part traces to its book and page.
 
@@ -42,6 +42,7 @@ Every part traces to its book and page.
 **Book 27:** *Mathematics, Grade 11* (student book; second year secondary, Science section) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 28:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 29:** *Hesaban (1) [Calculus (1)], Grade 11 student book* (Mathematical Sciences branch; code 111214) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2787-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 30:** *Mathematics, Grade 10 Literary student book* — Iraq, Ministry of Education, General Directorate of Curricula, 14th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -98,8 +99,9 @@ Every part traces to its book and page.
 | Properties of absolute value (§8-1) | Libya, Grade 11 Mathematics (Science section), §8-1, printed p.36 |
 | Absolute value (قدر مطلق, inside the approximate-calculation lesson) | Iran, Grade 9 student book, Ch. 2, printed p. 28 |
 | Absolute value and its properties (قدر مطلق و ویژگی‌های آن) | Iran, Grade 11 Hesaban (1) student book (Mathematical Sciences branch), Ch. 1, printed p. 23 |
+| Absolute value of a real number | Iraq, Grade 10 Literary student book, Ch. 2, §2-3 |
 
-**Acceptance count: taught in 15 countries (Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 16 countries (Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Bolivia, Tajikistan, Palestine, Turkey, Armenia, Bangladesh, Egypt, Kazakhstan, Libya, Iran, Iraq).** Mongolia is the one read country whose course gives modulus a chapter of its own: Grade 7 defines it as distance from the origin, with the distance between two points as |a − b|; Grade 9 meets the first simple modulus inequalities; and Grade 12, Chapter II §2.1 (printed pp. 5–16), gives the complete treatment — the piecewise definition, equations by cases and by the distance method (with |2x − 5| = −7 shown to have no solution), the |f(x)| = g(x) and two-modulus families, inequalities read geometrically on the line, and the three squaring theorems, each proved. Elsewhere in the library modulus is met only in passing — inside the negative-numbers and real-number-system lessons as distance, inside the function lessons as the absolute-value function, and inside complex numbers as |a + bi| — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The Grade 7 and Grade 9 rows are also stocked in the negative-numbers and inequalities lessons respectively, where the same pages do that work too; this lesson is the topic's own home. North Macedonia enters from its main set — Grade 7 (2025) and the Grade 12 Algebra elective.
 
 Libya carries the properties of absolute value in Grade 11 Mathematics (Science section), Chapter 1 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -120,3 +122,5 @@ Armenia enters through its Mathematics 6 (student); the Algebra and Elements of 
 Bangladesh enters through its NCTB course — *Mathematics, Class Eight* (National Curriculum 2022, academic year 2024), stocked by the 2026-11-08 re-verification sweep. From its books: from Class 8: absolute value — the |x| formula and values (Exp. 2 Real Numbers in Everyday Life, printed p. 33).
 
 Egypt enters through its Grade 11 General Term 1 book (Arabic edition), stocked by the 2026-11-08 re-verification sweep: absolute value.
+
+Iraq carries the absolute value of a real number in Grade 10 Literary, Chapter 2 (§2-3). Stocked 2026-11-11 by the Iraq re-verification sweep merge.

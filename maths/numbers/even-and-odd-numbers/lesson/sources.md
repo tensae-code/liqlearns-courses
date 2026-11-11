@@ -1,6 +1,6 @@
 # Sources — Even and Odd Numbers
 
-countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan, Vietnam
+countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan, Vietnam, Iraq
 
 Every part traces to its book and page.
 
@@ -61,6 +61,7 @@ Every part traces to its book and page.
 **Book 36:** *Mathematics, Grade 2, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-346-3, National Library deposit no. 2022/4/2026 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED). Note: the book's own CIP extent line claims 96 pages; the book has 92 printed pages and is complete (its contents end with the Unit 5 cumulative questions at p. 92) — the held copy is not truncated.
 **Book 37:** *Mathematics, Grade 1, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-345-6 (Arabic). Workbook evidence: practice companion to the Grade 1 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 38:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 39:** *Mathematics, Grade 2 student book* — Iraq, Ministry of Education, General Directorate of Curricula, 7th ed., 1445H/2023. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -138,12 +139,15 @@ Every part traces to its book and page.
 | Even and odd numbers | Jordan, Grade 1 Student Book Term 1, Unit 1, Lesson 6, printed p. 38 |
 | Even and odd numbers | Jordan, Grade 2 Student Book Term 1, Unit 2, Lesson 2, printed p. 24 |
 | Workbook practice: numbers within two places (Unit 1) | Jordan, Grade 1 Workbook Term 1, Unit 1, printed pp. 14–21 (workbook evidence) |
+| Odd and even numbers | Iraq, Grade 2 student book, Ch. 1, printed p. 16 |
 
-**Acceptance count: taught in 17 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan, Vietnam).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
+**Acceptance count: taught in 18 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, South Africa, Sierra Leone, Kazakhstan, Libya, Jordan, Vietnam, Iraq).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
 
 Vietnam carries even and odd numbers in Grade 4 Volume 1 (Bài 3). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya carries even and odd numbers in Grade 3 Part 1 and Grade 7, Chapter 1 (stocked by the 2026-11-08 re-verification sweep).
+
+Iraq carries odd and even numbers in Grade 2 (Ch. 1, printed p. 16). Stocked 2026-11-11 by the Iraq re-verification sweep merge.
 
 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV (Grades 1, 2, 3, 4): even and odd numbers; even and odd defined; recognising even and odd numbers.

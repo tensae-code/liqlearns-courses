@@ -1,6 +1,6 @@
 # Sources — Algebraic Fractions
 
-countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran
+countries: Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq
 
 Every part traces to its book and page.
 
@@ -42,6 +42,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 **Book 25:** *Toán 8, Tập Hai* (Mathematics 8, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35042-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 26:** *Mathematics, Grade 9 student book* (ریاضی, code 905) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 12th printing 1405, ISBN 978-964-05-2435-0. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 27:** *Mathematics and Statistics (1), Grade 10 student book* (Humanities branch; code 110212) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2503-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
+**Book 28:** *Mathematics, Grade 8 student book* — Iraq, Ministry of Education, General Directorate of Curricula, rev. 5th ed., 1445H/2023; no ISBN printed. Filed in maths/books/iraq.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -65,6 +66,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | The basic property of algebraic fractions | Vietnam, Grade 8 Volume 2, Bài 22 "Tính chất cơ bản của phân thức đại số" (the basic property of algebraic fractions), printed p. 8 |
 | Adding and subtracting algebraic fractions | Vietnam, Grade 8 Volume 2, Bài 23 "Phép cộng và phép trừ phân thức đại số" (adding and subtracting algebraic fractions), printed p. 12 |
 | Multiplying and dividing algebraic fractions | Vietnam, Grade 8 Volume 2, Bài 24 "Phép nhân và phép chia phân thức đại số" (multiplying and dividing algebraic fractions), printed p. 20 |
+| Simplifying fractional number sentences | Iraq, Grade 8 student book, Ch. 1, L5, printed p. 22 |
 
 | Simplifying algebraic fractions — Simplifying algebraic fractions by cancelling common factors after factorising (4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 153 |
 | Adding and subtracting — Adding/subtracting algebraic fractions using the LCM of the denominators (within 4-8) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 154 |
@@ -114,7 +116,7 @@ On Malaysia in this lesson: Malaysia's Form 2 book is the first in the read set 
 | Rational expressions introduced and simplified (معرفی و ساده کردن عبارت‌های گویا) | Iran, Grade 9 student book, Ch. 7, printed p. 114 |
 | Calculations with rational expressions (محاسبات عبارت‌های گویا) | Iran, Grade 9 student book, Ch. 7, printed p. 119 |
 | Equations containing rational expressions (معادله‌های شامل عبارت‌های گویا) | Iran, Grade 10 Mathematics and Statistics (1) student book (Humanities branch), Ch. 1, printed p. 33 |
-**Acceptance count: taught in 17 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
+**Acceptance count: taught in 18 countries (Malaysia, Sudan, Mongolia, North Macedonia, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, Ethiopia, Kazakhstan, Libya, Jordan, Vietnam, Iran, Iraq).** Malaysia's Form 2 book carries the full treatment — LCM of terms, then addition and subtraction into a single fraction; the other read countries meet letter-fractions inside other algebra work without a named treatment, so this lesson is built at that honest size. North Macedonia enters from its main set — the Grade 12 Algebra elective.
 
 Vietnam carries algebraic fractions in Grade 8 Volume 2 — the concept, the basic property, and adding, subtracting, multiplying and dividing algebraic fractions (Bài 21–24). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -136,3 +138,5 @@ Armenia enters through its Algebra 8 (Mikayelyan); the Algebra 8 methodological 
 Egypt enters through its Prep 3 books, stocked by the 2026-11-08 re-verification sweep: the algebraic fraction, its domain and operations on algebraic fractions in both the old-series Term 2 book and the new-curriculum Term 1 book.
 
 Ethiopia enters as teacher evidence only: its Grade 11 teacher guide treats rational expressions and rational functions (Unit 2) at guide pp. 58–78.
+
+Iraq carries simplifying fractional number sentences in Grade 8 (Ch. 1, L5, printed p. 22) — the numerical-fraction foundation of this lesson's algebraic-fraction work. Stocked 2026-11-11 by the Iraq re-verification sweep merge.
