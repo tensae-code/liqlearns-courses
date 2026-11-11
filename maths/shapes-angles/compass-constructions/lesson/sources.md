@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa
 
 Every part traces to its book and page.
 
@@ -70,6 +70,8 @@ Every part traces to its book and page.
 **Book 46:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 47:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
+
+**Book 48:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -195,7 +197,10 @@ Every part traces to its book and page.
 | Standard B7.3.1.2: Demonstrate how to construct a perpendicular to a line from a given point, bisect a line, bisect angles, and construct angles of the following sizes: 30˚, 45˚, 60˚, 75˚ a | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.1.2, printed p. 51 (curriculum evidence only) |
 | Standard B8.3.1.2: Demonstrate the ability to perform geometric constructions of the angles (75˚, 105˚, 60˚, 135˚ and 150˚), and construct triangles and find locus of points under given con | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B8.3.1.2, printed p. 125 (curriculum evidence only) |
 | Standard B9.3.1.2: Construct inscribed and circumscribed triangles and parallelograms with given dimensions | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.1.2, printed p. 199 (curriculum evidence only) |
-**Acceptance count: taught in 22 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Construction of geometric figures; construct angles and a triangle (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 20 Construction of geometric figures, printed p. 44; South Africa, Grade 7 Book 1, Ws 25a–b Construct angles and a triangle, printed pp. 58, 60 |
+| Constructing geometric figures; construction with a protractor; constructing polygons (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 45a–b Constructing geometric figures, printed pp. 98, 100; South Africa, Grade 8 Book 1, Ws 46 Construction with a protractor, printed p. 102; South Africa, Grade 8 Book 1, Ws 51 Constructing polygons, printed p. 116 |
+| Construct angles and polygons using a protractor; using a pair of compasses; construct a hexagon; constructing a pentagon; constructing an octagon (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 39 Construct angles and polygons using a protractor, printed p. 100; South Africa, Grade 9 Book 1, Ws 40a–b Using a pair of compasses, printed pp. 102, 104; South Africa, Grade 9 Book 1, Ws 44 Construct a hexagon, printed p. 116; South Africa, Grade 9 Book 1, Ws 45 Constructing a pentagon, printed p. 118; South Africa, Grade 9 Book 1, Ws 46 Constructing an octagon, printed p. 120 |
+**Acceptance count: taught in 23 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa).** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 

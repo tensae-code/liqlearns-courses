@@ -28,6 +28,8 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 
 **Book 17:** *Texto de Aprendizaje, 1er Año de Educación Secundaria Comunitaria Productiva (Grade 7) — Área Matemática section only* (student book) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia); the section file carries no cover, title page, imprint, year/edition or ISBN (none is printed anywhere in this set) — the ministry attribution and the book's identity are proved from the section divider (printed p. 52), the running heads and the bibliography's self-citation (printed p. 138); the section keeps the whole book's printed foliation, pp. 52–138 (Spanish). Filed in maths/books/bolivia.md (Grade 7 section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 
+**Book 18:** *Mathematics, Grade 4 Book 2; Grade 5 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a tessellation is | Pakistan, Grade 7 (p.163) — tessellation defined; Nepal, Grade 7, Unit 9 (pp.75–83) |
@@ -56,6 +58,8 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Best tile — Equal-perimeter comparison behind the bees' choice: among regular polygons the hexagon encloses the most area for the same perimeter while still tiling | Venezuela, Matemática Para La Vida (Grade 7), printed pp. 158–160 |
 | §11 Tangram puzzle (practical) | Uzbekistan, Geometriya, Grade 7 (Russian), printed p. 36 |
 | Teselado: tessellation as a combination of regular/irregular polygons meeting at sides, met in artisanal weaving; make two tessellations task | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 137 |
+| Tessellations (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 135 Tessellations, printed p. 162 |
+| Tessellation; translations and tessellations; reflections and tessellations; glide reflection; rotations and tessellations (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 90 Tessellation, printed p. 60; South Africa, Grade 5 Book 2, Ws 135–139 Tessellation; Translations and tessellations; Reflections and tessellations; Glide reflection; Rotations and tessellations, printed pp. 170, 172, 174, 176, 178 |
 
 **Acceptance count: taught in 12 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia).**
 

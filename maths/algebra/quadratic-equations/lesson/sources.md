@@ -141,8 +141,8 @@ Every part traces to its book and page.
 | Quadratic functions and equations with Viète | Vietnam, Grade 9, Toán 9 |
 | Introduction to quadratic equations, form ax² + bx + c = 0 (L75, p. 89); factorisation of quadratics, x² + 8x + 15 → (x + 3)(x + 5) (L80, p. 103); quadratics with a > 1 (L81, p. 106); completing the square as a factorisation method; NO quadratic-formula lesson and no lesson framed as solving for x | Sierra Leone, JSS 3, L75–85, printed pp. 89–117 |
 | Factorising quadratic expressions (L107, p. 32); solving quadratics via factorisation (L108–109, pp. 34–36); finding a quadratic equation with given roots (L110, p. 39); the quadratic formula (L114, p. 50); word problems leading to quadratic equations (L115, p. 53) | Sierra Leone, SSS 1 Handbook, L107–116, printed pp. 32–56 |
-| Equations of the form a product of factors equals zero — the first route into quadratic-type equations | South Africa, Grade 9 Book 1, WS38, pp. 68–99 |
-| Solving by factorising (x² − 3x = 0 → x(x − 3) = 0; x² − 25 = 0), 'make sure the right hand side is zero then factorise left-hand side' | South Africa, Grade 9 Book 2, WS82–83, pp. 2–59 |
+| Equations of the form a product of factors equals zero — the first route into quadratic-type equations | South Africa, Grade 9 Book 1, WS38, printed p. 98 |
+| Solving by factorising (x² − 3x = 0 → x(x − 3) = 0; x² − 25 = 0), 'make sure the right hand side is zero then factorise left-hand side' | South Africa, Grade 9 Book 2, WS82–83, printed pp. 46, 48 |
 | Quadratic equations: which equations are quadratics, solving by factorisation, solving by formula x = (−b ± √(b² − 4ac)) / 2a derived by completing the square | Laos, Grade 8 student book, L5–L7, printed pp. 1–52 |
 | Quadratic equations: completing the square to the formula, discriminant Δ = b² − 4ac, reduced discriminant, biquadratic equations via y = x², Viète's sum and product of roots, signs of roots | Laos, Grade 10 student book, L12, printed p. 119 |
 | Second-degree equations in one variable (general form أس² + ب س + ج = 0) | Yemen, Grade 8 Part 1, Unit 4, lesson 4-3, printed p. 122 |

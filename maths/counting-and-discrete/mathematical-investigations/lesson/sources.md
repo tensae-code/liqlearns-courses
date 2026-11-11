@@ -1,6 +1,6 @@
 # Sources — Mathematical investigations
 
-countries: China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan, Bangladesh
+countries: China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan, Bangladesh, South Africa
 
 Every part traces to its book and page.
 
@@ -29,6 +29,8 @@ Every part traces to its book and page.
 
 **Book 14:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Mathematics, Grade 7 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 2 ISBN 978-1-4315-0220-2. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Finding the defective product on a balance: split in three; the guarantee table 2–3→1, 4–9→2, 10–27→3, 28–81→4, 82–243→5 weighings | China, Grade 5 second volume, Unit 9 Maths corner, p.111 |
@@ -50,8 +52,9 @@ Every part traces to its book and page.
 | Statistical study over 5 hours (data collection, diagrams, mode/median/range/mean, percentage germination) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed p. 191 |
 | The microcalculator: switching on, entering natural numbers and decimals, the four operations, checking computed results | Tajikistan, Математика (Grade 5), printed p. 267 |
 | Mathematical exploration — placing + and − signs in all ways in a number string; exploring factor sums (the proper factors of a number and their sums — perfect-number exploration) | Bangladesh, Class 8 student book, Exp. 1 Mathematical Exploration, printed pp. 1–24 |
+| Investigation — a geometry investigation worksheet (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 91 Investigation (a geometry investigation worksheet), printed p. 60 |
 
-**Acceptance count: taught in 9 countries (China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan, Bangladesh).** China is the sole source, as filed: its Grade 5 second volume carries the balance search for the defective product with its 3ⁿ guarantee table (p.111), the phone-call notification tree with its doubling 2ⁿ growth (p.102), and the painted-cube exploration (p.44); its Grade 6 second volume's general review carries segment counting n(n−1)/2 among its mathematical-thinking exhibits (pp.100–104). No other read book files these four investigations together as a topic.
+**Acceptance count: taught in 10 countries (China, Syria, India, Mongolia, Uzbekistan, Ecuador, Albania, Tajikistan, Bangladesh, South Africa).** China is the sole source, as filed: its Grade 5 second volume carries the balance search for the defective product with its 3ⁿ guarantee table (p.111), the phone-call notification tree with its doubling 2ⁿ growth (p.102), and the painted-cube exploration (p.44); its Grade 6 second volume's general review carries segment counting n(n−1)/2 among its mathematical-thinking exhibits (pp.100–104). No other read book files these four investigations together as a topic.
 
 Syria's investigations are its magic squares — additive in Grade 7, multiplicative in Grade 8 — and its Archimedes crown opener in Grade 9.
 

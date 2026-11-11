@@ -306,6 +306,8 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 160:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 162:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 6 Book 1; Grade 7 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -571,6 +573,11 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Formula for the area of a circle | Armenia, Geometry 9, §13.1, printed p. 116 |
 | Areas of parts of a circle | Armenia, Geometry 9, §13.2, printed p. 117 |
 | Standard B7.3.2.1: Demonstrate the ability to find the perimeter of plane shapes including circles using the concept of pi (π) to find the circumference of a circle | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.2.1, printed p. 59 (curriculum evidence only) |
+| Polygons and circles (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 84 Polygons and circles, printed p. 46 |
+| Flat or curved surfaces; rectangular prisms and cubes; faces; polygons and circles; making 3-D objects (Grade 5 Book 1) | South Africa, Grade 5 Book 1, Ws 50–54 Flat or curved surfaces; Rectangular prisms and cubes; Faces; Polygons and circles; Making 3-D objects, printed pp. 142, 144, 146, 148, 150 |
+| Circles — parts, radius and diameter (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 19a–b Circles (parts, radius/diameter), printed pp. 60, 62 |
+| Circles — parts of a circle (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 26 Circles (parts of a circle), printed p. 62 |
+| Area of a circle (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 64 Area of a circle, printed p. 172 |
 
 **Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -38,6 +38,8 @@ Every part traces to its book and page.
 
 **Book 23:** *Математика* (Mathematics, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda), Маориф (Maorif), Dushanbe 2022, ISBN 978-99947-1-301-1 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED). Held-copy defect: its PDF p. 291 duplicates printed p. 278 — the true printed p. 291 is absent from the held copy and is cited nowhere.
 **Book 24:** *Geometry 7* (student book) — Armenia, Gagik Aghekyan, Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 25:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -107,7 +109,10 @@ Every part traces to its book and page.
 | Compass construction of a triangle in steps; choosing feasible side triples | Ecuador, Matemática, Grade 10 student book, printed pp. 32–33 |
 | Construction task with sides 5 cm, 6 cm, 11 cm — impossible as a non-degenerate triangle since 5 + 6 = 11, flagged | Ecuador, Matemática, Grade 10 student book, printed p. 33 |
 | Constructing a triangle from three elements | Armenia, Geometry 7, §17.42, printed p. 135 |
-**Acceptance count: taught in 15 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia).** North Macedonia enters from its main set — Grade 7 (2025).
+| Construct angles and a triangle (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 25a–b Construct angles and a triangle, printed pp. 58, 60 |
+| Construct angles and a triangle; constructing quadrilaterals (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 48a–b Construct angles and a triangle, printed pp. 106, 108; South Africa, Grade 8 Book 1, Ws 50a–b Constructing quadrilaterals, printed pp. 112, 114 |
+| Constructing triangles; constructing quadrilaterals (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 41a–b Constructing triangles, printed pp. 106, 108; South Africa, Grade 9 Book 1, Ws 42a–b Constructing quadrilaterals, printed pp. 110, 112 |
+**Acceptance count: taught in 16 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Pakistan's Grade 8 book is the spine: it constructs the whole quadrilateral family — square, rectangle, rhombus, parallelogram, kite, trapezium — and the SSS, SAS, ASA and RHS triangles, with the incentre and circumcentre constructions. Bangladesh's Class 8 Exp.5 is a dedicated constructing-quadrilaterals chapter. Yemen meets the work earliest: Grade 4 constructs a rectangle from its length and width and a square, and Grade 5 builds a triangle from two sides and the included angle in five named steps. Sierra Leone's SSS 2 course splits the same material into single-skill lessons — SSS, SAS and ASA triangles, then squares and rectangles, rhombi and parallelograms, and trapeziums — and finishes with construction word problems.
 

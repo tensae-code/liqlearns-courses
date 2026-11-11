@@ -1,6 +1,6 @@
 # Sources — Geometric and Experimental Probability
 
-countries: Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania, Armenia, China
+countries: Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania, Armenia, China, South Africa
 
 Every part traces to its book and page.
 
@@ -28,6 +28,8 @@ Every part traces to its book and page.
 **Book 17:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 **Book 18:** *Mathematics, Compulsory Volume 2 （必修第二册）, A edition* (senior student book) — China, People's Education Press (PEP), Chinese, ISBN 978-7-107-33566-2. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 19:** *Mathematics, Grade 7 Book 2; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Geometric probability as desired area ÷ total area (dartboard worked example; Battleship activity) — this book has NO statistical (frequency) definition, recorded as filed | Kazakhstan, Yelemessov et al., Algebra 9, §5.1 "Solving written problems", printed p.212 |
@@ -54,8 +56,11 @@ Every part traces to its book and page.
 | Geometric probability | Armenia, Algebra 8, Ch. 7 §2, printed p. 164 |
 | Equiprobability and geometry | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 3.4, printed p. 18 (teacher evidence) |
 | Frequency and probability: relative frequency stabilising toward probability; Mendel's genetic laws (reading) | China, Compulsory Volume 2 (A edition) student book, §10.3, printed pp. 251–259 |
+| Relative frequency (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 139 Relative frequency, printed p. 178 |
+| Relative frequency (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 137 Relative frequency, printed p. 196 |
+| Probability of a single event and its relative frequency (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 138 Probability of a single event and its relative frequency, printed p. 214 |
 
-**Acceptance count: taught in 10 countries (Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania, Armenia, China).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
+**Acceptance count: taught in 11 countries (Kazakhstan, Jordan, Nicaragua, Rwanda, India, Mongolia, Afghanistan, Albania, Armenia, China, South Africa).** Kazakhstan carries both halves across its four Grade 9 algebra books — geometric probability in all four (Yelemessov's dartboard, Shynybekov's meeting problem, Abylkasymova's three measures, Soltan's broken stick at 1/4) and the frequency definition in three of them, Yelemessov's book honestly recorded as having no statistical definition. Jordan carries geometric probability as a named closing lesson with examined segment items. Nicaragua carries the experimental half as a taught contrast — theoretical against frequentist — with its 500-toss coin experiment.
 
 Rwanda stocks the experimental half of this lesson in Primary 5 — chance found from recorded coin and dice results in the pupil's book, with the teacher's guide contrasting experimental probability (6 heads in 10 tosses = 0.6) against the theoretical 1/2; Rwanda teaches no geometric probability in the held books.
 

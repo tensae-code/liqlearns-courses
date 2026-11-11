@@ -300,6 +300,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Proportional segments in a right triangle | Armenia, Geometry 8, §14.32, printed p. 87 |
 | Altitude from the right angle; distance to an inaccessible point | Armenia, Geometry 8, §14.33, printed p. 90 |
 | Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
+| Year revision overview, Pythagoras among it (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 140–144 Revision overview: parts 1–5 (year revision of this grade's placed items), printed pp. 204, 206, 208, 210, 212 |
 
 **Acceptance count: taught in 36 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing

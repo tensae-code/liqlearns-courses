@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa
 
 Every part traces to its book and page.
 
@@ -69,6 +69,8 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 43:** *JICA Primary Mathematics Teacher Manual, Basic 3* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 
 **Book 44:** *Ευκλείδεια Γεωμετρία Α΄ Λυκείου, Τόμος Α (Euclidean Geometry, Volume A), Grade 10 pupil book* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-5177-5. Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
+
+**Book 45:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -186,8 +188,10 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Understand parallel — Understand what is parallel and its relation to perpendicular. | Ghana, JICA Primary Mathematics Teacher Manual, Basic 3, Lesson 86, printed p. 86 (teacher evidence only) |
 | Parallel lines opened: introduction (§4.1 «Εισαγωγή»); the transversal of two lines and Euclid's postulate (§4.2 «Τέμνουσα δύο ευθειών – Ευκλείδειο αίτημα») | Greece, Euclidean Geometry Vol. A (Grade 10), Ch. 4, §§4.1–4.2, printed p. 80 |
 | Constructing a parallel line (§4.3 «Κατασκευή παράλληλης ευθείας») | Greece, Euclidean Geometry Vol. A (Grade 10), Ch. 4, §4.3, printed p. 83 |
+| Parallel and perpendicular lines (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 24 Parallel and perpendicular lines, printed p. 56 |
+| Parallel and perpendicular lines (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 47 Parallel and perpendicular lines, printed p. 104; South Africa, Grade 8 Book 1, Ws 61 Parallel and perpendicular lines, printed p. 140 |
 
-**Acceptance count: taught in 16 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 17 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa).** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Ghana also contributes to this lesson as teacher evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 

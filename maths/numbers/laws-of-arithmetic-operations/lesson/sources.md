@@ -1,6 +1,6 @@
 # Sources — The Laws of Arithmetic Operations
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Barbados, Turkey, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -68,6 +68,8 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 **Book 41:** *Mathematics 5* (student) — Armenia, Smbat Gogyan and Narine Ravoyeva, 2023. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 42:** *Mathematics 6* (student) — Armenia, Smbat Gogyan, Varduhi Badalyan and Ashkhen Arakelyan, Qarakusi, 2024, ISBN 978-9939-1-1843-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 43:** *Algebra and Elements of Mathematical Analysis 10* (student book) — Armenia, Koryun Garegini Arakelyan, Edit Print, 2023, ISBN 978-9939-969-07-7. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 44:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -196,7 +198,15 @@ On Malaysia in this lesson: Malaysia is the first country whose book names the f
 | Applying the laws of addition | Armenia, Mathematics 6, §4.7, printed p. 115 |
 | The laws of addition and rational numbers | Armenia, Mathematics 6, §6.6, printed p. 162 |
 | Operations with rational numbers; their basic properties (axioms) | Armenia, Algebra and Analysis 10 (Arakelyan), Ch. 1 §2.1, printed p. 14 |
-**Acceptance count: taught in 12 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+| Properties of number — number laws in use (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 102 Properties of number (even/odd, number laws in use), printed p. 92 |
+| Distributive property of number (Grade 5 Book 1) | South Africa, Grade 5 Book 1, Ws 48 Distributive property of number, printed p. 138 |
+| Properties of numbers (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 142 Properties of numbers, printed p. 186 |
+| Properties of numbers; multiplication and the distributive property (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 4–5 Properties of numbers; More properties of number, printed pp. 10, 12; South Africa, Grade 6 Book 1, Ws 29–30 Multiplication and the distributive property; More, printed pp. 86, 88 |
+| Multiplication and the distributive property; properties of number (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 111 Multiplication and the distributive property, printed p. 126; South Africa, Grade 6 Book 2, Ws 130 Properties of number, printed p. 176; South Africa, Grade 6 Book 2, Ws 133a–b, 134a–b, 135 More properties of numbers; Even more; Properties of number again, printed pp. 182, 184, 186, 188, 190 |
+| Commutative property of addition and multiplication; associative property; distributive property of multiplication over addition; zero and one as identities (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 1 Commutative property of addition and multiplication, printed p. 2; South Africa, Grade 7 Book 1, Ws 2 Associative property of addition and multiplication, printed p. 4; South Africa, Grade 7 Book 1, Ws 3 Distributive property of multiplication over addition, printed p. 6; South Africa, Grade 7 Book 1, Ws 4 Zero as the identity of addition, one as the identity of multiplication, and other properties of numbers, printed p. 8 |
+| Commutative, associative and distributive properties (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 2a–b Commutative, associative and distributive properties, printed pp. 4, 6 |
+| Properties of numbers (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 10a–b Properties of numbers, printed pp. 22, 24 |
+**Acceptance count: taught in 13 countries (Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Turkey, Armenia, South Africa).** Malaysia's Form 1 book states the four laws in one section and applies them to efficient calculation; the other read countries use the laws inside their number work without naming the set, so this lesson is built at that honest size — one country's named treatment, not a merged one. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
 
 Sudan names the laws early and revisits them at every level: commutativity of addition shown with pictures in Grade 1, the distributive property and the relations between the four operations in Grade 3, the properties of addition and of multiplication in the integers in Grade 6 and again in Grade 7, and the full table on the reals in Grade 8 — closure, commutativity, associativity, identities, inverses, cancellation and distributivity checked system by system, with the book's condition-free cancellation corrected in the table above. Malaysia still carries the lesson's founding treatment; Sudan is its widest primary-to-secondary thread.
 

@@ -206,6 +206,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 105:** *Ευκλείδεια Γεωμετρία Β΄ Λυκείου, Τόμος Β (Euclidean Geometry, Volume B), Grade 11 pupil book* (student book) — Greece, ITYE «Diophantos» for the Ministry of Education, ISBN 978-960-06-5317-5. The second volume of the same Euclidean Geometry work as Τόμος Α (Grade 10). Filed in maths/books/greece.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 107:** *Mathematics, Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Congruent = exact fit by matching sides and vertices; triangle congruence tests SSS, SAS, ASA, RHS; similarity by matching sides and vertices; similar-triangle properties; area scale k² and volume scale k³; the scout measuring a tree's height by similar triangles | Libya, Grade 9, Chapter 8 "Congruency and Similarity", opener p.156; 8-1 congruence p.157; 8-2 congruent triangles p.162; 8-3 similarity p.172; 8-4 similar triangles p.173; 8-5 applications of similarity p.179; 8-6 area of similar shapes p.182; 8-7 volume of similar shapes p.185; summary p.189 |
@@ -465,6 +467,13 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Thales' theorem | Armenia, Geometry 8, §4.8, printed p. 21 |
 | Proportional segments | Armenia, Geometry 8, §11.23, printed p. 69 |
 | Thales' generalised theorem | Armenia, Geometry 8, §11.24, printed p. 70 |
+| Enlargement and reduction (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 84a–b Enlargement and reduction, printed pp. 58, 60 |
+| Congruent and similar shapes (Grade 7 Book 1) | South Africa, Grade 7 Book 1, Ws 29 Congruent and similar shapes, printed p. 72 |
+| Enlargement and reduction; more; enlargements and reductions (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 92–94 Enlargement and reduction; More; Enlargements and reductions, printed pp. 62, 64, 66 |
+| Similar triangles (Grade 8 Book 1) | South Africa, Grade 8 Book 1, Ws 54 Similar triangles, printed p. 122 |
+| Enlargement and reduction; enlargement and reduction problems (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 125a–b, 126 Enlargement and reduction; Enlargement and reduction problems, printed pp. 162, 164, 166 |
+| Similar triangles; congruent triangles (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Ws 51a–b Similar triangles, printed pp. 134, 136; South Africa, Grade 9 Book 1, Ws 52a–b Congruent triangles, printed pp. 138, 140 |
+| Enlargement and reduction; more enlargement and reduction (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 112a–b, 113a–b Enlargement and reduction; More enlargement and reduction, printed pp. 124, 126, 128, 130 |
 
 **Acceptance count: taught in 36 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests

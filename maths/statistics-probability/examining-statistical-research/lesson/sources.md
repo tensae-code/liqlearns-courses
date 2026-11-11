@@ -1,11 +1,13 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh
+countries: Turkey, Bangladesh, South Africa
 
 Every part traces to its book and page.
 
 **Book 1:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 **Book 2:** *Mathematics, Class Eight* — Bangladesh, NCTB, published December 2023, experimental edition, National Curriculum 2022, from academic year 2024 (Bangla original + English translation mirror pair). Filed in maths/books/bangladesh.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 3:** *Mathematics, Grade 6 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 1 ISBN 978-1-4315-0037-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -17,8 +19,9 @@ Every part traces to its book and page.
 | Performance task: audit a published nutrition report against the whole research process | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 194 |
 | Review: a lake-level line-graph study audited step by step; a survey whose respondents refused personal questions — the effects on ethics and on results; the safe-behaviour item | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed pp. 195–196 |
 | Judging the reliability of data sources — reliable data sources and honesty in research: checking information before using it | Bangladesh, Class 8 student book, Exp. 1 Mathematical Exploration, printed p. 21 (experience printed pp. 1–24) |
+| Questionnaires — designing data collection (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 23 Questionnaires (designing data collection), printed p. 70 |
 
-**Acceptance count: taught in 2 countries (Turkey, Bangladesh).**
+**Acceptance count: taught in 3 countries (Turkey, Bangladesh, South Africa).**
 
 This lesson exists because Turkey's Grade 7 book teaches the critical audit of research as named, developed material: the second half of its Statistical Research Process theme is titled "Examining statistical research processes" (printed pp. 190–196) and works a mismatched survey dissection, source tracing to the NSIDC, a source-less claim, itemised privacy failures, consent and the KVKK box, an audit performance task and an audit review; its collection step (printed p. 170) names personal-data questions. The course's collecting-and-showing-data lesson carries the research process itself — Turkey's own process lines are stocked there, including its Grade 6 survey-writing treatment with its survey privacy context (Grade 6, printed p. 175) — but no read book puts the audit of a finished study, or privacy and consent, into that lesson, and no lesson in the course carries privacy content at all. Under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source.
 

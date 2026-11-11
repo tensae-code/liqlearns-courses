@@ -23,6 +23,8 @@ Every part traces to its book and page.
 
 **Book 14:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 15:** *Mathematics, Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five regular polyhedra, named and built from nets | Nicaragua, Grade 10, Unit 6 (pp.304–308); South Africa, Grade 8 Workbook, WS127–129 (pp.168–191); South Africa, Grade 9 Workbook, WS114–116 (pp.132–159) |
@@ -58,6 +60,8 @@ Every part traces to its book and page.
 | Platonic solids — The five Platonic solids with their face/vertex/edge counts and element associations (tetrahedron 4-4-6, hexahedron 6-8-12, octahedron 8-6-12, dodecahedron 12-20-30, icosahedron 20-12-30) | Venezuela, Hecho en Venezuela (Grade 6), printed pp. 77–78 |
 | Regular polyhedra: only five exist, with 4, 6, 8, 12 and 20 faces | Ecuador, Matemática, Grade 7 student book, printed p. 72 |
 | Euler formula V − E + F = 2 applied (tetrahedron; the 21-vertex test; the football) | Ecuador, Matemática, Grade 7 student book, printed pp. 75-76 |
+| Platonic solids; Platonic solids again; presenting Platonic solids (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 127–129 Platonic solids; Platonic solids again; Presenting Platonic solids, printed pp. 168, 170, 172 |
+| Polyhedra; polyhedra and non-polyhedra; regular and non-regular polyhedra and non-polyhedra (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 114 Polyhedra, printed p. 132; South Africa, Grade 9 Book 2, Ws 115–117 Polyhedra and non-polyhedra; Regular and non-regular polyhedra and non-polyhedra; Polyhedra and non-polyhedra all around us (contents spells "polyhendra" throughout), printed pp. 134, 136, 138 |
 
 **Acceptance count: taught in 11 countries (Nicaragua, China, Armenia, Greece, South Africa, Syria, Rwanda, India, Venezuela, Ecuador, Tajikistan).**
 

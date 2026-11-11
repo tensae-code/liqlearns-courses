@@ -1,6 +1,6 @@
 # Sources — Sorting and Classifying
 
-countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia
+countries: Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia, South Africa
 
 Every part traces to its book and page.
 
@@ -20,6 +20,8 @@ Every part traces to its book and page.
 
 **Book 13:** *Relaciones Lógico Matemáticas, Grade 1 student book (1ro EGB, Preparatoria)* — Ecuador, Ministerio de Educación, Primera edición 2024, ISBN 978-9942-662-07-1 (Spanish). Filed in maths/books/ecuador.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Mathematics 1, Part 1* (student textbook-notebook) — Armenia, Sokrat Mkrtchyan, Zangak, Yerevan 2025. The held file holds Part 1 only. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 15:** *Mathematics, Grade 1 Book 1; Grade 2 Book 1; Grade 2 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -45,8 +47,11 @@ Every part traces to its book and page.
 | An object (what counts as an object; naming objects around you) | Armenia, Mathematics 1, Part 1, printed p. 6 |
 | Comparing objects by colour (same colour / different colour) | Armenia, Mathematics 1, Part 1, printed p. 8 |
 | Comparing objects by kind (same kind / different kind) | Armenia, Mathematics 1, Part 1, printed p. 10 |
+| Tracking and matching; sorting by colour; sorting and matching shapes; shapes, sizes and colours; sort objects by attribute (Grade 1 Book 1) | South Africa, Grade 1 Book 1, Ws 1 Revision: tracking and matching (mazes, find-the-same), printed p. 2; South Africa, Grade 1 Book 1, Ws 2 Revision: sorting by colour, tracing patterns, printed p. 4; South Africa, Grade 1 Book 1, Ws 4 Revision: sorting and matching shapes, printed p. 8; South Africa, Grade 1 Book 1, Ws 8 Revision: shapes, sizes and colours, printed p. 16; South Africa, Grade 1 Book 1, Ws 28 Sort objects (by attribute), printed p. 60 |
+| Collect and sort (Grade 2 Book 1) | South Africa, Grade 2 Book 1, Ws 15 Collect and sort, printed p. 30 |
+| Data sorting (Grade 2 Book 2) | South Africa, Grade 2 Book 2, Ws 96 Data sorting, printed p. 70 |
 
-**Acceptance count: taught in 12 countries (Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia).** Yemen carries sorting at the very front of its course: sorting by one attribute, then by two, as the first lessons of Grade 1 (Part 1, printed pp. 8, 12), and returns to it as the opening lesson of Grade 2 statistics (Part 2, printed p. 140). Indonesia carries grouping by shape, colour and size inside its Grade 1 shapes chapter (printed pp. 115–144). Kazakhstan carries classifying as set work — composing and classifying sets by a feature — at Grade 2 (Ospanov Part 1, Lessons 56–57). China carries the re-sort: one set sorted by one standard, recorded, then sorted by a different standard so the learner sees the groups change (Grade 1 Volume 2, Unit 3, printed p. 27). Nicaragua carries it as teacher evidence only — the Grade 1 guide's grouping question and its answers (by shape, by use, by colours) in Unit 1 (printed GM pp. 2–51); the guide companions the old Grade 1 student book, which is not in this set, so that row is worded as teacher evidence wherever it is used. North Macedonia enters from its main set — Grade 2 (2023).
+**Acceptance count: taught in 13 countries (Yemen, Indonesia, Kazakhstan, China, Nicaragua, Saudi Arabia, India, Mongolia, Venezuela, North Macedonia, Ecuador, Armenia, South Africa).** Yemen carries sorting at the very front of its course: sorting by one attribute, then by two, as the first lessons of Grade 1 (Part 1, printed pp. 8, 12), and returns to it as the opening lesson of Grade 2 statistics (Part 2, printed p. 140). Indonesia carries grouping by shape, colour and size inside its Grade 1 shapes chapter (printed pp. 115–144). Kazakhstan carries classifying as set work — composing and classifying sets by a feature — at Grade 2 (Ospanov Part 1, Lessons 56–57). China carries the re-sort: one set sorted by one standard, recorded, then sorted by a different standard so the learner sees the groups change (Grade 1 Volume 2, Unit 3, printed p. 27). Nicaragua carries it as teacher evidence only — the Grade 1 guide's grouping question and its answers (by shape, by use, by colours) in Unit 1 (printed GM pp. 2–51); the guide companions the old Grade 1 student book, which is not in this set, so that row is worded as teacher evidence wherever it is used. North Macedonia enters from its main set — Grade 2 (2023).
 
 Saudi Arabia opens its Grade 1 course with the readiness work for sorting itself — picking out named objects, working to a colour instruction, and spotting the smaller of two — the preparation page of the chapter that then teaches sorting by properties.
 

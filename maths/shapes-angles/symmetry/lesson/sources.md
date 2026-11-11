@@ -225,6 +225,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 103:** *NaCCA Standards-Based Curriculum, Basic 4–6* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2019. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 104:** *Mathematics, Grade 1 Book 2; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 5 Book 1; Grade 6 Book 1; Grade 7 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 7 Book 2 ISBN 978-1-4315-0220-2. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -372,6 +374,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Symmetry in traditional carpet and kilim motifs; finding and drawing the symmetry lines of woven patterns | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 207 |
 | lines of symmetry found by paper folding: square has 4, rectangle has 2 | Tanzania, Mathematics Standard Five — Pupil's Book (TIE), printed p. 272 |
 | Standard B4.3.1.1: Identify the lines of symmetry of regular and irregular 2D shapes | Ghana, NaCCA Standards-Based Curriculum, Basic 4–6, Standard B4.3.1.1, printed p. 36 (curriculum evidence only) |
+| Symmetry (Grade 1 Book 2) | South Africa, Grade 1 Book 2, Ws 94 Symmetry, printed p. 60; South Africa, Grade 1 Book 2, Ws 128 Symmetry, printed p. 128 |
+| Symmetry and shapes; symmetry in patterns; more symmetry (Grade 2 Book 2) | South Africa, Grade 2 Book 2, Ws 124 Symmetry and shapes, printed p. 128; South Africa, Grade 2 Book 2, Ws 127 Symmetry in patterns, printed p. 134; South Africa, Grade 2 Book 2, Ws 128 More symmetry, printed p. 136 |
+| Symmetry — fold lines in shapes and pictures (Grade 3 Book 1) | South Africa, Grade 3 Book 1, Ws 48 Symmetry (fold lines in shapes/pictures), printed p. 110 |
+| More about symmetry (Grade 3 Book 2) | South Africa, Grade 3 Book 2, Ws 115 More about symmetry, printed p. 106 |
+| Lines of symmetry (Grade 5 Book 1) | South Africa, Grade 5 Book 1, Ws 58a–b Lines of symmetry, printed pp. 158, 160 |
+| Reflection symmetry; more reflection symmetry (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 38–39 Reflection symmetry; More reflection symmetry, printed pp. 104, 106 |
+| Reflection and reflective symmetry (Grade 7 Book 2) | South Africa, Grade 7 Book 2, Ws 89 Reflection and reflective symmetry, printed p. 56 |
 
 **Acceptance count: taught in 37 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Libya, Vietnam, Ghana, Laos, Yemen, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, India, Mongolia, Venezuela, Afghanistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania).**.** Greece carries symmetry from the very start Iran completes the missing halves of pictures in Grade 1, folds and mirrors shapes in Grade 2, names axial and central symmetry in Grade 5, and adds the centre of symmetry and rotation in Grade 6.
 — folding and mirror completion in Grade 1, the fold-along-the-
