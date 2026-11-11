@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -280,8 +280,10 @@ verification sweep.
 | Verbs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 3 (Grammar Usage), standard B5.3.5.1, PDF p.139 (curriculum evidence) |
 | Using Action Words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 5 (Using Writing Conventions), standard B5.5.4.1, PDF p.168 (curriculum evidence) |
 | Explore the use of proverbs to enrich communication | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 3 (Grammar Usage), standard B7.3.4.1, PDF p.59 (curriculum evidence) |
-**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua).** India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
+| Action phrases met in a numbering activity: read a book, play with a ball, listen to music, watch TV | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Checkpoint 7, Lesson 8, pupil printed p.58 |
+| Action verbs set — hear, read, dance, cook, jump, draw, sing, see, fly, run — matched to pictures | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.66 |
+**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia).** North Macedonia joins with the action phrases and the action-verb set as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with action words found and matched inside Class 3's "How Creatures Move" (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the formal definition;
 Libya the shortest one; Ghana the test and the smallest
 sentence shape; Egypt the review work and the he/she/it -s rule;
@@ -353,3 +355,9 @@ Armenia joined 2026-11-03: it carries the irregular-verb list as the verb system
 **Book 3:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. Both rows above are teacher evidence: they rest on this book's reproduced pupil pages and notes for the Module 7 and Module 8 Checkpoints of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Checkpoint 8 ability frame built on these verbs ("Oscar can jump!") stocks can-for-ability.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

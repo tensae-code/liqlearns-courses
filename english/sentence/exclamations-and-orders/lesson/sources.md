@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia
 
 Every part traces to its book and page.
 
@@ -125,9 +125,10 @@ covers the 6th Year book only).
 | The adjustment-period commands repeated | Nicaragua, Activity Book Multigrado, printed pp.4–14 (mirror of Activity Book 1) |
 | Imperatives — a revision lesson | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
 | Imperatives in recipes — chop, mix; and the negative imperatives ("I love to cook!") | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 17, printed p.79 |
+| Classroom commands in a TPR song: look and listen, stand up, sit down, open your book, close your book, hands up, hands down | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 2, pupil printed p.22 |
 
-**Acceptance count: taught in 9 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece).** Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 10 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia).** North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -160,3 +161,9 @@ by the Mauritania re-verification sweep merge).
 **Ghana stocked 2026-11-10 (re-verification sweep merge):** Ghana's rows in this lesson are curriculum, teacher-guide and learners'-workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
 **Nicaragua — sweep additions (stocked 2026-11-11 by the re-verification sweep merge):** Nicaragua was already counted in this lesson from Activity Book 3's imperatives Grammar Tip (printed p.13), so the acceptance count does not change. The sweep adds the primary books' classroom commands (Activity Book 1, printed pp.8–10, and their Multigrado mirror), the Grade 7 module's imperatives revision lesson (Unit 2), and the Grade 8 book's recipe imperatives with their negatives (Lesson 17, printed p.79).
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 3 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 3 pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The town
 
-countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua
+countries: Bangladesh, Egypt, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -268,8 +268,10 @@ re-verification sweep.
 | “The place we live in” — places, services, occupations and transport words | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 1, printed pp.38–41 |
 | “Talking about a city in Greece” — writing a guidebook text about a city | Greece, Αγγλικά (Anglika) Grade 5 Pupil's Book, Unit 3, Lesson 3, printed pp.45–48 |
 | Workbook “Different Places – Different Buildings” — practice on types of buildings across cultures with the unit's texts | Greece, Think Teen! Grade 8 Advanced Workbook, Unit 1, Lesson 3, WB printed pp.5–16 |
-**Acceptance count: taught in 33 countries (Bangladesh, Egypt,
-Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua).** India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
+| Places met in a matching activity: a jungle, a zoo, a supermarket, a candy shop (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.50 |
+| Culture spot "Welcome to Britain": the London Eye — a teacher-read landmark text (135 metres high, capsules, views over London) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 5, pupil printed p.56 |
+**Acceptance count: taught in 34 countries (Bangladesh, Egypt,
+Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, India, Nicaragua, North Macedonia).** North Macedonia joins with the Checkpoint places set and the London Eye culture spot as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the town poem "Sing a Song of People" read whole in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Egypt
 carries the first set twice (Primary 1's
 eight words with their dialog; Primary 2's city set);
 Bangladesh carries city life as a topic, against village life;
@@ -352,3 +354,9 @@ Vientiane's landmarks to direct over (pp.66–70).
 **Book 5:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. Both rows above are teacher evidence: they rest on this book's reproduced pupil pages and notes for Modules 6–7 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -107,15 +107,21 @@ covers the 6th Year book only).
 | Family words, with their opposites | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 1, Lesson 1 |
 | Family types — extended, nuclear, single-parent | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 | Family words; personality qualities | Nicaragua, Grade 10 Módulo Autoformativo, Unit 1A |
+| Craftwork "Make a heart": heart cards carrying "I love you Daddy! / I love you Mummy!" | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 2, printed p.5 |
+| The family song's full verses — the daddy, sister and brother verses beyond the mummy verse the pupil page prints | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), Module 1, Lesson 2 audioscript, Teacher's Book p.5(T) (pupil printed p.5) |
+| Big families and small families — "This is my family. I've got a big/small family." — with the wider set grandad, grandma, aunt, uncle, cousin (Activity Book "Going for CLIL" 1, PSHE; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 1 key and instructions, Teacher's Book p.124(T) |
 
 **Acceptance count: taught in 12 countries (Mongolia, North
 Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran,
 Indonesia, Mauritania, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
-and the formal/informal pair side by side — its copy holds
-only the book's opening (printed pp.3–11), and nothing
-beyond that is claimed; Mongolia carries the wide tree —
+and the formal/informal pair side by side — its pupil copy
+holds only the book's opening (printed pp.3–11); the heart
+craft sits inside that opening, and the song's full verses
+and the CLIL family lesson join as Teacher's Book evidence
+(stocked 2026-11-11 by the North Macedonia re-verification
+sweep merge); Mongolia carries the wide tree —
 in-laws, great grandfather, nephew — twice, at Grades 9
 and 10; Rwanda carries the tree as a crossword map in its
 final primary year; Bangladesh carries the family as a
@@ -151,3 +157,7 @@ verification sweep merge).
 **Book 6:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia — sweep additions 2026-11-11 (re-verification sweep merge)
+
+**Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the earlier North Macedonia sections in this file covered only the Pupil's Book. North Macedonia was already counted in this lesson, so the acceptance count does not change. The Teacher's Book rows are teacher evidence: the secured Pupil's Book copy holds printed pp.3–11 only, and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Teacher's Book's own Programme overview (pp.IX–X) lists Module 1's craftwork as "make a headband" — a copy error in the book; the lesson itself (pupil printed p.5) is "Make a heart", and the rows follow the lesson. Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

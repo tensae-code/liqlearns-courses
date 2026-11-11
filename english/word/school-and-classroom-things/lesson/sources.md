@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -35,8 +35,10 @@ Every part traces to its book and page.
 | School supplies — the unit's word set | Nicaragua, Activity Book 3 (Grade 3), Unit 4, printed pp.21–27 |
 | Classroom objects — the secondary course's first lesson | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 1, printed p.2 |
 | Classroom objects | Nicaragua, Grade 7 Módulo Autoformativo, Unit 2 |
+| The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
+| Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 5 countries (China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 6 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -70,3 +72,11 @@ which names the thing itself.
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 Remap noted 2026-11-11: the sweep's placements named these items under the older school-subjects target; the school OBJECTS and supplies stock here, in the lesson built for classroom things (the Mongolia sweep merge routing) — the true subject items stock in school-subjects.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. Both rows above are teacher evidence: they rest on this book's reproduced pupil pages and notes for Module 3 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 3 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Routing noted 2026-11-11: the North Macedonia sweep placements marked the school things set "NEW LESSON NEEDED: school things (classroom objects)"; it stocks here, in the lesson built for exactly that topic by the China sweep merge — no second lesson is built.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -351,8 +351,14 @@ cited once.
 | Natural against processed foods — the supermarket sort: seeds, radish and asparagus against cookies, soda and canned tuna | Mexico, Grade 7, Project 17 "Where Does Our Food Come From?", printed p. 155 |
 | Food picture flashcards and cut-outs (cake, pizza, banana, sandwich, popcorn, fries) — first food words as pictures to name and sort | Greece, Alpha English Grade 1 Workpack, food flashcards and cut-outs (A_A03_F01-8), PDF pp.7–8 |
 | Breakfast foods; countable and uncountable nouns | Mongolia, English XII, Unit 8, printed pp.136–137 |
-**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
-Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua).**
+| Food word set 1 — cake, biscuits, eggs, chicken, chocolate, fish, carrots, apples — with the likes frame "I like fish, yummy! / I don't like fish, yuk!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 1, pupil printed p.44 |
+| Food word set 2 — ice cream, pizza, cheese, chips, milk, bread — with the yes/no exchange "Do you like ice cream? — Yes, I do! / Do you like milk? — No, I don't!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 3, pupil printed p.46 |
+| Culture spot "Welcome to Britain": fish and chips — "I like fish and chips. There are lots of Fish and Chip shops in the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 5, pupil printed p.48 |
+| Project frame "My favourite food is pizza! Yummy!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 6, pupil printed p.48 |
+| Fruit or vegetable? — fruits strawberry, apple, orange, lemon, pear, banana against vegetables carrot, aubergine, potato, onion, peas, pepper (Activity Book "Going for CLIL" 6, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 6 key and instructions, Teacher's Book pp.131(T)–132(T) |
+**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
+Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia).**
+North Macedonia joins with the two food sets and their likes exchanges, the fish-and-chips culture spot, the favourite-food frame and the fruit-or-vegetable CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge).
 Egypt carries the meals and the breakfast plate;
 Bangladesh carries the like-exchange and the healthy sorting;
 Palestine carries the fruit set with its a/an pair and the
@@ -425,3 +431,9 @@ books are read (see READING-QUEUE.md). Mexico's Grade 7 book works food as cultu
 **Book 5:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All five North Macedonia rows in this lesson are teacher evidence: four rest on this book's reproduced pupil pages and notes for Module 6 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 6 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5); the fruit-or-vegetable row rests on the Activity Book CLIL key this book prints (the Activity Book itself is not in hand). The same book's Module 6 sound spot stocks two-letter-sounds.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

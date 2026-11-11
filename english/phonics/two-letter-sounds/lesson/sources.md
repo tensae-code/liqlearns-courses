@@ -1,6 +1,6 @@
 # Sources for this lesson — Two-letter sounds
 
-countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana
+countries: Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, Ghana, North Macedonia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. The two-letter sets lived inside the alphabet
@@ -255,6 +255,9 @@ verification sweep.
 | Phonics — read single-syllable words with taught consonant blends | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.2.1, PDF p.42 (curriculum evidence) |
 | Diphthongs — Use closing diphthongs e.g. /ei/, /ai/, /oi/ to make | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.4.1, PDF p.44 (curriculum evidence) |
 | Diphthongs | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.4.1, PDF p.194 (curriculum evidence) |
+| Sound spot: telling apart and saying the /t/ and /θ/ sounds (two, ten against three, thirteen) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
+| Sound spot: telling apart and saying the /k/ and /tʃ/ sounds (cake, carrots against chicken, chocolate), inside a food chant | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 2, pupil printed p.45 |
+| Sound spot: telling apart and saying the /s/ and /ʃ/ sounds (sun, summer against shirt, shorts) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 2, pupil printed p.61 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the full pair set; the text now
 teaches all of it. Sub lesson 3 (More pairs) is carried by
@@ -273,7 +276,7 @@ ow/ou split) and the China Grade 4 row (the r-controlled
 ladder er · ir/ur/er · ar · or). The cover test moved from
 Sub lesson 3 to Sub lesson 5; no existing row changed.
 
-**Acceptance count: taught in 28 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India).** India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 29 countries (Egypt, Libya, Laos, Barbados, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, India, North Macedonia).** North Macedonia joins with its Grade 2 course's three Sound spots — /t/ against /θ/, /k/ against /tʃ/, /s/ against /ʃ/ — as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum and workbook evidence only, as before, and is not in this count.) India joins with Class 2's dr-, thr-, gr- say-aloud sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds the first r-controlled-vowel ladder taught as a named
 system (Grade 4 Volume 2), a run of one-pair-per-page Let's spell
 lessons across Grades 5–6 (ea/ee, ow/ou, oo, ch/sh, th, ng/nk,
@@ -752,3 +755,7 @@ thing and live in phonics/blends.)
 **Book:** English Language Learners' Workbook, Lower Primary Level 3 (Differentiated Learning) — Ghana, MoE/GES (2020). Pupil-facing practice book for the distance-learning programme; workbook evidence — not a pupil textbook. Filed in english/books/ghana.md from the 2026-11-08 re-verification sweep.
 
 **Book:** English Language Curriculum for Basic 4–6 — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education (2019). Filed in english/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep. Curriculum evidence only, worded as such wherever cited.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The three Sound spot rows are teacher evidence: they rest on this book's reproduced pupil pages and notes for Modules 3, 6 and 8 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

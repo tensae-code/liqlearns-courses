@@ -1,6 +1,6 @@
 # Sources — Asking yes/no questions
 
-countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua
+countries: Bangladesh, Bolivia, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -292,9 +292,10 @@ cited once.
 | Yes/no questions with do/does and be — short answers, on family and daily life | Bolivia, Texto de Aprendizaje (English), Grade 4 (Primaria 4) student book, printed pp. 10–11 |
 | Do/Does questions — Do you play the piano? / Does Jhon plays the piano? as the book prints them (taught corrected: Does John play the piano?) | Bolivia, Texto de Aprendizaje (English), Grade 7 (Secundaria 1) student book, printed pp. 53–54 |
 | Yes/no questions built two ways — with be (am/is/are) and with do/does — with dialogue practice asking and answering identity questions in the simple present | Mexico, Grade 7, Project 2 "My Individual and Collective Identity", printed pp. 21, 25 |
-**Acceptance count: taught in 34 countries (Bangladesh,
+| The Easter egg game exchange "Have you got my egg? — No!", with making an Easter bunny mask | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.71 |
+**Acceptance count: taught in 35 countries (Bangladesh,
 Bolivia, Mongolia, Laos, China, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua).** Bolivia boxes the do/does engine;
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Mexico, Nicaragua, North Macedonia).** North Macedonia joins with the Easter yes/no guessing game as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Bolivia boxes the do/does engine;
 Mongolia works the be-swap on its doing-now questions;
 Bangladesh teaches the voice the question rides on; China
 adds the full shelf of shapes across its primary run — be,
@@ -390,3 +391,9 @@ invert, other verbs take the "helping verb" Do/Does
 **Book 4:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for the Happy Easter! lesson of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

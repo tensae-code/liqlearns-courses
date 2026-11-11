@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua
+countries: Bolivia, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -25,11 +25,18 @@ Every part traces to its book and page.
 | Prepositions of place — listening-led, with next to / behind / in front of worked in the reading | Nicaragua, Activity Book 3 (Grade 3), Unit 9, printed pp.59, 61–62 |
 | Prepositions of place | Nicaragua, Grade 7 Módulo Autoformativo, Unit 3 |
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
+| Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 2 country (Bolivia, Nicaragua).**
+**Acceptance count: taught in 3 countries (Bolivia, Nicaragua, North Macedonia).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
 Searchable tag: the books' own name for this part is “prepositions of place” (Primaria 3 house unit; compendium Year 1).
 
 Nicaragua joins with the Multigrado book's first place prepositions (in/on/under, printed p.37) and "Where's the…?" frame (p.38), Activity Book 3's listening-led set (printed pp.59, 61–62), the Grade 7 module's Unit 3 set, and the Grade 8 module's full set (next to, in front of, across from, between, opposite, behind) (stocked 2026-11-11 by the re-verification sweep merge).
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 7:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 5's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The sweep's placements marked the item "NEW LESSON NEEDED: where things are (in, on, under)"; it stocks here, in the lesson built for exactly that topic (routing noted 2026-11-11 by the re-verification sweep merge).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

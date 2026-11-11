@@ -179,6 +179,10 @@ about the other person, and close the talk.*
   size-and-measure questions, How big / How long / How tall /
   How much does it weigh?, of Nicaragua's Grade 8 Student's
   Book, Lesson 2, which no lesson housed)
+- **Sweep addition (2026-11-11, North Macedonia re-verification
+  sweep merge):** sounds-and-sound-words ✅ (1 lesson — the
+  sound words clap, boom, ring, bang, buzz of North Macedonia's
+  Grade 2 course's CLIL music lesson, which no lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -851,6 +855,33 @@ Grade 10 reading's "Karla. He is a student"). Nothing else is
 excluded: 389 fresh items = 5 already in + 382 stocked + 2
 excluded. The English path now stands at **210 lessons across
 44 units**.
+
+**North Macedonia stocked 2026-11-11 (re-verification sweep
+merge):** the sweep re-read North Macedonia's whole two-book
+Grade 2 set page by page — the Pupil's Book *EXTRA and Friends
+2* (Edition for North Macedonia 2025) and its 208-page Teacher's
+Book. The pupil copy in hand is a PARTIAL COPY holding printed
+pp.3–11 only (Welcome! + Module 1 + Checkpoint 1), so the 13
+pupil items rest on pages in hand and the 72 Teacher's Book
+items are stocked as teacher evidence throughout — the sweep
+proved the Teacher's Book reproductions do not always match the
+adapted pupil edition (diff flag F5), so no teacher-evidence row
+is cited as a pupil page in hand. 85 fresh items = 7 already in
+the course + 78 stocked, 0 excluded: the stocked items land in
+29 existing lessons and **1 NEW LESSON**:
+**sounds-and-sound-words** (Unit 7 — the sound words clap, boom,
+ring, bang, buzz of the course's CLIL music lesson). Five of the
+placements' named-NEW topics already had homes and were routed
+there and noted (shapes; toys and presents; school things; where
+things are — in, on, under; can for ability). Two course-side
+errors the sweep proved are fixed in this merge: the
+un-stockable gift dialogue and the Mother's/Father's Day culture
+spot, both claimed as stock by the filing but never built, are
+stocked now in congratulating-and-wishing and family-words (diff
+flags F3, F4). The pupil book's Modules 2–8 remain owed by the
+library side — everything outside pp.3–11 stands on Teacher's
+Book evidence until the full pupil book lands. The English path
+now stands at **211 lessons across 44 units**.
 
 ---
 *Kept current as books are read: when a book is finished, its units are

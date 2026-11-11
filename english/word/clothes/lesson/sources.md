@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -73,9 +73,15 @@ verification sweep.
 | Clothes words — "What can I wear today?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 18, printed p.86 |
 | More clothes words — "What else do you wear?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 19, printed p.89 |
 | Jewelry and accessories | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 22, printed p.100 |
+| Clothes word set 1 — shorts, trousers, a shirt, a T-shirt, a skirt, a dress — with "Who's got a shirt? — Milly (has)." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 1, pupil printed p.28 |
+| The "super clothes" song — "I've got a lot of super clothes… I've got a lot of blue T-shirts. I like my blue T-shirts!" — have got for the clothes you have | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 2, pupil printed p.29 |
+| Clothes word set 2 — a coat, a jacket, a scarf, a hat, shoes, boots — with the yes/no exchange "Have you got a coat? — No, I haven't. / Have you got boots? — Yes, I have." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 3, pupil printed p.30 |
+| Culture spot "Welcome to Britain": Scottish kilts — "In Scotland, men wear skirts on special days. They are called kilts." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 5, pupil printed p.32 |
+| Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
+| Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 7 countries (Bolivia, Cambodia,
-Mongolia, China, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 8 countries (Bolivia, Cambodia,
+Mongolia, China, India, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -100,3 +106,9 @@ READING-QUEUE.md).
 **Book 3:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All six North Macedonia rows in this lesson are teacher evidence: five rest on this book's reproduced pupil pages and notes for Module 4 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 4 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5); the materials row rests on the Activity Book CLIL key this book prints (the Activity Book itself is not in hand).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

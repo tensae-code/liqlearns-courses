@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -336,8 +336,9 @@ verification sweep.
 | Use cohesive devices (pronouns, punctuations | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 7, Strand 4 (Writing), standard B7.4.1.1, PDF p.60 (curriculum evidence) |
 | Singular and plural forms — use an increasing range of singular and plural forms in sentences | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.1, PDF p.86 (curriculum evidence) |
 | Use noun phrases accurately in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.1, PDF p.118 (curriculum evidence) |
-**Acceptance count: taught in 35 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua).** India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
+| Singular against plural, chosen word by word: an apple/apples, an egg/eggs, a carrot/carrots, a cake/cakes — the plural -s on nouns (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.51 |
+**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia).** North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -417,3 +418,9 @@ pp.99–108).
 **Book 2:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 6's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Checkpoint's own shopping-picture list prints "eggs/egg" inconsistently against the teacher's key (sweep placements note) — the row cites the choice work itself, not the key.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

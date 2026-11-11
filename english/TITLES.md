@@ -118,6 +118,9 @@ its own subtitle folder with its own lesson + questions):
   the World**) ·
   asking-about-size-and-measure (added 2026-11-11 by the
   Nicaragua re-verification sweep merge — **Unit 7, Words
+  for the World**) ·
+  sounds-and-sound-words (added 2026-11-11 by the North
+  Macedonia re-verification sweep merge — **Unit 7, Words
   for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own

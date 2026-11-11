@@ -1,6 +1,6 @@
 # Sources — Days and months
 
-countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua
+countries: Bangladesh, Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -244,9 +244,10 @@ covers the 6th Year book only).
 | Days and months recapped in the Chapter 0 opening block, with in / on used with dates | Indonesia, English for Nusantara Grade 7, Chapter 0 "The Beginning," printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The same Chapter 0 recap block carried again at Grade 9 | Indonesia, English for Nusantara Grade 9, Chapter 0, printed p.1 (stocked 2026-11-09 by the re-verification sweep merge) |
 | The days of the week with the ordinals first–seventh | Mauritania, Study English, Grade 7, printed pp.54–55 |
+| The seven days of the week — Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday — presented as a "Look and say" set | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 8, pupil printed p.66 |
 | The months of the year with ordinals to twelfth, and saying today's date | Mauritania, Study English, Grade 7, printed pp.56–57 |
-**Acceptance count: taught in 33 countries (Bangladesh,
-Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua).** Egypt
+**Acceptance count: taught in 34 countries (Bangladesh,
+Egypt, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Nicaragua, North Macedonia).** North Macedonia joins with the seven days of the week as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Egypt
 carries the days first (its school-week
 order, Saturday-first); Bangladesh carries the days on a
 Sunday-first calendar, the months with their ordinal numbers,
@@ -356,3 +357,9 @@ first of January" (p.99).
 **Book 5:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 8's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The same book's Easter lessons stock asking-yes-no-questions and congratulating-and-wishing.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — The body
 
-countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua
+countries: Egypt, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -208,8 +208,12 @@ verification sweep.
 | My body: hair, head, eye, ear, mouth, shoulder, nose, arm, stomach, elbow, hand, fingers, knee, leg, foot | Bolivia, Texto de Aprendizaje (English), Grade 1 (Primaria 1) student book, printed pp.22–24 |
 | The parts of the body as a chapter's own set — eyes, nose, ears | Indonesia, English for Nusantara Kids Grade 4, printed p.107 (stocked 2026-11-09 by the re-verification sweep merge) |
 | A body poem read whole: "Noses" (Aileen Fisher) — the nose is the funniest thing, stuck out in the middle of the face with two holes where the breathing goes | India — Marigold Book Four (Class 4), Unit 2, printed pp.17–36 |
-**Acceptance count: taught in 34 countries (Egypt, Palestine,
-Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua).** India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
+| Face words — nose, hair, ears, face, eyes, mouth — with the guessing exchange "Is it the nose? — Yes! / Is it the hair? — No!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 1, pupil printed p.52 |
+| A chant: "Touch my face, touch my hair! Touch my ears, touch my mouth, touch my eyes… Two of those!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 2, pupil printed p.53 |
+| Body words arm and leg with the command game "Touch your arm!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
+| The action song "If you're happy and you know it, clap your hands / nod your head / stamp your feet" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 3, pupil printed p.54 |
+**Acceptance count: taught in 35 countries (Egypt, Palestine,
+Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Tanzania, Bolivia, India, Nicaragua, North Macedonia).** North Macedonia joins with the face words, the touch chant, arm and leg, and the happy action song, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with the body poem "Noses" in Class 4 (stocked 2026-11-09 by the India re-verification sweep merge).
 Palestine carries the core seven by touch;
 Egypt carries the parts at work in the five sense sentences,
 plus three more inside its letter pages; China carries the
@@ -283,3 +287,9 @@ stomachache (p.73).
 **Book 4:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All four North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and notes for Module 7 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 7 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Numbers
 
-countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua
+countries: Egypt, India, Palestine, Laos, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -369,6 +369,10 @@ verification sweep.
 | A counting story the book begins and children continue: "Counting Clouds" — one little cloud, two little clouds…; the child writes what the fifth and sixth clouds did | India — Marigold Book Two (Class 2), Unit 4 story-completion, printed pp.54–71 |
 | Counting in verse, read whole: "On My Blackboard I can Draw" — one house, one green door, two gates, three steps, four chimneys, five windows, six marigolds | India — Marigold Book Two (Class 2), Unit 7, printed pp.105–121 |
 | Numbers 1–10 sheets: counting frogs and a number train (1–5 first, then 6–10) | Greece, Alpha English Grade 1 Workpack, numbers sheets (A_B06, A_B08_W01–2), PDF pp.15, 38–39 |
+| Numbers 1–10 in a counting song ("One, two, me and you! … Nine, ten … let's start again!") with a colour-group command game, "All the reds, stand up with me!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 3, pupil printed p.15 |
+| Number-word order work: "What's before? What's after? Say the number." over sequences of the number words 1–10 (Checkpoint 2) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 8, pupil printed p.18 |
+| Numbers 11–20 (eleven … twenty), taught by listen-and-colour | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 1, pupil printed p.20 |
+| Adding up inside 20 as dialogue — "What's twelve plus two? — Fourteen!" — worked on a blackboard of sums | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 1, pupil printed p.21 |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the whole climb; the text now
 teaches all of it. Sub lesson 4 (Numbers Past 100) is carried
@@ -382,9 +386,9 @@ row (first–thirty-first), the China Grade 5 Volume 2 row
 (ordinals as a date system) and the Afghanistan Grade 7 row
 (ordinals listed whole, 1st to 100th).
 
-**Acceptance count: taught in 36 countries (Egypt, India,
+**Acceptance count: taught in 37 countries (Egypt, India,
 Palestine, Laos, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua).** India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, Mexico, Nicaragua, North Macedonia).** North Macedonia joins with the numbers 1–10 song, number-word order work, and numbers 11–20 with the adding-up dialogue, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India adds two Class 2 counting pieces — the "Counting Clouds" story children continue, and counting in verse on a blackboard (stocked 2026-11-09 by the India re-verification sweep merge). Palestine carries the youngest path (numbers
 inside the word units, traced); Egypt carries the counting
 question and the climb (1–5, 11–20, by tens to 100); India
 carries the same 1–20 in its first book; China carries the
@@ -494,3 +498,9 @@ a whole song that sings three numbers (p.14).
 **Book 6:** *Módulo Autoformativo de Inglés, Grade 7* — self-study module — Nicaragua, Ministerio de Educación (MINED), 168 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All four North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and audioscripts for Modules 2–3 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 2–3 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

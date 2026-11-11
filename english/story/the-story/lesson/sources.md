@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -637,8 +637,17 @@ verification sweep.
 | Story writing — beginning, middle, conclusion (Additional Activities) | Nicaragua, Secondary English, Grade 10 Student's Book, Additional Activities, printed p.81 (PDF p.87) |
 | A fable read whole — The Moth and the Star (filed as a summary only) | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 8 |
 | Story elements — Who / Where / When / What / Why — and describing story characters | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2C |
-**Acceptance count: taught in 36 countries (Bangladesh,
-Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua).** India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
+| Listening story in six panels: friends bring cards and gifts to Wendy's birthday party, and the present Extra brought releases a birthday greeting when the box opens (plot summary; the dialogue is audio-only in the secured pupil copy) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 4, printed p.7 |
+| The same birthday story as a printed reading text — Wendy's birthday dialogue, with the age exchange and the gift thanks (printed only in the Teacher's Book; the secured pupil copy prints no dialogue for this lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), Module 1, Lesson 4, pupil printed p.7; Teacher's Book pp.7(T)–8(T) |
+| Story: the friends play hide-and-seek — "Let's play Hide and Seek!", "Close your eyes and count to ten.", "Coming!" (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 4, pupil printed p.16 |
+| Story: Tom's school day — he loses his book, finds it again, and Extra is discovered inside his schoolbag (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 4, pupil printed p.24 |
+| Story: Tom and Wendy turn out to be wearing the same new T-shirt; after the swap mishaps they tell the two shirts apart by colour (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 4, pupil printed p.31 |
+| Story: meeting dogs in the park — a big dog chases the friends and everyone ends up in the pond (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 4, pupil printed p.39 |
+| Story: a picnic where a bee goes after the pizza and Extra ends up covered in food (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Lesson 4, pupil printed p.47 |
+| Story: at the fair the friends paint their faces and Extra cannot recognise them (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 7, Lesson 4, pupil printed p.55 |
+| Story: a hot beach day where Extra rubs ice cream on himself instead of sun cream (plot summary) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 4, pupil printed p.63 |
+**Acceptance count: taught in 37 countries (Bangladesh,
+Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia).** North Macedonia joins with its Grade 2 course's eight module stories — the birthday story read in the pupil book's secured opening, the rest as Teacher's Book evidence, all as plot summaries (stocked 2026-11-11 by the re-verification sweep merge). India joins with stories from all twelve of its NCERT books — the primary folk tales and picture stories of Marigold, the Honeysuckle, Honeycomb and Honeydew stories, Beehive's and First Flight's named stories, and Hornbill's and Flamingo's long prose (stocked 2026-11-09 by the India re-verification sweep merge). Ghana names the narrative mode; Bangladesh
 teaches stories from its earliest classes with the fables;
 Egypt reads whole stories through the secondary years;
 China names the story's three parts outright (setting,
@@ -750,3 +759,11 @@ READING-QUEUE.md). Mexico stocks story at project scale: its Grade 7 book's lite
 **Book 2:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2, Pupil's Book* (Jenny Dooley – Virginia Evans) — student book, Grade 2 — North Macedonia, Express Publishing (with Ekspres buk ELT), Edition for North Macedonia 2025 (course © 2013), ISBN 978-1-3992-2379-9. Filed in english/books/north-macedonia.md. PARTIAL COPY: the secured file holds printed pp.3–11 only (Welcome!, Module 1, Checkpoint 1); the book's own Contents runs to printed p.115+. Re-read page by page in the 2026-11-08 re-verification sweep. Only the Module 1 birthday story sits inside that secured opening.
+
+**Book 2:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The Module 2–8 story rows rest on this book alone (teacher evidence) — its reproduced pupil pages and notes: those pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). All North Macedonia stories are stocked as plot summaries only; no story text is transcribed.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

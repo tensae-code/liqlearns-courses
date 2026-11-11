@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -64,9 +64,12 @@ verification sweep.
 | "My favorite color is…" | Nicaragua, Activity Book 1 (Grade 1), Unit 3, printed pp.24–29 |
 | The adjustment-period colours repeated | Nicaragua, Activity Book Multigrado, printed pp.4–14 (mirror of Activity Book 1) |
 | The colour set widened — gray, beige, brown — inside the environment unit | Nicaragua, Activity Book Multigrado, Unit 6, printed pp.39–42 |
+| A colours chant: colouring stars red, blue, pink, green, yellow and singing the colours, with the frame "I'm (Anna). I'm in the (yellow) group." and a name-headband craft | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 2, pupil printed pp.13–14 |
+| Culture spot "Welcome to Britain": the Union Jack — "This is the Union Jack. It's red, white and blue. It's the flag of the UK." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 5, pupil printed p.17 |
+| Project frame "My favourite colour is …", with same-colour things drawn (sun, banana, flower for yellow) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Lesson 6, pupil printed p.17 |
 
-**Acceptance count: taught in 8 countries (Palestine, Bolivia,
-Mongolia, Iran, Indonesia, India, Greece, Nicaragua).** Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 9 countries (Palestine, Bolivia,
+Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -83,3 +86,9 @@ READING-QUEUE.md).
 **Book 2:** *English Activity Book Multigrado* — activity book, one file serving the Multigrado Grades 1–6 rows — Nicaragua, Ministerio de Educación (MINED), 50 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All three North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and notes for Module 2 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 2 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The same book's Module 2 shape phrases stock the shapes lesson.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

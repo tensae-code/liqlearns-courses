@@ -1,6 +1,6 @@
 # Sources — Can for Ability
 
-countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua
+countries: Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -59,8 +59,9 @@ verification sweep.
 | Can for job skills — affirmative, negative and questions | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3A, PDF p.78 |
 | Can / can't for ability | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 2 |
 | Can for ability, possibility and permission | Nicaragua, Grade 10 Módulo Autoformativo, Unit 2A |
+| Ability frame with can: "Oscar can jump!" worked over five pictured children doing actions | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Checkpoint 8, Lesson 9, pupil printed p.67 |
 
-**Acceptance count: taught in 6 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua).** India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Bolivia, Iran, Indonesia, Mauritania, India, Nicaragua, North Macedonia).** North Macedonia joins with the Oscar ability frame as Teacher's Book evidence from its Grade 2 course — the sweep's placements marked this NEW LESSON NEEDED: can for ability; it stocks here, in the lesson built for exactly that (routing noted 2026-11-11 by the re-verification sweep merge). India joins with can/cannot ability sentences as Class 3 talk time — the sweep placements marked this NEW LESSON NEEDED: ability-with-can; it joins here because this lesson already teaches exactly that (routing noted in the sweep merge, 2026-11-09) (stocked 2026-11-09 by the India re-verification sweep merge).
 Mauritania teaches can/can't for ability in Grade 7 and the
 full can/could range — ability, probability, suggestion,
 surprise — in Grade 12 (stocked 2026-11-09 by the Mauritania
@@ -87,3 +88,9 @@ Searchable tag: the books' own names for these parts are “Modal verb CAN” (P
 **Book 5:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 8's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The same Checkpoint's action-verb set stocks verbs.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

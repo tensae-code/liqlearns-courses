@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -135,9 +135,13 @@ verification sweep.
 | Weather words, an extended set | Nicaragua, Activity Book 4 (Grade 4), Unit 2, printed pp.11–17 |
 | Seasons and weather — "Is it hot in your city?" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 2C, printed p.65 |
 | "It's" + weather adjective, and the noun+y adjectives — cloudy, windy, rainy, foggy | Nicaragua, Grade 8 Módulo Autoformativo, Unit 3A, printed p.76 |
+| The four seasons — spring, summer, autumn, winter — matched to season pictures, with the exchange "What's my favourite season? — Winter!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 1, pupil printed p.60 |
+| The seasons chant, tying each season to its sign — "Summer for the sun, Autumn for the rain, Winter for the snow, Spring for the flowers!" (new sign words sun, rain, snow, flower) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 2, pupil printed p.61 |
+| Weather sentences — "What's the weather like? — It's raining. / It's sunny. / It's snowing. / It's hot. / It's cold." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 3, pupil printed p.62 |
+| Culture spot "Welcome to Britain": British weather — "Spring, summer, autumn, winter in the UK. Bring an umbrella … anyway!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 8, Lesson 5, pupil printed p.64 |
 
-**Acceptance count: taught in 12 countries (Albania, Bolivia,
-Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua).** Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 13 countries (Albania, Bolivia,
+Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -174,3 +178,9 @@ merge).
 **Book 3:** *Módulo Autoformativo de Inglés, Grade 8* — self-study module — Nicaragua, Ministerio de Educación (MINED), 120 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All four North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and notes for Module 8 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 8 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The Module 8 because-frame stocks connectors-and-clauses, and its /s/–/ʃ/ sound spot stocks two-letter-sounds.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

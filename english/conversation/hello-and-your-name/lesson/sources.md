@@ -207,6 +207,9 @@ rendered page the same day).
 | “Welcome!” — asking for and giving personal information; verbs to be and have got; present simple; classroom language | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 1, printed p.1 |
 | Workbook “Welcome!” — new texts: students' profiles; practice: to be, have got, questions; writing an e-mail about yourself to a keypal | Greece, Think Teen! Grade 7 Advanced Workbook, Unit 1, printed p.1 |
 | The Advanced teacher's guide for Unit 1 “Welcome!” — teaching notes, tapescripts and keys for the unit | Greece, Think Teen! Grade 7 Advanced Teacher's Book (teacher evidence), printed p.ii |
+| The Welcome! greeting song that opens the course — "Hello and welcome! Welcome to you! Bye-bye!" — with the course characters (Extra, Tom, Wendy) presented (the pupil page prints only "Sing"; the song's words are the Teacher's Book audioscript's) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Welcome!, printed p.3 |
+| A British pupil introduces herself: "I'm Emma. I'm 7 years old. This is my school, St Lawrence's." (Welcome to Britain culture spot) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 5, pupil printed p.25 |
+| The farewell song "Bye-bye friends, Happy Holidays! … See you all next year!" (the Bye-bye! lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Bye-bye!, pupil printed p.74 |
 **Acceptance count: taught in 35 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
@@ -365,8 +368,9 @@ opening (printed pp.3–11); the rows above come from Checkpoint 1
 inside that opening. Its present-giving exchange ("Happy
 Birthday! This is for you!" — Lesson 3, printed p.6) is a taught
 conversation block of its own and is filed in
-english/books/north-macedonia.md; no part in this lesson's table
-carries it, so it is not merged here.
+english/books/north-macedonia.md; it is stocked in
+conversation/congratulating-and-wishing (stocked 2026-11-11 by
+the North Macedonia re-verification sweep merge).
 
 **Mongolia Grade 5 added 2026-10-29** — **Book:** *English V*
 (the copy prints only "GRADE 5"; N. Mira, I. Saingergel,
@@ -739,3 +743,7 @@ loved subject ("I am eight years old.", printed p.7).
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 Nicaragua was already counted in this lesson from the filed primary books; the rows above add the Multigrado mirror and the recovered Grade 7 pair, so the acceptance count does not change.
+
+## North Macedonia — sweep additions 2026-11-11 (re-verification sweep merge)
+
+**Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the 2026-10-29 North Macedonia section above covered only the Pupil's Book. North Macedonia was already counted in this lesson, so the acceptance count does not change. Rows marked (teacher evidence) rest on this book's reproduced pupil pages, lesson notes and audioscripts: the secured Pupil's Book copy holds printed pp.3–11 only, and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5) — so no teacher-evidence row is cited as a pupil-book page in hand. Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

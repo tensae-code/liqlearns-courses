@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -107,9 +107,15 @@ lesson is reproduced.
 | “World celebrations” — revision of question forms; a poster about Christmas and Easter | Greece, Think Teen! Grade 9 Student's Book, Unit 6, Lesson 3, printed p.69 |
 | Workbook “World celebrations” — practice on celebration language with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 6, Lesson 3, WB printed pp.65–75 |
 | Party and celebration words — the concert unit's word set | Nicaragua, Activity Book 4 (Grade 4), Unit 8, printed pp.57–64 |
+| Gift-giving at a birthday: "Happy Birthday! This is for you!" answered by naming the gift — "A CD! Thank you!" | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 3, printed p.6 |
+| Culture spot "Welcome to Britain": Mother's Day and Father's Day gift customs in the UK (discussion only) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 5, printed p.8 |
+| Project frame "This + present + is for my + family word" over children's drawings | North Macedonia — EXTRA and Friends 2, Pupil's Book, Module 1, Lesson 6, printed p.8 |
+| The Christmas song "Oh, Christmas tree, your leaves are never changing…" with Christmas-tree vocabulary (tree, star, candles, balls, presents, stocking, decorations) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.68 |
+| Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
+| The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 11 countries (Mauritania,
-Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua).** Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+**Acceptance count: taught in 12 countries (Mauritania,
+Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia).** North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -145,3 +151,11 @@ read (see READING-QUEUE.md).
 **Book 1:** *English Activity Book 4* — activity book, Grade 4 — Nicaragua, Ministerio de Educación (MINED), 72 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2, Pupil's Book* (Jenny Dooley – Virginia Evans) — student book, Grade 2 — North Macedonia, Express Publishing (with Ekspres buk ELT), Edition for North Macedonia 2025 (course © 2013), ISBN 978-1-3992-2379-9. Filed in english/books/north-macedonia.md. PARTIAL COPY: the secured file holds printed pp.3–11 only (Welcome!, Module 1, Checkpoint 1); the book's own Contents runs to printed p.115+. Re-read page by page in the 2026-11-08 re-verification sweep. This lesson's two pupil-book rows (the gift-giving exchange and the gift-customs spot) sit inside that secured opening; the filing had claimed both as course stock in 2026-10-29 but no lesson carried them until this merge (sweep diff, flags F3–F4).
+
+**Book 2:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. Rows marked (teacher evidence) rest on this book alone — its reproduced pupil pages, lesson notes and audioscripts: the pupil pages for the Christmas and Easter lessons are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5), so no teacher-evidence row is cited as a pupil-book page in hand.
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -145,9 +145,10 @@ verification sweep.
 | Remedies — "What is the remedy?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 34, printed p.152 |
 | An HIV information lesson — "Live and let others live" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 35, printed p.156 |
 | An HIV/STI information lesson — "How can I get an HIV infection?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 36, printed p.159 |
+| Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 
-**Acceptance count: taught in 14 countries (Albania, Bolivia,
-Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 15 countries (Albania, Bolivia,
+Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia).** North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -183,3 +184,9 @@ Mauritania re-verification sweep merge). Mexico works health in Grades 8 and 9: 
 **Book 2:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's printed key and instructions for the Activity Book's CLIL 7 lesson (the Activity Book itself is not in hand).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.

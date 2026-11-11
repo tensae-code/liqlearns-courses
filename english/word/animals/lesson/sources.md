@@ -1,6 +1,6 @@
 # Sources — Animals
 
-countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua
+countries: Bangladesh, Egypt, Libya, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia
 
 Every part traces to its book and page.
 
@@ -312,9 +312,16 @@ verification sweep.
 | “Let's go to the zoo!” — describing animals and their habits; the imperative form | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 4, Lesson 1, printed p.42 |
 | Workbook Unit 4 (Ecofriendly), lessons 1–3 — practice of the imperative, can/can't and must/mustn't with the unit's texts | Greece, Think Teen! Grade 7 Beginners Workbook, Unit 4 (contents PDF p.6) |
 | The Beginners teacher's guide for Unit 4 “Ecofriendly!” | Greece, Think Teen! Grade 7 Beginners Teacher's Book (teacher evidence), printed p.41 |
-**Acceptance count: taught in 36 countries (Bangladesh, Egypt,
+| Pets word set 1 — rabbit, fish, mouse, parrot — with "This is my fish." and "What's its name?" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 1, pupil printed p.36 |
+| A song of what pets can do — "I've got a parrot and it can speak!", a mouse that can squeak, a rabbit that can hop, a fish that goes "GLOP!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 2, pupil printed p.37 |
+| Describing animals: a black cat, a white dog; the size words big, small, long, fat — "My black cat is very funny! He's got small ears and a big fat tummy!" (ears and tummy seed the body words) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 3, pupil printed p.38 |
+| Culture spot "Welcome to Britain": British dog shows (Crufts, held at Birmingham) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 5, pupil printed p.40 |
+| Project frame "My favourite animals!" — draw and present favourite animals | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 6, pupil printed p.40 |
+| Matching each animal to its baby by picture (cat, dog, rabbit, mouse, bird families) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Lesson 7, pupil printed p.41 |
+| Wild animals against pets — "Wild animal or pet? In the wild. / In my house." — wild set elephant, lion, zebra, monkey, tiger; pet set parrot, fish, hamster, cat, dog, rabbit, koala (Activity Book "Going for CLIL" 5, Science; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 5 key and instructions, Teacher's Book pp.130(T)–131(T) |
+**Acceptance count: taught in 37 countries (Bangladesh, Egypt,
 Libya, Palestine, China, Mongolia, Indonesia, Iran,
-Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua).** India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
+Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia).** North Macedonia joins with the pets set, the pet-abilities song, animal describing, the dog-show culture spot, the animal-babies match and the wild-against-pet CLIL lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's animal-sounds verse, Class 3's animal sounds and young ones, and the camel dialogue "The Ship of the Desert" (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the farm four with the first
 size pair; Palestine carries the youngest learners' set;
 Bangladesh carries homes and foods as whole sentences; Libya
 carries the wild names inside its letter list; China carries
@@ -380,3 +387,9 @@ countries join as their books are read (see READING-QUEUE.md).
 **Book 2:** *English Activity Book 3* — activity book, Grade 3 — Nicaragua, Ministerio de Educación (MINED), 64 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## North Macedonia added 2026-11-11 (re-verification sweep merge)
+
+**Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All seven North Macedonia rows in this lesson are teacher evidence: six rest on this book's reproduced pupil pages and notes for Module 5 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 5 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5); the wild-animals row rests on the Activity Book CLIL key this book prints (the Activity Book itself is not in hand).
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
