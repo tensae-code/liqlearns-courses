@@ -93,6 +93,9 @@ its own subtitle folder with its own lesson + questions):
   the-three-sounds-of-s (added 2026-11-11 by the
   Dominican Republic expansion merge — **Unit 3,
   Sounds Together**) ·
+  poems-and-songs-for-speaking (added 2026-11-11 by
+  the Gabon expansion merge — **Unit 3, Sounds
+  Together**) ·
   sight-words (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 4, First Words**)
 - Conversation → hello-and-your-name · how-are-you ·
