@@ -1,6 +1,6 @@
 # Sources — Using the dictionary
 
-countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka
+countries: Bangladesh, India, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Pakistan, Rwanda, Malaysia, Yemen, Afghanistan, Uzbekistan, Venezuela, Palestine, South Sudan, Sudan, Barbados, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Nigeria
 
 Every part traces to its book and page.
 
@@ -625,3 +625,25 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: how to use the dictionary, demonstrated by every student | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.19 |
+| Ch.3 Vocabulary development: dictionary use, and keeping a word-bank exercise book of new words | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p. xvi |
+| Vocabulary: the uses of the dictionary — a notebook of new words with examples of their usage; synonym pairs | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.50 |
+| Vocabulary: dictionary-definition exercise (a tableau, taboo, tailor-made, takings, tamp, tantalise, taunt, teaser, thrill, timid) | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.52 |
+| Vocabulary: word origins — matching words to their definitions (captive, anecdote, fallible, famished, uproar) | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.35 |
+| Vocabulary: using the dictionary — what a dictionary contains; copying entries; explaining abbreviations; a table of meaning, synonym and antonym | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.64 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

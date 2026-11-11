@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq, Kazakhstan, Haiti
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine, Yemen, Iraq, Kazakhstan, Haiti, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** Akelius English course, Chapter 36 "How are you feeling" — Albania. Filed in english/books/albania.md (as filed). TEACHER'S-GUIDE evidence: the chapter's grammar focus and its printed student-content sets are recorded in the guide filing (overview printed pp.38–39; the chapter's sample plan is at printed pp.40–41 — page corrected 2026-11-08 by the re-verification sweep); this lesson words Albania as teacher's-guide evidence wherever it is used.
@@ -98,3 +98,16 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Confused -ed/-ing pair: Vocabulary: antonyms and synonyms sets (remarkable, elementary, classical, confined, ideal, pious, ascetic, integrity, hostile, fundamental); words often confused (boring/bored-type pairs in answers: excited/exciting, silent/silence, raise/rise, effect/affect) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed pp.16–17 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

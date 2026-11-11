@@ -1,6 +1,6 @@
 # Sources — Note-making
 
-countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Samoa
+countries: India, Uzbekistan, Kuwait, South Africa, China, South Sudan, Sudan, Yemen, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Samoa, Nigeria
 
 Every part traces to its book and page.
 
@@ -220,3 +220,26 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+**Book 9:** Excellence in English for Senior Secondary — Teacher's Guide Book 3 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60328-4) — Grade 12 (SS3). TEACHER EVIDENCE ONLY. 136 pp; record: grade-12/approved-private/nigeria/english-teacher-guide-cambridge.pdf (2,054,929 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch.2 Reading comprehension: strategies — note-making, finding topic sentences, paraphrase and critical evaluation of a text | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p. xiii |
+| Ch.1 Introduction: note-making — brief notes of the essentials only; sub-headings; sensible abbreviations; notes organised and numbered | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p. vii |
+| Reading: a book extract on wedding ceremonies in Nigeria — making notes; stressing key words and using punctuation when speaking aloud | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed pp.48–49 |
+| Listening: "The African Fish Eagle" — making notes from a listening text | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.26 |
+| Listening: a United Nations talk by Ban Ki-Moon — making notes of the talk and using them to summarise it | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.47 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

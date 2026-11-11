@@ -1,6 +1,6 @@
 # Sources — The paragraph
 
-countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti
+countries: Bangladesh, Egypt, Ghana, Laos, Barbados, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Venezuela, Bolivia, India, Mongolia, Saudi Arabia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria
 
 Every part traces to its book and page.
 
@@ -935,3 +935,31 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing about yourself: name, age, school, completing sentences about yourself and reading them aloud (U1) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.1 |
+| Completing sentences about your mother / your father from discussion and models (U3, p.5; U22, p.43) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed pp.5, 43 |
+| Picture composition: sentence under each picture to retell a story (an accident); sentences about your class (U7) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.13 |
+| Describing a picture in complete sentences: a kitchen scene, counting visible objects; describing your own kitchen (U9, p.17); a bedroom and its items (U12, p.23); a hospital picture with questions (U20, p.39); a market picture with unscrambled words (U29, p.54) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed pp.17, 23, 39, 54 |
+| Writing about your school: answering questions in complete sentences and combining the answers into a short composition (U24) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.46 |
+| Descriptive writing with guiding words: two sentences about each animal/object pictured (U33) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.61 |
+| Writing: paragraphs — main ideas and topic sentences; writing a paragraph on "Myself" from an information box | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.7 |
+| Writing: types of composition — writing an outline; developing a paragraph (topic sentence, supporting sentences, examples/illustrations/dates, concluding sentence); the elements of composition | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.7 |
+| Ch.6 Writing skills: paragraphing — a good paragraph has unity, coherence and completeness | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p. xx |
+| Writing: paragraphs and topic sentences; the qualities of a good paragraph | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.9 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

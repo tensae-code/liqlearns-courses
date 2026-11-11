@@ -1,6 +1,6 @@
 # Sources — Silent letters
 
-countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa
+countries: Ecuador, Kuwait, India, Barbados, Bolivia, Pakistan, Sudan, South Africa, Cambodia, Kazakhstan, Nepal, Ethiopia, Saudi Arabia, Samoa, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** English — General Basic Education, Medium
@@ -232,3 +232,31 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oral: the /h/ sound and its spellings; words with silent h (hour, heir, honour); contrast of words with and without /h/ | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.15 |
+| Oral: the /w/ sound and its spelling forms; silent w (wrong, wright, wrath); /w/ vs /j/ contrast (wear/year, win/yin, woo/ewe) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.59 |
+| Oral revision: /l/ and /r/ with transcriptions; words with silent l and r (allure/arrest, people/roar, calm, half, alms, would, chalk) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.41 |
+| Oral revision: /w/ and /j/ (beware/venue, wheel/fumes, choir/new, squeeze/beyond, anguish/union); silent letters (whole, sword, answer, whom) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.44 |
+| Oral: the /w/ sound, including silent w (whose, whole; before r — write, wrist; after s — answer, sword), sorted against /j/ | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.10 |
+| Oral: /l/ and /r/, including silent l (calm, psalm, palm, almond, yolk, should) | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.23 |
+| Oral: words with silent letters (receipt, scent, sword, cupboard, comb, plumber, subtle) — pronounced, underlined and transcribed | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.41 |
+| Oral: words with silent letters — letters heard in writing but not in speech, transcribed on the board | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.29 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

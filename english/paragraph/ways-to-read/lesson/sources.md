@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan, Tanzania, Ethiopia, Barbados, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti, Nigeria
 
 Every part traces to its book and page.
 
@@ -529,3 +529,29 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading-method words: "Jumai learns to read": sight words and sounding out / decoding words (letters, decode, sight words) (U8) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.15 |
+| Reading direction: English is read from left to right; tracking with a finger; unscrambling mixed-up words into sentences (U29) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.54 |
+| Parts of a book: front cover, back cover, spine, title, pages, words, pictures; labelling a book diagram (U30; revisited in dialogue form U34, p.63, incl. author and chapters) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed pp.56, 63 |
+| Reading: scanning a passage and reading for maximum retention and recall; passage — summary only: Chidi, whose father owns a small electronics shop in Emekuku, senses danger, stays safe, and teaches awareness/reporting of suspicious behaviour | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.12 |
+| Reading skill: reading for speed — surveying a passage and timed reading in pairs/groups | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.47 |
+| Reading: scanning a passage using set guidelines | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.1 |
+| Reading: skimming a passage using set instructions | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.63 |
+| Ch.1 Introduction: reading strategies — cross-check one cue with another; re-read difficult parts; predict and confirm; use context for unfamiliar words; connect background knowledge; draw conclusions from what is not openly stated | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p. vii |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

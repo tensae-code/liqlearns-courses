@@ -1,6 +1,6 @@
 # Sources — Present actions
 
-countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein, Haiti
+countries: Egypt, Ghana, Libya, Mongolia, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, Mexico, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein, Haiti, Nigeria
 
 Every part traces to its book and page.
 
@@ -1327,3 +1327,22 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple present tense for regular actions and daily activities (U32) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.59 |
+| Grammar: spelling the present tense | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.19 |
+| Grammar: tenses revised — present, past, present continuous and future; "going to" futures in dialogue; past continuous with when/as; future continuous | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed pp.25–26 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

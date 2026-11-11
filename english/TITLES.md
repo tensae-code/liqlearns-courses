@@ -127,7 +127,9 @@ its own subtitle folder with its own lesson + questions):
   by the Mongolia re-verification sweep merge — **Unit 6,
   Word Kinds**) ·
   interjections (added 2026-11-11 by the Sierra Leone
-  re-verification sweep merge — **Unit 6, Word Kinds**)
+  re-verification sweep merge — **Unit 6, Word Kinds**) ·
+  abbreviations (added 2026-11-11 by the Nigeria
+  expansion merge — **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·

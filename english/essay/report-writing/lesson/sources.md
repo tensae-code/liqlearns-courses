@@ -1,6 +1,6 @@
 # Sources — Report writing
 
-countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uruguay
+countries: Egypt, Kuwait, Malaysia, Sudan, Vietnam, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Yemen, Iraq, South Africa, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 1 (Student's Book) — Egypt, Ministry of Education (GPS Publishing). Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -428,3 +428,28 @@ Book error E19, carried: Book 6's index (p.6) lists its Unit 5 lessons in a scra
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+**Book 9:** Excellence in English for Senior Secondary — Teacher's Guide Book 3 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60328-4) — Grade 12 (SS3). TEACHER EVIDENCE ONLY. 136 pp; record: grade-12/approved-private/nigeria/english-teacher-guide-cambridge.pdf (2,054,929 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: technical/scientific writing — accuracy, consistency, clarity, brevity; writing a scientific report and an experimental process | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.65 |
+| Writing: technical/scientific writing — accuracy, consistency, clarity, brevity; writing a report, e.g. "How a computer works" | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.33 |
+| Writing: scientific reports — the main features, from a model report; each student writes a report on an experiment | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed pp.35–36 |
+| Writing: the scientific report — the format of technical writing; a report about an experiment | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.54 |
+| Reading: a report, "Road Rage: Assault or Accident?" and a notice and minutes of a meeting — paraphrasing facts and recommendations | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed pp.60–61 |
+| Writing: report writing — the types of reports (school magazine, community news, sports, police, minutes); writing a report about an event | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.62 |
+| Writing: a report based on statistics | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.75 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

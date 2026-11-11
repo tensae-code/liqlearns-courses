@@ -1,6 +1,6 @@
 # Sources — Telephoning
 
-countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti
+countries: Greece, Uzbekistan, Albania, Barbados, Malaysia, China, Iran, Pakistan, Palestine, Rwanda, South Sudan, Yemen, Iraq, Vietnam, Kazakhstan, Libya, Nepal, Saudi Arabia, Afghanistan, Kuwait, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** English for the Hotel and Tourist Trade,
@@ -372,3 +372,19 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Oral: dialogue — tips for effective dialogue; good pronunciation and clarity of voice; polite language in dialogues; pairs write a dialogue on a topical issue | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.37 |
+| Speaking: group role-play — devising and performing a hotel role-play | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.127 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

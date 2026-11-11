@@ -1,6 +1,6 @@
 # Sources — Postcards and personal letters
 
-countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti
+countries: Saudi Arabia, Mongolia, Malaysia, Egypt, China, India, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Libya, Nepal, Ethiopia, Barbados, Afghanistan, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** We Can! Student's Book 3 with bound-in
@@ -748,3 +748,34 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing: informal (friendly) letters — layout explained; each student writes their own home address | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.16 |
+| Writing: informal letter revised; write an informal letter to a friend in another school | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.40 |
+| Writing: informal letter to a penfriend — features and format revised; writing about your family from a family-tree model (nuclear, extended, polygamous family words) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed pp.49–50 |
+| Writing: more on informal letter writing, with a well-written sample as model | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.61 |
+| Writing: informal letters — main parts demonstrated individually | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.45 |
+| Writing: informal letters — more practice; writing home addresses in the two address types; correct punctuation of addresses; correcting a badly written sample in pairs | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.30 |
+| Writing: informal letters (guidelines carried from earlier units) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.46 |
+| Writing: letter writing — the main features of an informal letter; well-punctuated addresses, opening salutations and complimentary closes; mistakes students often make | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.25 |
+| Writing: informal letters — the format, taught from a sample letter | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.28 |
+| Writing: the informal letter | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.61 |
+| Writing: the informal letter to a friend — its features, style and register | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.79 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

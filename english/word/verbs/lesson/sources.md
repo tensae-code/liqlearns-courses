@@ -1,6 +1,6 @@
 # Sources — Verbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Laos, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Nigeria
 
 Every part traces to its book and page.
 
@@ -872,3 +872,38 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+**Book 9:** Excellence in English for Senior Secondary — Teacher's Guide Book 3 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60328-4) — Grade 12 (SS3). TEACHER EVIDENCE ONLY. 136 pp; record: grade-12/approved-private/nigeria/english-teacher-guide-cambridge.pdf (2,054,929 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Verbs: every sentence needs a verb; identifying and acting out verbs (U9) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.17 |
+| Grammar: verbs — "action" and "being" words; the three forms of be (am, is, are) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.16 |
+| Grammar: forms of verbs — action and being verbs have five forms; regular vs irregular verbs | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.19 |
+| Grammar: transitive verbs take an object, intransitive do not (basic SVO order); main verbs and auxiliary verbs (primary and modal) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.20 |
+| Grammar: functions of verbs — verb tenses introduced, examples of all the tense types, sentences made with each | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.53 |
+| Grammar: transitive and intransitive verbs — verbs sorted as transitive, intransitive, or both (eat, resist, demand, begin, drive, see) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.48 |
+| Grammar: finite and non-finite verbs distinguished | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.62 |
+| Grammar: verbs classified transitive or intransitive in exercise answers (laughed intransitive, loves/bought/carried transitive, dreamt/waited/lived intransitive, hid marked intransitive — see Book errors) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.43; book error E11 — the answer key marks “hid” as intransitive; taught corrected |
+| Grammar: irregular verbs — lie/lay/lie (lied/lay, laid/laid, lay/lain) and error correction (sung, bound, flown, cast, cost, forgiven, drank) | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed pp.27–28 |
+| Grammar: verbs — present forms with agreement (increases, does not sit, sounds) and past forms (lay, understood, forgot, bit) | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed pp.15–16 |
+| Grammar: verbs and verb phrases revised | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed pp.48–49 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

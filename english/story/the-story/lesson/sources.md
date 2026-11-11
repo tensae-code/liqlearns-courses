@@ -1,6 +1,6 @@
 # Sources — The story
 
-countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein
+countries: Bangladesh, Egypt, Ghana, China, Indonesia, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Bolivia, Mexico, India, Mongolia, Nicaragua, North Macedonia, Palestine, Laos, Libya, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Liechtenstein, Nigeria
 
 Every part traces to its book and page.
 
@@ -1728,3 +1728,44 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Story "Maya – the achiever" — plot summary only: a girl who receives pocket money/allowance, saves in a piggy bank and is praised for discipline (U4) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.7 |
+| Kindness/friendship passage (Eze) with poem on helping ("lend a hand", "lead by example"; stanza named) (U11) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.21 |
+| Story of Hassan, an honest citizen who returns a lost bag (honour, taxes, security, syrup) (U13) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.25 |
+| Folktale "Tortoise and the calabash of wisdom" — plot summary only: Tortoise tries to gather all wisdom into a calabash and boasts (U14) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.27 |
+| Folktale "Pig and Tortoise" — plot summary only: during a famine Pig borrows Tortoise's grinding stone and is slow to return it (famine, borrow, grinding stone, patient) (U16) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.31 |
+| Story "Tortoise and Snail": friendship and mistakes (U22) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.43 |
+| A day on the beach: cloze story completed from a word box (U23) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.44 |
+| Story "Michael the investor" with moral discussion (U26) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.50 |
+| Story "Ifeoma and the kidnapper" with moral discussion (U27) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.51 |
+| Story "All for one Naira" with moral discussion (U28) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.52 |
+| Fable "The fox and the goat" with true/false check; context clues for word choice (tricked, pull, thanked, thirsty) (U35) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.65 |
+| Story "Binta – a true friend": Binta's family helps Maryam's family in a hard time (U36) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.67 |
+| Story "Ada and the pocket library": print books vs e-books compared inside the story and dialogue (U37) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.69 |
+| Rhymes and poems recited with expression; rhyming words identified; stanza named (U5 rhyme, p.9; U6 rhymes "A Little Bird" and "Goosey Goosey Gander", p.11; U9 poem, p.17; U13 sincerity poem, p.25; U18 weather rhyme — rain, thunder, clouds, sun, rainbow, p.35; U20 rhymes, p.39; U21 poem, p.41; U22 counting rhyme, p.43; U27 rhyme, p.51; U37 rhyme scheme explained, p.69; U38 poem, p.71) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed pp.9–71 |
+| Writing: narrative essays — people, actions, times and places; written in the past tense; real or imaginary | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.13 |
+| Writing: narrative essays (guidelines from the textbook) | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.33 |
+| Writing: narrative essays — the essential features; developing group points into an essay, "The examination in my school" | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed p.36 |
+| Oral literature: the folktale — its purpose and structure; narrating folktales and writing one you have heard | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.49 |
+| Writing: narrative essays — the essential features from a sample narrative essay | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.53 |
+| Reading: a short story and a poem about memories, read for gist; identifying theme and features of a poem or dramatic work | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed pp.55–57 |
+| Writing: free writing — a narrative essay or short story | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.135 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Idioms and collocations
 
-countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname
+countries: Egypt, Libya, Sierra Leone, Uzbekistan, Bolivia, China, Iran, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan, Nepal, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Suriname, Nigeria
 Every part traces to its book and page.
 
 **Book 1:** English for Libya, Grade 7 (Preparatory 1) Course Book and Grade 12 (Secondary 3, Literary) Course Book — Libya, Garnet Education. Filed in english/books/libya.md (read 2026-10-25; the
@@ -566,3 +566,40 @@ Book error E4, carried: the proverb is printed “A journey of thousand miles be
 
 Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 7:** New Concept English for Senior Secondary Schools — Teacher's Guide 3, Fifth edition 2023 (Learn Africa Plc) — Grade 12 (SSS3). TEACHER EVIDENCE ONLY. 125 pp as bound — the “Detailed analysis of the units” is bound twice (PDF pp.20–72 and 73–125; 50 of 53 page pairs identical), so the distinct analysis is 53 printed pages, cited once from the first printing unless a row is marked (2nd printing) (book error E18 / flag F5). Record: grade-12/approved-private/nigeria/english-teacher-guide.pdf (817,958 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+**Book 9:** Excellence in English for Senior Secondary — Teacher's Guide Book 3 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60328-4) — Grade 12 (SS3). TEACHER EVIDENCE ONLY. 136 pp; record: grade-12/approved-private/nigeria/english-teacher-guide-cambridge.pdf (2,054,929 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary: collocations, synonyms, and compound words (classroom, motorbike, out-of-school, schoolbag, notebook, noticeboard) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.6 |
+| Vocabulary: idioms in context (make good use of an opportunity, burn the midnight oil, let the cat out of the bag, etc.) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.10 |
+| Idioms/collocations: Vocabulary: affixes (unethically, acknowledgement, illegal, ineffective, misinformation); idiom matching (give a cold shoulder, beat around the bush, spill the beans); collocations (critical thinking, digital privacy, credible sources) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed pp.18–19 |
+| Idioms: Vocabulary: affixes (strengthen, poverty, careless, wisely, thankful); idioms (save for a rainy day, live within our means, bite off more than you can chew, burn the midnight oil); antonyms | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.23 |
+| Idioms: Vocabulary: passage words (consciousness, intelligence, ethics, interactive, digital); collocations (systems, automation, translation, machines); idiomatic expressions (cutting-edge, black box, under the weather, go-getter) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.27 |
+| Idioms: Vocabulary: road-safety synonyms (pedestrians, helmet, seat belts, footpath, zebra crossing) and collocations (road accidents, traffic rules, serious injury); road idioms (watch out, red flag, put the brakes on, dice with death, the ball is in your court) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.31 |
+| Literature: proverbs — definition and cultural values; collecting 20 proverbs from parents or relatives, with the meaning or context of each | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.45 |
+| Literature: proverbs — their essence; completing proverbs and giving their meanings | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.19 |
+| Vocabulary: idioms and idiomatic expressions — fixed meanings and fixed word order (a jack of all trades; to face the music; born with a silver spoon in one's mouth) | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed pp.34–35 |
+| Vocabulary: idioms and idiomatic expressions — using the dictionary to check idioms | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.44 |
+| Vocabulary: collocations — break the silence, pay attention, keep a decision, find a solution, keep under control, take note of, catch a glimpse of, save the day, keep an eye on, catch a bus, do homework, make an attempt | Nigeria — New Concept English Teacher's Guide 3 (Grade 12 / SSS3, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.47 |
+| Vocabulary: idioms, including Nigerian idiomatic expressions — local expressions are not wrong, they are the vocabulary of the area | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.40 |
+| Grammar: idioms in a political context — their literal meanings are nonsensical, their figurative meanings indirect | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.131 |
+| Vocabulary: collocations | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.43 |
+| Vocabulary: idioms and idiomatic expressions in passages — explained and used in sentences | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.76 |
+| Vocabulary revision: idioms, collocations, English and American spelling | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.95 |
+| Vocabulary practice: idioms | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.101 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

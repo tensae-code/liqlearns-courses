@@ -1,6 +1,6 @@
 # Sources — Words you don't know
 
-countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti
+countries: Bangladesh, Ghana, India, Libya, China, Sierra Leone, Jordan, Greece, Iraq, Ethiopia, South Africa, South Sudan, Armenia, Vietnam, Cambodia, Pakistan, Yemen, Afghanistan, Ecuador, Uzbekistan, Tanzania, Mexico, Barbados, Kuwait, Fiji, Eritrea, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria
 
 Every part traces to its book and page.
 
@@ -491,3 +491,23 @@ The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs —
 
 Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vocabulary: find-a-word from the passage (repeated, inequality, teasing, rumour, tripping, playground) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.16 |
+| Vocabulary: word inference from context (penalty, extremely, notorious, ransom, recurrent, abduction); word family: animal sounds (bray–donkeys, bleat–goats, cackle–hens, hiss–snakes, bark–dogs, hoot–owls, roar–lions) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.35 |
+| Reading: how words can be replaced in a passage (substitution in comprehension) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.33 |
+| Vocabulary: word inference (fatal, masquerading, outwit, counterfeit, life-threatening, identical) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.36 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.

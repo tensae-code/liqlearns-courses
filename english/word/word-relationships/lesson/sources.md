@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Fiji, Samoa, Sri Lanka, Liechtenstein
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan, Uzbekistan, Nepal, Ethiopia, Kuwait, Cyprus, Fiji, Samoa, Sri Lanka, Liechtenstein, Nigeria
 
 Every part traces to its book and page.
 
@@ -670,3 +670,53 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Nigeria added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Nigeria's in-hand English set from the PDFs — **9 teacher guides, 0 student books**: Nigeria Primary English TG 1 (Grade 1); New Concept English teacher's guides for JSS1–JSS3 and SSS1–SSS3 (Learn Africa); Excellence in English teacher's guides Books 2–3 (Cambridge University Press Nigeria) — 1,032 teaching items placed. Every Nigeria item in this section is TEACHER EVIDENCE of what is taught: Nigeria has no student book in hand, and no row below is pupil-book evidence. Books 1–7 were read page by page in full; Books 8–9 module by module in full, with answer keys in the longest modules sampled, as the placements declare. The rows below are stocked from the expansion placements (nigeria-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** Nigeria Primary English — Teacher's Guide 1, Fifth Edition (Learn Africa Plc) — Grade 1. TEACHER EVIDENCE ONLY: a teacher's guide, cited for what it teaches, never as a pupil's book. 76 pp; record: grade-01/approved-private/nigeria/english-teacher-guide.pdf (489,402 bytes; the read copy is byte-identical to the record). Printed page = PDF page − 4; pages cited are printed pages.
+
+**Book 2:** New Concept English for Junior Secondary Schools — Teacher's Guide 1, Sixth Edition (Learn Africa Plc) — Grade 7 (JSS1). TEACHER EVIDENCE ONLY. 76 pp; record: grade-07/approved-private/nigeria/english-teacher-guide.pdf (707,365 bytes; the read copy is byte-identical to the record).
+
+**Book 3:** New Concept English for Junior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 8 (JSS2). TEACHER EVIDENCE ONLY. 80 pp; record: grade-08/approved-private/nigeria/full-year-teacher-guide.pdf (621,433 bytes; the read copy is byte-identical to the record).
+
+**Book 4:** New Concept English for Junior Secondary Schools — Teacher's Guide 3 (Learn Africa Plc) — Grade 9 (JSS3). TEACHER EVIDENCE ONLY. 66 pp; record: grade-09/approved-private/nigeria/english-teacher-guide.pdf (380,306 bytes; the read copy is byte-identical to the record). The record's older publisher URL for this level is dead; the in-hand file is the later download (flag F3). A stray 2024 JSS1 upload elsewhere in the tree (619,452 bytes) is NOT any book in this set (flag F6).
+
+**Book 5:** New Concept English for Senior Secondary Schools — Teacher's Guide 1, Fifth edition 2023 (Learn Africa Plc) — Grade 10 (SSS1); six guidance chapters at pp. vi–xx. TEACHER EVIDENCE ONLY. 76 pp; record: grade-10/approved-private/nigeria/english/full-year-teacher-guide.pdf (578,428 bytes; the grade-10 staging books.json carries no file entry for it, and the download list's “already held” staging note is wrong — the read copy came from the repo tree: flags F1 and F2, record-side). Book error E1: the imprint's ISBN prints truncated as “978 978 741 6”.
+
+**Book 6:** New Concept English for Senior Secondary Schools — Teacher's Guide 2 (Learn Africa Plc) — Grade 11 (SSS2). TEACHER EVIDENCE ONLY. 90 pp; record: grade-11/approved-private/nigeria/english-teacher-guide.pdf (720,784 bytes; the read copy is byte-identical to the record).
+
+**Book 8:** Excellence in English for Senior Secondary — Teacher's Guide Book 2 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60324-6) — Grade 11 (SS2). TEACHER EVIDENCE ONLY. 136 pp; record: grade-11/approved-private/nigeria/english-teacher-guide-cambridge.pdf (1,978,085 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+**Book 9:** Excellence in English for Senior Secondary — Teacher's Guide Book 3 (Cambridge University Press Nigeria, 2016; ISBN 978-1-316-60328-4) — Grade 12 (SS3). TEACHER EVIDENCE ONLY. 136 pp; record: grade-12/approved-private/nigeria/english-teacher-guide-cambridge.pdf (2,054,929 bytes; the read copy is byte-identical to the record). Read module by module in full; answer keys in the longest modules SAMPLED, as the placements declare.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Synonyms: words with the same or nearly the same meaning, matched in pairs (U21) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.41 |
+| Homonyms: same word, different meanings chosen by context (U24) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed p.46 |
+| Antonyms: words with opposite meanings, matched and circled (U7 vocabulary, p.13; U31 grammar, p.57) | Nigeria — Nigeria Primary English Teacher's Guide 1 (Grade 1, Learn Africa) — teacher evidence, printed pp.13, 57 |
+| Vocabulary: polysemy — one word, several meanings chosen by context | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.10 |
+| Antonyms/homophones: Vocabulary: affixes (word-building answers built on careful, brave, suspicious, responsibility, alert, safety); antonyms; homophones | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.13 |
+| Idioms → idioms-and-collocations; antonyms: Vocabulary: affixes (strengthen, poverty, careless, wisely, thankful); idioms (save for a rainy day, live within our means, bite off more than you can chew, burn the midnight oil); antonyms | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.23 |
+| Vocabulary: find-a-word (trafficking, contract, consent, verify); affixes; antonyms; homophones | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.42 |
+| Vocabulary: affixes (helpful, improved, weakness, relaxation, healthy); antonyms; homophones | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed pp.52–53 |
+| Vocabulary: synonyms (selfless, contentment, inducement, embezzlement); word association | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed p.59 |
+| Vocabulary: synonyms (lively, kindness, tolerance, peaceful co-existence = harmony); affixes (tolerant, peaceful, quarrelsome, unexpected, unpleasant, friendly); collocations (peaceful co-existence, unity in diversity, cultural differences) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed pp.63–64 |
+| Vocabulary: polysemy — correct meaning of bold words by context (bank = river side / financial institution; plant; tied); idioms (a stitch in time saves nine, better safe than sorry, hit the nail on the head, keep your head above water); compound words (rainbow, first aid, waterproof, safeguard, homework); blends (spork, glamping, frenemy, malware, emoji, netiquette) | Nigeria — New Concept English Teacher's Guide 1, Sixth Edition (Grade 7 / JSS1, Learn Africa) — teacher evidence, printed pp.67–68 |
+| Vocabulary: synonyms (ancestral, irrigates, humiliation, trembling, impetuous, obstinately) and -ous adjectives (cautious, continuous, ambitious, simultaneous, superstitious, righteous, fabulous, copious, anxious) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed pp.12–13 |
+| Vocabulary: antonyms and synonyms sets (remarkable, elementary, classical, confined, ideal, pious, ascetic, integrity, hostile, fundamental); words often confused (boring/bored-type pairs in answers: excited/exciting, silent/silence, raise/rise, effect/affect) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed pp.16–17 |
+| Vocabulary: words often confused (supper, who's, quite, defects, there, lay, weather, lose, except, it's); vocabulary of leisure (surfing, listening, hiking, climbing, paddling, dancing, keeping) | Nigeria — New Concept English Teacher's Guide 2 (Grade 8 / JSS2, Learn Africa) — teacher evidence, printed p.57 |
+| Vocabulary: antonyms (over-nourishment, underpopulation, liberalise, reluctantly, reduce, local, neglect); vocabulary of population and census (household, death rate, migration, census bureau, rural population, age distribution, population growth, household income) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.9 |
+| Vocabulary of the library (multiple-choice set); words often confused (idol, goal, it's, foul, quay, flower, access, elder, lie, quit) | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.22 |
+| Vocabulary: word inference — near-synonym pairs (undeniable/irrefutable, transformed/reformed, intense concentration/laser focus, exceptionally good/outstanding, precious/valuable); homographs used as noun/verb/adjective | Nigeria — New Concept English Teacher's Guide 3 (Grade 9 / JSS3, Learn Africa) — teacher evidence, printed p.53 |
+| Ch.3 Vocabulary development: synonyms and antonyms as the core of vocabulary growth | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p. xvi |
+| Vocabulary: antonyms, including prefix opposites (unambitious, illiterate, illegible, indiscernible, inaudible, involuntary, limitless) | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.33 |
+| Vocabulary: words nearly opposite in meaning, used in sentences | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.35 |
+| Vocabulary: synonyms exercise | Nigeria — New Concept English Teacher's Guide 1 (Grade 10 / SSS1, Learn Africa, Fifth edition 2023) — teacher evidence, printed p.41 |
+| Vocabulary: improving your vocabulary — building a good stock of words; synonyms and antonyms sorted | Nigeria — New Concept English Teacher's Guide 2 (Grade 11 / SSS2, Learn Africa) — teacher evidence, printed pp.67–68 |
+| Vocabulary: synonyms and antonyms; prefixes used to make antonyms; checking spelling in a dictionary | Nigeria — Excellence in English Teacher's Guide Book 2 (Grade 11 / SS2, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.30 |
+| Vocabulary practice: synonyms and antonyms | Nigeria — Excellence in English Teacher's Guide Book 3 (Grade 12 / SS3, Cambridge University Press Nigeria, 2016) — teacher evidence, printed p.99 |
+
+Nigeria enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Nigeria's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/nigeria-placements.md.
