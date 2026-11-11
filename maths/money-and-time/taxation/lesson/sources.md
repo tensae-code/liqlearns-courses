@@ -1,6 +1,6 @@
 # Sources — Taxation
 
-countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Mauritius, Papua New Guinea
+countries: Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Mauritius, Papua New Guinea, Uganda
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ On Malaysia in this lesson: Malaysia's Form 5 book is the first in the read set 
 | Tax — indirect taxes, withholding tax and VAT — inside the Senior 1 money unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | Rwanda, Senior 1 Student's Book, Unit 4, printed pp. 116–121 |
 | Income tax — inside the commercial arithmetic unit (cross-cited here; the unit is stocked whole in the business-mathematics lesson) | South Sudan, Student's Book 2, Unit 1, printed pp. 12–13 |
 
-**Acceptance count: taught in 11 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
+**Acceptance count: taught in 12 countries (Malaysia, India, Nepal, Rwanda, South Sudan, Australia, Bhutan, Dominica, Dominican Republic, Ireland, Fiji, Uganda).** Malaysia's Form 5 book carries the complete income-tax computation in its taxation section; other read countries treat tax inside business mathematics without the full computation, so this lesson is built at that honest size.
 
 India enters taxation from Mathematics Class 8: sales tax and GST.
 
@@ -174,3 +174,17 @@ The 2026-11-10 expansion read read Papua New Guinea’s whole in-hand Maths set 
 Papua New Guinea is added to the countries line only — this lesson holds Papua New Guinea teacher-evidence rows only (JICA teacher’s manuals and SBC teacher guides), so the acceptance count above is unchanged; the rows are teacher evidence, not pupil-taught content. Papua New Guinea’s class for Maths is **COURSES-CLOSED** — every in-hand Papua New Guinea Maths book (all 32 files) has been read in full and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/papua-new-guinea-placements.md.
+
+## Uganda added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Uganda's whole in-hand Maths library from the PDFs — **8 files / 8 works: 7 pupil books + 1 teacher's guide**, all Uganda Ministry of Education and Sports / NCDC *Home-Study Learning* books (August 2020) — and the expansion map's “7 student + 1 teacher, FILES-IN-HAND” count and split are **correct**, with one correction of kind: the Primary Five pupil book is not a standalone Maths book — it is the Mathematics booklet (package PDF pp. 9–166) inside the NCDC Primary Five merged home-study package (Mathematics + Integrated Science + English + Social Studies, 350 pp.). Maths content hiding under an all-subjects label was checked for across the whole in-hand set; this package is the only such volume. The seven pupil books (Primary Four, the Primary Five booklet, Primary Six, Senior One, Senior Two, Senior Three, Senior Four) are real pupil teaching books — lessons, worked examples and exercises addressed to the learner — so Uganda's pupil rows **count** in a lesson's taught-in figure. The one teacher book, the Senior One *Teacher's Guide* (prototype, 76 pp.), is **teacher evidence only** and counts nowhere; it covers all 12 Senior One prototype topics, including five topics (1 Number Bases, 2 Working with Integers, 8 Angle Properties, 9 Data Collection and Presentation, 12 Time and Time Tables) for which no Senior One pupil text is in hand, and its evidence for those topics carries that “no pupil book in hand” caveat. NOT in hand, and cited nowhere: the Senior One prototype pupil Mathematics textbook (NCDC posted only the Teacher's Guide) and the Scribd combined S1&S2 Science Package (no download route). The placements number **324 items: 278 pupil items and 46 teacher-evidence items (TG1–TG46)** — one item per distinct lesson in the home-study books, one per distinct topic treatment in the guide. Page citations are PDF pages for the pupil books (in the primary home-study books the printed folios run 6 behind: printed = PDF − 6; Primary Five pages are the merged package's PDF pages) and the guide's printed pages for the TG items. The books' own errors are taught corrected: the Senior One home-study book heads the conversion example at PDF p. 8 “Convert 13/4 into an improper fraction” — 13/4 is already improper, and the worked example in fact converts it to the mixed number 3¼; the Primary Six book's triangle-angles exercise (PDF p. 85) prints two interior angles as “360 and 540” — the degree signs set as zeros, read as 36° and 54°; the Senior Three book heads its mensuration topic “TRIGONOMETRY” while its own stated outcomes and lessons are units, surface area and volume — taught as mensuration. Uganda's own ways are kept: equations written with a shape for the unknown before letters (Primary Four); integers walked on a ground number line, face forward for positive and back for backward (Primary Five and Six); base five taught in primary school (Primary Five); fractions taught by slicing chapattis (Senior One); income tax worked from Uganda's own tax bands and allowances (Senior Three). Uganda's class for Maths is **COURSES-CLOSED** — every Maths book in hand has been read fresh and placed; what remains outside the set (the Senior One prototype pupil textbook, the Senior Two–Four prototype books and guides) is not in hand and is a library hunting matter, not a course hold. Into this lesson the placements stock 1 pupil item.
+
+**Book 1:** *Mathematics Home-Study Learning, Senior Three* (pupil book) — Uganda, Ministry of Education and Sports / NCDC, August 2020; 2,991,461 bytes, 126 PDF pp., MD5 082f8f0591d9e13273e6b61d994755ff. Cover and NCDC colophon read directly. Pages are cited by PDF page. PUPIL BOOK — its rows count in a lesson's taught-in figure.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Income tax from Uganda's tax bands: gross income minus allowances (transport, medical, child) gives taxable income, then band rates apply | Uganda — *Mathematics Home-Study Learning, Senior Three* (pupil book), PDF p. 47 |
+
+Uganda is added to the countries line and to the acceptance count above on its pupil rows. Uganda's class for Maths is **COURSES-CLOSED**.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/uganda-placements.md.
