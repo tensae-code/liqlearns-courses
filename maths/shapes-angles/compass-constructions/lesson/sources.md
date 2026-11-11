@@ -73,6 +73,10 @@ Every part traces to its book and page.
 
 **Book 48:** *Mathematics, Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 49:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 50:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Do it first: bisect a segment with string or paper | Sierra Leone, SSS 2 Term 2, L79 (p.90) — substitute compass from string or a strip of paper |
@@ -104,6 +108,11 @@ Every part traces to its book and page.
 | Geometric constructions 2 (angle bisector; triangles from given data; 60°/30° by bisection) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 46 |
 | Constructing the simplest figures with ruler, set square and compass (point, segment, broken line, polygons, circle) | Tajikistan, Математика (Grade 5), printed p. 270 |
 | The school set square: constructing a right angle, a rectangle and a square | Tajikistan, Математика (Grade 5), printed p. 274 |
+| Constructing One-Step Word Problems Using Addition Up to 10 from Pictures | Sierra Leone, Primary 1 Term 1, L25, printed p. 50 (teacher plans) |
+| Construct Word Problems Using Addition Up to 10 | Sierra Leone, Primary 1 Term 1, L27, printed p. 54 (teacher plans) |
+| Constructing One-Step Word Problems Using Subtraction Up to 10 from Pictures | Sierra Leone, Primary 1 Term 1, L35, printed p. 70 (teacher plans) |
+| Construct Word Problems Using Subtraction Up to 10 | Sierra Leone, Primary 1 Term 1, L37, printed p. 74 (teacher plans) |
+| Construction of Circles; Construction of Triangles; Construction of Parallel Lines; … (5 lessons in the run) | Sierra Leone, JSS 1 Term 2, L101–L105, printed pp. 167–179 |
 
 | Drawing a circle — draw a circle with ruler and compasses (al-firjār / al-barjal) | Sudan, Grade 4 Mathematics, printed p. 111 |
 | Dividing a segment — construction: divide a given segment into n equal parts using an auxiliary ray and parallels | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 75 |

@@ -1,6 +1,6 @@
 # Sources — Even and Odd Numbers
 
-countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, South Africa
+countries: India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Turkey, Tanzania, South Africa, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -42,6 +42,16 @@ Every part traces to its book and page.
 
 **Book 25:** *Mathematics, Grade 4 Book 2; Grade 5 Book 2; Grade 6 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 26:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 27:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 28:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 29:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 30:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Even numbers: on the 100 chart they end in 0, 2, 4, 6, 8; continue the run 96, 98, __, 102 | India, Math-Magic Class 3, Ch. 10 Play with Patterns, printed p. 151 |
@@ -61,6 +71,16 @@ Every part traces to its book and page.
 | Odd and even numbers (term 3 revision set) | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed p. 32 |
 | Even and odd numbers defined by the last digit; even/odd digits | Tajikistan, Математика (Grade 5), printed p. 4 |
 | Divisibility test for 2; even numbers as 2n and odd numbers as 2n−1 — taught corrected: the book lists 2n−1 from n = 0 as giving 1, 3, 5, 7; at n = 0 the value is −1 — the sequence starts at n = 1. | Tajikistan, Математика (Grade 6), printed p. 13 |
+| Identifying odd numbers using patterns; Identifying even numbers using patterns; Odd + odd = even; … (5 lessons in the run) | Sierra Leone, Primary 2 Term 2, L116–L120, printed pp. 112–120 (teacher plans) |
+| Estimating and Measuring the Duration of an Event | Sierra Leone, Primary 4 Term 3, L124, printed p. 8 (teacher plans) |
+| Word Problems Involving Time Between 2 Events | Sierra Leone, Primary 5 Term 2, L90, printed p. 66 (teacher plans) |
+| Identifying and adding even and odd numbers | Sierra Leone, Primary 6 Term 1, L41, printed p. 90 (teacher plans) |
+| Word problems involving time between two events | Sierra Leone, Primary 6 Term 2, L110, printed p. 127 (teacher plans) |
+| Likely and Unlikely Events | Sierra Leone, JSS 1 Term 3, L144, printed p. 101 |
+| Likely and Unlikely Events | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L144, printed p. 115 (teacher evidence) |
+| Probability Experiments with 1 Event | Sierra Leone, JSS 3 Term 3, L132, printed p. 74 |
+| Likelihood of Events; Probability Experiments with 2 Independent Events; Probability of Independent Events I; … (4 lessons in the run) | Sierra Leone, JSS 3 Term 3, L134–L137, printed pp. 79–86 |
+| Addition Law for Mutually Exclusive Events – Part 1; Addition Law for Mutually Exclusive Events – Part 2; Multiplication Law for Independent Events – Part 1; … (4 lessons in the run) | Sierra Leone, SSS 3 Term 3, L99–L102, printed pp. 9–18 |
 
 | Even numbers as a sequence — even numbers counted by 2s from 2; locating them inside the natural sequence | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 32–33 |
 | Odd numbers as a sequence — odd numbers counted by 2s from 1; sequence problems: if all sequences are infinite, is each step still + 1 | Venezuela, Triángulos, rectángulos y algo más... (Grade 2), printed pp. 34–35 |
@@ -100,7 +120,7 @@ Every part traces to its book and page.
 | Properties of numbers (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 142 Properties of numbers, printed p. 186 |
 | Properties of numbers; more properties of number (Grade 6 Book 1) | South Africa, Grade 6 Book 1, Ws 4–5 Properties of numbers; More properties of number, printed pp. 10, 12 |
 
-**Acceptance count: taught in 12 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, South Africa).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
+**Acceptance count: taught in 13 countries (India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Turkey, Tanzania, South Africa, Sierra Leone).** India's Class 3 Math-Magic book is the one read book that gives even and odd numbers a named treatment of their own — defined by the last digit (even ends 0, 2, 4, 6, 8; odd ends 1, 3, 5, 7, 9), hunted in ranges (odds between 400 and 410, evens between 155 and 165), and finished with the adding rules (odd + 1 = even, even + 1 = odd, and the question even + odd left for the learner to settle) — so under the everything-goes-in ruling (2026-11-06) the topic gets its own lesson, built at the size of its source. The pairing way of meeting even and odd (pairing pictured objects, classifying sums) already lives inside the counting lesson from Egypt, North Macedonia and Pakistan (Punjab), and India's own Class 10 book returns to even and odd integers in proved form (every even integer is 2q, odd integers are 4q + 1 or 4q + 3, from Euclid's division lemma), stocked in factors-multiples-and-primes. Nothing here is cited from the Class 3 book's planted find-the-mistake pages (printed pp. 83, 196) — those are subtraction and money exercises, filed in their own lessons as the deliberate-error teaching they are. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023) and Grade 4 (2023).
 
 
 Mongolia enters through its ministry textbooks Математик I, II, III, IV (Grades 1, 2, 3, 4): even and odd numbers; even and odd defined; recognising even and odd numbers.

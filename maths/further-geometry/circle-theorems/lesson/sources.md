@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -88,6 +88,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 **Book 46:** *Libër Mësuesi Matematika 11* (teacher's book) — Albania, Afërdita Hysa, Mediaprint, Tiranë, Botimi i parë (first edition) 2017; two different ISBNs are printed in the one copy — imprint 978-9928-08-309-8 and CIP 978-9928-08-299-2 — both carried as printed, unresolved. Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 47:** *Mathematics, Grade 8 teacher guide* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, no year extractable (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only.
 
+**Book 48:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Inscribed-angle theorem (an inscribed angle equals half its arc; three centre positions proved; corollary: angle on a diameter is 90°); Theorem 2: in a cyclic quadrilateral opposite angles sum to 180°; Theorem 3 (converse): if opposite angles sum to 180°, a circle can be circumscribed; Theorem 4: in a circumscribed quadrilateral the sums of lengths of opposite sides are equal; Theorem 5 (converse) | Kazakhstan, Geometry 9 (Shynybekov, Atamura 2019), Chapter 4 Circle. Polygons, §4.3 inscribed and circumscribed quadrilaterals, pp.126–162 |
@@ -121,6 +123,8 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Angles in a circle 1 (incl. alternate segment theorem: angle BAT = angle ACB) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 109–111 |
 | Angles in a circle 2 (cyclic quadrilaterals: opposite angles sum to 180°) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 111–113 |
 | Applying the circle theorems; equation of a tangent to a circle at a point (plan 59) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 104 |
+| Circle Theorem 1; Applications of Circle Theorem 1; Circle Theorem 2; … (12 lessons in the run) | Sierra Leone, SSS 3 Term 1, L17–L28, printed pp. 59–90 |
+| Circle Theorems | Sierra Leone, SSS 3 Term 3, L131, printed p. 102 |
 
 | Parts of a circle; diameter and chords; arcs; inscribed and central angles; angle on a semicircle (90°); cyclic quadrilaterals; concyclic points; circumcircle, incircle and excircle of a triangle; secant and tangent; arc length; sector and segment area | Bangladesh, *Mathematics, Class Eight*, Exp 7 Ins and outs of circles, printed pp. 147–180 |
 
@@ -211,7 +215,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Lesson 56 intersecting chords: AO·OB = CO·OD (Th. 1, proved); tangent–secant: PA² = PB·PC (Th. 2, proved); two secants from one external point | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 126–127 |
 | Lesson 57 power of a point: inside the circle AP·PB = R² − p² (Th. 1, proved); outside PA·PB = p² − R² (Th. 2, proved) | Uzbekistan, Geometriya, Grade 9 (Russian), printed pp. 128–129 |
 
-**Acceptance count: taught in 27 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 28 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone).** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed

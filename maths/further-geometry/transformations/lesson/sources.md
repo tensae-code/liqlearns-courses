@@ -197,6 +197,8 @@ textbook.
 
 **Book 106:** *Mathematics, Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 107:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformation, reflection, translation and rotation defined; centre of rotation; clockwise and anticlockwise; the image congruent to the original; reflection in the x-axis (x, y) → (x, −y) and y-axis (x, y) → (−x, y); translation by (a, b); rotation about the origin R(O, 90°) (x, y) → (−y, x), R(O, −90°) (x, y) → (y, −x), R(O, ±180°) (x, y) → (−x, −y); the starfish 72° rotational symmetry; the "ambulance" mirror writing; the 20-seat Ferris wheel | Egypt, Grade 7 Term 2, Unit 3 Geometry and Measurement, 3-3 Geometric Transformations, printed pp.61–68 |
@@ -251,6 +253,7 @@ textbook.
 | Zgjatje grafikësh (Stretching graphs) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
 | Transformime funksionesh (Transformations of functions), incl. combinations | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 6 |
 | Elective course: kombinimi i transformimeve (Combining graph transformations; a function composed with its inverse gives y = x) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 35, 62 |
+| Translation – Part 1; Translation – Part 2; Reflection – Part 1; … (10 lessons in the run) | Sierra Leone, SSS 3 Term 2, L87–L96, printed pp. 117–144 |
 
 | Congruence and similarity through photos (scaling as enlargement in pictures) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Line symmetry and rotational symmetry; the mirror test (reflection and rotation as symmetry only) | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |

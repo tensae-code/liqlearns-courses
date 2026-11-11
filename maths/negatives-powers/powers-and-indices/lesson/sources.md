@@ -195,6 +195,16 @@ Every part traces to its book and page.
 
 **Book 134:** *Mathematics, Grade 7 Book 1; Grade 8 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 2 ISBN 978-1-4315-0224-0. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 135:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 136:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 137:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 138:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 139:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Power with natural exponent (§1); multiplying powers with the same base (§2); dividing, zero exponent (§3); raising a power to a power (§4); raising a product and a quotient to a power (§5); power with integer (negative) exponent (§6); properties of integer-exponent powers (§7); standard form of a number (§8) | Kazakhstan, Algebra 7 (Mektep 2017), Ch. 1, §§1–8, from p. 28 |
@@ -250,6 +260,15 @@ Every part traces to its book and page.
 | Multiplying monomials; raising a monomial to a power | Tajikistan, Алгебра (Grade 7), printed p. 125 |
 | Power with a negative integer exponent defined by extending the pattern of powers of 10 | Tajikistan, Алгебра (Grade 8), printed p. 269 |
 | Properties of powers with integer exponents (same laws as natural exponents) | Tajikistan, Алгебра (Grade 8), printed p. 273 |
+| Division by Powers of 10 | Sierra Leone, Primary 5 Term 1, L54, printed p. 142 (teacher plans) |
+| Counting forward and backward from any number in multiples of powers of 10 up to 1,000,000 | Sierra Leone, Primary 6 Term 1, L2, printed p. 5 (teacher plans) |
+| Counting forward and backward from any number in multiples of powers of 10 up to 10,000,000; Counting backwards from any number in multiples of powers of 10 up to 10,000,000 | Sierra Leone, Primary 6 Term 1, L7–L8, printed pp. 15–17 (teacher plans) |
+| Squares of Whole Numbers; Cubes of Whole Numbers; Higher Powers of Whole Numbers; … (6 lessons in the run) | Sierra Leone, JSS 1 Term 1, L8–L13, printed pp. 20–31 |
+| Square of Whole Number; Cubed Whole numbers; Higher Powers of Whole Numbers; … (6 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L8–L13, printed pp. 18–29 (teacher evidence) |
+| Index Notation; Index Law 1: Multiplication of Indices; Index Law 2: Division of Indices; … (7 lessons in the run) | Sierra Leone, JSS 2 Term 1, L21–L27, printed pp. 56–70 |
+| Index Notation and the Laws of Indices; Application of the Laws of Indices | Sierra Leone, JSS 3 Term 1, L31–L32, printed pp. 90–93 |
+| Multiplying and Dividing by Powers of 10 | Sierra Leone, JSS 3 Term 1, L36, printed p. 105 |
+| Index Notation; First and Second Laws of Indices; Third and Fourth Laws of Indices; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 1, L32–L35, printed pp. 91–100 |
 
 | Squares and square roots; cubes | South Sudan, Pupil's Book 6, 1.3 Squares and square roots, printed pp. 7–9; South Sudan, Pupil's Book 7, 1.1–1.3 Squares and square roots of perfect squares; squares and square roots of fractions and decimals; cubes, printed pp. 1–5; South Sudan, Pupil's Book 8, 1.2–1.3 Squares and square roots of perfect squares; squares and square roots of decimals and fractions, printed pp. 4–10 |
 | Indices: repeated multiplication, base and exponent, laws of indices including fractional, zero and negative indices | South Sudan, Student's Book 2, indices, printed pp. 1–4 |

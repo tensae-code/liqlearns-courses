@@ -1,6 +1,6 @@
 # Sources — Trigonometric Functions
 
-countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia
+countries: China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -53,6 +53,8 @@ Every part traces to its book and page.
 **Book 34:** *Matematika Tingkat Lanjut untuk SMA Kelas XI* — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Pusat Perbukuan, 2021, ISBN 978-602-244-770-2. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 35:** *Matematika Tingkat Lanjut untuk SMA/MA Kelas XI (Edisi Revisi)* (Mathematics, Advanced level, Grade 11 student book, Revised edition) — Indonesia, Yosep Dwi Kristanto, Muhammad Taqiyuddin, Al Azhary Masta, Elyda Yulfiana, Kemendikbudristek, 2024, ISBN 978-623-388-335-1. Filed in maths/books/indonesia.md (FULLY READ + CITATION CHECK PASSED 2026-11-06 — gap batch). The matched student book of the 2024 Tingkat Lanjut Revisi teacher guide.
 
+**Book 36:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trig functions of a general angle; y = sin x, y = A sin(ωx + φ), y = cos x, y = tan x fully graphed (period, phase, amplitude); solving trig equations from graphs; tide/sinusoid modelling | China, Compulsory Volume 3 (B edition) student book, Chapter 7, printed pp.1–68 |
@@ -80,6 +82,7 @@ Every part traces to its book and page.
 | Graph of the cosine function | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 50–52 |
 | The tangent function and its graph | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 52–54 |
 | Grafikët e sinusit, kosinusit dhe tangjentit (Graphs of sine, cosine and tangent) and simple transformations of them | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 8, 12 |
+| Graph of sin 𝜃; Graph of cos 𝜃 | Sierra Leone, SSS 2 Term 3, L111–L112, printed pp. 45–48 |
 
 | The trigonometric point — The unit circle and the trigonometric point of an angle; coterminal angles θ + 2πn share the same point (6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 198 |
 | Sine and cosine defined — Sine = y-coordinate and cosine = x-coordinate of the trigonometric point; domain all reals, range [−1, 1] (within 6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 201 |
@@ -171,7 +174,7 @@ Every part traces to its book and page.
 | Trigonometric functions and their properties | Egypt, Secondary 1 (Grade 10) Term 1, U4 L5, printed p. 112 |
 | Trigonometric functions inside the functions-and-modelling chapter | Indonesia, Grade 11 Tingkat Lanjut, Bab 5, printed pp. 231–314 |
 | Trigonometric functions: angles, radians and degree–radian conversion; the trigonometric functions of a real number defined on the unit circle, reference numbers and signs by quadrant, even and odd functions; graphs of sine, cosine and tangent and their transformations (amplitude, period, shifts) and modelling (tides, Ferris wheel, day length) | Indonesia, Grade 11 Tingkat Lanjut Revisi 2024 student book, Bab 3, printed pp. 99–158 |
-**Acceptance count: taught in 25 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 26 countries (China, Pakistan, Iraq, Greece, Iran, Vietnam, Ethiopia, South Sudan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Armenia, Egypt, Indonesia, Sierra Leone).** China carries the full chapter — trig functions of a general angle, the graphs, y = A sin(ωx + φ), and the tide model — with its teacher guide as teacher evidence for the sine-line-first order. Pakistan carries all six functions with their domains and ranges, the sinusoidal family a + b sin(cθ + d), and Ferris-wheel and tide models. Iraq carries the circular functions whole in Grade 11 Scientific, and contributes a corrected calculator value from Grade 10 Scientific (tan(−36°) ≈ −0.7265, not the printed −0.588). Greece carries trig functions of any angle inside its B' Lykeiou trigonometry chapter. Iran carries periodicity and the tangent function's graph in Hesaban (2). Vietnam carries trigonometric functions as a named lesson in Toán 11 Volume 1. Ethiopia carries the graphs of sin, cos and tan with period, amplitude and the tangent's asymptotes in Grade 10. South Sudan carries trig graphs in Secondary 4. North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria studies the tangent function completely in Grade 12 Part One — domain, period, asymptotes and derivative.
 

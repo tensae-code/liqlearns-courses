@@ -221,6 +221,16 @@ Every part traces to its book and page.
 
 **Book 158:** *Mathematics, Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 2; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 159:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 160:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 161:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 162:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 163:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mean as balance point; interpreting the mean; median, mode and outliers; the range | Egypt, Grade 6 Term 1, Lessons on measures of centre and spread, printed pp.99–111 |
@@ -262,6 +272,18 @@ Every part traces to its book and page.
 | Arithmetic mean of several numbers; mean (average) speed | Tajikistan, Математика (Grade 5), printed p. 231 |
 | Arithmetic mean, range and mode of a data set | Tajikistan, Алгебра (Grade 7), printed p. 47 |
 | Median of an ordered data set, odd and even counts | Tajikistan, Алгебра (Grade 7), printed p. 52 |
+| Word Problems Involving Statistics | Sierra Leone, Primary 4 Term 3, L150, printed p. 65 (teacher plans) |
+| Calculating the Mean of Data | Sierra Leone, Primary 5 Term 2, L63, printed p. 9 (teacher plans) |
+| Calculating the mean, median, and mode of discrete data | Sierra Leone, Primary 6 Term 2, L64, printed p. 8 (teacher plans) |
+| Mode of discrete data; Median of discrete data; Mean of discrete data; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 3, L127–L130, printed pp. 18–25 (teacher plans) |
+| Mean and Median; Mode and Range; Statistical Calculations from a List of Data; … (5 lessons in the run) | Sierra Leone, JSS 1 Term 3, L136–L140, printed pp. 84–93 |
+| Mean and Median; Mode and Range; Statistical Calculations from a List of Data; … (5 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L136–L140, printed pp. 92–104 (teacher evidence) |
+| Mean; Median; Mode and Range | Sierra Leone, JSS 2 Term 3, L141–L143, printed pp. 70–76 |
+| Practice Making Statistical Calculations | Sierra Leone, JSS 2 Term 3, L150, printed p. 97 |
+| Mean, Median, and Mode; Mean, Median, and Mode from a Table or Chart | Sierra Leone, SSS 2 Term 3, L128–L129, printed pp. 97–100 |
+| Mean of Grouped Data; Median of Grouped Data; Practice with mean, median, and mode of Grouped Data | Sierra Leone, SSS 2 Term 3, L134–L136, printed pp. 115–121 |
+| Statistics | Sierra Leone, SSS 3 Term 1, L4, printed p. 15 |
+| Statistics – Ungrouped Data; Statistics – Grouped Data | Sierra Leone, SSS 3 Term 3, L139–L140, printed pp. 126–129 |
 
 | Average (promedio) — concept, finding the total from the average, the average as a decimal number — the mean only; no median, mode, range or variance is taught anywhere in Nicaragua's set | Nicaragua, Grade 5 student book, Unit 13, printed pp. 134–147 |
 | Mean of numbers (4, 6, 3, 10, 2, 5 → sum 30 ÷ 6 = 5; a hen's eggs per day over a week) — mean only, no median or mode in Grade 5 | Ethiopia, Grade 5 student book, ch. 5 — data handling, printed pp. 63–81 |

@@ -407,6 +407,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 224:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 225:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 226:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 227:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 228:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The centimetre (p.88); the metre (p.90); the gram and the kilogram (p.92); the litre and the millilitre (p.94) | Jordan, Grade 2 Student Book Term 2, Unit 10, L1–L4, pp.88–94 |
@@ -509,6 +517,31 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Length units: mm, cm, dm, m, km and their relations | Tajikistan, Математика (Grade 5), printed p. 107 |
 | Mass units: mg, g, kg, centner, tonne; measuring mass with a two-pan balance | Tajikistan, Математика (Grade 5), printed p. 120 |
 | Revision: comparing length, time, area, volume, mass and money measures in different units | Tajikistan, Математика (Grade 6), printed p. 5 |
+| Naming Things in the Class that are Big and Small | Sierra Leone, Primary 1 Term 1, L38, printed p. 76 (teacher plans) |
+| Using Long, Tall and Short to Describe Lengths | Sierra Leone, Primary 1 Term 1, L41, printed p. 82 (teacher plans) |
+| Measuring Small Objects Using a Thumb | Sierra Leone, Primary 1 Term 1, L43, printed p. 86 (teacher plans) |
+| Invent Non-Standard Units to Measure Length | Sierra Leone, Primary 1 Term 1, L47, printed p. 94 (teacher plans) |
+| Identifying Objects in the Classroom as Heavy or Light | Sierra Leone, Primary 1 Term 2, L118, printed p. 116 (teacher plans) |
+| Measuring large lengths with non-standard units | Sierra Leone, Primary 2 Term 1, L22, printed p. 44 (teacher plans) |
+| Word problems involving large lengths using non-standard units; Using appropriate non-standard units of length to measure different objects and spaces; Measuring lengths of small objects | Sierra Leone, Primary 2 Term 1, L25–L27, printed pp. 50–54 (teacher plans) |
+| Word problems involving small lengths using non-standard units | Sierra Leone, Primary 2 Term 1, L30, printed p. 60 (teacher plans) |
+| Word problems involving mass using non-standard units | Sierra Leone, Primary 2 Term 2, L75, printed p. 30 (teacher plans) |
+| Revising everyday language for length | Sierra Leone, Primary 3 Term 1, L36, printed p. 91 (teacher plans) |
+| Measuring length of large objects and spaces using arm span (non-standard units); Measuring length of small objects and spaces using non- standard units; Solving simple word problems involving non-standard units of measurements | Sierra Leone, Primary 3 Term 1, L38–L40, printed pp. 95–99 (teacher plans) |
+| Measuring length by using both standard and non-standard units of measurement | Sierra Leone, Primary 3 Term 2, L81, printed p. 57 (teacher plans) |
+| Word problems involving standard units of measurement for length | Sierra Leone, Primary 3 Term 2, L85, printed p. 67 (teacher plans) |
+| Measurement of Objects in Metres; Measurement of Objects in Feet | Sierra Leone, Primary 4 Term 1, L22–L23, printed pp. 46–48 (teacher plans) |
+| Calculating Mass Using Kilograms; Converting Mass: Kilograms and Local Measurement | Sierra Leone, Primary 4 Term 1, L37–L38, printed pp. 76–78 (teacher plans) |
+| Capacity Using Standard Measure (Not Conversion) | Sierra Leone, Primary 4 Term 2, L64, printed p. 8 (teacher plans) |
+| Converting between 12 and 24 Hour Time | Sierra Leone, Primary 4 Term 3, L123, printed p. 6 (teacher plans) |
+| Using the Metric System for Measuring Length; Converting Between Metres, Centimetres and Millimetres; Converting Between Metres and Kilometres; … (5 lessons in the run) | Sierra Leone, Primary 5 Term 1, L26–L30, printed pp. 64–75 (teacher plans) |
+| Measuring lengths of objects in feet and inches; Conversion of lengths from inches to feet and feet to inches | Sierra Leone, Primary 6 Term 1, L56–L57, printed pp. 125–127 (teacher plans) |
+| Conversion of lengths from metres to kilometres and from kilometres to metres | Sierra Leone, Primary 6 Term 1, L60, printed p. 134 (teacher plans) |
+| Converting Between Mixed and Improper Fractions; Converting Decimals to Fractions; Converting Fractions to Decimals | Sierra Leone, JSS 2 Term 1, L1–L3, printed pp. 2–7 |
+| Capacity and Mass | Sierra Leone, JSS 3 Term 1, L21, printed p. 59 |
+| The Degree as a Unit of Measure | Sierra Leone, SSS 1 Term 3, L117, printed p. 59 |
+| Length of an Arc | Sierra Leone, SSS 3 Term 1, L10, printed p. 36 |
+| Measures of Dispersion | Sierra Leone, SSS 3 Term 3, L112, printed p. 48 |
 
 | Length (metre/centimetre, 1 m = 100 cm, ruler use); weight (kg/g, 1 kg = 1000 g); volume of liquid (litre); time (analogue/digital clock, days, months) | Bangladesh, *Elementary Mathematics, Class Two*, Ch 5 Measurement, printed pp. 107–120 |
 | Length (mm/cm/m/km conversions); weight (kg/g); time (seconds/minutes/hours, quarter past/half past, durations) | Bangladesh, *Elementary Mathematics, Class Three*, Ch 11 Measurement, printed pp. 110–122 |

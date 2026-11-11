@@ -247,6 +247,12 @@ Every part traces to its book and page.
 
 **Book 171:** *Mathematics, Grade 4 Book 2; Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 172:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 173:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 174:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Random experiment, sample space, events (simple, certain, impossible, compound); theoretical and experimental probability; complement method | Egypt, Grade 7 Term 2, Unit 4, Lessons 4-1 pp.76–81 and 4-2 pp.82–87 |
@@ -306,6 +312,15 @@ Every part traces to its book and page.
 | Independent events and tree diagrams; multiplying along branches, adding results (plan 5) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 18 |
 | The drug test: tree diagrams for test accuracy, comparing two projects' costs/probabilities (plan 8) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 21 |
 | Ngjarjet e papajtueshme dhe ngjarjet e pavarura (Mutually exclusive and independent events; deciding whether two events are independent) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 9, 15 |
+| Introduction to Probability; Probability Experiments; Certain and Uncertain Probability | Sierra Leone, JSS 1 Term 3, L141–L143, printed pp. 95–99 |
+| The Language of Probability; Expressing Probability as a Fraction; Probability Fraction Problems; … (6 lessons in the run) | Sierra Leone, JSS 1 Term 3, L145–L150, printed pp. 104–116 |
+| Introduction to Probability; Probability Experiments; Certain and Uncertain Probability | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L141–L143, printed pp. 106–112 (teacher evidence) |
+| The Language of Probability; Expressing Probability as a Fraction; Probability Fraction Problems; … (6 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L145–L150, printed pp. 118–133 (teacher evidence) |
+| Probability | Sierra Leone, JSS 3 Term 3, L131, printed p. 72 |
+| Expressing Probability with Numbers | Sierra Leone, JSS 3 Term 3, L133, printed p. 76 |
+| Sample Space; Probability Trees; Probability Story Problems | Sierra Leone, JSS 3 Term 3, L138–L140, printed pp. 89–94 |
+| Statistics and Probability | Sierra Leone, SSS 3 Term 3, L120, printed p. 69 |
+| Probability | Sierra Leone, SSS 3 Term 3, L138, printed p. 123 |
 
 | Arrangements and combinations — counting orders and choices without a named probability, the counting groundwork for probability (no factorials, no formulas) | Nicaragua, Grade 6 student book, Unit 12, printed pp. 142–147 |
 | Random and deterministic experiments; sample space — sets revision (unit set, empty set, extension vs comprehension, ordered pairs, Cartesian product); events as subsets, Venn diagrams, impossible, sure, complementary and mutually exclusive events; tree diagrams; counting techniques (fundamental counting principle, permutations, permutations with repetition, combinations, combinations with repetition); classical probability by Laplace's rule; 0 ≤ P(A) ≤ 1, P(E) = 1, P(∅) = 0, complement rule; frequentist probability — the addition rule for unions is used but never stated as a formula, and no conditional probability or independence is taught as a topic. The sample space printed on p. 21 mixes 3-tuples and 4-tuples into 14 elements; the lesson teaches the correct count, 16 quadruples, never the printed 14 | Nicaragua, Grade 10 student book, Unit 1, printed pp. 1–52 |

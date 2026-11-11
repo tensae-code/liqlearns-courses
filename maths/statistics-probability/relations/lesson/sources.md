@@ -1,6 +1,6 @@
 # Sources — Relations
 
-countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador, Bolivia, Armenia
+countries: Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador, Bolivia, Armenia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -42,6 +42,10 @@ Every part traces to its book and page.
 **Book 24:** *Algebra 7* — Armenia, Smbat Gogyan and Vachagan Dilanyan, Qarakusi series. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *Algebra and Elements of Mathematical Analysis 12, Semester 1, Teacher's Methodical Guide* (teacher guide) — Armenia, produced for the "AB generation" programme, dated 2026 on its title page. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: the Grade 12 student book is not held.
 
+**Book 26:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 27:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product; binary relations; equality of relations; domain and range; inverse relation — taught after the set laws, before functions are defined from relations | Libya, Grade 10 Part 1, Chapter 1 — Sets, printed pp. 9–43 |
@@ -57,6 +61,10 @@ Every part traces to its book and page.
 | Relations introduced with everyday and mathematical examples; properties of relations — reflexive, symmetric, transitive — and equivalence relations; the Papygram (the book's own name for its arrow-type relation diagram) | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 20–24 |
 | Ordered pairs and why their order matters; the Cartesian product X × Y as the set of ordered pairs | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 24–25 |
 | Mapping: domain, codomain and range, with arrow diagrams; types of mapping — one-to-one, many-to-one, one-to-many, many-to-many; graphs of relations on the Cartesian plane | Rwanda, Senior 1 Student's Book, Unit 1, printed pp. 25–30 |
+| Understanding the Relationship Between Area and Perimeter | Sierra Leone, Primary 4 Term 1, L34, printed p. 70 (teacher plans) |
+| Relations of Sets of Numbers Involving Addition; Relations of Sets of Numbers Involving Subtraction; Relations of Sets of Numbers Involving Multiplication; … (5 lessons in the run) | Sierra Leone, Primary 5 Term 2, L81–L85, printed pp. 46–55 (teacher plans) |
+| Relationships between Logarithms and Indices | Sierra Leone, SSS 1 Term 1, L44, printed p. 126 |
+| Relations and Types of Relations | Sierra Leone, SSS 1 Term 3, L97, printed p. 3 |
 
 | Ordered pairs — The ordered pair motivated by football results (Al-Hilal 4–3 Al-Merrikh ≠ 3–4); first/second components; equality of ordered pairs solved for unknowns | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 61 |
 | Cartesian product — Cartesian product س × ص built from routes × transport; س × ص ≠ ص × س; products of three sets in exercises | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 63 |
@@ -107,7 +115,7 @@ Every part traces to its book and page.
 | Introducción al análisis matemático: ordered pairs, Cartesian product, relations | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 6 (Grade 12) section, printed p. 151 |
 | The histogram and ordered pairs | Armenia, Algebra 7, §5.1, printed p. 116 |
 | Cartesian product of two sets and the multiplication rule | Armenia, Algebra and Analysis 12 teacher guide, Semester 1, Ch. 2, Lesson 2, printed p. 113 (teacher evidence) |
-**Acceptance count: taught in 14 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador, Bolivia, Armenia).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 15 countries (Libya, Yemen, Bangladesh, Kuwait, Laos, Malaysia, Rwanda, Sudan, India, North Macedonia, Afghanistan, Ecuador, Bolivia, Armenia, Sierra Leone).** Libya carries the full binary-relations treatment — Cartesian product, equality of relations, domain and range, inverse relation — as the closing part of its Grade 10 sets chapter (printed pp. 9–43), the ground from which it then defines functions. Yemen carries the topic twice: in Grade 7 as the staircase ordered pair → Cartesian product (with S × T ≠ T × S) → relations (printed pp. 32, 34, 37), and in Grade 9 with transitive relations and equivalence relations as named lessons (printed pp. 17, 25) ahead of its function lesson. Bangladesh, Kuwait and Laos each carry the Cartesian product and relations material as a minor row — Bangladesh in one section (§1.9, printed p. 24), Kuwait inside its Grade 8 sets-and-relations unit (printed pp. 15–67), Laos inside its Grade 10 sets lessons (printed pp. 30–52) — and they are counted here as minor, exactly as filed. North Macedonia enters from its main set — Grade 7 (2025).
 
 Additional Mathematics Form 4 opens with relations met in everyday situations, on the way to functions. (The classification of relations into their four types is Malaysia's Form 2 work and is filed under functions.)
 

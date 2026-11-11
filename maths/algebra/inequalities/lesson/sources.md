@@ -182,6 +182,8 @@ Every part traces to its book and page.
 
 **Book 123:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 125:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Six properties of numerical inequalities, each boxed (incl. the sign reversal on multiplying/dividing by a negative); estimating from double inequalities | Kazakhstan, Grade 6 Pt 2, Ch. V, §5.2, p. 33 |
@@ -240,6 +242,7 @@ Every part traces to its book and page.
 | Linear inequality in one variable: solution set, equivalent inequalities, solving moves | Tajikistan, Алгебра (Grade 8), printed p. 233 |
 | Systems of linear inequalities in one variable; solution as intersection of intervals; bus-seats word problem — taught corrected: the solution's prose restates the bus problem's 10x > 238 once as 10x ≥ 238; the strict inequality is correct, as the problem states and the book's own system uses (the answer, 24 seats, is unaffected). | Tajikistan, Алгебра (Grade 8), printed p. 241 |
 | Fractional-linear inequalities (ax + b)/(cx + d) ⋛ 0 solved by sign analysis as pairs of systems | Tajikistan, Алгебра (Grade 8), printed p. 249 |
+| Inequalities on a Number Line; Solutions of Inequalities | Sierra Leone, SSS 2 Term 1, L21–L22, printed pp. 57–59 |
 
 | First inequalities; the symbols > < ≥ ≤ | South Sudan, Pupil's Book 3, 4.1 Inequalities, printed pp. 61–63 |
 | Forming and solving inequalities | South Sudan, Student's Book 1, Unit 4, printed pp. 106–108 |

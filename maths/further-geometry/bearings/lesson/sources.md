@@ -18,6 +18,8 @@ Every part traces to its book and page.
 
 **Book 10:** *NaCCA CCP Curriculum, JHS Basic 7–9* (curriculum document) — Ghana, NaCCA / Ministry of Education, September 2020. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Curriculum evidence only: the curriculum states what must be taught; Ghana's set holds no pupil textbook at all.
 
+**Book 11:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Compass bearings: bearings as compass directions; drawing bearing statements | Sierra Leone, SSS 2 Term 3 handbook, L117 Compass Bearings, printed p. 63 |
@@ -39,6 +41,7 @@ Every part traces to its book and page.
 | Measuring the angle with north — bearings | Mongolia, Математик IX (Grade 9), printed p. 89 |
 | Standard B7.3.2.3: Demonstrate understanding of bearings, vector and its components using real life cases | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B7.3.2.3, printed p. 67 (curriculum evidence only) |
 | Standard B9.3.2.2: Solve problems involving bearings and addition/subtraction of vectors | Ghana, NaCCA CCP Curriculum, JHS Basic 7–9, Standard B9.3.2.2, printed p. 208 (curriculum evidence only) |
+| Bearings and Distances | Sierra Leone, SSS 3 Term 3, L137, printed p. 120 |
 
 **Acceptance count: taught in 8 countries (Sierra Leone, Libya, Nepal, Jordan, South Sudan, Malaysia, Rwanda, Mongolia).**
 

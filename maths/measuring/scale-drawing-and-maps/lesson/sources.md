@@ -1,6 +1,6 @@
 # Sources — Scale Drawing and Maps
 
-countries: Greece, Indonesia, Jordan, Kuwait, Laos, Libya, Mauritania, Nepal, South Africa, Vietnam, Yemen, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados
+countries: Greece, Indonesia, Jordan, Kuwait, Laos, Libya, Mauritania, Nepal, South Africa, Vietnam, Yemen, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Tajikistan, Barbados, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -67,6 +67,12 @@ Every part traces to its book and page.
 
 **Book 45:** *Mathematics, Grade 5 Book 2; Grade 6 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 46:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 47:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 48:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Map scale met first — 1:200 etc., real vs plan lengths | Laos, Grade 5 student book, Ch. 11, L52, printed pp.124–129 |
@@ -102,6 +108,9 @@ Every part traces to its book and page.
 | Building a scale model (maket) of a house/school/object using similarity: length/area/volume scale factors (printed pp. 144–145) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 144–145 |
 | Scale of a map or plan (1:100 000), finding real and map lengths | Tajikistan, Математика (Grade 5), printed p. 229 |
 | Scale and its applications | Tajikistan, Математика (Grade 6), printed p. 125 |
+| Applying Scale Factor to Drawing; Practical Applications of Scale | Sierra Leone, JSS 2 Term 2, L99–L100, printed pp. 127–130 |
+| Classification of Triangles: Equilateral, Isosceles, and Scalene | Sierra Leone, SSS 1 Term 3, L131, printed p. 99 |
+| Scales – Part 1; Scales – Part 2 | Sierra Leone, SSS 3 Term 2, L53–L54, printed pp. 15–18 |
 
 | Scale of drawing — Scale of drawing (مقياس الرسم) from photographs and maps, including enlargement scale (a magnified insect photo) and converting map distances to real distances in m and km | Sudan, Grade 5 Mathematics, printed p. 101 |
 | Matching map to photo — Map 1: matching a city map with a helicopter photo; locating India Gate on the map | India, Math-Magic Class 5, printed p. 113 |
@@ -136,7 +145,7 @@ Every part traces to its book and page.
 | Map work; position and movement — more working with maps (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 133–134 Map work; Position and movement — more working with maps, printed pp. 158, 160 |
 | Map work (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 133 Map work, printed p. 166 |
 | Position on a map grid (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 140 Position on a map grid, printed p. 206 |
-**Acceptance count: taught in 23 countries (Laos, Kuwait, Libya, Vietnam, Mauritania, Yemen, South Africa, Nepal, Greece, Jordan, Indonesia, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Tajikistan).** Laos carries the lesson whole: scale met in Grade 5 (L52), defined and worked in both directions in Grade 6 (L21–L22, with bar scales and scale changes), restated with a 2× enlargement in Grade 7 (L43), and kept as a proportion application in Grade 9 (L6). Kuwait carries it as a real modelling project — the Kuwait Towers at 1:500 — with scale drawing worked inside proportion (Grade 10 Term 1). Libya carries it as its own named section (Grade 8, §2-8). Vietnam carries map scale and applications in Grade 5 (Bài 37). Mauritania carries proportionality with map scale in Grade 6. Yemen carries enlargement/reduction and then scale drawing as consecutive taught lessons (Grade 6 Part 2, 5-3 and 5-4). South Africa carries the groundwork: drawing and reading maps of real places in Grade 3 and position on a map grid in Grade 4. Nepal carries compass points and word-form scales on a map of Nepal (Grade 7, Unit 10) — compass points, not three-figure bearings. Greece carries the closing part alone: geographic coordinates (latitude/longitude) as an application of spherical coordinates (Grade 8, Ch. 4). Jordan carries scale drawing as a named lesson in its congruence-and-similarity unit (Grade 7 Term 2, Unit 6, L2). Indonesia carries it inside ratio: scale factor and map/plan scale taught as ratio applications in its Grade 7 Ratio chapter (Ch. 3, printed pp.83–122). North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+**Acceptance count: taught in 24 countries (Laos, Kuwait, Libya, Vietnam, Mauritania, Yemen, South Africa, Nepal, Greece, Jordan, Indonesia, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Uzbekistan, Ecuador, Albania, Tajikistan, Sierra Leone).** Laos carries the lesson whole: scale met in Grade 5 (L52), defined and worked in both directions in Grade 6 (L21–L22, with bar scales and scale changes), restated with a 2× enlargement in Grade 7 (L43), and kept as a proportion application in Grade 9 (L6). Kuwait carries it as a real modelling project — the Kuwait Towers at 1:500 — with scale drawing worked inside proportion (Grade 10 Term 1). Libya carries it as its own named section (Grade 8, §2-8). Vietnam carries map scale and applications in Grade 5 (Bài 37). Mauritania carries proportionality with map scale in Grade 6. Yemen carries enlargement/reduction and then scale drawing as consecutive taught lessons (Grade 6 Part 2, 5-3 and 5-4). South Africa carries the groundwork: drawing and reading maps of real places in Grade 3 and position on a map grid in Grade 4. Nepal carries compass points and word-form scales on a map of Nepal (Grade 7, Unit 10) — compass points, not three-figure bearings. Greece carries the closing part alone: geographic coordinates (latitude/longitude) as an application of spherical coordinates (Grade 8, Ch. 4). Jordan carries scale drawing as a named lesson in its congruence-and-similarity unit (Grade 7 Term 2, Unit 6, L2). Indonesia carries it inside ratio: scale factor and map/plan scale taught as ratio applications in its Grade 7 Ratio chapter (Ch. 3, printed pp.83–122). North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Syria defines scale as a proportionality coefficient in Grade 7 and reuses scale drawing inside the Grade 8 proportion exercises.
 

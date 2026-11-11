@@ -29,6 +29,8 @@ Every part traces to its book and page.
 **Book 15:** *Algebra 8* — Armenia, Hamlet Sureni Mikayelyan, Yerevan: Edit Print. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 16:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 
+**Book 17:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Approximate numbers as the opening of the topic | Kazakhstan, Shynybekov *Algebra 7*, §1.3, p.42; Yelemessov *Algebra 7*, Ch. 1, p.62 |
@@ -56,6 +58,8 @@ Every part traces to its book and page.
 | Approximations of real numbers | Armenia, Algebra 8, Ch. 1 §4, printed p. 22 |
 | Rounding real numbers; multiplying and dividing rounded numbers | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.6, printed p. 10 (teacher evidence) |
 | Adding and subtracting rounded numbers | Armenia, Algebra 8 teacher guide (Gogyan et al.), Lesson 1.7, printed p. 11 (teacher evidence) |
+| Introduction to Significant Figures; Rounding off Decimal Numbers to Significant Figures | Sierra Leone, JSS 2 Term 1, L9–L10, printed pp. 25–27 |
+| Significant Figures | Sierra Leone, SSS 2 Term 1, L5, printed p. 15 |
 
 **Acceptance count: taught in 9 countries (Kazakhstan, Sierra Leone, Malaysia, India, Mongolia, Uzbekistan, Albania, Tajikistan, Armenia).** Kazakhstan carries absolute and relative error in two independent Grade 7 algebra books — Shynybekov's as an exercise set inside approximate numbers (§1.3, p.42), and Yelemessov's as taught approximation errors (Ch. 1, p.66, with approximation itself at p.62). Sierra Leone carries the senior-school half of the topic: percentage error when rounded values are used (SSS 2, L7, p.19) and degree of accuracy — choosing an appropriate degree of accuracy for given data (SSS 2, L8, p.22). No other read country's filing teaches errors and accuracy as its own topic; plain estimation and rounding live in the rounding-and-estimating lesson, not here.
 

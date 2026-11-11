@@ -371,6 +371,18 @@ Every part traces to its book and page.
 
 **Book 267:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 268:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 269:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 270:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 271:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 272:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 273:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What data is; collecting data; analysing data and forms of presentation; grouping data; histogram | Armenia, Algebra 7, Chapter 4, §4.1 p.90, §4.2 p.93, §4.3 p.99, §4.5 p.105 |
@@ -472,6 +484,29 @@ Every part traces to its book and page.
 | Histogramat (Drawing and interpreting histograms) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 9, 15 |
 | Circular (pie) diagrams: representing parts of a whole as sectors | Tajikistan, Математика (Grade 5), printed p. 254 |
 | Examples with graphs and diagrams (reading data off charts) | Tajikistan, Математика (Grade 6), printed p. 221 |
+| Making up a plan for data collection – Lesson 1; Making up a plan for data collection piloting – Lesson 2; Putting the data collection plan into action – Lesson 1; … (5 lessons in the run) | Sierra Leone, Primary 2 Term 1, L51–L55, printed pp. 102–110 (teacher plans) |
+| Creating bar charts; Writing the report to the Minister with the survey findings; Presenting a statistical report – Lesson 1; … (4 lessons in the run) | Sierra Leone, Primary 2 Term 1, L57–L60, printed pp. 114–118 (teacher plans) |
+| Making up a Plan for Data Collection; Putting the Data Collection Plan into Action; Devising a Plan for Writing a Report to the Minister with the Survey Findings; … (5 lessons in the run) | Sierra Leone, Primary 4 Term 3, L141–L149, printed pp. 47–64 (teacher plans) |
+| Planning for Data Collection; Making a Plan for Data Collection and Piloting | Sierra Leone, Primary 5 Term 2, L61–L62, printed pp. 2–5 (teacher plans) |
+| Putting the Data Collection Plan into Action; Writing a Statistical Report to the Minister with the Findings of the Survey; Devising a Plan for Writing a Report to the Minister with the Findings of the Survey; … (5 lessons in the run) | Sierra Leone, Primary 5 Term 2, L63–L70, printed pp. 7–23 (teacher plans) |
+| Making up a plan for data collection; Putting the data collection plan into action | Sierra Leone, Primary 6 Term 2, L61–L63, printed pp. 2–6 (teacher plans) |
+| Devising a plan for a statistical report with the findings of the survey; Writing a statistical report with the findings of the survey (3 lessons); Presenting a statistical report | Sierra Leone, Primary 6 Term 2, L65–L70, printed pp. 11–21 (teacher plans) |
+| Representing discrete data; Representing continuous data; Interpreting bar charts; … (6 lessons in the run) | Sierra Leone, Primary 6 Term 3, L121–L126, printed pp. 2–16 (teacher plans) |
+| Data Collection; Lists and Tables; Creating Bar Charts; … (4 lessons in the run) | Sierra Leone, JSS 1 Term 3, L126–L129, printed pp. 52–61 |
+| Pie Charts | Sierra Leone, JSS 1 Term 3, L132, printed p. 71 |
+| Community Survey: Collecting Data; Community Survey: Displaying Data | Sierra Leone, JSS 1 Term 3, L134–L135, printed pp. 77–81 |
+| Data Collection; Tables of Data; Creating Bar Charts; … (4 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L126–L129, printed pp. 56–67 (teacher evidence) |
+| Pie Charts | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L132, printed p. 77 (teacher evidence) |
+| Community Survey Collecting Data; Community Survey Displaying Data | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L134–L135, printed pp. 85–88 (teacher evidence) |
+| Data Collection; Tables of Data; Bar Charts | Sierra Leone, JSS 2 Term 3, L136–L138, printed pp. 55–61 |
+| Interpreting Pie Charts; Pie Chart Angles; Creating Pie Charts; … (5 lessons in the run) | Sierra Leone, JSS 2 Term 3, L144–L148, printed pp. 79–91 |
+| Introduction to Grouped Data | Sierra Leone, JSS 3 Term 3, L127, printed p. 60 |
+| Practice with Grouped Data | Sierra Leone, JSS 3 Term 3, L130, printed p. 69 |
+| Drawing Pie Charts; Interpretation of Pie Charts; Drawing and Interpretation of Bar Charts | Sierra Leone, SSS 2 Term 3, L125–L127, printed pp. 87–94 |
+| Grouped Frequency Tables; Drawing Histograms; Interpreting Histograms | Sierra Leone, SSS 2 Term 3, L130–L132, printed pp. 103–109 |
+| Cumulative Frequency Tables; Cumulative Frequency Curves | Sierra Leone, SSS 2 Term 3, L137–L138, printed pp. 124–127 |
+| Practice with Cumulative Frequency | Sierra Leone, SSS 2 Term 3, L140, printed p. 133 |
+| Review of Cumulative Frequency Curve | Sierra Leone, SSS 3 Term 3, L109, printed p. 39 |
 
 | Pictograms — reading a pictogram and answering questions | Nicaragua, Grade 2 student book (NICAMATE 2), Unit 4, printed pp. 32–35 |
 | Statistics: organising and interpreting data — survey of classmates, tables and graphs | Nicaragua, Grade 3 student book (Versión Validada), Unit 2, printed pp. 29–34 |

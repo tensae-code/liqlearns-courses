@@ -422,6 +422,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 255:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 256:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 257:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 258:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 259:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 260:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 261:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polygons named and sorted by vertices; naming by number of sides | Egypt, Grade 3 Term 1 old edition, Chapter 4, printed pp.44–61 (Polygons p.44; Properties of Polygons) |
@@ -531,6 +543,26 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Congruence of triangles; congruence cases | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed pp. 37–38 |
 | Broken line (polyline) and its length; triangle, quadrilateral, polygons; perimeter of a polygon | Tajikistan, Математика (Grade 5), printed p. 20 |
 | Ball and sphere: centre, radius, diameter; sections of a ball, the great circle | Tajikistan, Математика (Grade 6), printed p. 135 |
+| Squares and their Properties | Sierra Leone, Primary 1 Term 3, L138, printed p. 36 (teacher plans) |
+| Cylinders, Spheres, and Their Properties; Cubes, Cuboids, and their Properties; Making up Stories Involving 2 and 3 Dimensional Shapes | Sierra Leone, Primary 1 Term 3, L143–L145, printed pp. 46–50 (teacher plans) |
+| Squares and their properties | Sierra Leone, Primary 2 Term 1, L32, printed p. 64 (teacher plans) |
+| Spheres and their properties; Cubes and their properties; Cuboids and their properties; … (4 lessons in the run) | Sierra Leone, Primary 2 Term 2, L96–L99, printed pp. 72–78 (teacher plans) |
+| Identifying and drawing a cube using its properties; Identifying and drawing a cuboid using its properties; Identifying and drawing a prism using its properties; … (5 lessons in the run) | Sierra Leone, Primary 3 Term 1, L46–L50, printed pp. 113–121 (teacher plans) |
+| Horizontal and Vertical Lines; Perpendicular and Parallel Lines | Sierra Leone, Primary 4 Term 2, L76–L77, printed pp. 35–37 (teacher plans) |
+| Volume of Cuboids | Sierra Leone, JSS 1 Term 2, L88, printed p. 129 |
+| Intersecting Lines; Transversal of Parallel Lines | Sierra Leone, JSS 1 Term 2, L99–L100, printed pp. 161–164 |
+| Polygons | Sierra Leone, JSS 2 Term 2, L86, printed p. 89 |
+| Practice with Completing the Squares Method | Sierra Leone, JSS 3 Term 2, L83, printed p. 112 |
+| Completing the Square and Perfect Squares | Sierra Leone, SSS 1 Term 3, L113, printed p. 47 |
+| Parallel Lines; Perpendicular Lines | Sierra Leone, SSS 1 Term 3, L121–L122, printed pp. 69–72 |
+| Practice with Straight Lines | Sierra Leone, SSS 2 Term 1, L28, printed p. 74 |
+| Characteristics of Quadrilaterals | Sierra Leone, SSS 2 Term 2, L57, printed p. 25 |
+| Properties of Polygons | Sierra Leone, SSS 2 Term 2, L75, printed p. 78 |
+| Polygon Problem Solving; Bisect a Given Line Segment | Sierra Leone, SSS 2 Term 2, L78–L79, printed pp. 87–90 |
+| Frequency Polygons | Sierra Leone, SSS 2 Term 3, L133, printed p. 112 |
+| Geometry | Sierra Leone, SSS 3 Term 1, L3, printed p. 11 |
+| Surface Area of a Cuboid; Volume of a Cuboid; Nets of Prisms | Sierra Leone, SSS 3 Term 1, L32–L34, printed pp. 102–108 |
+| Surface Area of a Sphere; Volume of a Sphere | Sierra Leone, SSS 3 Term 1, L45–L46, printed pp. 144–148 |
 
 | Round, triangular and quadrangular shapes in everyday objects | Bangladesh, *Elementary Mathematics, Class One*, Ch 12 Geometry, printed pp. 82–85 |
 | Round/triangular/quadrangular shapes; circle/sphere/cylinder, triangle/quadrangle/rectangle/square | Bangladesh, *Elementary Mathematics, Class Two*, Ch 4 Geometric Shapes and Patterns, printed pp. 102–106 |

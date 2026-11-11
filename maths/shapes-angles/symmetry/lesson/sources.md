@@ -227,6 +227,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 104:** *Mathematics, Grade 1 Book 2; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 5 Book 1; Grade 6 Book 1; Grade 7 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 7 Book 2 ISBN 978-1-4315-0220-2. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 105:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Introduction to symmetry: folding and mirror completion (ch.56, Unit 8, printed pp.53–66) | Greece, Grade 1 Teuxos B, ch.56 |
@@ -271,6 +273,8 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Planes of symmetry of a cuboid: 3 in general; 2 extra diagonal planes when the base is a square; a cube has 9 planes of symmetry; planes of symmetry of a regular pyramid | Tajikistan, Геометрия (Grade 11), printed p. 51 |
 | Exercise set: counting axes and planes of symmetry of regular triangular/quadrilateral prisms, right parallelepipeds and the cube; whether a regular triangular prism has a centre of symmetry | Tajikistan, Геометрия (Grade 11), printed p. 52 |
 | Theorem 19 (proved): every diametral plane of a ball is a plane of symmetry, and the centre is a centre of symmetry; remarks: same for a sphere; every line through the centre is an axis of symmetry; infinitely many planes of symmetry | Tajikistan, Геометрия (Grade 11), printed p. 88 |
+| Draw and Identify Properties of Squares, Including Angles and Lines of Symmetry; Draw and Identify Properties of Rectangles, Including Angles and Lines of Symmetry | Sierra Leone, Primary 5 Term 2, L111–L112, printed pp. 116–119 (teacher plans) |
+| Line of Symmetry | Sierra Leone, JSS 2 Term 2, L94, printed p. 112 |
 
 | Line symmetry and rotational symmetry; the mirror test; garden arrangement by symmetry | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
 

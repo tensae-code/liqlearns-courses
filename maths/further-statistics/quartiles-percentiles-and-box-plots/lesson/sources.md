@@ -43,6 +43,8 @@ Every part traces to its book and page.
 **Book 27:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 28:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 29:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Box-and-whisker plot as its own lesson (4-5); the data 75, 76, 77, 80, 82, 84, 85 → min 75, max 85, median 80, lower quartile 76, upper quartile 84; advertisement prices → range 24, median 9.5, lower quartile 6, upper quartile 15 | Kuwait, Grade 9 Term 1, Unit 4 (4-5), printed pp.198–203 |
@@ -67,6 +69,7 @@ Every part traces to its book and page.
 | Box plots constructed from min, Q1, median, Q3 and max, and two box plots interpreted and compared | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 226–227 |
 | A box plot for grouped data: the five-number summary, its construction, and skew read from the box and whiskers (Example 11) | Malaysia, Mathematics Form 5, Ch. 7 §7.2, printed p. 214 |
 | Quartiles/percentiles side of the location measures) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed p. 15 |
+| Quartiles | Sierra Leone, SSS 2 Term 3, L139, printed p. 130 |
 
 | Cumulative frequency — Ascending and descending cumulative frequency tables; locating the median class | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 86 |
 | Quartiles — Quartiles, deciles and percentiles defined; lower quartile by interpolation (= 36 in the worked example) | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 90 |

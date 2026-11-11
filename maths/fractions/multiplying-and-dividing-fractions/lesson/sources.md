@@ -193,6 +193,14 @@ only: Ghana's set holds no pupil textbook at all.
 
 **Book 87:** *Mathematics, Grade 7 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 89:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 90:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 91:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 92:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fraction × whole number as repeated addition; fraction of a set | Kazakhstan, Grade 5, Ch.3 §3.11 Multiplying fractions and mixed numbers, p.195 (fraction × natural as repeated addition); Egypt, Grade 5 Term 2, Unit 9, L1 Multiplying a Fraction or Mixed Number by a Whole Number, pp.28–29; Sierra Leone, Primary 4 Term 2, L81–90 Multiplication of Like, Related and Proper Fractions, printed pp.45–64 (teacher plans); Libya, Grade 5, Unit 6, Product of a fraction by a whole number p.91, Fraction of a set (Grade 4, Ch.8) p.114 |
@@ -232,6 +240,13 @@ only: Ghana's set holds no pupil textbook at all.
 | Reciprocal numbers: a and 1/a, a/b and b/a | Tajikistan, Математика (Grade 6), printed p. 68 |
 | Dividing fractions by multiplying by the reciprocal | Tajikistan, Математика (Grade 6), printed p. 74 |
 | Dividing a whole number by a fraction and a fraction by a whole number | Tajikistan, Математика (Grade 6), printed p. 80 |
+| Multiplication of Equivalent Fractions; Multiplication of Fractions | Sierra Leone, Primary 4 Term 3, L139–L140, printed pp. 43–45 (teacher plans) |
+| Multiplication of Fractions; Division of Fractions | Sierra Leone, Primary 5 Term 3, L123–L124, printed pp. 8–10 (teacher plans) |
+| Multiplication of fractions; Division of fractions | Sierra Leone, Primary 6 Term 2, L77–L78, printed pp. 38–40 (teacher plans) |
+| Multiplication of Fractions; Division of Fractions | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L20–L21, printed pp. 47–49 (teacher evidence) |
+| Multiplying and Dividing Fractions by Integers and Decimals | Sierra Leone, JSS 2 Term 1, L14, printed p. 39 |
+| Multiplying and Dividing Indices with Fractional Powers | Sierra Leone, JSS 3 Term 1, L35, printed p. 102 |
+| Multiplication and Division of Fractions | Sierra Leone, SSS 1 Term 1, L3, printed p. 9 |
 
 | Fraction × fraction: area model, top × top, bottom × bottom, cancel first | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
 | Dividing fractions: multiply by the reciprocal; the rule derived from a rectangle | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |

@@ -253,6 +253,18 @@ CITATION CHECK PASSED 2026-11-04).
 
 **Book 130:** *Mathematics, Grade 4 Book 2; Grade 6 Book 2; Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 131:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 133:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 134:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 135:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 136:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 137:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a ratio is; order matters; recipes | Armenia, Grade 6, Ch.2 §2.1 Ratio p.44, §2.2 Equality of ratios, recipes p.50; Jordan, Grade 6 Term 2, Unit 6, L1 Ratio p.46 (6 glasses of orange juice per jug); Egypt, Grade 6 Term 2, Unit 9, L1 Ratio pp.16–18 (tape diagrams, double number lines; paint mixer 6 yellow : 4 red vs 9 yellow : 6 red); Greece, Grade 6, Unit 3, chs 30–39, printed pp.75–94 (ratio, equivalent ratios, proportions, cross products, direct and inverse proportion, rule of three); Sierra Leone, JSS 1 Term 2, L46 Ratio, printed p.2; Libya, Grade 5, Unit 7, finding a ratio — 2 chocolate cakes and 1 orange cake, ratio 2:1 and 1:2, printed pp.109–130; Ghana, JICA B6 teacher manual, L57–70 ratios and proportion — banku mixing, 4 cups cornmeal, 2 cups cassava, 6 cups water (teacher evidence); South Africa, Grade 4 Book 1, ws 61 ratio (picture/example only) |
@@ -315,6 +327,54 @@ CITATION CHECK PASSED 2026-11-04).
 | Proportion as an equality of two ratios; extreme and mean terms; finding an unknown term | Tajikistan, Математика (Grade 6), printed p. 108 |
 | Solving problems by proportions (incl. shadow/similarity and dividing in a given ratio) | Tajikistan, Математика (Grade 6), printed p. 110 |
 | Historical note: ratios in antiquity; al-Khwarizmi, Omar Khayyam | Tajikistan, Математика (Grade 6), printed p. 141 |
+| Using mental strategies for addition up to 100 | Sierra Leone, Primary 2 Term 1, L13, printed p. 26 (teacher plans) |
+| Using mental strategies for addition up to 1,000 | Sierra Leone, Primary 2 Term 2, L91, printed p. 62 (teacher plans) |
+| Using mental strategies for subtraction up to 1,000 | Sierra Leone, Primary 2 Term 2, L94, printed p. 68 (teacher plans) |
+| Mental strategies for multiplication by 2 | Sierra Leone, Primary 2 Term 2, L104, printed p. 88 (teacher plans) |
+| Mental strategies for multiplication by 4 | Sierra Leone, Primary 2 Term 2, L109, printed p. 98 (teacher plans) |
+| Mental strategies for multiplication by 10 | Sierra Leone, Primary 2 Term 2, L114, printed p. 108 (teacher plans) |
+| Mental strategies for multiplication by 5 | Sierra Leone, Primary 2 Term 3, L134, printed p. 28 (teacher plans) |
+| Using mental strategies for addition up to 100 | Sierra Leone, Primary 3 Term 1, L19, printed p. 48 (teacher plans) |
+| Using mental strategies for subtraction up to 100 | Sierra Leone, Primary 3 Term 1, L24, printed p. 59 (teacher plans) |
+| Use mental strategies for addition up to 10,000 | Sierra Leone, Primary 3 Term 2, L74, printed p. 39 (teacher plans) |
+| Use mental strategies for subtraction up to 10,000 | Sierra Leone, Primary 3 Term 2, L79, printed p. 53 (teacher plans) |
+| Mental strategies for multiplication by 3 and 6 | Sierra Leone, Primary 3 Term 2, L89, printed p. 77 (teacher plans) |
+| Mental strategies for multiplication by 7 and 9 | Sierra Leone, Primary 3 Term 2, L94, printed p. 89 (teacher plans) |
+| Mental strategies for multiplication by 1-5; Mental strategies for multiplication by 6-10 | Sierra Leone, Primary 3 Term 2, L103–L104, printed pp. 110–112 (teacher plans) |
+| Mental strategies for division by 1-5; Mental strategies for division by 6-10 | Sierra Leone, Primary 3 Term 2, L113–L114, printed pp. 132–134 (teacher plans) |
+| Story Problems Using All Four Operations; Solve Story Problems Using All Four Operations; Inverse Operations | Sierra Leone, Primary 4 Term 1, L17–L20, printed pp. 36–42 (teacher plans) |
+| Word Problems About Mass Using Four Operations | Sierra Leone, Primary 4 Term 1, L40, printed p. 82 (teacher plans) |
+| Mental Strategies for Multiplication and Division by 10; Order of Operations; Word Problems Involving the 4 Operations and Money; … (5 lessons in the run) | Sierra Leone, Primary 4 Term 3, L130–L135, printed pp. 21–32 (teacher plans) |
+| Developing Mental Strategies for Multiplication of Large Numbers; Developing Mental Strategies for Division with Large Numbers | Sierra Leone, Primary 5 Term 1, L56–L57, printed pp. 146–149 (teacher plans) |
+| Multi-Step Word Problems Involving the 4 Operations up to 100,000 | Sierra Leone, Primary 5 Term 2, L75, printed p. 34 (teacher plans) |
+| Mental Strategies Using 4 Operations; Mental Strategies Using the 4 Operations; Formal Written Strategies for Subtraction Up to 1 Million; … (7 lessons in the run) | Sierra Leone, Primary 5 Term 2, L101–L107, printed pp. 93–108 (teacher plans) |
+| Multi-Step Word Problems with Money Using the 4 Operations | Sierra Leone, Primary 5 Term 2, L110, printed p. 114 (teacher plans) |
+| Operations on Fractions | Sierra Leone, Primary 5 Term 3, L125, printed p. 12 (teacher plans) |
+| Word Problems Involving Decimals and the 4 Operations | Sierra Leone, Primary 5 Term 3, L135, printed p. 37 (teacher plans) |
+| Fractions and Ratio; Ratio and Fractions; Writing a Ratio in its Lowest Form; … (5 lessons in the run) | Sierra Leone, Primary 5 Term 3, L146–L150, printed pp. 60–68 (teacher plans) |
+| Word problems involving the 4 operations; More word problems involving the 4 operations | Sierra Leone, Primary 6 Term 1, L37–L38, printed pp. 80–82 (teacher plans) |
+| Combining 2 or more operations in fractions | Sierra Leone, Primary 6 Term 2, L79, printed p. 42 (teacher plans) |
+| Proportion and fractions; Proportion and ratio; Ratio and proportion; … (9 lessons in the run) | Sierra Leone, Primary 6 Term 3, L136–L145, printed pp. 37–58 (teacher plans) |
+| Devising word problems involving ratios and proportions | Sierra Leone, Primary 6 Term 3, L150, printed p. 70 (teacher plans) |
+| Story Problems on the Basic Operations on Fractions | Sierra Leone, JSS 1 Term 1, L22, printed p. 57 |
+| Review of the Four Operations with Whole Numbers | Sierra Leone, JSS 1 Term 1, L30, printed p. 79 |
+| Order of Operations - BODMAS | Sierra Leone, JSS 1 Term 1, L33, printed p. 88 |
+| Story problems on the Basic Operations on Fractions | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L22, printed p. 51 (teacher evidence) |
+| Review of the Four Operations with Whole Numbers | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L30, printed p. 74 (teacher evidence) |
+| Order of Operations - BODMAS | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L33, printed p. 84 (teacher evidence) |
+| Story Problems with Operations on Different Number Types | Sierra Leone, JSS 2 Term 1, L15, printed p. 41 |
+| Ratio; Rate; Unit Rate | Sierra Leone, JSS 2 Term 1, L41–L43, printed pp. 106–111 |
+| Direct Proportion; Identifying Direct Proportions; Solving Direct Proportions; … (10 lessons in the run) | Sierra Leone, JSS 2 Term 1, L46–L55, printed pp. 117–143 |
+| Time and Duration | Sierra Leone, JSS 2 Term 2, L59, printed p. 9 |
+| Ratios; Rates; Direct Proportions; … (5 lessons in the run) | Sierra Leone, JSS 3 Term 1, L24–L28, printed pp. 68–80 |
+| Review of Numbers and Numeration | Sierra Leone, SSS 1 Term 1, L1, printed p. 3 |
+| Operations in Various Moduli | Sierra Leone, SSS 1 Term 1, L23, printed p. 65 |
+| Rational and Irrational Numbers | Sierra Leone, SSS 1 Term 1, L25, printed p. 71 |
+| Comparing and Ordering Rational Numbers | Sierra Leone, SSS 1 Term 1, L27, printed p. 77 |
+| Operations on Real Numbers; Order of Operations (BODMAS) | Sierra Leone, SSS 1 Term 1, L30–L31, printed pp. 86–89 |
+| Comparison of Ratios; Rate; Proportional Division | Sierra Leone, SSS 3 Term 2, L50–L52, printed pp. 6–12 |
+| Rates of Pay | Sierra Leone, SSS 3 Term 2, L59, printed p. 33 |
+| Ratio/Proportion/Rate/ Percentages | Sierra Leone, SSS 3 Term 3, L124, printed p. 81 |
 
 | Ratio as comparison; scaling ratios | South Sudan, Pupil's Book 4, 1.5 Ratio, printed pp. 22–24 |
 | Ratio and proportion by the unitary method | South Sudan, Pupil's Book 6, 1.5 Ratios and proportion, printed pp. 15–17; South Sudan, Pupil's Book 7, 1.4 Ratios and proportions using the unitary method, printed pp. 5–6 |

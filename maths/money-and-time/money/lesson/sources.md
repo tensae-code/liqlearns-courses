@@ -119,6 +119,12 @@ Every part traces to its book and page.
 
 **Book 81:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 2 Book 2; Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 2 Book 2 ISBN 978-1-4315-0136-6; Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 82:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 83:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 84:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Know your money: denominations ordered by value | Bangladesh, Class 1, Ch. 17, pp.105–108; North Macedonia, Grade 1 (2022), pp.90–94, 159; Jordan, Grade 1 Term 2, Unit 10, pp.72–76 and Grade 2 Term 2, Unit 9, pp.78–80; Greece, Grade 1 Teuxos A, Ch. 20 within Unit 3, pp.47–62 and Grade 2 pupil books; Yemen, Grade 1 Part 2, p.135; Ethiopia, Grade 1, Ch. 10, pp.165–172; South Sudan, Primary 1, §2.4, pp.88–93 |
@@ -152,6 +158,11 @@ Every part traces to its book and page.
 | Provov veten: make 10 lekë in different ways with 1-lekë and 5-lekë coins (5 + 5 = 10; five 1-lekë coins + 5 lekë = 10 lekë), extension to 20L, 50L, 100L coins (pupil book p. 36) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed p. 58 |
 | Money: recognise all coin types and calculate the amount to pay using different-value coins (5, 10, 20, 50, 100 lekë); making 100 lekë as 10 + 20 + 20 + 50 lekë; exchanging five 1-lekë coins for one 5-lekë coin; 50 lekë = 5 × 10 lekë; I have 50 lekë, I spent 10 lekë (pupil book pp. 95–96) | Albania, Libër Mësuesi Matematikë 1 (teacher's book — teacher evidence), printed pp. 116–119 |
 | .4 area: simple interest (interesi i thjeshtë) and the unitary method (metoda njësi), marketing/finance links | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 105 |
+| Addition of Money up to Le 5,000; Addition of Money up to Le 10,000 | Sierra Leone, Primary 4 Term 2, L98–L99, printed pp. 83–85 (teacher plans) |
+| Subtracting of Money up to Le 20,000; Subtracting of Money up to Le 50,000 | Sierra Leone, Primary 4 Term 2, L102–L103, printed pp. 92–94 (teacher plans) |
+| Calculation of Unit Price; Making Comparisons with Unit Price | Sierra Leone, JSS 2 Term 1, L44–L45, printed pp. 113–115 |
+| Change of Subject – Part 1; Change of Subject – Part 2 | Sierra Leone, SSS 1 Term 2, L85–L86, printed pp. 99–102 |
+| Foreign Exchange | Sierra Leone, SSS 3 Term 2, L71, printed p. 69 |
 
 | Prices in pounds in addition practice — read toy prices in Sudanese pounds (e.g. 43, 65, 16 pounds) and add them | Sudan, Grade 1 Mathematics, printed p. 69 |
 | Coins of India — coins currently in use in India: recognise the coins | India, Math-Magic Class 1, printed p. 124 |

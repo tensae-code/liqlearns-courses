@@ -208,6 +208,14 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 
 **Book 107:** *Mathematics, Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 108:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 109:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 111:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Congruent = exact fit by matching sides and vertices; triangle congruence tests SSS, SAS, ASA, RHS; similarity by matching sides and vertices; similar-triangle properties; area scale k² and volume scale k³; the scout measuring a tree's height by similar triangles | Libya, Grade 9, Chapter 8 "Congruency and Similarity", opener p.156; 8-1 congruence p.157; 8-2 congruent triangles p.162; 8-3 similarity p.172; 8-4 similar triangles p.173; 8-5 applications of similarity p.179; 8-6 area of similar shapes p.182; 8-7 volume of similar shapes p.185; summary p.189 |
@@ -263,6 +271,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Note: lateral and total areas of similar cylinders are in ratio k² (shown algebraically) | Tajikistan, Геометрия (Grade 11), printed p. 63 |
 | Note: volumes of similar right cylinders are as the cubes of the ratios of radii or heights — taught corrected: the printed formula squares the height ratio for similar cylinders' volumes; the text itself says cubes — the exponent is 3. | Tajikistan, Геометрия (Grade 11), printed p. 112 |
 | Note: volumes of similar right cones are as the cubes of the ratios of radii, heights or generators — taught corrected: the printed formula squares the height and generator ratios for similar cones' volumes; both should be cubed, as the text says. | Tajikistan, Геометрия (Grade 11), printed p. 116 |
+| Identifying similarities and differences between a rectangle and square; Identifying similarities and differences between a rectangle, square and triangle | Sierra Leone, Primary 3 Term 1, L41–L42, printed pp. 101–103 (teacher plans) |
+| Intercept Theorem | Sierra Leone, SSS 1 Term 3, L129, printed p. 93 |
+| Congruent and Similar Triangles | Sierra Leone, SSS 1 Term 3, L135, printed p. 109 |
+| Similar Triangles | Sierra Leone, SSS 2 Term 2, L63, printed p. 43 |
+| Area of Similar Shapes | Sierra Leone, SSS 3 Term 1, L7, printed p. 25 |
 
 | Congruence and similarity through leaves, books and photos; paper aeroplane; the game of four sticks; the three congruence conditions for triangles (two sides + included angle; three sides; two angles + adjacent side) found by construction (printed pp. 125–132); similarity conditions for triangles and quadrilaterals (printed pp. 136–140) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Similar triangles; Pythagoras' theorem; ratios in triangles; quadrilaterals | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |

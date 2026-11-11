@@ -135,6 +135,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 69:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 70:** *Mathematics, Grade 9 teacher guide* (teacher guide) — Ethiopia, Ministry of Education, First Published 2022 (month blank as printed), ISBN 978-999944-2-046-9 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: companions the student book fully; guide Unit 1 = student Unit 2 (the number-system unit), Sets as primer Unit 1' — cite by student unit numbers.
 
+**Book 72:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 73:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trigonometry introduced from similar right triangles; ratios defined before applications, calculator-based; sine, cosine, tangent of an acute angle defined as ratios of sides in a right triangle; cosecant/secant/cotangent named; the Pythagorean identity and "reciprocal of the trigonometric ratio" among the key terms; applications — angles of elevation and depression, finding unknown lengths and heights | Jordan, Grade 9 Term 2, Unit 5 "Relationships in Triangles and Trigonometric Ratios", p.6; L4 Trigonometric Ratios p.40; L5 Applications of Trigonometric Ratios p.49 |
@@ -169,6 +173,11 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometry — ratios of an acute angle, special angles, unit circle, elevation/depression examples | Iraq, Grade 10 Literary student book, Ch3 trigonometry, pp.44–62 (elevation/depression examples p.61 only; p.62 is exercises) |
 | Sin/cos/tan ratios in right-angled triangles | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 32 |
 | Angles of elevation and depression; exact trig values for special angles (present in the trimester plan; NOT in the annual-plan chapter list) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 32 |
+| Review of Sine, Cosine and Tangent; Application of Sine, Cosine and Tangent | Sierra Leone, SSS 2 Term 3, L97–L98, printed pp. 3–6 |
+| Inverse Trigonometry | Sierra Leone, SSS 2 Term 3, L101, printed p. 15 |
+| Problem Solving with Trigonometric Ratios | Sierra Leone, SSS 2 Term 3, L110, printed p. 43 |
+| The Sine Rule; The Cosine Rule; Application of Sine and Cosine Rules | Sierra Leone, SSS 2 Term 3, L114–L116, printed pp. 54–60 |
+| Trigonometry | Sierra Leone, SSS 3 Term 3, L135, printed p. 114 |
 
 | Naming sides (opposite/adjacent/hypotenuse); the six ratios and reciprocal relations; values for 0°/30°/45°/60°/90° (full table); ratios for other angles by calculator; elevation and depression angles; distance-and-height problems (ladder 12 ft at 45° → ≈ 8.49 ft; broken pole 10 m at 30° → ≈ 17.32 m) — taught corrected: "geosynchronous line" is the horizontal line, the depression-angle definition is muddled (M9), and Greek gōnia means angle, not side (M8); the Exercise Q3 triangle (∠B = 90°, AC = 12 cm, BC = 13 cm) does not exist | Bangladesh, *Mathematics, Class Nine*, Ch 6 Trigonometry in Measurement, printed pp. 141–156 |
 

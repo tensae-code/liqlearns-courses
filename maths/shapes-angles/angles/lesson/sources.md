@@ -326,6 +326,18 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 
 **Book 184:** *Mathematics, Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 185:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 186:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 187:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 188:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 189:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 190:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angles lesson: lines, rays and angles | Jordan, Grade 3 Student Book Term 1, Unit 6, L2 Angles, p.98 |
@@ -407,6 +419,44 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Straight, right, acute and obtuse angles | Tajikistan, Математика (Grade 5), printed p. 165 |
 | Measuring angles: the degree as 1/180 of a straight angle, protractor; arc minutes and seconds; triangles named by their angles (acute/right/obtuse) | Tajikistan, Математика (Grade 5), printed p. 168 |
 | Measuring angles with a protractor (review, Chapter 9) | Tajikistan, Математика (Grade 5), printed p. 276 |
+| Rectangles and their Properties; Rectangles and Squares and their Properties | Sierra Leone, Primary 1 Term 3, L139–L140, printed pp. 38–40 (teacher plans) |
+| Rectangles and their properties; Rectangles, Squares and their properties | Sierra Leone, Primary 2 Term 1, L33–L34, printed pp. 66–68 (teacher plans) |
+| Drawing squares and rectangles using its properties; Drawing triangles using its properties; Drawing more complex patterns using squares, rectangles and triangles | Sierra Leone, Primary 3 Term 1, L43–L45, printed pp. 105–110 (teacher plans) |
+| Angles as measures of turn; Related descriptions for angles as measures of turn; Using angles as measures of turn to give directions; … (4 lessons in the run) | Sierra Leone, Primary 3 Term 2, L96–L100, printed pp. 93–102 (teacher plans) |
+| Calculating Perimeter for Rectangles in Centimetres | Sierra Leone, Primary 4 Term 1, L28, printed p. 58 (teacher plans) |
+| Calculating Perimeter for Triangles in Centimetres | Sierra Leone, Primary 4 Term 1, L30, printed p. 62 (teacher plans) |
+| Calculating Area for Rectangles in cm2 and m2 | Sierra Leone, Primary 4 Term 1, L32, printed p. 66 (teacher plans) |
+| Identifying and Naming Angles (Equal to, Greater or Less Than a Right Angle); Drawing Angles (Equal to, Greater or Less Than a Right Angle); Comparing Angles Inside and Outside of the Classroom | Sierra Leone, Primary 4 Term 2, L78–L80, printed pp. 39–43 (teacher plans) |
+| Calculating Area of Rectangles and Squares Using Counting of Area and Formulae | Sierra Leone, Primary 5 Term 1, L31, printed p. 77 (teacher plans) |
+| Identify Acute and Obtuse Angles Using Degrees; Measuring Acute and Obtuse Angles; Comparing Angles Using Degrees; … (5 lessons in the run) | Sierra Leone, Primary 5 Term 1, L36–L40, printed pp. 92–104 (teacher plans) |
+| Area of squares and rectangles; Area of triangles | Sierra Leone, Primary 6 Term 2, L83–L84, printed pp. 54–57 (teacher plans) |
+| Properties of right-angled triangles; Properties of isosceles triangles; Properties of equilateral triangles; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 2, L91–L95, printed pp. 77–92 (teacher plans) |
+| Sum of angles in a triangle; Finding unknown angles in a triangle; Sum of angles in a quadrilateral; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 2, L111–L115, printed pp. 130–141 (teacher plans) |
+| Finding Unknown Angles in a Triangle; Angles in quadrilaterals; Types of angles; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 3, L131–L135, printed pp. 27–35 (teacher plans) |
+| Area of Rectangles and Squares; Area of Triangles | Sierra Leone, JSS 1 Term 2, L77–L78, printed pp. 95–98 |
+| Perimeter and Area of Rectangles and Squares | Sierra Leone, JSS 2 Term 2, L61, printed p. 15 |
+| Perimeter and Area of Triangles | Sierra Leone, JSS 2 Term 2, L64, printed p. 24 |
+| Introduction to Angles; Measurement of Angles; Finding Unknown Angles in Triangles; … (5 lessons in the run) | Sierra Leone, JSS 2 Term 2, L81–L85, printed pp. 74–86 |
+| Sum of the Interior Angles of a Pentagon; Sum of the Interior Angles of a Polygon; Interior Angle Practice; … (4 lessons in the run) | Sierra Leone, JSS 2 Term 2, L87–L90, printed pp. 92–100 |
+| Right-angled Triangles (Revision) | Sierra Leone, JSS 3 Term 1, L41, printed p. 119 |
+| Finding the Hypotenuse of a Right-Angled Triangle; Finding the Other Sides of a Right-Angled Triangle | Sierra Leone, JSS 3 Term 1, L43–L44, printed pp. 125–128 |
+| Perimeter of Triangles and Quadrilaterals; Area of Triangles | Sierra Leone, JSS 3 Term 3, L141–L142, printed pp. 96–100 |
+| Acute, Obtuse, Right, Reflex, and Straight Angles; Drawing of Angles with Specific Measurements; Complementary and Supplementary Angles | Sierra Leone, SSS 1 Term 3, L118–L120, printed pp. 62–66 |
+| Alternate and Corresponding Angles; Adjacent and Opposite Angles; Interior and Exterior Angles; … (6 lessons in the run) | Sierra Leone, SSS 1 Term 3, L123–L128, printed pp. 75–90 |
+| Angle Problem Solving | Sierra Leone, SSS 1 Term 3, L130, printed p. 96 |
+| Drawing of Triangles; Interior and Exterior Angles of a Triangle; Acute-, Obtuse-, and Right-angled Triangles | Sierra Leone, SSS 1 Term 3, L132–L134, printed pp. 102–107 |
+| Area of Triangles; Word Problems Involving Triangles; Finding the Hypotenuse of a Right Triangle; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 3, L136–L139, printed pp. 112–121 |
+| Review of Angles and Triangles | Sierra Leone, SSS 2 Term 1, L4, printed p. 12 |
+| Interior Angles of Quadrilaterals; Exterior Angles of Quadrilaterals; Solving Triangles; … (5 lessons in the run) | Sierra Leone, SSS 2 Term 2, L58–L62, printed pp. 28–40 |
+| Triangle Problem Solving | Sierra Leone, SSS 2 Term 2, L64, printed p. 46 |
+| Perimeter and Area of a Square and Rectangle | Sierra Leone, SSS 2 Term 2, L67, printed p. 54 |
+| Perimeter and Area of a Triangle | Sierra Leone, SSS 2 Term 2, L72, printed p. 69 |
+| Sum of Interior Angles of Polygons; Interior and Exterior Angles of Polygons | Sierra Leone, SSS 2 Term 2, L76–L77, printed pp. 81–84 |
+| Bisect a Given Angle | Sierra Leone, SSS 2 Term 2, L80, printed p. 93 |
+| Special Angles (30°, 45°, 60°); Applying Special Angles | Sierra Leone, SSS 2 Term 3, L99–L100, printed pp. 9–12 |
+| Angles of Elevation; Angles of Depression; Applications of Angles of Elevation and Depression – Part 1; … (6 lessons in the run) | Sierra Leone, SSS 2 Term 3, L103–L108, printed pp. 21–36 |
+| Angles of Polygons | Sierra Leone, SSS 3 Term 3, L129, printed p. 96 |
+| Angles of Elevation and Depression | Sierra Leone, SSS 3 Term 3, L136, printed p. 117 |
 
 | Angles; right angle by paper folding; straight angle = two right angles; acute/obtuse | Bangladesh, *Elementary Mathematics, Class Three*, Ch 12 Geometry, printed pp. 123–136 |
 | Angle size in degrees; protractor; 30°/45°/60°/90°; acute/right/obtuse/straight; adjacent angles; complementary (sum 90°), supplementary (sum 180°), vertically opposite (equal); clock-hand angles; parallel and perpendicular lines | Bangladesh, *Elementary Mathematics, Class Four*, Ch 13 Lines and Angles, printed pp. 143–154 |

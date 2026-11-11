@@ -36,6 +36,8 @@ Every part traces to its book and page.
 
 **Book 19:** *Mathematics, Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 20:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Direct variation — numerical and word problems, y = kx | Sierra Leone, SSS 2 Term 1 handbook, L17 Direct Variation, printed p. 45 |
@@ -65,6 +67,7 @@ Every part traces to its book and page.
 | Inversely proportional quantities (work crews, price/quantity, feed stock, rectangle sides at fixed area) | Tajikistan, Математика (Grade 6), printed p. 120 |
 | Direct proportionality: constant ratio, formula y = kx in all but name | Tajikistan, Алгебра (Grade 7), printed p. 73 |
 | Inverse proportionality: the function y = k/x, its properties and graph (hyperbola) | Tajikistan, Алгебра (Grade 8), printed p. 57 |
+| Variation | Sierra Leone, SSS 3 Term 3, L128, printed p. 93 |
 
 | Direct variation — Direct variation: y = kx, the constant of variation, the ratio test y₁/x₁ = y₂/x₂, and the straight-line graph through the origin (5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 162 |
 | Variation with powers and roots — Direct variation with the square and with the square root of the variable (within 5-1) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 165 |

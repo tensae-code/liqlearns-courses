@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -216,6 +216,8 @@ CITATION CHECK PASSED 2026-11-05).
 
 **Book 131:** *Mathematics, Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 132:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cartesian product (ordered pairs, arrow and Cartesian diagrams, order matters); relations between sets, domain, range and representation; function (also called application): when a relation is a function, its domain, codomain and range, with worked examples | Egypt, Preparatory 3 old Term 1, Unit 1 Relations and functions, 1-2 Cartesian product p.13; 1-3 Relations p.16; 1-4 Function (application) p.19 (printed folios — an earlier version of this row carried the French contents-page numbers 2/8/11/14; corrected in the 2026-11-08 re-verification sweep) |
@@ -282,6 +284,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Dependence between variables; independent and dependent variable; function | Tajikistan, Алгебра (Grade 7), printed p. 67 |
 | Calculating values of a function from a formula and a table | Tajikistan, Алгебра (Grade 7), printed p. 70 |
 | Linear dependence of the form y = kx + b that is not a direct proportionality | Tajikistan, Алгебра (Grade 7), printed p. 78 |
+| Mapping, Including Domain and Range; Functions – Part 1; Graphs of Linear Functions – Part 1; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 3, L98–L102, printed pp. 6–18 |
 
 | Direct proportion expressed as y = ax, with its graph | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as the function y = ax and inverse proportionality as y = a/x, with graphs | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
@@ -611,7 +614,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Input and output values; more on input and output values; tables (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 106a–b Input and output values, printed pp. 116, 118; South Africa, Grade 8 Book 2, Ws 109 More on input and output values, printed p. 124; South Africa, Grade 8 Book 2, Ws 110 Tables, printed p. 126 |
 | Revision worksheets: Grade 8 key concepts, input and output values among them (Grade 9 Book 1) | South Africa, Grade 9 Book 1, Revision R1–R16, Key concepts from Grade 8: whole numbers and properties of numbers; multiples and factors; exponents; integers and patterns; common fractions; percentages and decimal fractions; input and output; algebra; graphs; financial mathematics; geometric figures; transformations; geometric objects; perimeter and area; volume and surface area; data, printed pp. ii–l |
 
-**Acceptance count: taught in 37 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa).**.** Egypt carries the
+**Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain

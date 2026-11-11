@@ -204,6 +204,23 @@ Every part traces to its book and page.
 | Opener + 9A: converting units of time (plans 84–86) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 9, 163–166 |
 | : the 24-hour clock and timetables (plans 87–88) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 9, 167–168 |
 | : calculating time intervals, including time zones (New York–Tirana flight problem) (plans 89–90) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 9, 169–170 |
+| Drawing a 12-Hour Clock Face; Drawing 12 Hours on the Clock Face; Telling the Time in Hours | Sierra Leone, Primary 1 Term 2, L73–L75, printed pp. 26–30 (teacher plans) |
+| Hands on the Clock Face; Talking about the Time of Home and School Activities; Using Pictures to Learn about Earlier and Later; … (6 lessons in the run) | Sierra Leone, Primary 1 Term 2, L77–L82, printed pp. 34–44 (teacher plans) |
+| Word problems involving times 2 using pictures | Sierra Leone, Primary 2 Term 2, L105, printed p. 90 (teacher plans) |
+| Word problems involving times four using pictures | Sierra Leone, Primary 2 Term 2, L110, printed p. 100 (teacher plans) |
+| Word problems involving times ten using pictures | Sierra Leone, Primary 2 Term 2, L115, printed p. 110 (teacher plans) |
+| Word problems involving times 5 using pictures | Sierra Leone, Primary 2 Term 3, L135, printed p. 30 (teacher plans) |
+| Drawing 12 hours on the clock face | Sierra Leone, Primary 2 Term 3, L146, printed p. 52 (teacher plans) |
+| Telling the time to 5 minutes; Seconds in a minute | Sierra Leone, Primary 2 Term 3, L149–L150, printed pp. 58–60 (teacher plans) |
+| Measuring height by using feet, inches and centimetres | Sierra Leone, Primary 3 Term 2, L84, printed p. 64 (teacher plans) |
+| Multiplication problems using the times table 1-5; Multiplication problems using the times table 6-10 | Sierra Leone, Primary 3 Term 2, L101–L102, printed pp. 104–107 (teacher plans) |
+| Telling the time to 5 minutes; Telling the time to the nearest minute; Units of time: second, minute, hour; … (8 lessons in the run) | Sierra Leone, Primary 3 Term 3, L138–L145, printed pp. 43–61 (teacher plans) |
+| Measurements of Objects in Centimetres | Sierra Leone, Primary 4 Term 1, L21, printed p. 44 (teacher plans) |
+| Word Problems about Length of Small Objects (Centimetres); Word Problems About the Length of Small Objects (Centimetres) | Sierra Leone, Primary 4 Term 1, L24–L25, printed pp. 50–52 (teacher plans) |
+| Multiplication Using the 7 and 8 Times Table; Multiplication Using the 9 and 10 Times Table | Sierra Leone, Primary 4 Term 1, L48–L49, printed pp. 99–101 (teacher plans) |
+| Time Intervals in Months, Weeks and Days | Sierra Leone, Primary 5 Term 2, L89, printed p. 64 (teacher plans) |
+| Measuring lengths of objects in millimetres and centimetres; Conversion of lengths from centimetres to millimetres and millimetres to centimetres | Sierra Leone, Primary 6 Term 1, L58–L59, printed pp. 129–131 (teacher plans) |
+| 12-hour and 24-hour clock; A.M. and P.M; Addition and subtraction with time; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 2, L106–L109, printed pp. 116–124 (teacher plans) |
 
 | Parts of the day — morning and evening activities at home and at school (no clock reading) | Sudan, Grade 1 Mathematics, printed p. 81 |
 | Days of the week — the seven days listed starting with Friday; order the days and fill the gaps | Sudan, Grade 1 Mathematics, printed p. 83 |

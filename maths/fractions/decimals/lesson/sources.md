@@ -304,6 +304,12 @@ READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 154:** *Mathematics, Grade 4 Book 2; Grade 6 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 157:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 158:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 159:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Tenths, hundredths, thousandths; place value; reading decimals aloud | Jordan, Grade 4 Term 2, Unit 7, L1 Tenths p.33, L2 Hundredths p.38, L3 Decimal numbers p.42; Egypt, Grade 5 Term 1, Unit 1, L1 Decimals to the Thousandths Place pp.3–6, L2 Place Value Shuffle pp.7–10, L3 Composing and Decomposing Decimals pp.11–14; Kazakhstan, Grade 5, Ch.4 §4.1 The decimal fraction; reading and writing decimals, p.16; Libya, Grade 4, Ch.9, Understanding tenths p.8, hundredths p.13, thousandths p.18; Vietnam, Grade 5 Volume 1, Theme 2, Bài 10 The decimal concept p.32 |
@@ -378,6 +384,24 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Periodic (recurring) decimals: pure and mixed, period notation 0,(7), 0.56(123); which denominators give which kind | Tajikistan, Математика (Grade 6), printed p. 182 |
 | Evaluating numerical expressions with common and decimal fractions (exercise sets) | Tajikistan, Алгебра (Grade 7), printed p. 7 |
 | Every rational number as an infinite periodic decimal, and conversely | Tajikistan, Алгебра (Grade 8), printed p. 83 |
+| Multiplication of Decimals to 1 Decimal Place by 10 | Sierra Leone, Primary 4 Term 3, L127, printed p. 14 (teacher plans) |
+| Division of Decimals to 1 Decimal Place by 10 | Sierra Leone, Primary 4 Term 3, L129, printed p. 19 (teacher plans) |
+| Multiplication of 1- and 2-decimal-place numbers by a one-digit number; Multiplication of 3 to 4 decimal place numbers by 2-digit numbers; Multiplication of 1 decimal place numbers by 1 decimal place numbers; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 1, L20–L24, printed pp. 43–51 (teacher plans) |
+| Division of 1 decimal place numbers by 1 decimal place numbers; Division of 2 decimal place numbers by 1 decimal place numbers; Division of 2 decimal place numbers by 2 decimal place numbers; … (4 lessons in the run) | Sierra Leone, Primary 6 Term 1, L27–L30, printed pp. 59–65 (teacher plans) |
+| Place value of decimal numbers up to thousandths; Place Value of whole and decimal numbers up to thousandths | Sierra Leone, Primary 6 Term 1, L39–L40, printed pp. 85–88 (teacher plans) |
+| Place Value for Decimals | Sierra Leone, JSS 1 Term 1, L23, printed p. 60 |
+| Review of Addition and Subtraction With Decimals; Review of Multiplying and Dividing With Decimals | Sierra Leone, JSS 1 Term 1, L31–L32, printed pp. 82–85 |
+| Story Problems with Whole Numbers and Decimals | Sierra Leone, JSS 1 Term 1, L35, printed p. 93 |
+| Place Value for Decimals | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L23, printed p. 54 (teacher evidence) |
+| Rounding Off Decimal Numbers to Whole Numbers; Rounding Off Decimal Numbers; Rounding Off Whole Numbers and Decimals to the Nearest 10, 100 and 1000; … (4 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L26–L29, printed pp. 63–71 (teacher evidence) |
+| Review of Addition and Subtraction of Decimals; Review Multiplying and Dividing Decimals | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L31–L32, printed pp. 78–81 (teacher evidence) |
+| Story Problems with Whole Numbers and Decimals | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L35, printed p. 90 (teacher evidence) |
+| Classification of Decimal Numbers; Rounding off Decimal Numbers to the Nearest Whole; Rounding off Decimal Numbers to Stated Decimal Places | Sierra Leone, JSS 2 Term 1, L6–L8, printed pp. 15–22 |
+| Adding and Subtracting Integers and Decimals | Sierra Leone, JSS 2 Term 1, L11, printed p. 30 |
+| Multiplying and Dividing by Integers and Decimals | Sierra Leone, JSS 2 Term 1, L13, printed p. 36 |
+| Addition and Subtraction of Decimals; Multiplication and Division of Decimals | Sierra Leone, SSS 1 Term 1, L4–L5, printed pp. 12–15 |
+| Real World Use of Decimals | Sierra Leone, SSS 1 Term 1, L11, printed p. 31 |
+| Approximating of Decimals | Sierra Leone, SSS 1 Term 1, L28, printed p. 80 |
 
 | Fractions ↔ decimals; when a fraction can become a decimal exactly | South Sudan, Pupil's Book 5, 1.8 Fractions and decimals, printed pp. 23–26; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Squares and square roots of decimals | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4; South Sudan, Pupil's Book 8, 1.3 Squares and square roots of decimals and fractions, printed pp. 9–10 |

@@ -27,6 +27,10 @@ Every part traces to its book and page.
 
 **Book 15:** *Алгебра* (Algebra, pupil's book) — Tajikistan, А. Шарифзода (A. Sharifzoda) and Б. Алиев (B. Aliev), 4th improved edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-3-927-3 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 16:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 17:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a base means; base-10 digits 0–9 against base-2 digits 0–1 | Sierra Leone, JSS 3 Term 1 handbook, L18 Introduction to Base 2, printed p.50 |
@@ -50,6 +54,8 @@ Every part traces to its book and page.
 | The binary system: writing naturals in binary, expanding (101011)₂ = 43, binary addition and multiplication tables, uses | Tajikistan, Математика (Grade 6), printed p. 239 |
 | Positional number systems; how the decimal system arose | Tajikistan, Алгебра (Grade 7), printed p. 174 |
 | The binary system and its applications; writing natural numbers in binary | Tajikistan, Алгебра (Grade 7), printed p. 176 |
+| Developing tally charts based on answers to questions | Sierra Leone, Primary 2 Term 1, L56, printed p. 112 (teacher plans) |
+| Review of Number Bases and Indices | Sierra Leone, SSS 2 Term 1, L1, printed p. 3 |
 
 | Binary system — The binary system: base 2, digits 0 and 1, place values as powers of 2; binary table for decimal 0–10; reading a binary number digit by digit | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 95 |
 | Binary to decimal — Binary → decimal by expanding into powers of 2 (111010₂ = 58; 10110₂ = 22) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 97 |

@@ -67,6 +67,10 @@ Every part traces to its book and page.
 
 **Book 46:** *Mathematics, Grade 6 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 1 ISBN 978-1-4315-0037-6. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 47:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 48:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | v = d ÷ t and the three-direction tables | Cambodia, Grade 6, L14 Speed, pp.95–98 (ship 120 km in 3 h = 40 km/h; 147 km at 70 km/h = 2.1 h; 90 km/h × 1.5 h = 135 km); Vietnam, Grade 5 v2, Theme 10, pp.76, 78, 82 (uniform motion, v = s/t in words); Yemen, Grade 6 Pt2, lesson 7-9, p.134 (80 m/min, 90 km/h, 750 km/h) |
@@ -91,6 +95,8 @@ Every part traces to its book and page.
 | Bodies moving towards each other (meeting time and distance covered by each) and in the same direction (catching-up and overtaking time); average speed as total distance ÷ total time, including return journeys | Rwanda, Primary 6 Mathematics, Learner's Book, Unit 8, printed pp. 143–150 |
 | The formula S = v·t and finding v or t from it; motion with and against a current | Tajikistan, Математика (Grade 5), printed p. 103 |
 | Comparing journey times and crop yields by comparing expression values (worked problems) | Tajikistan, Алгебра (Grade 7), printed p. 13 |
+| Knowing Words to Describe Distance Away from Objects or Persons | Sierra Leone, Primary 1 Term 1, L51–L52, printed pp. 102–104 (teacher plans) |
+| Distance Formula | Sierra Leone, SSS 2 Term 1, L23, printed p. 61 |
 
 | Speed as a rate — speed = distance ÷ time; km/h and miles/h; using the relation in all three directions | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 84 |
 | Distance–time tables — 40 km/h bicycle covering 40/80/120 km in 1/2/3 h; unit-mixed exercises (km/h and m/min) | Sudan, Grade 8 Mathematics (Second Year Intermediate), printed p. 90 |

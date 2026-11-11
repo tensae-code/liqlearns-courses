@@ -369,6 +369,12 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 
 **Book 201:** *Mathematics, Grade 1 Book 1; Grade 1 Book 2; Grade 2 Book 1; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026 (Grade 2 English editions: Fifteenth edition 2025). Grade 1 Book 1 ISBN 978-1-920458-82-9; Grade 1 Book 2 ISBN 978-1-4315-0125-0; Grade 2 Book 1 ISBN 978-1-920458-93-5; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 204:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 205:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 206:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | Kazakhstan, Grade 3 Part 2, L41 The notion of a share, p.4; Jordan, Grade 1 Term 2, Unit 9, L1 Congruent (equal) parts p.50, L2 The half p.52, L3 The quarter p.54, L5 Comparing fractions p.58; Greece, Grade 3, Unit 4, ch.22 Introduction to fractions, printed pp.17–28; Sierra Leone, Primary 1 Term 2, L88–92 halves and quarters from pictures and stories (teacher plans) |
@@ -451,6 +457,30 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Finding a fraction (part) of a number | Tajikistan, Математика (Grade 6), printed p. 82 |
 | Finding a number from a known value of its fraction (part) | Tajikistan, Математика (Grade 6), printed p. 90 |
 | Historical note: fractions in Greece (Heron, Diophantus), India, Nasavi, al-Khwarizmi | Tajikistan, Математика (Grade 6), printed p. 103 |
+| Telling the Time in Hours and Half Hours | Sierra Leone, Primary 1 Term 2, L76, printed p. 32 (teacher plans) |
+| Identifying halves using pictures; Making stories by drawing halves in pictures; Identifying quarters using pictures; … (10 lessons in the run) | Sierra Leone, Primary 2 Term 3, L121–L130, printed pp. 2–20 (teacher plans) |
+| Telling the time in hours and half hours; Telling the time in quarters of an hour | Sierra Leone, Primary 2 Term 3, L147–L148, printed pp. 54–56 (teacher plans) |
+| Telling the time in hours and half hours; Telling the time in quarters of an hour | Sierra Leone, Primary 3 Term 3, L136–L137, printed pp. 39–41 (teacher plans) |
+| Word Problems Involving Proper Fractions with Denominators up to 6; Word Problems Involving Proper Fractions with Denominators up to 12 | Sierra Leone, Primary 4 Term 2, L89–L90, printed pp. 62–64 (teacher plans) |
+| Fractions with a Denominator of 10; Fractions with a Denominator of 10 on a Number Line; Fractions as Decimals; … (5 lessons in the run) | Sierra Leone, Primary 4 Term 2, L106–L110, printed pp. 100–110 (teacher plans) |
+| Equivalent Fractions | Sierra Leone, Primary 4 Term 3, L136, printed p. 35 (teacher plans) |
+| Like Fractions with Denominators Up to 12; Compare and Order Like Fractions | Sierra Leone, Primary 5 Term 2, L116–L117, printed pp. 130–132 (teacher plans) |
+| Equivalent Fractions | Sierra Leone, Primary 5 Term 2, L119, printed p. 137 (teacher plans) |
+| Compare Equivalent Fractions and Fractions Greater Than One; Mixed Numbers and Improper Fractions | Sierra Leone, Primary 5 Term 3, L121–L122, printed pp. 2–5 (teacher plans) |
+| Decimal Fractions up to 100ths | Sierra Leone, Primary 5 Term 3, L126, printed p. 14 (teacher plans) |
+| Conversion of Fractions to Decimals; Conversion of Decimals to Fractions | Sierra Leone, Primary 5 Term 3, L136–L137, printed pp. 39–41 (teacher plans) |
+| Like fractions with denominators up to 12 (revision); Equivalent fractions (revision); Mixed number and improper fractions; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 2, L71–L75, printed pp. 23–34 (teacher plans) |
+| Word problems in fractions involving multi-step problems | Sierra Leone, Primary 6 Term 2, L80, printed p. 45 (teacher plans) |
+| Fractions with denominators of 10 or 100 (revision); Fractions with denominators of 1000; Fractions as decimals and vice versa; … (5 lessons in the run) | Sierra Leone, Primary 6 Term 2, L86–L90, printed pp. 63–74 (teacher plans) |
+| Conversion from fractions to decimals; Conversion from decimals to fractions | Sierra Leone, Primary 6 Term 2, L96–L97, printed pp. 96–98 (teacher plans) |
+| Solving word problems involving fractions; Devising word problems involving fractions | Sierra Leone, Primary 6 Term 3, L146–L147, printed pp. 60–64 (teacher plans) |
+| Decimals to Fractions; Fractions to Decimals | Sierra Leone, JSS 1 Term 1, L24–L25, printed pp. 63–65 |
+| Introduction to Fractions; Fractions with Different Denominators | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L14–L15, printed pp. 31–34 (teacher evidence) |
+| Decimals to Fractions; Fractions to Decimal | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L24–L25, printed pp. 57–60 (teacher evidence) |
+| Indices with Fractional Powers | Sierra Leone, JSS 3 Term 1, L34, printed p. 99 |
+| Real World Use of Fractions | Sierra Leone, SSS 1 Term 1, L10, printed p. 28 |
+| Recurring Decimals as Common Fractions | Sierra Leone, SSS 1 Term 1, L29, printed p. 83 |
+| Fractional Indices – Part 1; Fractional Indices – Part 2 | Sierra Leone, SSS 1 Term 1, L36–L37, printed pp. 103–106 |
 
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | South Sudan, Pupil's Book 2, 1.11 Fractions, printed pp. 36–40 |
 | Equivalent fractions: same amount, different writing; the multiply/divide rule | South Sudan, Pupil's Book 3, 1.7 Comparing simple equivalent fractions, printed pp. 16–21; South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |

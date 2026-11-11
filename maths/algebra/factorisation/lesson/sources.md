@@ -1,6 +1,6 @@
 # Sources — Factorisation
 
-countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa
+countries: India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -40,6 +40,16 @@ Every part traces to its book and page.
 
 **Book 22:** *Mathematics, Grade 9 Book 1; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 9 Book 1 ISBN 978-1-4315-0226-4; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 23:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 24:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 25:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 26:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 27:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Factorisation as the reverse of multiplication; irreducible factors; the method of common factors | India, Mathematics Class 8, Ch. 14 Factorisation, printed p. 217 |
@@ -62,6 +72,14 @@ Every part traces to its book and page.
 | Sum of cubes: a^3 + b^3 = (a + b)(a^2 - ab + b^2) | Tajikistan, Алгебра (Grade 7), printed p. 203 |
 | Difference of cubes: a^3 - b^3 = (a - b)(a^2 + ab + b^2) | Tajikistan, Алгебра (Grade 7), printed p. 204 |
 | Applying the sum- and difference-of-cubes formulas | Tajikistan, Алгебра (Grade 7), printed p. 206 |
+| Factorisation | Sierra Leone, JSS 1 Term 3, L118, printed p. 29 |
+| Factorisation | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L118, printed p. 30 (teacher evidence) |
+| Factoring Integers from Algebraic Expressions | Sierra Leone, JSS 2 Term 2, L114, printed p. 163 |
+| Practice with Factorisation | Sierra Leone, JSS 2 Term 3, L117, printed p. 5 |
+| Review of Factorisation: Integers | Sierra Leone, JSS 3 Term 2, L78, printed p. 97 |
+| Factorisation by Completing the Squares Method | Sierra Leone, JSS 3 Term 2, L82, printed p. 109 |
+| Practice with Factorisation | Sierra Leone, JSS 3 Term 2, L84, printed p. 115 |
+| Factoring – Common Factors; Factoring – Grouping | Sierra Leone, SSS 1 Term 2, L75–L76, printed pp. 72–74 |
 
 | Geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab | Venezuela, Conciencia Matemática (Grade 8), printed p. 18 |
 | Rule — notable product (a + b)² = a² + 2ab + b² stated as a fixed-rule product | Venezuela, Conciencia Matemática (Grade 8), printed p. 19 |
@@ -105,7 +123,7 @@ Every part traces to its book and page.
 | Factorise algebraic expressions — common factors, grouping, difference of squares and trinomials, in workbook sequence (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 76–80 Factorise algebraic expressions (five worksheets: common factors, grouping, difference of squares and trinomials in workbook sequence), printed pp. 34, 36, 38, 40, 42 |
 | Revision sheet, factorisation among it (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 144 Revision sheet (year revision of this book's placed items), printed p. 228 |
 
-**Acceptance count: taught in 11 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
+**Acceptance count: taught in 12 countries (India, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, South Africa, Sierra Leone).** India's Class 8 book gives factorisation a whole chapter of its own (Ch. 14, printed pp. 217–229) and its Class 9 book returns to it inside Polynomials — quadratics by splitting the middle term, cubics by the Factor Theorem — so under the everything-goes-in ruling (2026-11-06) the topic is gathered into its own lesson, at the size of that treatment. Other read countries teach factorisation as a part inside their expressions chapters, and their merges stocked it there; India's own Class 9 identity work ((x + y + z)² and x³ + y³ + z³ − 3xyz, applied to factorise) is likewise stocked in expressions, and its Class 8 division of algebraic expressions in polynomial-division. One slip in the Class 8 chapter is taught corrected: the chapter summary (printed p. 229) prints the trinomial form as "x² + (a + b) + ab", dropping the x — the correct form x² + (a + b)x + ab stands in the formula list on the same page and is the form this lesson teaches. The §14.5 "Can you find the error?" page (printed p. 226) is the book's deliberate wrong-work exercise, not a book error. North Macedonia enters from its main set — Grade 11 (2026) and the Grade 12 Algebra elective.
 
 Venezuela enters through the Colección Bicentenario, the MPPE's one-book-per-grade course: *Conciencia Matemática* (Grade 8) and *La Matemática y el Vivir Bien* (Grade 11). From its books: from Grade 8: geometric derivation — (a + b)² built from a square of side a + b split into a², b² and two rectangles ab; from Grade 11: every real polynomial splits into linear factors and irreducible quadratic factors (stated as form A).
 

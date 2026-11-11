@@ -126,6 +126,10 @@ Every part traces to its book and page.
 **Book 82:** *Mathematics, Preparatory 3 (Grade 9), Term 1, NEW curriculum* — Egypt, Ministry of Education and Technical Education, 2026/2027 (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 **Book 83:** *Mathematics, Secondary 1 (Grade 10), Term 1, "First Form Secondary"* — Egypt, Ministry of Education and Technical Education. Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 85:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 86:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Definition ax² + bx + c = 0, coefficients named; the root formula derived by completing the square, with D = b² − 4ac and the two/one/no-root cases read off D; Vieta's theorem and its converse, both proved; reading the signs of the roots from p and q; factorising, modulus and biquadratic equations reduced to quadratics; rational equations and word problems set up as quadratics | Kazakhstan, Algebra 8 (Atamura 2018), Ch. 2, §§2.1–2.6, pp. 56–99 |
@@ -170,6 +174,10 @@ Every part traces to its book and page.
 | The quadratic root formula derived by completing the square; number of roots by the discriminant's sign | Tajikistan, Алгебра (Grade 8), printed p. 166 |
 | Word problems (areas, motion, physics) solved with quadratic equations | Tajikistan, Алгебра (Grade 8), printed p. 173 |
 | Monic (reduced) quadratic equations; Vieta's theorem and its converse | Tajikistan, Алгебра (Grade 8), printed p. 176 |
+| Quadratic Functions | Sierra Leone, SSS 1 Term 3, L103, printed p. 21 |
+| Review of Quadratic Equations | Sierra Leone, SSS 2 Term 1, L3, printed p. 9 |
+| Simultaneous Linear and Quadratic Equations using Substitution; Simultaneous Linear and Quadratic Equations using Graphical Methods – Part 1; Simultaneous Linear and Quadratic Equations using Graphical Methods – Part 2 | Sierra Leone, SSS 2 Term 1, L14–L16, printed pp. 38–43 |
+| Quadratic Equations | Sierra Leone, SSS 3 Term 3, L126, printed p. 87 |
 
 | Factorising quadratics x² + bx + c (expressions only — no solving as a topic) | South Sudan, Student's Book 1, Unit 4, printed pp. 99–102 |
 | Solving quadratic equations by factorisation | South Sudan, Student's Book 2, solving quadratic equations by factorisation, printed pp. 38–39 |

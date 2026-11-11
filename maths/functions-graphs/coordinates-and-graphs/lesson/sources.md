@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Armenia
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Armenia, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -245,6 +245,20 @@ textbook.
 
 **Book 152:** *Mathematics, Grade 6 Book 2; Grade 7 Book 2; Grade 8 Book 1; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 153:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 154:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 155:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 156:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 157:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 158:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 159:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The coordinate plane in all four quadrants with negative coordinates | Jordan, Grade 6 Term 1, Unit 4 "Transformations and geometric constructions", L1 The coordinate plane p.92 |
@@ -294,6 +308,25 @@ textbook.
 | The function y = √x: domain, range, properties and graph as the right branch of a parabola | Tajikistan, Алгебра (Grade 8), printed p. 108 |
 | Graphical method of solving equations: roots as abscissae of graph intersections, approximate roots | Tajikistan, Алгебра (Grade 8), printed p. 194 |
 | History of geometry, part 4: Regiomontanus (1436–1476) applying algebra to geometry; Descartes (1596–1650) introducing variable quantities | Tajikistan, Геометрия (Grade 11), printed p. 135 |
+| Introduction to the Cartesian Plane; Identifying Points on the Cartesian Plane; Plotting Points in the First Quadrant of the Cartesian Plane; … (5 lessons in the run) | Sierra Leone, JSS 1 Term 3, L121–L125, printed pp. 38–49 |
+| Creating Line Graphs; Interpret Line Graphs | Sierra Leone, JSS 1 Term 3, L130–L131, printed pp. 65–68 |
+| Comparing Graphs and Charts | Sierra Leone, JSS 1 Term 3, L133, printed p. 74 |
+| Introduction to the Cartesian Plane; Identifying Points on the Cartesian Plane; Plotting Points in the First Quadrant of the Cartesian Plane; … (5 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L121–L125, printed pp. 38–52 (teacher evidence) |
+| Creating Line Graphs; Interpret Line Graphs | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L130–L131, printed pp. 70–74 (teacher evidence) |
+| Comparing Graphs and Charts | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L133, printed p. 81 (teacher evidence) |
+| Introduction to the Cartesian Plane; Identifying Points in the Cartesian Plane; Plotting Points on the Cartesian Plane; … (5 lessons in the run) | Sierra Leone, JSS 2 Term 3, L131–L135, printed pp. 41–52 |
+| Line Graphs; Interpreting Charts and Graphs | Sierra Leone, JSS 2 Term 3, L139–L140, printed pp. 64–67 |
+| Choosing a Graph or Chart | Sierra Leone, JSS 2 Term 3, L149, printed p. 94 |
+| Table of Values I; Table of Values II; Review of the Cartesian Plane; … (11 lessons in the run) | Sierra Leone, JSS 3 Term 2, L93–L103, printed pp. 136–165 |
+| Graphing Lines in Slope-intercept Form | Sierra Leone, JSS 3 Term 2, L105, printed p. 172 |
+| Line Graphs; Interpreting Charts and Graphs | Sierra Leone, JSS 3 Term 3, L119–L120, printed pp. 36–39 |
+| Choosing a Graph or Chart | Sierra Leone, JSS 3 Term 3, L123, printed p. 48 |
+| Quadratic Functions on the Cartesian Plane – Part 1; Quadratic Functions on the Cartesian Plane – Part 2 | Sierra Leone, SSS 1 Term 3, L104–L105, printed pp. 24–27 |
+| Gradient of a Line; Sketching Graphs of Straight Lines | Sierra Leone, SSS 2 Term 1, L25–L26, printed pp. 66–69 |
+| Gradient of a Curve – Part 1; Gradient of a Curve – Part 2 | Sierra Leone, SSS 2 Term 1, L29–L30, printed pp. 76–79 |
+| Graphs of sin 𝜃 and cos 𝜃 | Sierra Leone, SSS 2 Term 3, L113, printed p. 51 |
+| Travel Graphs | Sierra Leone, SSS 3 Term 2, L57, printed p. 27 |
+| Transformations on the Cartesian Plane | Sierra Leone, SSS 3 Term 3, L132, printed p. 105 |
 
 | Direct proportion as y = ax, the Cartesian plane, graph of direct proportionality (a > 0 and a < 0), rule of three | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as y = ax and inverse proportionality as y = a/x, with graphs (a > 0 and a < 0); the Cartesian plane; restricted domain | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |
@@ -497,7 +530,7 @@ textbook.
 | Interpreting graphs; tables of ordered pairs; more graphs — plotting and reading; sketching and comparing graphs (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 88a–b Interpreting graphs, printed pp. 60, 62; South Africa, Grade 9 Book 2, Ws 91 Use tables of ordered pairs, printed p. 70; South Africa, Grade 9 Book 2, Ws 92–94 More graphs; Yet more graphs (plotting and reading), printed pp. 72, 74, 76; South Africa, Grade 9 Book 2, Ws 95 Sketch and compare graphs, printed p. 78; South Africa, Grade 9 Book 2, Ws 96a–b Compare and sketch graphs, printed pp. 80, 82; South Africa, Grade 9 Book 2, Ws 97–99 Graphs; More graphs; Graphs, printed pp. 84, 86, 88, 90 |
 | Revision sheet, graphs among it (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 144 Revision sheet (year revision of this book's placed items), printed p. 228 |
 
-**Acceptance count: taught in 37 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia).**.** South Africa carries the
+**Acceptance count: taught in 38 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Sierra Leone).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the coordinate plane itself —

@@ -146,6 +146,12 @@ Every part traces to its book and page.
 **Book 94:** *Algebra and Elements of Mathematical Analysis 12, Semester 1, Teacher's Methodical Guide* (teacher guide) — Armenia, produced for the "AB generation" programme, dated 2026 on its title page. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: the Grade 12 student book is not held.
 **Book 95:** *Mathematics, Preparatory 3 (Grade 9), Term 1, Student's Book (Sahara edition)* — Egypt, Ministry of Education and Technical Education, original edition 2018–2019, revised/approved 2023–2024 (the held file binds Terms 1 and 2 together; Term 1 is pp. 4–75). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 96:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 97:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 98:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a set is; listing versus set-builder notation; finite, infinite and empty sets; union and intersection with Venn diagrams; subsets; union and intersection with the empty set | Egypt, Grade 7 Term 1, Unit 1, Lesson 1-3, printed pp.14–18 |
@@ -166,6 +172,9 @@ Every part traces to its book and page.
 | What a set is; members; cardinality n(A); presenting a set three ways — description, enumeration (roster), set-builder notation; universal set; empty set; subsets — now from the student book itself (the Grade 8 Merdeka guide previously cited here is this book's matched companion); the subset symbol is printed as ∈ on p. 147 where ⊆ is meant — the lesson teaches ⊆. No set operations are taught in this book (Venn diagrams appear only as a glossary definition) | Indonesia, Grade 8 Merdeka student book, Bab 4, printed pp. 141–148 |
 | Venn diagrams and set notation (prerje/bashkim = intersection/union) for probability (plan 7) | Albania, Libër Mësuesi Matematika 11 (teacher's book — teacher evidence), printed p. 20 |
 | Elective course: simbolet e bashkësive (Set notation for probability) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 36, 69 |
+| Define and Describe Sets and Elements of a Set; Finite and Infinite Sets; Null/Empty, Unit and Universal Sets; … (13 lessons in the run) | Sierra Leone, SSS 1 Term 2, L57–L70, printed pp. 23–58 |
+| Venn Diagrams | Sierra Leone, SSS 2 Term 1, L47, printed p. 121 |
+| Venn Diagrams | Sierra Leone, SSS 3 Term 3, L107, printed p. 33 |
 
 | The set of integers ℤ as a set, with opposite integers and graphing on the number line (module evidence) | Nicaragua, Grade 7 module, Unit I, Tema 1, printed pp. 1–58 |
 | The set of real numbers ℝ as a set, with irrational numbers, opposites and graphing on the number line (module evidence) | Nicaragua, Grade 8 module, Unit I, §1, printed pp. 1–59 |

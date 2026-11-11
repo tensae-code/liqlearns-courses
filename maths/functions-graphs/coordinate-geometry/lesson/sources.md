@@ -1,6 +1,6 @@
 # Sources — Coordinate Geometry
 
-countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa
+countries: Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -70,6 +70,10 @@ Every part traces to its book and page.
 
 **Book 47:** *Mathematics, Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 48:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 49:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internal and external division of a line segment — the section formula | Kuwait, Grade 10 Term 2 student book, Unit 9 — Analytic Geometry, section 9-2, printed pp.124–130 |
@@ -99,6 +103,8 @@ Every part traces to its book and page.
 | Graph of a linear function; intercepts with the coordinate axes | Tajikistan, Алгебра (Grade 7), printed p. 91 |
 | Relative positions of two straight lines from their k and b values: intersecting, parallel, coincident | Tajikistan, Алгебра (Grade 7), printed p. 95 |
 | Graph of a linear equation in two variables | Tajikistan, Алгебра (Grade 7), printed p. 220 |
+| Mid-point Formula | Sierra Leone, SSS 2 Term 1, L24, printed p. 63 |
+| Mid-point of a Line Segment | Sierra Leone, SSS 3 Term 2, L79, printed p. 93 |
 
 | Lines parallel to the axes — Special cases x = a (parallel to y-axis) and y = b (parallel to x-axis) (3-2) | Sudan, Grade 9 Mathematics (Third Year Intermediate), printed p. 83 |
 | Coordinate systems — Coordinate systems on a line and in the plane; describing point sets (quadrants, axes, lines) in set-builder form (7-2) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 230 |
@@ -221,7 +227,7 @@ Every part traces to its book and page.
 | The parametric and Cartesian forms of the equation of a straight line | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L3, printed p. 107 |
 | General applications on the equations of a straight line | Egypt, Secondary 1 (Grade 10) Term 2 (Arabic edition), U3 L4, printed p. 111 |
 | x-intercept and y-intercept; interpreting graphs: gradient (Grade 9 Book 2) | South Africa, Grade 9 Book 2, Ws 89 x-intercept and y-intercept, printed p. 64; South Africa, Grade 9 Book 2, Ws 90a–b Interpreting graphs: gradient, printed pp. 66, 68 |
-**Acceptance count: taught in 22 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
+**Acceptance count: taught in 23 countries (Jordan, Kuwait, Ethiopia, South Sudan, Laos, Iran, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Egypt, South Africa, Sierra Leone).** Jordan carries the point-to-line distance and the coordinate proof in Grade 9 and the circle's equation in Grade 10. Kuwait carries the full analytic-geometry unit in Grade 10 Term 2 — the section formula with internal and external division as its own section, and the point-to-line distance and circle in the same unit. Ethiopia carries the circle's equation in the Grade 10 student book's §7.5 — student book only, since its Grade 10 guide does not cover §7.5. South Sudan carries the circle's equation in Secondary 4, from the origin-centred circle to completing the square. Laos carries the section formula as a minor source inside its Grade 9 vectors lesson. Iran carries the analytic circle in two Grade 12 branch books, with the expanded-form test stated exactly in Geometry (3). North Macedonia enters from its main set — the Grade 12 Mathematics book (2018).
 
 Syria computes a parallelogram's fourth vertex from the midpoint formula in Grade 7.
 

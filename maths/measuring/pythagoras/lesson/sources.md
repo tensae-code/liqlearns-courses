@@ -163,6 +163,10 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 **Book 71:** *Geometry 10* — Armenia, Gagik Aghekyan, ministry-recommended student book. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 72:** *Mathematics, Preparatory 2 (Grade 8), Term 2, new curriculum* — Egypt, Ministry of Education and Technical Education (Arabic edition; no ISBN printed). Filed in maths/books/egypt.md (FULLY READ — re-read page by page in the 2026-11-08 re-verification sweep).
 
+**Book 73:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 74:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pythagoras' theorem and its converse (3-2, printed 70–77): finding a side; the converse; classifying triangles by angles from side lengths (acute, right or obtuse by comparing squares); Get Ready: a 13-foot ladder against a wall; Unit Three Activity: a Pythagoras practical (printed 104) | Egypt, Grade 8 Term 1, Unit 3, 3-2, printed pp.70–77, 104 |
@@ -206,6 +210,9 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Distanca midis dy pikave në planin koordinativ (Distance between two points in the coordinate plane); lengths and areas on the coordinate grid | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 | Worked problem: length of a tangent segment from a point 10 cm from the centre of a ball of radius 6 cm → √(10² − 6²) = 8 cm | Tajikistan, Геометрия (Grade 11), printed p. 91 |
 | History of geometry, part 1: Pythagoras (564–473 BC), the theorem known long before him; geometry's origins in Egypt and Babylon some 4000 years ago — the pyramids, and the papyri of 2000–1700 BC | Tajikistan, Геометрия (Grade 11), printed p. 132 |
+| Introduction to Pythagoras’ Theorem | Sierra Leone, JSS 3 Term 1, L42, printed p. 122 |
+| Application of Pythagoras’ Theorem | Sierra Leone, SSS 1 Term 3, L140, printed p. 124 |
+| Trigonometry and Pythagoras’ Theorem | Sierra Leone, SSS 2 Term 3, L102, printed p. 18 |
 
 | Pythagoras' theorem taught by name; similar triangles; ratios in triangles; measuring school land | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |
 | Pythagoras review at the start of the chapter; naming sides (opposite/adjacent/hypotenuse) — taught corrected: the Exercise Q3 triangle (∠B = 90°, AC = 12 cm, BC = 13 cm) does not exist, the hypotenuse cannot be shorter than a leg | Bangladesh, *Mathematics, Class Nine*, Ch 6 Trigonometry in Measurement, printed pp. 141–156 |

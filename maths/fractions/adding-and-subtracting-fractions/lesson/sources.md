@@ -268,6 +268,12 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 127:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 5 Book 2; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 129:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 130:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 131:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | Egypt, Grade 3 Term 2, Ch.9, Adding Two Fractions with the Same Denominator p.58, Subtracting Two Fractions with the Same Denominator p.61; Kazakhstan, Grade 4 Part 3, L110–111 Adding/subtracting fractions, pp.100, 103; Jordan, Grade 4 Term 2, Unit 6, conceptual activity: adding and subtracting like fractions p.13, L2 Adding and subtracting like fractions p.14; Sierra Leone, Primary 3 Term 3, L133 Adding like fractions p.32, L134 Subtracting like fractions p.34 (teacher plans) |
@@ -305,6 +311,13 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Adding and subtracting mixed numbers (parts separately, and via improper fractions) — taught corrected: the second method's final line (printed p. 154) prints “7 4/5 + 1 1/5 = 5”, where its own conversion gives 3 4/5; 7 4/5 + 1 1/5 = 9. | Tajikistan, Математика (Grade 5), printed p. 153 |
 | Adding fractions with unlike denominators | Tajikistan, Математика (Grade 6), printed p. 44 |
 | Subtracting fractions with unlike denominators; subtracting mixed numbers part by part | Tajikistan, Математика (Grade 6), printed p. 46 |
+| Addition of Equivalent Fractions; Subtraction of Equivalent Fractions | Sierra Leone, Primary 4 Term 3, L137–L138, printed pp. 38–41 (teacher plans) |
+| Addition and Subtraction of Like Fractions | Sierra Leone, Primary 5 Term 2, L118, printed p. 134 (teacher plans) |
+| Addition and Subtraction of Equivalent Fractions | Sierra Leone, Primary 5 Term 2, L120, printed p. 139 (teacher plans) |
+| Addition and subtraction of fractions | Sierra Leone, Primary 6 Term 2, L76, printed p. 36 (teacher plans) |
+| Adding Fractions with the Same Denominator; Adding Fractions with Different Denominators; Subtracting Fractions with the Same Denominators; … (4 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L16–L19, printed pp. 36–44 (teacher evidence) |
+| Adding and Subtracting Fractions with Integers and Decimals | Sierra Leone, JSS 2 Term 1, L12, printed p. 33 |
+| Addition and Subtraction of Fractions | Sierra Leone, SSS 1 Term 1, L2, printed p. 6 |
 
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |
 | Different denominators: make them the same first, with the LCM; 1/12 + 2/3 = 9/12 = 3/4 | South Sudan, Pupil's Book 5, 1.7 Adding and subtracting fractions using LCM, printed pp. 21–23 |

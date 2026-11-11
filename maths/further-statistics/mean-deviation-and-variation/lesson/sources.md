@@ -1,6 +1,6 @@
 # Sources — Mean Deviation and Variation
 
-countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey
+countries: Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone
 
 Every part traces to its book and page.
 
@@ -25,6 +25,8 @@ Every part traces to its book and page.
 **Book 15:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Área Matemática* (teacher compendium) — Bolivia, Ministerio de Educación (Estado Plurinacional de Bolivia), Documento oficial – 2023; no ISBN printed. A one-volume teacher compilation of the official student Textos de Aprendizaje for all six Secundaria years (Grades 7–12); each year-section keeps its source student book's own printed pagination, and the body carries no printed answer key or didactics (answers are QR-linked). TEACHER-COMPILATION EVIDENCE ONLY — never cited as, or in place of, a pupil text; for Grades 9 and 11, whose student texts are not in the record at all, its sections are the only in-hand source and are cited as compendium content for those years (Spanish). Filed in maths/books/bolivia.md (Compendium section, FULLY READ + CITATION CHECK PASSED 2026-11-07).
 **Book 16:** *Ortaokul ve İmam Hatip Ortaokulu Matematik 7. Sınıf Ders Kitabı, 1. Kitap* (Grade 7 student textbook, Book 1) — Turkey, Millî Eğitim Bakanlığı (MEB — Ministry of National Education), Turkish, ISBN 978-975-11-9899-0; approved by the Talim ve Terbiye Kurulu, letter dated 1.07.2026, no. 163494731; no edition, printing or year line is printed in the book. First volume only — the grade's 2. Kitap is not in hand and is cited nowhere. Filed in maths/books/turkey.md (FULLY READ + CITATION CHECK PASSED).
 
+**Book 17:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Why central tendency is not enough: batsmen A and B, both mean 53 and median 53, with very different spreads; Bowley's definition of dispersion | Bangladesh, Class 9, Ch. 9, printed pp.212–214 |
@@ -42,6 +44,7 @@ Every part traces to its book and page.
 | Variance σ² = Σ(x − x̄)²/N and the working form Σx²/N − x̄² (the data 2, 4, 5, 5, 6 give σ² = 1.84); standard deviation as √variance, including from a frequency table (σ² = 1.2875) | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 221–223 |
 | The effect of changes in the data on range, interquartile range and standard deviation: adding or removing a value, a uniform change applied to every value, an outlier added | Malaysia, Mathematics Form 4, Ch. 8 §8.2, printed pp. 228–234 |
 | Variance and standard deviation for grouped data, computed from Σf, Σfx and Σfx² (the book's own totals give σ² = 229.19, σ = 15.14) (Example 10) | Malaysia, Mathematics Form 5, Ch. 7 §7.2, printed p. 212 |
+| Standard Deviation of Ungrouped Data; Standard Deviation of Grouped Data – Part 1; Standard Deviation of Grouped Data – Part 2; … (4 lessons in the run) | Sierra Leone, SSS 3 Term 3, L113–L116, printed pp. 51–59 |
 
 | Mean deviation — Mean deviation about the mean: 4-step method; worked example Σ/x−x̄/= 84, MD = 84/9 | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 102 |
 | Variance and SD — Variance and standard deviation; worked example Σ(x−x̄)² = 1168, var ≈ 129.8, SD ≈ 11.39; shortcut formula √(Σx²/n − x̄²) | Sudan, Grade 12 Basic Mathematics (humanities track), printed p. 104 |
@@ -68,7 +71,7 @@ Every part traces to its book and page.
 | Estadística descriptiva: dispersion measures and mean deviation (worked housing example verified: mean 17.83, mean deviation ≈ 14.9) | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 5 (Grade 11) section, printed p. 134 |
 | Comparing two data sets with the same mean, median and mode: range (açıklık) and mean absolute deviation (ortalama mutlak sapma) as spread measures | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 181 |
 | Mean absolute deviation computed step by step: mean, each value's distance from the mean, average of the distances; software graphs showing mean ± 1 MAD bands (6.4 vs 1.2 for two players) | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 182 |
-**Acceptance count: taught in 11 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
+**Acceptance count: taught in 12 countries (Bangladesh, Laos, Pakistan, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Bolivia, Turkey, Sierra Leone).** Bangladesh carries the lesson's spine in one chapter: why the centre is not enough, the range, mean deviation under its own name "mean interval", variance and standard deviation — with its Pearson year taught corrected as 1893, its English-only p.225 claim taught corrected, and quartile deviation never cited to it, because the book names it on p.211 and teaches it nowhere. Laos carries the sample-variance convention s² with denominator n − 1, worked on grouped rainfall data. Pakistan carries quartile deviation and its coefficient, the mean-deviation coefficients, and the coefficient of variation — and its own opposite convention, denominator n for sample variance too, kept labelled as Pakistan's way beside Laos's.
 
 Malaysia teaches variance and standard deviation whole in Form 4 for ungrouped data — both formulas, the calculator method, and what happens to each measure when the data changes — and again in Form 5 for grouped data. (Mean deviation itself is not in Malaysia's books; that part of the lesson stands on the other countries.)
 

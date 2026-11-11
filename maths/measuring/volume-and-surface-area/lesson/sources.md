@@ -351,6 +351,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 168:** *Mathematics, Grade 4 Book 2; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 1; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 169:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 170:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The prism and the pyramid — naming (p.91) | Jordan, Grade 5 Student Book Term 2, Unit 9, L7, p.91 |
@@ -461,6 +465,18 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Applied worked problem: an ice-cream ball (scoop) of diameter 6 cm melting into a cone of base diameter 4 cm → the cone must be 27 cm high (equal volumes) | Tajikistan, Геометрия (Grade 11), printed p. 123 |
 | Surface area defined rigorously-by-limit: area of a surface F is the limit of V_h/(2h) for the shell of thickness h around it; the same definition is claimed to recover the earlier lateral areas | Tajikistan, Геометрия (Grade 11), printed p. 128 |
 | Surface area of a sphere S = 4πR², derived from the shell between concentric spheres of radii R + h and R − h | Tajikistan, Геометрия (Grade 11), printed p. 129 |
+| Estimation and measurement of volume using non-standard units of measurement | Sierra Leone, Primary 2 Term 3, L141, printed p. 42 (teacher plans) |
+| Comparing and ordering volume using non-standard units; Word problems involving volume and capacity using non- standard units | Sierra Leone, Primary 2 Term 3, L144–L145, printed pp. 48–50 (teacher plans) |
+| Estimation and measurement of volume using standard units of measurement; Comparing and ordering volume using standard units | Sierra Leone, Primary 3 Term 3, L146–L147, printed pp. 63–67 (teacher plans) |
+| Word problems involving volume and capacity using standard units | Sierra Leone, Primary 3 Term 3, L150, printed p. 76 (teacher plans) |
+| Area, Mass, Volume and Capacity (Includes Revision); Understanding the Difference between Volume and Capacity by Comparing and Contrasting; Calculating Volume and Capacity; … (4 lessons in the run) | Sierra Leone, Primary 5 Term 1, L32–L35, printed pp. 81–90 (teacher plans) |
+| Conversion of Volume | Sierra Leone, JSS 1 Term 2, L74, printed p. 84 |
+| Problem Solving with Volume; Volume Story Problems | Sierra Leone, JSS 1 Term 2, L89–L90, printed pp. 132–135 |
+| Volume of Prisms; Volume of Cylinders; Surface Area of Prisms; … (5 lessons in the run) | Sierra Leone, JSS 3 Term 3, L146–L150, printed pp. 112–125 |
+| Surface Area of a Cube; Volume of a Cube | Sierra Leone, SSS 3 Term 1, L30–L31, printed pp. 96–99 |
+| Surface Area of a Triangular Prism; Volume of a Triangular Prism; Surface Area of a Cylinder; … (10 lessons in the run) | Sierra Leone, SSS 3 Term 1, L35–L44, printed pp. 111–142 |
+| Surface Area of Composite Solids; Volume of Composite Solids | Sierra Leone, SSS 3 Term 1, L47–L48, printed pp. 151–155 |
+| Area & Surface Area; Volume | Sierra Leone, SSS 3 Term 3, L133–L134, printed pp. 108–111 |
 
 | Volume in litres and cubic units (volume of solids by formula is NOT taught here) | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.3, printed pp. 115–132 |
 | Measuring the planes of a box; making 3-D models | Bangladesh, *Mathematics, Class Six*, Ch 10 The Story of Geometric Shapes, printed pp. 190–221 |

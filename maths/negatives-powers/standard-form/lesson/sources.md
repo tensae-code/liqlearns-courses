@@ -79,6 +79,8 @@ Every part traces to its book and page.
 **Book 49:** *Алгебра* (Algebra, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 4th edition, Маориф (Maorif), Dushanbe 2023, ISBN 978-99985-39-35-8 — the ISBN is printed at the foot of the imprint page (printed p. 2) and was found by the citation checker (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 50:** *Algebra 8, methodological guide* (teacher guide) — Armenia, Smbat Gogyan, Lilith Manasyan, Narek Mkrtumyan and Manyak Mutafyan, Qarakusi, 2024. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: this guide companions a different Grade 8 Algebra student book (Gogyan's), which is not in hand — it is never cited as the guide to the held Mikayelyan student book.
 
+**Book 51:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Standard form of a number; word problems on very large/small quantities | Kazakhstan, Algebra 7 (Mektep 2017), Ch. 1, §8 |
@@ -98,6 +100,7 @@ Every part traces to its book and page.
 | Writing/reading/comparing very large and small numbers in standard form | Albania, Libër Mësuesi Matematika 9 (teacher's book — teacher evidence), printed p. 32 |
 | Powers of ten, standard form ×10ⁿ, SI unit prefixes (ps etc.); ditare correction answers verified | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 14 |
 | Standard form of a number a × 10^n; order of a number (e.g. molecular diameter, order -8) | Tajikistan, Алгебра (Grade 8), printed p. 279 |
+| Introduction to Standard Form; Standard Form Addition and Subtraction; Standard Form Multiplication and Division; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 1, L40–L43, printed pp. 115–123 |
 
 | Standard form for very large and small numbers | South Sudan, Student's Book 1, Unit 1, printed p. 20 |
 | Powers and scientific notation | Iraq, Grade 7 student book, Ch. 1 L1-1, p. 8 |

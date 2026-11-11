@@ -308,6 +308,14 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 
 **Book 162:** *Mathematics, Grade 4 Book 2; Grade 5 Book 1; Grade 6 Book 1; Grade 7 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 7 Book 1 ISBN 978-1-4315-0218-9; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 163:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 164:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 165:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 166:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The circle and its parts (p.111) — names parts, no circumference or area yet | Jordan, Grade 6 Student Book Term 1, Unit 4, L4, p.111 |
@@ -398,6 +406,18 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Disc and the area of a disc, S = πr² — taught corrected: the book states OM < r for a point of the disc; the disc includes its bounding circle, so OM ≤ r, as the book's own next sentence implies. | Tajikistan, Математика (Grade 6), printed p. 134 |
 | History of geometry, part 1: Thales of Miletus (639–548 BC) and the first proofs — the diameter bisecting the circle, vertical angles, base angles, congruence criteria, parallels cutting equal segments | Tajikistan, Геометрия (Grade 11), printed p. 132 |
 | History of geometry, part 2: Archimedes (287–212 BC) — circumference and circle area, volumes of cylinder and ball, 22/7 as an approximation to π, and the ball-in-cylinder on his tomb | Tajikistan, Геометрия (Grade 11), printed p. 133 |
+| Circles and Triangles and their Properties | Sierra Leone, Primary 1 Term 3, L137, printed p. 34 (teacher plans) |
+| Making Drawings Using Triangles, Squares, Rectangles and Circles | Sierra Leone, Primary 1 Term 3, L142, printed p. 44 (teacher plans) |
+| Circles, triangles and their properties | Sierra Leone, Primary 2 Term 1, L31, printed p. 62 (teacher plans) |
+| Making patterns using triangles, squares, rectangles and circles | Sierra Leone, Primary 2 Term 1, L35, printed p. 70 (teacher plans) |
+| Draw and Identify the Parts of a Circle; Radius and Diameter of a Circle | Sierra Leone, Primary 5 Term 2, L113–L114, printed pp. 122–124 (teacher plans) |
+| Area and Circumference of Circles | Sierra Leone, JSS 3 Term 3, L144, printed p. 106 |
+| Circumference and Area of a Circle | Sierra Leone, SSS 2 Term 2, L73, printed p. 72 |
+| The Unit Circle | Sierra Leone, SSS 2 Term 3, L109, printed p. 40 |
+| Review of Circles | Sierra Leone, SSS 3 Term 1, L9, printed p. 33 |
+| Area of a Circle | Sierra Leone, SSS 3 Term 1, L13, printed p. 47 |
+| Solving Problems on Circles | Sierra Leone, SSS 3 Term 1, L29, printed p. 93 |
+| Circles | Sierra Leone, SSS 3 Term 3, L130, printed p. 99 |
 
 | Drawing a circle; centre, radius, diameter | Bangladesh, *Elementary Mathematics, Class Five*, Ch 10 §10.5 Circle, printed p. 109 |
 | Drawing a circle from pin and pencil; determining the centre; circumference by rolling; ratio of circumference to diameter; pi; area of a circle by cutting it into equal parts and rearranging | Bangladesh, *Mathematics, Class Seven*, Exp 8 Let's Measure a Circle, printed pp. 161–180 |

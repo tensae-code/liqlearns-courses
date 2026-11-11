@@ -248,6 +248,18 @@ READ + CITATION CHECK PASSED 2026-11-04).
 
 **Book 123:** *Mathematics, Grade 6 Book 2; Grade 8 Book 2; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 125:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 126:** *Mathematics Pupil Handbook, JSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 127:** *Mathematics Pupil Handbook, JSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 128:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 129:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 130:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Percent means "out of 100"; 1/100 = 1%; finding 1%, then p% as 1% × p | Kazakhstan, Grade 4 Part 3, Section 3B, L106 Percents p.87 (the "Remember!" box stating 1/100 = 1% is on p.88), L107 Percents p.90, L108 Percents consolidation p.93; Jordan, Grade 5 Term 2, Unit 6, L8 Percent p.33; Egypt, Grade 6 Term 2, Unit 10, L7–11 pp.45–62 (exploring percent on 100-grids); Greece, Grade 5 Teuxos B, Unit 5, ch.31 The percent concept, printed pp.21–22; Armenia, Grade 6, Ch.3 §3.1 Absolute and relative comparisons p.72, §3.3 Percent p.79; Sierra Leone, JSS 1 Term 1, L36–37 Part of 100, printed pp.95–98; Sierra Leone, Primary 5 Term 3, L138 Percent as part of 100, printed p.43 (teacher plans); Ghana, JICA B4 teacher manual, L74–77 percent from decimal fractions, "cent means 100" (teacher evidence); South Africa, Grade 6 Book 1, ws 14–15 percentages and fractions, percentages and decimals |
@@ -296,6 +308,16 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Percent word problems, some solved with equations (incl. two successive price reductions) | Tajikistan, Математика (Grade 5), printed p. 251 |
 | Revision: proper/improper fractions; percent of a number, finding a number by its percent | Tajikistan, Математика (Grade 6), printed p. 7 |
 | Per cent of a number and fraction of a number (revision exercises) | Tajikistan, Алгебра (Grade 7), printed p. 8 |
+| Conversion from fractions to percentages and from percentages to fractions; Conversion from percentages to decimals; Conversion from decimals to percentages; … (7 lessons in the run) | Sierra Leone, Primary 6 Term 2, L98–L104, printed pp. 100–112 (teacher plans) |
+| Solving word problems involving decimals and percentages; Devising word problems involving decimals and percentages | Sierra Leone, Primary 6 Term 3, L148–L149, printed pp. 66–68 (teacher plans) |
+| Percentages; Percentages as Fractions and Decimals; Fractions and Decimals to Percentages; … (10 lessons in the run) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L36–L45, printed pp. 93–116 (teacher evidence) |
+| Identifying the Percentage of a Given Quantity; Expressing One Quantity as a Percentage of Another; Percentage Increase; … (5 lessons in the run) | Sierra Leone, JSS 2 Term 1, L31–L35, printed pp. 80–90 |
+| Introduction to Percentages Greater than 100; Calculations with Percentages Greater than 100 | Sierra Leone, JSS 2 Term 1, L39–L40, printed pp. 102–104 |
+| Percentages of Quantities; Percentage Increase and Decrease | Sierra Leone, JSS 3 Term 1, L22–L23, printed pp. 62–65 |
+| Conversion of Fractions, Percentages and Decimals; Finding the Percentage of a Quantity; Express One Quantity as a Percentage of Another; … (4 lessons in the run) | Sierra Leone, SSS 1 Term 1, L6–L9, printed pp. 18–25 |
+| Percentage Error | Sierra Leone, SSS 2 Term 1, L7, printed p. 19 |
+| Additional Practice with Applications of Percentage | Sierra Leone, SSS 3 Term 2, L72, printed p. 72 |
+| Percentiles; Applications of percentiles | Sierra Leone, SSS 3 Term 3, L110–L111, printed pp. 42–45 |
 
 | Percent as part per hundred; percent ↔ decimal ↔ fraction; percentages of quantities | South Sudan, Pupil's Book 4, 1.6 Percentages, printed pp. 25–31; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Percentage increase and decrease | South Sudan, Pupil's Book 7, 1.5 Percentage increase and decrease, printed pp. 7–8 |

@@ -418,6 +418,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 
 **Book 212:** *Mathematics, Grade 3 Book 1; Grade 3 Book 2; Grade 4 Book 1; Grade 4 Book 2; Grade 5 Book 2; Grade 6 Book 1; Grade 6 Book 2; Grade 7 Book 2; Grade 8 Book 1; Grade 9 Book 1* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 3 Book 1 ISBN 978-1-4315-0004-8; Grade 3 Book 2 ISBN 978-1-4315-0147-2; Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 4 Book 2 ISBN 978-1-4315-0158-8; Grade 5 Book 2 ISBN 978-1-4315-0169-4; Grade 6 Book 1 ISBN 978-1-4315-0037-6; Grade 6 Book 2 ISBN 978-1-4315-0180-9; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 1 ISBN 978-1-4315-0222-6; Grade 9 Book 1 ISBN 978-1-4315-0226-4. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 213:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
+
+**Book 214:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 215:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Perimeter (p.92); area (p.94); area of a rectangle (p.96) | Jordan, Grade 3 Student Book Term 2, Unit 11, L5–L7, pp.92–96 |
@@ -499,6 +505,31 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Syprina e trekëndëshave (Area of a triangle with a suitable formula, ½ab sin C form) | Albania, Libër Mësuesi Matematika 12 (teacher's book — teacher evidence), printed pp. 7, 12 |
 | Area as counting unit squares; area units; area of a rectangle and of a square | Tajikistan, Математика (Grade 5), printed p. 110 |
 | History of geometry, part 3: Heron's Metrica (1st century BC), where Heron's formula for a triangle's area is first seen | Tajikistan, Геометрия (Grade 11), printed p. 134 |
+| Identifying Objects in the Classroom as Big or Small in Area | Sierra Leone, Primary 1 Term 2, L113, printed p. 106 (teacher plans) |
+| Measuring the Area of Objects Using Hands; Measuring the Area of Objects Using Leaves; Ordering Objects According to Their Area | Sierra Leone, Primary 1 Term 2, L115–L117, printed pp. 110–114 (teacher plans) |
+| Measuring the perimeter of large objects and spaces using non-standard units | Sierra Leone, Primary 2 Term 1, L24, printed p. 48 (teacher plans) |
+| Expressing and comparing areas in everyday language (review); Estimation and measurement of small areas using non- standard units of measurement; Estimation and measurement of large areas using non- standard units of measurement | Sierra Leone, Primary 2 Term 2, L66–L68, printed pp. 12–16 (teacher plans) |
+| Comparing and ordering areas using non-standard units | Sierra Leone, Primary 2 Term 2, L72, printed p. 24 (teacher plans) |
+| Word problems involving areas using non-standard units | Sierra Leone, Primary 2 Term 2, L74, printed p. 28 (teacher plans) |
+| Measuring objects and perimeter by using the foot-rule; Measuring larger objects and perimeters by using yards and metres | Sierra Leone, Primary 3 Term 2, L82–L83, printed pp. 60–62 (teacher plans) |
+| Estimation and measurement of area using standard units of measurement; Comparing and ordering area using standard units | Sierra Leone, Primary 3 Term 3, L121–L122, printed pp. 2–4 (teacher plans) |
+| Word problems involving area and mass using standard units | Sierra Leone, Primary 3 Term 3, L125, printed p. 10 (teacher plans) |
+| Measuring the Perimeter of Objects Using Centimetres; Measuring the Perimeter of Objects Using Centimetres and Metres | Sierra Leone, Primary 4 Term 1, L26–L27, printed pp. 54–56 (teacher plans) |
+| Calculating Perimeter for Squares in Centimetres | Sierra Leone, Primary 4 Term 1, L29, printed p. 60 (teacher plans) |
+| Calculate Area of Objects by Counting Squares | Sierra Leone, Primary 4 Term 1, L31, printed p. 64 (teacher plans) |
+| Calculating Area for Squares in cm2 and m2 | Sierra Leone, Primary 4 Term 1, L33, printed p. 68 (teacher plans) |
+| Word Problems About Area and Perimeter | Sierra Leone, Primary 4 Term 1, L35, printed p. 72 (teacher plans) |
+| Perimeter of shapes; Finding the perimeter of irregular shapes | Sierra Leone, Primary 6 Term 2, L81–L82, printed pp. 48–51 (teacher plans) |
+| Area of composite shapes | Sierra Leone, Primary 6 Term 2, L85, printed p. 60 (teacher plans) |
+| Perimeter and Area of Parallelograms; Perimeter and Area of Trapeziums | Sierra Leone, JSS 2 Term 2, L62–L63, printed pp. 18–21 |
+| Area of Quadrilaterals | Sierra Leone, JSS 3 Term 3, L143, printed p. 103 |
+| Practical Problems with Area and Perimeter | Sierra Leone, JSS 3 Term 3, L145, printed p. 109 |
+| Perimeter and Area of a Parallelogram; Perimeter and Area of a Trapezium; Perimeter and Area of a Rhombus; … (4 lessons in the run) | Sierra Leone, SSS 2 Term 2, L68–L71, printed pp. 57–66 |
+| Perimeter and Area of Compound Shapes | Sierra Leone, SSS 2 Term 2, L74, printed p. 75 |
+| Review of Perimeter of Regular Shapes; Review of Area of Regular Shapes | Sierra Leone, SSS 3 Term 1, L5–L6, printed pp. 18–21 |
+| Area of Compound Shapes | Sierra Leone, SSS 3 Term 1, L8, printed p. 29 |
+| Perimeter of a Sector; Perimeter of a Segment | Sierra Leone, SSS 3 Term 1, L11–L12, printed pp. 39–43 |
+| Area of a Sector; Area of a Segment; Area and Perimeter of Composite Shapes | Sierra Leone, SSS 3 Term 1, L14–L16, printed pp. 50–56 |
 
 | Length and perimeter; area of a rectangle = length × width, of a square = side × side; 1 m² = 10,000 cm² | Bangladesh, *Elementary Mathematics, Class Four*, Ch 10 Measurement, printed pp. 121–133 |
 | Area of rectangles, parallelograms and triangles | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.4–11.6, printed pp. 115–132 |

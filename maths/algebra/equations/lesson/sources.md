@@ -250,6 +250,16 @@ Every part traces to its book and page.
 
 **Book 178:** *Mathematics, Grade 4 Book 1; Grade 5 Book 1; Grade 7 Book 2; Grade 8 Book 2; Grade 9 Book 2* (Rainbow Workbooks) — South Africa, Department of Basic Education, Sixteenth edition 2026. Grade 4 Book 1 ISBN 978-1-4315-0015-4; Grade 5 Book 1 ISBN 978-1-4315-0026-0; Grade 7 Book 2 ISBN 978-1-4315-0220-2; Grade 8 Book 2 ISBN 978-1-4315-0224-0; Grade 9 Book 2 ISBN 978-1-4315-0228-8. Workbook evidence only: South Africa's set in this course is the DBE Rainbow Workbooks; no textbook or teacher guide is in hand. Filed in maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED; re-verified worksheet by worksheet in the 2026-11-09 sweep).
 
+**Book 179:** *Mathematics Pupil Handbook, JSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 180:** *JSS 1 Mathematics Lesson Plans, Terms 1 and 3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED; the two files joined the counted set by the 2026-11-09 sweep addendum — no JSS 1 Term 2 plan is held). Teacher evidence only.
+
+**Book 181:** *Mathematics Pupil Handbook, SSS 1* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 182:** *Mathematics Pupil Handbook, SSS 2* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 183:** *Mathematics Pupil Handbook, SSS 3* (pupil handbook) — Sierra Leone, Ministry of Basic and Senior Secondary Education (MBSSE), Free Quality School Education; no year, edition or ISBN printed in the file. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Linear equations in one variable: ax + b = 0, the root, equivalent equations, transposition, the three cases (one root; no root; every number), the worked 8x − 9 = 3x + 8, the two-rectangle word problem checked with 288 = 288 | Kazakhstan, Grade 6 Pt 2, Ch. IV, §4.2, pp. 8–17 |
@@ -320,6 +330,19 @@ Every part traces to its book and page.
 | The equation x^2 = a: no roots for a < 0, one for a = 0, two for a > 0; the identity √(a^2) = |a| | Tajikistan, Алгебра (Grade 8), printed p. 100 |
 | Whole vs fractional rational equations; solving fractional equations by clearing denominators, with domain check | Tajikistan, Алгебра (Grade 8), printed p. 183 |
 | Word problems (motion, work, digits) solved with rational equations | Tajikistan, Алгебра (Grade 8), printed p. 188 |
+| Introduction to Linear Equations; Solving Linear Equations | Sierra Leone, JSS 1 Term 3, L119–L120, printed pp. 32–35 |
+| Introduction to Linear Equations; Showing Linear Equation (Review) | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 3, L119–L120, printed pp. 32–35 (teacher evidence) |
+| Changing the Subject of a Formula | Sierra Leone, JSS 3 Term 2, L66, printed p. 63 |
+| Solving Linear Equations | Sierra Leone, JSS 3 Term 2, L68, printed p. 69 |
+| Slope-intercept Form of Linear Equations | Sierra Leone, JSS 3 Term 2, L104, printed p. 168 |
+| Simple Equations Using Indices – Part 1; Simple Equations Using Indices – Part 2 | Sierra Leone, SSS 1 Term 1, L38–L39, printed pp. 109–112 |
+| Linear Equations; Linear Equations with Brackets; Linear Equations with Fractions | Sierra Leone, SSS 1 Term 2, L80–L82, printed pp. 84–90 |
+| Word Problems | Sierra Leone, SSS 1 Term 2, L83, printed p. 93 |
+| Finding an Equation from a Given Graph | Sierra Leone, SSS 1 Term 3, L112, printed p. 44 |
+| Review of Linear Equations | Sierra Leone, SSS 2 Term 1, L2, printed p. 6 |
+| Equation of a Straight Line | Sierra Leone, SSS 2 Term 1, L27, printed p. 71 |
+| Equations with Algebraic Fractions | Sierra Leone, SSS 2 Term 1, L38, printed p. 98 |
+| Linear Equations | Sierra Leone, SSS 3 Term 3, L125, printed p. 84 |
 
 | One-step equations; forming and solving word problems | South Sudan, Pupil's Book 5, 4.1–4.2 Purpose of algebraic equations; solving one-step equations; forming and solving equations, printed pp. 58–69 |
 | Two-step equations by inverse operations | South Sudan, Pupil's Book 6, 4.1 Solving equations, printed pp. 62–63 |
