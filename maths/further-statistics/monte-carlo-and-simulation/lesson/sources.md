@@ -1,6 +1,6 @@
 # Sources — Monte Carlo and Simulation
 
-countries: Pakistan, China, Andorra, Bhutan
+countries: Pakistan, China, Andorra, Bhutan, Chile
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Random simulation / the Monte Carlo method as a named section, inside the frequency-and-probability chapter (shared-birthday-type and best-of-three problems) | China, Compulsory Volume 2 (A edition), Ch. 10, §10.3.2, printed p.255 |
 | Closing part — Mendel's laws of inheritance as a probability model: DD/Dd/dd at 0.25/0.5/0.25 against the ≈3:1 pea ratios (reading as filed) | China, Compulsory Volume 2 (A edition), Ch. 10 reading, printed pp.259–260 |
 
-**Acceptance count: taught in 3 countries (Pakistan, China, Bhutan).** Pakistan carries the machinery — random digits, the linear congruential generator with its checkable worked run, Table 7.1 spent on coin simulations, and the PPS ranges. China carries the method under its Monte Carlo name at §10.3.2, p.255, and closes the lesson with its Mendel reading (pp.259–260), filed and worded as a reading: a probability model of 0.25, 0.5, 0.25 held up against real pea counts.
+**Acceptance count: taught in 4 countries (Pakistan, China, Bhutan, Chile).** Pakistan carries the machinery — random digits, the linear congruential generator with its checkable worked run, Table 7.1 spent on coin simulations, and the PPS ranges. China carries the method under its Monte Carlo name at §10.3.2, p.255, and closes the lesson with its Mendel reading (pp.259–260), filed and worded as a reading: a probability model of 0.25, 0.5, 0.25 held up against real pea counts.
 
 ## Andorra added 2026-11-11 (expansion merge)
 
@@ -56,3 +56,18 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 3 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 1 pupil item and 1 teacher-evidence item from Book 1 and Book 2.
+
+**Book 1:** *Matemática 1° Medio, Texto del estudiante* (student textbook, Grade 9 / 1° Medio) — Chile, MINEDUC; authors Carlos Fresno R., Claudia Torres J., Jaime Ávila H.; 26,177,339 bytes, 243 PDF pp. Printed pages cited from the book's own printed index. Complete full-year book (4 units, synthesis, answer key).
+
+**Book 2:** *Guía didáctica del docente, Matemática 1° Medio — Tomo 2* (teacher guide, Grade 9 / 1° Medio) — Chile, MINEDUC / Santillana; Vásquez/Alvarado; 22,218,044 bytes, 278 PDF pp. PARTIAL VOLUME — Tomo 2 only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Galton board and random walks | Chile — *Matemática 1° Medio, Texto del estudiante* (student textbook), Grade 9 (1° Medio), printed p. 183 |
+| Galton board and random walks | Chile — *Guía didáctica del docente, Matemática 1° Medio, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 183 |
+
+Chile is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.

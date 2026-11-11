@@ -1,6 +1,6 @@
 # Sources — Right-triangle trigonometry
 
-countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea
+countries: Jordan, Egypt, Sierra Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile
 
 Every part traces to its book and page.
 
@@ -299,8 +299,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Trigonometric ratios for angles within one revolution | Jordan, Grade 10 Student Book Term 1, Unit 3, Lesson 2, printed p. 74 |
 | Workbook practice: trigonometry (T1 U3) | Jordan, Grade 10 Workbook Term 1, Unit 3 (workbook evidence) |
 
-**Acceptance count: taught in 45 countries (Jordan, Egypt, Sierra
-Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea).**
+**Acceptance count: taught in 46 countries (Jordan, Egypt, Sierra
+Leone, Kazakhstan, Vietnam, Armenia, Mauritania, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Palestine, El Salvador, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan, Costa Rica, Cuba, Eritrea, Chile).**
 Jordan carries the cleanest introduction — ratios from similar
 right triangles, then elevation and depression. Egypt carries
 the special-angle table and tan = sin / cos in Preparatory 3 —
@@ -597,3 +597,20 @@ The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PD
 Eritrea is added to the countries line and to the acceptance count above — 4 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 2 pupil items and 2 teacher-evidence items from Book 1 and Book 2.
+
+**Book 1:** *Matemática 2° Medio, Texto del estudiante* (student textbook, Grade 10 / 2° Medio) — Chile, MINEDUC; authors Eduardo Díaz V., Natalia Ortiz S., Katherine Morales V.; 13,732,303 bytes, 204 PDF pp. Printed pages cited from the book's own printed index. Complete full-year book (4 units, synthesis and answer key at the end).
+
+**Book 2:** *Guía didáctica del docente, Matemática 2° Medio — Tomo II* (teacher guide, Grade 10 / 2° Medio) — Chile, MINEDUC / SM; Santis/Muñoz/Díaz; 9,250,545 bytes, 258 PDF pp. PARTIAL VOLUME — Tomo II only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Trigonometric ratios in right triangles | Chile — *Matemática 2° Medio, Texto del estudiante* (student textbook), Grade 10 (2° Medio), printed p. 106 |
+| Applications of trigonometric ratios | Chile — *Matemática 2° Medio, Texto del estudiante* (student textbook), Grade 10 (2° Medio), printed p. 110 |
+| Trigonometric ratios in right triangles | Chile — *Guía didáctica del docente, Matemática 2° Medio, Tomo II* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 106 |
+| Applications of trigonometric ratios | Chile — *Guía didáctica del docente, Matemática 2° Medio, Tomo II* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 110 |
+
+Chile is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). The 2 teacher-evidence items are named in the rows but stay outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.

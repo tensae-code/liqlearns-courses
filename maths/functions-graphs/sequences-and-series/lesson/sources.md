@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Brazil, Bhutan, Cabo Verde, Canada, Costa Rica, Cuba, Eritrea, Chile
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 50 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea).**.** Kazakhstan carries
+**Acceptance count: taught in 51 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Brazil, Bhutan, Cabo Verde, Costa Rica, Cuba, Eritrea, Chile).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -1075,3 +1075,36 @@ The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PD
 Eritrea is added to the countries line and to the acceptance count above — 5 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 9 pupil items and 1 teacher-evidence item from Book 1, Book 2, Book 3, Book 4, Book 5, Book 6 and Book 7.
+
+**Book 1:** *Matemática 1° básico, Texto del Estudiante* (student textbook, Grade 1) — Chile, MINEDUC / Santillana, edición especial, Marzo 2021; author Sandra Droguett Villarroel; 34,669,692 bytes, 188 PDF pp. Printed page = PDF page − 2. Complete full-year book (cover, presentation, 16 lessons in 4 units, glossary).
+
+**Book 2:** *Matemática 2° básico, Texto del Estudiante* (student textbook, Grade 2) — Chile, MINEDUC / Santillana, Marzo 2021; authors Carolina Ubilla D., Vanesa Cerda C.; 30,389,625 bytes, 183 PDF pp. Printed page = PDF page + 3. Complete full-year book (4 units, unit evaluations, glossary, bibliography).
+
+**Book 3:** *Matemática 3° básico, Texto del estudiante* (student textbook, Grade 3) — Chile, MINEDUC / Santillana; authors Andrea Urra Vásquez, Carmen Córdova Hermosilla, Claudia Quezada Soto; 38,358,807 bytes, 386 PDF pp. Printed page = PDF page − 2. Complete full-year book (4 units, index, glossary, bibliography, cut-outs).
+
+**Book 4:** *Matemática 4° básico, Texto del estudiante* (student textbook, Grade 4) — Chile, MINEDUC / Santillana; author Romina Rodríguez Rojel; 27,934,785 bytes, 354 PDF pp. Printed page = PDF page − 1. Complete full-year book (5 units, index, bibliography, glossary, cut-outs).
+
+**Book 5:** *Matemática 5° básico, Texto del estudiante* (student textbook, Grade 5) — Chile, MINEDUC; the Marshall Cavendish *Math in Focus* adaptation (imprint ©2017 Marshall Cavendish Education; Fong Ho Kheong et al.), distributed by Santillana; 30,951,879 bytes, 364 PDF pp. Printed page = PDF page − 2. Complete full-year book (4 units, index, final evaluation and back matter). Its authorship differs from the Santillana pattern of its neighbours but matches its own imprint — a fact of the set, not an error.
+
+**Book 6:** *Matemática 6° básico, Texto del estudiante* (student textbook, Grade 6) — Chile, MINEDUC / Santillana; Maldonado/Castro et al.; 26,058,888 bytes, 316 PDF pp. Printed page = PDF page − 2. Complete full-year book (4 units, index, answer key, glossary, bibliography).
+
+**Book 7:** *Guía Didáctica del Docente, Matemática 3° básico — Tomo 2* (teacher guide, Grade 3) — Chile, MINEDUC / Santillana; Urra/Córdova/Quezada; 20,631,031 bytes, 182 PDF pp. PARTIAL VOLUME — Tomo 2 only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — unit planning, class orientations, answer keys and complementary activities for the covered units; never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numeric patterns: adding/subtracting 2 sequences | Chile — *Matemática 1° básico, Texto del Estudiante* (student textbook), Grade 1, printed p. 123 |
+| Numeric patterns and sequences: repeating and growing patterns, pattern rule | Chile — *Matemática 2° básico, Texto del Estudiante* (student textbook), Grade 2, printed p. 155 |
+| Patterns | Chile — *Matemática 3° básico, Texto del estudiante* (student textbook), Grade 3, printed p. 104 |
+| Numeric patterns | Chile — *Matemática 3° básico, Texto del estudiante* (student textbook), Grade 3, printed p. 192 |
+| Describing addition/subtraction patterns in tables | Chile — *Matemática 4° básico, Texto del estudiante* (student textbook), Grade 4, printed p. 92 |
+| Describing multiplication/division patterns in tables | Chile — *Matemática 4° básico, Texto del estudiante* (student textbook), Grade 4, printed p. 96 |
+| Patterns and sequences: finding the rule and predicting terms | Chile — *Matemática 5° básico, Texto del estudiante* (student textbook), Grade 5, printed pp. 86–90 |
+| Patterns in tables | Chile — *Matemática 6° básico, Texto del estudiante* (student textbook), Grade 6, printed p. 92 |
+| Calculating terms in tables | Chile — *Matemática 6° básico, Texto del estudiante* (student textbook), Grade 6, printed p. 96 |
+| Numeric patterns | Chile — *Guía Didáctica del Docente, Matemática 3° básico, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 192 |
+
+Chile is added to the countries line and to the acceptance count above — 9 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.

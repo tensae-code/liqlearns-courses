@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bahamas, Bhutan, Cabo Verde, Bulgaria, Djibouti, Chile
 
 Every part traces to its book and page.
 
@@ -133,7 +133,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
 | Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
 | Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
-**Acceptance count: taught in 24 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria).** North Macedonia enters from its main set — Grade 7 (2025).
+**Acceptance count: taught in 25 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan, Sri Lanka, Bhutan, Cabo Verde, Bulgaria, Chile).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -264,3 +264,18 @@ The 2026-11-10 expansion read read Djibouti's whole in-hand Maths set from the P
 Djibouti enters this lesson as teacher-guide evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — the only document in Djibouti's in-hand set is a CRIPEN teacher's guide (Grade 5, édition 2023), not a pupil textbook, cited as the evidence kind it is, never counted as pupil teaching (the standing Ghana evidence-only precedent). Djibouti's class for Maths is PARTIAL (teacher-evidence-only): the 1 in-hand book is read in full and stocked, but no pupil textbook is in hand — the matching « À MOI LES MATHS » Grade 5 pupil manuel and livret exist and are named by the guide itself, but no complete pupil Maths file is held, and the located student Maths files are link-only partial extracts, unread.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/djibouti-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 1 pupil item and 1 teacher-evidence item from Book 1 and Book 2.
+
+**Book 1:** *Matemática 6° básico, Texto del estudiante* (student textbook, Grade 6) — Chile, MINEDUC / Santillana; Maldonado/Castro et al.; 26,058,888 bytes, 316 PDF pp. Printed page = PDF page − 2. Complete full-year book (4 units, index, answer key, glossary, bibliography).
+
+**Book 2:** *Guía didáctica del docente, Matemática 6° básico — Tomo 2* (teacher guide, Grade 6) — Chile, MINEDUC / Santillana; Juillet/Martínez; 35,335,681 bytes, 256 PDF pp. PARTIAL VOLUME — Tomo 2 only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Constructing triangles | Chile — *Matemática 6° básico, Texto del estudiante* (student textbook), Grade 6, printed p. 164 |
+| Constructing triangles | Chile — *Guía didáctica del docente, Matemática 6° básico, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 164 |
+
+Chile is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.

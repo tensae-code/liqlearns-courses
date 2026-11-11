@@ -1,6 +1,6 @@
 # Sources — Examining Statistical Research
 
-countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica
+countries: Turkey, Bangladesh, South Africa, Libya, Jordan, Andorra, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile
 
 Every part traces to its book and page.
 
@@ -29,7 +29,7 @@ Every part traces to its book and page.
 | Vital statistics — rates; crude rates; birth statistics; death statistics | Libya, Grade 12 Statistics (Humanities section), §3-4, printed p.101 |
 | The statistical question | Jordan, Grade 5 Student Book Term 1, Unit 5, Lesson 1, printed p. 108 |
 
-**Acceptance count: taught in 10 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica).**
+**Acceptance count: taught in 11 countries (Turkey, Bangladesh, South Africa, Libya, Jordan, Australia, Brazil, Bhutan, Cabo Verde, Costa Rica, Chile).**
 
 Libya carries examining statistical research in Grade 12 Statistics (Humanities section), Chapter 4 — population statistics (stocked by the 2026-11-08 re-verification sweep).
 
@@ -133,3 +133,18 @@ The 2026-11-10 expansion read read Costa Rica's whole in-hand Maths set from the
 Costa Rica is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil books of Costa Rica (the CONED/UNED distance-secondary antologías and the ITCR EVEPRIM primary textos and folletos de prácticas). Costa Rica's class for Maths is **COURSES-CLOSED** — every in-hand Costa Rica Maths book (all 25) has been read in full and stocked; no teacher guide for Costa Rica Maths exists in hand to read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/costa-rica-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 1 pupil item and 1 teacher-evidence item from Book 1 and Book 2.
+
+**Book 1:** *Matemática 2° Medio, Texto del estudiante* (student textbook, Grade 10 / 2° Medio) — Chile, MINEDUC; authors Eduardo Díaz V., Natalia Ortiz S., Katherine Morales V.; 13,732,303 bytes, 204 PDF pp. Printed pages cited from the book's own printed index. Complete full-year book (4 units, synthesis and answer key at the end).
+
+**Book 2:** *Guía didáctica del docente, Matemática 2° Medio — Tomo II* (teacher guide, Grade 10 / 2° Medio) — Chile, MINEDUC / SM; Santis/Muñoz/Díaz; 9,250,545 bytes, 258 PDF pp. PARTIAL VOLUME — Tomo II only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Probability in the media | Chile — *Matemática 2° Medio, Texto del estudiante* (student textbook), Grade 10 (2° Medio), printed p. 148 |
+| Probability in the media | Chile — *Guía didáctica del docente, Matemática 2° Medio, Tomo II* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 148 |
+
+Chile is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.

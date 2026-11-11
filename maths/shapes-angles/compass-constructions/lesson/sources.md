@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil, Bhutan, Cuba
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil, Bhutan, Cuba, Chile
 
 Every part traces to its book and page.
 
@@ -242,7 +242,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
 | Drawing and bisecting a line segment | Yemen, Grade 5 Part 2, Unit 8, printed p. 138 |
 | Drawing an angle of given measure | Yemen, Grade 5 Part 2, Unit 8, printed p. 142 |
-**Acceptance count: taught in 35 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil, Bhutan, Cuba)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
+**Acceptance count: taught in 36 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil, Bhutan, Cuba, Chile)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -442,3 +442,17 @@ The 2026-11-10 expansion read read Cuba's whole in-hand Maths set from the PDFs 
 Cuba is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks and workbooks of Cuba (MINED, Editorial Pueblo y Educación); the 3 teacher-evidence items are named in the countries line but stay outside the acceptance count. Cuba's class for Maths is **COURSES-CLOSED** — every in-hand Cuba Maths book (all 25 distinct works) has been read in full and stocked; no Grade 2 student textbook and no Grade 6, 7, 9, 10 or 12 teacher documents are in hand — a library set gap, not unread books.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/cuba-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 3 pupil items from Book 1.
+
+**Book 1:** *Matemática 7° básico, Texto del estudiante* (student textbook, Grade 7) — Chile, MINEDUC / SM (2023); 18,875,913 bytes, 148 PDF pp. Printed page = PDF page − 2. Complete book: the newer SM one-volume edition — shorter than the Santillana básica volumes but structurally complete (index, 4 units, glossary printed p. 140, symbology p. 142), NOT a partial excerpt.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parallel and perpendicular lines (geometric constructions) | Chile — *Matemática 7° básico, Texto del estudiante* (student textbook), Grade 7, printed p. 94 |
+| Perpendicular bisector (simetral/mediatriz) | Chile — *Matemática 7° básico, Texto del estudiante* (student textbook), Grade 7, printed p. 101 |
+| Angle bisector | Chile — *Matemática 7° básico, Texto del estudiante* (student textbook), Grade 7, printed p. 104 |
+
+Chile is added to the countries line and to the acceptance count above — 3 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: every held teacher guide is a Tomo 2 partial volume, and if Tomo 1 guides are ever secured, they enter as a new partial set to read.

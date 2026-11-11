@@ -1,6 +1,6 @@
 # Sources — Circle theorems
 
-countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Bahamas, Australia, Canada, Costa Rica, Cuba, Eritrea
+countries: Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Bahamas, Australia, Canada, Costa Rica, Cuba, Eritrea, Chile
 
 Every part traces to its book and page.
 
@@ -229,7 +229,7 @@ maths/books/egypt.md (FULLY READ + CITATION CHECK PASSED).
 | Angles of a cyclic quadrilateral | Libya, Grade 10 pupil's book Part 2, §7-8, printed p.91 |
 | Alternate segment angles | Libya, Grade 10 pupil's book Part 2, §8-8, printed p.97 |
 
-**Acceptance count: taught in 36 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Australia, Costa Rica, Cuba, Eritrea)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 37 countries (Kazakhstan, Jordan, Armenia, Greece, Vietnam, Egypt, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Uzbekistan, Albania, Sierra Leone, Libya, Mauritania, El Salvador, Sri Lanka, Australia, Costa Rica, Cuba, Eritrea, Chile)**.** Kazakhstan carries the Iran states the inscribed-angle and tangent–radius facts in Grade 8 and develops the circle theorems by guided proof — power of a point and cyclic quadrilaterals included — in Grade 11 Geometry (2).
 fullest treatment — the inscribed-angle theorem with all
 cases, the tangent–chord angle, the inside/outside angle
 theorems, the three segment products, cyclic and circumscribed
@@ -427,3 +427,18 @@ The 2026-11-10 expansion read read Eritrea's whole in-hand Maths set from the PD
 Eritrea is added to the countries line and to the acceptance count above — 2 pupil items in this lesson, from real pupil textbooks of Eritrea (State of Eritrea, Ministry of Education). Eritrea's class for Maths is **COURSES-CLOSED** — every in-hand Eritrea Maths book (all 12 student textbooks, Grades 1–12) has been read in full and stocked; it reverts to PARTIAL only if a further Eritrea Maths holding is later secured and read.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/eritrea-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 4 pupil items from Book 1.
+
+**Book 1:** *Matemática 3° y 4° Medio, Texto del estudiante* (student textbook, Grades 11–12 / 3°–4° Medio, COMBINED volume) — Chile, MINEDUC; authors Gladys Osorio Railef, Katherine Morales Valderrama; 20,338,913 bytes, 258 PDF pp. Printed pages cited from the book's own printed index; the volume runs to printed p. 256 (bibliography). ONE combined volume serving both grade rows: the file filed as Grade 12 is byte-identical to this file (same size and same git blob SHA-1) — cited once here. Complete.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Central and inscribed angles in a circumference | Chile — *Matemática 3° y 4° Medio, Texto del estudiante (combined volume)* (student textbook), Grades 11–12 (combined 3°–4° Medio volume), printed p. 59 |
+| Interior and exterior angles in a circumference | Chile — *Matemática 3° y 4° Medio, Texto del estudiante (combined volume)* (student textbook), Grades 11–12 (combined 3°–4° Medio volume), printed p. 63 |
+| Chords in the circumference | Chile — *Matemática 3° y 4° Medio, Texto del estudiante (combined volume)* (student textbook), Grades 11–12 (combined 3°–4° Medio volume), printed p. 68 |
+| Secants and tangents in the circumference | Chile — *Matemática 3° y 4° Medio, Texto del estudiante (combined volume)* (student textbook), Grades 11–12 (combined 3°–4° Medio volume), printed p. 71 |
+
+Chile is added to the countries line and to the acceptance count above — 4 pupil items in this lesson, from real pupil textbooks of Chile (MINEDUC). Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: every held teacher guide is a Tomo 2 partial volume, and if Tomo 1 guides are ever secured, they enter as a new partial set to read.

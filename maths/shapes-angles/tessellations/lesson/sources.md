@@ -1,6 +1,6 @@
 # Sources — Tessellations
 
-countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka, Andorra, Belize, Australia, Brazil, Bhutan
+countries: Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka, Andorra, Belize, Australia, Brazil, Bhutan, Chile
 
 Every part traces to its book and page.
 
@@ -61,7 +61,7 @@ Teacher-evidence note: Nepal's Grade 8 teacher guide contains a tessellation les
 | Tessellations (Grade 4 Book 2) | South Africa, Grade 4 Book 2, Ws 135 Tessellations, printed p. 162 |
 | Tessellation; translations and tessellations; reflections and tessellations; glide reflection; rotations and tessellations (Grade 5 Book 2) | South Africa, Grade 5 Book 2, Ws 90 Tessellation, printed p. 60; South Africa, Grade 5 Book 2, Ws 135–139 Tessellation; Translations and tessellations; Reflections and tessellations; Glide reflection; Rotations and tessellations, printed pp. 170, 172, 174, 176, 178 |
 
-**Acceptance count: taught in 16 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka, Australia, Brazil, Bhutan).**
+**Acceptance count: taught in 17 countries (Laos, Pakistan, Libya, Nepal, South Africa, Iraq, Malaysia, Rwanda, India, Venezuela, Uzbekistan, Bolivia, Sri Lanka, Australia, Brazil, Bhutan, Chile).**
 
 Laos teaches tessellation as movement: Grade 5 combines translation with reflection to make tiling patterns, then translation with rotation — turning a tile about a point through 90° — and tessellates hexagons. Pakistan's Grade 7 book defines tessellation where polygons are studied (p.163). Nepal splits the topic across two student books: Grade 6 tessellates with triangles, rectangles and squares beside symmetry, and Grade 7 names the three kinds — regular, semi-regular and irregular. Libya returns to tessellation as enrichment in both Grade 8 and Grade 9, South Africa's workbooks drill the three tessellating shapes and add glide reflection, and Iraq's Grade 6 book teaches tessellation inside its geometry course.
 
@@ -196,3 +196,18 @@ The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDF
 Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 1 pupil item in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
+
+## Chile added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Chile's whole in-hand Maths set from the PDFs — **21 filed rows = 19 distinct books (11 student volumes + 8 teacher-guide volumes)**: MINEDUC *Textos del Estudiante* Matemática 1° básico to 2° Medio plus the combined 3°–4° Medio volume, and eight *Guías Didácticas del Docente*. Every file was grabbed through the authenticated GitHub API route and verified byte-for-byte — each file's size equals its GitHub Contents metadata and its locally computed git blob SHA-1 equals the blob SHA recorded by GitHub; no mirror copy was used for any of the 21 files (the standing warning about librosdelmineduc.cl mirror editions is settled for this held set). The files filed as Grade 12 (the student book and the teacher guide) are byte-identical to the Grade 11 files — MINEDUC issues this level as ONE combined 3°–4° Medio volume filed under both grades — so each is cited once, at Grade 11, and the set's headline is 19 distinct books behind 21 filed rows wherever the count is used. All 11 distinct student books are complete full-year books (index, all units and end matter — glossary / answer key / bibliography — verified in place in every volume) and their items are COUNTED normally. **Every held teacher guide is a TOMO 2 partial volume** — covering student Units 3–4 (Grade 4: Units 3–5; the combined 3°–4° Medio guide: the 4° Medio year only, its 3° Medio guidance sitting in the unheld Tomo 1); **no Tomo 1 is held for any grade**, so the guide items below are teacher evidence only, restricted to exactly the units each Tomo 2 contains, named in the rows and never in the acceptance count. The placements' named exclusions — the parvularia guides and the Lengua y Literatura rows (different sets), the Sumo Primero / Leo Primero sets and Cuadernos named in the download list (not in hand, not read), and inside the books the unit-openers, the «¿Cuánto sé? / ¿Cómo voy?» evaluations, synthesis and review spreads, glossaries, bibliographies and cut-out (recortable) pages as apparatus — are stocked nowhere. Into this lesson the placements stock 1 pupil item and 1 teacher-evidence item from Book 1 and Book 2.
+
+**Book 1:** *Matemática 6° básico, Texto del estudiante* (student textbook, Grade 6) — Chile, MINEDUC / Santillana; Maldonado/Castro et al.; 26,058,888 bytes, 316 PDF pp. Printed page = PDF page − 2. Complete full-year book (4 units, index, answer key, glossary, bibliography).
+
+**Book 2:** *Guía didáctica del docente, Matemática 6° básico — Tomo 2* (teacher guide, Grade 6) — Chile, MINEDUC / Santillana; Juillet/Martínez; 35,335,681 bytes, 256 PDF pp. PARTIAL VOLUME — Tomo 2 only, covering student Units 3–4; Tomo 1 is not held. TEACHER EVIDENCE ONLY — never counted as a pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tessellations | Chile — *Matemática 6° básico, Texto del estudiante* (student textbook), Grade 6, printed p. 188 |
+| Tessellations | Chile — *Guía didáctica del docente, Matemática 6° básico, Tomo 2* (teacher guide) — teacher evidence only (Tomo 2, covering student Units 3–4; Tomo 1 not held), guidance for the topic taught in the student book at printed p. 188 |
+
+Chile is added to the countries line and to the acceptance count above — 1 pupil item in this lesson, from real pupil textbooks of Chile (MINEDUC). The 1 teacher-evidence item is named in the rows but stays outside the acceptance count: every held Chile guide is a Tomo 2 partial volume, cited as the evidence kind it is. Chile's class for Maths is **COURSES-CLOSED** for the in-hand set — every in-hand Chile Maths book (21 filed rows, 19 distinct volumes) has been read in full and stocked — with the Tomo 1 caveat riding alongside: if Tomo 1 guides are ever secured, they enter as a new partial set to read.
