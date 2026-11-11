@@ -293,6 +293,7 @@ Every part traces to its book and page.
 **Book 212:** *Mathematics, Grade 4 student book, new series (2016 curriculum)* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2021 (no ISBN printed — the imprint's ISBN field is blank). Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 213:** *Mathematics, Grade 1 teacher guide, new series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2017 (2020 JICA re-issue in hand), ISBN 978-9932-00-175-0 (companion to the Grade 1 student book, …-174-3), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
 **Book 214:** *Mathematics, Grade 1 teacher guide, old series* — Laos, Ministry of Education and Sports / Research Institute for Educational Sciences, 2007 (guides the pre-2016 Grade 1 student book, which is not in the set), cited as teacher evidence. Filed in maths/books/laos.md (FULLY READ + CITATION CHECK PASSED).
+**Book 215:** *Guía Metodológica de Matemática — 1er Grado — NICAMATE 2* (teacher guide) — Nicaragua, MINED, Primera Edición, 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: guide to the Grade 1 NICAMATE 2 student book.
 
 
 | Lesson part | Where it comes from |
@@ -331,6 +332,7 @@ Every part traces to its book and page.
 | Teaching guidance, misconception notes and answer keys for whole numbers to 100,000 and to 1,000,000 (teacher evidence) | Indonesia, Grade 5 teacher guide, printed pp. 1–428 (teacher evidence) |
 | Numbers 1–10, then 11–20, then to 100, with comparing and ordering and the number line | Nicaragua, Grade 1 NICAMATE 2 student book, Unit 1, printed pp. 2–31; Unit 5, printed pp. 76–89; Unit 8, printed pp. 124–145 |
 | Numbers to 10, then to 20, then to 100 (teacher evidence) | Nicaragua, Grade 1 old *Guía Validada* (teacher evidence), Units 1, 5 and 8 (printed GM pp. 2–51, 94–103, 130–147) |
+| Numbers to 10, then to 20, then to 100 — lesson-by-lesson guidance, worked answers and unit tests for the Grade 1 NICAMATE 2 student book (teacher evidence) | Nicaragua, Grade 1 NICAMATE 2 teacher guide (Guía Metodológica) (teacher evidence), printed pp. 16–210 |
 | Numbers to 1,000, place-value table (C/D/U), ordinals to 20° | Nicaragua, Grade 2 old student book, Unit 2, printed pp. 26–48 |
 | Numbers to 1,000, expanded form (436), the number 1000 | Nicaragua, Grade 2 NICAMATE 2 student book, Unit 7, printed pp. 64–79 |
 | Numbers to 10,000, expanded form (5,859) | Nicaragua, Grade 3 old student book, Unit 1, printed pp. 15–28 |

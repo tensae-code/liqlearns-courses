@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua
 
 Every part traces to its book and page.
 
@@ -109,6 +109,7 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 71:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 72:** *Mathematics, Grade 8 student book* (ریاضی, code 805) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 13th printing 1405, ISBN 978-964-05-2379-7. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 73:** *My Mathematics, Class 1* — Nepal, CDC, Sanothimi, Revised Edition 2074 BS (English Version). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 74:** *Matemática — Libro de Texto — 1er Grado (NICAMATE 2)* — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2024. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with straight and curved lines as its Lesson 1 (printed p. 1), before the circle of Lesson 2.
 
@@ -228,6 +229,7 @@ On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with strai
 | (TG) Dars 37–40 lesson plans: parallelism of lines (§37), transversal angles (§38), parallel tests (§39–40), with printed answers to selected textbook problems (§40: e.g. ∠2 = ∠4 = ∠6 = ∠8 = 75°, ∠3 = ∠7 = 105°) | Uzbekistan, Geometriya, Grade 7 teacher's guide (Uzbek, Latin script) — teacher evidence, printed p. 92 |
 | Straight line, curved line, ray (semirrecta), segment and angle: identify, match and colour | Ecuador, Matemática, Grade 2 student book, printed pp. 95–96 |
 | Lines: straight and curved, open and closed, in plane figures and house plans | Ecuador, Matemática (Talento matemático 3), Grade 3 student book, printed pp. 146–147 |
+| Lines: straight and curved, open and closed; drawing with lines | Nicaragua, Grade 1 NICAMATE 2 student book, Unit 4, Section 2, printed pp. 71–76 |
 | Nociones de geometría: basic elements point, line and plane (undefined terms, notation, belonging and collinearity) from weaving/roof contexts | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 64 |
 | La recta, semirrecta y segmento: ray and segment defined and named; relative positions of lines (parallel, perpendicular); measuring as comparison with a unit | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 65 |
 | Rectas paralelas y perpendiculares en el plano: parallel lines keep equal distances (d₁ = d₂), perpendicular lines form 90°; geographic location of Lake Titicaca (latitude 16° S, longitude 69° W) by intersecting lines on a map | Bolivia, Texto de Aprendizaje, Grade 7 (1° de Secundaria), Área Matemática (student book), printed p. 78 |
@@ -275,7 +277,7 @@ On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with strai
 | Parallelism and perpendicularity (توازی و تعامد) | Iran, Grade 8 student book, Ch. 3, printed p. 34 |
 | Straight and curved lines | Nepal, Grade 1 student book (English version), Lesson 1, printed p. 1 |
 
-**Acceptance count: taught in 24 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 25 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Nicaragua enters at Grade 1 with straight and curved lines and open and closed lines in its NICAMATE 2 student book (Unit 4, Section 2).
 
 Vietnam carries the lines strand from Grade 2 (points, segments, straight lines, curves, collinear points) through Grade 4 (perpendicular and parallel lines), Grade 6 (points and lines, rays, segments and midpoints) and Grade 7 (recognising parallel lines, Euclid's postulate, perpendicular and oblique lines). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 

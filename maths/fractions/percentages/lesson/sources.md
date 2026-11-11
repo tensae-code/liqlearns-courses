@@ -270,6 +270,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 138:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 139:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 140:** *Mathematics, Grade 8, Term 1 student book* — Kuwait, Ministry of Education, 2nd edition 1448 AH / 2026–2027, ISBN 978-9921-33-121-9. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 141:** *Guía Metodológica de Matemática — 5to grado* (NICAMATE 2) (teacher guide) — Nicaragua, Ministerio de Educación (MINED), Primera Edición 2026, no ISBN printed. Filed in maths/books/nicaragua.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: guide to the Grade 5 NICAMATE 2 student book.
 
 
 | Lesson part | Where it comes from |
@@ -296,6 +297,7 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Indonesia's honest limit (stated, not forced): percent is never formally taught as a concept anywhere in the set — Grade 4 links hundredths decimals to percent, Grade 7 uses percent only as an application, and the percent work that exists is interest in Grades 10 and 12 Revisi | Indonesia — filed in maths/books/indonesia.md |
 | Teaching guidance and answer keys for hundredths linked to percent (teacher evidence) | Indonesia, Grade 4 teacher guide, printed pp. 1–252 (teacher evidence) |
 | Ratio and percent: percent concept, calculating percentages, percentages over 100, finding the compared quantity and the base quantity, increase and discount problems | Nicaragua, Grade 5 student book (NICAMATE 2), Unit 6, printed pp. 60–73 |
+| Ratio and percent — lesson guidance and worked answers for the Grade 5 book's ratio-and-percent unit (teacher evidence) | Nicaragua, Grade 5 NICAMATE 2 teacher guide (Guía Metodológica) (teacher evidence), Unit 6 |
 | Percentage, simple interest and commercial discount (module evidence) | Nicaragua, Grade 7 module, Unit III, Tema 4 (Unit III, printed pp. 111–168) |
 | Simple interest I = Prt and compound interest S = P(1+r)^t, with monthly capitalisation S = 10,000(1.005)^120 = C$18,193.96 (module evidence) — the book misprints the factor as (1,015)^120 on printed p. 103; teach 1,005, never 1,015 | Nicaragua, Grade 10 module, Unit III, printed pp. 100–104 |
 | Percent as "out of 100"; decimals and fractions to percent (0.47 = 47%; 1/2 = 50%); one quantity as a percent of another (25 is what percent of 60?; 60% of 70 people are women — how many women?) — no interest, tax or discount in Grade 5 | Ethiopia, Grade 5 student book, ch. 3, printed pp. 39–47 |
