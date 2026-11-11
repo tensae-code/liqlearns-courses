@@ -1,6 +1,6 @@
 # Sources — Pythagoras
 
-countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra
+countries: Kazakhstan, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, South Africa, Ghana, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Andorra, Moldova
 
 Every part traces to its book and page.
 
@@ -309,7 +309,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras' theorem | Armenia, Geometry 10, §6.18, printed p. 58 |
 | Year revision overview, Pythagoras among it (Grade 8 Book 2) | South Africa, Grade 8 Book 2, Ws 140–144 Revision overview: parts 1–5 (year revision of this grade's placed items), printed pp. 204, 206, 208, 210, 212 |
 
-**Acceptance count: taught in 39 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
+**Acceptance count: taught in 40 countries (Egypt, Greece, Armenia, Kazakhstan, Vietnam, Sierra Leone, Libya, Mauritania, South Africa, Laos, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, El Salvador, Sri Lanka, Colombia, Moldova).**.** Egypt carries the fullest single treatment — Iran states Pythagoras' theorem in Grade 8 and verifies it on examples rather than proving it, and uses the converse.
 the theorem, its converse, classifying triangles by comparing
 squares, the 13-foot ladder and a Pythagoras practical in Grade
 8. Sierra Leone carries the cleanest ladder in JSS 3 — the
@@ -462,3 +462,21 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 8 — printed page = PDF page − 1; Book 10 — printed pages as listed in the book's own Cuprins. Into this lesson the placements stock 3 items (all from pupil textbooks) from Book 8 and Book 10.
+
+**Book 8:** *Matematică: Manual pentru clasa a VIII-a* (pupil textbook, Grade 8) — Moldova, MECC; 12,602,752 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 10:** *Matematică: Manual pentru clasa a X-a* (pupil textbook, Grade 10) — Moldova, Editura Prut Internațional, 2025; 14,025,991 bytes, 226 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The height theorem and the leg (cathetus) theorem | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 143 |
+| Pythagoras' theorem and applications | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 147 |
+| Metric relations in triangles | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 62 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Perimeter and Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -943,7 +943,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 
-**Acceptance count: taught in 46 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
+**Acceptance count: taught in 47 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).** Sierra Leone carries the cleanest Iran counts squares for area in Grade 3, derives the parallelogram and triangle areas in Grade 4, adds the rhombus and trapezium in Grade 5, and reaches polygon areas in Grade 10 Geometry (1) and Heron's formula in Grade 11 Geometry (2).
 ladder — perimeter short cuts, rectangle and triangle areas with
 the perpendicular-height rule, and the parallelogram, trapezium
 and composite areas in JSS 2. Jordan carries perimeter and area
@@ -1331,3 +1331,31 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 4 — printed page = PDF page; Book 5 — printed page = PDF page − 1; Book 9 — printed page = PDF page − 1; Book 10 — printed pages as listed in the book's own Cuprins. Into this lesson the placements stock 9 items (all from pupil textbooks) from Book 4, Book 5, Book 9 and Book 10.
+
+**Book 4:** *Matematică: Manual pentru clasa a 4-a* (pupil textbook, Grade 4) — Moldova, MECC; curriculum Order nr. 1124/2018; manual approved Order nr. 849 din 24 august 2020; 13,988,713 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 9:** *Matematică: Manual pentru clasa a IX-a* (pupil textbook, Grade 9) — Moldova, MECC; 15,508,619 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1). File artifact: the PDF's p. 178 carries a stray page from another book (a biology text page, “Ameliorarea organismelor. Biotehnologii”) bound after the back cover in the publisher's print file; it is not part of the mathematics manual and is cited nowhere.
+
+**Book 10:** *Matematică: Manual pentru clasa a X-a* (pupil textbook, Grade 10) — Moldova, Editura Prut Internațional, 2025; 14,025,991 bytes, 226 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The perimeter of a polygon | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 82 |
+| The perimeter of a square | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 86 |
+| The perimeter of a rectangle | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 88 |
+| Units of measurement for area; areas | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 194 |
+| The notion of area; the area of parallelograms | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 131 |
+| The area of a triangle | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 133 |
+| The area of a trapezium | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 134 |
+| The area of a regular polygon; the length of the circle and the area of the disc | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 135 |
+| The areas of plane figures | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 206 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

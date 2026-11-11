@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -297,7 +297,7 @@ On Nepal in this lesson: Nepal's Grade 1 book (English version) opens with strai
 | Perpendicular lines | South Sudan, Pupil's Book 4, §3.2, printed p. 60 |
 | Parallel lines | South Sudan, Pupil's Book 4, §3.3, printed p. 61 |
 
-**Acceptance count: taught in 31 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Nicaragua enters at Grade 1 with straight and curved lines and open and closed lines in its NICAMATE 2 student book (Unit 4, Section 2).
+**Acceptance count: taught in 32 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam, Iran, Nepal, Nicaragua, South Sudan, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023). Nicaragua enters at Grade 1 with straight and curved lines and open and closed lines in its NICAMATE 2 student book (Unit 4, Section 2).
 
 Vietnam carries the lines strand from Grade 2 (points, segments, straight lines, curves, collinear points) through Grade 4 (perpendicular and parallel lines), Grade 6 (points and lines, rays, segments and midpoints) and Grade 7 (recognising parallel lines, Euclid's postulate, perpendicular and oblique lines). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -499,3 +499,30 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 2 — printed page = PDF page − 1; Book 5 — printed page = PDF page − 1; Book 6 — printed page = PDF page − 1; Book 7 — printed page = PDF page − 1. Into this lesson the placements stock 8 items (all from pupil textbooks) from Book 2, Book 5, Book 6 and Book 7.
+
+**Book 2:** *Mathematics* (pupil textbook, Grade 2) — Moldova, Ministerul Educației al Republicii Moldova, Editura Prut Internațional, re-edition approved by Order nr. 544 din 8 iunie 2015; 24,017,939 bytes, 138 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 6:** *Matematică: Manual pentru clasa a VI-a* (pupil textbook, Grade 6) — Moldova, MECC; curriculum Order nr. 906/2019; approved Order nr. 1343 din 03 decembrie 2020; 6,364,545 bytes, 246 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 7:** *Matematică: Manual pentru clasa a 7-a* (pupil textbook, Grade 7) — Moldova, MECC; 12,720,328 bytes, 186 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Points, lines and segments | Moldova — *Mathematics* (pupil textbook), Grade 2, printed p. 116 |
+| Points and lines | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 158 |
+| Relative positions of two lines (parallel, intersecting, perpendicular) | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 168 |
+| Basic geometric notions | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 202 |
+| Points, lines, planes (recap and completions) | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 98 |
+| Relative positions (of lines and planes) | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 103 |
+| Parallel lines | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 133 |
+| Perpendicular lines; the perpendicular bisector of a segment | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 141 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Sequences and series
 
-countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Barbados, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -597,7 +597,7 @@ maths/books/south-africa.md (FULLY READ + CITATION CHECK PASSED).
 | Sequences | Jordan, Grade 10 Student Book Term 2, Unit 5, Lesson 5, printed p. 42 |
 | Workbook practice: functions, sequences and series (T1 U1) | Jordan, Grade 11 Workbook Term 1 — true companion copy, Unit 1 (workbook evidence) |
 
-**Acceptance count: taught in 42 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).**.** Kazakhstan carries
+**Acceptance count: taught in 43 countries (Kazakhstan, Jordan, Sierra Leone, Mauritania, South Africa, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Egypt, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).**.** Kazakhstan carries
 the fullest treatment — all four Grade 9 Algebra books prove
 the nth-term formulas, the characteristic properties, both
 sum formulas and the infinite geometric sum, with applied
@@ -865,3 +865,21 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 8 — printed page = PDF page − 1; Book 11 — printed page = PDF page − 1. Into this lesson the placements stock 3 items (all from pupil textbooks) from Book 8 and Book 11.
+
+**Book 8:** *Matematică: Manual pentru clasa a VIII-a* (pupil textbook, Grade 8) — Moldova, MECC; 12,602,752 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 11:** *Matematică: Manual pentru clasa a XI-a* (pupil textbook, Grade 11) — Moldova, MECC; 7,311,531 bytes, 306 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numerical sequences | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 81 |
+| Numerical sequences (recap and completions) | Moldova — *Matematică: Manual pentru clasa a XI-a* (pupil textbook), Grade 11, printed p. 5 |
+| Arithmetic progressions; geometric progressions | Moldova — *Matematică: Manual pentru clasa a XI-a* (pupil textbook), Grade 11, printed p. 13 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Projections and Views
 
-countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Andorra
+countries: Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Andorra, Moldova
 
 Every part traces to its book and page.
 
@@ -103,7 +103,7 @@ Every part traces to its book and page.
 | Workbook practice: three-dimensional shapes (T2 U8) | Jordan, Grade 8 Workbook Term 2, Unit 8 (workbook evidence) |
 | Drawing the views of a solid (ترسیم‌های هندسی) | Iran, Grade 10 Geometry (1) student book (Mathematical Sciences branch), Ch. 4, printed pp. 77–96 |
 
-**Acceptance count: taught in 15 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
+**Acceptance count: taught in 16 countries (Vietnam, Laos, North Macedonia, China, Jordan, South Africa, Saudi Arabia, Malaysia, India, Venezuela, Albania, Turkey, Mauritania, Iran, Cyprus, Moldova)**.** Vietnam carries the engineering heart of the lesson: orthogonal and axonometric projections and technical drawing as named topics in its Grade 11 study book. Laos carries the intuitive opening — projections and shadows, with a birdhouse photographed from different viewpoints. North Macedonia carries parallel and orthogonal projection and representing a solid by drawing at Grade 8. China carries the history as a reading: descriptive geometry and Monge, from da Vinci and Desargues to orthographic projection on two perpendicular planes (reading as filed). Jordan carries isometric drawing, projections/views and cross-sections at Grade 8, with nets at Grade 4 as teacher evidence. South Africa carries views drawn on isometric paper and perspective drawing, the perspective filed as enrichment in its workbooks.
 
 Saudi Arabia joins this lesson from its Grade 4 geometry chapter: nets matched to the solids they fold into, and front, side and top views of cube-built solids.
 
@@ -154,3 +154,17 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 11 — printed page = PDF page − 1. Into this lesson the placements stock 1 item (all from pupil textbooks) from Book 11.
+
+**Book 11:** *Matematică: Manual pentru clasa a XI-a* (pupil textbook, Grade 11) — Moldova, MECC; 7,311,531 bytes, 306 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Orthogonal projections; the angle formed by a line and a plane | Moldova — *Matematică: Manual pentru clasa a XI-a* (pupil textbook), Grade 11, printed p. 253 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

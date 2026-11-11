@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -791,7 +791,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 | Review of surface area of shapes | South Sudan, Secondary Mathematics — Student's Book 2, Unit 2, printed p. 19 |
 
-**Acceptance count: taught in 46 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 47 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -1096,3 +1096,34 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 5 — printed page = PDF page − 1; Book 9 — printed page = PDF page − 1; Book 12 — printed pages as listed in the book's own Cuprins. Into this lesson the placements stock 14 items (all from pupil textbooks) from Book 5, Book 9 and Book 12.
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 9:** *Matematică: Manual pentru clasa a IX-a* (pupil textbook, Grade 9) — Moldova, MECC; 15,508,619 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1). File artifact: the PDF's p. 178 carries a stray page from another book (a biology text page, “Ameliorarea organismelor. Biotehnologii”) bound after the back cover in the publisher's print file; it is not part of the mathematics manual and is cited nowhere.
+
+**Book 12:** *Matematică: Manual pentru clasa a XII-a* (pupil textbook, Grade 12) — Moldova, MECC; 20,690,648 bytes, 266 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Units of measurement for volume; volumes of cube and cuboid (answer key works cube/cuboid volume, printed pp. 227–228) | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 198 |
+| The prism (surface and volume work in the answers, printed pp. 170–176) | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 142 |
+| The pyramid; the frustum of a pyramid | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 148 |
+| The (right circular) cylinder | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 156 |
+| The (right circular) cone; the frustum of a cone | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 161 |
+| The sphere | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 166 |
+| The prism | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 148 |
+| The pyramid | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 154 |
+| The frustum of a pyramid | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 158 |
+| The volume of polyhedra | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 160 |
+| The cylinder | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 170 |
+| The cone | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 174 |
+| The frustum of a cone | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 178 |
+| The sphere; the spherical body | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 183 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

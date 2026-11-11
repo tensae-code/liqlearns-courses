@@ -1,6 +1,6 @@
 # Sources — Angles
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -826,7 +826,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 4 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 4, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 48 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
+**Acceptance count: taught in 49 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and
 supplementary pairs, the transversal's eight angles, and the
 triangle and quadrilateral sums in one Grade 7 unit. Jordan
@@ -1177,3 +1177,25 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 5 — printed page = PDF page − 1; Book 6 — printed page = PDF page − 1; Book 7 — printed page = PDF page − 1. Into this lesson the placements stock 5 items (all from pupil textbooks) from Book 5, Book 6 and Book 7.
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 6:** *Matematică: Manual pentru clasa a VI-a* (pupil textbook, Grade 6) — Moldova, MECC; curriculum Order nr. 906/2019; approved Order nr. 1343 din 03 decembrie 2020; 6,364,545 bytes, 246 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 7:** *Matematică: Manual pentru clasa a 7-a* (pupil textbook, Grade 7) — Moldova, MECC; 12,720,328 bytes, 186 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Angles | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 164 |
+| Angles | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 208 |
+| Angles | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 108 |
+| Properties of the angle bisector | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 145 |
+| The exterior angle of a triangle | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 150 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

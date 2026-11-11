@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 47 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 48 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -1697,3 +1697,60 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 1 — printed page = PDF page; Book 2 — printed page = PDF page − 1; Book 3 — printed page = PDF page; Book 4 — printed page = PDF page; Book 5 — printed page = PDF page − 1; Book 6 — printed page = PDF page − 1; Book 7 — printed page = PDF page − 1; Book 8 — printed page = PDF page − 1; Book 9 — printed page = PDF page − 1; Book 10 — printed pages as listed in the book's own Cuprins; Book 12 — printed pages as listed in the book's own Cuprins. Into this lesson the placements stock 24 items (all from pupil textbooks) from Book 1, Book 2, Book 3, Book 4, Book 5, Book 6, Book 7, Book 8, Book 9, Book 10 and Book 12.
+
+**Book 1:** *Mathematics* (pupil textbook, Grade 1) — Moldova, Ludmila Ursu, Ilie Lupu, Iulia Iasinschi, Editura Prut Internațional, 2014 (re-edition approved by Ministerial Order nr. 674 din 9 august 2010), ISBN 978-9975-54-150-3; 28,813,891 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 2:** *Mathematics* (pupil textbook, Grade 2) — Moldova, Ministerul Educației al Republicii Moldova, Editura Prut Internațional, re-edition approved by Order nr. 544 din 8 iunie 2015; 24,017,939 bytes, 138 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 3:** *Matematică: Manual pentru clasa a 3-a* (pupil textbook, Grade 3) — Moldova, MECC; curriculum Order nr. 1124 din 20 iulie 2018; manual approved Order nr. 771 din 05 august 2020; 27,244,978 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 4:** *Matematică: Manual pentru clasa a 4-a* (pupil textbook, Grade 4) — Moldova, MECC; curriculum Order nr. 1124/2018; manual approved Order nr. 849 din 24 august 2020; 13,988,713 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 6:** *Matematică: Manual pentru clasa a VI-a* (pupil textbook, Grade 6) — Moldova, MECC; curriculum Order nr. 906/2019; approved Order nr. 1343 din 03 decembrie 2020; 6,364,545 bytes, 246 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 7:** *Matematică: Manual pentru clasa a 7-a* (pupil textbook, Grade 7) — Moldova, MECC; 12,720,328 bytes, 186 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 8:** *Matematică: Manual pentru clasa a VIII-a* (pupil textbook, Grade 8) — Moldova, MECC; 12,602,752 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 9:** *Matematică: Manual pentru clasa a IX-a* (pupil textbook, Grade 9) — Moldova, MECC; 15,508,619 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1). File artifact: the PDF's p. 178 carries a stray page from another book (a biology text page, “Ameliorarea organismelor. Biotehnologii”) bound after the back cover in the publisher's print file; it is not part of the mathematics manual and is cited nowhere.
+
+**Book 10:** *Matematică: Manual pentru clasa a X-a* (pupil textbook, Grade 10) — Moldova, Editura Prut Internațional, 2025; 14,025,991 bytes, 226 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+**Book 12:** *Matematică: Manual pentru clasa a XII-a* (pupil textbook, Grade 12) — Moldova, MECC; 20,690,648 bytes, 266 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Geometric forms met in the world (review module — the year's only shapes treatment) | Moldova — *Mathematics* (pupil textbook), Grade 1, printed p. 128 |
+| Geometric figures and solids | Moldova — *Mathematics* (pupil textbook), Grade 2, printed p. 118 |
+| Geometric figures | Moldova — *Matematică: Manual pentru clasa a 3-a* (pupil textbook), Grade 3, printed p. 108 |
+| Geometric solids | Moldova — *Matematică: Manual pentru clasa a 3-a* (pupil textbook), Grade 3, printed p. 110 |
+| Polygons | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 80 |
+| Geometric solids | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 92 |
+| Triangles and quadrilaterals | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 171 |
+| Geometric solids | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 179 |
+| Polygons | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 217 |
+| Geometric solids | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 229 |
+| The triangle and its elements (recap and completions) | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 117 |
+| The midline of a triangle | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 138 |
+| Properties of the isosceles triangle | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 157 |
+| Properties of the equilateral triangle | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 161 |
+| Properties of the right-angled triangle | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 164 |
+| Lines, angles, triangles, circles (recap chapter) | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 108 |
+| Convex polygons | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 120 |
+| Parallelograms | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 123 |
+| The trapezium | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 126 |
+| Regular polygons | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 129 |
+| Polyhedra | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 140 |
+| The parallelogram and its properties; the trapezium | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 195 |
+| Polygons; regular polygons | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 201 |
+| The notion of a polyhedron | Moldova — *Matematică: Manual pentru clasa a XII-a* (pupil textbook), Grade 12, printed p. 146 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

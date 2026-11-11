@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen, El Salvador, Sri Lanka, Colombia, Andorra, Angola
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen, El Salvador, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -282,7 +282,7 @@ On Nepal in this lesson: Nepal builds its number system grade by grade — whole
 | The natural numbers | Yemen, Grade 7, Unit 2, printed p. 47 |
 | The real numbers | Yemen, Grade 9 Part 1, Unit 1, printed p. 40 |
 | The rational numbers: the number line, decimal form, comparing and the four operations | Yemen, Grade 8 Part 1, Unit 2, printed pp. 35–64 |
-**Acceptance count: taught in 33 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen, El Salvador, Sri Lanka, Colombia, Angola)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026). Yemen enters with the number sets built as named lessons — the natural numbers in Grade 7, the rational numbers as a whole unit in Grade 8 Part 1, and the real numbers in Grade 9 Part 1.
+**Acceptance count: taught in 34 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam, Iran, Iraq, Kuwait, Nepal, Yemen, El Salvador, Sri Lanka, Colombia, Angola, Moldova)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026). Yemen enters with the number sets built as named lessons — the natural numbers in Grade 7, the rational numbers as a whole unit in Grade 8 Part 1, and the real numbers in Grade 9 Part 1.
 
 Vietnam carries the number-system climb across Grades 4, 6 and 7 — first look at the sequence of natural numbers (Grade 4), the set of rational numbers, irrational numbers and the arithmetic square root, and the set of real numbers (Grade 7). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -450,3 +450,36 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 6 — printed page = PDF page − 1; Book 7 — printed page = PDF page − 1; Book 8 — printed page = PDF page − 1; Book 9 — printed page = PDF page − 1; Book 10 — printed pages as listed in the book's own Cuprins. Into this lesson the placements stock 12 items (all from pupil textbooks) from Book 6, Book 7, Book 8, Book 9 and Book 10.
+
+**Book 6:** *Matematică: Manual pentru clasa a VI-a* (pupil textbook, Grade 6) — Moldova, MECC; curriculum Order nr. 906/2019; approved Order nr. 1343 din 03 decembrie 2020; 6,364,545 bytes, 246 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 7:** *Matematică: Manual pentru clasa a 7-a* (pupil textbook, Grade 7) — Moldova, MECC; 12,720,328 bytes, 186 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 8:** *Matematică: Manual pentru clasa a VIII-a* (pupil textbook, Grade 8) — Moldova, MECC; 12,602,752 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 9:** *Matematică: Manual pentru clasa a IX-a* (pupil textbook, Grade 9) — Moldova, MECC; 15,508,619 bytes, 178 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1). File artifact: the PDF's p. 178 carries a stray page from another book (a biology text page, “Ameliorarea organismelor. Biotehnologii”) bound after the back cover in the publisher's print file; it is not part of the mathematics manual and is cited nowhere.
+
+**Book 10:** *Matematică: Manual pentru clasa a X-a* (pupil textbook, Grade 10) — Moldova, Editura Prut Internațional, 2025; 14,025,991 bytes, 226 PDF pp. Pages cited are the book's printed pages (printed pages as listed in the book's own Cuprins).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The set of natural numbers | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 4 |
+| The set of rational numbers (the long §1, pp. 86–114: fractions and decimals as rationals, with their operations) | Moldova — *Matematică: Manual pentru clasa a VI-a* (pupil textbook), Grade 6, printed p. 86 |
+| The set of rational numbers | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 4 |
+| Irrational numbers | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 15 |
+| The set of real numbers | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 19 |
+| Operations with real numbers | Moldova — *Matematică: Manual pentru clasa a 7-a* (pupil textbook), Grade 7, printed p. 24 |
+| The set of real numbers and its subsets | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 4 |
+| Operations with real numbers | Moldova — *Matematică: Manual pentru clasa a VIII-a* (pupil textbook), Grade 8, printed p. 10 |
+| The set of real numbers | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 4 |
+| Operations with real numbers | Moldova — *Matematică: Manual pentru clasa a IX-a* (pupil textbook), Grade 9, printed p. 9 |
+| Rational, irrational and real numbers | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 4 |
+| Arithmetic operations with real numbers | Moldova — *Matematică: Manual pentru clasa a X-a* (pupil textbook), Grade 10, printed p. 7 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.

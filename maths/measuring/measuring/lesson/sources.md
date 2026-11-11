@@ -1,6 +1,6 @@
 # Sources — Measuring
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Turkey, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova
 
 Every part traces to its book and page.
 
@@ -1171,7 +1171,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
 | TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
-**Acceptance count: taught in 47 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
+**Acceptance count: taught in 48 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the
 three conversion tables in JSS 1. Jordan carries the four
 standard units in one Grade 2 unit (centimetre, metre, gram and
@@ -1670,3 +1670,38 @@ The 2026-11-10 expansion read read Angola's whole in-hand Maths set from the PDF
 Angola is added to the countries line and to the acceptance count above on its pupil-textbook rows — all six books in its set are pupil textbooks and there are no teacher-evidence rows. Angola's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 6) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/angola-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's whole in-hand Maths set from the PDFs — **12 books, all pupil textbooks: the Matematică / Mathematics student manual for each of Grades 1–12 (Republic of Moldova, in Romanian). There is no teacher guide and no syllabus in the Moldova Maths set in hand, so every Moldova row in this course is a pupil-textbook row — there are no teacher-evidence rows, and Moldova counts in every lesson it stocks** — and placed 394 teaching items. The expansion map's “12 student + 0 teacher” is correct: textbooks.tsv, phase3-push-state.json (“pushed”) and the staging books.json files reconcile exactly at 12 distinct works — Grades 3–12 (10 books) recorded in books.json, Grades 1–2 as git-blob files recorded in textbooks.tsv. The old closed-52 inventory's “Moldova link-only, 0 in hand” is refuted: all 12 books sit secured in the tensae-code/liqlearns-textbooks GitHub repo and were read from there for this expansion (Grades 3, 4 and 6–12 via the mid-size-books-8 release; Grades 1, 2 and 5 via the Contents API on their textbooks.tsv git-blob paths), byte-verified — MD5s match books.json exactly for the ten Grades 3–12 books. The Grades 10–12 books are dual-track (profil real / profil umanistic) throughout; each section is stocked once, as one Moldova row, not once per track. Book errors: none found that changes a placement; the Grade 9 file's PDF p. 178 carries a stray page from another book (a biology text page) bound after the back cover in the publisher's print file — a file artifact, not part of the mathematics manual, cited nowhere. The placements' named exclusions — the “Cine seamănă culege” review blocks, the Recapitulare / sistematizare / evaluare sections, the “Să recapitulăm” summaries, the recap exercise sets and “Test sumativ” pages closing chapters, and the “Răspunsuri (și indicații)” answer keys — are stocked nowhere, except where a review section is a topic's only statement, which is then marked as such. Printed-page bases: Book 1 — printed page = PDF page; Book 2 — printed page = PDF page − 1; Book 3 — printed page = PDF page; Book 4 — printed page = PDF page; Book 5 — printed page = PDF page − 1. Into this lesson the placements stock 14 items (all from pupil textbooks) from Book 1, Book 2, Book 3, Book 4 and Book 5.
+
+**Book 1:** *Mathematics* (pupil textbook, Grade 1) — Moldova, Ludmila Ursu, Ilie Lupu, Iulia Iasinschi, Editura Prut Internațional, 2014 (re-edition approved by Ministerial Order nr. 674 din 9 august 2010), ISBN 978-9975-54-150-3; 28,813,891 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 2:** *Mathematics* (pupil textbook, Grade 2) — Moldova, Ministerul Educației al Republicii Moldova, Editura Prut Internațional, re-edition approved by Order nr. 544 din 8 iunie 2015; 24,017,939 bytes, 138 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+**Book 3:** *Matematică: Manual pentru clasa a 3-a* (pupil textbook, Grade 3) — Moldova, MECC; curriculum Order nr. 1124 din 20 iulie 2018; manual approved Order nr. 771 din 05 august 2020; 27,244,978 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 4:** *Matematică: Manual pentru clasa a 4-a* (pupil textbook, Grade 4) — Moldova, MECC; curriculum Order nr. 1124/2018; manual approved Order nr. 849 din 24 august 2020; 13,988,713 bytes, 136 PDF pp. Pages cited are the book's printed pages (printed page = PDF page).
+
+**Book 5:** *Matematică: Manual pentru clasa a 5-a* (pupil textbook, Grade 5) — Moldova, Ion Achiri, Andrei Braicov, Olga Șpuntenco, Ludmila Ursu, Editura Prut Internațional; curriculum Order nr. 906 din 17 iulie 2019; approved Order nr. 1219 din 06 noiembrie 2020; 5,236,397 bytes, 230 PDF pp. Pages cited are the book's printed pages (printed page = PDF page − 1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring mass: the kilogram | Moldova — *Mathematics* (pupil textbook), Grade 1, printed p. 90 |
+| Measuring capacity: the litre | Moldova — *Mathematics* (pupil textbook), Grade 1, printed p. 110 |
+| Measuring length: the centimetre and the metre | Moldova — *Mathematics* (pupil textbook), Grade 1, printed p. 118 |
+| Measuring length | Moldova — *Mathematics* (pupil textbook), Grade 2, printed p. 124 |
+| Measuring mass | Moldova — *Mathematics* (pupil textbook), Grade 2, printed p. 126 |
+| Measuring capacity | Moldova — *Mathematics* (pupil textbook), Grade 2, printed p. 127 |
+| Measuring length: the decimetre | Moldova — *Matematică: Manual pentru clasa a 3-a* (pupil textbook), Grade 3, printed p. 112 |
+| Converting length units | Moldova — *Matematică: Manual pentru clasa a 3-a* (pupil textbook), Grade 3, printed p. 114 |
+| Measuring mass; measuring capacity; measuring quantities | Moldova — *Matematică: Manual pentru clasa a 3-a* (pupil textbook), Grade 3, printed pp. 116–119 |
+| Converting units of measurement | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 24 |
+| Units of measurement for length | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed p. 83 |
+| Units of measurement for mass; for capacity | Moldova — *Matematică: Manual pentru clasa a 4-a* (pupil textbook), Grade 4, printed pp. 94–96 |
+| Units of measurement for length | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 190 |
+| Units of measurement for mass | Moldova — *Matematică: Manual pentru clasa a 5-a* (pupil textbook), Grade 5, printed p. 203 |
+
+Moldova is added to the countries line and to the acceptance count above on its pupil-textbook rows — all twelve books in its set are pupil textbooks and there are no teacher-evidence rows. Moldova's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 12) has been read and stocked.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/moldova-placements.md.
