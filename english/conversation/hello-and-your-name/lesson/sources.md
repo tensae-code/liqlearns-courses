@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Canada
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Canada, El Salvador
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -1093,3 +1093,18 @@ The 2026-11-10 expansion read read Canada's in-hand English set from the PDFs �
 Canada enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Canada's in-hand set is teacher resource guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/canada-placements.md.
+
+## El Salvador added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read El Salvador's in-hand English set from the PDFs — **2 teacher study programmes, 0 student books**: the *English Syllabus, Third Cycle of Basic Education* (MINED 2008; ISBN 978-99923-58-62-7; 60 pp.), the teacher study programme for **Grades 7, 8 and 9** (Tercer Ciclo, filed in the records under Grade 9 only), and the *English Syllabus, Tenth and Eleventh Grades, High School* (MINED 2008; ISBN 978-99923-58-61-0; 40 pp.), the teacher study programme for **Grades 10 and 11** (Educación Media, filed in the records under Grade 10 only) — 144 teaching items placed. Both books are MINED's official unit-by-unit syllabi — objectives, conceptual, procedural and attitudinal contents and numbered achievement indicators, written in English; neither contains pupil exercises, readings or stories. Both were grabbed from the private textbooks repo via the authenticated GitHub contents route and verified against their records (Third Cycle: 2,190,866 bytes, 60 pages, SHA-256 e7f690c59fb740cef1448e381920509e2ef5ae09a61fea0fe81804e96e2d8eb3; Tenth and Eleventh Grades: 1,754,400 bytes, 40 pages, SHA-256 403d5c17567cd8cbaa0b77039dfaaeee1bbb02fc1f923128162cd42d9fc4f545); printed page = PDF page in both books. Both were read in full, page by page, via their text layers — no reduced depth. Every El Salvador item in this section is PROGRAMME EVIDENCE of what El Salvador's English syllabus teaches: El Salvador has no student English book in hand, and no row below is pupil-book evidence; a study programme never substitutes for a pupil's book. The rows below are stocked from the expansion placements (el-salvador-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Syllabus, Third Cycle of Basic Education* (TEACHER/PROGRAMME EVIDENCE ONLY: MINED's official study programme — a syllabus of objectives, contents and achievement indicators, cited for what it teaches, never as a pupil's book) — El Salvador, Ministerio de Educación (MINED), 2008, ISBN 978-99923-58-62-7, 60 pp, the teacher study programme for Grades 7, 8 and 9 (Tercer Ciclo), filed in the records under Grade 9 only. Printed page = PDF page; pages cited are printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introductions, simple greetings and courtesy expressions (please, thank you, sorry, pardon me; hi/hello, good morning/afternoon, bye, see you later) and producing short introduction dialogues (Grade 7, Unit 1 “Nice to meet you”, placement 1) | El Salvador — English Syllabus, Third Cycle of Basic Education (MINED 2008) — programme evidence, printed pp.20–21 |
+| Formal and informal introductions, greetings and leave-takings, with titles (Mr., Miss, Mrs., Ms.) and nicknames (Grade 8, Unit 1, placement 39) | El Salvador — English Syllabus, Third Cycle of Basic Education (MINED 2008) — programme evidence, printed pp.33–34 |
+
+El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
