@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ cited once.
 | Reading: a magazine article on the importance of breakfast — skimming and scanning | Mongolia, English XII, Unit 8, printed p.137 |
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
-**Acceptance count: taught in 17 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia, Laos, Jordan).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -277,3 +277,14 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life Skills: “How to identify fake news” — the reading-strategy half of the point | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.58–59 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

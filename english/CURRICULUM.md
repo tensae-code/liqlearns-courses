@@ -1986,3 +1986,71 @@ stocked, and the G2 row's disposition stays the owner's
 call. **Kazakhstan: 34 of 34 files re-read.** The English
 course now stands at **264 lessons across 44 units**.
 
+Stocked by Jordan (2026-11-11, the re-verification
+sweep merge): 404 fresh items placed from Jordan's
+64 files (59 distinct books) — 146 already in course,
+249 stocked into 87 lessons as 307 provenance rows,
+9 excluded as conservative unadjudicated remainders
+(counted missing by the diff's per-book script counts
+for Grades 4 S2, 5 S1, 5 S2, 6 S1, 10 S1, 10 S2,
+11 S1, 11 S2 and 12 S1, but never itemised with a
+point or a page, so nothing could be stocked from
+them). No new lessons were needed — every item mapped
+to an existing lesson. Read depth is the sweep's
+declared one: contents / scope-and-sequence tables
+with spot checks, not line-by-line; Jordan's
+writing-genre stocking from 2026-11-03 therefore
+stands as filed, unitemised by this sweep. Teacher's
+books are teacher evidence only; workbook exercises
+that only mirror the student's book are not counted.
+Flag 1 of the diff is FIXED in the course: reported
+speech and reporting verbs were credited to a Grade
+12 Semester 1 Unit 7 "Is it fair?" that does not
+exist — "Is it fair?" is Grade 11, Semester 2, Unit 7
+(reported speech printed pp.16–17, reporting verbs
+p.18) — and the row and its book entry in
+sentence/reported-statements are corrected. Flags 2–3
+are record-side (reported, not edited here): the
+staging file named as the G1 "student term-1" book is
+title-page-proven the Semester 2 Pupil's Book (ISBN
+978-9923-41-727-0 — G1 is complete), and the G7 files
+named "term-2" are title-page-proven Semester 1
+(SB ISBN 978-9923-41-917-5) — the G7 Semester 2 trio
+and the G8 Semester 2 set (SB, WB, both TGs) are
+still owed library-side; and the held G11 Workbook
+Semester 1 is the 2025 2nd edition while the held
+Student's Book is the 2024 1st edition (no workbook
+rows were stocked in this merge, so no course edit
+follows). Flag 4 (the filing's G12 ceiling framing)
+is filing-side; the course-side understatement it
+named is fixed by stocking the basic reported-speech
+items at G7 S1 and G10 S2. Flag 5's partial-stock
+traps are fixed by stocking the carried word sets
+(G4 countries/nationalities sets; G5's twelve shop
+names). Book errors carried: the G3 Pupil's Book S1
+festival numbering skips F2 (the original edition's
+Calgary Stampede festival was removed in the Jordan
+adaptation — the stocked Independence Day reading is
+its F3); the G11 Workbook 2nd edition's contents
+prints Unit 4's Revision pages as "26–27" where its
+own sequence requires 34–35; several files carry the
+publisher's red "copy under preparation and checking"
+proof watermark, so wording-level details are
+pre-final. Jordan joins story/the-big-reading as a
+distinction country only (acceptance 26 → 27): every
+stocked row is a lesson-length reading, no complete
+book-length text. Slug remaps against the placements'
+older targets: classroom/school-bag objects and the
+G8 classroom objects to word/school-and-classroom-things
+and word/school-subjects; toy words to
+word/toys-and-games; space words to
+word/space-and-astronomy-words; material words to
+word/what-things-are-made-of; celebration words to
+word/festivals-and-cultural-events; the G8
+pronunciation of plural -s to
+phonics/stress-and-intonation. The 162 MB file once
+circulated as "Jordan G8" (proven the UAE Glencoe
+adaptation) carries nothing in this merge. **Jordan:
+64 files, 59 distinct books re-read.** The English
+course now stands at **264 lessons across 44 units**.
+

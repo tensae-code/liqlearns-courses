@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -100,8 +100,7 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 17 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
-Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos).** Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 18 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia, Laos, Jordan).** Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -326,3 +325,17 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-051-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| School subjects — Arabic, Art, Digital Skills, English, Islamic Studies, Maths, PE, Science, Social Studies | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+| School words and school subjects (Unit 4 set; the unit's classroom objects are stocked with them) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 4, printed pp.36–39 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

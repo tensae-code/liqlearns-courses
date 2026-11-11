@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Akelius A2 Teacher's Guide (guide for the
@@ -143,7 +143,7 @@ verification sweep.
 | Weather words: cloudy, windy, rainy, sunny | Pakistan, *English Nursery*, printed p.8 |
 | The seasons: spring, summer, autumn, winter | Pakistan, *English Nursery*, printed p.9 |
 
-**Acceptance count: taught in 25 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
+**Acceptance count: taught in 26 countries (Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 9 weather lesson and its Grade 12 weather phrases (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the seasons set and chant, the weather sentences and the British-weather culture spot, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with weather sets from its Grade 1 and Grade 2 workpacks and its Grade 4 pupil's book (stocked 2026-11-10 by the Greece re-verification sweep merge). India adds the Class 1 "Clouds" poem and Class 8's monsoon-diary weather words (stocked 2026-11-09 by the India re-verification sweep merge). Albania —
 guide evidence only, for a platform course with no pupil's
 book — carries the temperature set, the four seasons under
 the name fall for autumn, and the colder-than-yesterday
@@ -409,3 +409,21 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-23-7. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weather words — cloudy, cold, foggy, hot, rainy, snowy, stormy, sunny, windy | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 7, printed p.24 |
+| “What's the weather like? It's cloudy” | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 7, printed p.24 |
+| Extreme-weather words — hurricane, tornado, thunder and lightning, gale, heatwave, drought, forest fire, volcano, tsunami, flood, avalanche, snowstorm | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 4, printed p.42 |
+| Weather-related words (Unit 2 set) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 2, printed pp.20–23 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Gerunds and infinitives
 
-countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan
+countries: Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -168,7 +168,7 @@ verification sweep.
 | Gerunds, infinitives and participles in the older Grade 9 book's grammar system | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 | Gerunds and participles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 26 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
+**Acceptance count: taught in 27 countries (Cambodia, Egypt, Malaysia, Mongolia, Sudan, Vietnam, Bolivia, China, Iran, Mauritania, Mexico, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Laos, Kazakhstan, Jordan).** Yemen joins with verb + infinitive or -ing patterns in its Grade 12 Language review 5 (a sub-point the sweep named inside stocked items) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's like + -ing grammar point (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced gerund lesson and the Beginners likes-and-dislikes lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with to-infinitives after verbs in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with gerunds and infinitives taught in the Writing work of its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia
 works gerund patterns at Grade 9 with the forget
 contrast already inside it, and states the
 meaning-change class outright at Grade 10. Egypt gives
@@ -438,3 +438,23 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-741-6. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Infinitive of purpose — “He went to the supermarket to buy fruit” | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 6, printed p.18 |
+| Verb patterns — verb + -ing / infinitive patterns (Unit 2) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 2, printed p.20 |
+| Gerunds and infinitives, and verbs taking gerund or infinitive (Unit 5) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 5, printed pp.56–61 |
+| Gerunds and infinitives — the advanced treatment (Unit 10) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 10, printed pp.50–51 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

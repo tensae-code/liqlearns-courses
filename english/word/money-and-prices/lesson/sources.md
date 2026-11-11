@@ -1,6 +1,6 @@
 # Sources — Money and prices
 
-countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos
+countries: Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -78,7 +78,7 @@ covers the 6th Year book only).
 | "How much is it? / How much does it cost?" | Nicaragua, Secondary English, Grade 8 Student's Book, Lessons 20–21, printed pp.92–99 |
 | Paychecks and pay words | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 2 |
 
-**Acceptance count: taught in 18 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
+**Acceptance count: taught in 19 countries (Cambodia, Uzbekistan, Sudan, China, Indonesia, Mauritania, Greece, Nicaragua, Rwanda, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Jordan).** Malaysia joins with money and spending questions, the Green Box Project savings reading, and its Form 5 money readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 3's cost-of-clothes prices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced world-customs and currency lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia carries the asking — the
 hundreds-to-thousands price ladder and both question shapes
 over real market stalls, priced in riels; Uzbekistan
 carries the set at two heights — the market price questions
@@ -289,3 +289,20 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Money words — money, save, purse, spend, wallet, buy, birthday money, sell; pay/payment | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 4, printed p.42 |
+| Money, payment, trading and banking words (Unit 8 set) | Jordan, High Note Grade 10, Student's Book, Semester 2, Unit 8, printed pp.26–33 |
+| Economics and shopping words (Unit 3 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 3, printed pp.26–34 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

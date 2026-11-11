@@ -1,6 +1,6 @@
 # Sources — Word relationships
 
-countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia
+countries: Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan
 
 Every part traces to its book and page.
 
@@ -176,9 +176,7 @@ verification sweep.
 | Word patterns; figurative language, word relationships, and nuances in word meanings | Pakistan, *English 12*, Unit 4, printed p.30 |
 | Antonyms and synonyms as the unit's vocabulary-and-grammar work | Pakistan, *English 12*, Unit 12, printed p.95 |
 
-**Acceptance count: taught in 23 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran,
-Mauritania, Mexico, India, Greece, Mongolia, Nicaragua,
-Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia).** Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
+**Acceptance count: taught in 24 countries (Barbados, Tanzania, South Africa, Vietnam, China, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Jordan).** Malaysia joins with its homophones and Full Blast Plus 4's easily-confused words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with opposite adjectives, adjective-and-noun matching and learning words in sets (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 5's defining work inside its mammals text (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the two Grade 8 Think Teen! glossaries, with definitions, synonyms, antonyms and derived forms (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with rhyming pairs and opposites in Class 3, homophones and many-meaning words in Classes 7–12, and synonyms worked across the senior books (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with synonyms and antonyms taught as Vocabulary Development in its Grade 11 book, beside the opening lesson's conversation and word set (stocked 2026-11-09 by the re-verification sweep merge). Barbados names all four
 relationships in its primary syllabi. Tanzania's evidence
 rests on ONE primary reader — Reading (English), Standard
 One, Pupil's Book Two — read in full; the other recorded
@@ -459,3 +457,19 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Words easily confused (Module 1 vocabulary set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 1 (contents) |
 
 Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives and their opposites — the opposites half of the Unit 2 set | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 2, printed p.20 |
+| Synonyms study (the Unit 8 technology unit's word study) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 8, printed pp.30–33 |
+| Easily-confused-words study (Unit 10 set) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 10, printed pp.51–54 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

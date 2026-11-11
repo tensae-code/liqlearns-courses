@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Year 2 English (the compendium's Year 2 covers Grade 8) — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “student's book” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -150,8 +150,7 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 21 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan).** Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 22 countries (Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Egypt, Malaysia, Kazakhstan, Jordan).** Malaysia joins with its online-safety reading and the Form books' technology word sets (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with modern communications, computers, telecommunications, science and the police, and the internal combustion engine (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -457,3 +456,27 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-053-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Technology words — computer, email, smartwatch, keyboard, letter, mouse, telephone, tablet, mobile phone | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Device words — app, device, digital camera, e-reader, headphones, laptop, password, printer, screen, smartphone, speaker, website | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Technology action phrases — click on an icon, download an app, go online, press a button, search the internet, send a message, take a selfie, turn off/on, type a password, upload a photo, watch a video | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Scientific-research words, science words and phrases with think and mind | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 2, printed pp.14–15 |
+| Communicating words (the Unit 6 phone-etiquette set) | Jordan, High Note Grade 10, Student's Book, Semester 2, Unit 6, printed pp.4–9 |
+| Internet-of-Things words, technology words and the virtual-reality set | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 8, printed pp.30–33 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan
 
 Every part traces to its book and page.
 
@@ -57,8 +57,7 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 10 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan,
-Palestine, Sudan, Yemen, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
+**Acceptance count: taught in 11 countries (Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine, Sudan, Yemen, Egypt, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with reported requests in its Grade 10 telephone messages (stocked 2026-11-11 by the re-verification sweep merge). Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -125,3 +124,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported commands — the commands half of the Unit 4 reported-speech point | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 4, printed p.42 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

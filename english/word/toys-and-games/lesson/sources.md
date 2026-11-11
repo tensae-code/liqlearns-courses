@@ -1,6 +1,6 @@
 # Sources — Toys and Games
 
-countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos
+countries: Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Toy words, with plurals of the sweet words (lollipops, jelly beans — the book prints "jelly vean" at printed p.33, an error in the book, taught corrected) | Nicaragua, Activity Book 3 (Grade 3), Unit 5, printed pp.28–35 |
 | Presents/toys word set with the indefinite article — a ball, a CD, a doll, a teddy, a car, a radio | North Macedonia — EXTRA and Friends 2, Pupil's Book, Grade 2, Module 1, Lesson 3, printed p.6 |
 
-**Acceptance count: taught in 6 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos).** North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
+**Acceptance count: taught in 7 countries (Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan).** North Macedonia joins with the presents-and-toys set from its Grade 2 pupil's book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's toys flashcards and class survey (stocked 2026-11-10 by the Greece re-verification sweep merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Indonesia's books page by page and found the toys chapter with no lesson of its own; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). The same chapter's toy described by shape and colour is stocked in Describing People, and its borrowing ask also stocks Asking Politely — cited once per lesson for what each lesson teaches. Other countries' toy teaching joins as their sweep merges land.
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -62,3 +62,17 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 1: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the National Center for Curriculum Development (NCCD), 2nd ed. 2025, ISBN 978-9923-41-908-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-046-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Toy words — ball, car, doll, plane, robot, teddy, train, yoyo | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 4, printed p.30 |
+| Toy words, inside and outside sets — action figure, building set, dinosaur, puzzle; ball, bike, kite, scooter, slide, swing | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

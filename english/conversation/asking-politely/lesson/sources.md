@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -89,7 +89,7 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 22 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
+**Acceptance count: taught in 23 countries (Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Jordan).** Yemen joins with requests with some, offers of help, polite requests on a plane and a polite airport interview from its Grades 7, 8, 10 and 11 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 permission exchange (stocked 2026-11-11 by the re-verification sweep merge). Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -338,3 +338,15 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-046-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking permission politely — “Can I play with it, please?” | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+| Borrowing politely — “Can I borrow it, please? Yes. Here you are” | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 2, printed p.16 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

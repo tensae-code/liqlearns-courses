@@ -1,6 +1,6 @@
 # Sources — The past perfect
 
-countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa
+countries: Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan
 
 Every part traces to its book and page.
 
@@ -105,7 +105,7 @@ verification sweep.
 | The past perfect and the past perfect continuous together in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | The past perfect (with the past perfect continuous) as a named strand of the population unit | Pakistan, *English X*, Unit 11 (contents) |
 
-**Acceptance count: taught in 22 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 23 countries (Egypt, China, Nepal, Malaysia, Kuwait, Sudan, Uzbekistan, Yemen, Bolivia, Iran, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Jordan).** Greece joins with the Grade 6 'An Earth Day Story' past-perfect lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the past perfect as the "earlier past" in Class 8 and noticed in Classes 11 and 12 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the past perfect in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge).
 Mauritania teaches the past perfect in its Grade 11 book, over
 a pollution dialogue (stocked 2026-11-09 by the Mauritania re-
 verification sweep merge). Mexico's Grade 9 book teaches the past perfect as its own named tense, inside the Indigenous-legacy adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its Grade 10 past perfect simple (stocked 2026-11-11 by the re-verification sweep merge).
@@ -225,3 +225,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Narrative tenses combined — the past-perfect strand of the Unit 3 survey | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 3, printed pp.26–27 |
+| Narrative tenses — the past-perfect strand of the Unit 4 survey | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 4, printed pp.42–43 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

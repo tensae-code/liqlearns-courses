@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Teacher Compendium, Years 1–6 (reproducing
@@ -127,7 +127,7 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 17 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia, Kazakhstan, Jordan).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -297,3 +297,28 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phrasal verbs (Unit 1 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, printed p.11 |
+| Phrasal verbs (Unit 3 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 3 |
+| Phrasal verbs (Unit 1 set) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 1 |
+| Phrasal verbs related to studying (Unit 5) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed p.53 |
+| Phrasal verbs set (Unit 6) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 6, printed pp.4–10 |
+| Phrasal nouns (Unit 2) — nouns built from phrasal verbs, stocked with the phrasal-verb family | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 2, printed p.23 |
+| Phrasal verbs with come/hold/set/take (Unit 8 set) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 8, printed pp.26–35 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

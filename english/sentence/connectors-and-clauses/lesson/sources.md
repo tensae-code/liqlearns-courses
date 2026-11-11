@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -162,7 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 24 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos).** Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 25 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Jordan).** Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -521,3 +521,17 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Joining clauses with before/after/when — “When Jameela gets home, she plays with her cat” | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Welcome, printed p.4 |
+| Cause-and-effect phrases (Unit 2) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 2, printed p.18 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

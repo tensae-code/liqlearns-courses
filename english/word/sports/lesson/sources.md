@@ -1,6 +1,6 @@
 # Sources — Sports
 
-countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
+countries: Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** *Uérakua anapu uantakua. Projects and
@@ -137,7 +137,7 @@ verification sweep.
 | Sports Day: local sports (with syllables) | Pakistan, *English 2*, Unit 7, printed p.62 area |
 | I Like to Play: games (with consonant cluster sounds) | Pakistan, *English 3*, Unit 7 (contents) |
 
-**Acceptance count: taught in 26 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
+**Acceptance count: taught in 27 countries (Albania, Cambodia, Mexico, Mongolia, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan).** Malaysia joins with its Year 3 sports words (Scheme of Work) and Form 3's sports words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with leisure activities, sporting facts, the Olympic Games and an athlete's training (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 2 sports units, Primary 4's hobbies and Primary 6's famous sportspeople (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with sport and hobby lessons from its Grade 4 pupil's book and its Grade 2 workpack play set (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with a cricket wordsearch worked from clues in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Mexico carries the activity set inside its
 public-health project; Mongolia carries the system — the
 action verbs, the sportspeople, the compound names and
 the play/do/go discovery this lesson is built on;
@@ -468,3 +468,29 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 3: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-911-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-051-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-26-8. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-053-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity and sport verbs — watch TV, play table tennis, read books, play badminton, play video games, play tennis, play basketball, roller skate, skateboard, do karate | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 3, printed p.24 |
+| Hobby words — canoeing, going shopping, playing basketball/football/table tennis/tennis, reading, swimming | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, Welcome, printed p.4 |
+| Free-time activity words — build a robot, dress up, go fishing, go sailing, go windsurfing, kick, knit, play board games, play chess, play computer games, sew, skip | Jordan — Team Together Grade 4 Pupil's Book, Semester 2, Unit 5, printed p.8 |
+| Sports words — do archery/athletics/gymnastics, go cycling/ice skating/scooting/skiing/snowboarding, play badminton/hockey/table tennis/volleyball | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+| Sports collocations and sports/activity/fitness words | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 3, printed pp.26–28 |
+| Sporting-success and motivation words (Unit 5 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 5, printed pp.48–59 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

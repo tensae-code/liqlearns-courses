@@ -1,6 +1,6 @@
 # Sources — What Things Are Made Of
 
-countries: Mongolia, Laos
+countries: Mongolia, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | The unit's building-materials set the material words stand on — bricks, concrete, granite (with the parts of a building: roof, basement, balcony, column, window pane) | Mongolia, English XI, Unit 4, printed p.57 (the same set is stocked in the-home, which carries the unit's parts-of-a-building teaching) |
 | The lesson's further examples (a stone wall, a glass window, a metal key and door; asking "What is it made of?") | The course's own workings on the book's stocked frame and material set — no sentence is quoted from the books |
 
-**Acceptance count: taught in 2 countries (Mongolia, Laos).**
+**Acceptance count: taught in 3 countries (Mongolia, Laos, Jordan).**
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Mongolia's English books. The sweep
@@ -43,3 +43,14 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-741-6. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Material words — cotton, gold, leather, metal, paper, plastic, rubber, silver | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 8, printed p.42 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

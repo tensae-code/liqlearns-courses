@@ -1,6 +1,6 @@
 # Sources — Relative clauses
 
-countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan
+countries: Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 9 (student's book) — Cambodia,
@@ -191,9 +191,7 @@ re-verification sweep.
 | Relative clauses with where and when | Mongolia, English XII, Unit 4, printed pp.71–72 |
 | Relative clauses with that after superlatives and indefinite words | Mongolia, English XII, Unit 4, printed p.74 |
 
-**Acceptance count: taught in 22 countries (Cambodia,
-Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa,
-Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
+**Acceptance count: taught in 23 countries (Cambodia, Egypt, Kuwait, Mongolia, Nepal, Pakistan, South Africa, Sudan, Vietnam, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Kazakhstan, Jordan).** Yemen joins with defining relative clauses with who in its Grade 9 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Fancy ancient history?' relative-clauses lesson, its workbook texts and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with relative pronouns as fill-in choices in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with relative clauses as its Grade 12 grammar, with workbook practice (stocked 2026-11-09 by the re-verification sweep merge). Indonesia teaches adjective clauses in its Grade 11 fairy-tale unit (stocked 2026-11-09 by the re-verification sweep merge). Cambodia names the defining system
 outright at Grade 9 and lists the five pronouns again in
 Grade 12's space unit. Egypt states the definition and
 the whole six-word family in one Tip. Mongolia builds
@@ -380,3 +378,26 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-053-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative clauses with who/where — “It's the man who we saw earlier; the shop where my brother works” | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 4, printed p.42 |
+| Relative pronouns who/where/when/that — “He's the doctor Arlo saw…; a place where you can watch sports; the time when you went to hospital” | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, Unit 3, printed p.32 |
+| Relative clauses (Unit 4 treatment) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 4, printed pp.38–39 |
+| Relative clauses — the relative half of the Unit 3 relative-and-participle treatment | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 3, printed pp.30–31 |
+| Relative clauses and prepositional relative phrases (Unit 7 treatment) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 7, printed pp.18–19 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

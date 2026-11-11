@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10 (student's book) — Cambodia,
@@ -165,7 +165,7 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 26 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with Full Blast Plus 4's personality adjectives and appearance expressions (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 27 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan).** Malaysia joins with Full Blast Plus 4's personality adjectives and appearance expressions (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -536,3 +536,27 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Appearance words — curly/long/straight/short/dark/fair hair, beard, moustache | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Welcome, printed p.4 |
+| Personality and appearance words (Unit 5 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 5, printed pp.48–55 |
+| Appearance words and verb phrases with dress (Unit 1 set) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 1, printed pp.4–10 |
+| Personality adjectives (Unit 5 set) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed pp.48–51 |
+| Behaviour phrases, life-event words and personal-quality words | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 3, printed pp.32–36 |
+| Personality adjectives, compound adjectives and verbs for thinking/understanding (Unit 1 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 1, printed pp.4–10 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

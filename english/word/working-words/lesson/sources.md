@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
 sector English, and it is counted and flagged as such.
@@ -110,7 +110,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 15 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan).** Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 16 countries (Greece, Bolivia, China, India, Nicaragua, Palestine, Rwanda, Sierra Leone, Sudan, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan).** Malaysia joins with Form 5's aid-organisation and voluntary-work readings (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with classroom objects, the Umuganda community-work reading, and the Primary 5 crafts and agriculture units (stocked 2026-11-11 by the re-verification sweep merge). India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -444,3 +444,17 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Business words and synonyms for persuade (Unit 3 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 3, printed pp.26–34 |
+| Career-dream collocations, leader-quality words and working-life idioms (Unit 10 set) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 10, printed pp.48–55 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

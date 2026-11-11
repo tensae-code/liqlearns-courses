@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 4 (student's book) — Cambodia,
@@ -178,7 +178,7 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 25 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 26 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan).** Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -504,3 +504,34 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 3: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-911-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-051-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-29-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Job words — teacher, doctor, nurse, firefighter, astronaut, pilot, police officer, builder, chef, artist | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 4, printed p.32 |
+| Ambitions — “I want to be a pilot”, and going to work by bus | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 4, printed p.32 |
+| Job words expanded — bus driver, carpenter, chef, farmer, mechanic, scientist, vet, waiter/waitress | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, Unit 4, printed p.38 |
+| Entertainment-job words — animator, camera operator, clown, comedian, costume designer, make-up artist, performer, presenter, puppeteer, sound editor, stunt performer, writer | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 7, printed p.32 |
+| Job words — hairdresser, manager, dentist, computer programmer, inventor, architect, novelist, graphic designer, politician, diver, professional footballer, journalist | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Life-event phrases — start a business, find a job, be born, get a degree, retire, get married, go to school, have children, go to university, grow up, move house, go backpacking | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Job words (Unit 3 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 3, printed pp.32–33 |
+| Work and job words (Unit 5 set) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed pp.54–55 |
+| Social-work and education words (Unit 5 set) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 5, printed pp.56–68 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

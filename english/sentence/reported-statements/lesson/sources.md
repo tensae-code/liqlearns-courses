@@ -62,8 +62,8 @@ PASSED 2026-11-04).
 Filed in english/books/armenia.md (FULLY READ +
 CITATION CHECK PASSED 2026-11-03).
 
-**Book 11:** Jordan High Note, Grade 12, Student's Book,
-Semester 1 — Jordan, National Center for Curriculum
+**Book 11:** Jordan High Note, Grade 11, Student's Book,
+Semester 2 — Jordan, National Center for Curriculum
 Development (NCCD), Amman. Filed in
 english/books/jordan.md (FULLY READ + CITATION CHECK
 PASSED 2026-11-03).
@@ -150,7 +150,7 @@ verification sweep.
 | Reported speech — statements: tense backshift, pronoun and time-expression changes, say vs tell (taught in full in the unit, with questions, commands and requests) | Malaysia, Form 3 Close-Up B1, Unit 10, pp.121–132 |
 | Reported speech for statements, questions, commands and requests (Grammar 1, p.125) and reporting verbs with their patterns (Grammar 2, p.127) | Malaysia, Form 5 KPM textbook, Unit 10, Grammar 1–2, pp.125–127 |
 | Grammar Spot: Sequence of Tenses (agreement of tenses), worked on a passage from Wilde's The Canterville Ghost — the heading as verified at printed p.106 | Armenia, English 10, Unit 4, Grammar Spot, printed p.106 |
-| Reported speech (1A, pp.16–17) and reporting verbs as the unit's second grammar pass (5A, p.22) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 7 "Is it fair?", pp.16–25 |
+| Reported speech (pp.16–17) and reporting verbs (p.18) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 7 "Is it fair?", pp.16–18 |
 | Reporting verbs and verb patterns, and impersonal reporting structures (It is said/believed that… and passive reporting patterns), with the Grammar Reference entry | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 6, pp.8–9; Grammar Reference, p.69 |
 | Reported speech introduced in a Look box (direct words beside "He said he wanted…"), then reporting with says for standing content ("Samira says her ambition is to expand") and further reported-speech practice | Sudan, SMILE Book 9 (Grade 9 Pupil's Book), Unit 5, Lesson 5, printed p.37; Unit 6, Lessons 4 and 7, printed pp.44 and 47 |
 | Reported speech (statements, with backshift practised by converting the bank-manager text); the grammar reference (pp.65–70) gathers tense, pronoun, time and place changes and other reporting verbs for the year | Kuwait, Over to You Student's Book 10B, Unit 9, pp.21–26; Reference files, pp.65–70 |
@@ -386,3 +386,19 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan was already counted in this lesson; the rows below complete its stock from the books the earlier merge never reached.
+Flag fix (2026-11-11): the row above that cited reported speech and reporting verbs to “Grade 12, Semester 1, Unit 7 'Is it fair?'” is corrected — “Is it fair?” is Grade 11, Semester 2, Unit 7 (reported speech printed pp.16–17, reporting verbs p.18), and the Book 11 entry above is corrected to that book. The basic reported-speech teachings at Grade 7 Semester 1 and Grade 10 Semester 2, which had no Jordan rows here, are stocked below.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reported speech — “They said that they enjoyed reading” | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 3, printed p.32 |
+| Reported speech (Unit 7 treatment) | Jordan, High Note Grade 10, Student's Book, Semester 2, Unit 7, printed pp.16–17 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

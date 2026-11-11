@@ -1,6 +1,6 @@
 # Sources — Compound words
 
-countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan
+countries: Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** SMILE Book 7 — Pupil's Book (Grade 7) — Sudan,
@@ -78,7 +78,7 @@ the 2026-11-08 re-verification sweep.
 | Compound words — with homophones (whether/weather, scene/seen, herd/heard, hare/hair, they're/there/their) — in the opening unit | Pakistan, *English 6*, Unit 1, printed pp.1–13 |
 | Compound words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 18 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
+**Acceptance count: taught in 19 countries (Albania, Barbados, Mongolia, Sudan, Vietnam, China, India, Greece, Pakistan, Palestine, Sierra Leone, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia, Kazakhstan, Jordan).** Malaysia joins with Full Blast Plus 4's compound nouns (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with compound job names and compounds as new-word making in its Grade 12 book (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 'The bravest student' compound-nouns lesson and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with compound words made in Classes 3 and 4 and Class 11's note-work on adjectival collocations (stocked 2026-11-09 by the India re-verification sweep merge). Sudan carries the
 teaching at both ends of school — the Grade 7 time lesson's
 worked examples (football, hourglass, sundial) and SPINE
 6's sorting at Grade 12; Vietnam carries the grammar
@@ -235,3 +235,18 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Compound nouns — with stress in compound nouns (Unit 2) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 2, printed p.19 |
+| Compound adjectives — the compound half of the Unit 1 personality set | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 1, printed pp.4–10 |
+| Compound nouns (Unit 3 set) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 3, printed pp.26–34 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

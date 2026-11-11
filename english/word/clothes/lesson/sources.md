@@ -1,6 +1,6 @@
 # Sources — Clothes
 
-countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan
+countries: Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Compendio para Maestras y Maestros — Textos de
@@ -79,7 +79,7 @@ verification sweep.
 | Project frame "My favourite clothes are: my yellow T-shirt and my blue trousers." | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 4, Lesson 6, pupil printed p.32 |
 | Clothes materials: "It is made of wool. / It is made of cotton. Cotton or wool?" — wool set (scarf, socks, jumper, cap) and cotton set (jeans, shirt, dress, skirt, T-shirt) (Activity Book "Going for CLIL" 4, Art & Design; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 4 key and instructions, Teacher's Book pp.128(T)–129(T) |
 
-**Acceptance count: taught in 18 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
+**Acceptance count: taught in 19 countries (Bolivia, Cambodia, Mongolia, China, India, Greece, Nicaragua, North Macedonia, Palestine, Rwanda, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 clothes set and its Grade 9 appearance-and-clothing lesson (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 clothes set with its wearing sentences and Primary 3's clothes units (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the two clothes sets, the super-clothes song, the kilts culture spot, the favourite-clothes frame and the wool/cotton materials lesson, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's clothes spot-and-match sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 bath unit's clothes words matched to pictures (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the set as typical regional
 clothes, colours riding with them; Cambodia carries the
 wearing contrast — usually wear against wearing today —
 as its unit's whole point (its filing headlines the unit
@@ -277,3 +277,35 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 1: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-727-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging file is mis-named “term-1”; the book's own title page says Semester 2.)
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-23-7. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 3: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-911-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-29-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Clothes words — boots, dress, jacket, jeans, jumper, skirt, socks, T-shirt | Jordan — Team Together Grade 1 Pupil's Book, Semester 2, Unit 6, printed p.14 |
+| “I'm wearing …” — the clothes half of the wearing point | Jordan — Team Together Grade 1 Pupil's Book, Semester 2, Unit 6, printed p.14 |
+| Clothes expanded — coat, shoes, shorts, trousers | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 7, printed p.24 |
+| “I'm wearing a …” — the clothes half of the wearing point | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, Unit 7, printed p.24 |
+| Clothes expanded — dress, sandals, socks, hat, scarf, pyjamas, trainers, baseball cap, shirt | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, Unit 2, printed p.16 |
+| Describing clothes — baggy, casual, checked, colourful, comfortable, formal, patterned, plain, smart, spotted, striped, uncomfortable | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 5, printed p.8 |
+| Clothes and accessories expanded — belt, bracelet, crown, earrings, glasses, gloves, sweatshirt, tie, top, tracksuit, watch, woolly hat | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 5, printed p.8 |
+| Appearance and clothes words (Unit 5 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 5, printed pp.48–55 |
+| Appearance, clothes, footwear and accessory words (Unit 1 set) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 1, printed pp.4–10 |
+| Clothing-industry adjective–noun collocations and lifestyle/values words (the non-film parts of Unit 8) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 8, printed pp.26–35 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

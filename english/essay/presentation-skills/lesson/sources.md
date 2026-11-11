@@ -1,6 +1,6 @@
 # Sources — Presentation skills
 
-countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa
+countries: Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Ghana, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ verification sweep.
 | Reading: a presentation skills checklist (slides, delivery, body language) | Mongolia, English XII, Unit 2, printed pp.37–38 |
 | Useful language for presentations (ordering, adding, contrasting, concluding) | Mongolia, English XII, Unit 2, printed p.39 |
 
-**Acceptance count: taught in 15 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa).** Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
+**Acceptance count: taught in 16 countries (Syria, Indonesia, Bolivia, Cambodia, China, Mexico, India, Greece, Mongolia, Rwanda, Sierra Leone, South Sudan, Iraq, Vietnam, South Africa, Jordan).** Rwanda joins with Primary 5's working-in-groups passage and rules chart (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 4 'This is my school' project (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with how a debate works, as a teacher-note point in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Syria prints the
 eight-tip appendix; Indonesia stages the talk at Grade 8
 and prints the TRACT question routine in the Grade 12
 pupil's book itself; Bolivia lists five steps with
@@ -236,3 +236,22 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life Skills: “How to give a presentation” | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.24–25 |
+| Life Skills: “How to take part in a debate” — debating taught inside the presentation-skills family | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.46–47 |
+| Life Skills: “How to give a persuasive presentation” | Jordan, High Note Grade 11, Student's Book, Semester 1, printed pp.28–29 |
+| Life Skills: “How to be good at debating” | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.54–55 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

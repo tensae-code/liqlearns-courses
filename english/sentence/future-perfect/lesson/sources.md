@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan
 
 Every part traces to its book and page.
 
@@ -35,7 +35,7 @@ Every part traces to its book and page.
 | The future system, active and passive: future indefinite, continuous, perfect and perfect continuous, with the passive of the indefinite and the perfect — each tense its own section | Pakistan, *English Grammar & Composition 9–10*, printed pp.117–136 (sections at printed pp.117, 120, 123, 127; passive at pp.131, 134) |
 | The future perfect tense in the culture unit's grammar work (with sentence patterns, direct and indirect object, and phrases, clauses and sentences) | Pakistan, *English 7*, Unit 11, printed p.103 |
 
-**Acceptance count: taught in 9 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan).** Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with a single test-only appearance of the form — a future perfect item in its Grade 12 Activity Book's test pages, untaught in the Student's Book and stocked as test-only exposure, exactly as the sweep carries it (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: the *English Grammar & Composition 9–10* (Punjab Textbook Board, 2014) — one of the two Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep. It teaches the whole future system, active and passive, tense by tense — the future perfect stands at printed p.123 and its passive at p.134. *English 7* names the future perfect in its culture unit (Unit 11, printed p.103); it is filed in english/books/pakistan.md and was re-read in the same sweep.
 
@@ -65,3 +65,15 @@ The 2026-11-08 re-verification sweep re-read Iraq's 34 held English books (515 t
 | Lesson part | Where it comes from |
 |---|---|
 | A future perfect form surfacing as a test item — test-only exposure: the form is untaught in the Student's Book, and this row claims no teaching, exactly as the sweep carries it | Iraq — *English for Iraq*, Grade 12 Activity Book, Activity Book test pages |
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Future perfect (Unit 5, taught with the future continuous) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed p.50 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

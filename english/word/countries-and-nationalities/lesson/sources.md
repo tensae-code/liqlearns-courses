@@ -1,6 +1,6 @@
 # Sources — Countries and Nationalities
 
-countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan
+countries: Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** *Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria, Área Lengua Extranjera* (teacher compendium) — Bolivia, Ministerio de Educación, official document 2023. TEACHER-COMPILATION EVIDENCE ONLY — it reprints the 2023–2024 student texts for teachers; it is not a student's book. Filed in english/books/bolivia.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read from page renders in the 2026-11-08 re-verification sweep.
@@ -33,7 +33,7 @@ covers the 6th Year book only).
 | The nationalities table, with stressed syllables in nationality words | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 6, printed pp.24–29 |
 | Countries, nationalities and languages — "I love my country!" | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1A, printed p.2 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Iran, Mauritania, Greece, Mongolia, Nicaragua, Venezuela, Laos, Kazakhstan, Jordan).** Greece joins with the Grade 4 'My country' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge).
 Mauritania joins with its Grade 7 set — the Maghreb neighbours
 and England/Japan, with jobs words (stocked 2026-11-09 by the
 Mauritania re-verification sweep merge). Mongolia joins with English XI, its Grade 11 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
@@ -98,3 +98,14 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-051-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Countries and nationalities — Egypt, Jordan, Qatar, Spain, UK, UAE; British, Egyptian, Emirati, Jordanian, Qatari, Spanish, with “Where are you from? I'm from Jordan. I'm Jordanian” | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, Welcome, printed p.4 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

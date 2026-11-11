@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** English for Palestine, Grade 1 Part 1
@@ -116,7 +116,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 27 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan).** Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 28 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan).** Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -466,3 +466,20 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 1: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the National Center for Curriculum Development (NCCD), 2nd ed. 2025, ISBN 978-9923-41-908-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-046-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words — boy, brother, dad, friend, girl, mum, sister (and a pet cat) | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 1, printed p.6 |
+| Family words expanded — aunt, cousin, grandad, granny, uncle | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 4, printed p.32 |
+| Family and lookalike words (Unit 5 set) | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 5, printed pp.48–55 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Festivals and Cultural Events
 
-countries: Venezuela, Laos
+countries: Venezuela, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -10,7 +10,7 @@ Every part traces to its book and page.
 |---|---|
 | Festivals and cultural events — Christmas and New Year (wishes and compliments), Carnival (comparisons), Holy Week (past accounts), Mother's Day (describing), regional and local festivals (invitations and directions) | Venezuela, *My Victory* Teacher's Book 1 (Grade 7), Lesson 21, student printed pp.170–177 (guide plan printed p.130) |
 
-**Acceptance count: taught in 2 countries (Venezuela, Laos).**
+**Acceptance count: taught in 3 countries (Venezuela, Laos, Jordan).**
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Venezuela's English books: the sweep re-read the Grade 7 Teacher's Book page by page and found its festivals lesson (Lesson 21, "Let's celebrate!") stocked nowhere in the course. Venezuela's held set is five Teacher's Books only and no student's book is held, so this lesson stands on teacher's-book evidence. Other countries join as their books are read.
 
@@ -33,3 +33,14 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-26-8. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Celebration words — big wheel, bride, candle, costume, family gathering, funfair, groom, invitation, present, games, rollercoaster, wedding | Jordan — Team Together Grade 4 Pupil's Book, Semester 2, Unit 8, printed p.38 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

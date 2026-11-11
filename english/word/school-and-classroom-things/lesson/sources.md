@@ -1,6 +1,6 @@
 # Sources — School and Classroom Things
 
-countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos
+countries: China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -38,7 +38,7 @@ Every part traces to its book and page.
 | The school things word set — a schoolbag, a sharpener, a pen, a ruler, a book, a rubber, a pencil case, a pencil — with "What's this? — It's a pen!" | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 3, pupil printed p.23 |
 | Project frame "In my schoolbag there is …", listing a pen, a book, a pencil case | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 6, pupil printed p.25 |
 
-**Acceptance count: taught in 8 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos).** North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Palestine, Laos, Jordan).** North Macedonia joins with the school things set and the schoolbag project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's school-objects flashcards (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with classroom objects named in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the classroom-things set as a primary chapter's own vocabulary (Grade 3, Chapter 5) (stocked 2026-11-09 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of China's English books. The sweep
@@ -108,3 +108,17 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 1: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the National Center for Curriculum Development (NCCD), 2nd ed. 2025, ISBN 978-9923-41-908-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-046-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classroom and school-bag objects — bag, book, crayon, eraser, pen, pencil, pencil case, ruler | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, Unit 2, printed p.14 |
+| Classroom objects expanded — computer, cupboard, pencil sharpener, scissors, shelf, table | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, Unit 2, printed p.16 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

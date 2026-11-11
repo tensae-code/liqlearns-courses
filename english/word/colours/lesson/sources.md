@@ -1,6 +1,6 @@
 # Sources — Colours
 
-countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos
+countries: Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan
 
 Every part traces to its book and page.
 
@@ -74,7 +74,7 @@ verification sweep.
 | Colours and shapes as a named strand of the book's Language Focus | Pakistan, *English 1*, contents Language Focus column |
 | Colours and shapes as a named strand of the book's contents | Pakistan, *English 2*, contents |
 
-**Acceptance count: taught in 20 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
+**Acceptance count: taught in 21 countries (Palestine, Bolivia, Mongolia, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Rwanda, Sierra Leone, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 colours song (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 1 colour set and Primary 3's colours of clothes (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the colours chant, the Union Jack culture spot and the favourite-colour project frame, all as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's colour characters and rainbow sheet (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 poem "A Happy Child", whose colour questions work the first colour set (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with the colours check in its Grade 7 opening unit (stocked 2026-11-09 by the re-verification sweep merge). Indonesia carries the colour set as a primary chapter's key words (Grade 3) and repeats it as a Chapter 0 recap at Grades 7 and 9 (stocked 2026-11-09 by the re-verification sweep merge). Palestine carries the first six colours with the
 "What colour?" pattern and the colouring line that puts each
 colour on a vehicle; Bolivia carries clothes and colours as
 one taught pair in its typical-clothes topic (its filing
@@ -262,3 +262,14 @@ Laos is new to this lesson: the countries line and the acceptance count above we
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/laos-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 1: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the National Center for Curriculum Development (NCCD), 2nd ed. 2025, ISBN 978-9923-41-908-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Colours — the first colour word set (blue, green, orange, red, yellow, brown) | Jordan — Team Together Grade 1 Pupil's Book, Semester 1, printed p.4 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

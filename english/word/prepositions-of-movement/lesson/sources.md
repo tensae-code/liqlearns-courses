@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa, Malaysia
+countries: Albania, South Africa, Malaysia, Jordan
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 2 countries (Albania, South Africa).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Albania, South Africa, Jordan).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -73,3 +73,15 @@ The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English b
 | Prepositions of movement | Malaysia, Year 3 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 74, printed p.135 |
 
 Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.
+
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Verbs and their prepositions — the prepositions half of the Unit 1 set | Jordan, High Note Grade 8, Student's Book, Semester 1, Unit 1, printed pp.8–9 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

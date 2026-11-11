@@ -1,6 +1,6 @@
 # Sources — Question tags
 
-countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan
+countries: Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Ghana, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 12 (Student's Book) — the Term 2 half of the combined Secondary 12 file (no standalone Term 2 book exists; the 2026-11-08 re-verification sweep re-read it as PDF pp.156–286 of that file) — Egypt, Ministry of Education. Filed in
@@ -104,9 +104,7 @@ covers the 6th Year book only).
 | The ore-dressing processes unit — question tags; purpose clauses with so that; confirming statements (exercise texts practise leaching/smelting vocabulary) | Greece, Exploiting the Earth, Part B5, skills table pp.115–120 |
 | The metals unit — question tags; confirming information | Greece, Exploiting the Earth, Part B8, skills table pp.115–120 |
 
-**Acceptance count: taught in 17 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia,
-Venezuela, Bolivia, Iran, Greece, Palestine,
-Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
+**Acceptance count: taught in 18 countries (Egypt, Mauritania, Cambodia, Kuwait, Nepal, Mongolia, Venezuela, Bolivia, Iran, Greece, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Kazakhstan, Jordan).** Yemen joins with question tags in a Grade 11 holiday conversation and in its Grade 11 review (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Beginners question-tags lesson, its workbook unit and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). Iran joins with tag questions in talk in its Grade 12 book (stocked 2026-11-09 by the re-verification sweep merge). Egypt states the whole system in one
 eight-rule box in its final school year. Mauritania
 teaches tags across two full lessons — the polarity rule
 and special cases first, then main-verb tags with the
@@ -281,3 +279,14 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Question tags and echo questions (Unit 1) | Jordan, High Note Grade 11, Student's Book, Semester 1, Unit 1, printed p.9 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

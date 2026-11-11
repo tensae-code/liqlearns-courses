@@ -1,6 +1,6 @@
 # Sources — Future continuous
 
-countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan
+countries: Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -39,7 +39,7 @@ colophon; cited once.
 | “Travel Plans!” — future plans; present continuous for future plans; ordinal numbers | Greece, Think Teen! Grade 7 Beginners Student's Book, Unit 8, Lesson 1, printed p.110 |
 | Simple future and future continuous — and no future perfect: the book's future spread teaches these two only (verified on the page) | Pakistan, *English 8*, printed p.74 |
 
-**Acceptance count: taught in 12 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 13 countries (Egypt, Bolivia, Malaysia, Uzbekistan, Mexico, Greece, Pakistan, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Jordan).** Greece joins with the Grade 7 Beginners 'Travel Plans!' lesson on present continuous for future plans (stocked 2026-11-10 by the Greece re-verification sweep merge). Mexico's Grade 9 book teaches the future progressive inside its sustainable-energies adventure (stocked 2026-11-09 by the Mexico re-verification sweep merge). Iraq joins with its future continuous in Grades 7 and 10 (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches simple future and future continuous at printed p.74 — and, verified on the page, no future perfect beside them. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -123,3 +123,14 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Future continuous (Unit 5, taught with the future perfect) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 5, printed p.50 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

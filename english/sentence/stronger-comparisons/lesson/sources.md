@@ -1,6 +1,6 @@
 # Sources — Stronger comparisons
 
-countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan
+countries: Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** English, Secondary 11 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26; the Comparative Phrases box, p.26, is among this book's citation-checked anchors).
@@ -159,7 +159,7 @@ re-verification sweep.
 | Degrees of adjectives — regular and irregular adjectives compared — in the Harmony in Society unit (with relative pronouns, clauses and phrases, commas and dictionary use) | Pakistan, *English 6*, Unit 5, printed p.47 |
 | Degrees of adjectives in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 23 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan).** Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
+**Acceptance count: taught in 24 countries (Egypt, Nepal, Cambodia, Bolivia, China, Mauritania, Mexico, India, Greece, Mongolia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Laos, Kazakhstan, Jordan).** Yemen joins with comparison of adverbs in its Grade 9 school-games lesson (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Think Teen! comparison lessons — the Advanced shopping-spree lesson, the Beginners 'TEEN Voice!' lesson and the workbook's record-collections text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with similes completed in Class 2, the story-model comparative sentences of Class 3, and Class 5's formally stated degrees of comparison (stocked 2026-11-09 by the India re-verification sweep merge). China carries the superlative in use at primary level — the tallest child and the tallest dinosaur (stocked 2026-11-08 by the re-verification sweep).
 Mauritania compares across four books — superiority,
 inferiority and equality in Grade 8, superlatives in Grades 9
 and 11, and comparatives of adverbs in Grade 10 (stocked
@@ -454,3 +454,17 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Comparatives and superlatives applied to people — “My mum is shorter than me; She's the shortest person in our family” | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+| Comparing and contrasting things — the CLIL treatment (the grammar half of the reading point) | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, printed p.30 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

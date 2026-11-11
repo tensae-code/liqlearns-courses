@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Primary Language Arts Syllabus, Class 1 —
@@ -147,9 +147,7 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 23 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa,
-China, Iran, India, Greece, Mongolia, Nicaragua,
-Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 24 countries (Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with job nouns from verbs, dis-/un- prefixes, adjective-to-noun quality words and how new words are made (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -480,3 +478,25 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-741-6. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Negative prefixes un- — untidy, unfriendly, unhappy, unlucky, unwell, unsafe | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 1, printed p.8 |
+| Word-building: verb to noun with -tion — inform/information, describe/description | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| Prefix pairs in word study — appear/disappear, like/dislike, agree/disagree, connect/disconnect | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 5, printed p.8 |
+| Suffixes -ful — cheerful, thankful, playful, fearful, peaceful, forgetful, careful, hopeful | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, Unit 7, printed p.32 |
+| Word building — stress in word families (the Unit 7 charity/social-issues set's word-building strand) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 7, printed pp.20–22 |
+| Word families — stress to express a fact (Unit 9) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 9, printed p.43 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

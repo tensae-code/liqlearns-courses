@@ -1,6 +1,6 @@
 # Sources — Modal Verbs
 
-countries: Bolivia, South Sudan, Venezuela, Kazakhstan
+countries: Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 11 (Secundaria 5) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | SHOULD and MUST — must for strong/personal obligation and mustn't; should for advice and suggestions; with a staying-safe-online reading | Bolivia, Texto de Aprendizaje (English), Grade 11 (Secundaria 5) student book, printed pp. 47–48 |
 | Modals compared — MUST TO (official/written rule, strong moral obligation), SHOULD (personal obligation, weaker), HAVE TO (used in place of must in speech; “not a modal verb”) | Bolivia, teacher compendium (Textos de Aprendizaje 2023–2024), Year 5, compendium PDF p. 104 |
 
-**Acceptance count: taught in 4 countries (Bolivia, South Sudan, Venezuela, Kazakhstan).**
+**Acceptance count: taught in 5 countries (Bolivia, South Sudan, Venezuela, Kazakhstan, Jordan).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found the obligation modals compared as a family in two places — the Grade 11 student book's SHOULD/MUST unit and the compendium's starred Year 5 comparison — while the course taught them only scattered inside other lessons. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for the comparison itself. The compendium's comparison is carried in its own wording, including its statement that have to is “not a modal verb”, so the claim is checkable against the cited page. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -72,3 +72,35 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-053-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-29-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| could/couldn't for past ability — the modal half of the point | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| could/couldn't + had to / didn't have to for the past — “We could write; We couldn't use computers; We had to use a pen” | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, Unit 2, printed p.18 |
+| should/shouldn't, must/mustn't, need to / don't need to — “I should take some medicine; You must do homework; They don't need to wait” | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 6, printed p.18 |
+| Modal verbs for obligation and advice — should, must, need to | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, Unit 4, printed p.42 |
+| Modal and related verbs (Unit 4 treatment) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 4, printed pp.36–37 |
+| Modal verbs for speculating about the present (Unit 10) | Jordan, High Note Grade 10, Student's Book, Semester 2, Unit 10, printed p.48 |
+| Modal and related verbs (Unit 6 treatment) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 6, printed pp.4–8 |
+| Modal and related verbs (Unit 5 treatment) | Jordan, High Note Grade 12, Student's Book, Semester 1, Unit 5, printed pp.50–51 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

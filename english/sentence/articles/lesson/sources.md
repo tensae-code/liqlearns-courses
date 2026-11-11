@@ -1,6 +1,6 @@
 # Sources — Articles
 
-countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan
+countries: Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Ghana, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** Year 1 English — Bolivia, teacher compendium (*Compendio para Maestras y Maestros, Textos de Aprendizaje 2023–2024*, Área Lengua Extranjera). TEACHER-COMPILATION EVIDENCE — this entry was labelled “(student's book)” before; no Bolivia student's book stands behind it (label corrected 2026-11-08 by the re-verification sweep, flag 6).
@@ -105,9 +105,7 @@ verification sweep.
 | Articles and the omission of articles as a named grammar strand (the book's printed rule, "We use the with the names of rivers, continents, etc." at printed p.47, is wrong as stated and is taught corrected) | Pakistan, *English 2*, contents; rule at printed p.47 |
 | Articles in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 22 countries (Armenia,
-Bolivia, Cambodia, Malaysia, Nepal, South Africa,
-Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
+**Acceptance count: taught in 23 countries (Armenia, Bolivia, Cambodia, Malaysia, Nepal, South Africa, Sudan, Vietnam, Indonesia, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Egypt, Laos, Kazakhstan, Jordan).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the a/an lesson of its Grade 7 book, taught with classroom object words (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Beginners 'The four corners of the Earth!' article lesson and its workbook text (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with articles taught by name in Class 5 and as a teacher-note point in Class 7 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia and Malaysia name the full
 four-way system — a/an/the/zero — outright, Cambodia
 framing it as specific vs. general reference; Vietnam
 reviews and extends it in the final year. Nepal opens
@@ -357,3 +355,20 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Articles — with the /ðə/–/ðiː/ pronunciation point (Unit 1) | Jordan, High Note Grade 10, Student's Book, Semester 1, Unit 1, printed p.10 |
+| Articles (Unit 6 treatment) | Jordan, High Note Grade 11, Student's Book, Semester 2, Unit 6, printed pp.4–8 |
+| Articles — the advanced treatment (Unit 8) | Jordan, High Note Grade 12, Student's Book, Semester 2, Unit 8, printed pp.32–33 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

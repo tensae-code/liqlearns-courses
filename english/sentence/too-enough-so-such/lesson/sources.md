@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan
 Every part traces to its book and page.
 
 **Book 1:** English, Year 4 (Grade 10) — Bolivia (ministry teacher volume reproducing the student book). Filed in english/books/bolivia.md (as filed).
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 9 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan).** Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 10 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine, Iraq, South Africa, Kazakhstan, Jordan).** Iraq joins with its Grade 4 too ("Yousif's trainers are too big") and Grade 11 so and such (stocked 2026-11-11 by the re-verification sweep merge).
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
 
@@ -82,3 +82,14 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-29-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| too / not … enough — “The sweater is too plain; They aren't formal enough” | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, Unit 5, printed p.8 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.

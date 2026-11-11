@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
 banner at the head of english/books/libya.md; its scrub
@@ -279,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 26 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan)** — the
+**Acceptance count: taught in 27 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine, Sierra Leone, South Sudan, Venezuela, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia, Laos, Kazakhstan, Jordan)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -903,3 +903,103 @@ Kazakhstan is new to this lesson: the countries line and the acceptance count ab
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/kazakhstan-placements.md.
 
+## Jordan added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read Jordan's English set from the files: 64 files, 59 distinct books (5 files are second copies or other editions) — Jordan Team Together, Grades 1–7, and Jordan High Note, Grades 8, 10, 11 and 12 (no Grade 9 English book exists in the record). The sweep placed 404 teaching items fresh from the books: 146 were already in the course and 258 were missing — Jordan's 2026-11-03 merge had stocked Jordan into the 56 lessons that existed then, and the course's newer lessons had no Jordan rows. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md). Read depth is the sweep's declared one: the books' own contents and scope-and-sequence tables with spot checks — not a line-by-line read; the High Note units' Writing/Speaking lessons are not in those contents columns, so Jordan's writing-genre stocking from 2026-11-03 stands as filed, unitemised by this sweep. Teacher's books are teacher evidence only (0 learner items counted from them), and workbook exercises that only mirror the student's book are not counted. Jordan is new to this lesson: the countries line and the acceptance count above were updated together.
+Book error carried from the sweep: the Grade 3 Pupil's Book Semester 1 festival section numbers its readings F1, F3, F4, F5 — there is no F2 (the original edition's Calgary Stampede festival was removed in the Jordan adaptation); the Independence Day reading stocked below is its F3. Jordan joins this lesson as a distinction country only: every Jordan row below is a lesson-length reading (Team Together CLIL and Festivals readings; High Note Life Skills, Culture Spot and Literature Spot readings) — no complete book-length text was re-read in Jordan's set, so Jordan does not join the five complete-text countries on their terms. Readings are stocked as one-line topic summaries only.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-046-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 2: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-23-7. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 3: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-911-3. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 3: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-734-8. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-051-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 4: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-26-8. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-914-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 5: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-741-6. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2026, ISBN 978-9923-66-053-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 6: Pupil's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-29-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan Team Together, Grade 7: Pupil's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 2nd ed. 2025, ISBN 978-9923-41-917-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (The staging files are mis-named “term-2”; the book's own title page says Semester 1. The whole Semester 2 trio is not held.)
+
+**Book:** *Jordan High Note, Grade 8: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-935-9. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep. (Only the Semester 1 student pair is held; Semester 2 and both Teacher's Books are not held.)
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-943-4. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 10: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-35-0. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-618-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 11: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2024, ISBN 978-9923-41-752-2. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 1* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-41-946-5. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Jordan High Note, Grade 12: Student's Book, Semester 2* — Jordan, Pearson Education / York Press, adapted by the NCCD, 1st ed. 2025, ISBN 978-9923-863-38-1. Filed in english/books/jordan.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| CLIL Science reading: “What are our senses?” | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, printed p.42 |
+| Festivals readings: Independence Day in Jordan; Earth Day; Kite Festival Day | Jordan — Team Together Grade 2 Pupil's Book, Semester 1, printed pp.44–48 |
+| CLIL Natural Science reading: “What's a beach like?” | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, printed p.42 |
+| Festivals readings: World Braille Day; World Environment Day; Hijri New Year | Jordan — Team Together Grade 2 Pupil's Book, Semester 2, printed pp.44–48 |
+| Festivals reading: Independence Day | Jordan — Team Together Grade 3 Pupil's Book, Semester 1, printed p.46 |
+| CLIL Social Science reading: “What can we see on a map?” | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, printed p.42 |
+| Festivals readings: National Olive Festival; Eid al-Fitr; Aqaba Arts Festival | Jordan — Team Together Grade 3 Pupil's Book, Semester 2, printed pp.44–48 |
+| CLIL Science reading: “Can plants grow in water?” | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, printed p.50 |
+| Festivals readings: World Environment Day; World Friendship Day; Flag Day | Jordan — Team Together Grade 4 Pupil's Book, Semester 1, printed pp.52–54 |
+| CLIL Social Studies reading: “What was transport like 100 years ago?” | Jordan — Team Together Grade 4 Pupil's Book, Semester 2, printed p.50 |
+| Festivals readings: World Wildlife Day; Eid al-Adha; International Literacy Day | Jordan — Team Together Grade 4 Pupil's Book, Semester 2, printed pp.52–54 |
+| CLIL Science reading: “Are all the planets rocky?” | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, printed p.30 |
+| CLIL reading: “How can plants keep us healthy?” | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, printed p.54 |
+| Festivals readings: Harvest Festival; World Water Day | Jordan — Team Together Grade 5 Pupil's Book, Semester 1, printed pp.56–57 |
+| CLIL Social Studies reading: “How are the continents different?” | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, printed p.54 |
+| CLIL Art reading: “What do landscape paintings look like?” | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, printed p.30 |
+| Festivals readings: Youth Service Day; World Heritage Day | Jordan — Team Together Grade 5 Pupil's Book, Semester 2, printed pp.56–57 |
+| Think-like-a-scientist CLIL reading: classifying sports | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, printed p.30 |
+| Think-like-a-scientist CLIL reading: comparing materials | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, printed p.54 |
+| Festivals readings: Tree Day; Belonging to My School Day | Jordan — Team Together Grade 6 Pupil's Book, Semester 1, printed pp.56–57 |
+| Think-like-a-scientist CLIL reading: classifying types of energy | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, printed p.30 |
+| Think-like-a-scientist CLIL reading: carbon footprint | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, printed p.54 |
+| Festivals readings: Father's Day; World Oceans Day | Jordan — Team Together Grade 6 Pupil's Book, Semester 2, printed pp.56–57 |
+| CLIL Social Studies reading: comparing and contrasting things | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, printed p.30 |
+| CLIL Social Studies reading: giving an explanation | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, printed p.54 |
+| Festivals readings (the book's short festival section) | Jordan — Team Together Grade 7 Pupil's Book, Semester 1, printed p.56 |
+| Life Skills reading: “How to avoid time wasters” — a time-management reading | Jordan, High Note Grade 8, Student's Book, Semester 1, printed pp.24–25 |
+| Life Skills reading: “How to manage exam stress” | Jordan, High Note Grade 8, Student's Book, Semester 1, printed pp.46–47 |
+| Culture Spot reading (Unit 5 book-end set) | Jordan, High Note Grade 8, Student's Book, Semester 1, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 8, Student's Book, Semester 1, printed pp.62–66 |
+| Readings: uses of drones; health and computers (Unit 2 content readings) | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.18–23 |
+| Future-jobs extended reading (Unit 5) | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.58–59 |
+| Culture Spot reading | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 10, Student's Book, Semester 1, printed pp.62–66 |
+| Life Skills reading: “How to set SMART goals” | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.14–15 |
+| Life Skills reading: “How to be more creative” | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.36–37 |
+| Life Skills reading: “How to identify fake news” | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.58–59 |
+| Culture Spot reading | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 10, Student's Book, Semester 2, printed pp.64–68 |
+| Culture Spot reading | Jordan, High Note Grade 11, Student's Book, Semester 1, printed pp.70–71 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 11, Student's Book, Semester 1, printed pp.72–76 |
+| Life Skills reading: “How to make the most of volunteering” | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.14–15 |
+| Life Skills reading: “How best to use social media” | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.36–37 |
+| Life Skills reading: “How to build resilience” | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.58–59 |
+| Culture Spot reading | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 11, Student's Book, Semester 2, printed pp.62–68 |
+| Life Skills reading: “How to make a good decision” | Jordan, High Note Grade 12, Student's Book, Semester 1, printed pp.24–25 |
+| Life Skills reading: “How to think critically about food choices” | Jordan, High Note Grade 12, Student's Book, Semester 1, printed pp.46–47 |
+| Culture Spot reading | Jordan, High Note Grade 12, Student's Book, Semester 1, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 12, Student's Book, Semester 1, printed pp.62–66 |
+| Life Skills reading: “Developing resilience” | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.14–15 |
+| Life Skills reading: “How to be a good team member” | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.36–37 |
+| Life Skills reading: “How to develop leadership skills” | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.58–59 |
+| Culture Spot reading | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.60–61 |
+| Literature Spot — a graded literature extract with work on it | Jordan, High Note Grade 12, Student's Book, Semester 2, printed pp.64–68 |
+
+Placements: liqlearns-courses-work/sweep-2026-11-08/english/jordan-placements.md.
