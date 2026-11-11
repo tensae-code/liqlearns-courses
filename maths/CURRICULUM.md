@@ -246,6 +246,7 @@ say exactly what follows from what, and prove general claims.*
 - pigeonhole-principle ✅ — the pigeonhole principle (Level 103, catch-up build)
 - problem-solving-strategies ✅ — named strategies for hard problems (Level 104, catch-up build)
 - mathematical-modelling ✅ — the six components of a model, break-even answers, scale models, and improving a model (Level 141, Malaysia merge 2026-11-07)
+- mathematical-communication ✅ — communicating concepts, processes and results in mathematical language, the many representations, and translating between them (Level 166, Andorra expansion merge 2026-11-11)
 
 ## Unit 14 — Counting and Discrete Mathematics
 *End of unit: the learner can count systematically, work in
@@ -330,7 +331,7 @@ the Mongolia merge of 2026-11-07 added 1 lesson
 Units 6 and 12; the North Macedonia merge of 2026-11-07
 added 2 lessons (Levels 156–157) inside Units 6 and 14;
 the Bolivia merge of 2026-11-07 added 1 lesson (Level 158)
-inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17.
+inside Unit 14; the Tajikistan merge of 2026-11-07 added 2 lessons (Levels 159–160) inside Units 12 and 8; the Turkey merge of 2026-11-07 added 2 lessons (Levels 161–162) inside Units 11 and 5; the Ecuador re-verification sweep merge of 2026-11-08 added 1 lesson (Level 163) inside Unit 1; the Sri Lanka expansion merge of 2026-11-11 added 2 lessons (Levels 164–165) inside Units 15 and 17; the Andorra expansion merge of 2026-11-11 added 1 lesson (Level 166) inside Unit 13.
 
 ## After Unit 12
 The catch-up build of 2026-11-06 closed the recorded gap:
