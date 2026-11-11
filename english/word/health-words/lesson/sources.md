@@ -1,6 +1,6 @@
 # Sources — Health words
 
-countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
+countries: Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -150,7 +150,7 @@ verification sweep.
 | Healthy habits — "Wash your hands and face.", "Cover your mouth when you cough.", "Exercise.", "Eat fruits.", "Brush your teeth." — with the question "Do you brush your teeth every day?" (Activity Book "Going for CLIL" 7, Health Education; the Activity Book itself is not in hand) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence), CLIL 7 key and instructions, Teacher's Book pp.133(T)–134(T) |
 | A whole health unit: personal cleanliness and hygiene (with silent-letter words and use of the dictionary) | Pakistan, *English 3*, Unit 10 (contents) |
 
-**Acceptance count: taught in 27 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 healthy-lifestyle and village-health-volunteer units and its guide-held Grade 11 healthy-living unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
+**Acceptance count: taught in 27 countries (Albania, Bolivia, Rwanda, Saudi Arabia, Bangladesh, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Mongolia, Nicaragua, North Macedonia, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 9 healthy-lifestyle and village-health-volunteer units and its guide-held Grade 11 healthy-living unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full health strand — people who need help, diet, fitness, smoking, a doctor's day, the casualty unit, the skeleton set, tobacco, malaria and vaccinations (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the healthy-habits CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 9 Mediterranean-diet lesson, its workbook practice and the EPAL 'Adolescence' unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 2 daily-routine teeth-brushing song (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the symptom set as a
 doctor chapter — vocabulary, symptom sentences, a should
 sample plan and an eight-problem advice worksheet; Bolivia
 carries the sick-day dialogue, the SHOULD advice box and the
@@ -509,3 +509,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 1* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Superminds 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy and unhealthy food words | Malaysia, Year 1 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 149, printed p.346 |
+
+Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.

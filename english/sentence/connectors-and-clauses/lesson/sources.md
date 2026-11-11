@@ -1,6 +1,6 @@
 # Sources — Connectors and clauses
 
-countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt
+countries: Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Ghana, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -162,7 +162,7 @@ verification sweep.
 | Conjunctions and transitional devices in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Adjectival, prepositional and adverbial phrases, as the unit's grammar work | Pakistan, *English 12*, Unit 2, printed p.14 |
 
-**Acceptance count: taught in 22 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
+**Acceptance count: taught in 23 countries (Bolivia, Mauritania, Kuwait, Vietnam, Nepal, Libya, Indonesia, India, Greece, Mongolia, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia).** Malaysia joins with reasons for preferences, Close-Up's temporals and clauses of purpose, and Full Blast Plus 4's correlatives (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with complex sentences and the connector reviews — contrast, addition and consequence — from its Grades 9, 11 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's because-clauses and connectors grammar points (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the first because-frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). (Ghana stays in the countries line above on curriculum evidence only, as before, and is not in this count.) Greece joins with the Grade 8 Advanced purpose-and-result clauses lesson, its workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two-clause sentences in Class 9, and transitions and discourse linkers noticed in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia
 gives the time-clause form lesson and the
 but/however warning. Mauritania builds its whole
 cause-and-effect unit on the connector sets. Kuwait
@@ -484,3 +484,22 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 4* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Get Smart Plus 4*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking about and giving reasons for preferences | Malaysia, Year 4 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 124, printed p.170 |
+| Temporals | Malaysia, Form 3 *Close-Up* B1, Unit 4, printed p.51 |
+| Clauses of purpose | Malaysia, Form 3 *Close-Up* B1, Unit 6 (contents, pp.69–80) |
+| Correlatives: All/Both/Neither/None/Either; Both…and / Either…or / Neither…nor | Malaysia, Form 4 *Full Blast Plus 4*, Module 4 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

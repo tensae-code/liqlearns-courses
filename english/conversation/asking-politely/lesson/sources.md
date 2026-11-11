@@ -308,3 +308,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Buying travel tickets politely: “Could I have two return tickets, please?” | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 77, printed p.123 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

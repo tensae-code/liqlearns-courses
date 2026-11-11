@@ -1000,3 +1000,25 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *English Form 1* (pupil's book) — Malaysia, Pelangi, KSSM, 2016, ISBN 978-983-00-8245-5 (cover price RM 7.50). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep — items taken from the book's printed Content Mapping (pp.iv–xi) and verified on their body pages where a page is cited.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: an Iban naming-ceremony text (a baby's name chosen by which rice lump a fowl pecks) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 5, printed p.54 |
+| Reading: a timeline of games and toys (teddy bear 1902, LEGO, the 1958 first video game, Barbie 1959) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 6, printed p.64 |
+| Reading: a Medical Advances Timeline (discovery of DNA dated 1953) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 14, printed p.165 |
+| Listening: a radio programme about a South-East Asian country (Mount Kinabalu, the Petronas Towers, nasi lemak) | Malaysia, Form 4 *Full Blast Plus 4*, Module 7, printed p.101 |
+| Reading: mysterious places, incl. the Winchester house (seven floors reduced to four after the 1906 earthquake) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 2, printed p.18 |
+| Reading: a surfing-holiday text (a Devon holiday village's new surfing simulator) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 9, printed p.110 |
+| Gapped text: football that generates electricity (thirty minutes of play, three hours of light) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 11, printed p.137 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

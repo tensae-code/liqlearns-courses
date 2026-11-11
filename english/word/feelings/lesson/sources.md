@@ -1,6 +1,6 @@
 # Sources — Feelings
 
-countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
+countries: Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -103,7 +103,7 @@ re-verification sweep.
 | Being grateful, as the Bee on My Nose unit's theme | Pakistan, *English 2*, Unit 4 (contents) |
 | Making friends and helping others — the What a Good Deed! unit | Pakistan, *English 2*, Unit 9 (contents) |
 
-**Acceptance count: taught in 21 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
+**Acceptance count: taught in 22 countries (Albania, Bolivia, Mexico, Mongolia, China, Indonesia, India, Greece, Nicaragua, Pakistan, Rwanda, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia).** Malaysia joins with its degrees-of-liking scale, Full Blast Plus 4's feelings adjectives, and Form 5's feelings words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 feelings set, its Grade 7 "How do you feel?" unit and its guide-held Grade 11 "Stay calm!" unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 8 feelings adjectives (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with Primary 6's feelings word-puzzle (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's feelings cards, carnival photographs and Friendly Ghost set, and the Grade 5 'School life and feelings' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with two feelings poems read whole — "Crying" and "Nobody's Friend" in Class 5 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia carries the widest single
 list — seventeen feelings in one set; Albania — guide
 evidence only, for a platform course with no pupil's
 book — carries the emotion set with the -ed/-ing pair as
@@ -364,3 +364,21 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 5* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*English Plus 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The degrees-of-liking scale (quite/really like, don't mind, really don't like, hate) | Malaysia, Year 5 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 89, printed p.128 |
+| Feelings adjectives (Module 2 vocabulary set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 2 (contents) |
+| Feelings words (Unit 1 opener set) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 1, printed p.5 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

@@ -387,3 +387,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Preferences: prefer + noun/gerund/infinitive (Grammar Reference §11.5) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Grammar Reference §11.5, printed p.176 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

@@ -1,6 +1,6 @@
 # Sources — Transport
 
-countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
+countries: Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -95,7 +95,7 @@ verification sweep.
 | Traffic signs | Nicaragua, Grade 9 Módulo Autoformativo, Unit 1B, PDF p.22 |
 | At the airport — a check-in reading | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 4, Lesson 13 |
 
-**Acceptance count: taught in 20 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
+**Acceptance count: taught in 21 countries (Albania, Bolivia, Mongolia, Palestine, Rwanda, China, Iran, India, Greece, Nicaragua, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia).** Malaysia joins with its travel-ticket exchange and Full Blast Plus 4's airport language (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 going-to-school unit, the transport-led remainder of the Grade 7 book, and three Grade 9 travel units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with coming to school, air travel, Yemenia, travellers at the airport and the Channel Tunnel across its Grades 8 to 11 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's transport flashcards, cut-outs and photographs (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with means of transport sorted into Land, Air and Water in Class 3 (stocked 2026-11-09 by the India re-verification sweep merge). Albania — teacher-guide evidence —
 carries the trip itself: the travel words beyond the
 vehicles, from packing to the airport, the beach and the
 island. Palestine carries the first five with
@@ -339,3 +339,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Buying travel tickets: “Could I have two return tickets, please?”; checking understanding | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 77, printed p.123 |
+| Airport language (Module 5 vocabulary set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 5 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

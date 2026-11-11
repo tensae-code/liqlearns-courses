@@ -1,6 +1,6 @@
 # Sources for this lesson — Word families
 
-countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana
+countries: Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India, Ghana, Malaysia
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. These rows lived inside the alphabet lesson's
@@ -94,7 +94,7 @@ verification sweep.
 | Word Families, Rhyming Endings And Common Digraphs — Use common rhyming/ending words to decode words. | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 2 (Reading), standard B4.2.3.1, PDF p.43 (curriculum evidence) |
 | Word Families: Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words. e.g. – | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 5, Strand 2 (Reading), standard B5.2.3.1, PDF p.117 (curriculum evidence) |
 | Word Families, Minimal Pairs And Common Digraphs — Use common minimal pairs to decode words | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 2 (Reading), standard B6.2.3.1, PDF p.193 (curriculum evidence) |
-**Acceptance count: taught in 15 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India).** India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 15 countries (Egypt, Laos, China, Sierra Leone, Jordan, South Africa, Syria, Nepal, Pakistan, Sudan, Kuwait, Yemen, Ecuador, Saudi Arabia, India).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 1 three-letter words matched to pictures and rhyming word sets (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds a complete short-vowel cycle inside one volume —
 one Let's spell set per vowel, reviewed as a whole system
 (Grade 3 Volume 2) — the silent-e ladder that turns those
@@ -357,7 +357,7 @@ filed.
 
 **Kuwait added 2026-11-04** — Skyline English Student's Book 1B (full read in english/books/kuwait.md). **Book:** *Skyline English Student's Book 1B, Grade 1* — Kuwait, Ministry of Education, First Edition 2025-2026. Filed in english/books/kuwait.md (FULLY READ + CITATION CHECK PASSED 2026-11-03). Kuwait stocks this lesson in full in one book: Grade 1's phonics lessons teach two rime families per unit — -an and -ap in Unit 5, -it and -am in Unit 6, -op and -ot in Unit 7, and -ug and -ed in Unit 8 — each family with a cumulative build-up reading text. The -ed family (red, bed, fed) is met as a word family, not taught as a past tense, and is filed on those terms.
 
-**Malaysia checked 2026-11-04 — not stocked.** No word-family (rime) teaching appears anywhere in Malaysia's held set; the nearest items are single-sound lessons (the Year 1 map's /æ/ reading lesson, Lesson 29, printed p.85) and suffix word-formation strands in the Form books, which are not word families. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for.
+**Malaysia checked 2026-11-04 — not stocked.** No word-family (rime) teaching appears anywhere in Malaysia's held set; the nearest items are single-sound lessons (the Year 1 map's /æ/ reading lesson, Lesson 29, printed p.85) and suffix word-formation strands in the Form books, which are not word families. Malaysia is deliberately absent from this lesson's countries line — checked, not unlooked-for. **Corrected in part 2026-11-11 (re-verification sweep merge): the sweep's re-read found one rhyming point the 2026-11-04 check missed — the Year 1 Scheme of Work's Lesson 105 Language Arts slot (printed p.249) carries initial sounds and rhyming. That point is stocked in the Malaysia section below as Scheme-of-Work (curriculum) evidence only: Malaysia now stands in the countries line on that evidence-only footing, and remains outside the taught-in count, since no pupil's book is held for it. The "no word-family programme" finding itself stands — one rhyming slot is not a rime-family programme.**
 
 **Yemen added 2026-11-04 - PARTIAL stocking** - 3 books stock this lesson in part: **Book:** *English Course for Yemen - Workbook 1* (Grade 7, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Work Book 2* (Grade 8, workbook) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). **Book:** *English Course for Yemen - Pupil's Book 2* (Grade 8, pupil's book) - Yemen, Ministry of Education and Scientific Research; the ministry re-issue (print line 2027-1448) of the Crescent course prepared by Terry O'Neill and Peter Snow through Garnet Publishing Limited (c) 2000; no ISBN is printed in any Yemen book, and every grade rests on series position (Book N = Grade N+6). Filed in english/books/yemen.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). PARTIAL stocking. Yemen's word-family evidence is rhyming-word work only: 'Match the sounds' sets in Workbook 1, a rhyme-pairing exercise in Work Book 2 and a rhyming chant in Pupil's Book 2. The books never build families from a shared rime, so this is filed as a partial - rhyme recognition, not family building.
 
@@ -495,3 +495,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 1* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Superminds 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Initial sounds and rhyming (Language Arts lesson) | Malaysia, Year 1 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 105, printed p.249 |
+
+Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.

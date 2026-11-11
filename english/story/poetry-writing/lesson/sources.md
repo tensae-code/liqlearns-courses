@@ -1,6 +1,6 @@
 # Sources — Poetry writing
 
-countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa
+countries: Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Malaysia
 
 Every part traces to its book and page.
 
@@ -104,7 +104,7 @@ differ only in cover wording and colophon; cited once.
 | Poems — Relate the central messages of poems to personal | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 1 (Oral Language), standard B6.1.3.1, PDF p.177 (curriculum evidence) |
 | “The Fall of Icarus” — describing paintings and pictures; writing a poem | Greece, Αγγλικά (Anglika) Grade 6 Student's Book, Unit 4, Lesson 3, contents p.vii |
 
-**Acceptance count: taught in 17 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa).** Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
+**Acceptance count: taught in 17 countries (Barbados, Ghana, South Sudan, Egypt, Bangladesh, Indonesia, Mexico, Greece, Palestine, Rwanda, Sierra Leone, Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with two Wordsworth poems (Grade 11) and Davies's “Leisure” (Grade 12) (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with the Primary 4 climate-change poem (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 6 'Fall of Icarus' poem lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Barbados's syllabus names
 the three shapes this lesson builds and dates their
 start to Class 3; South Sudan supplies the writer's
 glossary, the writing steps, and the rhyme/free-verse
@@ -374,3 +374,18 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 4* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Get Smart Plus 4*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Poems as Language Arts reading, Units 1–2: “Holiday Memories”, “At the Playground”, “Sounds like Magic”, “Grandma's House”, “Clap Your Hands”, “Noisy Food” | Malaysia, Year 4 Scheme of Work (KSSR Scheme of Work — curriculum evidence), printed pp.39, 44, 49, 57, 62, 67 |
+| Poem: “My Sister's Eating Porridge” | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), printed p.107 |
+
+Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.

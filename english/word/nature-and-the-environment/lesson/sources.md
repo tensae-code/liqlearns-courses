@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -199,7 +199,7 @@ the 2026-11-08 re-verification sweep.
 | Smog: a climate-change text (with personal pronouns, homophones and the apostrophe) | Pakistan, *English 7*, Unit 5, printed p.41 |
 | "The Silent Predator and the Majestic Prey – Snow Leopard and Markhor": a wildlife unit read whole | Pakistan, *English 9*, Unit 10, printed p.120 |
 
-**Acceptance count: taught in 27 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
+**Acceptance count: taught in 28 countries (Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia).** Malaysia joins with compass-point geography words, Close-Up's environment words, and Form 5's environment texts (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with three Grade 9 environment units and five guide-held Grade 11 nature units (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with camping and countryside words, forestation, natural disasters and the whole Grade 11 and 12 reader strand on the Earth and its future (stocked 2026-11-11 by the re-verification sweep merge). Rwanda joins with nature words, the world's rivers, climate change and Rwanda's own environment across Primaries 3–6 (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the hot-and-cold animals CLIL lesson as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 guidebook and environment-letter lessons (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the Class 1 tree-cycle poem "Our Tree" and Class 11's "The Ailing Planet" (stocked 2026-11-09 by the India re-verification sweep merge). Albania carries the place set and
 the habitat sentence pattern as a whole chapter, closing on
 caring for nature; Mexico carries the fullest problem set —
 pollution, acid rain, drought, flood, litter — with
@@ -645,3 +645,21 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Geographical words (compass points and places) | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 152, printed p.204 |
+| Environment words; prepositions | Malaysia, Form 3 *Close-Up* B1, Unit 3 (contents, pp.31–42) |
+| Environment quiz and texts | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 5, printed p.57 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

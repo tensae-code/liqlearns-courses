@@ -1,6 +1,6 @@
 # Sources — Ways to read
 
-countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt
+countries: Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ cited once.
 | Reading: a magazine article on the importance of breakfast — skimming and scanning | Mongolia, English XII, Unit 8, printed p.137 |
 | Skimming and scanning — two ways to read: main ideas fast, and hunting specific details | Nicaragua, Grade 10 Módulo Autoformativo, Unit 5B, printed p.158 (PDF pp.164–165) |
 
-**Acceptance count: taught in 15 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
+**Acceptance count: taught in 16 countries (Ghana, Libya, Rwanda, Vietnam, Iran, Mexico, Mongolia, Nicaragua, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, South Africa, Egypt, Malaysia).** Malaysia joins with skimming and scanning from its Form 1 book (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with skimming taught as a strategy in its Grade 11 book (stocked 2026-11-11 by the re-verification sweep merge). Ghana names both systems — SQ3R in full and the KWL routine — in its national curricula (curriculum evidence, worded as such). Rwanda's P.6 book explains skimming and scanning in its own pages and names the contents and index as finding tools. Libya teaches scanning as a raced tip built on the question's clues. Vietnam's Grade 12 appendix sorts reading strategies by exam question type. Iran adds two named strategies from its senior books: reference words in Grade 11 and note-taking in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Mexico's Grade 7 book sets a whole essay on reading itself — “Is That Reading?!” — as the adventure's reading (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Ghana — further evidence stocked 2026-11-10 (re-verification sweep merge):** the sweep read Ghana's full Distance Learning set (six teacher guides and three learners' workbooks) and the NaCCA curriculum standards not previously cited; the new rows are teacher, curriculum and workbook evidence only — Ghana's set holds no pupil textbook, so the taught-in acceptance count above does not change.
 
@@ -250,3 +250,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *English Form 1* (pupil's book) — Malaysia, Pelangi, KSSM, 2016, ISBN 978-983-00-8245-5 (cover price RM 7.50). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep — items taken from the book's printed Content Mapping (pp.iv–xi) and verified on their body pages where a page is cited.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Skimming and scanning | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 2, Content Mapping printed p.iv |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

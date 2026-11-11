@@ -531,3 +531,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reading: working dogs, incl. the airport sniffer beagles (the Beagle Brigade) | Malaysia, Form 3 *Close-Up* B1, Unit 4, printed p.44 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

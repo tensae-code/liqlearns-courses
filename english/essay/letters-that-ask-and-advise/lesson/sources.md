@@ -1,6 +1,6 @@
 # Sources — Letters that ask and advise
 
-countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt
+countries: Barbados, Ghana, Jordan, Sierra Leone, China, India, Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia
 
 Every part traces to its book and page. Barbados's
 evidence is its Language Arts Syllabi (syllabus evidence,
@@ -49,8 +49,8 @@ verification sweep.
 | A letter that asks: a letter to a publisher (Mindfame Private Limited, New Delhi) ordering a set of books by Value Payable Post, with your address | India — Beehive (Class 9), Writing in The Fun They Had, printed p.10 |
 | The informal letter, in the First Aid Saves Life unit (with idioms, main and helping verbs, conjunctions, comparison clauses and since/for) | Pakistan, *English 6*, Unit 6, printed p.56 |
 
-**Acceptance count: taught in 13 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
-Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
+**Acceptance count: taught in 14 countries (Barbados, Ghana, Jordan, Sierra Leone, China, India,
+Pakistan, Palestine, South Sudan, Sudan, Yemen, Vietnam, Egypt, Malaysia).** Malaysia joins with Full Blast Plus 4's enquiry, editor and advice letters and Form 5's letter to an authority (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 10 opinion letters to the newspaper (stocked 2026-11-11 by the re-verification sweep merge). India joins with a letter to a publisher ordering books by post in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Barbados names the five
 primary kinds; Sierra Leone builds the official letter
 to authority and rules the formal style; Ghana lists the
 authority addressees in its curriculum; Jordan models
@@ -67,7 +67,7 @@ could be confirmed in its filing — the Malaysia filing's
 letter evidence found is the Form 1 formal complaint
 model and permission letters, and no advice letter was
 found in the Mongolia filing — so neither country is
-counted here. Vietnam joins with its Grade 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+counted here. **Corrected for Malaysia 2026-11-11 (re-verification sweep merge): the sweep's verified re-read of *Full Blast Plus 4* and the Form 5 book confirms the letters the catch-up plan named — the Module 6 semi-formal enquiry letter, the Module 7 letter to the editor, the Module 8 advice letter, and Form 5's letter to someone in authority (Unit 12, printed p.156) — stocked in the Malaysia section below, and Malaysia is counted here from this merge. The Mongolia half of the sentence above stands.** Vietnam joins with its Grade 11 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 6* writes the informal letter in its First Aid unit (Unit 6, printed p.56). Its own pages carry two of the book's slips — "laddy" for lady (printed p.58) and "CRP" for CPR (printed p.59) — taught corrected wherever this book is used. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
 
@@ -160,3 +160,20 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A semi-formal letter/email asking for and giving information, using indirect questions | Malaysia, Form 4 *Full Blast Plus 4*, Module 6 (contents, skills spread) |
+| Writing a letter to the editor expressing an opinion | Malaysia, Form 4 *Full Blast Plus 4*, Module 7 (contents, skills spread) |
+| Writing a letter giving advice | Malaysia, Form 4 *Full Blast Plus 4*, Module 8 (contents, skills spread) |
+| Writing a letter to someone in authority about a problem | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 12, printed p.156 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

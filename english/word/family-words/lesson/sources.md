@@ -1,6 +1,6 @@
 # Sources — Family words
 
-countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt
+countries: Mongolia, North Macedonia, Palestine, Rwanda, Bolivia, China, Bangladesh, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -117,7 +117,7 @@ covers the 6th Year book only).
 | My Family: grandfather, grandmother, father, mother, brother, sister | Pakistan, *English Nursery*, printed p.4 |
 | The People I Love: my family and my home (with weak forms of has/have and the exclamation mark) | Pakistan, *English 3*, Unit 3 (contents) |
 
-**Acceptance count: taught in 24 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
+**Acceptance count: taught in 25 countries (Mongolia, North Macedonia, Palestine, Rwanda, Bangladesh, Bolivia, China, Iran, Indonesia, Mauritania, Greece, Nicaragua, Pakistan, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia).** Malaysia joins with Close-Up's family words and Form 5's family-types words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 4 family unit — family words with possessive 's — and its Grade 5 family members set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 7 family words and its Grade 8 family tree (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 2 workpack's family sets and the Grade 4 'Our yearbook' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Palestine carries the
 first set with the Who's this? pattern; North Macedonia
 carries the six-word labelled photograph, the naming frame
 and the formal/informal pair side by side — its pupil copy
@@ -417,3 +417,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family words; collocations and expressions (keep/fall/pay/get/have phrases) | Malaysia, Form 3 *Close-Up* B1, Unit 1, printed p.12 |
+| Family-types words (adoptive/blended/extended/single-parent/traditional family) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 1, printed p.5 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

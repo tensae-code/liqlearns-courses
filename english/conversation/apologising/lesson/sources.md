@@ -146,3 +146,15 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 |---|---|
 | Everyday English — apologising and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 5, printed p.50 |
 | Everyday English — making and responding to apologies | Vietnam, Tiếng Anh 10 (Global Success), Unit 9, printed p.100 |
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 1* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Superminds 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Here's (your pencil case)”, “I'm sorry”, “Thank you” — exchange language for handing things over and responding | Malaysia, Year 1 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 28, printed p.83 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa
+countries: Albania, South Africa, Malaysia
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 2 countries (Albania, South Africa).**
+**Acceptance count: taught in 2 countries (Albania, South Africa).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -61,3 +61,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 3* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Get Smart plus 3*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of movement | Malaysia, Year 3 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 74, printed p.135 |
+
+Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.

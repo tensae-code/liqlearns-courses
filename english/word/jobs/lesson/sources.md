@@ -1,6 +1,6 @@
 # Sources — Jobs
 
-countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt
+countries: Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -179,7 +179,7 @@ verification sweep.
 | Professions: the jobs people do, named and pictured | Pakistan, *English Nursery*, printed p.70 |
 | Cobbler, Cobbler: jobs in the surroundings (with greetings and social courtesies, and consonant blends) | Pakistan, *English 1*, Unit 3 (contents) |
 
-**Acceptance count: taught in 22 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
+**Acceptance count: taught in 23 countries (Cambodia, Rwanda, Uzbekistan, Vietnam, Bolivia, China, Iran, Indonesia, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine, Sierra Leone, South Sudan, Venezuela, Yemen, Iraq, Armenia, South Africa, Egypt, Malaysia).** Malaysia joins with its Year 6 job words and Form 5's unusual-jobs reading (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its full jobs strand — the Grade 8 jobs set, song and puzzles, jobs that help others, airport jobs and public-service jobs (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with job lessons from its Grade 2 workpack and its Grade 4 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with Class 1's jobs matched to people, Class 3's people who help us, and Class 6's jobs matched to what they do (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with its Grade 10 scientists conversation, a workbook-only "Who is a scientist?" reading, and jobs with opening times in its Grade 9 services lesson (stocked 2026-11-09 by the re-verification sweep merge). Indonesia joins with the jobs of the school itself — teacher and librarian — in its Grade 3 book (stocked 2026-11-09 by the re-verification sweep merge). Cambodia carries the opening
 questions — What do you do? for yourself, What does she
 do? for others, What do your parents do? for the family —
 over its six-job set; Rwanda carries the widest primary
@@ -453,3 +453,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Job words and work words (lawyer; help, work) | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 57, printed p.101 |
+| Reading: unusual jobs (a waterslide tester employed by Best Choice) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 8, printed p.96 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

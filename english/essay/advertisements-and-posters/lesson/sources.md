@@ -1,6 +1,6 @@
 # Sources — Advertisements and posters
 
-countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa
+countries: Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Malaysia
 
 Every part traces to its book and page.
 
@@ -77,7 +77,7 @@ verification sweep.
 | Help wanted — job advertisements, reading and writing them | Nicaragua, Secondary English, Grade 9 Student's Book, Unit 1 |
 | Help wanted — job ads, with finding the main idea of a text | Nicaragua, Grade 9 Módulo Autoformativo, Unit 3B, PDF p.90 |
 
-**Acceptance count: taught in 17 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa).** Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 18 countries (Cambodia, Egypt, Ghana, Indonesia, Kuwait, Sudan, China, India, Greece, Mongolia, Nicaragua, Sierra Leone, South Sudan, Iraq, Armenia, Vietnam, South Africa, Malaysia).** Malaysia joins with poster and slogan writing, a community clean-up notice, captions, the language of advertising, and a model charity-ride announcement (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with advert and leaflet lessons from its Grade 5 and Grade 6 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with the teacher-note introduction of advertisements and a cleanliness poster in Class 6, a water poster designed in Class 10, and a tea advertisement drafted in Class 10 (stocked 2026-11-09 by the India re-verification sweep merge). Ghana's parts are curriculum evidence throughout and are worded so — its advertisements checklist and flyer anatomy come from the NaCCA programme, not a pupil's book. Cambodia supplies the kinds, methods and audiences; Sudan the gadget advert written; Kuwait the advertisement as a full composition and the volunteers' advert; Indonesia the infographic; Egypt the poster as a taught kind with its own build boxes and checklist; China joins with the sell-your-invention writing task (stocked 2026-11-08 by the re-verification sweep). All copy in this lesson is LiqLearns' own; no book's advert or poster text is reproduced. Mongolia joins with English XI and English XII, its Grade 11 and Grade 12 books, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge). Iraq joins with its poster project, shop-window advertisements and advert-writing across Grades 4–11 (stocked 2026-11-11 by the re-verification sweep merge). Vietnam joins with its Grades 6, 7, 8, 9, 10, 11 and 12 points, stocked in the section below (stocked 2026-11-11 by the re-verification sweep merge).
 
 ## Nicaragua added 2026-11-11 (re-verification sweep merge)
 
@@ -344,3 +344,23 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *English Form 1* (pupil's book) — Malaysia, Pelangi, KSSM, 2016, ISBN 978-983-00-8245-5 (cover price RM 7.50). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep — items taken from the book's printed Content Mapping (pp.iv–xi) and verified on their body pages where a page is cited.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The language of advertising (strong adjectives; “great value; wonderful; only $XX”) | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 89, printed p.135 |
+| Writing posters and slogans | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 1, Content Mapping printed p.iv |
+| Reading/writing a community notice (a neighbourhood clean-up campaign) | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 7, printed p.78 |
+| Writing captions for illustrations, posters and cartoons | Malaysia, Form 1 *English Form 1* (Pelangi), Chapter 14, Content Mapping printed p.x |
+| A model announcement (a charity bike ride for the Heart Foundation of Malaysia) | Malaysia, Form 4 *Full Blast Plus 4*, Module 6, printed p.86 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

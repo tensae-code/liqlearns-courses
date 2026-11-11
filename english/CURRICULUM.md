@@ -1754,3 +1754,109 @@ Term 1's Scope spells "muscels" and "Naitonal
 Park"). **Egypt: 26 of 26 read.** No new lesson
 was built; the English course total is unchanged
 at **256 lessons across 44 units**.
+
+**Malaysia merged 2026-11-11 (re-verification
+sweep):** all 10 held books were re-read from
+the files themselves in the sweep (the six
+primary files from their full text layers,
+lesson header by lesson header; Form 4's
+scan-only copy at contents/module-map level
+plus a render-verified 20-anchor check —
+lesser depth, declared): **425 fresh items.
+304 were already in the course; 121 were
+missing and are now stocked** — 136 new
+provenance rows in all, because 15 items are
+dual- or triple-targeted — into 58 lessons.
+Malaysia is newly counted in 30 lessons; in 5
+further lessons (health-words, word-families,
+prepositions-of-movement,
+subject-verb-agreement, poetry-writing) its
+only stock is Scheme-of-Work evidence, so it
+is named there but not counted. **The set's
+headline finding:** the six primary files are
+NOT pupil's textbooks — each is that year's
+KSSR English Language Scheme of Work, a
+teacher/curriculum document of 160 lesson
+plans that names the year's textbook and cites
+its pages but holds no pupil's-book pages — so
+every primary row stocked in this merge is
+curriculum evidence, cited at the Scheme's own
+printed pages, never as a pupil's-book page.
+The filing also rests on five primary pupil's
+textbooks read 2026-11-06 (Super Minds 1, Get
+Smart Plus 3 and 4, English Plus 1, Academy
+Stars Year 6) that are NOT in this sweep's
+10-book set: their stockings stand as in
+course but could not be re-verified from the
+held set, and are named as such where it
+matters. The sweep's three "NEW LESSON
+NEEDED" candidates proved already stocked
+(the toys and shapes word sets under nouns;
+Form 5's emphatic structures under
+giving-advice), so no new lesson was built.
+**Flags:** (1) the Year 4 Scheme of Work does
+name "Will for prediction" (Lesson 23, printed
+p.59) while the pupil's book's own Grammar
+Reference teaches going to only — verified
+that the course's Get Smart Plus 4 stocking is
+going-to only, matching the book; no edit, and
+no course text cites the Scheme for will.
+(2) The "defective Get Smart Plus 3 copy" is
+not in this set — the held Year 3 file is a
+complete Scheme of Work; the defective copy is
+the separate 2026-11-06 pupil's book, which
+this sweep can neither confirm nor re-check; a
+clean copy remains a library want (filing-side,
+reported). (3) Get Smart Plus 4's five
+two-page "Let's Read" spreads (The Emperor's
+Nightingale, The Wishing Fish, Badang —
+complete tales; the Mowgli extract; Ali Baba's
+first half) remain deliberately NOT stocked in
+the-big-reading: they sit in a pupil's book
+outside the sweep's verified set and the
+hold-out stands pending the owner's ruling;
+the sweep-set reading texts (the Schemes'
+named Language Arts texts and the Form books'
+own readings) ARE stocked there, and Malaysia
+joins the-big-reading as a distinction country
+only — no complete book-length text is
+claimed. (4) Form 5 wishes: the sources'
+"NOT taught as a structure at Form 5" verdict
+is FIXED in wish-and-if-only — the held copy's
+Grammar Reference carries §11.4 "Wishes"
+(printed p.175), and the point is stocked from
+the Reference, with the correction stated in
+the file. (5) Five self-assessment lists the
+filing quoted short — filing-side, reported,
+not edited; no placement rests on the short
+versions. (6) Form 5's identity is
+record-supplied, not printed in the copy (no
+cover/title/contents; printed pp.1–4 absent):
+its book entries in this merge state that its
+identity rests on the back imprint leaf alone.
+(7) Close-Up's olive reading is preceded by a
+quiz of FOUR questions, not three — a
+filing/draft precision error; no lesson file
+repeated it, so no course edit. Book errors
+are carried as printed and taught corrected
+where they land: the Year 4 Scheme's own §5
+header slips (Lesson 31 headed "Language Arts
+7" inside Unit 2; Lesson 91 "Listening 19"
+inside Unit 6); Form 5's "Steven King's" for
+Stephen King (printed p.22), "football/rubgy/
+cricket" (p.34), the imprint's "Heveltica LT
+STD", and Grammar Reference §8.3 closing its
+second-conditional section with a
+zero-conditional example; Form 4's Module 4 is
+printed "Being a teen" (the record's "Being a
+team" is a misread), and on its p.13 it is
+Arjun, not Ahmad, who plays in the school
+badminton team. Record-side errors (the six
+primary slots recorded as student books; the
+TSV's doubled, dead primary URLs; Form 1's
+cover price RM 7.50, not RM17.90; Form 3 is
+Close-Up B1, not B1+) are reported, not edited
+— filings are never edited by a merge.
+**Malaysia: 10 of 10 read.** No new lesson was
+built; the English course total is unchanged
+at **256 lessons across 44 units**.

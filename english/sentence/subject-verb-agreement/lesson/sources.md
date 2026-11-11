@@ -1,6 +1,6 @@
 # Sources — Subject-verb agreement
 
-countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan
+countries: Nepal, Sierra Leone, South Africa, Pakistan, Sudan, Malaysia
 
 Every part traces to its book and page.
 
@@ -58,7 +58,7 @@ CHECK PASSED 2026-11-03).
 | Subject–verb agreement with is/are | South Africa, English Home Language Grade 6 Workbook 1, printed p.30 |
 | Subject-verb agreement as a named grammar point of the older Grade 9 book | Pakistan, *English IX* (older curriculum), contents pp.3–5 |
 
-**Acceptance count: taught in 5 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan).** Nepal files the three
+**Acceptance count: taught in 5 countries (Nepal, Sierra Leone, South Africa, Pakistan, Sudan).** Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal files the three
 tricky examples this lesson is built on — one of,
 twenty dollars, police — inside its Grade 7 quantity
 unit, and returns to agreement as a named Grade 10
@@ -145,3 +145,15 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa was already counted in this lesson; the rows above complete its stock.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 6* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Academy Stars Year 6*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| here is / here are — the agreement frame (Language Arts “Here is the Nose”) | Malaysia, Year 6 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 74, printed p.120 |
+
+Malaysia's rows in this lesson are Scheme-of-Work (curriculum) evidence only — no pupil's book is held for them — so Malaysia is named in the countries line above but is NOT counted in the acceptance total.

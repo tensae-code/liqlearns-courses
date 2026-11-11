@@ -51,7 +51,7 @@ covers the 6th Year book only).
 | Wish + would for wishes about the future ("I wish you would stop yelling", "I wish this car would go faster") | Bolivia, Year 6, Theme 4, §1.5 (as filed) |
 | Wish + past simple / past perfect taught as the unit's grammar, beside modals can/could, must/should | Kuwait, Over to You 10B, Unit 8 "The Power of Technology", pp.15–20 |
 | Wish / if only ARE taught — with past simple, would/could + infinitive, and past perfect | Malaysia, Form 4 *Full Blast! Plus 4*, Module 8 (grammar summary as filed in malaysia.md) |
-| Wish / if only NOT taught as a structure at Form 5 — single practice items inside a Review 3 exercise only | Malaysia, Form 5, Review 3, printed p.82 (as filed) |
+| Wish / if only NOT taught as a structure at Form 5 — single practice items inside a Review 3 exercise only | Malaysia, Form 5, Review 3, printed p.82 (as filed) — **corrected 2026-11-11 (re-verification sweep merge): this verdict rested on the unit body and Review 3 alone. The held Form 5 copy's own Grammar Reference carries §11.4 "Wishes" (printed p.175), so the flat "NOT taught" is withdrawn: the Form 5 wishes point is stocked from the Grammar Reference in the Malaysia section below. What the unit body itself teaches beyond the Reference is not proven by the Reference alone, and is not claimed.** |
 | I wish + past form as the unit's Grammar I, inside the festivals unit, with a three-wishes folk tale as its Extra bit | Nepal, English Grade 7, Unit 4, pp.35–45 |
 | Wish + past simple as a named grammar subheading, "A Closer Look 2" | Vietnam, Tiếng Anh 9, Unit 4 "Remembering the Past", printed p.43 |
 | Expressing wishes — I wish… for present and future regrets, inside the conditionals unit | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed pp. 29, 31 |
@@ -66,7 +66,10 @@ whole system in one section — present, past, would and
 formal wishes in a row. Kuwait teaches the present/past
 pair inside one unit. Malaysia teaches wish / if only
 whole at Form 4 (past simple, would/could, past
-perfect) and only practises it at Form 5. Nepal and
+perfect); at Form 5 its own Grammar Reference carries
+the wishes structure (§11.4, printed p.175) —
+corrected 2026-11-11, see the table above and the
+Malaysia section below. Nepal and
 Vietnam each teach the present wish — I wish + past
 form — as a named grammar point. Egypt was named in
 the build plan for this lesson, but no wish teaching
@@ -147,3 +150,15 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Everyday English — expressing hope and responding | Vietnam, Tiếng Anh 9 (Global Success), Unit 12, printed p.124 |
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Wishes — the structure as set out in the book's own Grammar Reference (§11.4 “Wishes”) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Grammar Reference §11.4, printed p.175 |
+
+Malaysia was already counted in this lesson; these rows complete its stock — the countries line and acceptance count above are unchanged.

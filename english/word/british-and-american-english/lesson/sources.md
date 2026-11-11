@@ -1,6 +1,6 @@
 # Sources — British and American English
 
-countries: Nepal, Vietnam, China, Mexico, Greece, Armenia
+countries: Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia
 
 Every part traces to its book and page.
 
@@ -34,7 +34,7 @@ differ only in cover wording and colophon; cited once.
 | A listening on where English comes from: English as a product of multiple influences from other languages | Mexico, Grade 8, Project 16 "Preserving Languages and Cultures", printed p. 136 |
 | The Advanced teacher's guide for Unit 1 “Unity in Diversity” | Greece, Think Teen! Grade 8 Advanced Teacher's Book (teacher evidence), contents, printed p.1 (unit start) |
 
-**Acceptance count: taught in 6 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia).** Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
+**Acceptance count: taught in 7 countries (Nepal, Vietnam, China, Mexico, Greece, Armenia, Malaysia).** Malaysia joins with Full Blast Plus 4's Culture Pages, incl. “Which English do you speak?” (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 8 Advanced teacher's guide for its cultures unit (stocked 2026-11-10 by the Greece re-verification sweep merge). Vietnam builds a whole unit on the pairs — Jack's visit, the matching quiz, and Kachru's model behind them. Nepal returns to the divide three times in one book: vocabulary, spelling variations, and pronunciation pairs, each as a named Extra bit or pronunciation set. China carries the divide at its smallest: one named pair, autumn/fall, inside its Grade 5 seasons unit (stocked 2026-11-08 by the re-verification sweep). Mexico's Grade 8 book listens to English's own history: the language as the result of influences from many other languages (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 ## Armenia added 2026-11-11 (re-verification sweep merge)
 
@@ -51,3 +51,15 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Culture Pages: “Which English do you speak?” among them | Malaysia, Form 4 *Full Blast Plus 4*, Culture Pages, printed pp.128–131 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

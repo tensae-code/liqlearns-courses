@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia
 
 Every part traces to its book and page.
 
@@ -136,7 +136,7 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 21 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa).** Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 22 countries (Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Malaysia).** Malaysia joins with Form 4's exclamatory sentences and a Year 2 instruction pattern (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with street-crossing instructions, safety warnings and driving instructions from its Grades 8, 9 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -410,3 +410,18 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is already counted in this lesson; these rows complete its stock from the sweep.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 2* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*Superminds 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| “Put + noun + preposition + noun” instructions | Malaysia, Year 2 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 139, printed p.304 |
+| Exclamatory sentences | Malaysia, Form 4 *Full Blast Plus 4*, Module 7 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

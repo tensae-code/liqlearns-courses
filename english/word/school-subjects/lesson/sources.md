@@ -1,6 +1,6 @@
 # Sources — School subjects
 
-countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia
+countries: Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan, Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia
 
 Every part traces to its book and page.
 
@@ -100,8 +100,8 @@ colophon; cited once.
 | Time to go to school — daily routine and schedules | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 12, printed p.53 |
 | School subjects | Nicaragua, Secondary English, Grade 7 Student's Book, Lesson 13, printed p.57 |
 
-**Acceptance count: taught in 15 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
-Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia).** Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
+**Acceptance count: taught in 16 countries (Mexico, Mongolia, Rwanda, Saudi Arabia, Uzbekistan,
+Bolivia, China, Indonesia, Nicaragua, Sudan, Venezuela, Iraq, Armenia, Vietnam, Cambodia, Malaysia).** Malaysia joins with its school-type words and Close-Up's education words (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 7 school subjects and timetable unit (stocked 2026-11-11 by the re-verification sweep merge). Mexico carries the
 ten-subject set whole; Rwanda carries its eight on a real
 timetable with the liking frame and its reason adjectives;
 Mongolia carries the symbol-matching, the favourites
@@ -293,3 +293,18 @@ The 2026-11-08 re-verification sweep re-read all 14 of Cambodia's held English b
 Cambodia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/cambodia-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**File (Scheme of Work):** *KSSR English Language Scheme of Work, Year 5* — Malaysia, Kementerian Pendidikan Malaysia. A teacher/curriculum document: it names the year's textbook (*English Plus 1*) and cites its pages lesson by lesson, but holds no pupil's-book pages — its rows are curriculum evidence, cited at the Scheme's own printed pages. Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Types of school (primary, secondary, private, public, boarding) | Malaysia, Year 5 Scheme of Work (KSSR Scheme of Work — curriculum evidence), Lesson 73, printed p.111 |
+| Education words; collocations and expressions | Malaysia, Form 3 *Close-Up* B1, Unit 11 (contents, pp.135–146) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

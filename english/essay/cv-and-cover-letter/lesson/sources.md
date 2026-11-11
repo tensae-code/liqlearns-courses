@@ -1,6 +1,6 @@
 # Sources — CV and cover letter
 
-countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam
+countries: Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia, Greece, Pakistan, Sudan, Vietnam, Malaysia
 
 Every part traces to its book and page.
 
@@ -54,8 +54,8 @@ CHECK PASSED 2026-11-03).
 | “Learn by doing!” — a letter of application and a CV (reading/writing project texts) | Greece, Think Teen! Grade 7 Advanced Student's Book, Unit 6, Lesson 3, printed p.93 |
 | Job application analysis and writing in the World Without Books unit | Pakistan, *English X*, Unit 9 (contents) |
 
-**Acceptance count: taught in 11 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
-Greece, Pakistan, Sudan, Vietnam).** Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
+**Acceptance count: taught in 12 countries (Syria, Cambodia, Egypt, Nepal, India, Laos, Armenia,
+Greece, Pakistan, Sudan, Vietnam, Malaysia).** Malaysia joins with Form 5's model covering letter (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 Advanced 'Learn by doing!' letter of application and CV (stocked 2026-11-10 by the Greece re-verification sweep merge). Syria
 steps the CV out in nine; Egypt sections it in six with
 its laws and verbs; India prints the format full;
 Cambodia matches CV and cover letter to one advert
@@ -116,3 +116,15 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Writing a curriculum vitae (CV) | Vietnam, Tiếng Anh 12 (Global Success), Unit 9, printed p.123 (Book Map) |
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A covering letter as model text (beside the Unit 8 job application) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 8, printed p.105 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

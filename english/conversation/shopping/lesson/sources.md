@@ -1,6 +1,6 @@
 # Sources — Shopping
 
-countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt
+countries: Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -98,7 +98,7 @@ differ only in cover wording and colophon; cited once.
 | Writing a shopping list with quantities | Mongolia, English XI, Unit 8, printed p.124 |
 | "Does it fit?" — shopping dialogues, returning and changing items | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 23, printed p.103 |
 
-**Acceptance count: taught in 19 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
+**Acceptance count: taught in 20 countries (Cambodia, Mongolia, Greece, Saudi Arabia, Bolivia, China, Iran, Indonesia, Mauritania, Mexico, Nicaragua, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia).** Malaysia joins with Full Blast Plus 4's shopping words (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with shopping words and shopping quantities from its Grade 8 book (stocked 2026-11-11 by the re-verification sweep merge). Iran joins with its Grade 11 handicrafts shopping conversation (stocked 2026-11-09 by the re-verification sweep merge). Cambodia gives the
 conversation its frame and its prices: a whole opening
 chapter of shops and shopping ("Can I help you? / I want
 to buy …, please / Anything else? / No, thanks"), the
@@ -265,3 +265,15 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shopping words and phrases (Module 3 vocabulary set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 3 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

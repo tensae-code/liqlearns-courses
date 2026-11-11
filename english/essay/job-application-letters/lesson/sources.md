@@ -1,6 +1,6 @@
 # Sources — Job application letters
 
-countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam
+countries: Egypt, Iraq, India, Laos, Uzbekistan, Cambodia, South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia
 
 Every part traces to its book and page.
 
@@ -56,8 +56,8 @@ CITATION CHECK PASSED 2026-11-03).
 | The whole Office Clerks key: answers and notes for the student coursebook's sub-lessons — mirror apparatus for the Office Clerks coursebook (teacher evidence) | Greece, English for Office Clerks KEY / Teacher's Book (teacher evidence), PDF pp.1–134 |
 | Hotel Unit 22 “Applying for a job” — job-application language for hotel work | Greece, English for the Hotel and Tourist Trade, Unit 22, Section D |
 
-**Acceptance count: taught in 11 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
-South Sudan, Greece, Sudan, Yemen, Vietnam).** Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
+**Acceptance count: taught in 12 countries (Egypt, Iraq, India, Laos, Uzbekistan, Cambodia,
+South Sudan, Greece, Sudan, Yemen, Vietnam, Malaysia).** Malaysia joins with Full Blast Plus 4's formal letter of application and Form 5's model application (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with its Grade 12 work-experience notices (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Office Clerks answer key (teacher evidence) and the Hotel book's job-application unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India
 prints the advert–CV–covering-letter chain whole;
 Cambodia coaches the covering letter paragraph by
 paragraph; Uzbekistan names the kind as its own lessons;
@@ -101,3 +101,18 @@ The 2026-11-08 re-verification sweep re-read all 16 of Vietnam's held English bo
 | Lesson part | Where it comes from |
 |---|---|
 | Writing an application letter for volunteer work | Vietnam, Tiếng Anh 10 (Global Success), Unit 4, printed p.42 |
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+**Book:** Form 5 KPM textbook — *Download* B1+ (pupil's book), Hamilton House, Malaysia edition 2021. Copy state, stated plainly: the held copy has no cover, title page or contents (printed pp.1–4 absent) and prints no title anywhere; its identity as the Form 5 book rests on the back imprint leaf (serial KPM-2020-978-967-0951-44-7-0101; Malaysian ISBN 978-967-0951-44-7; first published in Malaysia 2021). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Writing a formal letter/email of application | Malaysia, Form 4 *Full Blast Plus 4*, Module 3 (contents) |
+| A job application as model text (Unit 8) | Malaysia, Form 5 KPM textbook (Hamilton House B1+), Unit 8, printed p.105 |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

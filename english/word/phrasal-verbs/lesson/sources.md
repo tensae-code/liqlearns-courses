@@ -1,6 +1,6 @@
 # Sources — Phrasal verbs
 
-countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa
+countries: Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia
 
 Every part traces to its book and page.
 
@@ -128,7 +128,7 @@ the 2026-11-08 re-verification sweep.
 | Phrasal verbs — set the table, wash the dishes, pour, serve | Nicaragua, Activity Book 4 (Grade 4), Unit 7, printed pp.53–55 |
 | Phrasal verbs and idioms, in the Major Shabbir Sharif Shaheed unit (with adjective types, pronoun-antecedent agreement, gerund and participle) | Pakistan, *English 6*, Unit 4 (contents) |
 
-**Acceptance count: taught in 15 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa).** Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
+**Acceptance count: taught in 16 countries (Bolivia, Cambodia, Mongolia, Sudan, Vietnam, Iran, India, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Iraq, Armenia, South Africa, Malaysia).** Malaysia joins with Close-Up's relationship and free-time phrasal verbs and Full Blast Plus 4's keep, get/put and Module 6 sets (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with Grade 8 Advanced phrasal-verb lessons ('break', 'turn'), their workbook practice and the teacher's guide (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with phrasal phrases worked in Classes 6, 7, 9, 10 and 11 — the Fair Play box, the "look" phrases, "break" verbs, "fly" phrases and the "ship" note-work (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with phrasal verbs as a See Also grammar in its Grade 11 book (stocked 2026-11-09 by the re-verification sweep merge). Two sourcing
 facts are stated as plainly as the brief requires.
 First: Bolivia is the ONLY source in the whole read set
 that teaches the separable / non-separable grammar (and
@@ -265,3 +265,21 @@ The 2026-11-08 re-verification sweep re-read all 24 of South Africa's held Engli
 South Africa is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/south-africa-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Close-Up* B1 Student's Book, Second Edition (pupil's book) — Malaysia (Form 3), National Geographic Learning/Cengage, © 2016, ISBN 978-1-4080-9554-6 (generic international edition). Filed in english/books/malaysia.md; re-read in the 2026-11-08 re-verification sweep.
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Phrasal verbs (relationships set) | Malaysia, Form 3 *Close-Up* B1, Unit 4 (contents, pp.43–54) |
+| Phrasal verbs (free-time set) | Malaysia, Form 3 *Close-Up* B1, Unit 8 (contents, pp.95–106) |
+| Phrasal verbs and expressions with keep (Module 2 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 2 (contents) |
+| Phrasal verbs with get and put (Module 3 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 3 (contents) |
+| Phrasal verbs (Module 6 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 6 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.

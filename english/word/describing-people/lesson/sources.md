@@ -1,6 +1,6 @@
 # Sources — Describing people
 
-countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt
+countries: Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia
 
 Every part traces to its book and page.
 
@@ -166,7 +166,7 @@ verification sweep.
 | Hot and Cold: an opposite adjective pair taught with pictured things (heater, ice-cream, iron, ice-cube) | Pakistan, *English Nursery*, printed p.11 |
 | Descriptive composition as the unit's writing work | Pakistan, *English 12*, Unit 8, printed pp.50–61 (unit range) |
 
-**Acceptance count: taught in 23 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt).** Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
+**Acceptance count: taught in 24 countries (Bolivia, Cambodia, Mongolia, Rwanda, Nepal, China, Iran, Indonesia, Mauritania, Mexico, India, Greece, Nicaragua, North Macedonia, Pakistan, South Sudan, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Malaysia).** Malaysia joins with Full Blast Plus 4's personality adjectives and appearance expressions (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with describing family, people in a street scene, appearance and clothing, objects and pictures across its Grades 7, 9, 10 and 12 books (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the favourite-character project frame as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 5 'Tourists love visiting places' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with people's natures described in Class 5's discussion text, a loved person or animal described in Class 10, and the play's two characters described in Class 9 (stocked 2026-11-09 by the India re-verification sweep merge). Cambodia carries the
 core distinction — its unit is titled by the two questions
 themselves; Rwanda carries the fullest sets, appearance and
 personality in Primary 4 and the character sets again in
@@ -480,3 +480,16 @@ The 2026-11-08 re-verification sweep re-read Egypt's 26-book English set page by
 Egypt is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/egypt-placements.md.
+
+## Malaysia added 2026-11-11 (re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 10 of Malaysia's held English books (425 teaching items placed; 304 already in the course, 121 missing, 7 claims flagged). The six primary files are KSSR Schemes of Work — teacher/curriculum documents, not pupil's textbooks — so their rows below are curriculum evidence only, never pupil-book page evidence; the Form books are pupil's books read directly (Form 4's copy is scan-only and was read at contents level — declared in its entry). The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/malaysia-placements.md).
+
+**Book:** *Full Blast Plus 4* Student's Book (pupil's book) — Malaysia (Form 4), MM Publications. The held copy is scan-only (no text layer; no title/imprint page in the file): read in the 2026-11-08 re-verification sweep at contents/module-map level plus a render-verified 20-anchor check — its rows are contents-level evidence, declared as such, not exercise-level. Filed in english/books/malaysia.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Personality adjectives (Module 2 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 2 (contents) |
+| Appearance and fashion expressions (Module 8 set) | Malaysia, Form 4 *Full Blast Plus 4*, Module 8 (contents) |
+
+Malaysia is new to this lesson: the countries line and the acceptance count above were updated together.
