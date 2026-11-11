@@ -1,6 +1,6 @@
 # Sources — Working words
 
-countries: Greece, Bolivia, China, India, Nicaragua
+countries: Greece, Bolivia, China, India, Nicaragua, Palestine
 
 Every part traces to its book and page. This lesson is
 SPECIALIST: its whole stock is Greek vocational (EPAL)
@@ -111,7 +111,7 @@ verification sweep.
 | The whole Hotel teacher's book: notes, keys and Functions/Structures tables for the 24 student units — mirror apparatus for the Hotel coursebook, carrying teaching the student-book citations never carry (e.g. Unit 6's causative have + object + past participle) | Greece, English for the Hotel and Tourist Trade, Teacher's Book (teacher evidence), PDF pp.1–210 |
 | Leadership vocabulary | Nicaragua, Secondary English, Grade 10 Student's Book, Unit 3, Lesson 9 |
 
-**Acceptance count: taught in 5 countries (Greece, Bolivia, China, India, Nicaragua).** India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
+**Acceptance count: taught in 6 countries (Greece, Bolivia, China, India, Nicaragua, Palestine).** India joins with ironworks and legal-procedure field vocabulary worked in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). This is
 the specialist lesson of Unit 7, and its narrow base is
 the point, stated plainly: the trade stock is Greece's own
 vocational sector English — the Grade 12 EPAL Hotel and
@@ -141,3 +141,13 @@ material words of the Grade 9 made-of unit. Other closed countries join as their
 **Book 1:** *Secondary English, Grade 10* — student's book — Nicaragua, Ministerio de Educación (MINED), 148 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Business words — distribute, marketing, market share, market value, returns, sector, up market … | Palestine, Grade 12, Unit 8, printed pp.78–87 |

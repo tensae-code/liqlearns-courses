@@ -1,6 +1,6 @@
 # Sources — Stress and intonation
 
-countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan
+countries: India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -111,7 +111,7 @@ file).
 | Rhythm, stress and intonation as named work of the closing units (with contractions of be and weak forms of a/the) | Pakistan, *English 2*, Units 11–12 (contents) |
 | An IPA pronunciation chart printed at the back of the book | Pakistan, *English 7*, printed p.130 |
 
-**Acceptance count: taught in 12 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
+**Acceptance count: taught in 13 countries (India, Jordan, Sierra Leone, Ecuador, Vietnam, Bolivia, China, Iran, Indonesia, Greece, Nicaragua, Pakistan, Palestine).** Greece joins with the Grade 8 Advanced theatre lesson on stress and intonation and its workbook practice (stocked 2026-11-10 by the Greece re-verification sweep merge).
 India stocks word stress as a named, marked skill
 (´manner) inside a Class 8 reader. Jordan stocks it as
 a running pronunciation strand — syllable stress, the
@@ -152,3 +152,19 @@ grow as other closed countries' books are read.
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 2* names rhythm, stress and intonation in its closing units, and *English 7* prints an IPA pronunciation chart at its back (printed p.130). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pronunciation: stress in sentences | Palestine, Grade 10 Part 1, Unit 1 (per the book's Contents, printed p.3) |
+| Pronunciation: stress for emphasis and contrast | Palestine, Grade 10 Part 1, Unit 2 (per the book's Contents, printed p.3) |
+| Pronunciation: intonation with or-questions | Palestine, Grade 10 Part 1, Unit 3 (per the book's Contents, printed p.3) |
+| Pronunciation: the sounds p and b | Palestine, Grade 10 Part 1, Unit 4 (per the book's Contents, printed p.3) |
+| Pronunciation: weak stress in sentences (weak forms becoming /ə/) | Palestine, Grade 10 Part 1, Unit 5 (per the book's Contents, printed p.3) |
+
+The Grade 10 book's pronunciation strands are placed by its Contents (printed p.3); each unit's strand is cited at that grain, exactly as the placements carry it.

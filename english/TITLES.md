@@ -121,7 +121,19 @@ its own subtitle folder with its own lesson + questions):
   for the World**) ·
   sounds-and-sound-words (added 2026-11-11 by the North
   Macedonia re-verification sweep merge — **Unit 7, Words
-  for the World**)
+  for the World**) ·
+  travel-words (added 2026-11-11 by the Palestine
+  re-verification sweep merge — **Unit 7, Words for the
+  World**) ·
+  study-and-university-words (added 2026-11-11 by the
+  Palestine re-verification sweep merge — **Unit 7, Words
+  for the World**) ·
+  identity-and-brand-words (added 2026-11-11 by the
+  Palestine re-verification sweep merge — **Unit 7, Words
+  for the World**) ·
+  culture-and-living-abroad-words (added 2026-11-11 by
+  the Palestine re-verification sweep merge — **Unit 7,
+  Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -135,6 +147,9 @@ its own subtitle folder with its own lesson + questions):
   have-and-has (added 2026-11-11 by the Nicaragua
   re-verification sweep merge — **Unit 10, Building a
   Sentence**) ·
+  contractions-and-possessive-forms (added 2026-11-11
+  by the Palestine re-verification sweep merge —
+  **Unit 10, Building a Sentence**) ·
   polite-indirect-questions (added 2026-11-11 by the
   Nicaragua re-verification sweep merge — **Unit 11,
   Questions**) ·

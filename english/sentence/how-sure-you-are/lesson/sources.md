@@ -1,6 +1,6 @@
 # Sources — How sure you are
 
-countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua
+countries: Cambodia, Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Ghana, Greece, Mongolia, Nicaragua, Palestine
 
 Every part traces to its book and page.
 
@@ -140,8 +140,8 @@ differ only in cover wording and colophon; cited once.
 | Making sports rules with be supposed to / be allowed to / mustn't | Mongolia, English XI, Unit 7, printed p.106 |
 | Could for possibilities (Tourist Places) | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3B |
 
-**Acceptance count: taught in 13 countries (Cambodia,
-Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
+**Acceptance count: taught in 14 countries (Cambodia,
+Egypt, Malaysia, Nepal, Yemen, Bolivia, China, Iran, Mauritania, Mexico, Greece, Mongolia, Nicaragua, Palestine).** Greece joins with the Grade 5 'Let's do it!' modals lesson (can, must, should) (stocked 2026-11-10 by the Greece re-verification sweep merge). Egypt prices the
 whole ladder in print — must 95–100% true, may/could
 50%, might 30%, can't 95–100% NOT true — and no other
 book in the set prints numbers. Yemen plays the ladder
@@ -173,3 +173,17 @@ deduction, requests, certainty — in Grade 13 (stocked
 **Book 1:** *Módulo Autoformativo de Inglés, Grade 10* — self-study module — Nicaragua, Ministerio de Educación (MINED), 180 pp. Read page by page in the 2026-11-08 re-verification sweep.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+**Book 2:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modal verbs for present and future — may, might, can, can't, must, shall: possibility, ability, necessity; suggesting, requesting, offering | Palestine, Grade 10 Part 1, Unit 3, printed pp.35, 41 |
+| Modal verbs of probability and possibility | Palestine, Grade 12, Unit 4, printed pp.42–43 |
+| Modal verbs with infinitives for present meanings | Palestine, Grade 12, Unit 11, printed p.118 |

@@ -1,6 +1,6 @@
 # Sources — The causative
 
-countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania
+countries: China, Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine
 
 Every part traces to its book and page.
 
@@ -64,8 +64,8 @@ covers the 6th Year book only).
 | make + somebody + bare infinitive and make + somebody + adjective — "Sad movies make me cry" — the example this lesson borrows for make; China teaches no have/get causative | China, English Grade 9, Unit 11, pp.81–88 (Grammar Focus, p.84) |
 | The causative: have + somebody + verb, get + somebody + to-infinitive, have/get + something + done, and the experienced causative (he got his car stolen) (the reading text defines the Internet with the Web's property — hypertext links; taught corrected) | Mauritania, Study English, Grade 13, printed pp.7–10 |
 
-**Acceptance count: taught in 6 countries (China,
-Egypt, Malaysia, Nepal, Vietnam, Mauritania).** Egypt states the
+**Acceptance count: taught in 7 countries (China,
+Egypt, Malaysia, Nepal, Vietnam, Mauritania, Palestine).** Egypt states the
 whole family as one system in a single box — active
 have/get with persons, passive have/get with things,
 make for force, let/allow for permission. Malaysia
@@ -81,3 +81,13 @@ Mauritania teaches the causative whole in its Grade 13 book —
 have/get someone to do, have/get something done, and the
 experienced causative (stocked 2026-11-09 by the Mauritania
 re-verification sweep merge).
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Causative structures | Palestine, Grade 12, Unit 8, printed pp.83–84 |

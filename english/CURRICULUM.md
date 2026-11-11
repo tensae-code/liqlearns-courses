@@ -183,6 +183,18 @@ about the other person, and close the talk.*
   sweep merge):** sounds-and-sound-words ✅ (1 lesson — the
   sound words clap, boom, ring, bang, buzz of North Macedonia's
   Grade 2 course's CLIL music lesson, which no lesson housed)
+- **Sweep addition (2026-11-11, Palestine re-verification
+  sweep merge):** travel-words ✅ (1 lesson — the tour words
+  next, tour, arrive, meet, travel of Palestine's Grade 5
+  Blended Learning Module 4, which no lesson housed) ·
+  study-and-university-words ✅ (1 lesson — the university
+  study words of Palestine's Grade 12, Unit 1, which no
+  lesson housed) · identity-and-brand-words ✅ (1 lesson —
+  the identity and media words of Palestine's Grade 12,
+  Unit 10, which no lesson housed) ·
+  culture-and-living-abroad-words ✅ (1 lesson — the living-
+  abroad words of Palestine's Grade 12, Unit 11, which no
+  lesson housed)
 
 ## Unit 8 — Using the Dictionary
 *End of unit: the learner can find a word and understand what its
@@ -219,6 +231,10 @@ properly.*
   things you own, positives, negatives and questions, of
   Nicaragua's Activity Book 3 and Grade 7 Student's Book,
   which no lesson housed)
+- **Sweep addition (2026-11-11, Palestine re-verification sweep
+  merge):** contractions-and-possessive-forms ✅ (1 lesson —
+  the short forms and possessive forms of Palestine's Grade 10
+  Part 1, Unit 3, which no lesson housed)
 
 ## Unit 11 — Questions
 *End of unit: the learner can ask yes/no questions and wh-
@@ -883,6 +899,75 @@ library side — everything outside pp.3–11 stands on Teacher's
 Book evidence until the full pupil book lands. The English path
 now stands at **211 lessons across 44 units**.
 
+**Palestine sweep additions (2026-11-11, re-verification sweep
+merge):** the sweep re-read all 8 of Palestine's held English
+books page by page — the two Grade 1 parts (filed FULLY READ +
+citation check passed 2026-10-26) and the six books the filing
+carried record-only, unread (Grade 2 Part 1, Grade 1 and Grade 2
+Blended Learning Modules, Grade 5 Blended Learning Module 4,
+Grade 10 Part 1, Grade 12) — 171 teaching items per book, 164
+distinct; 16 already in the course (all Grade 1, in 8 lessons);
+**148 missing, all 148 stocked by this merge, 0 excluded.** The
+Grade 1 opening finally lands: greetings, classroom words, the
+letters formed inside the units, the picture dictionaries, and
+the alphabet placed at the END of each part (the lesson's own
+note now records that Palestine's order is its signature). The
+Grade 2 book stocks numbers 11–20, the kitchen and garden sets
+and have/has; the Grade 5 module stocks the going-to tour, the
+technology set and object pronouns (attested in its Revision
+Worksheet 15, stated exactly so); the Grade 10 book stocks its
+six word sets, the modal and perfect systems, and its reader —
+Episodes 1–6 of the adapted *Around the World in Eighty Days*,
+stocked in the-big-reading as plot summaries under the stated
+distinction (Part 1 only, the story's end not in hand —
+Palestine does NOT join the five complete-text countries); the
+Grade 12 book stocks its full upper-secondary system. Two
+course-side corrections ride this merge: the food-and-fruit
+drinks row is corrected (the drinks stand on printed p.46, the
+"It's apple juice" pattern on p.48, and the set now includes
+milk, tea and coffee — flag F2) and the-home's bedroom row is
+completed (the unit teaches six words — bed, table, chair,
+box, window, door — not four — flag F3). Palestine's Grade 1
+tracing also stocked the pencil course's drawing-lines lesson.
+Flag F1: the tail note at the end of this file claimed
+Palestine stocked from Grade 1 alone as though complete — it
+is rewritten for the full set. Flag F5: the Grade 12 book's
+cover and contents print only "Pupil's Book 12"; the library
+record's "Entrepreneurship (Riada) stream" label cannot be
+confirmed from the book and is not carried in the course.
+Flag F7: the Grade 5 module's Unit 3 twice sends the reader to
+p.56 of the Grade 5 main book, which is not in hand; the gap
+is stated in every Grade 5 book entry, and the module's three
+book errors ("Rivision", "arrive to Gaza", "science laps") are
+taught corrected. Three topics the sweep marked "NEW LESSON
+NEEDED" already had lessons and were stocked there instead,
+exactly as the placements' own notes allow: school and
+classroom things → word/school-and-classroom-things; toys and
+games → word/toys-and-games; prepositions of place →
+word/prepositions-of-place. Two more routings, noted in the
+files: the Grade 2 "talking about likes" topic and the Grade 10
+free-time word set stock conversation/likes-and-hobbies; the
+Grade 10 "can/could for ability" topic stocks
+sentence/can-for-ability. Three items are dual-homed and
+counted once: the Grade 10 Unit 1 and Unit 2 word sets stock
+both word/word-building (the sets) and
+paragraph/answering-from-the-text (their readings); the Grade
+10 telephone-notes item stocks conversation/telephoning (the
+notes) and essay/postcards-and-personal-letters (the email
+written from them). The Grade 12 "prepositions after verbs"
+topic stocks word/prepositions-after-adjectives-and-verbs,
+which houses the prepositions that belong to a word itself.
+The 7 blended-module items that duplicate main-book items are
+cited once, under the main books. **5 NEW LESSONS**:
+**travel-words** (Unit 7 — the Grade 5 module's tour words),
+**study-and-university-words** (Unit 7 — Grade 12 Unit 1),
+**identity-and-brand-words** (Unit 7 — Grade 12 Unit 10),
+**culture-and-living-abroad-words** (Unit 7 — Grade 12 Unit
+11), **contractions-and-possessive-forms** (Unit 10 — Grade 10
+Unit 3's short forms and possessive forms). **Palestine: 8 of
+8 read.** The English course now stands at **216 lessons
+across 44 units**.
+
 ---
 *Kept current as books are read: when a book is finished, its units are
 placed in this plan and its basics are filed into the lessons named
@@ -941,10 +1026,16 @@ classes one by one) and Literature as its own strand
 at JHS. **Ghana: curricula 3 of 3 read; Distance
 Learning set record-only.**
 
-**Stocked by Palestine (Grade 1):** English for
+**Stocked by Palestine (all 8 books):** English for
 Palestine starts with a full semester of talk — hello
 and names, food, animals, body, classroom, family,
 drinks — with numbers threaded 1–10 through the units
 and the alphabet placed at the END of each part, after
-the talking. **Palestine: Grade 1 (2 parts) read;
-6 items record-only.**
+the talking; Grade 2 adds numbers 11–20 and the kitchen
+and garden sets; the Grade 5 module, Grade 10 Part 1 and
+Grade 12 carry the course to the full upper-secondary
+system. All 8 held books were read page by page in the
+2026-11-08 re-verification sweep and every one of their
+164 distinct teaching items is stocked (16 already in,
+148 stocked by the 2026-11-11 sweep merge, 0 excluded).
+**Palestine: 8 of 8 read.**

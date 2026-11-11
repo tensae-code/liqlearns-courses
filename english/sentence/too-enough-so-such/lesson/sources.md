@@ -1,6 +1,6 @@
 # Sources — Too, enough, so, such
 
-countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam
+countries: Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine
 
 Every part traces to its book and page.
 
@@ -28,6 +28,16 @@ Every part traces to its book and page.
 | Adverbial clauses of manner and result — so … that / such … that as result clauses; the unit's Grammar box | Vietnam, Tiếng Anh 12, Unit 7 "The world of mass media", Grammar box heading printed p.91 (unit pp.88–99) |
 | Too and enough with modal verbs — too + adjective for excess; enough after modal verbs (can/could + verb + enough) | Bolivia, Texto de Aprendizaje (English), Grade 12 (Secundaria 6) student book, printed p. 21 |
 
-**Acceptance count: taught in 5 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam).**
+**Acceptance count: taught in 6 countries (Bolivia, Kuwait, Malaysia, Nepal, Vietnam, Palestine).**
 
 GRADE NOTE (filing wins over the plan): the CATCH-UP-PLAN's anchor for this lesson names "Nepal G10 U18"; Nepal's filing places the intensifiers too and enough unit — Unit 18, Grammar II, with the road-accidents opinion article — in the **Grade 8** student's book (ENGLISH Grade 8, Unit 18, pp.226–237), and no Grade 10 unit in the filing carries it. This lesson cites Grade 8, as filed.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Too … / (not) … enough; so + adjective + that; such + noun + that | Palestine, Grade 10 Part 1, Unit 5, printed pp.68–69 |

@@ -1,6 +1,6 @@
 # Sources — Technology words
 
-countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan
+countries: Bolivia, Vietnam, Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -151,8 +151,8 @@ colophon; cited once.
 | The Journey of Chocolate: an inventions text (with diphthongs, regular and irregular nouns, action verbs and prepositions of position) | Pakistan, *English 4*, Unit 3 (contents) |
 | "Importance of Science & Technology": a whole text opening "Science and technology have facilitated us in many ways" (the book's contents list its last units in rotated order against the body openers; the body opener governs the citation) | Pakistan, *English 6*, printed pp.101–109 |
 
-**Acceptance count: taught in 11 countries (Bolivia, Vietnam,
-Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
+**Acceptance count: taught in 12 countries (Bolivia, Vietnam,
+Sudan, Bangladesh, China, Iran, Indonesia, Mexico, Greece, Mongolia, Pakistan, Palestine).** Greece joins with the Grade 5 'Do you like computers?' lesson (stocked 2026-11-10 by the Greece re-verification sweep merge). Bolivia carries the machine itself — the numbered
 parts list, the hardware/software pair, the action verbs —
 and the internet year: surviving online and the five
 internet activities. Vietnam carries the newest set, the AI
@@ -173,3 +173,17 @@ by the re-verification sweep merge). Other closed countries join as
 their books are read (see READING-QUEUE.md). Mexico builds technology across the grades: tools and machines as the body's functions delegated, and a social-networks study (Grade 7); the automatons history reading (Grade 8); and a social-media lapbook (Grade 9) (stocked 2026-11-09 by the Mexico re-verification sweep merge). Mongolia joins with English XII, its Grade 12 book, read page by page for the first time in the 2026-11-08 re-verification sweep (stocked 2026-11-11 by the Mongolia re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: *English 4* journeys through chocolate as an inventions text (Unit 3), and *English 6* reads its Importance of Science & Technology whole (printed pp.101–109; its contents rotate the last units against the body openers, and the body opener governs). Both are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 5, Pupil's Book 5B, Blended Learning Module 4* — Palestine, Ministry of Education & Higher Education / Macmillan, 16 pp (printed page = PDF page − 1). The only Grade 5 English book in hand — no Grade 5 main book is in the set; the module is a condensed extract of main-book units, and its Unit 3 twice sends the reader to p.56 of the main book for a reading text NOT printed in the module (sweep diff, flag F7). Its errors are taught corrected: the worksheet header prints "Rivision" for Revision (three times), one passage says "arrive to Gaza" (for arrive in/at Gaza), another "science laps" (for science labs). Recorded record-only, unread in the filing; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+**Book 2:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Technology words — laptop, screen, keyboard, mouse, remote control, mobile phone, button, click, press, turn on, borrow, use, choose | Palestine, Grade 5 Blended Learning Module 4, Unit 2, printed pp.6–8 |
+| Space and future words — robot, rescue, future, everyone, spacesuit, planet, spaceship, scientist, science lab, outer space, grow | Palestine, Grade 5 Blended Learning Module 4, Unit 3, printed pp.10–13 |
+| Communication-technology words — addicted, citizen, hub, network, questionnaire, remote, shrink, trend … | Palestine, Grade 12, Unit 4, printed pp.38–47 |

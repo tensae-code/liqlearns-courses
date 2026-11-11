@@ -1,6 +1,6 @@
 # Sources for this lesson — Greetings
 
-countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana
+countries: Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Ghana, Palestine
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag.
@@ -210,7 +210,7 @@ rendered page the same day).
 | The Welcome! greeting song that opens the course — "Hello and welcome! Welcome to you! Bye-bye!" — with the course characters (Extra, Tom, Wendy) presented (the pupil page prints only "Sing"; the song's words are the Teacher's Book audioscript's) | North Macedonia — EXTRA and Friends 2, Pupil's Book, Welcome!, printed p.3 |
 | A British pupil introduces herself: "I'm Emma. I'm 7 years old. This is my school, St Lawrence's." (Welcome to Britain culture spot) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 3, Lesson 5, pupil printed p.25 |
 | The farewell song "Bye-bye friends, Happy Holidays! … See you all next year!" (the Bye-bye! lesson) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Bye-bye!, pupil printed p.74 |
-**Acceptance count: taught in 35 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 36 countries (Egypt, Libya, Nicaragua, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Palestine).** India joins with Class 1's fill-in-about-yourself work and Class 6's "Who I Am" introductions (stocked 2026-11-09 by the India re-verification sweep merge).
 China adds name exchanges from its first primary page and the
 "Where are you from? — I'm from …" origin frame (Grades 3), plus
 five printed ways to say goodbye (Grade 6 Volume 2); North
@@ -747,3 +747,13 @@ Nicaragua was already counted in this lesson from the filed primary books; the r
 ## North Macedonia — sweep additions 2026-11-11 (re-verification sweep merge)
 
 **Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the 2026-10-29 North Macedonia section above covered only the Pupil's Book. North Macedonia was already counted in this lesson, so the acceptance count does not change. Rows marked (teacher evidence) rest on this book's reproduced pupil pages, lesson notes and audioscripts: the secured Pupil's Book copy holds printed pp.3–11 only, and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5) — so no teacher-evidence row is cited as a pupil-book page in hand. Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 1 Part 1* (Student's Book & Workbook 1A) — Palestine, Ministry of Education & Higher Education / Macmillan, 2011, 64 pp. Filed in english/books/palestine.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep, which verified the filing's Grade 1 claims at every anchor re-checked (sweep diff, flag F6).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greetings — hello, hi, goodbye, good morning, good afternoon — and saying your name: "What's your name? My name's …" | Palestine, Grade 1 Part 1, Unit 1, printed pp.4–9 |

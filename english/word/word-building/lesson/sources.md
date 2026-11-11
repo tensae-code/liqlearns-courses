@@ -1,6 +1,6 @@
 # Sources — Word building
 
-countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan
+countries: Barbados, Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Ghana, Greece, Mongolia, Nicaragua, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -148,8 +148,8 @@ verification sweep.
 | Thesaurus work and multi-syllable words in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 | Abbreviations and acronyms in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 12 countries (Barbados,
-Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
+**Acceptance count: taught in 13 countries (Barbados,
+Cambodia, Malaysia, Nepal, South Africa, China, Iran, India, Greece, Mongolia, Nicaragua, Pakistan, Palestine).** Greece joins with the EPAL Grade 10 'Art and Graffiti' noun-formation unit (stocked 2026-11-10 by the Greece re-verification sweep merge). India joins with letter-word building in Classes 3, 4, 6, 8 and 9, including the ie/ei spelling rule (stocked 2026-11-09 by the India re-verification sweep merge). Iran joins with prefixes and suffixes in Grade 11 and word part families in Grade 12 (stocked 2026-11-09 by the re-verification sweep merge). Barbados
 carries the naming — prefix, suffix, root as the "meaning
 unit," syllabication — in its primary syllabi; Cambodia
 carries the fullest building sets as a named word-formation
@@ -177,3 +177,20 @@ are read (see READING-QUEUE.md). Mongolia joins with English XI, its Grade 11 bo
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 4 books stock this lesson: the *English Grammar & Composition 9–10* closes with a vocabulary chapter of syllabified word lists (Chapter VIII, printed p.179), and the older-curriculum *English IX* works abbreviations in its mosque unit — both books stood unread in the old filing under the 2026-11-03 ruling and were read in the 2026-11-08 re-verification sweep. *English 7* opens with prefixes and suffixes (Unit 1, printed p.1) and *English 8* carries thesaurus work, multi-syllable words and abbreviations and acronyms in its grammar system; both are filed in english/books/pakistan.md and were re-read in the same sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+**Book 2:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Word set 1 + word formation (apartment, attach, cancel, definite …; farm + land = farmland) | Palestine, Grade 10 Part 1, Unit 1, printed pp.4–7 |
+| Word set 2 (appointment, canteen, condition, director, experiment, feed, field …) — the set itself; its reading is stocked in answering-from-the-text | Palestine, Grade 10 Part 1, Unit 1, printed pp.8–10 |
+| Word set 1 (about to, at last, clue, get to, or, prize, riddle …) | Palestine, Grade 10 Part 1, Unit 2, printed pp.18–20 |
+| Word set 2 (exact, GPS, kph, life raft, measure, nearly, orbit …) — the set itself; its reading is stocked in answering-from-the-text | Palestine, Grade 10 Part 1, Unit 2, printed pp.22–24 |
+| Prefixes co- and mis- | Palestine, Grade 12, Unit 3, printed p.29 |
+| Prefixes over- and under- | Palestine, Grade 12, Unit 9, Periods 3–4, printed pp.92–94 |

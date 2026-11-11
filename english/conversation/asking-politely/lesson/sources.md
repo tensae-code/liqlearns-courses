@@ -1,6 +1,6 @@
 # Sources — Asking politely
 
-countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan
+countries: Cambodia, Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -89,8 +89,8 @@ covers the 6th Year book only).
 | Would for polite requests, with formal rewrites | Nicaragua, Grade 10 Módulo Autoformativo, Unit 3C |
 | Courtesy Words — thank you, sorry, excuse me, please — taught as their own page | Pakistan, *English Nursery*, printed p.22 |
 
-**Acceptance count: taught in 10 countries (Cambodia,
-Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan).** Cambodia carries the lesson twice:
+**Acceptance count: taught in 11 countries (Cambodia,
+Malaysia, Syria, Bolivia, China, Indonesia, Mauritania, Mongolia, Nicaragua, Pakistan, Palestine).** Cambodia carries the lesson twice:
 Grade 8 states the casual/formal distinction in its own
 notes and practises both rungs from the barbecue to the
 wedding; Grade 10 sets polite can/could requests against
@@ -127,3 +127,13 @@ Mauritania re-verification sweep merge). Mongolia joins with English XI, its Gra
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: the *English Nursery* teaches Courtesy Words — thank you, sorry, excuse me, please — as a page of their own (printed p.22). It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 5, Pupil's Book 5B, Blended Learning Module 4* — Palestine, Ministry of Education & Higher Education / Macmillan, 16 pp (printed page = PDF page − 1). The only Grade 5 English book in hand — no Grade 5 main book is in the set; the module is a condensed extract of main-book units, and its Unit 3 twice sends the reader to p.56 of the main book for a reading text NOT printed in the module (sweep diff, flag F7). Its errors are taught corrected: the worksheet header prints "Rivision" for Revision (three times), one passage says "arrive to Gaza" (for arrive in/at Gaza), another "science laps" (for science labs). Recorded record-only, unread in the filing; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Asking permission — "Can I use it? Can I borrow your bike, please? Can I try your mobile phone?" | Palestine, Grade 5 Blended Learning Module 4, Unit 2, printed pp.6, 8 |

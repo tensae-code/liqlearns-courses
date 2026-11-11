@@ -1,6 +1,6 @@
 # Sources — Personal statements and proposals
 
-countries: Jordan, Greece, Egypt
+countries: Jordan, Greece, Egypt, Palestine
 
 Every part traces to its book and page.
 
@@ -33,10 +33,21 @@ still owed).
 | A formal proposal as a taught genre: 130–180 words, with register teaching, in the senior book's writing spine | Greece, Αγγλικά 2, Grades 11–12, Unit 6, Writing (unit printed pp.81–100; the proposal in the unit's writing work, as filed) |
 | The personal statement/objective as a named CV section of 2–3 sentences — the statement's seed inside the CV | Egypt, Secondary 10 Term 1, Unit 6, Lesson 5 (as filed in EGYPT-BOOK-MAP.md) |
 
-**Acceptance count: taught in 3 countries (Jordan,
-Greece, Egypt).** Jordan teaches both pieces with full
+**Acceptance count: taught in 4 countries (Jordan,
+Greece, Egypt, Palestine).** Jordan teaches both pieces with full
 models — the statement at Grade 10 with its tips box, the
 proposal at Grade 12 in its three named sections; Greece
 teaches the formal proposal at a counted length with
 register work; Egypt carries the statement in miniature
 as the CV's own section.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Personal statements — reading and assessing one; planning and drafting your own | Palestine, Grade 12, Unit 2, printed pp.21–23 |
+| Writing samples — model application and personal statement, essay, business letter and summary, with a personal-statement plan | Palestine, Grade 12, appendices, printed pp.139–143 |

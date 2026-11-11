@@ -1,6 +1,6 @@
 # Sources — Reported commands
 
-countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan
+countries: Mauritania, Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -57,8 +57,8 @@ colophon; cited once.
 | Reported offers taught beside the commands: said offered, offered to, asked to — with the conditions for their use (the fuller treatment is the Reported Offers, Requests and Suggestions lesson) | Mexico, Grade 9, Project 14 "Classified Ads", printed p. 124 |
 | Reported requests, commands and exclamatory sentences — the book teaches direct and indirect speech across the present, past and future tenses, and these reported kinds with it | Pakistan, *English 8*, printed pp.120–121 |
 
-**Acceptance count: taught in 6 countries (Mauritania,
-Nepal, Rwanda, Vietnam, Mexico, Pakistan).** Mauritania states the
+**Acceptance count: taught in 7 countries (Mauritania,
+Nepal, Rwanda, Vietnam, Mexico, Pakistan, Palestine).** Mauritania states the
 conversion (imperative → to-infinitive, negative → not
 to) inside its reported-speech unit. Nepal teaches the
 four-verb family (told/asked/advised/warned) at Grade 8
@@ -74,3 +74,13 @@ the not-before-to rule, in a book that teaches no other
 reported speech. Mexico's Grade 9 book teaches reported commands with tell, advise or ask + to-infinitive (stocked 2026-11-09 by the Mexico re-verification sweep merge).
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 1 book stocks this lesson: *English 8* teaches direct and indirect speech across present, past and future tenses, with reported requests, commands and exclamatory sentences (printed pp.120–121) — the full system the old filing's header missed when it said reported speech is taught properly only in Grades 6 and 9. It is filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reporting advice and orders | Palestine, Grade 12, Unit 8, printed p.82 |

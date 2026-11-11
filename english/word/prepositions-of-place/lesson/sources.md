@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia
+countries: Bolivia, Nicaragua, North Macedonia, Palestine
 
 Every part traces to its book and page.
 
@@ -27,7 +27,7 @@ Every part traces to its book and page.
 | Prepositions of place — next to, in front of, across from, between, opposite, behind | Nicaragua, Grade 8 Módulo Autoformativo, Unit 1C, printed pp.34–47 |
 | Position words in/on/under, circled against pictures (a cat on/in a box, a dog under/in a box) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 5, Checkpoint 5, Lesson 8, pupil printed p.43 |
 
-**Acceptance count: taught in 3 countries (Bolivia, Nicaragua, North Macedonia).**
+**Acceptance count: taught in 4 countries (Bolivia, Nicaragua, North Macedonia, Palestine).**
 
 This lesson exists because the 2026-11-08 re-verification sweep re-read Bolivia's books page by page and found two place-preposition strands with no lesson of their own: the Grade 3 student book's on/in/under/up/down and the teacher compendium's fuller Year 1 set. Under the everything-goes-in ruling (2026-11-06) a new lesson was built for them. The compendium entry is teacher-compilation evidence, cited as such, never as a student's book.
 
@@ -40,3 +40,21 @@ Nicaragua joins with the Multigrado book's first place prepositions (in/on/under
 **Book 7:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. The row above is teacher evidence: it rests on this book's reproduced pupil page and notes for Module 5's Checkpoint in *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — that pupil page is not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The sweep's placements marked the item "NEW LESSON NEEDED: where things are (in, on, under)"; it stocks here, in the lesson built for exactly that topic (routing noted 2026-11-11 by the re-verification sweep merge).
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 1 Part 2* (Pupil's Book 1B) — Palestine, Ministry of Education & Higher Education / Macmillan, 2011, 64 pp. Filed in english/books/palestine.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep, which verified the filing's Grade 1 claims at every anchor re-checked (sweep diff, flag F6).
+
+**Book 2:** *English for Palestine — Grade 2 Part 1* (Student's Book & Workbook 2A) — Palestine, Ministry of Education & Higher Education / Macmillan, 64 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Where's my ball? Here! There!" — asking where a thing is | Palestine, Grade 1 Part 2, Unit 10, printed pp.4–9 |
+| Position words in / on / under — "It's in/on/under the bed." | Palestine, Grade 1 Part 2, Unit 15, printed pp.36–39 |
+| "Where's the telephone? It's on/in/under the box." | Palestine, Grade 2 Part 1, Unit 7, printed pp.42–45 |
+| Position of places — next to, between: "The park is between the church and the school." | Palestine, Grade 2 Part 1, Unit 8, printed pp.48–51 |
+| At for where someone is — "Where's Sami? At his house. She's at the park." | Palestine, Grade 2 Part 1, Unit 8, printed pp.50–51 |
+
+The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.

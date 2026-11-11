@@ -1,6 +1,6 @@
 # Sources — The big reading
 
-countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua
+countries: Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Ghana, Greece, Mongolia, Nicaragua, Palestine
 
 Every part traces to its book and page. (Libya's filing is
 the agent-assisted full read of 2026-10-25 — see the status
@@ -279,7 +279,7 @@ Literary Course Book — Libya, Ministry of Education
 | A lesson-length history reading: the Uigarjin Mongolian script and the Chinggis stone inscription (filed as a summary only) | Mongolia, English XII, Unit 6, printed pp.103–104 |
 | A fiction extract read in class: “The Boy Who Lived,” from Harry Potter (filed as a summary only; no text transcribed) | Mongolia, English XII, Unit 6, printed p.114 |
 
-**Acceptance count: taught in 14 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua)** — the
+**Acceptance count: taught in 15 countries (Libya, Pakistan, Sudan, Kuwait, Syria, Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia, Nicaragua, Palestine)** — the
 first five are the countries whose schoolbooks carry a complete book-length
 text: Libya binds complete GRADED readers into its book;
 Pakistan binds one novella in the author's own
@@ -361,3 +361,20 @@ smoothed over.
 **Mongolia added 2026-11-11 (re-verification sweep)** — 2 books stock this lesson: **Books:** *English XI* (Student's Book, Grade 11) and *English XII* (Student's Book, Grade 12) — Mongolia, Ministry of Education, Culture, Science and Sports, 2019, ISBN 978-99978-61-36-8 and ISBN 978-99978-61-93-1 (2nd printing). The two senior books were never read for the course before the sweep: the english/books/mongolia.md filing covers Grades 5–10 only, and no lesson cited either book. The sweep read both page by page from the Ministry's econtent.edu.mn flipbooks and placed 265 teaching items across the two books, this lesson's sixteen among them; the placements stand in the sweep record. Stated plainly, as with Bangladesh, Bolivia, China, Indonesia, Mexico, India and Greece above: Mongolia's senior books carry NO complete book-length text and no complete graded reader, so Mongolia does not join the five complete-text countries on their terms. What it stocks is its senior long-reading ladder — sixteen sustained lesson-length readings across the two books: biographies (Angelina Jolie, Marie Curie, Alfred Nobel, Malala), exploration and history readings (the great explorers, Vasco da Gama, the Silk Road, twelve women explorers, Roy Chapman Andrews in the Gobi, the Hunnu tombs, the Mongolian script), a survival story, the legend of Queen Alungoo, a poem, and two fiction-scale extracts (the Walt Disney World text and “The Boy Who Lived”). Readings are filed as plot summaries only; no text is transcribed. Book error noted and taught corrected: English XI, Unit 9 (printed p.137) credits Magellan himself as the first to circumnavigate the globe — he died in the Philippines; his expedition completed the voyage under Elcano.
 
 **Nicaragua added 2026-11-11 (re-verification sweep)** — 6 books stock this lesson: **Books:** *English Activity Book 3* (Grade 3, 64 pp) and *English Activity Book 4* (Grade 4, 72 pp) — activity books; *Secondary English*, Grades 7, 8 and 10 — student's books; and the *Módulo Autoformativo de Inglés, Grade 10* — self-study module — all Nicaragua, Ministerio de Educación (MINED). The primary books and the Grade 10 pair were read page by page in the sweep and are filed in english/books/nicaragua.md; the Grade 7 and 8 books were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Stated plainly, as with Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece and Mongolia above: Nicaragua's books carry NO complete book-length text and no complete graded reader, so Nicaragua does not join the five complete-text countries on their terms. What it stocks is its sustained-reading ladder — thirty-six lesson-length readings: the Grade 3 and Grade 4 activity books' unit readings (Momo the monster, the town of El Crucero, a day at Las Peñitas beach, firefighters in Nicaragua), the Grade 7 and 8 books' Nicaragua readings (national symbols, the ethnic groups, El Güegüense, tourism, handicrafts), and the Grade 10 pair's readings and legends (Gloria's family, the Crying Lady legends, the poet Rugama, Roberto Clemente, Ometepe, the Managua earthquake). Readings are filed as plot summaries only; no text is transcribed. Book error noted and taught corrected: the Grade 10 book's Gloria's family reading prints "I have one sister named Karla. He is a student" — the pronoun is the book's error, taught corrected to She.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reader, Episode 1 — "The adventure begins": Phileas Fogg makes his wager and leaves London with his servant Passepartout (plot summary only) | Palestine, Grade 10 Part 1, Unit 1, printed pp.16–17 |
+| Reader, Episode 2 — "East to India": the journey continues east, to India (plot summary only) | Palestine, Grade 10 Part 1, Unit 2, printed pp.30–31 |
+| Reader, Episode 3 — "Saving Aouda": Fogg's party rescues Aouda (plot summary only) | Palestine, Grade 10 Part 1, Unit 3, printed pp.44–45 |
+| Reader, Episode 4 — "The route to Singapore": the journey goes on toward Singapore (plot summary only) | Palestine, Grade 10 Part 1, Unit 4, printed pp.58–59 |
+| Reader, Episode 5 — "Mr Fogg misses the boat": Fogg misses his boat (plot summary only) | Palestine, Grade 10 Part 1, Unit 5, printed pp.72–73 |
+| Reader, Episode 6 — "A storm at sea": a storm at sea delays the journey (plot summary only) | Palestine, Grade 10 Part 1, Unit 6, printed pp.86–87 |
+
+Palestine's reader is the adapted serial of Jules Verne's *Around the World in Eighty Days* printed inside the Grade 10 Part 1 pupil's book, two pages per unit. Only Part 1 is in hand: Episodes 1–6, which do not reach the end of the story — the journey continues in Part 2, which is not held. Palestine is therefore stocked under the same stated distinction as Bangladesh, Bolivia, China, Indonesia, Mexico, India, Greece, Mongolia and Nicaragua above: a sustained reading stocked as plot summaries, NOT a complete book-length text, and Palestine does not join the five complete-text countries (Libya, Pakistan, Sudan, Kuwait, Syria) on their terms.

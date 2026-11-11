@@ -1,6 +1,6 @@
 # Sources — Exclamations and orders
 
-countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan
+countries: Bolivia, Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Ghana, Greece, North Macedonia, Pakistan, Palestine
 
 Every part traces to its book and page.
 
@@ -136,8 +136,8 @@ covers the 6th Year book only).
 | The exclamation mark, in the Thank You, Lord unit (with "use of the" and gender nouns) | Pakistan, *English 4*, Unit 5 (contents) |
 | Imperatives and exclamatory sentences in the grammar system | Pakistan, *English 8*, grammar system (contents) |
 
-**Acceptance count: taught in 11 countries (Bolivia,
-Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan).** North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
+**Acceptance count: taught in 12 countries (Bolivia,
+Egypt, Kuwait, Nicaragua, Rwanda, China, Indonesia, Mauritania, Greece, North Macedonia, Pakistan, Palestine).** North Macedonia joins with the classroom-commands song as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Exploiting the Earth transplanting unit — the imperative and advice forms inside instructions (stocked 2026-11-10 by the Greece re-verification sweep merge). A plan-anchor
 correction is recorded: the catch-up plan pointed at
 "Rwanda P.5 U9 p.113", but the filing shows Pupil's
 Book 5's Unit 9 is Traditional and Modern Agriculture
@@ -178,3 +178,22 @@ by the Mauritania re-verification sweep merge).
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
 
 **Pakistan added 2026-11-11 (re-verification sweep)** — 3 books stock this lesson: *English 1* names commands as a grammar strand, *English 4* works the exclamation mark in its gratitude unit, and *English 8* carries imperatives and exclamatory sentences in its grammar system. All three are filed in english/books/pakistan.md and re-read in the 2026-11-08 re-verification sweep.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 1 Part 2* (Pupil's Book 1B) — Palestine, Ministry of Education & Higher Education / Macmillan, 2011, 64 pp. Filed in english/books/palestine.md (FULLY READ + CITATION CHECK PASSED 2026-10-26); re-read page by page in the 2026-11-08 re-verification sweep, which verified the filing's Grade 1 claims at every anchor re-checked (sweep diff, flag F6).
+
+**Book 2:** *English for Palestine — Grade 2 Part 1* (Student's Book & Workbook 2A) — Palestine, Ministry of Education & Higher Education / Macmillan, 64 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+**Book 3:** *English for Palestine — Grade 5, Pupil's Book 5B, Blended Learning Module 4* — Palestine, Ministry of Education & Higher Education / Macmillan, 16 pp (printed page = PDF page − 1). The only Grade 5 English book in hand — no Grade 5 main book is in the set; the module is a condensed extract of main-book units, and its Unit 3 twice sends the reader to p.56 of the main book for a reading text NOT printed in the module (sweep diff, flag F7). Its errors are taught corrected: the worksheet header prints "Rivision" for Revision (three times), one passage says "arrive to Gaza" (for arrive in/at Gaza), another "science laps" (for science labs). Recorded record-only, unread in the filing; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple instructions — Stand up. Sit down. Jump up and down. | Palestine, Grade 1 Part 2, Unit 17, printed pp.48–51 |
+| Body instructions — "Open/Close your mouth. Touch your hair." | Palestine, Grade 2 Part 1, Unit 4, printed pp.22–24 |
+| Instructions and Don't — jump, hop, clap, open, close, come here, go there, be quiet; "Don't sit down." | Palestine, Grade 2 Part 1, Unit 6, printed pp.34–39 |
+| Device instructions — press the button, turn on, click on the mouse (imperatives for using devices) | Palestine, Grade 5 Blended Learning Module 4, Unit 2, printed pp.6–8 |
+
+The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.

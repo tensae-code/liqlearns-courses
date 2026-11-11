@@ -1,6 +1,6 @@
 # Sources — The present perfect continuous
 
-countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India
+countries: Egypt, Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine
 
 Every part traces to its book and page.
 
@@ -134,8 +134,8 @@ re-verification sweep.
 | Workbook Unit 4 (Click on-line!), lessons 1–3 — practice of the present perfect continuous with the unit's texts | Greece, Think Teen! Grade 9 Workbook, Unit 4, WB printed pp.43–52 |
 
 
-**Acceptance count: taught in 20 countries (Egypt,
-Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
+**Acceptance count: taught in 21 countries (Egypt,
+Libya, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Sudan, Nepal, Armenia, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, India, Palestine).** India joins with for vs since taught through the Class 5 play's examples, the book's non-standard pairing filed as printed (stocked 2026-11-09 by the India re-verification sweep merge). Libya meets the tense at Grade 8 inside a
 records lesson, names it for recent habits at Grade 9,
 and drills it as a full lesson with for/since at Grade
 10. Egypt states the complete box at Secondary 12 — the
@@ -209,3 +209,13 @@ unlooked-for.
 **Venezuela added 2026-11-04** — 1 book stocks this lesson, as a PARTIAL: **Book:** *My Victory — Guía para el docente*, 5to año (Teacher's Book, Grade 11) — Venezuela, CENAMEC / MPPE (UNEM), Primera edición Noviembre 2024, ISBN 978-980-8016-06-2. Filed in english/books/venezuela.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Filed plainly: Venezuela's set is five Teacher's Books only — no student's book is held, the guides key the 2013 MPPE student editions by page and reproduce no student lesson in full, so the Venezuela row here is teacher's-book evidence, worded as such. PARTIAL, stated exactly: the present perfect continuous is Lesson 13's named grammar emphasis in the Grade 11 guide — students copy the structure from the student chart and order words into statements in the tense — but the chart is not reproduced in the guide, and the one formula the guide does print (in the lesson's plan) omits *been* and is flagged defective in the country file; it is not quoted or relied on. Grade 11's Lesson 12 plan also promises this tense, but its body never presents it (a parts-of-speech table takes its place), so Lesson 12 is not counted. Grade 10's filing is explicit that the tense never occurs there, and Grades 7–9 never present any perfect tense. The Grade 11 guide's other perfect presentation — the past perfect continuous of Lesson 14, whose chart IS printed in full with both forms and two examples — has no lesson of its own and is held as unkeyed stock.
 
 **Pakistan — sweep additions 2026-11-11** — 2 further books stock this lesson — both of the Punjab books the old filing left unread under the 2026-11-03 ruling, read in the 2026-11-08 re-verification sweep: the *English Grammar & Composition 9–10* teaches the present perfect continuous as its own section of the tense system (printed p.83), and the older-curriculum *English IX* works it with for and since in its grammar system.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present perfect continuous | Palestine, Grade 10 Part 1, Unit 2, printed pp.26–28 |

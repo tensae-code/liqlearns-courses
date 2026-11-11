@@ -1,6 +1,6 @@
 # Sources — Stative verbs
 
-countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam
+countries: Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine
 
 Every part traces to its book and page.
 
@@ -23,6 +23,16 @@ Every part traces to its book and page.
 | Stative verbs — senses and emotions verbs take simple forms — in the Grand Canyon lesson | Nicaragua, Inglés Grade 10, Lesson 12, p.94 |
 | "Stative verbs in the continuous form" and "Linking verbs" — the Grammar box pairing this lesson follows: the stative question and the linking-verb system in one box | Vietnam, Tiếng Anh 11, Unit 3 "Cities of the future", Grammar box heading, printed p.30 (unit pp.28–37) |
 
-**Acceptance count: taught in 5 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam).**
+**Acceptance count: taught in 6 countries (Cambodia, Egypt, Malaysia, Nicaragua, Vietnam, Palestine).**
 
 Vietnam's box heading is quoted exactly as filed — "Stative verbs in the continuous form" — because the filing gives the heading, not a rule in the opposite sense; this lesson takes the not-continuous RULE from Egypt's full statement and Cambodia's rule-plus-error-correction, and stocks Vietnam for the pairing of the stative question with linking verbs, as its filing presents it.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Stative verbs | Palestine, Grade 12, Unit 1, printed pp.8–10 |

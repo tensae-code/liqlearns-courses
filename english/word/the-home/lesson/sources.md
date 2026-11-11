@@ -173,7 +173,7 @@ verification sweep.
 | Sitting room, bedroom, kitchen taught as the house set, with the garden outside | Libya, Grade 1 Pupils Book, Unit 4 (Lessons 7–8) |
 | The labelled house — bathroom, kitchen, garden, bedroom, dining room, sitting room — with "Where's …? In the bedroom" | Libya, Grade 2 Pupils Book, "Where things are" unit, Lesson 3 |
 | "What's in your bedroom?" — wardrobe, book, shelf, picture, lamp, bed, skates | Libya, Grade 2 Pupils Book, same unit, Lesson 4, p.46 |
-| My bedroom — bed, table, chair, box (the first bedroom things) | Palestine, Grade 1 Part 2, Unit 15 "My bedroom," p.34 |
+| My bedroom — bed, table, chair, box, window, door (the first bedroom things; set completed 2026-11-11 by the re-verification sweep merge — the row named only four of the unit's six words: sweep diff, flag F3) | Palestine, Grade 1 Part 2, Unit 15 "My bedroom," printed pp.34–39 |
 | The rooms taught with the action that belongs to each: living room — watch TV · study — read a book · kitchen — have a snack · bedroom — have a nap · bathroom — take a shower | China, Grade 4 Volume 1, Unit 4 "My home," p.39 |
 | Furniture placed by a first-person room paragraph the learner then imitates: bed, phone, table, sofa, fridge (word set p.42, paragraph p.43) | China, Grade 4 Volume 1, Unit 4, pp.42–43 |
 | Position words in / on / under as a finding game — "Where is my car? — Is it in the desk?" — worked on chair and desk; behind once, in the closing story | China, Grade 3 Volume 2, Unit 4 "Where is my car?," pp.38–39, 41–43 (behind p.45) |
@@ -360,3 +360,15 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 ## North Macedonia — sweep additions 2026-11-11 (re-verification sweep merge)
 
 **Book:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep; the 2026-10-29 North Macedonia entry in this file covered only the Pupil's Book, whose secured copy holds printed pp.3–11 only. North Macedonia was already counted in this lesson, so the acceptance count does not change. The two rows above are this lesson's own home content — the Module 2 rooms-and-furniture set and the Picture Dictionary's desk — carried as teacher evidence, because the pupil pages sit past the secured copy's end and the Teacher's Book reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5). The family-set row carried in this lesson since 2026-10-29 stays as filed, with the filing's stated framing (the family vocabulary filed with the home set); the set's home lesson is family-words, where the same book and pages are stocked (sweep diff, flag F6 — a consistency note, both rows citing the same book and page openly). Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Palestine — more stocked 2026-11-11 (re-verification sweep merge)
+
+Palestine was already counted in this lesson from its Grade 1 books. The 2026-11-08 re-verification sweep re-read all 8 held books page by page (164 distinct items; 148 missing course-wide), and the rows below stock this lesson's share of the missing from the later books, from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). The acceptance count does not change.
+
+**Book 1:** *English for Palestine — Grade 2 Part 1* (Student's Book & Workbook 2A) — Palestine, Ministry of Education & Higher Education / Macmillan, 64 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living-room things — telephone, sofa, computer, rug, TV | Palestine, Grade 2 Part 1, Unit 7, printed pp.40–45 |
+
+This merge also completes the lesson's Grade 1 bedroom row in the main table above (sweep diff, flag F3): Unit 15 teaches six words — bed, table, chair, box, window, door — not the four the row named. The Grade 1 Blended Learning Module 4 and the Grade 2 Blended Learning Module 2 are condensed re-teachings of these same units; their items duplicate the main-book items stocked above and are cited once, under the main books — they are not stocked twice.

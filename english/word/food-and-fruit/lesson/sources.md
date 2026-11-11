@@ -221,7 +221,7 @@ cited once.
 | Match the meal picture to its word; draw what you eat for each meal (three empty plates: breakfast, lunch, dinner) | Egypt, Primary 1 Term 2, Unit 1, p.17 |
 | Choose a favourite from three food picture boxes (fruits · vegetables · egg/honey/fish/chicken/milk); "Do you like guava?" — "Yes, I do. / No, I don't."; fruit labels with the article: a guava, a banana, an orange, a papaya; "No, I don't. I like mango." | Bangladesh, English for Today Class 2, "What do you like? 1," p.39 |
 | Things that grow in Palestine: orange, lemon, grape, apple, banana, fig, olive — with "What's this? It's a fig. It's an olive." and the first plural question "What are these? They're grapes." | Palestine, Grade 1 Part 2, Unit 16 "In my country," p.40 (size work pp.42–44) |
-| Drinks as the food set's neighbour: apple juice, orange juice, water — "What's this? It's apple juice." | Palestine, Grade 1 Part 1, Unit 8, p.47 |
+| Drinks as the food set's neighbour: water, milk, tea, coffee, apple juice, orange juice — the set presented on p.46, with "What's this? It's apple juice." on p.48 (corrected 2026-11-11 by the re-verification sweep merge: the old "p.47" was Unit 8's d/g/q letter-tracing page, and the set omitted milk, tea and coffee, which the same unit teaches — sweep diff, flag F2) | Palestine, Grade 1 Part 1, Unit 8, printed pp.46–48 |
 | The Food Pyramid — grains at the base, then fruits and vegetables, which "have vitamins and help eyes" — and the wider fruit/vegetable set: pineapples, bananas, cucumbers, lettuce; Sima's favourites carrots and tomatoes | Bangladesh, English for Today Class 5, Food Pyramid unit, pp.23–27 |
 | The first food set with its asking frames: juice, egg, milk, bread — then water, cake, fish, rice — carried by "I'd like some …, please." and "Can I have some …, please?" | China, Grade 3 Volume 1, Unit 5 "Let's eat!," pp.48–52 (word sets pp.49, 52) |
 | The fruit set: apple, pear, orange, banana — then watermelon, strawberry, grape — asked about with "Do you like …? — Yes, I do. / No, I don't." and the polite refusal with a counter-offer: "Sorry, I don't like grapes. Can I have some bananas?" | China, Grade 3 Volume 2, Unit 5 "Do you like pears?," pp.48–52 (refusal p.51) |
@@ -437,3 +437,15 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All five North Macedonia rows in this lesson are teacher evidence: four rest on this book's reproduced pupil pages and notes for Module 6 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 6 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5); the fruit-or-vegetable row rests on the Activity Book CLIL key this book prints (the Activity Book itself is not in hand). The same book's Module 6 sound spot stocks two-letter-sounds.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Palestine — more stocked 2026-11-11 (re-verification sweep merge)
+
+Palestine was already counted in this lesson from its Grade 1 books. The 2026-11-08 re-verification sweep re-read all 8 held books page by page (164 distinct items; 148 missing course-wide), and the rows below stock this lesson's share of the missing from the later books, from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). The acceptance count does not change.
+
+**Book 1:** *English for Palestine — Grade 2 Part 1* (Student's Book & Workbook 2A) — Palestine, Ministry of Education & Higher Education / Macmillan, 64 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kitchen food — kunafeh, rice, meat, fish, chicken, salad, ice cream, chocolate | Palestine, Grade 2 Part 1, Unit 2, printed pp.10–15 |
+
+This merge also corrects the lesson's Grade 1 drinks row in the main table above (sweep diff, flag F2): the drinks are presented on printed p.46 and the pattern "It's apple juice" stands on p.48 — the row's old "p.47" was the d/g/q letter-tracing page — and the set is completed with milk, tea and coffee, which the same unit teaches.

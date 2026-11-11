@@ -504,3 +504,16 @@ The country's primary books and Grade 10 pair are filed in english/books/nicarag
 **Book 1:** *EXTRA and Friends 2 — Teacher's Book* (Jenny Dooley – Virginia Evans) — teacher's book, Grade 2 — North Macedonia, Express Publishing, Edition for North Macedonia 2025, ISBN 978-1-3992-2381-2 (ministry decision nr. 26-810/1, 17.07.2025). Filed in english/books/north-macedonia.md. Read whole (208 pp) in the 2026-11-08 re-verification sweep. All four North Macedonia rows in this lesson are teacher evidence: they rest on this book's reproduced pupil pages and audioscripts for Modules 2–3 of *EXTRA and Friends 2, Pupil's Book* (ISBN 978-1-3992-2379-9), whose secured copy holds printed pp.3–11 only — the Module 2–3 pupil pages are not in hand, and the reproductions are proved not always to match the adapted pupil edition (sweep diff, flag F5).
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/north-macedonia-placements.md.
+
+## Palestine — more stocked 2026-11-11 (re-verification sweep merge)
+
+Palestine was already counted in this lesson from its Grade 1 books. The 2026-11-08 re-verification sweep re-read all 8 held books page by page (164 distinct items; 148 missing course-wide), and the rows below stock this lesson's share of the missing from the later books, from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). The acceptance count does not change.
+
+**Book 1:** *English for Palestine — Grade 2 Part 1* (Student's Book & Workbook 2A) — Palestine, Ministry of Education & Higher Education / Macmillan, 64 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Numbers 11–13 | Palestine, Grade 2 Part 1, Unit 2, printed pp.10–15 |
+| Numbers 14–16 | Palestine, Grade 2 Part 1, Unit 3, printed pp.16–21 |
+| Numbers 17–20 | Palestine, Grade 2 Part 1, Unit 4, printed pp.22–27 |
+| Reading telephone numbers aloud — long 02- number strings, digit by digit | Palestine, Grade 2 Part 1, Unit 7, printed p.41 |

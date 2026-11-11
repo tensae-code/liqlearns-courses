@@ -1,6 +1,6 @@
 # Sources — Participle adjectives
 
-countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua
+countries: Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine
 
 Every part traces to its book and page.
 
@@ -30,7 +30,7 @@ Every part traces to its book and page.
 | Participle adjectives, -ed and -ing (bored/boring, fascinated/fascinating) | Mongolia, English XII, Unit 10, printed pp.179–180 |
 | -ed / -ing adjectives — bored against boring, in the emotions lesson | Nicaragua, Secondary English, Grade 8 Student's Book, Lesson 4, printed p.13 |
 
-**Acceptance count: taught in 6 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua).**
+**Acceptance count: taught in 7 countries (Albania, Cambodia, Egypt, Mongolia, Bolivia, Nicaragua, Palestine).**
 
 Albania's entry is teacher's-guide evidence and is worded as such everywhere it is used; the guide filing also records the chapter vocabulary list's misprints ("don't warry"; "clam" for calm) — neither misprint is taught in this lesson.
 
@@ -39,3 +39,16 @@ Albania's entry is teacher's-guide evidence and is worded as such everywhere it 
 **Book 1:** *Secondary English, Grade 8* — student's book — Nicaragua, Ministerio de Educación (MINED), 172 pp. Read by contents-and-grammar harvest in the 2026-11-08 re-verification sweep — every taught target captured.
 
 The country's primary books and Grade 10 pair are filed in english/books/nicaragua.md; the Grade 7–9 books and modules were recovered and read for the first time by the sweep — the old filing and the gap lists wrongly recorded them as not held (sweep diff, flag F1). Placements: liqlearns-courses-work/sweep-2026-11-08/english/nicaragua-placements.md.
+
+## Palestine — sweep additions (2026-11-11, re-verification sweep merge)
+
+The 2026-11-08 re-verification sweep re-read all 8 of Palestine's held English books page by page — 171 teaching items per book, 164 distinct; 16 already in the course, 148 missing. The rows below are this lesson's share of the missing, stocked from the sweep's placements (liqlearns-courses-work/sweep-2026-11-08/english/palestine-placements.md). Palestine is new to this lesson: the countries line and the acceptance count above rise by one.
+
+**Book 1:** *English for Palestine — Grade 10 Part 1* (Pupil's Book 10A) — Palestine, Ministry of Education & Higher Education / Macmillan, 97 pp. Recorded record-only, unread in english/books/palestine.md; read page by page for the first time in the 2026-11-08 re-verification sweep (placements at unit/period grain from the book's contents and period pages).
+
+**Book 2:** *English for Palestine — Grade 12* (Pupil's Book 12) — Palestine, Ministry of Education & Higher Education / Macmillan, 144 pp. The cover and contents print only "Pupil's Book 12" — no stream is named anywhere in the book, so the library record's "Entrepreneurship (Riada) stream" label cannot be confirmed from the book itself (sweep diff, flag F5) and is not carried here. Recorded record-only, unread in the filing; read for the first time in the 2026-11-08 re-verification sweep.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Participle adjectives — -ing/-ed pairs (amazing/amazed, boring/bored …) | Palestine, Grade 10 Part 1, Unit 4, printed p.53 |
+| -ing forms and participles as adjectives | Palestine, Grade 12, Unit 5, printed pp.52–53 |
