@@ -1,6 +1,6 @@
 # Sources — Functions
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil
+countries: Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, Ghana, South Africa, Sierra Leone, Morocco, El Salvador, Sri Lanka, Colombia, Andorra, Moldova, Belarus, Bahamas, Australia, Brazil, Bhutan
 
 Every part traces to its book and page.
 
@@ -693,7 +693,7 @@ CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: functions (T2 U5) | Jordan, Grade 10 Workbook Term 2, Unit 5 (workbook evidence) |
 | TEACHER EVIDENCE: lesson guidance and keys for the Grade 10 Term 2 course | Jordan, Grade 10 Teacher Guide Term 2 (teacher evidence) |
 
-**Acceptance count: taught in 45 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil).**.** Egypt carries the
+**Acceptance count: taught in 46 countries (Egypt, Jordan, Kazakhstan, Vietnam, Libya, Mauritania, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Armenia, South Africa, Sierra Leone, El Salvador, Sri Lanka, Colombia, Moldova, Belarus, Australia, Brazil, Bhutan).**.** Egypt carries the
 
 Ghana also contributes to this lesson as curriculum evidence only — Ghana's set holds no pupil textbook — and Ghana is not counted in the taught-in figure above. (Ghana rows stocked by the 2026-11-08 re-verification sweep.)
 fullest build — Cartesian product, relation, function, domain
@@ -1145,3 +1145,22 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. The Class X textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its assessment introduction carries a "curriculum for Class IX" line — a carry-over in the Class X book, read as Class X. Into this lesson the placements stock 4 items (4 pupil) from Books 12 and 14.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 14:** *Mathematics Textbook, Class X* (Understanding Mathematics series) — Bhutan, DSE; 10,824,253 bytes, 396 PDF pp., MD5 95df20230ee6424e525b0e890130b280 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §7.1.3 Recognizing linear relationships | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 191 |
+| §3.1.1 Linear functions | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 67 |
+| §3.1.2 Applications of linear functions | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 72 |
+| §3.1.4 Transforming linear function graphs | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 84 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 4 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

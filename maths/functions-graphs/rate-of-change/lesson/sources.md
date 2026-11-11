@@ -1,6 +1,6 @@
 # Sources — Rate of Change
 
-countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen, Colombia, Andorra, Australia
+countries: Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen, Colombia, Andorra, Australia, Bhutan
 
 Every part traces to its book and page.
 
@@ -61,7 +61,7 @@ Every part traces to its book and page.
 | The concept of rate of change (مفهوم آهنگ تغییر) | Iran, Grade 12 Mathematics (3) student book (Experimental Sciences branch), Ch. 4, printed p. 93 |
 | Average rate of change of a function | Yemen, Grade 11 science Part 1, Unit 5, printed p. 139 |
 
-**Acceptance count: taught in 14 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen, Colombia, Australia).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway. Yemen enters with the average rate of change of a function in Grade 11 science Part 1, Unit 5.
+**Acceptance count: taught in 15 countries (Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Palestine, Libya, Iran, Yemen, Colombia, Australia, Bhutan).** Sudan's Grade 8 book teaches rate of change as a complete pre-calculus topic in its ratio-and-rate unit (the lesson runs printed pp. 52–55, with the constant-rate lesson closing at printed p. 58): defined from a growing school's admissions, worked on a child's height growth, signed for falling quantities, and tested for constancy in tables. No other read country's filing gives the average rate of change a standalone treatment of its own — elsewhere it appears as the opening step of the derivatives lesson, where it also lives — so this lesson is built at the size of its one source, and the derivatives lesson carries Sudan's two Grade 12 treatments of the same doorway. Yemen enters with the average rate of change of a function in Grade 11 science Part 1, Unit 5.
 
 Libya carries rate of change in Grade 11 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -146,3 +146,17 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Into this lesson the placements stock 1 items (1 pupil) from Book 11.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6.3.3 Describing change on a graph | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 212 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 1 pupil item in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

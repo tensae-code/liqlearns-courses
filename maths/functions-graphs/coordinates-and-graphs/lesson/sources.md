@@ -1,6 +1,6 @@
 # Sources — Coordinates and graphs
 
-countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Armenia, Sierra Leone, Libya, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil
+countries: Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Armenia, Sierra Leone, Libya, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan
 
 Every part traces to its book and page.
 
@@ -572,7 +572,7 @@ textbook.
 | Representing the linear function graphically | Jordan, Grade 7 Student Book Term 1, Unit 3, Lesson 5, printed p. 88 |
 | Workbook practice: representing data (T1 U5) | Jordan, Grade 5 Workbook Term 1, Unit 5 (workbook evidence) |
 
-**Acceptance count: taught in 46 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Sierra Leone, Libya, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil).**.** South Africa carries the
+**Acceptance count: taught in 47 countries (Egypt, Jordan, Kazakhstan, Vietnam, South Africa, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Armenia, Sierra Leone, Libya, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan).**.** South Africa carries the
 plainest gradient teaching — gradient as change in y over
 change in x, with intercepts named, built from tables of
 ordered pairs. Egypt carries the coordinate plane itself —
@@ -907,3 +907,35 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class IV textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class V textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VI textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents numbers two different sections 6.2.2 ("Bisectors" and "EXPLORE: Sorting Quadrilaterals"); the second is cited with the duplication named. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. The Class IX textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Into this lesson the placements stock 9 items (9 pupil) from Books 8, 9, 10, 11, 12 and 13.
+
+**Book 8:** *Mathematics Textbook, Class IV* (Understanding Mathematics series) — Bhutan, DSE, ©2023, reprint 2024; 8,396,156 bytes, 298 PDF pp., MD5 c0f958781912bcf79bcd0f4072354460 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 9:** *Mathematics Textbook, Class V* (Understanding Mathematics series) — Bhutan, DSE; 8,178,542 bytes, 298 PDF pp., MD5 2847d30f3710e178d4f69448e68fdda9 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 10:** *Mathematics Textbook, Class VI* (Understanding Mathematics series) — Bhutan, DSE; 8,259,272 bytes, 287 PDF pp., MD5 4a9bca07f7e40d4e59cd028437799b4b (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 13:** *Understanding Mathematics — Textbook for Class IX* (Understanding Mathematics series) — Bhutan, DSE; 7,812,420 bytes, 376 PDF pp., MD5 42b92a5abacc908553bb0237662120a4 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §7.1.3 Using a coordinate grid | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 215 |
+| §7.2.3 Coordinate graphs | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 217 |
+| §7.2.4 Coordinate graphs | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 201 |
+| §6.3.1 Graphing a relationship | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 205 |
+| §6.3.2 Examining a straight line graph | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 209 |
+| §6.3.4 Are all relationship graphs straight lines? | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 216 |
+| §7.1.1 Representing relationships | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 185 |
+| §3.1.3 Graphs of linear and non-linear relations (explore) | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 93 |
+| §3.1.4 Graphs of linear and non-linear relations | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 94 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 9 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, Morocco, El Salvador, Cyprus, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Bhutan
 
 Every part traces to its book and page.
 
@@ -449,7 +449,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 40 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 41 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam, El Salvador, Cyprus, Colombia, Moldova, Australia, Bhutan).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -690,3 +690,45 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class 3 textbook's Chapter Overviews, Chapter Reviews and course-objectives/assessment front matter are apparatus and are stocked nowhere. The Class IV textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class V textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VI textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents numbers two different sections 6.2.2 ("Bisectors" and "EXPLORE: Sorting Quadrilaterals"); the second is cited with the duplication named. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. The Class IX textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Into this lesson the placements stock 17 items (17 pupil) from Books 7, 8, 9, 10, 11, 12 and 13.
+
+**Book 7:** *Understanding Mathematics — TextBook for Class 3* — Bhutan, DSE, ©2023, ISBN 978-99936-844-8-0; 2,951,120 bytes, 209 PDF pp., MD5 0936d8deb8c49388653184a854e92733 (matches books.json). Printed page = PDF page − 16. Pupil textbook.
+
+**Book 8:** *Mathematics Textbook, Class IV* (Understanding Mathematics series) — Bhutan, DSE, ©2023, reprint 2024; 8,396,156 bytes, 298 PDF pp., MD5 c0f958781912bcf79bcd0f4072354460 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 9:** *Mathematics Textbook, Class V* (Understanding Mathematics series) — Bhutan, DSE; 8,178,542 bytes, 298 PDF pp., MD5 2847d30f3710e178d4f69448e68fdda9 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 10:** *Mathematics Textbook, Class VI* (Understanding Mathematics series) — Bhutan, DSE; 8,259,272 bytes, 287 PDF pp., MD5 4a9bca07f7e40d4e59cd028437799b4b (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 13:** *Understanding Mathematics — Textbook for Class IX* (Understanding Mathematics series) — Bhutan, DSE; 7,812,420 bytes, 376 PDF pp., MD5 42b92a5abacc908553bb0237662120a4 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 6 Moving shapes (slides, flips, turns) | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 102 |
+| §5.2.3 Slides and flips | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 151 |
+| §5.2.4 Turns | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 155 |
+| §6.2.1 Properties of translations | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 169 |
+| §6.2.2 Properties of reflections | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 172 |
+| §6.2.4 Properties of rotations | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 180 |
+| §6.1.1 Rotations | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 143 |
+| §6.1.3 Combining transformations | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 151 |
+| §4.2.1 Translations | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 119 |
+| §4.2.2 Reflections | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 123 |
+| §4.2.3 Rotations | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 129 |
+| §8.2.1 Dilatations | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 233 |
+| §8.2.2 Combining transformations | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 239 |
+| §5.2.1 Translations | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 203 |
+| §5.2.2 Reflections and rotations | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 207 |
+| §5.2.3 Dilatations | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 212 |
+| §5.2.4 Combining transformations | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 216 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 17 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

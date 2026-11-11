@@ -1,6 +1,6 @@
 # Sources — Inverse trigonometric functions
 
-countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka, Belarus
+countries: Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Sri Lanka, Belarus, Bhutan
 
 Every part traces to its book and page.
 
@@ -53,7 +53,7 @@ Every part traces to its book and page.
 | Arcsine and arccosine of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 3, printed p. 363 (teacher evidence) |
 | Arctangent and arccotangent of a number | Armenia, Algebra and Analysis 10 teacher guide, advanced programme, Semester 2, Ch. 5, Part 4, printed p. 383 (teacher evidence) |
 | Derivatives of the inverse trig functions | Libya, Grade 12 Mathematics (Science section), §10-6, printed p.165 |
-**Acceptance count: taught in 11 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Belarus).**
+**Acceptance count: taught in 12 countries (Nicaragua, Armenia, Cambodia, Laos, Rwanda, Sudan, India, Afghanistan, Albania, Libya, Belarus, Bhutan).**
 Nicaragua carries the full treatment — restriction, definition, compositions, calculator values and graphical solving — in Grade 10. Armenia carries the inverses as a named section of its Grade 10 analysis book, built on the inverse-function concept and its existence condition, with the four inverse names introduced beside the simplest trigonometric equations. Laos carries inverses of the trigonometric functions as a full lesson inside its Grade 12 inverse-functions chapter. Cambodia carries the topic at §3.2 of its Grade 12 Advanced book, filed from the table of contents and the teacher guide's lesson plan; the section start was not read in detail in the student book, and it is counted on that filed basis, worded exactly as filed.
 
 Libya carries derivatives of the inverse trigonometric functions in Grade 12 Mathematics (Science section), Chapter 6 (stocked by the 2026-11-08 re-verification sweep).
@@ -103,3 +103,17 @@ The 2026-11-10 expansion read read Belarus's whole in-hand Maths set from the PD
 Belarus is added to the countries line and to the acceptance count above on its pupil-textbook rows — both books in its set are pupil textbooks and there are no teacher-evidence rows. Belarus's class for Maths is **COURSES-CLOSED for the in-hand set only** — both in-hand Maths books have been read and stocked; Mathematics 1–6 and 7–9 were never in hand.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/belarus-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class XII file's printed BHSEC syllabus (front matter) is curriculum evidence only and is stocked nowhere. Chapters 5–19, named in the file's contents, are ABSENT from the file — Calculus (Chs. 5–10); Coordinate Geometry (Chs. 11–14); Data and Probability (Chs. 15–18); Commercial Mathematics (Ch. 19, annuities) — none of it is placed; if a complete BHSEC Book-II ever lands, those chapters become a fresh read and Bhutan reopens for them. Into this lesson the placements stock 1 items (1 pupil) from Book 16.
+
+**Book 16:** *BHSEC Mathematics Book-II for Class XII* — O. P. Malhotra et al., S. Chand; 2,096,593 bytes, 205 PDF pp., MD5 c3513474a7ba99c069f036e56a953d4c (matches books.json). **PARTIAL EXCERPT: the file holds only chapters 1–4 of the 19 its own contents (p. x) lists, ending at Ch 4–41 — the filing's "complete book, not a sample/preview" claim is FALSE for this file. Only the chapters actually present are cited, at the book's own chapter pagination.** Pupil textbook (excerpt as held).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 4 Inverse trigonometric functions: definitions, domains and principal values, properties and worked identities | Bhutan — *BHSEC Mathematics Book-II for Class XII* (pupil textbook — PARTIAL excerpt held: chapters 1–4 of 19 only), Ch 4–3 to Ch 4–41, the file's last page |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 1 pupil item in this lesson, from real pupil books of the *Understanding Mathematics* series and the BHSEC books at the chapters actually held. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

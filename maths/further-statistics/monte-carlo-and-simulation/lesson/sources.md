@@ -1,6 +1,6 @@
 # Sources — Monte Carlo and Simulation
 
-countries: Pakistan, China, Andorra
+countries: Pakistan, China, Andorra, Bhutan
 
 Every part traces to its book and page.
 
@@ -17,7 +17,7 @@ Every part traces to its book and page.
 | Random simulation / the Monte Carlo method as a named section, inside the frequency-and-probability chapter (shared-birthday-type and best-of-three problems) | China, Compulsory Volume 2 (A edition), Ch. 10, §10.3.2, printed p.255 |
 | Closing part — Mendel's laws of inheritance as a probability model: DD/Dd/dd at 0.25/0.5/0.25 against the ≈3:1 pea ratios (reading as filed) | China, Compulsory Volume 2 (A edition), Ch. 10 reading, printed pp.259–260 |
 
-**Acceptance count: taught in 2 countries (Pakistan, China).** Pakistan carries the machinery — random digits, the linear congruential generator with its checkable worked run, Table 7.1 spent on coin simulations, and the PPS ranges. China carries the method under its Monte Carlo name at §10.3.2, p.255, and closes the lesson with its Mendel reading (pp.259–260), filed and worded as a reading: a probability model of 0.25, 0.5, 0.25 held up against real pea counts.
+**Acceptance count: taught in 3 countries (Pakistan, China, Bhutan).** Pakistan carries the machinery — random digits, the linear congruential generator with its checkable worked run, Table 7.1 spent on coin simulations, and the PPS ranges. China carries the method under its Monte Carlo name at §10.3.2, p.255, and closes the lesson with its Mendel reading (pp.259–260), filed and worded as a reading: a probability model of 0.25, 0.5, 0.25 held up against real pea counts.
 
 ## Andorra added 2026-11-11 (expansion merge)
 
@@ -38,3 +38,21 @@ The 2026-11-10 expansion read read Andorra's whole in-hand Maths set from the PD
 Andorra enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — every book in Andorra's in-hand set is an official curriculum programme, not a pupil textbook, cited as the evidence kind it is, never counted as a pupil's book (the standing Ghana evidence-only precedent). Andorra's class for Maths is PARTIAL (evidence-only): all 4 programmes are read and stocked, but no pupil textbook is in hand — none exists to hold for the Escola Andorrana — and the Spanish and French systems' maths manuals are list-only names with no files held.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/andorra-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. The Class IX textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Into this lesson the placements stock 3 items (3 pupil) from Books 12 and 13.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 13:** *Understanding Mathematics — Textbook for Class IX* (Understanding Mathematics series) — Bhutan, DSE; 7,812,420 bytes, 376 PDF pp., MD5 42b92a5abacc908553bb0237662120a4 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6.1.2 Simulations | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 157 |
+| §4.2.4 Conducting a simulation | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 179 |
+| §4.2.5 Designing a simulation | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 184 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 3 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, Morocco, El Salvador, Sri Lanka, Andorra, Bahamas, Brazil, Bhutan
 
 Every part traces to its book and page.
 
@@ -242,7 +242,7 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Drawing a line segment of given length | Yemen, Grade 3 Part 1, Unit 4, printed p. 92 |
 | Drawing and bisecting a line segment | Yemen, Grade 5 Part 2, Unit 8, printed p. 138 |
 | Drawing an angle of given measure | Yemen, Grade 5 Part 2, Unit 8, printed p. 142 |
-**Acceptance count: taught in 33 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
+**Acceptance count: taught in 34 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan, Yemen, El Salvador, Sri Lanka, Brazil, Bhutan)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025). Yemen enters with drawing a line segment of given length in Grade 3 Part 1, and drawing and bisecting a line segment and drawing an angle of given measure in Grade 5 Part 2.
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -402,3 +402,20 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class X textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its assessment introduction carries a "curriculum for Class IX" line — a carry-over in the Class X book, read as Class X. Into this lesson the placements stock 2 items (2 pupil) from Books 11 and 14.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 14:** *Mathematics Textbook, Class X* (Understanding Mathematics series) — Bhutan, DSE; 10,824,253 bytes, 396 PDF pp., MD5 95df20230ee6424e525b0e890130b280 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §4.1.3 Constructing and bisecting angles | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 114 |
+| §8.2.2 Perpendiculars and bisectors | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 285 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 2 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

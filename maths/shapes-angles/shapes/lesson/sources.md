@@ -1,6 +1,6 @@
 # Sources — Shapes
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan
 
 Every part traces to its book and page.
 
@@ -1203,7 +1203,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
 | Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
-**Acceptance count: taught in 50 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
+**Acceptance count: taught in 51 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Australia, Brazil, Bhutan).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family
 with its special cases. Egypt carries first plane shapes and
 shape-making in Primary 1 (Japanese-collaboration series),
@@ -1888,3 +1888,77 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The PP activity book's Reproducible Pages (printed pp. 89–116, cut-out masters) and Summative Assessment Recording Sheets (pp. 117–132) are apparatus and are stocked nowhere; its assessment sheets renumber two chapters against the body (Data Management is Ch. 6 there, Ch. 9 in the body; Ordinal Numbers and Halves Ch. 11 there, Ch. 10 in the body) — body numbering is used throughout. The Class 1 activity book's Reproducible Pages (printed pp. 75–80) and Summative Assessment Recording Sheets (pp. 81–100) are apparatus and are stocked nowhere. The Class 2 activity book's Summative Assessment Recording Sheets (printed pp. 99–118) are apparatus and are stocked nowhere. The pupil Chapter 9 pages open at Lesson 3 (Interpreting Bar Graphs) — no pupil Lessons 1–2 for that chapter appear in the file; the guide's parallel survey and data-collection lessons stand as teacher evidence instead. Book errors in the Class 2 book are carried corrected: its imprint prints the copyright year as "20234", read as 2023 as on its guide, and its Chapter 6 Lesson 6 tells pupils to draw a cylinder and label its base and apex — a cylinder has no apex; the apex belongs to the cone in the same lesson. The Class 3 textbook's Chapter Overviews, Chapter Reviews and course-objectives/assessment front matter are apparatus and are stocked nowhere. The Class IV textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class V textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VI textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents numbers two different sections 6.2.2 ("Bisectors" and "EXPLORE: Sorting Quadrilaterals"); the second is cited with the duplication named. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Into this lesson the placements stock 41 items (36 pupil + 5 teacher-evidence) from Books 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11.
+
+**Book 1:** *Understanding Mathematics — Student's Activity Book for Class PP* — Bhutan, Royal Government of Bhutan, Department of School Education (DSE), ©2023, ISBN 978-99936-0-369-6, reprint 2024; 1,592,811 bytes, 136 PDF pp. Printed page = PDF page − 4. Pupil activity book.
+
+**Book 2:** *Understanding Mathematics — Teacher's Guide for Class PP* — Bhutan, DSE, ©2023, ISBN 978-99936-0-366-5, reprint 2024; 3,440,281 bytes, 232 PDF pp. TEACHER EVIDENCE ONLY — a teacher's guide, never counted as a pupil textbook.
+
+**Book 3:** *Understanding Mathematics — Student's Activity Book for Class 1* — Bhutan, DSE, ©2023, ISBN 978-99936-844-5-9, reprint 2024; 2,513,870 bytes, 104 PDF pp. Printed page = PDF page − 4. Pupil activity book. (The main-branch staging file grade-01/gov/bhutan/mathematics/full-year.pdf at this size is THIS student book, not the guide — the Class 1 guide is Book 4 below, a separate file; the staging path collision is resolved in the read.)
+
+**Book 4:** *Understanding Mathematics — Teacher's Guide for Class 1* — Bhutan, DSE, ©2023, ISBN 978-99936-844-4-2; 6,126,533 bytes, 184 PDF pp., MD5 79d77b51e77c6ed509bf437ce19e24a9 (matches books.json exactly). TEACHER EVIDENCE ONLY.
+
+**Book 5:** *Understanding Mathematics — Student's Activity Book for Class 2* — Bhutan, DSE, ©2023, reprint 2024; 2,868,850 bytes, 122 PDF pp., MD5 ba70ef39797f7f6a7412d0689ddfa0ee. Printed page = PDF page − 4. Pupil activity book.
+
+**Book 6:** *Understanding Mathematics — Teacher's Guide for Class 2* — Bhutan, DSE, ©2023, ISBN 978-99936-844-6-6, reprint 2023; 2,895,828 bytes, 182 PDF pp. TEACHER EVIDENCE ONLY.
+
+**Book 7:** *Understanding Mathematics — TextBook for Class 3* — Bhutan, DSE, ©2023, ISBN 978-99936-844-8-0; 2,951,120 bytes, 209 PDF pp., MD5 0936d8deb8c49388653184a854e92733 (matches books.json). Printed page = PDF page − 16. Pupil textbook.
+
+**Book 8:** *Mathematics Textbook, Class IV* (Understanding Mathematics series) — Bhutan, DSE, ©2023, reprint 2024; 8,396,156 bytes, 298 PDF pp., MD5 c0f958781912bcf79bcd0f4072354460 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 9:** *Mathematics Textbook, Class V* (Understanding Mathematics series) — Bhutan, DSE; 8,178,542 bytes, 298 PDF pp., MD5 2847d30f3710e178d4f69448e68fdda9 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 10:** *Mathematics Textbook, Class VI* (Understanding Mathematics series) — Bhutan, DSE; 8,259,272 bytes, 287 PDF pp., MD5 4a9bca07f7e40d4e59cd028437799b4b (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Naming and colouring sphere, cone, rectangular prism and cylinder; matching shapes to words | Bhutan — *Understanding Mathematics — Student's Activity Book for Class PP* (pupil activity book), printed pp. 35–36 |
+| Parts of a cylinder (face, edge); shapes of everyday objects | Bhutan — *Understanding Mathematics — Student's Activity Book for Class PP* (pupil activity book), printed pp. 37–38 |
+| Drawing 3-D shapes; shapes that roll, slide, or only roll; building towers from 3-D shapes | Bhutan — *Understanding Mathematics — Student's Activity Book for Class PP* (pupil activity book), printed pp. 39–44 |
+| Naming circle, triangle, rectangle; parts of 2-D shapes | Bhutan — *Understanding Mathematics — Student's Activity Book for Class PP* (pupil activity book), printed pp. 75–76 |
+| Tracing and drawing 2-D shapes; drawing pictures from 2-D shapes | Bhutan — *Understanding Mathematics — Student's Activity Book for Class PP* (pupil activity book), printed pp. 77–79 |
+| Ch. 4 3-D Shapes — Identifying, Describing and Comparing 3-D Shapes; Sorting and Re-sorting; Creating Shape Patterns; Building 3-D Structures; Locating 3-D Shapes in the Environment | Bhutan — *Understanding Mathematics — Teacher's Guide for Class PP* (teacher guide — TEACHER EVIDENCE ONLY), printed p. 79 |
+| Ch. 8 2-D Shapes — Identifying and Describing 2-D Shapes; Sorting 2-D Shapes; Dividing and Combining Shapes; Locating 2-D Shapes in the Environment | Bhutan — *Understanding Mathematics — Teacher's Guide for Class PP* (teacher guide — TEACHER EVIDENCE ONLY), printed p. 157 |
+| Naming cylinder, cone, sphere, cube, rectangular prism, rectangular and triangular pyramids, triangular prism | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 1* (pupil activity book), printed p. 35 |
+| Shapes that roll and slide; parts of a pyramid and cone (apex, base) | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 1* (pupil activity book), printed pp. 36–37 |
+| Counting faces, edges and corners of 3-D shapes in a table | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 1* (pupil activity book), printed p. 38 |
+| Naming circle, triangle, rectangle, rhombus, trapezoid, hexagon | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 1* (pupil activity book), printed p. 49 |
+| Corners and edges of 2-D shapes; making 2-D shapes by joining dots | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 1* (pupil activity book), printed pp. 50–51 |
+| Ch. 5 3-D Shapes — Identifying and Describing 3-D Shapes; Prisms and Pyramids; Visual Memory; Sorting 3-D Shapes; Creating 3-D Shapes; Building Structures | Bhutan — *Understanding Mathematics — Teacher's Guide for Class 1* (teacher guide — TEACHER EVIDENCE ONLY), printed p. 71 |
+| Ch. 7 2-D Shapes — Identifying and Describing 2-D Shapes; Making 2-D Shapes; Identifying Symmetry; Creating Symmetrical Shapes; Dividing and Combining Shapes; Sorting 2-D Shapes | Bhutan — *Understanding Mathematics — Teacher's Guide for Class 1* (teacher guide — TEACHER EVIDENCE ONLY), printed p. 99 |
+| Identifying and describing 2-D shapes in a table | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed p. 50 |
+| Squares as special rectangles | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed p. 51 |
+| Identifying and describing 3-D shapes (prism, pyramid, cone, cylinder, sphere) | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed p. 52 |
+| Cylinders and cones: drawing and labelling base (and apex — cone only; see book-error note) | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed p. 53 |
+| Prisms and pyramids: naming, labelling bases, counting faces/edges/corners | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed pp. 54–55 |
+| Nets of prisms and pyramids: naming and making the 3-D shape from a net | Bhutan — *Understanding Mathematics — Student's Activity Book for Class 2* (pupil activity book), printed pp. 56–59 |
+| Ch. 6 Geometry — Parallel Lines; Symmetry; 2-D Shapes; Squares; 3-D Shapes; Cylinders and Cones; Prisms and Pyramids; Making Models; Nets | Bhutan — *Understanding Mathematics — Teacher's Guide for Class 2* (teacher guide — TEACHER EVIDENCE ONLY), printed p. 83 |
+| Lesson 1 Polygons | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 90 |
+| Lesson 2 Quadrilaterals | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 93 |
+| Lesson 5 Combining polygons | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 100 |
+| Lesson 7 Prisms and pyramids | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 104 |
+| Lesson 8 Nets of prisms and pyramids | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 106 |
+| Lesson 9 Cylinders and cones | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 109 |
+| §5.1.1 Sorting and drawing triangles | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 133 |
+| §5.1.2 Properties of triangles | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 138 |
+| §5.1.3 Sorting quadrilaterals | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 140 |
+| §5.2.2 Combining polygons | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 148 |
+| §5.3.2 Describing and comparing 3-D shapes | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 162 |
+| §5.3.3 Folding and making nets | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 166 |
+| §5.3.4 Building skeletons of 3-D shapes | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 170 |
+| §6.1.1 Classifying triangles by side length | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 157 |
+| §6.1.2 Classifying triangles by angle | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 161 |
+| §6.1.3 Combining triangles | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 165 |
+| §6.1.4 Properties of rectangles | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 167 |
+| §6.3.1 Prism and pyramid nets | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 185 |
+| §6.2.2 [sic — second section with this number] Sorting quadrilaterals | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 168 |
+| §4.1.2 Drawing and classifying triangles | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 110 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 36 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Its 5 teacher-guide items in this lesson are named above as teacher evidence only and are NOT added to the acceptance count. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

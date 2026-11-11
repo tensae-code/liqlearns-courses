@@ -1,6 +1,6 @@
 # Sources — Congruence and similarity
 
-countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil
+countries: Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Moldova, Bahamas, Belize, Australia, Brazil, Bhutan
 
 Every part traces to its book and page.
 
@@ -531,7 +531,7 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Similarity | Jordan, Grade 7 Student Book Term 2, Unit 6, Lesson 3, printed p. 62 |
 | Similarity of triangles | Jordan, Grade 8 Student Book Term 2, Unit 7, Lesson 5, printed p. 99 |
 
-**Acceptance count: taught in 44 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
+**Acceptance count: taught in 45 countries (Libya, Jordan, Egypt, Kazakhstan, Vietnam, Sierra Leone, South Africa, Armenia, Greece, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Mauritania, El Salvador, Cyprus, Sri Lanka, Colombia, Moldova, Australia, Brazil, Bhutan)**.**.** Iran matches congruent figures by superposition in Grade 7, states the SSS, SAS and ASA criteria in Grade 8, proves congruence and meets similar figures in Grade 9, and proves Thales' theorem with the AA, SAS and SSS similarity criteria in Grade 10 Geometry (1).
 Libya carries the fullest single treatment — congruence tests
 including RHS, similarity, applications, and the k² area and k³
 volume rules in one chapter (Grade 9, Chapter 8, pp.156–193).
@@ -888,3 +888,31 @@ The 2026-11-10 expansion read read Brazil's whole in-hand Maths set from the PDF
 Brazil is added to the countries line and to the acceptance count above on its pupil-textbook rows — the one book in its set is a pupil textbook and there are no teacher-evidence rows. Brazil's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (the 1) has been read and stocked.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/brazil-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class 3 textbook's Chapter Overviews, Chapter Reviews and course-objectives/assessment front matter are apparatus and are stocked nowhere. The Class IV textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VI textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents numbers two different sections 6.2.2 ("Bisectors" and "EXPLORE: Sorting Quadrilaterals"); the second is cited with the duplication named. The Class IX textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class X textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its assessment introduction carries a "curriculum for Class IX" line — a carry-over in the Class X book, read as Class X. Into this lesson the placements stock 7 items (7 pupil) from Books 7, 8, 10, 13 and 14.
+
+**Book 7:** *Understanding Mathematics — TextBook for Class 3* — Bhutan, DSE, ©2023, ISBN 978-99936-844-8-0; 2,951,120 bytes, 209 PDF pp., MD5 0936d8deb8c49388653184a854e92733 (matches books.json). Printed page = PDF page − 16. Pupil textbook.
+
+**Book 8:** *Mathematics Textbook, Class IV* (Understanding Mathematics series) — Bhutan, DSE, ©2023, reprint 2024; 8,396,156 bytes, 298 PDF pp., MD5 c0f958781912bcf79bcd0f4072354460 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 10:** *Mathematics Textbook, Class VI* (Understanding Mathematics series) — Bhutan, DSE; 8,259,272 bytes, 287 PDF pp., MD5 4a9bca07f7e40d4e59cd028437799b4b (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 13:** *Understanding Mathematics — Textbook for Class IX* (Understanding Mathematics series) — Bhutan, DSE; 7,812,420 bytes, 376 PDF pp., MD5 42b92a5abacc908553bb0237662120a4 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 14:** *Mathematics Textbook, Class X* (Understanding Mathematics series) — Bhutan, DSE; 10,824,253 bytes, 396 PDF pp., MD5 95df20230ee6424e525b0e890130b280 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 4 Similar and congruent shapes | Bhutan — *Understanding Mathematics — TextBook for Class 3* (pupil textbook), printed p. 98 |
+| §5.2.1 Congruent polygons | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 146 |
+| §4.1.4 Similarity (explore) | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 98 |
+| §5.1.2 Congruent triangles | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 191 |
+| §5.1.3 Similar triangles | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 195 |
+| §5.1.4 Solving problems with similarity | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 199 |
+| §7.1.1 Using similarity properties to solve problems | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 229 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 7 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

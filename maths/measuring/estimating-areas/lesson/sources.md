@@ -1,6 +1,6 @@
 # Sources — Estimating Areas
 
-countries: South Sudan, Malaysia, Rwanda, India, Mongolia, North Macedonia, Albania
+countries: South Sudan, Malaysia, Rwanda, India, Mongolia, North Macedonia, Albania, Bhutan
 
 Every part traces to its book and page.
 
@@ -31,7 +31,7 @@ Every part traces to its book and page.
 
 | Проценување плоштина на неправилен многуаголник во квадратна мрежа — grid estimation | North Macedonia, Grade 6, Theme 4, printed p. 348 |
 
-**Acceptance count: taught in 7 countries (South Sudan, Malaysia, Rwanda, India, Mongolia, North Macedonia, Albania).** South Sudan first carried this lesson alone: its Secondary 4 Mathematics student book teaches area estimation as one run in Unit 2 — the area of basic and irregular shapes (p.20), approximating an irregular area on grid paper by counting squares (pp.21–24), then the mid-ordinate rule (pp.25–26) and the trapezium rule (pp.26–29). The filing is explicit that the S4 Additional Mathematics book does NOT teach area estimation, so nothing is cited from it. No other read country's filing teaches these rules as a topic; the lesson is therefore built at the size this one source supports, and its worked numbers are the builder's own examples of the book's three named methods, not quotations from the book. North Macedonia enters from its main set — Grade 6 (2023).
+**Acceptance count: taught in 8 countries (South Sudan, Malaysia, Rwanda, India, Mongolia, North Macedonia, Albania, Bhutan).** South Sudan first carried this lesson alone: its Secondary 4 Mathematics student book teaches area estimation as one run in Unit 2 — the area of basic and irregular shapes (p.20), approximating an irregular area on grid paper by counting squares (pp.21–24), then the mid-ordinate rule (pp.25–26) and the trapezium rule (pp.26–29). The filing is explicit that the S4 Additional Mathematics book does NOT teach area estimation, so nothing is cited from it. No other read country's filing teaches these rules as a topic; the lesson is therefore built at the size this one source supports, and its worked numbers are the builder's own examples of the book's three named methods, not quotations from the book. North Macedonia enters from its main set — Grade 6 (2023).
 
 Malaysia joins South Sudan in this lesson with the first of its three methods: Form 1 opens its area work by estimating an irregular area on a grid, counting full squares and half-or-more squares, before any area formula is derived. The mid-ordinate rule and the trapezium rule remain South Sudan's alone.
 
@@ -43,3 +43,17 @@ India enters estimating areas from Math-Magic Class 5: irregular shapes.
 Mongolia enters through its ministry textbooks Математик IV (Grade 4): estimating area with a grid palette (paletka).
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 6 (teacher's book): : area of irregular figures by counting squares (plans 96–97).
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. Into this lesson the placements stock 1 items (1 pupil) from Book 12.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5.2.3 Estimating the area of a circle | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 134 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 1 pupil item in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.

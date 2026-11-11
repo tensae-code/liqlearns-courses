@@ -1,6 +1,6 @@
 # Sources — Volume and Surface Area
 
-countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Australia
+countries: Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Barbados, Turkey, Morocco, El Salvador, Cyprus, Sri Lanka, Colombia, Andorra, Angola, Moldova, Belarus, Bahamas, Belize, Australia, Bhutan
 
 Every part traces to its book and page.
 
@@ -791,7 +791,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
 | Review of surface area of shapes | South Sudan, Secondary Mathematics — Student's Book 2, Unit 2, printed p. 19 |
 
-**Acceptance count: taught in 49 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Australia).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
+**Acceptance count: taught in 50 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey, El Salvador, Cyprus, Sri Lanka, Colombia, Angola, Moldova, Belarus, Australia, Bhutan).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,
 then surface areas by the net, in JSS 2. Egypt carries volume by
 counting unit cubes through V = l × w × h in Grade 5 and the
@@ -1250,3 +1250,46 @@ The 2026-11-10 expansion read read Australia's whole in-hand Maths set from the 
 Australia is added to the countries line and to the acceptance count above on its pupil-book rows — all 9 books in its in-hand set are student textbooks. Australia's class for Maths is **COURSES-CLOSED** — every in-hand Maths book (all 9) has been read and stocked; the two senior QCE titles exist only as exact-link records, are not in hand and were not read, and do not block the in-hand class.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/maths/australia-placements.md.
+
+## Bhutan added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Bhutan's whole in-hand Maths set from the PDFs — **16 files: 13 student books and 3 teacher's guides of the Royal Government of Bhutan's *Understanding Mathematics* series (Department of School Education / Ministry of Education and Skills Development), English-medium throughout** — and placed 657 pupil teaching items and 30 teacher-evidence items. **Set correction, proved by the read: the expansion map's count of 10 student + 3 teacher is WRONG — the map counted only the textbooks.tsv snapshot (PP, I, II, IV–X) and missed the Class III, XI and XII student books recorded as secured and pushed in the staging books.json files and the push state; the true in-hand set is 13 student + 3 teacher = 16 files, every one grabbed and verified (byte size on every file; MD5 against books.json on the 11 files that carry one — all match; page counts match every record) and read in full.** The Class I staging-path collision is resolved: the main-branch grade-01 file is the student activity book (Book 3); the Class I teacher's guide (Book 4) is a separate, MD5-verified file that books.json records under the same staging path name. **Critical filing flag, carried exactly: both BHSEC filings claim "complete book, not a sample/preview" — FALSE. The Class XI file holds only chapters 1–5 of the 26 its own contents lists and the Class XII file only chapters 1–4 of the 19 its contents lists; only the chapters actually present were placed, and both books are cited as the partial excerpts they are.** The 3 teacher's guides are teacher evidence only: their items are named below as teacher evidence and are never counted as pupil teaching. The Class IV textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class V textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VI textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents numbers two different sections 6.2.2 ("Bisectors" and "EXPLORE: Sorting Quadrilaterals"); the second is cited with the duplication named. The Class VII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class VIII textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its contents misprints §5.3.2 (Surface Area of a Rectangular Prism) at printed p. 157, after the Unit 5 Revision at p. 150; the sequence places it at ~p. 147 and the row cites it so. The Class IX textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. The Class X textbook's Getting Started spreads, GAME and CONNECTIONS features, Unit Revisions, Glossary, Measurement Reference and Answers are apparatus/practice and are stocked nowhere. Its assessment introduction carries a "curriculum for Class IX" line — a carry-over in the Class X book, read as Class X. Into this lesson the placements stock 18 items (18 pupil) from Books 8, 9, 10, 11, 12, 13 and 14.
+
+**Book 8:** *Mathematics Textbook, Class IV* (Understanding Mathematics series) — Bhutan, DSE, ©2023, reprint 2024; 8,396,156 bytes, 298 PDF pp., MD5 c0f958781912bcf79bcd0f4072354460 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 9:** *Mathematics Textbook, Class V* (Understanding Mathematics series) — Bhutan, DSE; 8,178,542 bytes, 298 PDF pp., MD5 2847d30f3710e178d4f69448e68fdda9 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 10:** *Mathematics Textbook, Class VI* (Understanding Mathematics series) — Bhutan, DSE; 8,259,272 bytes, 287 PDF pp., MD5 4a9bca07f7e40d4e59cd028437799b4b (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 11:** *Mathematics Textbook, Class VII* (Understanding Mathematics series) — Bhutan, DSE; 9,619,086 bytes, 336 PDF pp., MD5 d81587aa5d5bc769251239297f877acf (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 12:** *Understanding Mathematics — Textbook for Class VIII* — Bhutan, DSE, ©2023, ISBN 99936-0-323-6 (1st ed. 2008, reprint 2024); 8,453,661 bytes, 348 PDF pp., MD5 6fe6b1ac0d85d1de1911b9ca1d053623 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 13:** *Understanding Mathematics — Textbook for Class IX* (Understanding Mathematics series) — Bhutan, DSE; 7,812,420 bytes, 376 PDF pp., MD5 42b92a5abacc908553bb0237662120a4 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+**Book 14:** *Mathematics Textbook, Class X* (Understanding Mathematics series) — Bhutan, DSE; 10,824,253 bytes, 396 PDF pp., MD5 95df20230ee6424e525b0e890130b280 (matches books.json). Pages cited are the book's own contents pagination. Pupil textbook.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6.2.1 Measuring volume using cubes | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 189 |
+| §6.2.2 Volume of rectangle-based prisms | Bhutan — *Mathematics Textbook, Class IV* (pupil textbook), printed p. 191 |
+| §5.3.1 Volume | Bhutan — *Mathematics Textbook, Class V* (pupil textbook), printed p. 138 |
+| §5.2.1 Volume of a rectangular prism | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 127 |
+| §5.2.2 Relating volume to capacity | Bhutan — *Mathematics Textbook, Class VI* (pupil textbook), printed p. 132 |
+| §4.3.2 Volume of a rectangular prism | Bhutan — *Mathematics Textbook, Class VII* (pupil textbook), printed p. 137 |
+| §5.3.1 Volume of a rectangular prism | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. 143 |
+| §5.3.2 Surface area of a rectangular prism (contents lists p. 157 — misprint, see book-error note; sequence ~p. 147) | Bhutan — *Understanding Mathematics — Textbook for Class VIII* (pupil textbook), printed p. ~147 |
+| §6.1.1 Volume of prisms and cylinders | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 225 |
+| §6.1.2 Comparing pyramid and prism capacities | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 231 |
+| §6.1.3 Volume of pyramids and cones | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 232 |
+| §6.1.4 Volume of spheres and composite shapes | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 239 |
+| §6.2.1 Surface area of prisms | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 243 |
+| §6.2.2 Surface area of pyramids | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 248 |
+| §6.2.3 Surface area of cylinders | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 253 |
+| §6.2.4 Surface area of cones | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 257 |
+| §6.2.5 Surface area of spheres | Bhutan — *Understanding Mathematics — Textbook for Class IX* (pupil textbook), printed p. 260 |
+| §4.2.3 3-D efficiency | Bhutan — *Mathematics Textbook, Class X* (pupil textbook), printed p. 121 |
+
+Bhutan is added to the countries line and to the acceptance count above on its pupil rows — 18 pupil items in this lesson, from real pupil books of the *Understanding Mathematics* series. Bhutan's class for Maths is **COURSES-CLOSED for the in-hand set** — every in-hand Bhutan Maths book (all 16 files) has been read in full and stocked; the two BHSEC files are partial excerpts of their named books, and Bhutan reopens for the missing BHSEC chapters (Class XI chapters 6–26, Class XII chapters 5–19) only if complete copies ever land.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/maths/bhutan-placements.md.
