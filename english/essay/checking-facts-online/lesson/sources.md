@@ -1,6 +1,6 @@
 # Sources — Checking Facts Online
 
-countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia, Iceland, Philippines, Honduras
+countries: Indonesia, Barbados, Samoa, Uruguay, Sri Lanka, Nigeria, Canada, Andorra, Zambia, Moldova, Colombia, Iceland, Philippines, Honduras, Bahamas
 
 Every part traces to its book and page.
 
@@ -226,3 +226,17 @@ The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs 
 Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.
+
+## Bahamas added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDFs — **2 distinct documents behind 3 records**: the *Primary Language Arts Scope and Sequence* (September 2010) and the *Secondary Language Arts Curriculum Guidelines (Revised 2010)* — 101 teaching items placed. Both documents are Ministry of Education curriculum frameworks, NOT textbooks: the Bahamas holds no English student textbook and no English teacher guide in hand at all. Every Bahamas item in this section is CURRICULUM EVIDENCE of what Bahamian English teaching contains, cited as the evidence kind it is. Read depth, as the placements declare it: Book A read in full, page by page; Book B's Scope and Sequence read in full, objective by objective, its Scope of Work read at reduced depth (headings reconciled, activities sampled) and its appendices read by section. The rows below are stocked from the expansion placements (bahamas-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book B:** *Secondary Language Arts Curriculum Guidelines (Revised 2010)* — Government of the Commonwealth of The Bahamas, Department of Education. CURRICULUM EVIDENCE ONLY — the Ministry's secondary English curriculum guidelines, one document for grades 7–12 (the BJC grades 7–9 and BGCSE grades 10–12 records are this one file — identical git blob sha bc8933493bbef07a74f675c90baa51135ecdfc12, downloaded copies SHA-256-identical — cited once; flag F1), not a pupil's textbook. 346 PDF pages; printed page = PDF page; pages cited are printed pages. Read in the 2026-11-10 expansion read: the Scope and Sequence (printed pp.37–87) in full, objective by objective; the Scope of Work (printed pp.88–299) at reduced depth — every objective heading extracted and reconciled against the Scope and Sequence (all are delivery activities for Scope-and-Sequence objectives; no Scope-of-Work-only taught item exists), activities sampled; appendices read by section. Book error E6: the cover dates the revision 2010 while the Acknowledgements describe teacher feedback from a Curriculum Revision Workshop held in the summer of 2011 — the revision process the book describes postdates its own cover date. Book error E4: Sub-goal 9's numbering jumps from 9.7 to 9.10 (printed pp.84–85) — objectives 9.8 and 9.9 do not exist in the book; the rows below cite the objectives as printed.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Evaluating electronic media: uses of the internet; emotional effects of electronic media on audiences; comparing audio-visual techniques with print techniques; analysing words, sounds and movements used to convey a message; narrative elements in movies; comparing and contrasting themes across audio-visual media; pros and cons of visual and auditory advertisements; inferences from audio-visual programmes; how electronic media supports an author's point of view; figurative vs literal meaning in movies; humour, irony and metaphor in movies; analysing audio-visual programmes for language, subject matter and visuals; internet study guides for literature texts; literary devices in audio-visual programmes (flashback, foreshadowing, imagery and others); critical responses to audio-visual content; summarising main points to avoid plagiarism when using electronic media for research (objectives 9.25–9.40) | Bahamas — *Secondary Language Arts Curriculum Guidelines (Revised 2010)* (Department of Education) — curriculum evidence, printed pp.86–87 |
+
+The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.

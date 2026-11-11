@@ -1,6 +1,6 @@
 # Sources — Building a sentence
 
-countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Zambia, Guyana, Honduras
+countries: Bangladesh, Bolivia, Ghana, Mongolia, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, India, Nicaragua, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Suriname, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, Singapore, Zambia, Guyana, Honduras, Bahamas
 
 Every part traces to its book and page.
 
@@ -967,3 +967,18 @@ The 2026-11-10 expansion read read Honduras's in-hand English set from the PDFs 
 Honduras is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/honduras-placements.md.
+
+## Bahamas added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDFs — **2 distinct documents behind 3 records**: the *Primary Language Arts Scope and Sequence* (September 2010) and the *Secondary Language Arts Curriculum Guidelines (Revised 2010)* — 101 teaching items placed. Both documents are Ministry of Education curriculum frameworks, NOT textbooks: the Bahamas holds no English student textbook and no English teacher guide in hand at all. Every Bahamas item in this section is CURRICULUM EVIDENCE of what Bahamian English teaching contains, cited as the evidence kind it is. Read depth, as the placements declare it: Book A read in full, page by page; Book B's Scope and Sequence read in full, objective by objective, its Scope of Work read at reduced depth (headings reconciled, activities sampled) and its appendices read by section. The rows below are stocked from the expansion placements (bahamas-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book A:** *Primary Language Arts Scope and Sequence* — Bahamas, Department of Education, Humanities Section (September 2010). CURRICULUM EVIDENCE ONLY — the Ministry's primary Language Arts curriculum framework (standards plus the numbered scope-and-sequence of objectives, preschool–Grade 7), not a pupil's textbook: the Bahamas holds no English pupil textbook and no English teacher guide in hand. 43 PDF pages; printed page = PDF page − 1; pages cited are printed pages. Read in full, page by page, in the 2026-11-10 expansion read. Completeness (book error E1): the contents list promises a Sample Writing Scoring Guide at printed p.43, but the held file ends at printed p.41 — that final appendix is absent from the file as held; every scope-and-sequence section is present and was read.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sentence grammar: sentences vs fragments; telling, asking, exclamatory and command sentences, correctly punctuated; expanding simple sentences into compound, complex and compound-complex sentences; correcting run-on sentences (objectives 3.51–3.54) | Bahamas — *Primary Language Arts Scope and Sequence* (Department of Education, Humanities Section, September 2010) — curriculum evidence, printed p.37 |
+| Subject, predicate and adjectives: simple subject and simple predicate; complete subject and complete predicate; sensory adjectives in speech and writing; adjectives used to compare nouns and pronouns (objectives 3.71–3.74) | Bahamas — *Primary Language Arts Scope and Sequence* (Department of Education, Humanities Section, September 2010) — curriculum evidence, printed p.39 |
+
+The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.

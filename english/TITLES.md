@@ -158,7 +158,9 @@ its own subtitle folder with its own lesson + questions):
   abbreviations (added 2026-11-11 by the Nigeria
   expansion merge — **Unit 6, Word Kinds**) ·
   male-and-female-word-pairs (added 2026-11-11 by the
-  Guyana expansion merge — **Unit 6, Word Kinds**)
+  Guyana expansion merge — **Unit 6, Word Kinds**) ·
+  spelling-patterns (added 2026-11-11 by the Bahamas
+  expansion merge — **Unit 6, Word Kinds**)
 - Word (world sets) → the-home · the-town · food-and-fruit ·
   animals · the-body (built 2026-10-27 — **Unit 7, Words
   for the World**) · colours · weather-and-seasons · clothes ·
@@ -303,6 +305,9 @@ its own subtitle folder with its own lesson + questions):
   the-hyphen (added 2026-11-11 by the Iceland
   expansion merge — **Unit 10, Building a
   Sentence**) ·
+  commas-colons-and-semicolons (added 2026-11-11 by
+  the Bahamas expansion merge — **Unit 10, Building a
+  Sentence**) ·
   inversion (added 2026-11-11 by the Eritrea expansion
   merge — **Unit 18, Deeper Sentences**) ·
   the-subjunctive (added 2026-11-11 by the Tunisia
@@ -432,7 +437,24 @@ its own subtitle folder with its own lesson + questions):
   cohesion-and-coherence (added 2026-11-11 by the
   Philippines expansion merge — **Unit 14, The Paragraph**) ·
   evaluating-media (added 2026-11-11 by the Philippines
-  expansion merge — **Unit 42, Reading Like a Detective**)
+  expansion merge — **Unit 42, Reading Like a Detective**) ·
+  listening-for-tone-and-persuasion (added 2026-11-11
+  by the Bahamas expansion merge — **Unit 15, Reading
+  Whole Texts**) ·
+  viewing-and-media-literacy (added 2026-11-11 by the
+  Bahamas expansion merge — **Unit 15, Reading Whole
+  Texts**) ·
+  reading-fluency (added 2026-11-11 by the Bahamas
+  expansion merge — **Unit 15, Reading Whole Texts**) ·
+  analysing-speakers-and-persuasion (added 2026-11-11
+  by the Bahamas expansion merge — **Unit 42, Reading
+  Like a Detective**) ·
+  communicating-and-researching-online (added
+  2026-11-11 by the Bahamas expansion merge — **Unit
+  42, Reading Like a Detective**) ·
+  critical-viewing-and-advertising (added 2026-11-11
+  by the Bahamas expansion merge — **Unit 42, Reading
+  Like a Detective**)
 - Essay → the-essay · opening-and-closing (built
   2026-10-27 — **Unit 16, The Essay**) · the-writing-process
   (added 2026-11-11 by the Samoa expansion merge —
@@ -462,6 +484,12 @@ its own subtitle folder with its own lesson + questions):
   point-of-view (added 2026-11-11 by the Dominican
   Republic expansion merge — **Unit 41, Stories and
   Poems in Detail**) ·
+  literature-in-its-cultural-and-historical-context
+  (added 2026-11-11 by the Bahamas expansion merge —
+  **Unit 41, Stories and Poems in Detail**) ·
+  literature-background-and-culture (added 2026-11-11
+  by the Bahamas expansion merge — **Unit 41, Stories
+  and Poems in Detail**) ·
   sensory-images · twist-poem-analysis ·
   approaches-to-literary-criticism · realism-and-naturalism
   (added 2026-11-11 by the Philippines expansion merge —

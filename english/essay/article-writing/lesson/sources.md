@@ -1,6 +1,6 @@
 # Sources — Article writing
 
-countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Nigeria, Canada, Andorra, Moldova, Colombia, Iceland, Cuba
+countries: Egypt, Kuwait, Malaysia, Vietnam, China, Mexico, India, Mongolia, Sierra Leone, Iraq, Armenia, South Africa, Kazakhstan, Cyprus, Eritrea, Tunisia, Samoa, Uruguay, Nigeria, Canada, Andorra, Moldova, Colombia, Iceland, Cuba, Bahamas
 Every part traces to its book and page.
 
 **Book 1:** English, Preparatory 9 Term 2 (Student's Book) — Egypt, Ministry of Education. Filed in english/EGYPT-BOOK-MAP.md (FULLY READ 2026-10-26).
@@ -384,3 +384,20 @@ The 2026-11-10 expansion read read Cuba's in-hand English set from the PDFs — 
 Cuba is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/cuba-placements.md.
+
+## Bahamas added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read the Bahamas' in-hand English set from the PDFs — **2 distinct documents behind 3 records**: the *Primary Language Arts Scope and Sequence* (September 2010) and the *Secondary Language Arts Curriculum Guidelines (Revised 2010)* — 101 teaching items placed. Both documents are Ministry of Education curriculum frameworks, NOT textbooks: the Bahamas holds no English student textbook and no English teacher guide in hand at all. Every Bahamas item in this section is CURRICULUM EVIDENCE of what Bahamian English teaching contains, cited as the evidence kind it is. Read depth, as the placements declare it: Book A read in full, page by page; Book B's Scope and Sequence read in full, objective by objective, its Scope of Work read at reduced depth (headings reconciled, activities sampled) and its appendices read by section. The rows below are stocked from the expansion placements (bahamas-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book A:** *Primary Language Arts Scope and Sequence* — Bahamas, Department of Education, Humanities Section (September 2010). CURRICULUM EVIDENCE ONLY — the Ministry's primary Language Arts curriculum framework (standards plus the numbered scope-and-sequence of objectives, preschool–Grade 7), not a pupil's textbook: the Bahamas holds no English pupil textbook and no English teacher guide in hand. 43 PDF pages; printed page = PDF page − 1; pages cited are printed pages. Read in full, page by page, in the 2026-11-10 expansion read. Completeness (book error E1): the contents list promises a Sample Writing Scoring Guide at printed p.43, but the held file ends at printed p.41 — that final appendix is absent from the file as held; every scope-and-sequence section is present and was read.
+
+**Book B:** *Secondary Language Arts Curriculum Guidelines (Revised 2010)* — Government of the Commonwealth of The Bahamas, Department of Education. CURRICULUM EVIDENCE ONLY — the Ministry's secondary English curriculum guidelines, one document for grades 7–12 (the BJC grades 7–9 and BGCSE grades 10–12 records are this one file — identical git blob sha bc8933493bbef07a74f675c90baa51135ecdfc12, downloaded copies SHA-256-identical — cited once; flag F1), not a pupil's textbook. 346 PDF pages; printed page = PDF page; pages cited are printed pages. Read in the 2026-11-10 expansion read: the Scope and Sequence (printed pp.37–87) in full, objective by objective; the Scope of Work (printed pp.88–299) at reduced depth — every objective heading extracted and reconciled against the Scope and Sequence (all are delivery activities for Scope-and-Sequence objectives; no Scope-of-Work-only taught item exists), activities sampled; appendices read by section. Book error E6: the cover dates the revision 2010 while the Acknowledgements describe teacher feedback from a Curriculum Revision Workshop held in the summer of 2011 — the revision process the book describes postdates its own cover date.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expository and persuasive writing — the newspaper-article part of this objective set (objectives 3.20–3.22) | Bahamas — *Primary Language Arts Scope and Sequence* (Department of Education, Humanities Section, September 2010) — curriculum evidence, printed p.34 |
+| Reports, speeches and journalism — the magazine-articles part of this objective set (objectives 2.17–2.21) | Bahamas — *Secondary Language Arts Curriculum Guidelines (Revised 2010)* (Department of Education) — curriculum evidence, printed p.48 |
+
+The Bahamas enters this lesson as curriculum evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — both in-hand documents are Ministry curriculum frameworks, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/bahamas-placements.md.
