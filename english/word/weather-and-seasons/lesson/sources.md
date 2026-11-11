@@ -1,6 +1,6 @@
 # Sources — Weather and seasons
 
-countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Suriname
+countries: Albania, Bolivia, Cambodia, Ecuador, India, Mongolia, Rwanda, China, Iran, Mauritania, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, South Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Suriname, Haiti
 Every part traces to its book and page.
 
 **Book 1:** Akelius A2 Teacher's Guide (guide for the
@@ -671,3 +671,22 @@ The 2026-11-10 expansion read read Suriname's held English set from the PDF — 
 
 Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+**Book 2:** *Programme Pédagogique Opérationnel — Anglais (option), 9e année, 1989-1990* (Ministère de l'Éducation Nationale, Institut Pédagogique National). TEACHER EVIDENCE ONLY. 67 pp, a scanned document read through its OCR text layer; printed page = PDF page. Flag F1, carried: the file is recorded and filed as the 8e année fascicule, but its own cover reads 9e Année — the in-hand set holds no 8e année fascicule; this book is 9e-year evidence and is cited as such.
+
+**Book 3:** *Curriculum secondaire — Anglais, année 1 (NS1)*, Programme Pédagogique Opérationnel / Secondaire 1 (©MENFP, septembre 2015). TEACHER EVIDENCE ONLY: a curriculum programme, not a pupil's book. 17 pp; pages cited are PRINTED pages (printed page = PDF page − 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The cadre's weather vocabulary set | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.36 |
+| Weather as a social act, revising the 8e-year set: asking and informing about the weather and the seasons (It's hot, cool, windy, cloudy, foggy; Did it rain yesterday?; What season is it now?) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 9e année* (MENFP, 1989-1990) — teacher evidence, PDF p.26 |
+| Climate and weather: from the teacher's description of the weather patterns, choosing the appropriate clothes and activities for the day, working from a picture | Haiti — *Curriculum secondaire, Anglais année 1 (NS1)* (MENFP, 2015) — teacher evidence, printed p.10 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

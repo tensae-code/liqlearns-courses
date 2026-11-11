@@ -1,6 +1,6 @@
 # Sources — The present perfect
 
-countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname
+countries: Egypt, Libya, Laos, China, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Malaysia, Yemen, Afghanistan, Venezuela, Bolivia, Mauritania, Mexico, India, Mongolia, Nicaragua, Palestine, Rwanda, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti
 
 Every part traces to its book and page.
 
@@ -696,3 +696,25 @@ Book error E8, carried: the present-perfect exercise (printed p.35) prints “ne
 
 Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Interactions sociales* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 17 pp; printed page = PDF page.
+
+**Book 2:** *Programme Pédagogique Opérationnel — Anglais (option), 9e année, 1989-1990* (Ministère de l'Éducation Nationale, Institut Pédagogique National). TEACHER EVIDENCE ONLY. 67 pp, a scanned document read through its OCR text layer; printed page = PDF page. Flag F1, carried: the file is recorded and filed as the 8e année fascicule, but its own cover reads 9e Année — the in-hand set holds no 8e année fascicule; this book is 9e-year evidence and is cited as such.
+
+**Book 3:** *Curriculum secondaire — Anglais, année 1 (NS1)*, Programme Pédagogique Opérationnel / Secondaire 1 (©MENFP, septembre 2015). TEACHER EVIDENCE ONLY: a curriculum programme, not a pupil's book. 17 pp; pages cited are PRINTED pages (printed page = PDF page − 2).
+
+**Book 4:** *Curriculum secondaire — Anglais, année 2 (NS2)* (MENFP, Commission Multisectorielle d'Implantation du Nouveau Secondaire). TEACHER EVIDENCE ONLY. 29 pp; printed page = PDF page. Flag F2, carried: the document's own cover dates it 2008-2009, though it is filed in the 2015 set under the name curriculum-2015; the 2015 date is not confirmed from the document itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Present perfect with time adverbs and phrases (already, just, ever, never, yet, lately, this week, this month) in friendship exchanges, with pronunciation of has and have | Haiti — *Interactions sociales*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.3–4, 8–9 |
+| The present perfect with since / for, contrasted with the simple past, in work-history talk | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 9e année* (MENFP, 1989-1990) — teacher evidence, PDF pp.35–36 |
+| The present perfect in the housing-and-lodging listening | Haiti — *Curriculum secondaire, Anglais année 1 (NS1)* (MENFP, 2015) — teacher evidence, printed p.10 |
+| The NS2 Daily-Life set: present perfect | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.24 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

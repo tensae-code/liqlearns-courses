@@ -1,6 +1,6 @@
 # Sources — Agreeing and disagreeing
 
-countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka
+countries: Cambodia, Mauritania, Mongolia, Nepal, Uzbekistan, China, Mexico, Nicaragua, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, Egypt, Kazakhstan, Libya, Ethiopia, Barbados, Kuwait, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti
 Every part traces to its book and page.
 
 **Book 1:** ENGLISH Grade 10, Student's Book — Cambodia,
@@ -521,3 +521,22 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Interactions sociales* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 17 pp; printed page = PDF page.
+
+**Book 2:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+**Book 3:** *Programme détaillé — Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP). TEACHER EVIDENCE ONLY. 13 pp; pages cited are PRINTED pages (printed page = PDF page − 1). Flag F6, carried: the file has no title page; its identification as the NS4 programme rests on the library record and on the NS1–NS3 series continuity, not on anything printed in the file.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expressing agreement, disagreement and a point of view about values such as solidarity and sharing (That's true, you're right, I don't think so) | Haiti — *Interactions sociales*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.5, 14 |
+| Judgement: agreeing and disagreeing (I approve…; I agree with you; I don't agree with you; I can't agree with you more; That's fine; Not that way) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.64 |
+| The pros and cons debated: eliminating the first part of the baccalauréat | Haiti — *Programme détaillé, Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP) — teacher evidence, printed pp.9–10 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

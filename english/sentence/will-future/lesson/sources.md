@@ -1,6 +1,6 @@
 # Sources — Will for the Future
 
-countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Suriname
+countries: Bolivia, Kazakhstan, Jordan, Libya, Uzbekistan, Nepal, Ethiopia, Barbados, Kuwait, Cyprus, Eritrea, Tunisia, Uganda, Uruguay, Sri Lanka, Suriname, Haiti
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 10 (Secundaria 4) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -286,3 +286,16 @@ The 2026-11-10 expansion read read Suriname's held English set from the PDF — 
 
 Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Programme détaillé — Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP). TEACHER EVIDENCE ONLY. 13 pp; pages cited are PRINTED pages (printed page = PDF page − 1). Flag F6, carried: the file has no title page; its identification as the NS4 programme rests on the library record and on the NS1–NS3 series continuity, not on anything printed in the file.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The NS4 Travel set: will + infinitive and the future tense | Haiti — *Programme détaillé, Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP) — teacher evidence, printed p.6 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

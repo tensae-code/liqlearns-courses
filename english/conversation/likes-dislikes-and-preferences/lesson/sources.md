@@ -1,6 +1,6 @@
 # Sources — Likes, Dislikes and Preferences
 
-countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein
+countries: Mauritania, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Sri Lanka, Liechtenstein, Haiti
 
 Every part traces to its book and page.
 
@@ -209,3 +209,23 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Interactions sociales (le vivre ensemble / l'amitié / l'acceptation)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 12 pp; printed page = PDF page. Book error E1, carried: the cover title names friendship and acceptance, but every séance teaches food (meals, food categories, countable and uncountable nouns, Haitian and American dishes); the placements follow the content, and this section cites the book by what it teaches.
+
+**Book 2:** *La personne et la vie quotidienne* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 11 pp; printed page = PDF page.
+
+**Book 3:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Expressing food tastes and wants (Do you want vegetable soup? — I want corn dogs) | Haiti — *Interactions sociales*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.7, 11 |
+| Saying where you like / don't like going and why (because it's…), and reporting a partner's likes in the third person | Haiti — *La personne et la vie quotidienne*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.5–6 |
+| Likes asked and answered with short answers (Yes, I do; No, she doesn't) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.55 |
+| Dislikes and strong aversion (I don't like swimming; They hate to study by heart; The teacher can't stand loud talking; I can't bear the noise; Spinach makes me sick) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.56 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

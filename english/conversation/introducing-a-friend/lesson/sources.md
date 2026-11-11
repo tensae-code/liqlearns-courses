@@ -1,6 +1,6 @@
 # Sources for this lesson — Introducing a friend
 
-countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka
+countries: Egypt, Libya, China, Mongolia, Iran, Indonesia, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Mauritania, Nicaragua, Palestine, Laos, Cyprus, Eritrea, Sri Lanka, Haiti
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -670,3 +670,19 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Présentations* — teacher sequence, 8e année (Projet Nectar; Canoprof editorialisation). TEACHER EVIDENCE ONLY. 15 pp; printed page = PDF page.
+
+**Book 2:** *Programme Pédagogique Opérationnel — Anglais (option), 9e année, 1989-1990* (Ministère de l'Éducation Nationale, Institut Pédagogique National). TEACHER EVIDENCE ONLY. 67 pp, a scanned document read through its OCR text layer; printed page = PDF page. Flag F1, carried: the file is recorded and filed as the 8e année fascicule, but its own cover reads 9e Année — the in-hand set holds no 8e année fascicule; this book is 9e-year evidence and is cited as such.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Getting to know someone in dialogue: asking a partner's birthdate, birthplace and age and answering in return | Haiti — *Présentations*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.6, 11 |
+| Introducing one person to another, with the forms for different ages and positions (This is…; I'd like to introduce…; I'd like you to meet…; Glad to meet you; It's a pleasure to meet you, ma'am) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 9e année* (MENFP, 1989-1990) — teacher evidence, PDF pp.29–30 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

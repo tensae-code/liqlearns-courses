@@ -1,6 +1,6 @@
 # Sources — Future perfect
 
-countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji, Eritrea, Uganda
+countries: Egypt, Malaysia, Nepal, Uzbekistan, South Africa, Mongolia, Pakistan, Sierra Leone, Iraq, Jordan, Libya, Ethiopia, Fiji, Eritrea, Uganda, Haiti
 
 Every part traces to its book and page.
 
@@ -151,3 +151,16 @@ The 2026-11-10 expansion read read Uganda's in-hand English set from the PDFs: f
 
 Uganda is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uganda-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Programme détaillé — Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP). TEACHER EVIDENCE ONLY. 13 pp; pages cited are PRINTED pages (printed page = PDF page − 1). Flag F6, carried: the file has no title page; its identification as the NS4 programme rests on the library record and on the NS1–NS3 series continuity, not on anything printed in the file.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The NS4 Environment set: the future perfect and the future perfect continuous | Haiti — *Programme détaillé, Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP) — teacher evidence, printed p.8 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

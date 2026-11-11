@@ -1,6 +1,6 @@
 # Sources — Prepositions of Place
 
-countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein
+countries: Bolivia, Nicaragua, North Macedonia, Palestine, Egypt, Jordan, Libya, Nepal, Ecuador, Ethiopia, Saudi Arabia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Liechtenstein, Haiti
 
 Every part traces to its book and page.
 
@@ -408,3 +408,25 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Présentations* — teacher sequence, 7e année (Projet Nectar: MENFP / Réseau Canopé; author Abel Mercier). TEACHER EVIDENCE ONLY: a teacher's sequence stating what is taught, not a pupil's book. 14 pp; printed page = PDF page. Its dépôt rendering (the same sequence with an added table of contents and different pagination) is a content duplicate, collapsed into this book and cited nowhere separately.
+
+**Book 2:** *La personne et la vie quotidienne (l'environnement, les loisirs)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 10 pp; printed page = PDF page.
+
+**Book 3:** *Présentations* — teacher sequence, 8e année (Projet Nectar; Canoprof editorialisation). TEACHER EVIDENCE ONLY. 15 pp; printed page = PDF page.
+
+**Book 4:** *Curriculum secondaire — Anglais, année 1 (NS1)*, Programme Pédagogique Opérationnel / Secondaire 1 (©MENFP, septembre 2015). TEACHER EVIDENCE ONLY: a curriculum programme, not a pupil's book. 17 pp; pages cited are PRINTED pages (printed page = PDF page − 2).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Prepositions of place in / on / at (in my bag / on the table / at home) | Haiti — *Présentations*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.5, 10–11 |
+| Prepositions of place (in front of, behind, next to) and direction indicators (turn right, cross the street, go straight on) to locate places, including on a map | Haiti — *La personne et la vie quotidienne*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.4–5 |
+| Where things are in the home: chair near the cabinet, dishes on the counter in front of the microwave, flowers over the shelf | Haiti — *Présentations*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF p.10 |
+| Under / over / below / at / to reviewed in the transport listening | Haiti — *Curriculum secondaire, Anglais année 1 (NS1)* (MENFP, 2015) — teacher evidence, printed p.11 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

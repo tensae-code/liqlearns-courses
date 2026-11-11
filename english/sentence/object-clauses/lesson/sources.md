@@ -1,6 +1,6 @@
 # Sources — Object clauses
 
-countries: Albania, China, Nepal, South Africa, Greece, Pakistan, Eritrea, Samoa
+countries: Albania, China, Nepal, South Africa, Greece, Pakistan, Eritrea, Samoa, Haiti
 
 Every part traces to its book and page.
 
@@ -89,3 +89,23 @@ The 2026-11-10 expansion read read Sāmoa's held English set from the PDFs — 1
 
 Samoa is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/samoa-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Curriculum secondaire — Anglais, année 2 (NS2)* (MENFP, Commission Multisectorielle d'Implantation du Nouveau Secondaire). TEACHER EVIDENCE ONLY. 29 pp; printed page = PDF page. Flag F2, carried: the document's own cover dates it 2008-2009, though it is filed in the 2015 set under the name curriculum-2015; the 2015 date is not confirmed from the document itself.
+
+**Book 2:** *Programme détaillé — Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP, Direction de l'Enseignement Secondaire). TEACHER EVIDENCE ONLY. 13 pp; printed page = PDF page.
+
+**Book 3:** *Programme détaillé — Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP). TEACHER EVIDENCE ONLY. 13 pp; pages cited are PRINTED pages (printed page = PDF page − 1). Flag F6, carried: the file has no title page; its identification as the NS4 programme rests on the library record and on the NS1–NS3 series continuity, not on anything printed in the file.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The NS2 Daily-Life set: the noun clause | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.24 |
+| The NS3 Health set: the noun clause | Haiti — *Programme détaillé, Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP) — teacher evidence, printed pp.4–5 |
+| The NS3 Science set: the noun clause | Haiti — *Programme détaillé, Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP) — teacher evidence, printed p.13 |
+| The NS4 Science set: noun clauses | Haiti — *Programme détaillé, Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP) — teacher evidence, printed p.12 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

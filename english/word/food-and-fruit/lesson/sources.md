@@ -1,6 +1,6 @@
 # Sources — Food and fruit
 
-countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka
+countries: Bangladesh, Egypt, Palestine, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mexico, Nicaragua, North Macedonia, Laos, Libya, Tanzania, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti
 
 Every part traces to its book and page.
 
@@ -843,3 +843,21 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Interactions sociales (le vivre ensemble / l'amitié / l'acceptation)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 12 pp; printed page = PDF page. Book error E1, carried: the cover title names friendship and acceptance, but every séance teaches food (meals, food categories, countable and uncountable nouns, Haitian and American dishes); the placements follow the content, and this section cites the book by what it teaches.
+
+**Book 2:** *Programme détaillé — Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP, Direction de l'Enseignement Secondaire). TEACHER EVIDENCE ONLY. 13 pp; printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The three meals of the day (breakfast, lunch, dinner) and the food eaten at each meal in Haiti and in America; What is your favorite meal? | Haiti — *Interactions sociales*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.2, 7 |
+| Food categories and their members: vegetables, fruit, meat, dairy products, bread, drinks, dessert, vegetable proteins | Haiti — *Interactions sociales*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.8–9 |
+| Haitian and American dishes by name: joumou, griot, pikliz, tchaka, legim, poulet aux noix; buffalo wings, pecan pie, chocolate chip cookies, s'mores, corn dogs, New England lobster roll | Haiti — *Interactions sociales*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF p.11 |
+| Diet compared: the Haitian diet against the American diet, the food guide pyramid | Haiti — *Programme détaillé, Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP) — teacher evidence, printed p.4 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

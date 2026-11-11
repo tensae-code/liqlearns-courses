@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Sri Lanka
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti
 
 Every part traces to its book and page.
 
@@ -466,3 +466,20 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson as teacher-guide/syllabus evidence only: it is named in the countries line above, and the acceptance count does not change.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Programme Pédagogique Opérationnel — Anglais (option), 9e année, 1989-1990* (Ministère de l'Éducation Nationale, Institut Pédagogique National). TEACHER EVIDENCE ONLY. 67 pp, a scanned document read through its OCR text layer; printed page = PDF page. Flag F1, carried: the file is recorded and filed as the 8e année fascicule, but its own cover reads 9e Année — the in-hand set holds no 8e année fascicule; this book is 9e-year evidence and is cited as such.
+
+**Book 2:** *Programme détaillé — Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP, Direction de l'Enseignement Secondaire). TEACHER EVIDENCE ONLY. 13 pp; printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Congratulating on a graduation, a promotion, a marriage and a new baby (That's great! Congratulations!; I wish you a lot of happiness; I'm happy for you) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 9e année* (MENFP, 1989-1990) — teacher evidence, PDF pp.26–27 |
+| Wishes and good wishes for festivals and occasions (Merry Christmas & Happy New Year; Happy Easter!; Happy Mother's Day; Have a nice trip; May the blessings of Christmas be yours) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 9e année* (MENFP, 1989-1990) — teacher evidence, PDF pp.28–29 |
+| Writing a letter of congratulations to the best-equipped schools | Haiti — *Programme détaillé, Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP) — teacher evidence, printed pp.12–13 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

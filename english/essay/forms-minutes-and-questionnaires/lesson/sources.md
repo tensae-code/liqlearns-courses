@@ -1,6 +1,6 @@
 # Sources — Forms, minutes and questionnaires
 
-countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen, Iraq, Vietnam, Malaysia, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay
+countries: Albania, Ghana, Greece, South Africa, China, India, Mongolia, Nicaragua, Palestine, Rwanda, South Sudan, Sudan, Yemen, Iraq, Vietnam, Malaysia, Libya, Uzbekistan, Nepal, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uruguay, Haiti
 
 Every part traces to its book and page.
 
@@ -446,3 +446,24 @@ Book error E19, carried: Book 6's index (p.6) lists its Unit 5 lessons in a scra
 
 Uruguay is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/uruguay-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Présentations* — teacher sequence, 7e année (Projet Nectar: MENFP / Réseau Canopé; author Abel Mercier). TEACHER EVIDENCE ONLY: a teacher's sequence stating what is taught, not a pupil's book. 14 pp; printed page = PDF page. Its dépôt rendering (the same sequence with an added table of contents and different pagination) is a content duplicate, collapsed into this book and cited nowhere separately.
+
+**Book 2:** *Curriculum secondaire — Anglais, année 1 (NS1)*, Programme Pédagogique Opérationnel / Secondaire 1 (©MENFP, septembre 2015). TEACHER EVIDENCE ONLY: a curriculum programme, not a pupil's book. 17 pp; pages cited are PRINTED pages (printed page = PDF page − 2).
+
+**Book 3:** *Curriculum secondaire — Anglais, année 2 (NS2)* (MENFP, Commission Multisectorielle d'Implantation du Nouveau Secondaire). TEACHER EVIDENCE ONLY. 29 pp; printed page = PDF page. Flag F2, carried: the document's own cover dates it 2008-2009, though it is filed in the 2015 set under the name curriculum-2015; the 2015 date is not confirmed from the document itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Filling in a form: reproducing an identity document / school card, filling a membership form and a hotel form | Haiti — *Présentations*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.5–6, 12 |
+| Filling in a boarding-pass form from flight announcements | Haiti — *Curriculum secondaire, Anglais année 1 (NS1)* (MENFP, 2015) — teacher evidence, printed p.11 |
+| Notes and memos inside work correspondence | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.24 |
+| Accident and medical forms inside the health set | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.25 |
+| Conducting a survey on how important education is to youngsters, and analysing the results | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.28 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

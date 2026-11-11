@@ -1,6 +1,6 @@
 # Sources — Nature and the environment
 
-countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein
+countries: Albania, Mexico, Mongolia, Saudi Arabia, Bangladesh, Bolivia, China, Iran, Indonesia, India, Greece, Nicaragua, North Macedonia, Pakistan, Palestine, Rwanda, Sierra Leone, South Sudan, Sudan, Venezuela, Yemen, Iraq, Armenia, Vietnam, South Africa, Cambodia, Egypt, Malaysia, Laos, Kazakhstan, Jordan, Libya, Uzbekistan, Ecuador, Ethiopia, Afghanistan, Kuwait, Cyprus, Fiji, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti
 Every part traces to its book and page.
 
 **Book 1:** English A2 (Akelius) Teacher's Guide — Albania.
@@ -1079,3 +1079,25 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+**Book 2:** *Curriculum secondaire — Anglais, année 2 (NS2)* (MENFP, Commission Multisectorielle d'Implantation du Nouveau Secondaire). TEACHER EVIDENCE ONLY. 29 pp; printed page = PDF page. Flag F2, carried: the document's own cover dates it 2008-2009, though it is filed in the 2015 set under the name curriculum-2015; the 2015 date is not confirmed from the document itself.
+
+**Book 3:** *Programme détaillé — Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP, Direction de l'Enseignement Secondaire). TEACHER EVIDENCE ONLY. 13 pp; printed page = PDF page.
+
+**Book 4:** *Programme détaillé — Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP). TEACHER EVIDENCE ONLY. 13 pp; pages cited are PRINTED pages (printed page = PDF page − 1). Flag F6, carried: the file has no title page; its identification as the NS4 programme rests on the library record and on the NS1–NS3 series continuity, not on anything printed in the file.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The cadre's nature, domestic animals and environment (buildings) vocabulary sets | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.36 |
+| Farming, deforestation and irrigation; natural phenomena compared across countries | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.27 |
+| Environment: renewable energy sources (geothermal, hydropower, solar, wind), alternative-fuelled vehicles, air pollution in selected world cities, greenhouse gas emissions, deforestation and traffic jams in Port-au-Prince; comparing renewable energy sources and analysing the cost-effectiveness and pollution impact of alternative fuels | Haiti — *Programme détaillé, Anglais, 3e année du Nouveau Secondaire (NS3)* (MENFP) — teacher evidence, printed pp.8–9 |
+| Environment: car pollution and its reduction (more efficient public transportation and car pooling), the world water crisis, earthquake-proof building policy for a disaster-prone Haiti, global warming and the hole in the ozone layer | Haiti — *Programme détaillé, Anglais, 4e année du Nouveau Secondaire (NS4)* (MENFP) — teacher evidence, printed pp.7–8 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

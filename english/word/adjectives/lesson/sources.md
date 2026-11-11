@@ -1,6 +1,6 @@
 # Sources — Adjectives
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein
+countries: Bangladesh, Egypt, Ghana, Libya, China, Mongolia, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, Palestine, Laos, Barbados, Fiji, Eritrea, Tunisia, Samoa, Uganda, Sri Lanka, Liechtenstein, Haiti
 
 Every part traces to its book and page.
 
@@ -959,3 +959,25 @@ The 2026-11-10 expansion read read Liechtenstein's in-hand English set from the 
 
 Liechtenstein is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: ~/workspace/liqlearns-courses-work/expansion-2026-11-10/english/liechtenstein-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *La personne et la vie quotidienne (l'environnement, les loisirs)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 10 pp; printed page = PDF page.
+
+**Book 2:** *La personne et la vie quotidienne* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 11 pp; printed page = PDF page.
+
+**Book 3:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+**Book 4:** *Curriculum secondaire — Anglais, année 2 (NS2)* (MENFP, Commission Multisectorielle d'Implantation du Nouveau Secondaire). TEACHER EVIDENCE ONLY. 29 pp; printed page = PDF page. Flag F2, carried: the document's own cover dates it 2008-2009, though it is filed in the 2015 set under the name curriculum-2015; the 2015 date is not confirmed from the document itself.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adjectives for describing places and things (small, green, beautiful…) | Haiti — *La personne et la vie quotidienne*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF p.6 |
+| Adjectives for describing leisure places: crowded, boring, exciting, loud, noisy | Haiti — *La personne et la vie quotidienne*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.5–6 |
+| Describing by shape, size, colour, taste, temperature and condition | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.47 |
+| The NS2 Daily-Life set: adjectives in complete sentences (possessive / descriptive) | Haiti — *Curriculum secondaire, Anglais année 2 (NS2)* (MENFP) — teacher evidence, printed p.24 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

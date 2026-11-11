@@ -109,7 +109,9 @@ its own subtitle folder with its own lesson + questions):
   group-discussion-skills (added 2026-11-11 by the
   Samoa expansion merge — **Unit 5, Conversation**) ·
   travel-dialogues (added 2026-11-11 by the Liechtenstein
-  expansion merge — **Unit 5, Conversation**)
+  expansion merge — **Unit 5, Conversation**) ·
+  keeping-a-conversation-going (added 2026-11-11 by the
+  Haiti expansion merge — **Unit 5, Conversation**)
 - Word → nouns · verbs · adjectives · adverbs · pronouns ·
   prepositions-in-and-into · prepositions-of-movement
   (built 2026-10-26 — **Unit 6, Word Kinds**, under the
@@ -222,7 +224,9 @@ its own subtitle folder with its own lesson + questions):
   expansion merge — **Unit 7, Words for the World**) ·
   famous-paintings-and-artists · optical-illusions
   (added 2026-11-11 by the Liechtenstein expansion
-  merge — **Unit 7, Words for the World**)
+  merge — **Unit 7, Words for the World**) ·
+  immigration-and-living-abroad (added 2026-11-11 by the
+  Haiti expansion merge — **Unit 7, Words for the World**)
 - Word (tool) → using-the-dictionary (built 2026-10-27 —
   **Unit 8, Using the Dictionary**; the platform's own
   dictionary tool is filed in ../DICTIONARY.md)
@@ -334,6 +338,8 @@ its own subtitle folder with its own lesson + questions):
   reading-signs-and-notices (added 2026-11-11 by the
   Saudi Arabia re-verification sweep merge — **Unit 15,
   Reading Whole Texts**) ·
+  writing-a-menu (added 2026-11-11 by the Haiti
+  expansion merge — **Unit 15, Reading Whole Texts**) ·
   texting-and-messaging (added 2026-11-11 by the
   Kazakhstan re-verification sweep merge — **Unit 44,
   Tests, Translating, Other Ways**) · finding-information (added 2026-11-10 by the

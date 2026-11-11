@@ -1,6 +1,6 @@
 # Sources — Translating well
 
-countries: Bolivia, India, Pakistan, Sierra Leone, Venezuela, Armenia
+countries: Bolivia, India, Pakistan, Sierra Leone, Venezuela, Armenia, Haiti
 
 Every part traces to its book and page.
 
@@ -66,3 +66,16 @@ The 2026-11-08 re-verification sweep re-read Armenia's 17 distinct held English 
 Armenia is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/armenia-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Présentations* — teacher sequence, 8e année (Projet Nectar; Canoprof editorialisation). TEACHER EVIDENCE ONLY. 15 pp; printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Acting as interpreter between L1 and L2 while introducing a foreign visitor to a Haitian friend or parent | Haiti — *Présentations*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF p.8 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

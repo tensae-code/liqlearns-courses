@@ -1,6 +1,6 @@
 # Sources — Answering from the text
 
-countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname
+countries: Egypt, Ghana, India, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Tanzania, Albania, Mexico, Mongolia, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Suriname, Haiti
 
 Every part traces to its book and page.
 
@@ -1575,3 +1575,27 @@ The 2026-11-10 expansion read read Suriname's held English set from the PDF — 
 
 Suriname is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/suriname-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *La personne et la vie quotidienne (l'environnement, les loisirs)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 10 pp; printed page = PDF page.
+
+**Book 2:** *La personne et la vie quotidienne* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 11 pp; printed page = PDF page.
+
+**Book 3:** *Interactions sociales* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 17 pp; printed page = PDF page.
+
+**Book 4:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Organising a visit to a tourist or historic place as a class project, and reading a model text about famous places in London | Haiti — *La personne et la vie quotidienne*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.9–10 |
+| Reading the text "What do you do with your free time?" and working from it | Haiti — *La personne et la vie quotidienne*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.7–8 |
+| Reading "Saint Patrick's Day", completing information cards on a festival (date, food and drink, clothing), and comparing national and cultural festivals between Haiti and other countries — book error E5 carried: the sequence's model line for its game prints "got" for "go" ("People got there to… visit the Eiffel Tower", PDF p.10) | Haiti — *La personne et la vie quotidienne*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.10–11 |
+| Reading the short text "Caring" — plot summary only: caring means thinking about the needs of others; caring people are kind, ask how others are doing and listen to friends | Haiti — *Interactions sociales*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF p.15 |
+| Reading back in writing everything met orally: gap-fill, multiple-choice and true/false exercises on short texts (present simple or present progressive, simple sentences) | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed pp.66–67 |
+| The model documentary text on Haiti, read for its facts | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed p.69 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

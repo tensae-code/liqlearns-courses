@@ -1,6 +1,6 @@
 # Sources — Festivals and Cultural Events
 
-countries: Venezuela, Laos, Jordan, Uzbekistan
+countries: Venezuela, Laos, Jordan, Uzbekistan, Haiti
 
 Every part traces to its book and page.
 
@@ -61,3 +61,16 @@ The 2026-11-08 re-verification sweep re-read Uzbekistan's English set from the f
 | St Patrick's Day | Uzbekistan, *English Matters* Student's Book 8 (Grade 8), Unit 9, printed p.106 |
 
 Placements: liqlearns-courses-work/sweep-2026-11-08/english/uzbekistan-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *La personne et la vie quotidienne* — teacher sequence, 8e année (Projet Nectar). TEACHER EVIDENCE ONLY. 11 pp; printed page = PDF page.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Local ritual festivals in Haiti (for example, people from Léogâne always dance "rara" at Easter) — writing a paragraph on the habits and celebrations of a region of the country | Haiti — *La personne et la vie quotidienne*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.8–9 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.

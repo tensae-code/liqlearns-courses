@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -567,3 +567,23 @@ The 2026-11-10 expansion read read Sri Lanka's in-hand English set from the PDFs
 
 Sri Lanka is new to this lesson: the countries line and the acceptance count above were updated together.
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/sri-lanka-placements.md.
+
+## Haiti added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Haiti's in-hand English set from the PDFs — 13 teacher files holding 12 distinct documents (the Grade 7 *Présentations* sequence exists in two renderings, collapsed and cited once): six Projet Nectar teacher sequences, the MENFP operational programme fascicules for 7e année (1988-1989) and 9e année (1989-1990, filed as grade-08), and the four Nouveau Secondaire programmes NS1–NS4 — 167 teaching items placed. Every Haiti item is TEACHER EVIDENCE of what is taught: Haiti has no student book in hand, and no row below is pupil-book evidence. The rows below are stocked from the expansion placements (haiti-placements.md).
+
+**Book 1:** *Interactions sociales (le vivre ensemble / l'amitié / l'acceptation)* — teacher sequence, 7e année (Projet Nectar). TEACHER EVIDENCE ONLY. 12 pp; printed page = PDF page. Book error E1, carried: the cover title names friendship and acceptance, but every séance teaches food (meals, food categories, countable and uncountable nouns, Haitian and American dishes); the placements follow the content, and this section cites the book by what it teaches.
+
+**Book 2:** *Présentations* — teacher sequence, 8e année (Projet Nectar; Canoprof editorialisation). TEACHER EVIDENCE ONLY. 15 pp; printed page = PDF page.
+
+**Book 3:** *Programme Pédagogique Opérationnel — Anglais (option), 7e année, 1988-1989* (Ministère de l'Éducation Nationale, Commission Spéciale de Curriculum). TEACHER EVIDENCE ONLY: a curriculum programme stating what is taught, not a pupil's book. 89 pp, a scanned document read through its OCR text layer; pages cited are PRINTED pages (printed page = PDF page − 6 in the discipline section). Book error E4, carried: two consecutive pages are numbered printed p.41 and p.41(bis).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Quantifiers with uncountable nouns — a little, much, a lot of, some — and measures in ingredient lists (a spoonful of, two pounds of, big chunks of) | Haiti — *Interactions sociales*, 7e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.10, 12 |
+| Quantifiers for countable and uncountable nouns — much, many, some, a lot of, lots of, a few, a little — practised on a cooking recipe | Haiti — *Présentations*, 8e année teacher sequence (Projet Nectar) — teacher evidence, PDF pp.7, 13 |
+| The 8e-year cadre: quantifiers some, any, no, much, many, a lot of, lots of | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed pp.37–38 |
+| The 9e-year cadre: quantifiers little, few, a little, a few, too much, too many, every, each, each other, one another | Haiti — *Programme Pédagogique Opérationnel, Anglais (option), 7e année* (MENFP, 1988-1989) — teacher evidence, printed pp.37–39 |
+
+Haiti enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Haiti's held set is curriculum programmes and teacher sequences, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/haiti-placements.md.
