@@ -1,6 +1,6 @@
 # Sources — Prepositions of Movement
 
-countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore
+countries: Albania, South Africa, Malaysia, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Haiti, Singapore, Moldova
 
 Every part traces to its book and page.
 
@@ -19,7 +19,7 @@ lesson is reproduced.
 | The grammar focus named outright: prepositions of movement and place — around, into, out of, through | Albania, Akelius A2 Guide, Chapter 38 "Nature," grammar focus, printed p.48 (PDF 51) |
 | The movement words at work in the chapter's own example: "walking through the forest" | Albania, Chapter 38, printed p.48 (PDF 51) |
 
-**Acceptance count: taught in 8 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein).** Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 9 countries (Albania, South Africa, Jordan, Libya, Nepal, Cyprus, Samoa, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the two movement-preposition sets of LinGo 4.5 (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with the Bear Hunt's over, under, through (stocked 2026-11-11 by the Cyprus expansion merge). Libya joins with prepositions of movement (Grade 7) (stocked 2026-11-11 by the re-verification sweep merge). Malaysia is named in this lesson on KSSR Scheme-of-Work (curriculum) evidence only — no pupil's book is held for its rows — and is not counted in the total above (see the Malaysia section below; stocked 2026-11-11 by the re-verification sweep merge). Nepal joins with the Nepal rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08
 re-verification sweep of Albania's English book. The sweep
@@ -182,3 +182,17 @@ The 2026-11-10 expansion read read Singapore's in-hand English set from the PDFs
 Singapore enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Singapore's in-hand set is preschool educator guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/singapore-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Pupil's Book, Level A2.3* — Grade 7 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1343 din 03.12.2020). 146 pp; pages cited are the printed pages. Cited as Level A2.3 (2020), what the file itself is: the staging record titles this file as the Level A1 (Univers Educațional, 2025) edition, a different book that is link-only (diff flag F1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Capital cities: prepositions of direction and destination; negative prefixes; places of interest (item 124) | Moldova — Grade 7 Pupil's Book, Level A2.3, printed p.63 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Similarity and Difference
 
-countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Haiti, Bhutan
+countries: Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Haiti, Bhutan, Moldova
 
 Every part traces to its book and page.
 
@@ -13,7 +13,7 @@ Every part traces to its book and page.
 | Sub lesson 3 — difference: different from, unlike, not the same as, not similar to | Mauritania, Study English, Grade 9, printed pp.21–24; repeated at Grade 10, printed pp.9–10 |
 | Sub lesson 4 — whereas joining the two sides | Mauritania, Study English, Grade 9, printed pp.21–24 |
 
-**Acceptance count: taught in 11 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Bhutan).** Liechtenstein joins with the as … as comparisons of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 12 countries (Mauritania, Ecuador, Ethiopia, Kuwait, Fiji, Eritrea, Tunisia, Uganda, Uruguay, Liechtenstein, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the as … as comparisons of LinGo 4.3 (stocked 2026-11-11 by the Liechtenstein expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). This lesson exists because the 2026-11-08 re-verification sweep re-read Mauritania's books page by page and found similarity and difference taught as named lessons in the Grade 9 book (and repeated nearly verbatim in Grade 10), with no lesson of their own in the course; it was built 2026-11-09 by the sweep merge under the everything-goes-in ruling (2026-11-06). Other countries' matching teaching joins as their sweep merges land. Ethiopia joins with its Grade 10 and Grade 12 compare-and-contrast connectors (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 ## Ecuador added 2026-11-11 (re-verification sweep merge)
 
@@ -192,3 +192,18 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Pupil's Book, Level A2.2* — Grade 6 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1391 din 11.12.2020; ISBN 978-9975-54-520-4). 130 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| After-school activities; comparatives of equality (as / not as … as) (item 74) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.12 |
+| Physical appearance and character; comparatives with as…as / not as…as; describing a family member from a plan (item 77) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.20 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

@@ -1,6 +1,6 @@
 # Sources — Nouns
 
-countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Zambia, Bhutan
+countries: Bangladesh, Egypt, Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Zambia, Bhutan, Moldova
 
 Every part traces to its book and page.
 
@@ -340,8 +340,8 @@ verification sweep.
 | Singular and plural forms — use an increasing range of singular and plural forms in sentences | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 8, Strand 3 (Grammar Usage), standard B8.3.1.1, PDF p.86 (curriculum evidence) |
 | Use noun phrases accurately in context | Ghana, NaCCA English Language Curriculum for JHS 1–3, Common Core Programme (2021), Basic 9, Strand 3 (Grammar Usage), standard B9.3.1.1, PDF p.118 (curriculum evidence) |
 | Singular against plural, chosen word by word: an apple/apples, an egg/eggs, a carrot/carrots, a cake/cakes — the plural -s on nouns (Module 6 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 6, Checkpoint 6, pupil printed p.51 |
-**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
-Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Bhutan).** Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
+Ghana, Libya, Laos, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, India, Nicaragua, North Macedonia, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Sri Lanka, Suriname, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Suriname joins with the Reader for Grade 10 rows stocked below (stocked 2026-11-11 by the Suriname expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Cyprus joins with its plural teaching — regular plurals, plural questions, and the -ch/-s/-sh/-x spelling rules (stocked 2026-11-11 by the Cyprus expansion merge). North Macedonia joins with the singular/plural choice work as Teacher's Book evidence from its Grade 2 course (stocked 2026-11-11 by the re-verification sweep merge). India joins with Class 2's singular-to-plural work, Class 3's opposites and One-and-Many columns, and Class 6's collective nouns (stocked 2026-11-09 by the India re-verification sweep merge).
 Egypt and Bangladesh carry the definition itself,
 each in the three-sort form; Libya carries it twice more in its
 own shorter words; Ghana carries the sentence test; China
@@ -1100,3 +1100,23 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Pupil's Book, Level A2.1* — Grade 5 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1219 din 6 noiembrie 2020). 130 pp; pages cited are the printed pages.
+
+**Book 2:** *Pupil's Book, Level A2.3* — Grade 7 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1343 din 03.12.2020). 146 pp; pages cited are the printed pages. Cited as Level A2.3 (2020), what the file itself is: the staging record titles this file as the Level A1 (Univers Educațional, 2025) edition, a different book that is link-only (diff flag F1).
+
+**Book 3:** *English: Level A2+* — Grade 9 pupil's book — Moldova, Editura Prut Internațional, 2023 (ISBN 978-9975-54-739-0). 169 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| School uniform and clothes; singular vs plural nouns, irregular plurals (item 45) | Moldova — Grade 5 Pupil's Book, Level A2.1, printed p.26 |
+| Wellness: abstract/concrete and uncountable nouns; subject–verb agreement; nouns formed by suffixes; healthy lifestyle talk, agreeing/disagreeing (item 111) | Moldova — Grade 7 Pupil's Book, Level A2.3, printed p.22 |
+| Teens with dreams: plural of nouns; goals and deeds vocabulary; planning the future (item 149) | Moldova — Grade 9, English: Level A2+, printed p.43 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

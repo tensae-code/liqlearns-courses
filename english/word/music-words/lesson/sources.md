@@ -1,6 +1,6 @@
 # Sources — Music Words
 
-countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan
+countries: Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Barbados, Cyprus, Eritrea, Tunisia, Uruguay, Nigeria, Zimbabwe, Zambia, Bhutan, Moldova
 Every part traces to its book and page.
 
 **Book 1:** *Texto de Aprendizaje — English (Lengua Extranjera)*, Grade 8 (Secundaria 2) student book — Bolivia, Ministerio de Educación, Texto oficial 2024. Filed in english/books/bolivia.md; read for the first time in the 2026-11-08 re-verification sweep (the old filing never read the student books).
@@ -9,7 +9,7 @@ Every part traces to its book and page.
 |---|---|
 | Music genres — rock, pop, jazz, electronic, hip hop, reggae, blues, folk music, country, rap, classical — and instruments — guitar, piano, violin, flute, drums, trumpet, saxophone, clarinet, bass guitar, cello, keyboard, harp, trombone, accordion, ukulele — with favourite-music talk (the book says of classical music “its lyrics touch the heart”, printed p. 59 — instrumental music has no lyrics; taught corrected) | Bolivia, Texto de Aprendizaje (English), Grade 8 (Secundaria 2) student book, printed pp. 58–59 |
 
-**Acceptance count: taught in 12 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
+**Acceptance count: taught in 13 countries (Bolivia, Venezuela, Armenia, Kazakhstan, Jordan, Uzbekistan, Ecuador, Cyprus, Eritrea, Tunisia, Uruguay, Bhutan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Year 6 music project's kinds and instruments — reggae, jazz, gospel; flute, fiddle, accordion (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *English Matters* Student's Book 8 (Grade 8) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Eritrea joins with the *English for Eritrea* books (Grades 1–12) stocked below (stocked 2026-11-11 by the Eritrea expansion merge).
 
 **Barbados stocked 2026-11-11 (re-verification sweep merge):** Barbados's rows in this lesson are curriculum evidence only — Barbados's set holds no pupil textbook (its held set is the four Primary Language Arts Syllabi, Classes 1–4), so the taught-in acceptance count above does not change.
 
@@ -263,3 +263,17 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan is new to this lesson: the countries line and the acceptance count above were updated together.
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *Pupil's Book, Level A2.3* — Grade 7 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1343 din 03.12.2020). 146 pp; pages cited are the printed pages. Cited as Level A2.3 (2020), what the file itself is: the staging record titles this file as the Level A1 (Univers Educațional, 2025) edition, a different book that is link-only (diff flag F1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Let's agree to disagree: reported speech in the past; music styles and instruments; musical preferences questionnaire (item 131) | Moldova — Grade 7 Pupil's Book, Level A2.3, printed p.85 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

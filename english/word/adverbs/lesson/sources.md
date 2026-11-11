@@ -1,6 +1,6 @@
 # Sources — Adverbs
 
-countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador
+countries: Bangladesh, Egypt, Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Barbados, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Moldova
 
 Every part traces to its book and page.
 
@@ -350,8 +350,8 @@ verification sweep.
 | Adverbs of Manner | Ghana, Distance Learning Teachers Guide, Upper Primary Level 3 (MoE/GES, November 2020), Term 3 Lesson 10, PDF p.111 (teacher evidence) |
 | Using Simple Prepositions — Use adverbs to talk about when and where | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 4, Strand 5 (Using Writing Conventions), standard B4.5.6.1, PDF p.88 (curriculum evidence) |
 | Use question marks, full stops and commas correctly in sentences | Ghana, NaCCA English Language Curriculum for Basic 4–6 (2019), Basic 6, Strand 3 (Grammar Usage), standard B6.3.12.1, PDF p.218 (curriculum evidence) |
-**Acceptance count: taught in 44 countries (Bangladesh, Egypt,
-Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
+**Acceptance count: taught in 45 countries (Bangladesh, Egypt,
+Ghana, Libya, China, Indonesia, Iran, Sierra Leone, Jordan, Greece, Kazakhstan, Iraq, Ethiopia, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Saudi Arabia, Uzbekistan, Venezuela, Albania, Bolivia, Mauritania, India, Nicaragua, Palestine, Cyprus, Fiji, Eritrea, Tunisia, Samoa, Uganda, Uruguay, Sri Lanka, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its adverbs — frequency (Year 5), 'How often…?', and manner -ly (Year 6) (stocked 2026-11-11 by the Cyprus expansion merge). India joins with adverbs as named work in Class 9 — adjectives + -ly found in the story (stocked 2026-11-09 by the India re-verification sweep merge).
 Bangladesh carries the definition and the mime
 game; Egypt carries the making rule (-ly, y → i) and the
 frequency ladder; Libya carries the adjective-to-adverb move
@@ -1020,3 +1020,23 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Pupil's Book: Level A1* — Grade 4 pupil's book — Moldova, Editura Arc, 2018 scan (checklist-verified: ISBN 978-9975-0-0176-2, CTICE id=240). IMAGE-ONLY scan with no cover and no contents pages: its grade and edition rest on the library record and the checklist verification on file, not on anything printed in the file (diff flags F2–F3). Read at REDUCED DEPTH, as the placements declare: the full embedded text layer page by page plus every lesson-opening spread from renders. Printed page = PDF page − 1.
+
+**Book 2:** *Pupil's Book, Level A2.1* — Grade 5 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1219 din 6 noiembrie 2020). 130 pp; pages cited are the printed pages.
+
+**Book 3:** *Pupil's Book, Level A2.2* — Grade 6 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1391 din 11.12.2020; ISBN 978-9975-54-520-4). 130 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Daily routine; prepositions of time in/at/on; adverbs of frequency (item 44) | Moldova — Grade 5 Pupil's Book, Level A2.1, printed p.24 |
+| School day routine and responsibilities; adverbs of frequency (item 82) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.32 |
+| Sandy is late (reading, summary only): present continuous for actions now (are having, are sitting, are reading) with always/never habits (item 193) | Moldova — Grade 4 Pupil's Book, Level A1, printed p.22 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

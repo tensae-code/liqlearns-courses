@@ -1,6 +1,6 @@
 # Sources — The home
 
-countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia
+countries: Egypt, Libya, Palestine, Laos, China, North Macedonia, Mongolia, Indonesia, Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Haiti, Nigeria, Papua New Guinea, Zimbabwe, El Salvador, Zambia, Moldova
 
 Every part traces to its book and page.
 
@@ -270,9 +270,9 @@ verification sweep.
 | Parts of a building and building materials (roof, basement, balcony, column, window pane; bricks, concrete, granite) | Mongolia, English XI, Unit 4, printed p.57 |
 | Rooms and furniture: rooms — bedroom, kitchen, bathroom, living room, garden; things — a bed, a table, a chair, a bath, a bookcase, a sofa, an armchair, a tree, a swing — then listen-and-colour a bedroom scene (Module 2 Checkpoint) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Module 2, Checkpoint 2, pupil printed p.19 |
 | One Picture Dictionary word no lesson teaches: desk, in the "My Room" list (with bed, chair, table) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Picture Dictionary, pupil printed pp.75–78 |
-**Acceptance count: taught in 42 countries (Egypt, Libya,
+**Acceptance count: taught in 43 countries (Egypt, Libya,
 Palestine, Laos, China, North Macedonia, Mongolia, Indonesia,
-Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein).** Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
+Iran, Jordan, Greece, Kazakhstan, Iraq, South Africa, Syria, South Sudan, Nepal, Armenia, Vietnam, Cambodia, Pakistan, Sudan, Kuwait, Rwanda, Malaysia, Yemen, Afghanistan, Ecuador, Saudi Arabia, Uzbekistan, Venezuela, Bolivia, Mauritania, India, Nicaragua, Tanzania, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the “I live with my …” line of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with its home sets — rooms, furniture, and the Year 6 house chores (stocked 2026-11-11 by the Cyprus expansion merge). India joins with the Class 1 parts of a house named and coloured (stocked 2026-11-09 by the India re-verification sweep merge). Egypt carries the five rooms with a sentence for
 each and the drilled question; Libya carries the same rooms
 twice (Grade 1 set, Grade 2 labelled house) with the sitting
 room name and the furniture; Palestine carries the bedroom set
@@ -888,3 +888,27 @@ The 2026-11-10 expansion read read Zambia's in-hand English set from the PDFs �
 Zambia enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zambia's in-hand set is teaching modules and a teacher's guide only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zambia-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Pupil's Book: Level A1.2* — Grade 3 pupil's book — Moldova, Editura Arc, 2019 (approved by Ordin nr. 1381 din 30 octombrie 2019; ISBN 978-9975-0-0334-6). 114 PDF pages; pages cited are the printed pages.
+
+**Book 2:** *Pupil's Book, Level A2.1* — Grade 5 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1219 din 6 noiembrie 2020). 130 pp; pages cited are the printed pages.
+
+**Book 3:** *Pupil's Book, Level A2.2* — Grade 6 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1391 din 11.12.2020; ISBN 978-9975-54-520-4). 130 pp; pages cited are the printed pages.
+
+**Book 4:** *Pupil's Book, Level A2.3* — Grade 7 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1343 din 03.12.2020). 146 pp; pages cited are the printed pages. Cited as Level A2.3 (2020), what the file itself is: the staging record titles this file as the Level A1 (Univers Educațional, 2025) edition, a different book that is link-only (diff flag F1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cleaning day: household chores and helping at home (item 19) | Moldova — Grade 3 Pupil's Book, Level A1.2, printed p.46 |
+| The house we live in: houses and furniture; conjunctions and/but; prepositions near, in front of, behind, next to (item 39) | Moldova — Grade 5 Pupil's Book, Level A2.1, printed p.12 |
+| Household chores; expressing the future with will; writing about family chores (item 40) | Moldova — Grade 5 Pupil's Book, Level A2.1, printed p.14 |
+| Rooms and furniture; there is/there are; alternative questions (item 87) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.42 |
+| The home of my dreams: reported speech; house-related vocabulary; home vs house (item 134) | Moldova — Grade 7 Pupil's Book, Level A2.3, printed p.95 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

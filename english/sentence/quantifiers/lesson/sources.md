@@ -1,6 +1,6 @@
 # Sources — Quantifiers
 
-countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador
+countries: Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Andorra, El Salvador, Moldova
 Every part traces to its book and page.
 
 **Book 1:** *ENGLISH Grade 9* (student's book) —
@@ -113,7 +113,7 @@ read is agent-assisted and the 10-citation spot-check
 is still owed; every Libya line above is worded within
 that state.
 
-**Acceptance count: taught in 33 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
+**Acceptance count: taught in 34 countries (Bolivia, Cambodia, Kuwait, Libya, Malaysia, Mexico, Mongolia, Nepal, China, Mauritania, Greece, Nicaragua, Pakistan, Palestine, Sierra Leone, Sudan, Yemen, Iraq, Armenia, Vietnam, South Africa, Egypt, Laos, Kazakhstan, Jordan, Uzbekistan, Ethiopia, Afghanistan, Cyprus, Eritrea, Tunisia, Uruguay, Sri Lanka, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with Year 5's countable/uncountable work — some/any and the quantity nouns (a bottle of…) (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with some and any, shopping quantities and too much/too many from its Grades 8 and 10 books (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with the Grade 7 workbook and teacher material on quantifiers, modals and food words (stocked 2026-11-10 by the Greece re-verification sweep merge). Cambodia runs the whole family across three
 Grade 9 units — teaching it in the health unit, then
 spending it in the market and recipe units. Bolivia
 tables the countable/uncountable split whole at Year
@@ -664,3 +664,26 @@ The 2026-11-10 expansion read read El Salvador's in-hand English set from the PD
 El Salvador enters this lesson as programme evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — El Salvador's in-hand set is two MINED study programmes (syllabi) only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/el-salvador-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Pupil's Book: Level A1* — Grade 4 pupil's book — Moldova, Editura Arc, 2018 scan (checklist-verified: ISBN 978-9975-0-0176-2, CTICE id=240). IMAGE-ONLY scan with no cover and no contents pages: its grade and edition rest on the library record and the checklist verification on file, not on anything printed in the file (diff flags F2–F3). Read at REDUCED DEPTH, as the placements declare: the full embedded text layer page by page plus every lesson-opening spread from renders. Printed page = PDF page − 1.
+
+**Book 2:** *Pupil's Book, Level A2.2* — Grade 6 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1391 din 11.12.2020; ISBN 978-9975-54-520-4). 130 pp; pages cited are the printed pages.
+
+**Book 3:** *English: Level A2+* — Grade 9 pupil's book — Moldova, Editura Prut Internațional, 2023 (ISBN 978-9975-54-739-0). 169 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Grandparents and shared family interests; countable vs uncountable nouns (many/few, much/little) (item 79) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.24 |
+| It's time to make a difference: countable and uncountable nouns; confusing words; modern jobs (item 146) | Moldova — Grade 9, English: Level A2+, printed p.33 |
+| Inclusion is integration: quantifiers; rights and duties vocabulary (item 159) | Moldova — Grade 9, English: Level A2+, printed p.82 |
+| To share or not to share: distributive determiners; social media vocabulary; creative self-expression (item 163) | Moldova — Grade 9, English: Level A2+, printed p.97 |
+| What do you know about pollution: indefinite adjectives; ecology vocabulary; preventing pollution (item 169) | Moldova — Grade 9, English: Level A2+, printed p.122 |
+| Old Apple-Seed John (story, summary only): a kind old man plants apple seeds along the roads so travellers can eat and rest; much/many with help-people phrases (item 207) | Moldova — Grade 4 Pupil's Book, Level A1, printed p.62 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

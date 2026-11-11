@@ -1,6 +1,6 @@
 # Sources — Congratulating and wishing
 
-countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe
+countries: Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Sri Lanka, Haiti, Nigeria, Zimbabwe, Moldova
 
 Every part traces to its book and page.
 
@@ -114,7 +114,7 @@ lesson is reproduced.
 | Christmas greetings exchanged — "Merry Christmas to you! — And a Happy New Year, too!" — plus making an angel for the tree | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), It's Christmas!, pupil printed p.69 |
 | The Easter song "Here's my Easter bunny rabbit. What a funny bunny!" with Easter vocabulary (bunny, egg, jump, tail, long ears) | North Macedonia — EXTRA and Friends 2, Teacher's Book (teacher evidence — pupil page not in hand), Happy Easter!, pupil printed p.70 |
 
-**Acceptance count: taught in 27 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay).** Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Christmas, Easter, birthday, Mother's Day, Halloween and Chinese New Year greeting sets of Years 1–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
+**Acceptance count: taught in 28 countries (Mauritania, Nepal, Mongolia, Libya, Syria, Albania, China, Iran, Indonesia, Greece, Nicaragua, North Macedonia, Sudan, Venezuela, Yemen, Armenia, Vietnam, South Africa, Cambodia, Laos, Uzbekistan, Afghanistan, Cyprus, Fiji, Tunisia, Samoa, Uruguay, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uruguay joins with the #LivingUruguay rows stocked in this file (stocked 2026-11-11 by the Uruguay expansion merge). Cyprus joins with the Christmas, Easter, birthday, Mother's Day, Halloween and Chinese New Year greeting sets of Years 1–3 (stocked 2026-11-11 by the Cyprus expansion merge). Uzbekistan joins with its *Fly High ENGLISH 6* (Grade 6) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge). Cambodia joins with its Grade 6 special-day birthday words and its Grade 9 wedding unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with congratulations and best wishes, with thanking, at its Grade 10 wedding reception (stocked 2026-11-11 by the re-verification sweep merge). North Macedonia joins with the birthday gift-giving exchange and the Mother's/Father's Day customs spot from its Grade 2 pupil book's secured opening, and with the Christmas and Easter songs and greetings as Teacher's Book evidence (stocked 2026-11-11 by the re-verification sweep merge). Greece joins with festival sets and customs lessons from its Grade 1 and Grade 2 workpacks and its Grade 4 and Grade 5 pupil's books (stocked 2026-11-10 by the Greece re-verification sweep merge). Albania —
 teacher-guide evidence — carries the birthday whole: its
 word set, the party plan and the comparing of birthday
 traditions. Mauritania teaches the
@@ -522,3 +522,30 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Pupil's Book: Level A1.2* — Grade 3 pupil's book — Moldova, Editura Arc, 2019 (approved by Ordin nr. 1381 din 30 octombrie 2019; ISBN 978-9975-0-0334-6). 114 PDF pages; pages cited are the printed pages.
+
+**Book 2:** *English Pupil's Book: Level A1* — Grade 4 pupil's book — Moldova, Editura Arc, 2018 scan (checklist-verified: ISBN 978-9975-0-0176-2, CTICE id=240). IMAGE-ONLY scan with no cover and no contents pages: its grade and edition rest on the library record and the checklist verification on file, not on anything printed in the file (diff flags F2–F3). Read at REDUCED DEPTH, as the placements declare: the full embedded text layer page by page plus every lesson-opening spread from renders. Printed page = PDF page − 1.
+
+**Book 3:** *Pupil's Book, Level A2.1* — Grade 5 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1219 din 6 noiembrie 2020). 130 pp; pages cited are the printed pages.
+
+**Book 4:** *Pupil's Book, Level A2.2* — Grade 6 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1391 din 11.12.2020; ISBN 978-9975-54-520-4). 130 pp; pages cited are the printed pages.
+
+**Book 5:** *Pupil's Book, Level A2.3* — Grade 7 pupil's book — Moldova, Editura Prut Internațional, 2020 (approved by Ordin nr. 1343 din 03.12.2020). 146 pp; pages cited are the printed pages. Cited as Level A2.3 (2020), what the file itself is: the staging record titles this file as the Level A1 (Univers Educațional, 2025) edition, a different book that is link-only (diff flag F1).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mother's Day: family celebration, wishes for mother (item 23) | Moldova — Grade 3 Pupil's Book, Level A1.2, printed p.54 |
+| Christmas in England: winter holidays and family Christmas celebrations; present perfect review (item 52) | Moldova — Grade 5 Pupil's Book, Level A2.1, printed p.42 |
+| Planning a birthday party / family celebration; past simple (item 80) | Moldova — Grade 6 Pupil's Book, Level A2.2, printed p.26 |
+| A Christmas carol: word order in questions; traditional Christmas dishes; UK vs Moldova Christmas traditions (item 121) | Moldova — Grade 7 Pupil's Book, Level A2.3, printed p.53 |
+| Merry Christmas: Christmas words (candy cane, stocking, mantelpiece, Father Christmas) and a Christmas dialogue (summary only) (item 203) | Moldova — Grade 4 Pupil's Book, Level A1, printed p.50 |
+| Mother's Day card writing (Round Up) (item 219) | Moldova — Grade 4 Pupil's Book, Level A1, printed p.98 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

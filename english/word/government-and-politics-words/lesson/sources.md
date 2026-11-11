@@ -1,6 +1,6 @@
 # Sources — Government and Politics Words
 
-countries: Armenia, Uzbekistan, Papua New Guinea
+countries: Armenia, Uzbekistan, Papua New Guinea, Moldova
 
 Every part traces to its book and page.
 
@@ -12,7 +12,7 @@ Every part traces to its book and page.
 | Sub lesson 2 — the election and ruling words of the same unit's political-systems set | Armenia — *English, Grade 11 Student's Book*, Unit 4 — Political Systems, printed pp.97–99 |
 | The lesson's example sentences | The course's own workings on the book's stocked word set — no sentence is quoted from the book |
 
-**Acceptance count: taught in 2 countries (Armenia, Uzbekistan).** Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 3 countries (Armenia, Uzbekistan, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Uzbekistan joins with its *English Matters* Student's Book 9 (Grade 9) rows stocked below (stocked 2026-11-11 by the re-verification sweep merge).
 
 This lesson exists because of the 2026-11-08 re-verification sweep of Armenia's English books: the sweep re-read the Grade 11 student's book page by page and found its Political Systems unit's vocabulary stocked nowhere in the course; its diff marks the topic "NEW LESSON NEEDED: government and politics words". Other countries join as their books are read.
 
@@ -42,3 +42,17 @@ The 2026-11-10 expansion read read Papua New Guinea's in-hand English set from t
 
 Papua New Guinea enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Papua New Guinea's in-hand set is teacher guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/papua-new-guinea-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Routing: the diff marks item 150's topic “NEW LESSON NEEDED: government and elections”; this lesson — built by the Armenia re-verification sweep merge after the expansion read — teaches exactly that one thing (the words for how a country is ruled and the elections that choose its rulers), so the item is stocked here and no duplicate lesson is built. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English: Level A2+* — Grade 9 pupil's book — Moldova, Editura Prut Internațional, 2023 (ISBN 978-9975-54-739-0). 169 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Government of the people: government and elections vocabulary and running-a-country talk; modal verbs revision rides with it (item 150) | Moldova — Grade 9, English: Level A2+, printed p.48 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

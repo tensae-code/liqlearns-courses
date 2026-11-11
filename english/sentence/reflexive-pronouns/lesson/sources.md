@@ -1,6 +1,6 @@
 # Sources — Reflexive pronouns
 
-countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe
+countries: Bolivia, Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka, Haiti, Nigeria, Zimbabwe, Moldova
 
 Every part traces to its book and page.
 
@@ -47,8 +47,8 @@ verification sweep.
 | Form noticed: reflexive pronouns — emphatic use (himself/yourself) against same-subject use | India — Flamingo (Class 12), Noticing form in The Rattrap, printed pp.43–44 |
 | Reciprocal and reflexive pronouns, in the nature unit (with affixes, articles and sentence patterns) | Pakistan, *English 6*, Unit 3, printed p.27 |
 
-**Acceptance count: taught in 12 countries (Bolivia,
-Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka).** Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
+**Acceptance count: taught in 13 countries (Bolivia,
+Malaysia, Nepal, Yemen, Iran, India, Pakistan, Iraq, Egypt, Tunisia, Uganda, Sri Lanka, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Sri Lanka joins with the Sri Lanka rows stocked below (stocked 2026-11-11 by the Sri Lanka expansion merge). Egypt joins with the Egypt rows stocked below from its 26-book ministry set (stocked 2026-11-11 by the re-verification sweep merge). India joins with reflexive pronouns noticed — emphatic against same-subject use — in Class 12 (stocked 2026-11-09 by the India re-verification sweep merge). Bolivia presents the full
 set as a named grammar; Nepal seats it inside its
 Grade 6 named syllabus; Yemen gathers it in Book 6's
 Language review 10 and runs its safety warnings on
@@ -198,3 +198,17 @@ The 2026-11-10 expansion read read Zimbabwe's in-hand English set from the PDFs 
 Zimbabwe enters this lesson as teacher evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above — Zimbabwe's in-hand set is teacher's guides only, cited as the evidence kind they are, never counted as a pupil's book (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/zimbabwe-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English: Level A2+* — Grade 9 pupil's book — Moldova, Editura Prut Internațional, 2023 (ISBN 978-9975-54-739-0). 169 pp; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Teenagers' free time: emphatic pronouns; reading as a hobby (item 148) | Moldova — Grade 9, English: Level A2+, printed p.40 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.

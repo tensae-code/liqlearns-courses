@@ -1,6 +1,6 @@
 # Sources for this lesson — What's his and her name?
 
-countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein, Haiti, Bhutan
+countries: Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein, Haiti, Bhutan, Moldova
 
 Every part of this lesson traces to its book and page. No part enters
 without its tag. This material was split OUT of the
@@ -58,7 +58,7 @@ name is Nada" (printed pp.58–67) and Jordan Grade 2's
 "His name's… / Her name's…" frame (Unit 4, printed
 pp.32–39). No existing row changed.
 
-**Acceptance count: taught in 23 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein).** Liechtenstein joins with the third-person partner reporting of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its 'Who's he/she?' identity questions in Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
+**Acceptance count: taught in 24 countries (Libya, China, North Macedonia, Iran, Indonesia, Jordan, Iraq, Ethiopia, South Africa, Nepal, Sudan, Rwanda, Malaysia, Ecuador, Mauritania, Palestine, Sierra Leone, Yemen, Cambodia, Afghanistan, Cyprus, Tunisia, Liechtenstein, Moldova).** Moldova joins with the Moldova rows stocked below (stocked 2026-11-11 by the Moldova expansion merge). Liechtenstein joins with the third-person partner reporting of its Grade 1 booklet (stocked 2026-11-11 by the Liechtenstein expansion merge). Cyprus joins with its 'Who's he/she?' identity questions in Years 2–3 (stocked 2026-11-11 by the Cyprus expansion merge). Cambodia joins with the naming question inside its Grade 4 introduction unit (stocked 2026-11-11 by the re-verification sweep merge). Yemen joins with the printed question “What's his name?” in its Grade 7 book — its earlier “never printed” note in this file was wrong (sweep flag 2) and is corrected in place (stocked 2026-11-11 by the re-verification sweep merge).
 China names third people by role with he/she and identifies
 family members one by one; North Macedonia works the naming
 frame through a full set of named family portraits. Iran and
@@ -388,3 +388,17 @@ The 2026-11-10 expansion read read Bhutan's in-hand English set from the PDFs �
 Bhutan enters this lesson as evidence only: it is named in the countries line and in the rows above, but it is NOT added to the acceptance count above (the standing Ghana/Barbados evidence-only precedent).
 
 Placements: liqlearns-courses-work/expansion-2026-11-10/english/bhutan-placements.md.
+
+## Moldova added 2026-11-11 (expansion merge)
+
+The 2026-11-10 expansion read read Moldova's in-hand English set from the PDFs — **6 student's books of the 13 recorded**: Grade 3, *English Pupil's Book: Level A1.2* (Editura Arc, 2019); Grade 4, *Level A1* (Editura Arc, 2018 scan); Grade 5, *Pupil's Book, Level A2.1* (Prut Internațional, 2020); Grade 6, *Level A2.2* (Prut Internațional, 2020); Grade 7, *Level A2.3* (Prut Internațional, 2020); and Grade 9, *English: Level A2+* (Prut Internațional, 2023). The other 7 recorded books (the Grade 7 Level A1 edition of 2025, two Grade 10 books, two Grade 11 books and two Grade 12 books) are link-only and are cited nowhere. **223 teaching items placed, 0 already in the course; all 223 are stocked in this merge.** **Counting for this lesson: Moldova is counted** — every row below rests on a Moldovan pupil's book. Read depth, as the placements declare it: Grades 3, 5, 6, 7 and 9 were read in full, page by page through their text layers; the Grade 4 book is an image-only scan with no cover and no contents pages, read at REDUCED DEPTH (its full embedded text layer page by page, and every lesson-opening spread from renders), and its grade and edition rest on the library record and the checklist verification on file (diff flags F2–F3). The Grade 7 book is cited as Level A2.3 (2020) — what the file itself is — never as the Level A1 (2025) edition its record names (flag F1). Stories and readings are stocked as plot summaries only. The rows below are stocked from the expansion placements (moldova-placements.md); where the placements name the same item for a second lesson, the row appears in that lesson too.
+
+**Book 1:** *English Pupil's Book: Level A1.2* — Grade 3 pupil's book — Moldova, Editura Arc, 2019 (approved by Ordin nr. 1381 din 30 octombrie 2019; ISBN 978-9975-0-0334-6). 114 PDF pages; pages cited are the printed pages.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A friend's profile: name, country, age, family, hobby; asking/answering about a person (item 3) | Moldova — Grade 3 Pupil's Book, Level A1.2, printed p.6 |
+
+Moldova is new to this lesson: the countries line and the acceptance count above were updated together.
+
+Placements: liqlearns-courses-work/expansion-2026-11-10/english/moldova-placements.md.
