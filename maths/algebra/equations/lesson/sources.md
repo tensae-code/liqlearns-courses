@@ -299,6 +299,10 @@ Every part traces to its book and page.
 **Book 220:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 221:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 222:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 223:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 224:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -398,6 +402,9 @@ Every part traces to its book and page.
 | First-degree equations and inequalities in one and two unknowns (inside Ch. 1, نواتج التعلمات) | Mauritania, 6AS-LO, Ch. 1, body pp. 8–20 |
 | Équations et inéquations (the équations part) | Mauritania, 7AS-LM, Ch. 1, printed p. 9 |
 | Equations and inequalities (المعادلات والمتراجحات) (the equations part) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
+| Finding the unknown part in an addition or subtraction | Vietnam, Grade 3 Volume 1, Bài 3 "Tìm thành phần trong phép cộng, phép trừ" (finding the unknown part in an addition or subtraction), printed p. 11 |
+| Finding the unknown part in a multiplication or division | Vietnam, Grade 3 Volume 1, Bài 13 "Tìm thành phần trong phép nhân, phép chia" (finding the unknown part in a multiplication or division), printed p. 39 |
+| Order of operations; the transposition rule | Vietnam, Grade 7 Volume 1, Bài 4 "Thứ tự thực hiện các phép tính. Quy tắc chuyển vế" (order of operations; the transposition rule), printed p. 20 |
 
 | One-step equations; forming and solving word problems | South Sudan, Pupil's Book 5, 4.1–4.2 Purpose of algebraic equations; solving one-step equations; forming and solving equations, printed pp. 58–69 |
 | Two-step equations by inverse operations | South Sudan, Pupil's Book 6, 4.1 Solving equations, printed pp. 62–63 |

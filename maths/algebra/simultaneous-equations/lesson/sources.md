@@ -153,6 +153,10 @@ Every part traces to its book and page.
 **Book 106:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 107:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 108:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 109:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 110:** *Chuyên đề học tập Toán 10* (Mathematics 10 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31111-5. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -210,6 +214,9 @@ Every part traces to its book and page.
 | Équations – Inéquations – Systèmes – Matrices (the systèmes part) | Mauritania, 6AS-D, Ch. II, body p. 19 |
 | Équations, inéquations et systèmes (the systèmes part) | Mauritania, 6AS-LM, Ch. 1, printed p. 11 |
 | Systems of two first-degree equations (inside Ch. 1, نواتج التعلمات) | Mauritania, 6AS-LO, Ch. 1, body pp. 8–20 |
+| Finding two numbers from their sum and difference | Vietnam, Grade 4 Volume 1, Bài 25 "Tìm hai số biết tổng và hiệu của hai số đó" (finding two numbers from their sum and difference), printed p. 86 |
+| Systems of linear equations in three unknowns | Vietnam, Grade 10 study book (Chuyên đề học tập Toán 10), Chuyên đề 1 Bài 1 "Hệ phương trình bậc nhất ba ẩn" (systems of linear equations in three unknowns), printed p. 4 |
+| Applications of systems of linear equations in three unknowns | Vietnam, Grade 10 study book (Chuyên đề học tập Toán 10), Chuyên đề 1 Bài 2 "Ứng dụng hệ phương trình bậc nhất ba ẩn" (applications of systems of linear equations in three unknowns), printed p. 12 |
 
 | Simultaneous equations by elimination and substitution | South Sudan, Student's Book 1, Unit 4, printed pp. 104–105 |
 | Solving simultaneous equations using matrices | South Sudan, Student's Book 2, matrices, printed pp. 59–60 |

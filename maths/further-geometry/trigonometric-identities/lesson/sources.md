@@ -80,7 +80,7 @@ Every part traces to its book and page.
 | Relations between trig functions (θ and −θ, θ and π − θ, θ and θ + π, θ and θ ± π/2); coterminal angles | Kuwait, Grade 10 Term 2 student book, Unit 8, printed pp. 95–106 |
 | Trig identities — the basic and Pythagorean identities (tan²θ + 1 = sec²θ; 1 + cot²θ = csc²θ); proving identities | Kuwait, Grade 10 Term 2 student book, Unit 8, printed pp. 107–113 |
 | Trig identities, proving identities, with the sum-and-difference and double- and half-angle identities (scientific track) | Kuwait, Grade 11 Term 2 student book (scientific track), Unit 9, printed pp. 82–113 |
-| Trigonometric formulas (the addition and derived formula set) | Vietnam, Grade 11 Volume 1, Bài 2, printed p. 17 |
+| Trigonometric formulas (the addition and derived formula set) | Vietnam, Grade 11 Volume 1, Bài 2, printed p. 11 |
 | Addition formulas cos(α − β), cos(α + β), sin(α + β), sin(α − β), tan(α + β), tan(α − β); sum-to-product formulas; product-to-sum formulas; transformation formulas | Cambodia, Grade 11 Basic student book, Ch. 3 Lesson 2, printed pp. 88–97 |
 | Trigonometric identities inside the trigonometry-functions chapter (basics at printed pp. 136–138 sit in the functions lesson; the identities proper are cited here) | Indonesia, Grade 11 Tingkat Lanjut Revisi student book, Bab 3, printed pp. 139–141 |
 | Sum/difference formulas (sin 75° = (√6 + √2)/4); double-angle use (sin 2x = 2 × (3/5) × (−4/5) = −24/25); the Pythagorean identity | Ethiopia, Grade 10 student book, Ch. 4, printed pp. 199–250 |

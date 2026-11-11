@@ -258,6 +258,10 @@ Every part traces to its book and page.
 **Book 186:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 187:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 188:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 189:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 190:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35079-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -273,7 +277,7 @@ Every part traces to its book and page.
 | Measures of position and dispersion (mean, median, mode, range, variance, standard deviation, coefficient of variation) | Greece, Grade 12 EPAL Mathematics and Statistics, Chapter 2, printed pp.58–137 |
 | Arithmetic mean; weighted arithmetic mean (Science-only); median; mode | Libya, Grade 11 Statistics (Science), Chapter 4, printed pp.60–94 |
 | Range; variance; standard deviation; coefficient of variation | Libya, Grade 11 Statistics (Science), Chapter 5, printed pp.96–112 |
-| Central-tendency measures (mean, median, mode, quartiles); spread measures (range, interquartile range, variance, standard deviation) | Vietnam, Toán 10 Tập Một, Chapter V, Bài 13 p.78 and Bài 14 p.84 |
+| Central-tendency measures (mean, median, mode, quartiles); spread measures (range, interquartile range, variance, standard deviation) | Vietnam, Toán 10 Tập Một, Chapter V, Bài 13 p.78 and Bài 14 p.85 |
 | Range and interquartile range of grouped samples; variance and standard deviation of grouped samples | Vietnam, Toán 12 Tập Một, Chapter III, Bài 9 p.75 and Bài 10 p.80 |
 | Mean; median; mode and range; grouped data; mean of grouped data (estimated mean x̄ = Σfx / Σf) | Sierra Leone, JSS 3 Term 3, Lessons 124–128, printed pp.51–63 |
 | Cumulative frequency curve, quartiles, interquartile range; percentiles; measures of dispersion; standard deviation of ungrouped and grouped data; mean deviation of ungrouped and grouped data | Sierra Leone, SSS 3 Term 3, Lessons 109–120, printed pp.39–69 |
@@ -319,6 +323,8 @@ Every part traces to its book and page.
 | Statistiques | Mauritania, 5AS-LM, Ch. 6, printed p. 93 |
 | Statistics (الإحصاء) | Mauritania, 5AS-LO, Ch. 7, printed p. 73 |
 | Statistique (inside Ch. X, Statistique — Échantillonnage) | Mauritania, 6AS-D, Ch. X, body p. 169 |
+| Finding the average (mean) | Vietnam, Grade 4 Volume 2, Bài 46 "Tìm số trung bình cộng" (finding the average (mean)), printed p. 29 |
+| Measures of central tendency | Vietnam, Grade 11 Volume 1, Bài 9 "Các số đặc trưng đo xu thế trung tâm" (measures of central tendency), printed p. 62 |
 
 | Average (promedio) — concept, finding the total from the average, the average as a decimal number — the mean only; no median, mode, range or variance is taught anywhere in Nicaragua's set | Nicaragua, Grade 5 student book, Unit 13, printed pp. 134–147 |
 | Mean of numbers (4, 6, 3, 10, 2, 5 → sum 30 ÷ 6 = 5; a hen's eggs per day over a week) — mean only, no median or mode in Grade 5 | Ethiopia, Grade 5 student book, ch. 5 — data handling, printed pp. 63–81 |

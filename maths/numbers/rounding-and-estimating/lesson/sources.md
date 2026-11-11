@@ -224,13 +224,23 @@ Every part traces to its book and page.
 **Book 158:** *Mathematics, Grade 4, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-350-0, National Library deposit no. 2022/4/2028 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 159:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 160:** *Mathematics, Grade 5, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-374-6, National Library deposit no. 2022/4/2062 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 161:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 162:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 163:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 164:** *Toán 5, Tập Hai* (Mathematics 5, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39224-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 165:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
 | Rounding numbers (L7) | Jordan, Grade 2 Student Book Term 1, p.34 |
 | First estimates inside regrouping: 247 + 45 ≈ 250 + 50 = 300, as printed | Jordan, Grade 2 Student Book Term 1, p.48 |
 | Rounding to tens and hundreds (Bài 48) | Vietnam, Toán 3, Bài 48 |
-| Rounding to thousands and ten-thousands (Bài 13) | Vietnam, Toán 4, Bài 13 |
+| Rounding to the hundred-thousands (Bài 13) | Vietnam, Toán 4, Bài 13 |
 | Rounding a natural number to a given place (§7) | Armenia, Mathematics 3 Part 1, Chapter I, §7, p.28 |
 | Estimate by place value, explicitly 'Do not solve the problems'; estimate from tens digits, decompose, find the sum, judge whether estimate and sum are close | Egypt, Grade 2 Term 1 (old Discover series), Chapter 3, pp.52–53 |
 | Rounding to the nearest 10 — the NAMED rule on the number line, 5 rounds up (the Term 1 book filed above teaches estimating only); applying estimating and rounding together and judging a shopping estimate. The chapter's checking lesson prints deliberately wrong answers (123 + 59 = 172; round 35 → 30; 80 − 20 = 70) as find-the-mistake material — the corrected values (182; 40; 60) are what is taught | Egypt, Grade 2 Term 2 (old Discover series), Chapter 9, printed pp. 33–34 (checking lesson p. 45–46) |
@@ -308,6 +318,12 @@ Every part traces to its book and page.
 | Estimation | Sierra Leone, JSS 1 Mathematics Lesson Plans Term 1, L34, printed p. 87 (teacher evidence) |
 | Approximation of Whole Numbers; Approximation in Everyday Life | Sierra Leone, SSS 1 Term 1, L12–L13, printed pp. 33–36 |
 | Estimation | Sierra Leone, SSS 2 Term 1, L6, printed p. 17 |
+| Rounding numbers to the thousands and ten-thousands | Vietnam, Grade 3 Volume 2, Bài 61 "Làm tròn số đến hàng nghìn, hàng chục nghìn" (rounding numbers to the thousands and ten-thousands), printed p. 64 |
+| Estimating in calculations (practice) | Vietnam, Grade 4 Volume 2, Bài 45 "Thực hành và trải nghiệm ước lượng trong tính toán" (estimating in calculations (practice)), printed p. 27 |
+| Rounding decimal numbers | Vietnam, Grade 5 Volume 1, Bài 13 "Làm tròn số thập phân" (rounding decimal numbers), printed p. 47 |
+| The hand calculator | Vietnam, Grade 5 Volume 2, Bài 42 "Máy tính cầm tay" (the hand calculator), printed p. 23 |
+| Using a hand calculator (practice) | Vietnam, Grade 5 Volume 2, Bài 43 "Thực hành và trải nghiệm sử dụng máy tính cầm tay" (using a hand calculator (practice)), printed p. 27 |
+| Rounding and estimating | Vietnam, Grade 6 Volume 2, Bài 30 "Làm tròn và ước lượng" (rounding and estimating), printed p. 35 |
 
 | Rounding to the nearest 10 only (8 → 10, 74 → 70, 45 → 50) | Nepal, Grade 3 student book — Nepali (First edition 2051/Revised 2064/Reprint 2067), L10, printed p. 45; English Revised Edition 2074 BS, L10, printed p. 46 |
 | Rounding to the nearest 10 and 100 (teach corrected: “720 rounds to 720” to the nearest hundred is wrong — correct 700) | Nepal, Grade 4 student book (English Version 2067 BS), L2 §2.3, printed pp. 12–25 |

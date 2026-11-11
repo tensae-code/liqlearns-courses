@@ -239,6 +239,8 @@ CITATION CHECK PASSED 2026-11-05).
 **Book 153:** *Mathématiques 7ème SN* (7AS, série D pupil's book) — Mauritania, IPN, French, 122 pp; by Mohameden Ould El Hadi, Mohameden Ould Bah. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 154:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 155:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 156:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -259,8 +261,8 @@ CITATION CHECK PASSED 2026-11-05).
 | Piecewise functions; geometric transformations of functions; sequences and series | Jordan, Grade 11 Term 1 Academic Track, Unit 1 "Functions, Sequences and Series", p.6; L1 Piecewise functions p.8; L2 Geometric transformations of functions p.19; L3 Sequences and series p.30 |
 | Trigonometric functions and their properties (inside the trigonometry chapter) — corrected 2026-11-10: this row previously read "Functions chapter (Ch. 3 functions)"; Chapter 3 is sequences in this book, and the trig-function properties are in Chapter 4 | Kazakhstan, Algebra 9 (Shynybekov, Atamura 2019), Ch. 4, printed pp. 132–204 |
 | Trigonometric functions and their properties (inside the trigonometry chapter) — corrected 2026-11-10: this row previously read "Functions chapter (Ch. 3 functions)"; Chapter 3 is sequences in this book, and the trig-function properties are in Chapter 4 | Kazakhstan, Algebra 9 (Abylkasymova, Mektep 2019), Part 2, Ch. 4 |
-| The concept of a function and the graph of a function; first-degree function and its graph; the slope of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII, Bài 27 Khái niệm hàm số và đồ thị của hàm số p.40; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 p.51 |
-| The function y = ax² (a ≠ 0) and its graph | Vietnam, Toán 9 Volume 2, Chapter VI, Bài 18 Hàm số y = ax² (a ≠ 0) p.4 |
+| The concept of a function and the graph of a function; first-degree function and its graph; the slope of a straight line | Vietnam, Toán 8 Volume 2, Chapter VII, Bài 27 Khái niệm hàm số và đồ thị của hàm số p.39; Bài 28 Hàm số bậc nhất và đồ thị của hàm số bậc nhất p.47; Bài 29 p.51 |
+| The function y = ax² (a ≠ 0) and its graph | Vietnam, Toán 9 Volume 2, Chapter VI, Bài 18 Hàm số y = ax² (a ≠ 0) p.5 |
 | Relation between two sets; relation as a set of ordered pairs; function and its graph; independent and dependent variable; explicit functions; polynomial, fractional and algebraic functions; algebra of functions | Libya, Grade 11 Science, Chapter 4 "Relations, functions and graphical forms", pp.95–110 |
 | Generalities on functions | Mauritania, 5AS-M, Ch. 8, printed p. 83 |
 | Study of a function | Mauritania, 6AS-M, Ch. 9, printed p. 113; Mauritania, 6AS-C, Ch. 9, printed p. 113 |
@@ -323,6 +325,8 @@ CITATION CHECK PASSED 2026-11-05).
 | Étude de fonctions | Mauritania, 7AS-D, Ch. 3, printed p. 36 |
 | Généralités sur les fonctions | Mauritania, 7AS-LM, Ch. 2, printed p. 23 |
 | Generalities on functions (عموميات على الدوال) — with limits, derivation and graphs inside | Mauritania, 7AS-LO, Ch. 2, body pp. 24–53 |
+| Functions | Vietnam, Grade 10 Volume 2, Bài 15 "Hàm số" (functions), printed p. 4 |
+| Quadratic functions | Vietnam, Grade 10 Volume 2, Bài 16 "Hàm số bậc hai" (quadratic functions), printed p. 11 |
 
 | Direct proportion expressed as y = ax, with its graph | Nicaragua, Grade 6 student book, Unit 11, printed pp. 120–141 |
 | Concept of function; direct proportionality as the function y = ax and inverse proportionality as y = a/x, with graphs | Nicaragua, Grade 7 student book, Unit 5, printed pp. 87–124 |

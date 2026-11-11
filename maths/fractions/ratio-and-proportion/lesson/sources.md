@@ -276,6 +276,8 @@ CITATION CHECK PASSED 2026-11-04).
 **Book 146:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 147:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 148:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 149:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -392,6 +394,9 @@ CITATION CHECK PASSED 2026-11-04).
 | Proportionnalité et pourcentage (the proportionnalité part) | Mauritania, 1AS, Ch. 5, printed p. 85 |
 | Proportionnalité | Mauritania, 5AS-LM, Ch. 5, printed p. 83 |
 | Ratio and proportion (units inside Ch. 1, المعادلات والمتراجحات) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
+| Proportions (equal ratios) | Vietnam, Grade 7 Volume 2, Bài 20 "Tỉ lệ thức" (proportions (equal ratios)), printed p. 5 |
+| Properties of a chain of equal ratios | Vietnam, Grade 7 Volume 2, Bài 21 "Tính chất của dãy tỉ số bằng nhau" (properties of a chain of equal ratios), printed p. 8 |
+| Directly proportional quantities | Vietnam, Grade 7 Volume 2, Bài 22 "Đại lượng tỉ lệ thuận" (directly proportional quantities), printed p. 11 |
 
 | Ratio as comparison; scaling ratios | South Sudan, Pupil's Book 4, 1.5 Ratio, printed pp. 22–24 |
 | Ratio and proportion by the unitary method | South Sudan, Pupil's Book 6, 1.5 Ratios and proportion, printed pp. 15–17; South Sudan, Pupil's Book 7, 1.4 Ratios and proportions using the unitary method, printed pp. 5–6 |

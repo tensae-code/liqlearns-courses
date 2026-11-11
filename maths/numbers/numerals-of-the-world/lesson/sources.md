@@ -57,6 +57,8 @@ Every part traces to its book and page.
 **Book 40:** *JICA Primary Mathematics Teacher Manual, Basic 5* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 **Book 41:** *JICA Primary Mathematics Teacher Manual, Basic 6* (teacher manual) — Ghana, GES National STEM Resource Unit with JICA, April 2025. Filed in maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED 2026-11-04). Teacher evidence only: Ghana's set holds no pupil textbook at all.
 **Book 42:** *Mathematics, Grade 2* (Akpaeva set, Parts 1–4) — Kazakhstan, Akpaeva et al., Almatykitap, 2018–2019 (Kazakh and Russian editions in hand, one course counted once). Filed in maths/books/kazakhstan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 43:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -82,6 +84,7 @@ Every part traces to its book and page.
 | Hindu-Arabic, Roman and Chinese numeral systems named as three common systems; the ten Hindu-Arabic digits 0–9 | Rwanda, Primary Learner's Mathematics P4, pupil's book, Unit 1 (§1.0), printed pp. 5–6 |
 | Opener + 1A: counting systems of other cultures; symbols and number systems (unit 1A, plans 1–3) | Albania, Libër Mësuesi Matematikë 6 (teacher's book — teacher evidence), printed pp. 4, 54–56 |
 | Large-number names in powers of ten (million to the largest named powers); Roman numerals I, V, X, L, C, D, M and the rules for writing and reading Roman numbers — taught corrected: the book prints “MCMXCL – 1995”; MCMXCL = 2040, and 1995 = MCMXCV. | Tajikistan, Математика (Grade 5), printed p. 278 |
+| How natural numbers are written | Vietnam, Grade 6 Volume 1, Bài 2 "Cách ghi số tự nhiên" (how natural numbers are written), printed p. 9 |
 
 | History of numerals — History of number symbols: tally strokes, Roman numerals, Indian/Arabic digits, the positional decimal system; octal named as another base | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 93 |
 | Indian and International systems — Commas in the Indian system (thousand, lakh, crore) vs the International system (thousand, million); 1 crore = 100 lakh = 10 million | India, Mathematics Class 6, printed p. 10 |

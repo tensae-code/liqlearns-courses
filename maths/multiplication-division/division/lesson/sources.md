@@ -247,6 +247,16 @@ Every part traces to its book and page.
 **Book 182:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 183:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 184:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 185:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 186:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 187:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 188:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 189:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -260,7 +270,7 @@ Every part traces to its book and page.
 | Long division layout | Egypt, Grade 4 Term 1 (Discovery Techbook, 2025/2026) |
 | Division with remainder (p.64) | Jordan, Grade 3 Student Book Term 1, p.64 |
 | Long division including zeros in the quotient | Jordan, Grade 4 Student Book Term 1 |
-| Exact division, division with remainder (Bài 26, p.72) | Vietnam, Toán 3, Bài 26, p.72 |
+| Exact division, division with remainder (Bài 25, p.72) | Vietnam, Toán 3, Bài 25, p.72 |
 | Dividing a set into equal parts — division (L73); the sign ':' introduced ('6 : 3 is read as 6 divided by 3 … in 6 there are 2 threes') | Kazakhstan, Grade 2 (Ospanov set), L73, printed p.21 |
 | Multiplication and division as inverse operations (L77); using the table for division by 2–5 | Kazakhstan, Grade 2 (Ospanov set), L77–L81 |
 | Division with remainder by a one-digit number (L83–84, pp.8–10); non-table division 96 : 6 (L86, p.14); 75 : 15 (L87, p.17) | Kazakhstan, Grade 3 (Zhakupova set), Section 3A, L83–L87, pp.8–17 (cited book not in hand at the sweep — see the Book 6 note) |
@@ -334,6 +344,21 @@ Every part traces to its book and page.
 | Dividing natural numbers by natural numbers | Mauritania, Grade 5 student book, printed p. 79 |
 | Operations on naturals: multiplication and division (the division part) | Mauritania, Grade 6 student book, printed p. 19 |
 | Arithmétique: Euclidean division (inside Ch. 1) | Mauritania, 3AS, Ch. 1, printed p. 9 |
+| Division | Vietnam, Grade 2 Volume 2, Bài 41 "Phép chia" (division), printed p. 15 |
+| Dividend, divisor, quotient | Vietnam, Grade 2 Volume 2, Bài 42 "Số bị chia, số chia, thương" (dividend, divisor, quotient), printed p. 18 |
+| The division-by-2 table | Vietnam, Grade 2 Volume 2, Bài 43 "Bảng chia 2" (the division-by-2 table), printed p. 21 |
+| The division-by-5 table | Vietnam, Grade 2 Volume 2, Bài 44 "Bảng chia 5" (the division-by-5 table), printed p. 24 |
+| Dividing a two-digit number by a one-digit number | Vietnam, Grade 3 Volume 1, Bài 26 "Chia số có hai chữ số cho số có một chữ số" (dividing a two-digit number by a one-digit number), printed p. 75 |
+| Decreasing a number by a number of times | Vietnam, Grade 3 Volume 1, Bài 27 "Giảm một số đi một số lần" (decreasing a number by a number of times), printed p. 79 |
+| Dividing a three-digit number by a one-digit number | Vietnam, Grade 3 Volume 1, Bài 37 "Chia số có ba chữ số cho số có một chữ số" (dividing a three-digit number by a one-digit number), printed p. 99 |
+| How many times bigger one number is than another | Vietnam, Grade 3 Volume 1, Bài 39 "So sánh số lớn gấp mấy lần số bé" (how many times bigger one number is than another), printed p. 109 |
+| Dividing a four-digit number by a one-digit number | Vietnam, Grade 3 Volume 2, Bài 57 "Chia số có bốn chữ số cho số có một chữ số" (dividing a four-digit number by a one-digit number), printed p. 47 |
+| Dividing a five-digit number by a one-digit number | Vietnam, Grade 3 Volume 2, Bài 71 "Chia số có năm chữ số cho số có một chữ số" (dividing a five-digit number by a one-digit number), printed p. 97 |
+| Review: the four operations within 100,000 | Vietnam, Grade 4 Volume 1, Bài 2 "Ôn tập các phép tính trong phạm vi 100 000" (review: the four operations within 100,000), printed p. 9 |
+| Dividing by a one-digit number | Vietnam, Grade 4 Volume 2, Bài 39 "Chia cho số có một chữ số" (dividing by a one-digit number), printed p. 6 |
+| Multiplying and dividing by 10, 100, 1,000, ... | Vietnam, Grade 4 Volume 2, Bài 41 "Nhân, chia với 10, 100, 1000, …" (multiplying and dividing by 10, 100, 1,000, ...), printed p. 14 |
+| Dividing by a two-digit number | Vietnam, Grade 4 Volume 2, Bài 44 "Chia cho số có hai chữ số" (dividing by a two-digit number), printed p. 23 |
+| Multiplying and dividing natural numbers | Vietnam, Grade 6 Volume 1, Bài 5 "Phép nhân và phép chia số tự nhiên" (multiplying and dividing natural numbers), printed p. 17 |
 
 | Division as sharing only, no ÷ symbol introduced | Nepal, Grade 1 student book (English Version, Fifth Edition 2067 BS and Revised Edition 2074 BS), L44, printed pp. 98–100 |
 | Division as grouping, 12÷2/3/4/6 and more; long-division form; multiplication–division relation | Nepal, Grade 2 English student book (old series, Revised Edition 2074 BS), L14–L16, printed pp. 51–57 |

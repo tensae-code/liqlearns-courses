@@ -137,6 +137,8 @@ Every part traces to its book and page.
 **Book 92:** *Mathematics, Grade 10, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-360-9, National Library deposit no. 2022/4/2036 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 93:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 94:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 95:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -190,6 +192,8 @@ Every part traces to its book and page.
 | Second-degree equations (معادلات الدرجة الثانية) | Mauritania, 6AS-LO, Ch. 2, body p. 23 on |
 | Second-degree inequalities (متراجحات الدرجة الثانية) | Mauritania, 6AS-LO, Ch. 2, body p. 23 on |
 | Équations du second degré; inéquations du second degré | Mauritania, 7AS-LM, Ch. 1, printed pp. 9, 12 |
+| The sign of a quadratic trinomial | Vietnam, Grade 10 Volume 2, Bài 17 "Dấu của tam thức bậc hai" (the sign of a quadratic trinomial), printed p. 19 |
+| Equations reducible to quadratics | Vietnam, Grade 10 Volume 2, Bài 18 "Phương trình quy về phương trình bậc hai" (equations reducible to quadratics), printed p. 25 |
 
 | Factorising quadratics x² + bx + c (expressions only — no solving as a topic) | South Sudan, Student's Book 1, Unit 4, printed pp. 99–102 |
 | Solving quadratic equations by factorisation | South Sudan, Student's Book 2, solving quadratic equations by factorisation, printed pp. 38–39 |

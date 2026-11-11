@@ -165,6 +165,8 @@ Every part traces to its book and page.
 **Book 112:** *Mathematics, Grade 5, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-352-4, National Library deposit no. 2022/4/2029 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 113:** *Mathematics, Grade 6, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-376-0, National Library deposit no. 2022/4/2063 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 114:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 115:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -216,6 +218,7 @@ Every part traces to its book and page.
 | Freeing numerator or denominator of a fraction from irrationality (rationalising), incl. conjugate pairs | Tajikistan, Алгебра (Grade 8), printed p. 128 |
 | Identity transformations of irrational expressions: collecting like roots, products of root expressions | Tajikistan, Алгебра (Grade 8), printed p. 132 |
 | Racines carrées | Mauritania, 4AS, Ch. 3, printed p. 39 |
+| Irrational numbers; the arithmetic square root | Vietnam, Grade 7 Volume 1, Bài 6 "Số vô tỉ. Căn bậc hai số học" (irrational numbers; the arithmetic square root), printed p. 29 |
 
 | Square root as the reverse of squaring; square roots of fractions and decimals | South Sudan, Pupil's Book 6, 1.3 Squares and square roots, printed pp. 7–9; South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4 |
 | Square roots by the prime-factor method and by the Newton/averaging method; roots of decimals and fractions | South Sudan, Pupil's Book 8, 1.2–1.3 Squares and square roots of perfect squares; squares and square roots of decimals and fractions, printed pp. 4–10 |

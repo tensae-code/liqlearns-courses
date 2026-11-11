@@ -273,6 +273,24 @@ Every part traces to its book and page.
 **Book 193:** *Mathématiques 6ème LM* — Mauritania, IPN, French, 78 pp; by Mohamed El Hacen Bellal, Mohamed Fadel Ahmed Brey. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 194:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 195:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 196:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 197:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 198:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 199:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 200:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 201:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 202:** *Toán 8, Tập Hai* (Mathematics 8, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35042-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 203:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 204:** *Toán 10, Tập Hai* (Mathematics 10, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31110-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -349,6 +367,20 @@ Every part traces to its book and page.
 | Dénombrement et probabilités (the probabilités part) | Mauritania, 6AS-LM, Ch. 4, printed p. 67 |
 | Probabilités (inside Ch. 6, Dénombrements et probabilités) | Mauritania, 7AS-LM, Ch. 6, printed p. 84 |
 | Probabilities (الاحتمالات, a unit of Ch. 5, تنظيم المعطيات) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
+| Certain, possible, impossible | Vietnam, Grade 2 Volume 2, Bài 66 "Chắc chắn, có thể, không thể" (certain, possible, impossible), printed p. 106 |
+| How likely an event is to happen | Vietnam, Grade 3 Volume 2, Bài 74 "Khả năng xảy ra của một sự kiện" (how likely an event is to happen), printed p. 108 |
+| How many times an event occurs | Vietnam, Grade 4 Volume 2, Bài 51 "Số lần xuất hiện của một sự kiện" (how many times an event occurs), printed p. 43 |
+| Possible outcomes and events in games and experiments | Vietnam, Grade 6 Volume 2, Bài 42 "Kết quả có thể và sự kiện trong trò chơi, thí nghiệm" (possible outcomes and events in games and experiments), printed p. 89 |
+| Workbook practice: data and experimental probability — exercise sets for Bài 38–43 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương IX Dữ liệu và xác suất thực nghiệm — exercise sets for Bài 38–43 (practice), printed p. 61 |
+| First look at random events | Vietnam, Grade 7 Volume 2, Bài 29 "Làm quen với biến cố" (first look at random events), printed p. 47 |
+| First look at the probability of an event | Vietnam, Grade 7 Volume 2, Bài 30 "Làm quen với xác suất của biến cố" (first look at the probability of an event), printed p. 50 |
+| Possible outcomes and favourable outcomes | Vietnam, Grade 8 Volume 2, Bài 30 "Kết quả có thể và kết quả thuận lợi" (possible outcomes and favourable outcomes), printed p. 60 |
+| Calculating an event's probability as a ratio | Vietnam, Grade 8 Volume 2, Bài 31 "Cách tính xác suất của biến cố bằng tỉ số" (calculating an event's probability as a ratio), printed p. 63 |
+| Experimental probability, theoretical probability and applications | Vietnam, Grade 8 Volume 2, Bài 32 "Mối liên hệ giữa xác suất thực nghiệm với xác suất và ứng dụng" (experimental probability, theoretical probability and applications), printed p. 67 |
+| Random trials and sample space; probability of an event in a trial | Vietnam, Grade 9 Volume 2, Bài 25 "Phép thử ngẫu nhiên và không gian mẫu. Xác suất của biến cố liên quan tới phép thử" (random trials and sample space; probability of an event in a trial), printed p. 57 |
+| Probability of an event related to insurance premiums | Vietnam, Grade 9 Volume 2, Bài 26 "Xác suất của biến cố liên quan tới phí bảo hiểm" (probability of an event related to insurance premiums), printed p. 65 |
+| Events and the classical definition of probability | Vietnam, Grade 10 Volume 2, Bài 26 "Biến cố và định nghĩa cổ điển của xác suất" (events and the classical definition of probability), printed p. 77 |
+| Computing probability by the classical definition (practice) | Vietnam, Grade 10 Volume 2, Bài 27 "Thực hành tính xác suất theo định nghĩa cổ điển" (computing probability by the classical definition (practice)), printed p. 83 |
 
 | Arrangements and combinations — counting orders and choices without a named probability, the counting groundwork for probability (no factorials, no formulas) | Nicaragua, Grade 6 student book, Unit 12, printed pp. 142–147 |
 | Random and deterministic experiments; sample space — sets revision (unit set, empty set, extension vs comprehension, ordered pairs, Cartesian product); events as subsets, Venn diagrams, impossible, sure, complementary and mutually exclusive events; tree diagrams; counting techniques (fundamental counting principle, permutations, permutations with repetition, combinations, combinations with repetition); classical probability by Laplace's rule; 0 ≤ P(A) ≤ 1, P(E) = 1, P(∅) = 0, complement rule; frequentist probability — the addition rule for unions is used but never stated as a formula, and no conditional probability or independence is taught as a topic. The sample space printed on p. 21 mixes 3-tuples and 4-tuples into 14 elements; the lesson teaches the correct count, 16 quadruples, never the printed 14 | Nicaragua, Grade 10 student book, Unit 1, printed pp. 1–52 |

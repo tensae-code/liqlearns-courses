@@ -28,7 +28,7 @@ Every part traces to its book and page.
 
 | Lesson part | Where it comes from |
 |---|---|
-| The principle and the three steps | Laos, Grade 11, Ch.2 L7, p.28; Kazakhstan, Yelemessov Algebra 9, §3.1, p.80 (domino motivation); Armenia, Grade 11 general stream, Ch.3 §4, p.51; Armenia, Grade 11 natural-mathematics stream, Ch.4 §2, p.87; Vietnam, Grade 10 study book, Bài 3, p.25; Greece, Grade 11 orientation book (W7), Ch.4, pp.135–184 |
+| The principle and the three steps | Laos, Grade 11, Ch.2 L7, p.28; Kazakhstan, Yelemessov Algebra 9, §3.1, p.80 (domino motivation); Armenia, Grade 11 general stream, Ch.3 §4, p.51; Armenia, Grade 11 natural-mathematics stream, Ch.4 §2, p.87; Vietnam, Grade 10 study book, Bài 3, p.17; Greece, Grade 11 orientation book (W7), Ch.4, pp.135–184 |
 | Series proof: sum of the first n odd numbers = n² | Cambodia, Grade 11 Advanced, Ch.1 L3, pp.24–34; Kazakhstan, Soltan Algebra 9, §14, p.100 |
 | Series proof: 1 + 2 + … + n = n(n + 1)/2 | Kazakhstan, Yelemessov Algebra 9, §3.1, p.80; Abylkasymova Algebra 9, §18, p.153 |
 | Divisibility proof: 6²ⁿ − 1 divisible by 35 | Kazakhstan, Abylkasymova Algebra 9, §18, p.153; Pakistan, Class 11, Unit 8, pp.140–150 (divisibility proofs) |
@@ -37,7 +37,7 @@ Every part traces to its book and page.
 | The false-proof dissection; n² + n + 41 fails at n = 41; Bernoulli's inequality | Kazakhstan, Shynybekov Algebra 9, §3.2* (starred/optional as filed), p.72 |
 | Inequalities by induction; "find the student's error" items; 4ⁿ + 2 divisible by 3 | Kazakhstan, Soltan Algebra 9, §14, p.100 |
 | Diagonals of a convex n-gon by induction (exercise) | Kazakhstan, Abylkasymova Algebra 9, §18, p.153 |
-| Newton's binomial theorem proved by induction | Vietnam, Grade 10 study book, Bài 4, p.32; Pakistan, Class 11, Unit 8, pp.140–168 |
+| Newton's binomial theorem proved by induction | Vietnam, Grade 10 study book, Bài 4, p.23; Pakistan, Class 11, Unit 8, pp.140–168 |
 | Further induction applications | Armenia, Grade 11 natural-mathematics stream, Ch.4 §3, p.94; Cambodia, Grade 11 Advanced, Ch.1 L3, pp.24–34 (including the harmonic series) |
 | De Moivre's theorem proved by induction — filed "for information only" | Iraq, Grade 12 Scientific, pp.42–43 (for information only, as filed) |
 | Proof by mathematical induction (البرهان بالتدريج / الاستقراء الرياضي): why finite checking cannot prove a claim for all n (the motivating identity 1³ + … + n³ = (1 + … + n)²); the ladder principle; the two steps — the base case E(n₀) and heredity E(p) ⇒ E(p+1); worked in full: Σk³ = n²(n+1)²/4, and 4^n + 2 is a multiple of 3 for every natural n; set as exercises: Σk² = n(n+1)(2n+1)/6, Bernoulli's inequality (1 + x)^n ≥ 1 + nx, Σ k·k! = (n+1)! − 1, n! ≥ 2^{n−1}, and divisibility claims (4^n + 5 by 3; 2^{3n} − 1 and 3^{2n+1} + 2^{n+2} by 7; n³ + 2n by 3); threshold induction (3^n ≥ 2^n + 5n² first holds at n = 5); heredity without a base case exposed as insufficient (the claim that 9 divides 10^n + 1); recurrence sequences handled by induction (u_{n+1} = √(2 + u_n) bounded in [0, 2] and strictly increasing; u_n = 2cos(θ/2^n) from u_0 = 2cos θ by the half-angle identity) | Syria, Grade 12 Scientific, Part One, printed pp. 12–18 |

@@ -427,6 +427,22 @@ Every part traces to its book and page.
 **Book 309:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 310:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 311:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 312:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 313:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 314:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 315:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 316:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 317:** *Toán 8, Tập Một* (Mathematics 8, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35041-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 318:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 319:** *Toán 11, Tập Một* (Mathematics 11, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35079-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -462,7 +478,7 @@ Every part traces to its book and page.
 | Frequency-distribution tables (qualitative, discrete and continuous quantitative; cumulative and relative frequency) | Libya, Grade 11 Statistics (Science), Chapter 2, printed pp.12–35 |
 | Graphical presentation: pie charts, bar charts, histograms, frequency polygons and curves, cumulative frequency curves | Libya, Grade 11 Statistics (Science), Chapter 3, printed pp.36–59 |
 | Bar charts | Vietnam, Toán 4 Tập Hai, Bài 50, p.39 |
-| Double bar charts; pie charts | Vietnam, Toán 5 Tập Hai, Bài 41 p.77 and Bài 64 p.90 |
+| Double bar charts; pie charts | Vietnam, Toán 6 Tập Hai, Bài 41 p.82 (double bar charts) and Toán 5 Tập Hai, Bài 64 p.90 (pie charts) |
 | Data collection; frequency tables; bar charts; line graphs; interpreting charts and graphs; pie charts (reading and making); choosing a graph or chart | Sierra Leone, JSS 3 Term 3, Lessons 116–123, printed pp.27–48 |
 | Sorting and pictographs with a key; first bar graphs | South Africa, Grade 1 Book 1, Ws 44 Collecting and organising (sorting data into groups, picture counts), printed p. 92; South Africa, Grade 1 Book 2, Ws 78 Data (collecting and showing), printed p. 28; South Africa, Grade 2 Book 1, Ws 15 Collect and sort, printed p. 30; South Africa, Grade 2 Book 1, Ws 16 Read and interpret (pictographs/tables), printed p. 32; South Africa, Grade 3 Book 1, Ws 1 Count, sort and show! (counting pictured groups, sorting, tally/picture showing), printed p. 2; South Africa, Grade 3 Book 1, Ws 16 Data handling (collect, tally, pictograph), printed p. 34 |
 | Tables and pictograms; diagrams | Kazakhstan, Grade 1 Part 1, pp.114–118 |
@@ -560,6 +576,28 @@ Every part traces to its book and page.
 | Statistics (الإحصاء) | Mauritania, 5AS-LO, Ch. 7, printed p. 73 |
 | Statistics (الإحصاء): the statistical series — count and representation | Mauritania, 6AS-LO, Ch. 5, body p. 48 on |
 | Organising data (تنظيم المعطيات) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
+| Collecting, sorting and counting data | Vietnam, Grade 2 Volume 2, Bài 64 "Thu thập, phân loại, kiểm đếm số liệu" (collecting, sorting and counting data), printed p. 100 |
+| Picture charts | Vietnam, Grade 2 Volume 2, Bài 65 "Biểu đồ tranh" (picture charts), printed p. 102 |
+| Collecting, sorting and counting data (practice) | Vietnam, Grade 2 Volume 2, Bài 67 "Thực hành và trải nghiệm thu thập, phân loại, kiểm đếm số liệu" (collecting, sorting and counting data (practice)), printed p. 108 |
+| Collecting, sorting and recording data; data tables | Vietnam, Grade 3 Volume 2, Bài 73 "Thu thập, phân loại, ghi chép số liệu. Bảng số liệu" (collecting, sorting and recording data; data tables), printed p. 103 |
+| Collecting and recording data and reading data tables (practice) | Vietnam, Grade 3 Volume 2, Bài 75 "Thực hành và trải nghiệm thu thập, phân loại, ghi chép số liệu, đọc bảng số liệu" (collecting and recording data and reading data tables (practice)), printed p. 110 |
+| Statistical data sequences | Vietnam, Grade 4 Volume 2, Bài 49 "Dãy số liệu thống kê" (statistical data sequences), printed p. 36 |
+| Collecting, sorting and arranging data | Vietnam, Grade 5 Volume 2, Bài 63 "Thu thập, phân loại, sắp xếp các số liệu" (collecting, sorting and arranging data), printed p. 87 |
+| Collecting, analysing and presenting statistical data (practice) | Vietnam, Grade 5 Volume 2, Bài 66 "Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê" (collecting, analysing and presenting statistical data (practice)), printed p. 96 |
+| Data and data collection | Vietnam, Grade 6 Volume 2, Bài 38 "Dữ liệu và thu thập dữ liệu" (data and data collection), printed p. 68 |
+| Statistical tables and picture charts | Vietnam, Grade 6 Volume 2, Bài 39 "Bảng thống kê và biểu đồ tranh" (statistical tables and picture charts), printed p. 73 |
+| Bar charts | Vietnam, Grade 6 Volume 2, Bài 40 "Biểu đồ cột" (bar charts), printed p. 77 |
+| Workbook practice: data and experimental probability — exercise sets for Bài 38–43 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương IX Dữ liệu và xác suất thực nghiệm — exercise sets for Bài 38–43 (practice), printed p. 61 |
+| Collecting and classifying data | Vietnam, Grade 7 Volume 1, Bài 17 "Thu thập và phân loại dữ liệu" (collecting and classifying data), printed p. 88 |
+| Pie charts | Vietnam, Grade 7 Volume 1, Bài 18 "Biểu đồ hình quạt tròn" (pie charts), printed p. 96 |
+| Line charts | Vietnam, Grade 7 Volume 1, Bài 19 "Biểu đồ đoạn thẳng" (line charts), printed p. 104 |
+| Collecting and classifying data | Vietnam, Grade 8 Volume 1, Bài 18 "Thu thập và phân loại dữ liệu" (collecting and classifying data), printed p. 90 |
+| Presenting data with tables and charts | Vietnam, Grade 8 Volume 1, Bài 19 "Biểu diễn dữ liệu bằng bảng, biểu đồ" (presenting data with tables and charts), printed p. 95 |
+| Analysing statistical data from charts | Vietnam, Grade 8 Volume 1, Bài 20 "Phân tích số liệu thống kê dựa vào biểu đồ" (analysing statistical data from charts), printed p. 101 |
+| Frequency tables and frequency charts | Vietnam, Grade 9 Volume 2, Bài 22 "Bảng tần số và biểu đồ tần số" (frequency tables and frequency charts), printed p. 32 |
+| Relative frequency tables and charts | Vietnam, Grade 9 Volume 2, Bài 23 "Bảng tần số tương đối và biểu đồ tần số tương đối" (relative frequency tables and charts), printed p. 40 |
+| Grouped frequency and relative-frequency tables and charts | Vietnam, Grade 9 Volume 2, Bài 24 "Bảng tần số, biểu đồ tần số tương đối ghép nhóm" (grouped frequency and relative-frequency tables and charts), printed p. 47 |
+| Grouped data samples | Vietnam, Grade 11 Volume 1, Bài 8 "Mẫu số liệu ghép nhóm" (grouped data samples), printed p. 58 |
 
 | Pictograms — reading a pictogram and answering questions | Nicaragua, Grade 2 student book (NICAMATE 2), Unit 4, printed pp. 32–35 |
 | Statistics: organising and interpreting data — survey of classmates, tables and graphs | Nicaragua, Grade 3 student book (Versión Validada), Unit 2, printed pp. 29–34 |

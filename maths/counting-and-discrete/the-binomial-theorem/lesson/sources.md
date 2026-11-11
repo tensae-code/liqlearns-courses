@@ -53,8 +53,8 @@ Every part traces to its book and page.
 | Pascal's triangle NOT FOUND — never cited for Pascal | Indonesia, Grade 12 Merdeka (2022) — negative finding, recorded in the filing; cited nowhere in this lesson |
 | The binomial theorem taught as the "Binom Newton" enrichment — the coefficient rows are shown WITHOUT the name Pascal's triangle ("Pascal" occurs 0 times in the book) | Indonesia, Grade 12 Merdeka student book, Bab 3 Pengayaan, printed pp. 144–145 |
 | Teaching guidance and full worked answer keys for the binomial theorem and Pascal's triangle (teacher evidence) | Indonesia, Grade 12 Revisi teacher guide, Bab 3, printed pp. 167–220 (teacher evidence) |
-| The binomial expansion | Vietnam, Grade 10 Volume 2, Bài 25, printed p. 72 |
-| Newton's binomial proved by induction | Vietnam, Grade 10 study book, Bài 4, printed p. 32 |
+| The binomial expansion | Vietnam, Grade 10 Volume 2, Bài 25, printed p. 73 |
+| Newton's binomial proved by induction | Vietnam, Grade 10 study book, Bài 4, printed p. 23 |
 | The theorem in the form (a+b)ⁿ = Σ C(n,k)aⁿ⁻ᵏbᵏ | Yemen, Grade 12 Science, 2-4, printed p. 65 |
 | The binomial expansion in the counting unit | Kuwait, Grade 11 Term 2, 11-2, printed pp. 162–166; Grade 11 Statistics Term 2, 5-2, printed pp. 63–67 |
 | The binomial lesson in the counting chapter | Laos, Grade 11, Ch.6 L28, printed p. 180 |

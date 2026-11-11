@@ -124,7 +124,7 @@ Every part traces to its book and page.
 | Arrangements with repeats allowed | Kuwait, Grade 10 Term 2, 10-4, printed pp. 183–191; Grade 11 Statistics Term 2, 5-1, printed pp. 52–62 |
 | The full counting unit, science track | Yemen, Grade 12 Science, Unit 2, printed pp. 45–55 |
 | The opening small counts: 3 × 2 = 6; P(4,4) = 24; C(4,2) = 6 | Yemen, Grade 12 Literary, Unit 1, printed pp. 6–16 |
-| The multiply-for-steps and add-for-cases rules in the counting chapter | Vietnam, Grade 10 Volume 2, Ch.VIII, printed pp. 60, 66 |
+| The multiply-for-steps and add-for-cases rules in the counting chapter | Vietnam, Grade 10 Volume 2, Ch.VIII, printed pp. 61, 66 |
 | The full counting chapter, both editions | Indonesia, Grade 12, Bab 3, printed pp. 89–148; Grade 12 Revisi, Bab 3, printed pp. 81–122 |
 | Teaching guidance and full worked answer keys for counting rules — the filling-slots rule, permutations and combinations (teacher evidence) | Indonesia, Grade 12 Revisi teacher guide, Bab 3, printed pp. 167–220 (teacher evidence) |
 | Systematic listing: 4 teams, every pair plays once, 6 matches | China, Grade 3 Volume 2, Unit 8, printed pp. 101–105 |

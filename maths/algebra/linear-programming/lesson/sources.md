@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam
 
 Every part traces to its book and page.
 
@@ -18,6 +18,8 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 **Book 8:** *Mathematics, Student Textbook Grade 12* — Ethiopia, Ministry of Education, First Published August 2023, © 2023 MoE, ISBN 978-99990-0-027-7 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 9:** *Mathematics, Grade 12* (teacher guide) — Ethiopia, Ministry of Education, First Published August 2023, ISBN 978-99990-0-031-4 (English). Filed in maths/books/ethiopia.md (FULLY READ + CITATION CHECK PASSED).
 **Book 10:** *Mathematics, Grade 12, Workbook (Exercise Book), Term 1 — Business Track* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-788-1 (Arabic). Workbook evidence: practice companion to the Grade 12 Business Track student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 11:** *Chuyên đề học tập Toán 12* (Mathematics 12 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39275-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -25,6 +27,7 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Drawing the system: boundary lines, solid and dashed, a test point, and the feasible region shaded where all inequalities hold at once | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 237–240 |
 | The objective function stated for the situation (profit, cost and similar quantities) | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 240–242 |
 | Maximum and minimum problems solved by evaluating the objective function at the vertices of the feasible region | Malaysia, Additional Mathematics Form 5, Ch. 7 §7.3, printed pp. 242–244 |
+| Using systems of linear inequalities to solve linear-programming problems | Vietnam, Grade 12 study book (Chuyên đề học tập Toán 12), Chuyên đề 2 Bài 3 "Vận dụng hệ bất phương trình bậc nhất hai ẩn để giải quyết một số bài toán quy hoạch tuyến tính" (using systems of linear inequalities to solve linear-programming problems), printed p. 23 |
 
 | Linear programming — The objective function, the constraints, the feasible region (فضاء الحل), and the fact that the optimum occurs at a corner vertex of the region's polygon (7-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 201 |
 | LP word problems — Modelling production problems (shoe factory, furniture factory) with variables, constraints and a profit function, then solving at the vertices (within 7-4) | Sudan, Grade 11 Mathematics (Second Year Secondary), printed p. 204 |
@@ -60,7 +63,9 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 | Applications of linear programming (§4.3) | Ethiopia, Grade 12 student book, Unit 4 — introduction to linear programming, printed p. 274 |
 | Introduction to linear programming: guidance and answers (teacher evidence) | Ethiopia, Grade 12 teacher guide (teacher evidence), Unit 4, guide pp. 153–218 |
 | Workbook practice: linear programming (Business T1 U3) | Jordan, Grade 12 Workbook Term 1 (Business Track), Unit 3 (workbook evidence) |
-**Acceptance count: taught in 9 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+**Acceptance count: taught in 10 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+
+Vietnam carries linear programming in its Grade 12 study book — using systems of linear inequalities in two unknowns to solve linear-programming problems (Chuyên đề 2 Bài 3). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Sudan teaches linear programming in Grade 11, from the formulation to word problems.
 

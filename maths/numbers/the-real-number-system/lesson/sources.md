@@ -1,6 +1,6 @@
 # Sources — The Real Number System
 
-countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania
+countries: Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam
 
 Every part traces to its book and page.
 
@@ -88,6 +88,10 @@ Every part traces to its book and page.
 **Book 60:** *Mathématiques 5ème AS, série D* — Mauritania, IPN, French, 104 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 61:** *Mathématiques 5ème LM* — Mauritania, IPN, French, 114 pp; by Mohamed Yahya Mohamed Abdellahi, Cheikh Omar Samba Tall. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 62:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 63:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 64:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -117,6 +121,10 @@ Every part traces to its book and page.
 | Calcul dans ℝ | Mauritania, 5AS-D, Ch. 1, printed p. 9 |
 | Calcul dans ℝ | Mauritania, 5AS-LM, Ch. 1, printed p. 9 |
 | Real numbers (inside Ch. 1, الأعداد الحقيقية والمقاييس الإسلامية — real numbers and the Islamic measures) | Mauritania, 5AS-LO, Ch. 1, printed p. 9 |
+| First look at the sequence of natural numbers | Vietnam, Grade 4 Volume 1, Bài 15 "Làm quen với dãy số tự nhiên" (first look at the sequence of natural numbers), printed p. 50 |
+| The set of rational numbers | Vietnam, Grade 7 Volume 1, Bài 1 "Tập hợp các số hữu tỉ" (the set of rational numbers), printed p. 5 |
+| Irrational numbers; the arithmetic square root | Vietnam, Grade 7 Volume 1, Bài 6 "Số vô tỉ. Căn bậc hai số học" (irrational numbers; the arithmetic square root), printed p. 29 |
+| The set of real numbers | Vietnam, Grade 7 Volume 1, Bài 7 "Tập hợp các số thực" (the set of real numbers), printed p. 33 |
 
 | Whole numbers defined; numbers to tens of thousands — the numbers 0, 1, 2, 3, … are called whole numbers; read and write numbers within tens of thousands (27,536; 15,420) on abacus and place chart | Sudan, Grade 4 Mathematics, printed p. 3 |
 | Rational numbers — Rational number defined as أ/ب with ب ≠ 0, from families of equivalent fractions collapsing to one simplest form; numerator/denominator named; every integer is rational; ص (integers) ⊂ ن (rationals) | Sudan, Grade 7 Mathematics (First Year Intermediate), printed p. 3 |
@@ -243,7 +251,9 @@ Every part traces to its book and page.
 | Square roots and irrational expressions: the square root, irrational and real numbers, estimating roots, the graphs y = √x and y = ∛x | Kazakhstan, Grade 8 (Ryskeldieva et al., NIS line), Ch. 1, §1.1–1.18, printed pp. 8–56 |
 | Whole numbers (§1-1) | Libya, Grade 7 pupil's book, §1-1, printed p.9 |
 | Rational and irrational numbers (§10-2) | Libya, Grade 7 pupil's book, §10-2, printed p.62 |
-**Acceptance count: taught in 23 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+**Acceptance count: taught in 24 countries (Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Bolivia, Tajikistan, Turkey, Tanzania, Armenia, China, Ethiopia, South Africa, Kazakhstan, Libya, Mauritania, Vietnam)**.** Pakistan carries this lesson whole, and in a deliberate order that this lesson keeps: the laws are first verified on numbers family by family — the distributive property on whole numbers and the commutative and associative properties on fractions in Grade 5 (printed pp.13–15, 31–38), the integer laws with both identities and subtraction's failure in Grade 6 (printed pp.32–33, 38–39), and all three laws on rationals in Grade 7 (printed pp.16–19) — and only then, in Grade 8, is the system itself drawn (N ⊂ W ⊂ Z ⊂ Q ⊂ R with the irrationals Q′, printed pp.1–3) and the properties stated in general form for all real numbers (printed pp.6–9). The catch-up plan's source rows for this lesson are Pakistan's alone; no other country's filing was filed as a source row for it, so the acceptance count is one country, honestly. North Macedonia enters from its main set — Grade 11 (2026).
+
+Vietnam carries the number-system climb across Grades 4, 6 and 7 — first look at the sequence of natural numbers (Grade 4), the set of rational numbers, irrational numbers and the arithmetic square root, and the set of real numbers (Grade 7). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya carries the real number system in Grade 7 — whole numbers in Chapter 1 and rational and irrational numbers in Chapter 2 (stocked by the 2026-11-08 re-verification sweep).
 

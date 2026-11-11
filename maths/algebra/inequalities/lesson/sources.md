@@ -204,6 +204,8 @@ Every part traces to its book and page.
 **Book 144:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 145:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 146:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 147:** *Toán 10, Tập Một* (Mathematics 10, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-31109-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -277,6 +279,8 @@ Every part traces to its book and page.
 | Second-degree inequalities (متراجحات الدرجة الثانية) | Mauritania, 6AS-LO, Ch. 2, body p. 23 on |
 | Inéquations du second degré | Mauritania, 7AS-LM, Ch. 1, printed p. 12 |
 | Equations and inequalities (المعادلات والمتراجحات) (the inequalities part) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
+| Linear inequalities in two unknowns | Vietnam, Grade 10 Volume 1, Bài 3 "Bất phương trình bậc nhất hai ẩn" (linear inequalities in two unknowns), printed p. 22 |
+| Systems of linear inequalities in two unknowns | Vietnam, Grade 10 Volume 1, Bài 4 "Hệ bất phương trình bậc nhất hai ẩn" (systems of linear inequalities in two unknowns), printed p. 26 |
 
 | First inequalities; the symbols > < ≥ ≤ | South Sudan, Pupil's Book 3, 4.1 Inequalities, printed pp. 61–63 |
 | Forming and solving inequalities | South Sudan, Student's Book 1, Unit 4, printed pp. 106–108 |

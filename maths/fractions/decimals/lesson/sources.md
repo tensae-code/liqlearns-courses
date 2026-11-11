@@ -324,6 +324,10 @@ READ + CITATION CHECK PASSED 2026-11-04).
 **Book 171:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 172:** *الرياضيات للسنة الخامسة — دليل المعلم* (Grade 5 teacher guide) — Mauritania, Arabic, 2025, 102 pp. Teacher evidence only: teaching theory, the Grade 5 inputs framework and per-lesson support. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 173:** *وثيقة تكوينية لتدريس الرياضيات للحلقة الثالثة* (Cycle 3 training document, Grades 5–6) — Mauritania, Arabic/French, 2026, 137 pp. Teacher evidence only: a training document whose maths axis covers the Grades 5–6 programme, not a grade teacher guide. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 174:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 175:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -425,6 +429,18 @@ READ + CITATION CHECK PASSED 2026-11-04).
 | Nombres décimaux relatifs | Mauritania, 2AS, Ch. 2, printed p. 21 |
 | Teaching theory, the Grade 5 inputs framework and per-lesson support (teacher evidence) | Mauritania, Grade 5 teacher guide (teacher evidence) |
 | The Cycle 3 (Grades 5–6) training document: its maths axis covers the Grades 5–6 programme, aims and classroom sequences (teacher evidence) | Mauritania, Cycle 3 training document (teacher evidence) |
+| Decimal fractions | Vietnam, Grade 5 Volume 1, Bài 4 "Phân số thập phân" (decimal fractions), printed p. 14 |
+| Comparing decimal numbers | Vietnam, Grade 5 Volume 1, Bài 11 "So sánh các số thập phân" (comparing decimal numbers), printed p. 38 |
+| Writing measurements as decimal numbers | Vietnam, Grade 5 Volume 1, Bài 12 "Viết số đo đại lượng dưới dạng số thập phân" (writing measurements as decimal numbers), printed p. 42 |
+| Adding decimal numbers | Vietnam, Grade 5 Volume 1, Bài 19 "Phép cộng số thập phân" (adding decimal numbers), printed p. 65 |
+| Subtracting decimal numbers | Vietnam, Grade 5 Volume 1, Bài 20 "Phép trừ số thập phân" (subtracting decimal numbers), printed p. 68 |
+| Multiplying decimal numbers | Vietnam, Grade 5 Volume 1, Bài 21 "Phép nhân số thập phân" (multiplying decimal numbers), printed p. 71 |
+| Dividing decimal numbers | Vietnam, Grade 5 Volume 1, Bài 22 "Phép chia số thập phân" (dividing decimal numbers), printed p. 76 |
+| Multiplying and dividing decimals by 10, 100, 1,000, ... or by 0.1, 0.01, 0.001, ... | Vietnam, Grade 5 Volume 1, Bài 23 "Nhân, chia số thập phân với 10; 100; 1000; … hoặc với 0,1; 0,01; 0,001; …" (multiplying and dividing decimals by 10, 100, 1,000, ... or by 0.1, 0.01, 0.001, ...), printed p. 83 |
+| Decimal numbers | Vietnam, Grade 6 Volume 2, Bài 28 "Số thập phân" (decimal numbers), printed p. 28 |
+| Calculating with decimal numbers | Vietnam, Grade 6 Volume 2, Bài 29 "Tính toán với số thập phân" (calculating with decimal numbers), printed p. 31 |
+| Workbook practice: decimal numbers — exercise sets for Bài 28–31 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VII Số thập phân — exercise sets for Bài 28–31 (practice), printed p. 23 |
+| First look at recurring decimals | Vietnam, Grade 7 Volume 1, Bài 5 "Làm quen với số thập phân vô hạn tuần hoàn" (first look at recurring decimals), printed p. 26 |
 
 | Fractions ↔ decimals; when a fraction can become a decimal exactly | South Sudan, Pupil's Book 5, 1.8 Fractions and decimals, printed pp. 23–26; South Sudan, Pupil's Book 6, 1.4 Decimals, fractions and percentage conversions, printed pp. 9–15 |
 | Squares and square roots of decimals | South Sudan, Pupil's Book 7, 1.2 Squares and square roots of fractions and decimals, printed pp. 2–4; South Sudan, Pupil's Book 8, 1.3 Squares and square roots of decimals and fractions, printed pp. 9–10 |

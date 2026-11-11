@@ -177,7 +177,7 @@ Jordan does NOT teach Pythagoras as a topic in any held book.
 | Pythagoras proved by area dissection, plus its converse (§§4.1–4.15, pp.138–178) | Kazakhstan, Grade 8 NIS-Programme (2019), §§4.1–4.15, pp.138–178 |
 | Distance between two points via Pythagoras (§26) | Kazakhstan, Grade 8 (Smirnov & Tuyakov, Mektep, 2018), §26 |
 | Pythagoras proved from the cosine rule (§15); 30-60-90 triangle | Kazakhstan, Grade 8 (Soltan et al., Keleshek-2030, 2018), §15 |
-| Pythagoras' theorem and applications (Bài 35, p.93); using Thales, Pythagoras and similar triangles to measure height and distance (p.128) | Vietnam, Toán 8 v2, Bài 35, p.93; practical work, p.128 |
+| Pythagoras' theorem and applications (Bài 35, p.92); using Thales, Pythagoras and similar triangles to measure height and distance (p.128) | Vietnam, Toán 8 v2, Bài 35, p.92; practical work, p.128 |
 | Introduction to Pythagoras' theorem — a² + b² = c²; verifying a triangle is right-angled, 3-4-5 check worked (L42, p.122); finding the hypotenuse (L43, p.125); finding the other sides — a² = c² − b², hypotenuse opposite the right angle and longest (L44, p.128); applying Pythagoras — diagonal of a 12 cm × 18 cm rectangle, to 1 decimal place (L45, p.131) | Sierra Leone, JSS 3 Handbook, Term 1, L41–L45, pp.119–131 |
 | Pythagoras' theorem and trigonometry (Chapter 3, pp.85–125) | Libya, Grade 10 Part 1, Chapter 3, pp.85–125 |
 | Théorème de Pythagore (p.119) | Mauritania, 3AS student book, ch.6, p.119 |

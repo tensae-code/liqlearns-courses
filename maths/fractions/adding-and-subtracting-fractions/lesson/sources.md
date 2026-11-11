@@ -279,6 +279,8 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 **Book 134:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 135:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 136:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 137:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -325,6 +327,10 @@ FULLY READ + CITATION CHECK PASSED 2026-11-04).
 | Adding and Subtracting Fractions with Integers and Decimals | Sierra Leone, JSS 2 Term 1, L12, printed p. 33 |
 | Addition and Subtraction of Fractions | Sierra Leone, SSS 1 Term 1, L2, printed p. 6 |
 | Unifying fraction denominators | Mauritania, Grade 5 student book, printed p. 56 |
+| Adding fractions | Vietnam, Grade 4 Volume 2, Bài 60 "Phép cộng phân số" (adding fractions), printed p. 74 |
+| Subtracting fractions | Vietnam, Grade 4 Volume 2, Bài 61 "Phép trừ phân số" (subtracting fractions), printed p. 80 |
+| Review: operations with fractions | Vietnam, Grade 5 Volume 1, Bài 5 "Ôn tập các phép tính với phân số" (review: operations with fractions), printed p. 16 |
+| Workbook practice: fractions — exercise sets for Bài 23–27 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VI Phân số — exercise sets for Bài 23–27 (practice), printed p. 4 |
 
 | Same denominators: add/subtract the numerators, keep the denominator; the piece never changes size | South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |
 | Different denominators: make them the same first, with the LCM; 1/12 + 2/3 = 9/12 = 3/4 | South Sudan, Pupil's Book 5, 1.7 Adding and subtracting fractions using LCM, printed pp. 21–23 |

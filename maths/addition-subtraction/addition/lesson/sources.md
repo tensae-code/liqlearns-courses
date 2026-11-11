@@ -288,6 +288,18 @@ Every part traces to its book and page.
 **Book 216:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 217:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 218:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 219:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 220:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 221:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 222:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 223:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 224:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -459,6 +471,22 @@ Every part traces to its book and page.
 | Addition with carrying, to 9,999 | Mauritania, Grade 4 student book, printed p. 58 |
 | Operations on natural numbers: addition | Mauritania, Grade 5 student book, printed p. 26 |
 | Operations on naturals: addition and subtraction (the addition part) | Mauritania, Grade 6 student book, printed p. 17 |
+| How many and how many — making a number from two parts | Vietnam, Grade 1 Volume 1, Bài 5 "Mấy và mấy" (how many and how many — making a number from two parts), printed p. 32 |
+| Addition within 10 | Vietnam, Grade 1 Volume 1, Bài 10 "Phép cộng trong phạm vi 10" (addition within 10), printed p. 56 |
+| Addition and subtraction tables within 10 | Vietnam, Grade 1 Volume 1, Bài 12 "Bảng cộng, bảng trừ trong phạm vi 10" (addition and subtraction tables within 10), printed p. 80 |
+| The parts of an addition and a subtraction | Vietnam, Grade 2 Volume 1, Bài 3 "Các thành phần của phép cộng, phép trừ" (the parts of an addition and a subtraction), printed p. 13 |
+| Review: addition and subtraction without regrouping within 100 | Vietnam, Grade 2 Volume 1, Bài 5 "Ôn tập phép cộng, phép trừ (không nhớ) trong phạm vi 100" (review: addition and subtraction without regrouping within 100), printed p. 19 |
+| Addition across 10 within 20 | Vietnam, Grade 2 Volume 1, Bài 7 "Phép cộng (qua 10) trong phạm vi 20" (addition across 10 within 20), printed p. 26 |
+| The addition table (across 10) | Vietnam, Grade 2 Volume 1, Bài 8 "Bảng cộng (qua 10)" (the addition table (across 10)), printed p. 33 |
+| Addition without regrouping within 1,000 | Vietnam, Grade 2 Volume 2, Bài 59 "Phép cộng (không nhớ) trong phạm vi 1000" (addition without regrouping within 1,000), printed p. 79 |
+| Addition with regrouping within 1,000 | Vietnam, Grade 2 Volume 2, Bài 60 "Phép cộng (có nhớ) trong phạm vi 1000" (addition with regrouping within 1,000), printed p. 83 |
+| Review: addition and subtraction within 1,000 | Vietnam, Grade 3 Volume 1, Bài 2 "Ôn tập phép cộng, phép trừ trong phạm vi 1000" (review: addition and subtraction within 1,000), printed p. 9 |
+| Addition within 10,000 | Vietnam, Grade 3 Volume 2, Bài 54 "Phép cộng trong phạm vi 10 000" (addition within 10,000), printed p. 38 |
+| Addition within 100,000 | Vietnam, Grade 3 Volume 2, Bài 63 "Phép cộng trong phạm vi 100 000" (addition within 100,000), printed p. 70 |
+| Review: the four operations within 100,000 | Vietnam, Grade 4 Volume 1, Bài 2 "Ôn tập các phép tính trong phạm vi 100 000" (review: the four operations within 100,000), printed p. 9 |
+| Adding multi-digit numbers | Vietnam, Grade 4 Volume 1, Bài 22 "Phép cộng các số có nhiều chữ số" (adding multi-digit numbers), printed p. 76 |
+| Review: operations with natural numbers | Vietnam, Grade 5 Volume 1, Bài 2 "Ôn tập các phép tính với số tự nhiên" (review: operations with natural numbers), printed p. 9 |
+| Adding and subtracting natural numbers | Vietnam, Grade 6 Volume 1, Bài 4 "Phép cộng và phép trừ số tự nhiên" (adding and subtracting natural numbers), printed p. 15 |
 
 | Addition to 5, to 9, to 10, to 19; two-digit addition without carrying | Nepal, Grade 1 student book (English Version, Fifth Edition 2067 BS and Revised Edition 2074 BS), L7, L10, L13, L14, L19, L33, printed pp. 14–16, 23–24, 27–30, 39–43, 67–68 |
 | Addition of 2- and 3-digit numbers with and without carrying; commutative property | Nepal, Grade 2 English student book (old series, Revised Edition 2074 BS), L10, printed pp. 30–36 |

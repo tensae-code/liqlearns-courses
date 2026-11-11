@@ -397,6 +397,14 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 **Book 225:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 226:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 227:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 228:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 229:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 230:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 231:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -508,6 +516,15 @@ CITATION CHECK PASSED 2026-11-06 — gap batch).
 | Nombres décimaux et fractions (the fractions part) | Mauritania, 1AS, Ch. 3, printed p. 43 |
 | Les nombres rationnels | Mauritania, 2AS, Ch. 3, printed p. 41 |
 | Fractions (a unit inside Ch. 1, المعادلات والمتراجحات) | Mauritania, 7AS-LO, Ch. 1, body pp. 10–23 |
+| The basic property of fractions | Vietnam, Grade 4 Volume 2, Bài 55 "Tính chất cơ bản của phân số" (the basic property of fractions), printed p. 56 |
+| Simplifying fractions | Vietnam, Grade 4 Volume 2, Bài 56 "Rút gọn phân số" (simplifying fractions), printed p. 59 |
+| Bringing fractions to a common denominator | Vietnam, Grade 4 Volume 2, Bài 57 "Quy đồng mẫu số các phân số" (bringing fractions to a common denominator), printed p. 62 |
+| Review: fractions | Vietnam, Grade 5 Volume 1, Bài 3 "Ôn tập phân số" (review: fractions), printed p. 11 |
+| Mixed numbers | Vietnam, Grade 5 Volume 1, Bài 7 "Hỗn số" (mixed numbers), printed p. 23 |
+| Extending the fraction concept; equal fractions | Vietnam, Grade 6 Volume 2, Bài 23 "Mở rộng khái niệm phân số. Phân số bằng nhau" (extending the fraction concept; equal fractions), printed p. 4 |
+| Comparing fractions; positive mixed numbers | Vietnam, Grade 6 Volume 2, Bài 24 "So sánh phân số. Hỗn số dương" (comparing fractions; positive mixed numbers), printed p. 9 |
+| Workbook practice: fractions — exercise sets for Bài 23–27 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VI Phân số — exercise sets for Bài 23–27 (practice), printed p. 4 |
+| Adding, subtracting, multiplying and dividing rational numbers | Vietnam, Grade 7 Volume 1, Bài 2 "Cộng, trừ, nhân, chia số hữu tỉ" (adding, subtracting, multiplying and dividing rational numbers), printed p. 10 |
 
 | A share of a whole; equal parts first; half and quarter; comparing halves and quarters of the same whole | South Sudan, Pupil's Book 2, 1.11 Fractions, printed pp. 36–40 |
 | Equivalent fractions: same amount, different writing; the multiply/divide rule | South Sudan, Pupil's Book 3, 1.7 Comparing simple equivalent fractions, printed pp. 16–21; South Sudan, Pupil's Book 4, 1.4 Addition and subtraction of fractions, printed pp. 18–22 |

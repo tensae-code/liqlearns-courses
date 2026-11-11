@@ -108,6 +108,7 @@ Every part traces to its book and page.
 | Trigonométrie – Calcul trigonométrique | Mauritania, 6AS-C, Ch. 7, printed p. 89 |
 | Fonctions trigonométriques (inside Ch. VI, Étude et représentation de fonctions numériques, §III) | Mauritania, 6AS-D, Ch. VI, body p. 107 |
 | Trigonométrie: cercle trigonométrique, angles orientés | Mauritania, 6AS-D, Ch. VII, body p. 131 |
+| Trigonometric values of an oriented angle | Vietnam, Grade 11 Volume 1, Bài 1 "Giá trị lượng giác của góc lượng giác" (trigonometric values of an oriented angle), printed p. 5 |
 
 | The trigonometric point — The unit circle and the trigonometric point of an angle; coterminal angles θ + 2πn share the same point (6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 198 |
 | Sine and cosine defined — Sine = y-coordinate and cosine = x-coordinate of the trigonometric point; domain all reals, range [−1, 1] (within 6-5) | Sudan, Grade 10 Mathematics (First Year Secondary), printed p. 201 |

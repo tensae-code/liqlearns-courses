@@ -366,6 +366,14 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 211:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 212:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 213:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 214:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 215:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 216:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 217:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -492,6 +500,12 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Measuring angles | Mauritania, Grade 6 student book, printed p. 153 |
 | Angles | Mauritania, 1AS, Ch. 6, printed p. 95 |
 | Angles et cercles (the angles part) | Mauritania, 3AS, Ch. 5, printed p. 107 |
+| Angles: right angles and non-right angles | Vietnam, Grade 3 Volume 1, Bài 18 "Góc, góc vuông, góc không vuông" (angles: right angles and non-right angles), printed p. 54 |
+| Angles | Vietnam, Grade 6 Volume 2, Bài 36 "Góc" (angles), printed p. 58 |
+| Measuring angles | Vietnam, Grade 6 Volume 2, Bài 37 "Số đo góc" (measuring angles), printed p. 61 |
+| Workbook practice: basic geometric shapes — exercise sets for Bài 32–37 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VIII Những hình hình học cơ bản — exercise sets for Bài 32–37 (practice), printed p. 40 |
+| Angles in special positions; the bisector of an angle | Vietnam, Grade 7 Volume 1, Bài 8 "Góc ở vị trí đặc biệt. Tia phân giác của một góc" (angles in special positions; the bisector of an angle), printed p. 40 |
+| The angle sum in a triangle | Vietnam, Grade 7 Volume 1, Bài 12 "Tổng các góc trong một tam giác" (the angle sum in a triangle), printed p. 60 |
 
 | Angles; right angle by paper folding; straight angle = two right angles; acute/obtuse | Bangladesh, *Elementary Mathematics, Class Three*, Ch 12 Geometry, printed pp. 123–136 |
 | Angle size in degrees; protractor; 30°/45°/60°/90°; acute/right/obtuse/straight; adjacent angles; complementary (sum 90°), supplementary (sum 180°), vertically opposite (equal); clock-hand angles; parallel and perpendicular lines | Bangladesh, *Elementary Mathematics, Class Four*, Ch 13 Lines and Angles, printed pp. 143–154 |

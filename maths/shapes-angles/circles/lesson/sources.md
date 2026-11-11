@@ -332,6 +332,8 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 178:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 179:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 180:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 181:** *Toán 9, Tập Một* (Mathematics 9, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39236-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -439,6 +441,11 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Cercles et disques | Mauritania, 1AS, Ch. 7, printed p. 107 |
 | Droites et cercles (the circles part) | Mauritania, 2AS, Ch. 9, printed p. 107 |
 | Angles et cercles (the circles part) | Mauritania, 3AS, Ch. 5, printed p. 107 |
+| First look at the circle | Vietnam, Grade 9 Volume 1, Bài 13 "Mở đầu về đường tròn" (first look at the circle), printed p. 83 |
+| Arcs and chords of a circle | Vietnam, Grade 9 Volume 1, Bài 14 "Cung và dây của một đường tròn" (arcs and chords of a circle), printed p. 88 |
+| Arc length; area of a sector and of an annulus | Vietnam, Grade 9 Volume 1, Bài 15 "Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên" (arc length; area of a sector and of an annulus), printed p. 93 |
+| Relative position of a line and a circle | Vietnam, Grade 9 Volume 1, Bài 16 "Vị trí tương đối của đường thẳng và đường tròn" (relative position of a line and a circle), printed p. 99 |
+| Relative position of two circles | Vietnam, Grade 9 Volume 1, Bài 17 "Vị trí tương đối của hai đường tròn" (relative position of two circles), printed p. 104 |
 
 | Drawing a circle; centre, radius, diameter | Bangladesh, *Elementary Mathematics, Class Five*, Ch 10 §10.5 Circle, printed p. 109 |
 | Drawing a circle from pin and pencil; determining the centre; circumference by rolling; ratio of circumference to diameter; pi; area of a circle by cutting it into equal parts and rearranging | Bangladesh, *Mathematics, Class Seven*, Exp 8 Let's Measure a Circle, printed pp. 161–180 |

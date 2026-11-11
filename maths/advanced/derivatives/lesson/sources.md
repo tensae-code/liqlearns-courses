@@ -105,6 +105,8 @@ Every part traces to its book and page.
 **Book 68:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 69:** *Mathématiques 7ème LM* — Mauritania, IPN, French, 96 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 70:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 71:** *Chuyên đề học tập Toán 12* (Mathematics 12 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39275-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -219,6 +221,7 @@ Every part traces to its book and page.
 | Derivation (الاشتقاق) | Mauritania, 6AS-LO, body p. 33 |
 | Dérivation (inside Ch. 2, Généralités sur les fonctions) | Mauritania, 7AS-LM, Ch. 2, printed p. 29 |
 | Derivation (inside Ch. 2, عموميات على الدوال) | Mauritania, 7AS-LO, Ch. 2, body pp. 24–53 |
+| Using derivatives to solve optimisation problems | Vietnam, Grade 12 study book (Chuyên đề học tập Toán 12), Chuyên đề 2 Bài 4 "Vận dụng đạo hàm để giải quyết một số bài toán tối ưu" (using derivatives to solve optimisation problems), printed p. 34 |
 
 | Rates — Change Δx, Δy and average rate of change; contexts: rocket distance/time, expanding heated disc, production per worker; Worked average rates: √(x−2) from 3 to 3.21 (≈0.476); disc area as radius goes 6 → 6.1 cm (12.1π) | Sudan, Grade 12 Basic Mathematics (humanities track), printed pp. 31–32 |
 | Definition — Derivative motivated geometrically: secant slope → tangent slope as Δx → 0; First derivative defined from first principles; notations y′, f′(x), dy/dx, differential coefficient | Sudan, Grade 12 Basic Mathematics (humanities track), printed pp. 33, 35 |

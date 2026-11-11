@@ -477,6 +477,20 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 297:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 298:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 299:** *كتاب الرياضيات للسنة الخامسة آداب أصلية* (Mathematics, 5AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 87 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 300:** *Toán 1, Tập Một* (Mathematics 1, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-19567-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 301:** *Toán 2, Tập Một* (Mathematics 2, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-28734-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 302:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 303:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 304:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 305:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 306:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -497,7 +511,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Polygons; quadrilaterals chapter — parallelogram properties and criteria, rectangle, rhombus, square | Armenia, Geometry 8, Chapter I, §§1–5, pp.3–38 |
 | Polygons (p.6); classifying polygons; rectangle and square (p.8) | Kazakhstan, Grade 2 Part 3, Section 3A, pp.6–16 |
 | Triangle, quadrilateral, rectangle, square (p.56); revision of geometry (p.21) | Vietnam, Toán 3 v1, Bài 7, p.21; Bài 19 area, p.56 |
-| Parallelogram, rhombus (p.105) | Vietnam, Toán 4 v1, Bài 32, p.105 |
+| Parallelogram, rhombus (p.105) | Vietnam, Toán 4 v1, Bài 31, p.105 |
 | Quadrilaterals chapter (p.48): Bài 10 Tứ giác | Vietnam, Toán 8 v1, Chương III, p.48 |
 | Review of plane shapes — rectangle, square, triangle: sides, angles, equal-side marks, naming by vertex letters | Sierra Leone, JSS 1 Handbook, Term 2, L75, printed p.87 |
 | Rectangle (p.108), triangle and its kinds (p.110), parallelogram (p.121) and drawing it (p.122), rhombus (p.122) | Mauritania, Grade 4 student book, pp.108–122 |
@@ -628,6 +642,24 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Triangles et parallélogrammes | Mauritania, 1AS, Ch. 4, printed p. 63 |
 | Polygones | Mauritania, 2AS, Ch. 7, printed p. 87 |
 | Plane geometry (الهندسة في المستوي) | Mauritania, 5AS-LO, Ch. 6, printed p. 65 |
+| Square, circle, triangle, rectangle | Vietnam, Grade 1 Volume 1, Bài 7 "Hình vuông, hình tròn, hình tam giác, hình chữ nhật" (square, circle, triangle, rectangle), printed p. 46 |
+| Assembling and arranging shapes (practice) | Vietnam, Grade 1 Volume 1, Bài 8 "Thực hành lắp ghép, xếp hình" (assembling and arranging shapes (practice)), printed p. 50 |
+| Cubes and cuboids | Vietnam, Grade 1 Volume 1, Bài 14 "Khối lập phương, khối hộp chữ nhật" (cubes and cuboids), printed p. 92 |
+| Polylines; quadrilaterals | Vietnam, Grade 2 Volume 1, Bài 26 "Đường gấp khúc. Hình tứ giác" (polylines; quadrilaterals), printed p. 102 |
+| Folding, cutting, joining and arranging shapes; drawing segments (practice) | Vietnam, Grade 2 Volume 1, Bài 27 "Thực hành gấp, cắt, ghép, xếp hình. Vẽ đoạn thẳng" (folding, cutting, joining and arranging shapes; drawing segments (practice)), printed p. 106 |
+| Cylinders and spheres | Vietnam, Grade 2 Volume 2, Bài 46 "Khối trụ, khối cầu" (cylinders and spheres), printed p. 34 |
+| Cubes and cuboids | Vietnam, Grade 3 Volume 1, Bài 21 "Khối lập phương, khối hộp chữ nhật" (cubes and cuboids), printed p. 63 |
+| Review: geometry and measurement | Vietnam, Grade 5 Volume 1, Bài 8 "Ôn tập hình học và đo lường" (review: geometry and measurement), printed p. 26 |
+| Measuring, drawing, assembling and composing shapes (practice) | Vietnam, Grade 5 Volume 1, Bài 28 "Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình" (measuring, drawing, assembling and composing shapes (practice)), printed p. 113 |
+| Equilateral triangles, squares and regular hexagons | Vietnam, Grade 6 Volume 1, Bài 18 "Hình tam giác đều. Hình vuông. Hình lục giác đều" (equilateral triangles, squares and regular hexagons), printed p. 77 |
+| Rectangles, rhombuses, parallelograms and isosceles trapeziums | Vietnam, Grade 6 Volume 1, Bài 19 "Hình chữ nhật. Hình thoi. Hình bình hành. Hình thang cân" (rectangles, rhombuses, parallelograms and isosceles trapeziums), printed p. 83 |
+| Isosceles triangles; the perpendicular bisector of a segment | Vietnam, Grade 7 Volume 1, Bài 16 "Tam giác cân. Đường trung trực của đoạn thẳng" (isosceles triangles; the perpendicular bisector of a segment), printed p. 80 |
+| Angles and opposite sides in a triangle | Vietnam, Grade 7 Volume 2, Bài 31 "Quan hệ giữa góc và cạnh đối diện trong một tam giác" (angles and opposite sides in a triangle), printed p. 57 |
+| The three sides of a triangle (triangle inequality) | Vietnam, Grade 7 Volume 2, Bài 33 "Quan hệ giữa ba cạnh của một tam giác" (the three sides of a triangle (triangle inequality)), printed p. 64 |
+| Isosceles trapeziums | Vietnam, Grade 8 Volume 1, Bài 11 "Hình thang cân" (isosceles trapeziums), printed p. 52 |
+| Parallelograms | Vietnam, Grade 8 Volume 1, Bài 12 "Hình bình hành" (parallelograms), printed p. 57 |
+| Rectangles | Vietnam, Grade 8 Volume 1, Bài 13 "Hình chữ nhật" (rectangles), printed p. 62 |
+| Rhombuses and squares | Vietnam, Grade 8 Volume 1, Bài 14 "Hình thoi và hình vuông" (rhombuses and squares), printed p. 67 |
 
 | Round, triangular and quadrangular shapes in everyday objects | Bangladesh, *Elementary Mathematics, Class One*, Ch 12 Geometry, printed pp. 82–85 |
 | Round/triangular/quadrangular shapes; circle/sphere/cylinder, triangle/quadrangle/rectangle/square | Bangladesh, *Elementary Mathematics, Class Two*, Ch 4 Geometric Shapes and Patterns, printed pp. 102–106 |

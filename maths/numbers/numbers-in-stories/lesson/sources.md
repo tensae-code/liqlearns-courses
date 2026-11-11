@@ -1,6 +1,6 @@
 # Sources — Numbers in Stories
 
-countries: Ecuador, Libya
+countries: Ecuador, Libya, Vietnam
 
 Every part traces to its book and page.
 
@@ -9,6 +9,12 @@ Every part traces to its book and page.
 **Book 2:** *Mathematics, Grade 1 pupil's book, Part 1* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 3:** *Mathematics, Grade 1 pupil's book, Part 2* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 4:** *Toán 2, Tập Một* (Mathematics 2, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-28734-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 5:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 6:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,10 +25,17 @@ Every part traces to its book and page.
 | Making subtraction stories | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 3, printed p.62 |
 | Solving story problems | Libya, Grade 1 pupil's book Part 1, Unit 5, Lesson 5, printed p.66 |
 | Multiplication stories | Libya, Grade 1 pupil's book Part 2, Unit 13, Lesson 2, printed p.44 |
+| How many more, how many fewer — difference word problems | Vietnam, Grade 2 Volume 1, Bài 4 "Hơn, kém nhau bao nhiêu" (how many more, how many fewer — difference word problems), printed p. 16 |
+| Word problems about adding or taking away a few units | Vietnam, Grade 2 Volume 1, Bài 9 "Bài toán về thêm, bớt một số đơn vị" (word problems about adding or taking away a few units), printed p. 36 |
+| Word problems about more than / less than by a few units | Vietnam, Grade 2 Volume 1, Bài 13 "Bài toán về nhiều hơn, ít hơn một số đơn vị" (word problems about more than / less than by a few units), printed p. 50 |
+| Word problems solved in two steps | Vietnam, Grade 3 Volume 1, Bài 28 "Bài toán giải bằng hai bước tính" (word problems solved in two steps), printed p. 81 |
+| Solving word problems in three steps | Vietnam, Grade 4 Volume 1, Bài 5 "Giải bài toán có ba bước tính" (solving word problems in three steps), printed p. 19 |
 
 A note on the pages: the anthology is the book's closing section and is unfoliated in the book itself; the re-verification sweep records the section at printed pp. 210–224, so each part is cited to the section as a whole rather than to invented single pages.
 
-**Acceptance count: taught in 2 countries (Ecuador, Libya).**
+**Acceptance count: taught in 3 countries (Ecuador, Libya, Vietnam).**
+
+Vietnam carries story problems from Grade 2 (difference problems and add/take-away problems) through two-step problems in Grade 3 to three-step problems in Grade 4. Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya joins through its Grade 1 pupil's books, Parts 1–2, whose units carry story word problems — making subtraction stories and solving story problems (Part 1, Unit 5, printed pp.62 and 66) and making multiplication stories (Part 2, Unit 13, printed p.44) (stocked by the 2026-11-08 re-verification sweep).
 

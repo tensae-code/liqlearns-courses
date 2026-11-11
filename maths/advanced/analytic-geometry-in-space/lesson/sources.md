@@ -1,6 +1,6 @@
 # Sources — Analytic Geometry in Space
 
-countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia
+countries: Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam
 
 Every part traces to its book and page.
 
@@ -26,6 +26,8 @@ Every part traces to its book and page.
 
 **Book 17:** *Геометрия (давоми стереометрия)* (Geometry — continuation of stereometry, pupil's book) — Tajikistan, Боймурод Алиев (Boymurod Aliev), 3rd edition, ҶДММ «Лавҳ» (Lavh), Dushanbe 2020, ISBN 978-99975-1-251-2 (Tajik, Cyrillic). Filed in maths/books/tajikistan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 18:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
+**Book 19:** *Toán 12, Tập Hai* (Mathematics 12, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39274-9. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -85,6 +87,10 @@ Every part traces to its book and page.
 | Worked problem: recognising a sphere equation by completing squares — x² + 6x + y² − 2y + z² = 0 → centre (−3; 1; 0), radius √10 | Tajikistan, Геометрия (Grade 11), printed p. 82 |
 | Exercise set: writing sphere equations from centre and radius; testing whether points lie on a sphere; finding centre and radius from an equation (including by completing squares) | Tajikistan, Геометрия (Grade 11), printed p. 83 |
 | Point-to-plane distance formula stated and used in a worked problem: the plane y − z = 2 cuts the sphere x² + y² + z² = 4 in a circle because d = √2 < R = 2; the cases d > R (no section) and d = R (tangent) drawn from the same working | Tajikistan, Геометрия (Grade 11), printed p. 85 |
+| The equation of a plane | Vietnam, Grade 12 Volume 2, Bài 14 "Phương trình mặt phẳng" (the equation of a plane), printed p. 29 |
+| The equation of a line in space | Vietnam, Grade 12 Volume 2, Bài 15 "Phương trình đường thẳng trong không gian" (the equation of a line in space), printed p. 41 |
+| Angle formulas in space | Vietnam, Grade 12 Volume 2, Bài 16 "Công thức tính góc trong không gian" (angle formulas in space), printed p. 50 |
+| The equation of a sphere | Vietnam, Grade 12 Volume 2, Bài 17 "Phương trình mặt cầu" (the equation of a sphere), printed p. 54 |
 
 | Distance between two points in space derived by two applications of Pythagoras: d = √((x₂−x₁)² + (y₂−y₁)² + (z₂−z₁)²) | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 250–252 |
 | Midpoint of a segment in space, proved by projections and Thales' theorem; worked example P(2, 1, 5), Q(−3, 2, 1) gives M(−1/2, 3/2, 3); trisection points and the centroid of a triangle as activities | Venezuela, La Matemática y el Vivir Bien (Grade 11), printed pp. 252–254 |
@@ -127,7 +133,9 @@ Every part traces to its book and page.
 | Equation of a surface given in space | Armenia, Geometry 11, §9.3, printed p. 101 |
 | Applying the coordinate method | Armenia, Geometry 11, §9.4, printed p. 105 |
 
-**Acceptance count: taught in 13 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+**Acceptance count: taught in 14 countries (Egypt, Laos, Cambodia, Jordan, Syria, Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Tajikistan, Armenia, Vietnam).** Egypt carries the analytic course in Pure Grade 12: the 3D coordinate system, vectors in space and vector multiplication in Unit Three, then the equations of lines and planes in Unit Four. Laos carries it twice: Grade 10 Chapter X builds coordinates, octants, distance, direction cosines and the 3-D dot product in a single long lesson, and Grade 12 Chapter 10 adds the equations of lines and planes and the line–plane angle. Cambodia carries vectors in space in Grade 11 Advanced Chapter 8 and the scalar and cross products again in Grade 12 Advanced Chapter 7, with two teacher-guide worked values taught corrected as filed. Jordan carries vectors in space, lines in space and the scalar product in Grade 12 Term 2 Unit 6. North Macedonia enters from its main set — the Grade 12 Linear Algebra and Analytic Geometry elective.
+
+Vietnam joins with its Grade 12 Volume 2 space-geometry lessons — the equations of planes and of lines in space, angle formulas in space, and the equation of a sphere (Bài 14–17; its Volume 1 vector-coordinate items are cited in the vectors lesson). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Rwanda teaches analytic geometry in space whole in Advanced Mathematics Senior Five Unit 8 — points, lines and planes in 3D through to spheres, their relative positions, radical planes and orthogonal spheres.
 

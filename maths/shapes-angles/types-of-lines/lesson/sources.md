@@ -1,6 +1,6 @@
 # Sources — Types of Lines
 
-countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania
+countries: Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Barbados, Tanzania, Armenia, China, Ghana, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam
 
 Every part traces to its book and page.
 
@@ -90,6 +90,20 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 **Book 58:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 60:** *Mathématiques 1ère AS* (Grade 7 pupil's book) — Mauritania, IPN, 2025, French, 152 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Toán 2, Tập Một* (Mathematics 2, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-28734-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 62:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 63:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 64:** *Toán 6, Tập Hai* (Mathematics 6, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25152-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 65:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 66:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 67:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -142,6 +156,20 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | The straight segment | Mauritania, Grade 5 student book, printed p. 37 |
 | Straight lines; the segment | Mauritania, Grade 6 student book, printed pp. 88, 90, 92 |
 | Segments, demi-droites et droites | Mauritania, 1AS, Ch. 2, printed p. 31 |
+| Point, segment, straight line, curve, three collinear points | Vietnam, Grade 2 Volume 1, Bài 25 "Điểm, đoạn thẳng, đường thẳng, đường cong, ba điểm thẳng hàng" (point, segment, straight line, curve, three collinear points), printed p. 98 |
+| A point in between; the midpoint of a segment | Vietnam, Grade 3 Volume 1, Bài 16 "Điểm ở giữa, trung điểm của đoạn thẳng" (a point in between; the midpoint of a segment), printed p. 49 |
+| Two perpendicular lines | Vietnam, Grade 4 Volume 1, Bài 27 "Hai đường thẳng vuông góc" (two perpendicular lines), printed p. 91 |
+| Perpendicular lines (practice) | Vietnam, Grade 4 Volume 1, Bài 28 "Thực hành và trải nghiệm về hai đường thẳng vuông góc" (perpendicular lines (practice)), printed p. 94 |
+| Two parallel lines | Vietnam, Grade 4 Volume 1, Bài 29 "Hai đường thẳng song song" (two parallel lines), printed p. 98 |
+| Parallel lines (practice) | Vietnam, Grade 4 Volume 1, Bài 30 "Thực hành và trải nghiệm về hai đường thẳng song song" (parallel lines (practice)), printed p. 101 |
+| Points and straight lines | Vietnam, Grade 6 Volume 2, Bài 32 "Điểm và đường thẳng" (points and straight lines), printed p. 43 |
+| A point between two points; rays | Vietnam, Grade 6 Volume 2, Bài 33 "Điểm nằm giữa hai điểm. Tia" (a point between two points; rays), printed p. 48 |
+| Segments and their lengths | Vietnam, Grade 6 Volume 2, Bài 34 "Đoạn thẳng. Độ dài đoạn thẳng" (segments and their lengths), printed p. 51 |
+| The midpoint of a segment | Vietnam, Grade 6 Volume 2, Bài 35 "Trung điểm của đoạn thẳng" (the midpoint of a segment), printed p. 55 |
+| Workbook practice: basic geometric shapes — exercise sets for Bài 32–37 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VIII Những hình hình học cơ bản — exercise sets for Bài 32–37 (practice), printed p. 40 |
+| Two parallel lines and how to recognise them | Vietnam, Grade 7 Volume 1, Bài 9 "Hai đường thẳng song song và dấu hiệu nhận biết" (two parallel lines and how to recognise them), printed p. 46 |
+| Euclid's postulate; properties of two parallel lines | Vietnam, Grade 7 Volume 1, Bài 10 "Tiên đề Euclid. Tính chất của hai đường thẳng song song" (Euclid's postulate; properties of two parallel lines), printed p. 51 |
+| Perpendicular and oblique lines from a point | Vietnam, Grade 7 Volume 2, Bài 32 "Quan hệ giữa đường vuông góc và đường xiên" (perpendicular and oblique lines from a point), printed p. 61 |
 
 | Straight lines — la recta as a line with no beginning and no end; parallel lines that never meet; perpendicular lines meeting at right angles | Venezuela, Aventuras de Patacalientes (Grade 3), printed pp. 42–45 |
 | The straight line — la recta = infinitely many points, endless, drawn with arrows, named by two points AB/BA; conclusions: infinitely many lines through one point, exactly one through two points | Venezuela, Contando con los recursos (Grade 4), printed pp. 84–87 |
@@ -233,7 +261,9 @@ On Rwanda in this lesson: Rwanda's Primary 2 pupil's book teaches the naming of 
 | Parallel and intersecting lines | Jordan, Grade 4 Student Book Term 1, Unit 5, Lesson 3, printed p. 94 |
 | Workbook practice: geometry and patterns (T1 U6) | Jordan, Grade 3 Workbook Term 1, Unit 6 (workbook evidence) |
 
-**Acceptance count: taught in 21 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+**Acceptance count: taught in 22 countries (Rwanda, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania, Armenia, China, Greece, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Vietnam)**.** Rwanda's Primary 2 book carries this naming of lines as a short, pictured section of four printed pages; China's Grade 7 Volume 2 gives the line system its fullest named treatment — intersecting and perpendicular lines, the eight transversal angles, and the tests and properties of parallel lines in one chapter. North Macedonia enters from its main set — Grade 2 (2023), Grade 3 (2023), Grade 4 (2023), Grade 5 (2022) and Grade 6 (2023).
+
+Vietnam carries the lines strand from Grade 2 (points, segments, straight lines, curves, collinear points) through Grade 4 (perpendicular and parallel lines), Grade 6 (points and lines, rays, segments and midpoints) and Grade 7 (recognising parallel lines, Euclid's postulate, perpendicular and oblique lines). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya carries lines from Grade 2 (line segments, rays, perpendicular and parallel lines) through Grade 8 (parallel lines and angles, points, lines and planes in Grade 7) (stocked by the 2026-11-08 re-verification sweep).
 

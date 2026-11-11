@@ -5,7 +5,7 @@ countries: Iran, Vietnam, Jordan, China, Malaysia
 Every part traces to its book and page.
 
 **Book 1:** *Discrete Mathematics (ریاضیات گسسته), Grade 12, Mathematical Sciences branch, book code 112215* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, 9th printing 1405, ISBN 978-964-05-3111-2. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
-**Book 2:** *Chuyên đề học tập Toán 11 (Grade 11 study book)* — Vietnam, NXB Giáo dục Việt Nam (Vietnam Education Publishing House); ISBN not captured in the filing, as filed. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+**Book 2:** *Chuyên đề học tập Toán 11 (Grade 11 study book)* — Vietnam, NXB Giáo dục Việt Nam (Vietnam Education Publishing House); ISBN 978-604-0-35081-7 (captured by the 2026-11-08 re-verification sweep from the imprint page). Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 3:** *Business Mathematics (رياضيات الأعمال), Student Book, Grade 12, Term 1* — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-787-4. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 4:** *Mathematics, Grade 6, second volume (六年级 下册)* — China, People's Education Press (PEP), Beijing, 1st edition October 2014, ISBN 978-7-107-29103-6. Filed in maths/books/china.md (FULLY READ + CITATION CHECK PASSED).
 

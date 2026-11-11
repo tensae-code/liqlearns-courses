@@ -1,6 +1,6 @@
 # Sources — Temperature and Traditional Measures
 
-countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan, Ecuador, Bolivia, Turkey, Sierra Leone
+countries: Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan, Ecuador, Bolivia, Turkey, Sierra Leone, Vietnam
 
 Every part traces to its book and page.
 
@@ -35,6 +35,8 @@ Every part traces to its book and page.
 **Book 23:** *Primary Mathematics Lesson Plans, Primary 1–6, Terms 1–3* (teacher lesson plans) — Sierra Leone, Ministry of Education, Science and Technology (MEST), President's Recovery Priorities — Education; no year, edition or ISBN printed in the files. Filed in maths/books/sierra-leone.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: Sierra Leone Primary has no pupil book in the set.
 **Book 24:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 25:** *كتاب الرياضيات للسنة السابعة آداب أصلية* (Mathematics, 7AS lettres originales pupil's book) — Mauritania, IPN, Arabic, 135 pp. Note: its contents ranges are stale from an earlier pagination; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 26:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -51,6 +53,7 @@ Every part traces to its book and page.
 | Words Problems Involving Degrees Celsius | Sierra Leone, Primary 5 Term 2, L88, printed p. 62 (teacher plans) |
 | Agricultural measures: are, centiare, hectare | Mauritania, Grade 6 student book, printed p. 171 |
 | The Islamic measures (a unit of Ch. 5, تنظيم المعطيات — organising data) | Mauritania, 7AS-LO, Ch. 5, body pp. 92–135 |
+| Temperature and its units | Vietnam, Grade 3 Volume 1, Bài 33 "Nhiệt độ. Đơn vị đo nhiệt độ" (temperature and its units), printed p. 91 |
 
 | Traditional dry measures (al-makāyīl) — measuring sorghum and wheat: 1 kayla = 2 rubuʿ = 4 malwa; 1 rubuʿ = 2 malwa; conversions (7 kayla = 28 malwa; 48 malwa = 12 kayla) | Sudan, Grade 4 Mathematics, printed p. 53 |
 | Temperature — City temperatures in degrees Celsius with decimals (Srinagar 8.1°C, Mumbai 35.1°C): hottest, coolest, differences | India, Math-Magic Class 5, printed p. 145 |
@@ -63,7 +66,9 @@ Every part traces to its book and page.
 | Los números enteros y su relación con la geometría: integer problems tied to measurement and everyday contexts | Bolivia, Compendio para Maestras y Maestros 2023–2024 (teacher compendium — teacher-compilation evidence), Secundaria 1 (Grade 7) section, printed p. 45 |
 | Performance task: historical and foreign volume and liquid measures (okka, kile, gallon, barrel) and the tools that carried them | Turkey, Matematik 7. Sınıf Ders Kitabı, 1. Kitap (Grade 7, Book 1), printed p. 150 |
 | Temperature; measuring temperature; temperature scales and display (Grade 6 Book 2) | South Africa, Grade 6 Book 2, Ws 85a–b, 86 Temperature; Measuring temperature; Temperature scales and display, printed pp. 62, 64, 66 |
-**Acceptance count: taught in 16 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan, Ecuador, Bolivia, Turkey, Sierra Leone).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+**Acceptance count: taught in 17 countries (Nepal, South Africa, South Sudan, Mauritania, Nicaragua, Kazakhstan, Laos, Sudan, India, Mongolia, Venezuela, Uzbekistan, Ecuador, Bolivia, Turkey, Sierra Leone, Vietnam).** Nepal carries both halves of the lesson: the thermometer with both scales in Grade 4, and the land units — ropani, aana, paisa, daam, katha, dhur — as a full Grade 9 strand with cost problems. South Africa carries thermometer reading through its Grade 5–7 workbooks, in weather contexts. South Sudan carries the conversion formulas in its student books — Pupil's Book 5 prints them correctly with the 32 offset, and Pupil's Book 7 works 50 °C = 122 °F; only the student books are cited, never the P7 guide, which prints the formulas without the 32. Mauritania carries the fullest traditional-measures chapter: the Islamic measures of length, weight, capacity and time, with values, worked into zakat exercises. Nicaragua carries body units by name in Grade 1 and its own land units, vara cuadrada and manzana, in Grade 4. Kazakhstan carries the old Kazakh length units in a Grade 5 reference box. Laos carries the traditional Lao mass units — baht, salung, hun — and the carat in Grade 5.
+
+Vietnam carries temperature and its units in Grade 3 Volume 1 (Bài 33). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Sudan keeps its traditional dry measures in Grade 4: 1 kayla = 2 rubuʿ = 4 malwa, taught inside the capacity work.
 

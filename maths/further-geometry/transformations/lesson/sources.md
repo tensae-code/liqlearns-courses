@@ -1,6 +1,6 @@
 # Sources — Transformations
 
-countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya
+countries: Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam
 
 Every part traces to its book and page.
 
@@ -211,6 +211,8 @@ textbook.
 **Book 117:** *Mathématiques 6ème AS, séries M* — Mauritania, IPN, French, 192 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 118:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 119:** *Mathématiques 7ème AS, série Mathématiques (C)* — Mauritania, IPN, French, 201 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 120:** *Chuyên đề học tập Toán 11* (Mathematics 11 study topics) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35081-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -274,6 +276,13 @@ textbook.
 | Transformations géométriques planes | Mauritania, 6AS-C, Ch. 11, body p. 160 |
 | Transformations 1 | Mauritania, 7AS-C, Ch. 11, printed p. 136 |
 | Transformations 2 | Mauritania, 7AS-C, Ch. 12, printed p. 147 |
+| Transformations of the plane | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 1 "Phép biến hình" (transformations of the plane), printed p. 5 |
+| Translations | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 2 "Phép tịnh tiến" (translations), printed p. 9 |
+| Reflection in a line (axial symmetry) | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 3 "Phép đối xứng trục" (reflection in a line (axial symmetry)), printed p. 12 |
+| Rotations and point reflection (central symmetry) | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 4 "Phép quay và phép đối xứng tâm" (rotations and point reflection (central symmetry)), printed p. 16 |
+| Isometries (rigid motions) | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 5 "Phép dời hình" (isometries (rigid motions)), printed p. 21 |
+| Enlargements (homothety) | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 6 "Phép vị tự" (enlargements (homothety)), printed p. 26 |
+| Similarity transformations | Vietnam, Grade 11 study book (Chuyên đề học tập Toán 11), Chuyên đề 1 Bài 7 "Phép đồng dạng" (similarity transformations), printed p. 30 |
 
 | Congruence and similarity through photos (scaling as enlargement in pictures) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Line symmetry and rotational symmetry; the mirror test (reflection and rotation as symmetry only) | Bangladesh, *Mathematics, Class Eight*, Exp 8 Application of Symmetry in Measurement, printed pp. 181–188 |
@@ -437,7 +446,7 @@ textbook.
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
 
-**Acceptance count: taught in 34 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
+**Acceptance count: taught in 35 countries (Egypt, Jordan, Kazakhstan, Sierra Leone, South Africa, Greece, Mauritania, Ghana — Ghana as teacher evidence only, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, India, Mongolia, Venezuela, Uzbekistan, Albania, Palestine, Turkey, Armenia, Libya, Vietnam).**.** Egypt carries the Iran rotates shapes in Grade 6, translates, reflects and rotates them with tracing paper in Grade 7, and gives transformations whole — homothety included — in Grade 11 Geometry (2).
 fullest single treatment — all four moves defined with
 coordinate rules plus composition in Grade 7 Term 2. Jordan
 carries translation and reflection in Grade 6, rotation in
@@ -451,6 +460,8 @@ central and axial symmetry in Lykeio Geometry. Mauritania
 carries transformations in the plane in 4AS. Ghana carries
 reflection only, in a teacher manual — worded as teacher
 evidence, never as pupil-book teaching. Laos carries transformations from squared-paper translation, reflection and rotation with coordinates in Grade 5, through line reflection in Grade 6, to full isometries with the coordinate rotation formula in Grade 9. Yemen carries transformations from translation, reflection and rotation in Grade 3, through reflection in the axes and translation, to reflection, translation, rotation and enlargement and their analytic forms in Grade 10. Indonesia carries transformations from translation, reflection, rotation and dilation in Grade 9, to geometric transformations on the Cartesian plane with matrices and composition in Grade 11 Tingkat Lanjut (2021 student book), with the 2024 TL Revisi student book's transformations chapter — reflection, translation, rotation and dilation with their matrices and composition — read directly for its own edition. Not stocked here: the transformations of functions in Grade 11 Revisi (Bab 3) and Grade 12 Merdeka (Bab 1) are function transformations, not geometric transformations. Nicaragua touches this lesson only in part — translation, rotation and reflection in Grade 7 only, introduced descriptively and not with coordinates. No dilation/enlargement is taught as a transformation, and no coordinate rules are given. The Grade 9 parabola translations and the Grade 10 trig-graph shifts are function transformations, not geometric transformations, and are not stocked here. Ethiopia touches this lesson only in part — translation, reflection and rotation only: moving shapes by sliding, reflecting and turning in Grade 3 as an early form, and the full transformations chapter in Grade 11. No dilation/enlargement and no shear are taught anywhere in Ethiopia's set, and transformations as a standalone topic exist only in Grade 11. South Sudan carries transformations whole in Secondary 1 — translation (with vectors), rotation, reflection and enlargement with scale factor and centre — with a translation review inside vectors in Secondary 2. Iraq carries transformations whole across Grades 7–9 — translation and reflection in Grade 7, reflection and rotation with translation in the coordinate plane in Grade 8, and dilation in the coordinate plane in Grade 9 — covering all four moves: translation, reflection, rotation and dilation. Bangladesh touches this lesson only in part — reflection and rotation as symmetry in Grade 8, and scaling through photos in Grade 7. There is no transformation geometry as a topic in Bangladesh's set: no translation, no enlargement as a transformation, no coordinate rules for any move, and no composition — those parts rest on the other countries. Nepal carries transformations from reflection, rotation and translation in Grade 7, through reflection in the axes, rotation and translation in Grade 8, to reflection, rotation and enlargement and reduction in the Grade 9 Optional book (no translation there) and translation with combined and matrix transformations in the Grade 10 Optional book. Cambodia carries transformations only in part — reflection as point and line symmetry in Grade 7, enlargement by scale in Grade 8 and dividing a segment by construction in Grade 9, and translation, reflection, rotation and enlargement in coordinates in Grade 10 with linear transformations in Grade 11 Advanced; combining moves is not taught anywhere in the set. Kuwait carries transformations from movement of shapes in Grades 3 and 4, through translations, reflections and rotations in Grade 7, to translations, reflections, rotations and enlargements in Grade 8. Band C adds rotation and enlargement about the origin in Grade 9 Term 1, with coordinate rules (no general centre is taught there). North Macedonia touches transformations only through projection in Grade 8 (2010 edition) — parallel and orthogonal projection, with no reflection, rotation, translation or dilation taught.
+
+Vietnam carries the whole transformations strand in its Grade 11 study book — transformations, translations, reflection in a line, rotation and point reflection, isometries, enlargement and similarity transformations (Chuyên đề 1 Bài 1–7). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya carries transformations in Grade 10 Part 2, Chapter 9 (stocked by the 2026-11-08 re-verification sweep).
 

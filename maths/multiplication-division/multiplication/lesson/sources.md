@@ -264,6 +264,18 @@ Every part traces to its book and page.
 **Book 198:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 199:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 200:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 201:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 202:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 203:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 204:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 205:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 206:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -384,6 +396,21 @@ Every part traces to its book and page.
 | Multiplying by 10, 100, 1000; by 2 and 11; by 4 and 20 | Mauritania, Grade 4 student book, printed pp. 69, 70, 72 |
 | Multiplying natural numbers | Mauritania, Grade 5 student book, printed p. 75 |
 | Operations on naturals: multiplication and division (the multiplication part) | Mauritania, Grade 6 student book, printed p. 19 |
+| Multiplication | Vietnam, Grade 2 Volume 2, Bài 37 "Phép nhân" (multiplication), printed p. 4 |
+| Factors and product | Vietnam, Grade 2 Volume 2, Bài 38 "Thừa số, tích" (factors and product), printed p. 7 |
+| The 2 times table | Vietnam, Grade 2 Volume 2, Bài 39 "Bảng nhân 2" (the 2 times table), printed p. 9 |
+| The 5 times table | Vietnam, Grade 2 Volume 2, Bài 40 "Bảng nhân 5" (the 5 times table), printed p. 12 |
+| Multiplying a two-digit number by a one-digit number | Vietnam, Grade 3 Volume 1, Bài 23 "Nhân số có hai chữ số với số có một chữ số" (multiplying a two-digit number by a one-digit number), printed p. 67 |
+| Increasing a number by a number of times | Vietnam, Grade 3 Volume 1, Bài 24 "Gấp một số lên một số lần" (increasing a number by a number of times), printed p. 70 |
+| Multiplying a three-digit number by a one-digit number | Vietnam, Grade 3 Volume 1, Bài 36 "Nhân số có ba chữ số với số có một chữ số" (multiplying a three-digit number by a one-digit number), printed p. 97 |
+| Multiplying a four-digit number by a one-digit number | Vietnam, Grade 3 Volume 2, Bài 56 "Nhân số có bốn chữ số với số có một chữ số" (multiplying a four-digit number by a one-digit number), printed p. 43 |
+| Multiplying a five-digit number by a one-digit number | Vietnam, Grade 3 Volume 2, Bài 70 "Nhân số có năm chữ số với số có một chữ số" (multiplying a five-digit number by a one-digit number), printed p. 94 |
+| Review: the four operations within 100,000 | Vietnam, Grade 4 Volume 1, Bài 2 "Ôn tập các phép tính trong phạm vi 100 000" (review: the four operations within 100,000), printed p. 9 |
+| Multiplying by a one-digit number | Vietnam, Grade 4 Volume 2, Bài 38 "Nhân với số có một chữ số" (multiplying by a one-digit number), printed p. 4 |
+| Multiplying and dividing by 10, 100, 1,000, ... | Vietnam, Grade 4 Volume 2, Bài 41 "Nhân, chia với 10, 100, 1000, …" (multiplying and dividing by 10, 100, 1,000, ...), printed p. 14 |
+| Multiplying by a two-digit number | Vietnam, Grade 4 Volume 2, Bài 43 "Nhân với số có hai chữ số" (multiplying by a two-digit number), printed p. 20 |
+| Review: operations with natural numbers | Vietnam, Grade 5 Volume 1, Bài 2 "Ôn tập các phép tính với số tự nhiên" (review: operations with natural numbers), printed p. 9 |
+| Multiplying and dividing natural numbers | Vietnam, Grade 6 Volume 1, Bài 5 "Phép nhân và phép chia số tự nhiên" (multiplying and dividing natural numbers), printed p. 17 |
 
 | Multiplication as repeated addition; ×2–×5 tables to ×6, then to ×10 (teach corrected: p. 82 “4 butterflies 4 times = 12” — correct 16) | Nepal, Grade 1 student book (English Version, Fifth Edition 2067 BS and Revised Edition 2074 BS), L39–L41, printed pp. 77–92 |
 | Multiplication ×6–×10 tables, ×10, 2-digit × 1-digit without carrying, ×0 | Nepal, Grade 2 English student book (old series, Revised Edition 2074 BS), L13, printed pp. 43–50 |

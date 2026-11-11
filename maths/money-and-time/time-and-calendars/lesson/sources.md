@@ -161,6 +161,14 @@ Every part traces to its book and page.
 **Book 114:** *كتاب الرياضيات للسنة الثالثة الابتدائية* (Mathematics, Grade 3 pupil's book) — Mauritania, IPN, 2025, Arabic, 106 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 115:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 116:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 117:** *Toán 1, Tập Hai* (Mathematics 1, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-19568-5. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 118:** *Toán 2, Tập Một* (Mathematics 2, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-28734-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 119:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 120:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -245,6 +253,15 @@ Every part traces to its book and page.
 | The month and the year | Mauritania, Grade 3 student book, printed p. 29 |
 | Reading the time | Mauritania, Grade 3 student book, printed pp. 52, 84 |
 | Parts of the hour | Mauritania, Grade 5 student book, printed p. 20 |
+| Telling the exact hour on a clock | Vietnam, Grade 1 Volume 2, Bài 34 "Xem giờ đúng trên đồng hồ" (telling the exact hour on a clock), printed p. 72 |
+| The days of the week | Vietnam, Grade 1 Volume 2, Bài 35 "Các ngày trong tuần" (the days of the week), printed p. 76 |
+| Reading calendars and clocks (practice) | Vietnam, Grade 1 Volume 2, Bài 36 "Thực hành xem lịch và giờ" (reading calendars and clocks (practice)), printed p. 80 |
+| Days and hours, hours and minutes | Vietnam, Grade 2 Volume 1, Bài 29 "Ngày – giờ, giờ – phút" (days and hours, hours and minutes), printed p. 112 |
+| Days and months | Vietnam, Grade 2 Volume 1, Bài 30 "Ngày – tháng" (days and months), printed p. 116 |
+| Reading clocks and calendars (practice) | Vietnam, Grade 2 Volume 1, Bài 31 "Thực hành và trải nghiệm xem đồng hồ, xem lịch" (reading clocks and calendars (practice)), printed p. 119 |
+| Telling the time; months and years | Vietnam, Grade 3 Volume 2, Bài 66 "Xem đồng hồ. Tháng – năm" (telling the time; months and years), printed p. 77 |
+| Reading clocks and calendars (practice) | Vietnam, Grade 3 Volume 2, Bài 67 "Thực hành xem đồng hồ, xem lịch" (reading clocks and calendars (practice)), printed p. 81 |
+| Seconds and centuries | Vietnam, Grade 4 Volume 1, Bài 19 "Giây, thế kỉ" (seconds and centuries), printed p. 66 |
 
 | Parts of the day — morning and evening activities at home and at school (no clock reading) | Sudan, Grade 1 Mathematics, printed p. 81 |
 | Days of the week — the seven days listed starting with Friday; order the days and fill the gaps | Sudan, Grade 1 Mathematics, printed p. 83 |

@@ -206,6 +206,10 @@ only: Ghana's set holds no pupil textbook at all.
 **Book 95:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 96:** *Mathematics, Grade 5, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-353-5 (Arabic). Workbook evidence: practice companion to the Grade 5 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 97:** *Mathematics, Grade 6, Workbook (Exercise Book), Term 1* (workbook) — Jordan, National Center for Curriculum Development (NCCD), Amman, ISBN 978-9923-41-355-4 (Arabic). Workbook evidence: practice companion to the Grade 6 student book. Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 98:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 99:** *Bài tập Toán 6, Tập Hai* (Mathematics 6 workbook, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25117-6. Workbook — companion practice evidence only; the held copy is a third-party Blogtailieu.com scan of the genuine NXBGD workbook. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -253,6 +257,10 @@ only: Ghana's set holds no pupil textbook at all.
 | Multiplying and Dividing Fractions by Integers and Decimals | Sierra Leone, JSS 2 Term 1, L14, printed p. 39 |
 | Multiplying and Dividing Indices with Fractional Powers | Sierra Leone, JSS 3 Term 1, L35, printed p. 102 |
 | Multiplication and Division of Fractions | Sierra Leone, SSS 1 Term 1, L3, printed p. 9 |
+| Dividing fractions | Vietnam, Grade 4 Volume 2, Bài 64 "Phép chia phân số" (dividing fractions), printed p. 91 |
+| Review: operations with fractions | Vietnam, Grade 5 Volume 1, Bài 5 "Ôn tập các phép tính với phân số" (review: operations with fractions), printed p. 16 |
+| Multiplying and dividing fractions | Vietnam, Grade 6 Volume 2, Bài 26 "Phép nhân và phép chia phân số" (multiplying and dividing fractions), printed p. 19 |
+| Workbook practice: fractions — exercise sets for Bài 23–27 | Vietnam, Grade 6 workbook (Bài tập Toán 6, Tập Hai), Chương VI Phân số — exercise sets for Bài 23–27 (practice), printed p. 4 |
 
 | Fraction × fraction: area model, top × top, bottom × bottom, cancel first | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |
 | Dividing fractions: multiply by the reciprocal; the rule derived from a rectangle | South Sudan, Student's Book 1, Unit 1, printed pp. 6–16 |

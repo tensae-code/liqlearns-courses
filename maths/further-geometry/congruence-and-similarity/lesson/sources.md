@@ -223,6 +223,8 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 **Book 117:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 118:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 119:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 120:** *Toán 8, Tập Một* (Mathematics 8, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35041-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -288,6 +290,10 @@ Ministry of Education. Filed in maths/books/greece.md (FULLY READ
 | Projection dans le plan | Mauritania, 3AS, printed p. 167 |
 | Thalès | Mauritania, 3AS, printed p. 175 |
 | Théorème de Thalès | Mauritania, 4AS, Ch. 11, printed p. 152 |
+| Thales' theorem in a triangle | Vietnam, Grade 8 Volume 1, Bài 15 "Định lí Thalès trong tam giác" (Thales' theorem in a triangle), printed p. 72 |
+| The midline of a triangle | Vietnam, Grade 8 Volume 1, Bài 16 "Đường trung bình của tam giác" (the midline of a triangle), printed p. 81 |
+| The angle-bisector property in a triangle | Vietnam, Grade 8 Volume 1, Bài 17 "Tính chất đường phân giác của tam giác" (the angle-bisector property in a triangle), printed p. 84 |
+| Similarity cases for two right triangles | Vietnam, Grade 8 Volume 2, Bài 36 "Các trường hợp đồng dạng của hai tam giác vuông" (similarity cases for two right triangles), printed p. 97 |
 
 | Congruence and similarity through leaves, books and photos; paper aeroplane; the game of four sticks; the three congruence conditions for triangles (two sides + included angle; three sides; two angles + adjacent side) found by construction (printed pp. 125–132); similarity conditions for triangles and quadrilaterals (printed pp. 136–140) | Bangladesh, *Mathematics, Class Seven*, Exp 6 Congruence and Similarity, printed pp. 125–140 |
 | Similar triangles; Pythagoras' theorem; ratios in triangles; quadrilaterals | Bangladesh, *Mathematics, Class Eight*, Exp 5 Triangles and Quadrilaterals, printed pp. 93–124 |

@@ -1,6 +1,6 @@
 # Sources — Parts of a Sphere
 
-countries: Tajikistan, Armenia, Libya
+countries: Tajikistan, Armenia, Libya, Vietnam
 
 Every part traces to its book and page.
 
@@ -8,6 +8,8 @@ Every part traces to its book and page.
 **Book 2:** *Geometry 11* (student book) — Armenia, Saribek Elibeki Hakobyan, Zangak. Filed in maths/books/armenia.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 3:** *Mathematics, Grade 9 pupil's book* (student book; third year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
+**Book 4:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,8 +22,11 @@ Every part traces to its book and page.
 | Surface area of the spherical surface | Armenia, Geometry 11, §3.4, printed p. 29 |
 | Surface area of a sphere (§5-5) | Libya, Grade 9 pupil's book, §5-5, printed p.120 |
 | Volume of a sphere (§6-5) | Libya, Grade 9 pupil's book, §6-5, printed p.121 |
+| Spheres | Vietnam, Grade 9 Volume 2, Bài 32 "Hình cầu" (spheres), printed p. 105 |
 
-**Acceptance count: taught in 3 countries (Tajikistan, Armenia, Libya).**
+**Acceptance count: taught in 4 countries (Tajikistan, Armenia, Libya, Vietnam).**
+
+Vietnam joins with the sphere in Grade 9 Volume 2 (Bài 32). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
 Libya carries the surface area and volume of a sphere in Grade 9, Chapter 5 (stocked by the 2026-11-08 re-verification sweep).
 

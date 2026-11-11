@@ -445,6 +445,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 254:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 255:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 256:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 257:** *Toán 2, Tập Một* (Mathematics 2, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-28734-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 258:** *Toán 2, Tập Hai* (Mathematics 2, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25142-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 259:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 260:** *Toán 5, Tập Một* (Mathematics 5, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39223-7. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -462,7 +470,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Measuring length, centimetre (p.60); measuring and weighing (p.122) | Kazakhstan, Grade 1 Part 1, pp.60, 118–124 |
 | How do we measure mass? (p.6); comparing objects by volume (p.10); how do we measure volume? (p.14) | Kazakhstan, Grade 1 Part 2, Section 3, pp.6–18 |
 | Units of length — non-standard units (Bài 26) | Vietnam, Toán 1 v2, Bài 26 |
-| Some units of length, mass, capacity, temperature (Theme 4, p.56): traditional mass units yến, tạ, tấn (Bài 17, p.56) | Vietnam, Toán 3 v1, Theme 4, pp.56–61 |
+| Traditional mass units: yến, tạ, tấn (Bài 17) | Vietnam, Grade 4 Volume 1, Bài 17 "Yến, tạ, tấn" (traditional mass units: yến, tạ, tấn), printed p. 56 |
 | Mass: comparing two things (p.21); finding mass in units (p.25); no ruler, centimetre, kilogram or litre units in Grade 1 | Libya, Grade 1 Pupil's Book Part 2, Unit 11, pp.21–26 |
 | Measuring in kilograms (p.66); comparing mass in kilograms (p.68); measuring in grams (p.70); comparing mass in grams (p.72); adding and subtracting mass (p.74) | Libya, Grade 2 Pupil's Book Part 1, Unit 5, pp.66–76 |
 | Measuring in litres (p.79); comparing volumes in litres (p.80); adding and subtracting volumes (p.82) | Libya, Grade 2 Pupil's Book Part 2, Unit 13, pp.75–82 |
@@ -592,6 +600,21 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | The (decimal) dial/scale (الدواليب) | Mauritania, Grade 5 student book, printed p. 40 |
 | Density (الكتلة الحجمية) | Mauritania, Grade 6 student book, printed p. 83 |
 | Capacity units | Mauritania, Grade 6 student book, printed p. 156 |
+| Longer, shorter | Vietnam, Grade 1 Volume 2, Bài 25 "Dài hơn, ngắn hơn" (longer, shorter), printed p. 28 |
+| Estimating and measuring length (practice) | Vietnam, Grade 1 Volume 2, Bài 26 "Đơn vị đo độ dài" (estimating and measuring length (practice)), printed p. 32 |
+| The kilogram | Vietnam, Grade 2 Volume 1, Bài 15 "Ki-lô-gam" (the kilogram), printed p. 57 |
+| The litre | Vietnam, Grade 2 Volume 1, Bài 16 "Lít" (the litre), printed p. 62 |
+| Working with kilograms and litres (practice) | Vietnam, Grade 2 Volume 1, Bài 17 "Thực hành và trải nghiệm với các đơn vị ki-lô-gam, lít" (working with kilograms and litres (practice)), printed p. 66 |
+| Decimetre, metre, kilometre | Vietnam, Grade 2 Volume 2, Bài 55 "Đề-xi-mét. Mét. Ki-lô-mét" (decimetre, metre, kilometre), printed p. 65 |
+| Measuring length (practice) | Vietnam, Grade 2 Volume 2, Bài 57 "Thực hành và trải nghiệm đo độ dài" (measuring length (practice)), printed p. 73 |
+| The millimetre | Vietnam, Grade 3 Volume 1, Bài 30 "Mi-li-mét" (the millimetre), printed p. 85 |
+| The gram | Vietnam, Grade 3 Volume 1, Bài 31 "Gam" (the gram), printed p. 87 |
+| The millilitre | Vietnam, Grade 3 Volume 1, Bài 32 "Mi-li-lít" (the millilitre), printed p. 89 |
+| Working with millimetres, grams, millilitres and degrees Celsius (practice) | Vietnam, Grade 3 Volume 1, Bài 34 "Thực hành và trải nghiệm với các đơn vị mi-li-mét, gam, mi-li-lít, độ C" (working with millimetres, grams, millilitres and degrees Celsius (practice)), printed p. 93 |
+| Using units of measure (practice) | Vietnam, Grade 4 Volume 1, Bài 20 "Thực hành và trải nghiệm sử dụng một số đơn vị đo đại lượng" (using units of measure (practice)), printed p. 69 |
+| Review: geometry and measurement | Vietnam, Grade 5 Volume 1, Bài 8 "Ôn tập hình học và đo lường" (review: geometry and measurement), printed p. 26 |
+| Writing measurements as decimal numbers | Vietnam, Grade 5 Volume 1, Bài 12 "Viết số đo đại lượng dưới dạng số thập phân" (writing measurements as decimal numbers), printed p. 42 |
+| Working with units of measure (practice) | Vietnam, Grade 5 Volume 1, Bài 17 "Thực hành và trải nghiệm với một số đơn vị đo đại lượng" (working with units of measure (practice)), printed p. 60 |
 
 | Length (metre/centimetre, 1 m = 100 cm, ruler use); weight (kg/g, 1 kg = 1000 g); volume of liquid (litre); time (analogue/digital clock, days, months) | Bangladesh, *Elementary Mathematics, Class Two*, Ch 5 Measurement, printed pp. 107–120 |
 | Length (mm/cm/m/km conversions); weight (kg/g); time (seconds/minutes/hours, quarter past/half past, durations) | Bangladesh, *Elementary Mathematics, Class Three*, Ch 11 Measurement, printed pp. 110–122 |

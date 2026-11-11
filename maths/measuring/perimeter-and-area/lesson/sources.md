@@ -443,6 +443,12 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 231:** *الرياضيات 4* (Mathematics, Grade 4 pupil's book) — Mauritania, IPN, Arabic, 165 pp; authors Ahmed Arouiha, Dr Mohamed El Amin El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 232:** *الرياضيات 5* (Mathematics, Grade 5 pupil's book) — Mauritania, IPN, Arabic, 112 pp; authors A. Arouiha, Dr M. El Amin El Ghazali, M. Sid Ahmed Dahi et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 233:** *الرياضيات 6، كتاب التلميذ* (Mathematics, Grade 6 pupil's book) — Mauritania, IPN, Arabic, 208 pp; coordinator Dr Mohamed El Amin Ismail El Ghazali et al. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 234:** *Toán 3, Tập Hai* (Mathematics 3, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30707-1. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 235:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 236:** *Toán 6, Tập Một* (Mathematics 6, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-25151-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -556,6 +562,13 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Area of the square and of the triangle | Mauritania, Grade 5 student book, printed pp. 64, 89 |
 | Area units: the square metre, its parts and multiples | Mauritania, Grade 6 student book, printed pp. 167, 169 |
 | Areas: square, rectangle, triangle, parallelogram, rhombus, trapezium | Mauritania, Grade 6 student book, printed pp. 173, 175, 177, 179, 182, 184 |
+| Perimeters of triangles, quadrilaterals, rectangles and squares | Vietnam, Grade 3 Volume 2, Bài 50 "Chu vi hình tam giác, hình tứ giác, hình chữ nhật, hình vuông" (perimeters of triangles, quadrilaterals, rectangles and squares), printed p. 21 |
+| Area of a shape; the square centimetre | Vietnam, Grade 3 Volume 2, Bài 51 "Diện tích của một hình. Xăng-ti-mét vuông" (area of a shape; the square centimetre), printed p. 26 |
+| Area of a rectangle and of a square | Vietnam, Grade 3 Volume 2, Bài 52 "Diện tích hình chữ nhật, diện tích hình vuông" (area of a rectangle and of a square), printed p. 30 |
+| Square decimetre, square metre, square millimetre | Vietnam, Grade 4 Volume 1, Bài 18 "Đề-xi-mét vuông, mét vuông, mi-li-mét vuông" (square decimetre, square metre, square millimetre), printed p. 60 |
+| Square kilometres and hectares | Vietnam, Grade 5 Volume 1, Bài 15 "Ki-lô-mét vuông. Héc-ta" (square kilometres and hectares), printed p. 53 |
+| Units of area | Vietnam, Grade 5 Volume 1, Bài 16 "Các đơn vị đo diện tích" (units of area), printed p. 56 |
+| Perimeter and area of some quadrilaterals | Vietnam, Grade 6 Volume 1, Bài 20 "Chu vi và diện tích của một số tứ giác đã học" (perimeter and area of some quadrilaterals), printed p. 90 |
 
 | Length and perimeter; area of a rectangle = length × width, of a square = side × side; 1 m² = 10,000 cm² | Bangladesh, *Elementary Mathematics, Class Four*, Ch 10 Measurement, printed pp. 121–133 |
 | Area of rectangles, parallelograms and triangles | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.4–11.6, printed pp. 115–132 |

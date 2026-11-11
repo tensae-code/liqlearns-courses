@@ -135,6 +135,10 @@ Every part traces to its book and page.
 **Book 90:** *Mathematics, Grade 7 pupil's book* (student book; first year preparatory) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 91:** *Mathematics, Grade 6, Student Book, Term 2* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-376-0, National Library deposit no. 2022/4/2063 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
 **Book 92:** *Mathematics, Grade 7, Student Book, Term 1* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman, 2nd edition, enlarged and revised, ISBN 978-9923-41-356-2, National Library deposit no. 2022/4/2031 (Arabic; prepared originally in English by HarperCollins Publishers). Filed in maths/books/jordan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 93:** *Toán 3, Tập Một* (Mathematics 3, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30706-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 94:** *Toán 7, Tập Một* (Mathematics 7, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30715-6. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -174,6 +178,8 @@ Every part traces to its book and page.
 | Four operations exercises; inverse operations and brackets | Albania, Libër Mësuesi Matematika 5 (teacher's book — teacher evidence), printed p. 22 |
 | .4 Powers, roots and brackets: order of operations with powers and roots (plan 4) | Albania, Libër Mësuesi Matematika 8 (teacher's book — teacher evidence), printed p. 19 |
 | Order of operations: brackets first, powers, multiplication/division, addition/subtraction | Tajikistan, Математика (Grade 5), printed p. 96 |
+| Number expressions and their values | Vietnam, Grade 3 Volume 1, Bài 38 "Biểu thức số. Tính giá trị của biểu thức số" (number expressions and their values), printed p. 104 |
+| Order of operations; the transposition rule | Vietnam, Grade 7 Volume 1, Bài 4 "Thứ tự thực hiện các phép tính. Quy tắc chuyển vế" (order of operations; the transposition rule), printed p. 20 |
 
 | Simplification: brackets, then multiplication, then addition/subtraction (5+2−3 = 4; 65−25+17 = 57; 60−10×5 = 10; 15×3+7 = 52; (18+22)−20 = 20; 70+(8−2) = 76) | Nepal, Grade 4 student book (English Version 2067 BS), L3 §3.7, printed pp. 26–42 |
 | BODMAS / order of operations, brackets (teach corrected: p. 36 prints 5 + 8×2 − (5−2) = 8 — correct 18) | Nepal, Grade 5 student book (Revised Edition 2066 BS), Unit 3, printed pp. 34–38 |

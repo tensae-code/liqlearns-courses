@@ -159,7 +159,7 @@ Every part traces to its book and page.
 | Integers introduced very late (Term 4), motivated by temperature and money columns before any rules; number-line rules; properties re-tested on negatives | South Africa, Grade 7 Book 2, WS105–113, pp. 90–107 |
 | Positive and negative numbers: rationals and the number line, absolute value, opposites, comparison, the four operations on rationals | Greece, Grade 7, Ch. 7, pp. 113–146 |
 | Subtracting a natural from a negative (4.5, p. 111); negative fractions in the rational-numbers chapter (6.1) | Armenia, Grade 6 (Qarakusi 2024), Ch. 4 and Ch. 6 |
-| Integers, including negative fractions (Bài 23 extends fractions to negative numerators/denominators) | Vietnam, Grade 6, Tập Một, integers chapter, incl. Bài 23 |
+| Integers — the integer set, addition and subtraction of integers, the bracket rule, multiplication of integers, divisibility, divisors and multiples (Bài 13–17) | Vietnam, Grade 6, Tập Một, integers chapter (Chương III, Bài 13–17) |
 | Integer review on a number line (verified: −5 + 3 = −2; −1 − 3 = −4; −1 + 8 = 7); the printed sample "−3 + 4 = −1" is wrong (correct: 1) and is named only as a mistake to spot — teacher-manual evidence, no pupil textbook in Ghana's set | Ghana, JICA Basic 5 teacher manual, L79 |
 | Integers: Z, Z₊, Z₋, 0 neither positive nor negative, N ⊂ Z, the number line, opposites, absolute value as distance from 0, comparing integers | Laos, Grade 6 student book, L2, printed pp. 10–16 |
 | Addition and subtraction of integers, walks on the number line, a − b = a + (−b), removing brackets, simple equations | Laos, Grade 6 student book, L4, printed pp. 25–32 |

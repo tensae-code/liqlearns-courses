@@ -258,6 +258,8 @@ Every part traces to its book and page.
 **Book 183:** *Mathématiques 6ème AS, série C* — Mauritania, IPN, French, 212 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 184:** *Mathématiques 6ème SN* (6AS, série D pupil's book) — Mauritania, IPN, French, 172 pp; by Daouda Abdoul Diop, Ely Abdella. Note: this book's sommaire runs 2 pages short throughout; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 185:** *كتاب الرياضيات للسنة السادسة آداب أصلية* (Mathematics, 6AS lettres originales pupil's book, 2020 programme) — Mauritania, IPN, Arabic, 64 pp. Note: its contents run 2 pages short at chapter starts; citations use body pages. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 186:** *Toán 4, Tập Một* (Mathematics 4, Volume 1) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35031-2. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -365,6 +367,7 @@ Every part traces to its book and page.
 | Polynômes et fractions rationnelles | Mauritania, 6AS-C, Ch. 1, printed p. 7 |
 | Polynômes et fractions rationnelles | Mauritania, 6AS-D, Ch. I, body p. 9 |
 | Second-degree polynomials (حدودات الدرجة الثانية) | Mauritania, 6AS-LO, Ch. 2, body p. 23 |
+| Expressions containing a letter | Vietnam, Grade 4 Volume 1, Bài 4 "Biểu thức chứa chữ" (expressions containing a letter), printed p. 14 |
 
 | Like and unlike terms; collecting like terms; forming and simplifying expressions | South Sudan, Pupil's Book 4, 4.1–4.3 Like and unlike terms; algebraic problems involving addition and subtraction; formation and simplification of algebraic expressions, printed pp. 70–78; South Sudan, Pupil's Book 6, 4.2 Simplify algebraic equations, printed pp. 64–70; South Sudan, Pupil's Book 7, 4.1–4.3 Simplify algebraic expressions; evaluating expressions by substitution; forming and solving algebraic equations, printed pp. 52–58; South Sudan, Pupil's Book 8, 4.1–4.2 Simplifying algebraic expressions; word statements into algebraic expressions, printed pp. 65–68 |
 | Simplifying expressions, substitution, expansion, factorising; algebraic expressions and quadratic expressions | South Sudan, Student's Book 1, Unit 4, printed pp. 90–102; South Sudan, Student's Book 2, algebraic expressions, printed pp. 33–37 |

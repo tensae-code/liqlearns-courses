@@ -370,6 +370,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 181:** *Mathématiques 2ème AS* (Grade 8 pupil's book) — Mauritania, IPN, French, 164 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 182:** *Mathématiques 3ème AS* (Grade 9 pupil's book) — Mauritania, IPN, French, 300 pp; authors Mohameden O/ Bah, Mohameden O/ El Hadi. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
 **Book 183:** *Mathématiques 4ème AS, Manuel de l'élève* (Grade 10 pupil's book) — Mauritania, IPN, French, 271 pp. Filed in maths/books/mauritania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 184:** *Toán 7, Tập Hai* (Mathematics 7, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-30716-3. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 185:** *Toán 8, Tập Hai* (Mathematics 8, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35042-8. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 186:** *Toán 9, Tập Hai* (Mathematics 9, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-39237-4. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
+**Book 187:** *Toán 11, Tập Hai* (Mathematics 11, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35080-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
+
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -504,6 +512,14 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Pyramide et cône de révolution | Mauritania, 3AS, printed p. 271 |
 | Pyramide | Mauritania, 4AS, Ch. 16, printed p. 240 |
 | Cône de révolution | Mauritania, 4AS, Ch. 17, printed p. 254 |
+| Calculating and estimating volumes of solids (practice) | Vietnam, Grade 5 Volume 2, Bài 54 "Thực hành tính toán và ước lượng thể tích một số hình khối" (calculating and estimating volumes of solids (practice)), printed p. 58 |
+| Cuboids and cubes | Vietnam, Grade 7 Volume 2, Bài 36 "Hình hộp chữ nhật và hình lập phương" (cuboids and cubes), printed p. 85 |
+| Triangular and quadrilateral right prisms | Vietnam, Grade 7 Volume 2, Bài 37 "Hình lăng trụ đứng tam giác và hình lăng trụ đứng tứ giác" (triangular and quadrilateral right prisms), printed p. 91 |
+| Regular triangular pyramids | Vietnam, Grade 8 Volume 2, Bài 38 "Hình chóp tam giác đều" (regular triangular pyramids), printed p. 112 |
+| Regular quadrilateral pyramids | Vietnam, Grade 8 Volume 2, Bài 39 "Hình chóp tứ giác đều" (regular quadrilateral pyramids), printed p. 119 |
+| Cylinders and cones | Vietnam, Grade 9 Volume 2, Bài 31 "Hình trụ và hình nón" (cylinders and cones), printed p. 97 |
+| Spheres | Vietnam, Grade 9 Volume 2, Bài 32 "Hình cầu" (spheres), printed p. 105 |
+| Volume | Vietnam, Grade 11 Volume 2, Bài 27 "Thể tích" (volume), printed p. 61 |
 
 | Volume in litres and cubic units (volume of solids by formula is NOT taught here) | Bangladesh, *Elementary Mathematics, Class Five*, Ch 11 Measurement §11.3, printed pp. 115–132 |
 | Measuring the planes of a box; making 3-D models | Bangladesh, *Mathematics, Class Six*, Ch 10 The Story of Geometric Shapes, printed pp. 190–221 |
