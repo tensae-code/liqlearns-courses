@@ -394,7 +394,7 @@ Every part traces to its book and page.
 | Comparing and ordering 3-digit numbers (teacher evidence) | Ethiopia, Grade 2 teacher guide (teacher evidence), ch. 1 — numbers to 1000, printed pp. 1–11 |
 | Comparing and ordering to 10,000 (teacher evidence) | Ethiopia, Grade 3 teacher guide (teacher evidence), ch. 1 — numbers to 10,000, printed pp. 1–10 |
 | Comparing and ordering whole numbers to 1,000,000 (teacher evidence) | Ethiopia, Grade 4 teacher guide (teacher evidence), ch. 1 — whole numbers, printed pp. 1–15 |
-| Ascending and descending order (the printed answer rows omit 10 — include 10) | South Sudan, Pupil's Book 1, 1.4, printed pp. 44–45 |
+| Ascending and descending order (the printed answer rows omit 10 — include 10); bigger and smaller | South Sudan, Pupil's Book 1, 1.2 (bigger/smaller, printed p. 27) and 1.4, printed pp. 44–45 |
 | Ordering 3-digit numbers | South Sudan, Pupil's Book 2, 1.3, printed pp. 6–8 |
 | Comparing and ordering to 4 digits | South Sudan, Pupil's Book 3, 1.4, printed pp. 9–12 |
 | Comparing and ordering to 5 digits (4263 > 4193) | South Sudan, Pupil's Book 4, 1.1, printed pp. 1–8 |

@@ -1,6 +1,6 @@
 # Sources — Linear Programming
 
-countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan
+countries: Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan
 
 Every part traces to its book and page.
 
@@ -23,6 +23,7 @@ On Malaysia in this lesson: Malaysia's Additional Mathematics Form 5 is the firs
 **Book 13:** *Optional Mathematics, Grade 9* — Nepal, CDC, Sanothimi, First Edition 2082 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 14:** *Optional Mathematics, Grade 10* — Nepal, CDC, Sanothimi, First Edition 2083 BS. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 15:** *College Mathematics: Calculus & Analytic Geometry, Intermediate Part-II* (PRIVATE — commercial notes book) — Pakistan (Punjab), Pearl Educational College Publishing Co., Lahore, first published 2013, English-medium; authors Farukh Mahmood and Tahir Kamran Ranjha. This is the file the library actually holds as its Class 12 Mathematics book: it is not the PCTB textbook — its own preface calls it "a complete replacement of text book" — and it is cited in its own right in the table below, labelled PRIVATE wherever it appears. No PCTB Class 12 row stands in this lesson; the PCTB text's own Chapter 5 (linear inequalities and linear programming) is cited from the eLearn.Punjab digital edition, version 1.1, in the inequalities lesson, and the library does not hold that PCTB file. Its identity was proved from the held file itself (cover, imprint and contents read directly) by the 2026-11-08 re-verification sweep. Filed in maths/books/pakistan.md.
+**Book 16:** *Secondary Mathematics — Student's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: linear programming is Lesson 3 of Nepal's Grade 10 Optional book; the Grade 9 Optional book's §1.3 supplies the linear inequalities in one and two variables, with graphs, that it builds on.
 
@@ -73,7 +74,8 @@ On Nepal in this lesson: linear programming is Lesson 3 of Nepal's Grade 10 Opti
 | Linear inequalities in one and two variables, with graphical representation | Nepal, Grade 9 Optional student book, §1.3, printed p. 51 |
 | Linear programming: linear inequalities, systems, solving LP problems | Nepal, Grade 10 Optional student book, Lesson 3, printed p. 26 |
 | Linear inequalities and linear programming — the held Class 12 notes book's worked treatment | Pakistan (Punjab), Class 12 *College Mathematics* (Pearl Educational, 2013) — PRIVATE commercial notes book, not the PCTB textbook, Unit 5, printed pp. 326–367 |
-**Acceptance count: taught in 13 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
+| Linear inequalities and linear programming by graphs | South Sudan, Student's Book 4, Unit 3, printed p. 46 |
+**Acceptance count: taught in 14 countries (Malaysia, Sudan, India, Mongolia, Venezuela, Ecuador, Egypt, Ethiopia, Jordan, Vietnam, Kuwait, Nepal, Pakistan, South Sudan).** Malaysia's Additional Mathematics Form 5 carries the full method in its linear-programming section; the other read countries stop at inequalities and systems of equations, so this lesson is built at that honest size.
 
 Vietnam carries linear programming in its Grade 12 study book — using systems of linear inequalities in two unknowns to solve linear-programming problems (Chuyên đề 2 Bài 3). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -93,3 +95,5 @@ Egypt enters through its Secondary 1 Term 2 book (Arabic edition), stocked by th
 Ethiopia enters through its Grade 12 student book's Unit 4, Introduction to Linear Programming — graphical solutions of systems of linear inequalities (printed p. 239), maximum and minimum values (printed p. 260) and applications (printed p. 274) — with its Grade 12 teacher guide's Unit 4 as teacher evidence (guide pp. 153–218). The old filing had read the unit, but no lesson had cited it until the 2026-11-08 re-verification sweep stocked it here.
 
 Pakistan (Punjab) enters through the file the library actually holds for Class 12 — Pearl Educational's *College Mathematics* notes book (PRIVATE — a commercial notes book, not the PCTB textbook), Unit 5, printed pp. 326–367. The PCTB Class 12 text's own Chapter 5 (linear inequalities and linear programming) is cited from the eLearn.Punjab v1.1 copy in the inequalities lesson; the library does not hold that PCTB file. Stocked 2026-11-11 by the Pakistan re-verification sweep merge.
+
+South Sudan enters through its Secondary 4 student's book: linear inequalities and linear programming by graphs (Unit 3, printed p. 46).

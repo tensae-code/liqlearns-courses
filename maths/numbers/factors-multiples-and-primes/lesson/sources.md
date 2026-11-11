@@ -192,6 +192,7 @@ Every part traces to its book and page.
 **Book 141:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 142:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 143:** *Shikshak Nirdeshika, Anivarya Ganit Kaksha 10 (Teacher Guide — Compulsory Mathematics, Class 10)* — Nepal, CDC, Sanothimi. TEACHER EVIDENCE — the true companion to the Grade 10 student book: the same 18 units in the same order, with objectives, period allocations and teaching activities for each. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 144:** *Primary Mathematics — Teacher's Guide 5* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: it mirrors Pupil's Book 5, with lesson plans and keys; its contents (guide printed p. 11) names the divisibility tests '3, 4, 6 and 8' where the pupil's book teaches 3, 4, 6 and 9 — the pupil book governs.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -603,6 +604,7 @@ Every part traces to its book and page.
 | Highest common factor and lowest common multiple | Nepal, Grade 9 student book, Unit 10, printed p. 197 |
 | Highest common factor and lowest common multiple | Nepal, Grade 10 student book, Unit 8, printed p. 99 |
 | Teacher evidence — Grade 10 companion guide | Nepal, Grade 10 teacher guide — facilitation for the Grade 10 student book's Unit 8, HCF and LCM |
+| TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 5 (teacher evidence); the guide's contents names the divisibility tests '3, 4, 6 and 8' — the pupil's book teaches 3, 4, 6 and 9, and the pupil book governs | South Sudan, Primary Mathematics — Teacher's Guide 5, whole guide (teacher evidence) |
 **Sub lesson map (added 2026-11-08, whole-arc rule):** the
 rows above already stocked the divisibility tests and the
 Euclidean GCD; the text now teaches them. Sub lesson 2

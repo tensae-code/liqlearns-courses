@@ -461,6 +461,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 265:** *Mathematics — Teacher's Guide, Year 2 Primary* (English edition, teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2020. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with lesson guidance and answers to every pupil-book activity and end-of-unit assessment. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 266:** *Imibare — Igitabo cy'Umwarimu, Umwaka wa 2* (Kinyarwanda original of the Year 2 teacher's guide) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Teacher evidence: a true companion — it mirrors the Year 2 pupil's book unit for unit (verified from its own contents), with unit lesson lists and answers to all pupil-book exercises and unit assessments. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 267:** *Primary Mathematics — Teacher's Guide 8* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: it mirrors Pupil's Book 8, with lesson plans and keys; its key to the pupil book's §2.6 Exercise 10 is wrong in 6 of 10 answers and is relied on nowhere (the pupil book alone is cited for that exercise, in speed-distance-and-time).
 
 
 | Lesson part | Where it comes from |
@@ -1162,6 +1163,10 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Workbook practice: measurement (T2 U9) | Jordan, Grade 4 Workbook Term 2, Unit 9 (workbook evidence) |
 | TEACHER EVIDENCE: guidance from a partial copy of the Grade 4 Term 2 guide material | Jordan, Grade 4 Teacher Guide Term 2, fragment copy (teacher evidence) |
 | Workbook practice: measurement (T2 U9) | Jordan, Grade 5 Workbook Term 2, Unit 9 (workbook evidence) |
+| Conversion of length (inside the geometry unit) | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 3 §3.7, printed p. 56 |
+| Converting m³ to cm³ | South Sudan, Primary Mathematics — Pupil's Book 8, Unit 2 §2.4, printed p. 39 |
+| Capacity — volume and capacity | South Sudan, Secondary Mathematics — Student's Book 1, Unit 2, printed p. 45 |
+| TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 8 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 8, whole guide (teacher evidence) |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).**.** Sierra Leone carries the cleanest Iran compares longer and shorter and heavier and lighter in Grade 1 — the heavier-marking activity is at printed p. 168 — reads the clock there too, and measures length in centimetres and millimetres in Grade 2.
 single ladder — length, mass and volume distinguished, then the

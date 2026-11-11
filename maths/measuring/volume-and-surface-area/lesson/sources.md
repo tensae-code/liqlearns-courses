@@ -379,6 +379,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 **Book 187:** *Toán 11, Tập Hai* (Mathematics 11, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35080-0. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 188:** *Mathematics, Grade 6 student book* (ریاضی, code 605) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 11th printing 1405, ISBN 978-964-05-2491-6. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 189:** *Mathematics, Grade 5, Term 2 student book* — Kuwait, Ministry of Education, 1st edition 1447 AH / 2025–2026. Filed in maths/books/kuwait.md (FULLY READ + CITATION CHECK PASSED).
+**Book 190:** *Secondary Mathematics — Student's Book 2* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 
 | Lesson part | Where it comes from |
@@ -788,6 +789,7 @@ READ + CITATION CHECK PASSED 2026-11-05).
 | Volume of a sphere (§6-5) | Libya, Grade 9 pupil's book, §6-5, printed p.121 |
 | Volume of the quadrilateral prism and its surface area | Jordan, Grade 6 Student Book Term 2, Unit 7, Lesson 5, printed p. 108 |
 | Workbook practice: geometry and measurement (T2 U7) | Jordan, Grade 6 Workbook Term 2, Unit 7 (workbook evidence) |
+| Review of surface area of shapes | South Sudan, Secondary Mathematics — Student's Book 2, Unit 2, printed p. 19 |
 
 **Acceptance count: taught in 41 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Turkey).**.** Sierra Leone carries the cleanest Iran gives the cuboid's volume in Grade 5, prism volumes and the cylinder's lateral area in Grade 7, and the sphere, pyramid and cone in Grade 9; its Grade 10 Geometry (1) treats the solids themselves without computing their volumes.
 ladder — cubes, prisms and cylinders by cross-section × height,

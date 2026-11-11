@@ -377,6 +377,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 **Book 219:** *Mathematics, Grade 7 student book* (ریاضی, code 705) — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 14th printing 1405, ISBN 978-964-05-2242-4. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 220:** *Imibare — Igitabo cy'umunyeshuri — Umwaka wa 2* (Kinyarwanda original of the Year 2 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 221:** *Primary Mathematics — Teacher's Guide 4* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: it mirrors Pupil's Book 4 section by section, with lesson plans, methods and answer keys, and teaches no pupil content beyond it.
 
 
 | Lesson part | Where it comes from |
@@ -819,6 +820,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: geometry (T1 U5) | Jordan, Grade 4 Workbook Term 1, Unit 5 (workbook evidence) |
 | Workbook practice: geometry (T2 U8) | Jordan, Grade 5 Workbook Term 2, Unit 8 (workbook evidence) |
 | Workbook practice: angles, polygons, transformations (T1 U4) | Jordan, Grade 7 Workbook Term 1, Unit 4 (workbook evidence) |
+| TEACHER EVIDENCE: lesson plans and keys for Pupil's Book 4 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 4, whole guide (teacher evidence) |
 
 **Acceptance count: taught in 43 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Turkey, Tanzania).** Egypt carries the fullest single Iran measures angles with a protractor in Grade 4, bisects angles and sums polygon angles in Grade 5, and gives the (n − 2) × 180° interior-angle rule in Grade 8.
 treatment — the angle kinds, the protractor, complementary and

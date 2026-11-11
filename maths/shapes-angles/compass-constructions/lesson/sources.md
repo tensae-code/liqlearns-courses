@@ -1,6 +1,6 @@
 # Sources — Constructions with ruler and compass
 
-countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal
+countries: Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, Ghana, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan
 
 Every part traces to its book and page.
 
@@ -87,6 +87,8 @@ Every part traces to its book and page.
 **Book 58:** *Mathematics (2), Grade 11, Experimental Sciences branch* — Iran, Organization for Educational Research and Planning (OERP), Ministry of Education, Persian, 10th printing 1405, ISBN 978-964-05-2780-1. Filed in maths/books/iran.md (FULLY READ + CITATION CHECK PASSED).
 **Book 59:** *Mathematics, Class 9* — Nepal, CDC, Sanothimi, First Edition BS 2079, ISBN 978-9937-601-___ (incomplete as printed, trailing group blank). Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 **Book 60:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 61:** *Primary Mathematics — Pupil's Book 5* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
+**Book 62:** *Primary Mathematics — Pupil's Book 6* — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: construction is a named unit in both of Nepal's senior compulsory books — Grade 9 Unit 15 and Grade 10 Unit 14.
 
@@ -233,7 +235,9 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Geometric constructions | Jordan, Grade 6 Student Book Term 1, Unit 4, Lesson 5, printed p. 117 |
 | Construction | Nepal, Grade 9 student book, Unit 15, printed p. 284 |
 | Construction | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
-**Acceptance count: taught in 28 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
+| Constructing parallel lines | South Sudan, Pupil's Book 5, §3.1, printed p. 46 |
+| Constructing a circle of a given radius | South Sudan, Pupil's Book 6, §3.3, printed p. 43 |
+**Acceptance count: taught in 29 countries (Sierra Leone, Laos, Iran, Armenia, Pakistan, Bangladesh, Kuwait, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Albania, Tajikistan, Palestine, Turkey, South Africa, Kazakhstan, Libya, Jordan, Mauritania, Nepal, South Sudan)**.** North Macedonia enters from its main set — Grade 6 (2023) and Grade 7 (2025).
 
 Libya carries geometric constructions in Grade 8, Chapter 3 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -267,3 +271,5 @@ Palestine enters through the pupil's books of its Ministry of Education (Curricu
 Turkey enters through the pupil's textbooks of its Millî Eğitim Bakanlığı (MEB — Ministry of National Education), all in Turkish, first volumes (1. Kitap) only — Grade 3 (ISBN 978-975-11-9897-6, TTKB approval 13/07/2026), Grade 6 (ISBN 978-975-11-8773-4, TTKB approval 30.06.2025) and Grade 7 (ISBN 978-975-11-9899-0, TTKB approval 1.07.2026); no edition, printing or year line is printed in any of the three books, and the grades' second volumes (2. Kitap) are not in hand and are cited nowhere. From its books: from Grade 7: Perpendicular bisector introduced through symmetry: the symmetry axis of a segment is its perpendicular bisector; Constructing a segment's symmetry axis with compass and unmarked ruler: equal circles centred at the endpoints, joined intersection points; Perpendicular bisector defined: a line, ray or segment that cuts a segment at right angles into two equal parts; Constructing an angle's symmetry axis by first building the perpendicular bisector of the chord joining equal-distance points on the arms.
 
 Armenia's stock in this lesson is widened by the full re-verification sweep of 2026-11-08, which re-read Armenia's maths books page by page and rebuilt the placements from the PDFs. Newly stocked from its Geometry 7: on geometric drawings; perpendicular bisector of a segment; constructions with compass and ruler; examples of construction problems.
+
+South Sudan enters through its primary books: constructing parallel lines in Primary 5 (§3.1, printed p. 46) and constructing a circle of a given radius in Primary 6 (§3.3, printed p. 43).

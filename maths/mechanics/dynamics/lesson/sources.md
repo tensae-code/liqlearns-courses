@@ -1,6 +1,6 @@
 # Sources — Dynamics: motion, momentum and energy
 
-countries: Egypt, Malaysia, Sudan, Albania
+countries: Egypt, Malaysia, Sudan, Albania, South Sudan
 
 Every part traces to its book and page.
 
@@ -14,6 +14,7 @@ Egypt was the first source for this lesson. Among the countries whose maths book
 **Book 4:** *Specialized Mathematics, Book Two, Grade 12 (science track)* — Sudan, Ministry of General Education, National Centre for Curriculum and Educational Research (NCCER), Bakht-er-Rudha, revised issue, Arabic, ISBN 978-99942-53-17-3. Filed in maths/books/sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 5:** *Libër Mësuesi Matematika 10 — Pjesa e parë* (teacher's book) — Albania, Mediaprint, Tiranë; no authors, year, edition or ISBN are printed anywhere in the held copy (it has no imprint or CIP page — nothing is imported from any other record). Teacher evidence only — no pupil's book is in hand for this grade. Filed in maths/books/albania.md (FULLY READ + CITATION CHECK PASSED).
+**Book 6:** *Secondary Mathematics — Student's Book 4* — South Sudan, Ministry of General Education and Instruction, ©2018, Mountain Top Publishers. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -39,10 +40,13 @@ Egypt was the first source for this lesson. Among the countries whose maths book
 | Car overtaking: modelling with s, u, a, t quantities (uniform vs accelerated motion) | Albania, Libër Mësuesi Matematika 10 (Pjesa e parë) (teacher's book — teacher evidence), printed p. 49 |
 
 | Velocity and acceleration — Applications in mechanics (§3-3): instantaneous velocity ع = دف/دن as the limit of average velocity; acceleration جـ = دع/دن = د²ف/دن²; exercises incl. proving acceleration ∝ displacement for ف = أ جتا(ب ن + هـ) (SHM) | Sudan, Grade 12 Specialized Mathematics, Book Two (science track), printed p. 90 |
-**Acceptance count: taught in 4 countries (Egypt, Malaysia, Sudan, Albania).** Egypt teaches dynamics whole in one Applied Mathematics run: rectilinear motion, uniformly accelerated motion and free fall, then momentum and Newton's three laws, in Grade 11 Term 2; and motion as a function of time, variable and connected bodies, impulse, and work, energy and power (printed pp.72–150) in Part 2 (Dynamics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson was first built at that honest size — one country's full treatment of mechanics as a subject; Malaysia's calculus treatment of motion now joins it, in its own part below.
+| Application to kinematics — velocity and acceleration | South Sudan, Student's Book 4, Unit 4, printed p. 88 |
+**Acceptance count: taught in 5 countries (Egypt, Malaysia, Sudan, Albania, South Sudan).** Egypt teaches dynamics whole in one Applied Mathematics run: rectilinear motion, uniformly accelerated motion and free fall, then momentum and Newton's three laws, in Grade 11 Term 2; and motion as a function of time, variable and connected bodies, impulse, and work, energy and power (printed pp.72–150) in Part 2 (Dynamics) of its Grade 12 Applied Mathematics (Mechanics) book. No other read country teaches this material, so this lesson was first built at that honest size — one country's full treatment of mechanics as a subject; Malaysia's calculus treatment of motion now joins it, in its own part below.
 
 Malaysia joins Egypt in this lesson from a different direction: its kinematics of linear motion is the calculus of motion — s, v and a as functions of time, joined by differentiation one way and by integration the other, with distance against displacement settled carefully — where Egypt teaches mechanics as its own applied subject.
 
 Sudan meets velocity and acceleration in Grade 12 Specialized Book Two, inside its calculus course.
 
 Albania enters through its Mediaprint teacher's books (Libër Mësuesi, in Albanian) — TEACHER EVIDENCE only: no pupil's book is in hand for any grade, so Albania is never cited as a pupil-textbook source; what the teacher's books evidence is what is taught and in what order, through their lesson plans, worked answers and answer keys. From its books: from Grade 10 (teacher's book): Car overtaking: modelling with s, u, a, t quantities (uniform vs accelerated motion).
+
+South Sudan enters through its Secondary 4 student's book, whose calculus unit applies differentiation to kinematics — velocity and acceleration (Unit 4, printed p. 88).

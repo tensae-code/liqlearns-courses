@@ -1199,6 +1199,7 @@ edition 2026. Filed in maths/books/south-africa.md (FULLY READ
 | Workbook practice: geometry (T2 U8) | Jordan, Grade 5 Workbook Term 2, Unit 8 (workbook evidence) |
 | TEACHER EVIDENCE: guidance from a partial copy of the Grade 5 Term 2 guide | Jordan, Grade 5 Teacher Guide Term 2, fragment copy (teacher evidence) |
 | Workbook practice: two-dimensional shapes (T2 U7) | Jordan, Grade 8 Workbook Term 2, Unit 7 (workbook evidence) |
+| Grouping and matching by shape — sorting shapes inside the sorting section | South Sudan, Primary Mathematics — Pupil's Book 1, Unit 1 §1.1, printed pp. 2–19 |
 
 **Acceptance count: taught in 42 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Ghana, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Saudi Arabia, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan, Palestine, Tanzania).**.** Jordan carries the full sorting ladder Iran names shapes by stencil in Grade 1, works with flat and solid shapes in Grade 2, classifies quadrilaterals in Grade 4 and polygons in Grade 8, and gives constructions and polygons again in Grade 10 Geometry (1).
 — polygons, triangles two ways, then the parallelogram family

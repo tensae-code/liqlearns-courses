@@ -338,6 +338,7 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 **Book 183:** *Mathematics — Primary Learner's Book, Year 3* (English edition) — Rwanda, Rwanda Education Board (REB), © 2020 (translated from the 2019 Kinyarwanda original). No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 184:** *Imibare — Igitabo cy'Umunyeshuri, Umwaka wa 3* (Kinyarwanda original of the Year 3 pupil's book) — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 185:** *Primary Mathematics — Teacher's Guide 6* (teacher guide) — South Sudan, Ministry of General Education and Instruction, ©2018. Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED). Teacher evidence only: it mirrors Pupil's Book 6 section by section, with lesson plans, methods and answer keys, and teaches no pupil content beyond it.
 
 
 | Lesson part | Where it comes from |
@@ -647,6 +648,8 @@ maths/books/ghana.md (FULLY READ + CITATION CHECK PASSED
 | Workbook practice: transformations and constructions (T1 U4) | Jordan, Grade 6 Workbook Term 1, Unit 4 (workbook evidence) |
 | Workbook practice: the circle (T1 U2) | Jordan, Grade 10 Workbook Term 1, Unit 2 (workbook evidence) |
 | TEACHER EVIDENCE: guidance from a partial copy (chunk) of the Grade 10 Term 1 guide | Jordan, Grade 10 Teacher Guide Term 1, chunk copy (teacher evidence) |
+| Making patterns with circles | South Sudan, Primary Mathematics — Pupil's Book 6, Unit 3 §3.4, printed p. 45 |
+| TEACHER EVIDENCE: lesson plans, methods and answer keys for Pupil's Book 6 (teacher evidence) | South Sudan, Primary Mathematics — Teacher's Guide 6, whole guide (teacher evidence) |
 
 **Acceptance count: taught in 38 countries (Kazakhstan, Jordan, South Africa, Egypt, Greece, Armenia, Sierra Leone, Mauritania, Libya, Vietnam, Laos, Yemen, Indonesia, Nicaragua, Ethiopia, South Sudan, Iraq, Bangladesh, Nepal, Cambodia, Kuwait, North Macedonia, Iran, China, Pakistan, Syria, Malaysia, Rwanda, Sudan, India, Mongolia, Venezuela, Afghanistan, Uzbekistan, Ecuador, Albania, Bolivia, Tajikistan).**.** Kazakhstan carries the full climb — circle Iran measures the circumference in Grade 5 — with the book's own bounds for π, 3 1/7 and 3 10/71, while its exercises work with π = 3 — the area of a circle in Grade 6, circle basics in Grade 8, and the circle's equation in Grade 12 Geometry (3).
 parts in Grade 3, circle and disc in Grades 4 and 5, then the

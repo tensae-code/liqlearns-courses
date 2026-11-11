@@ -1,6 +1,6 @@
 # Sources — Constructing triangles and quadrilaterals
 
-countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda
+countries: Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan
 
 Every part traces to its book and page.
 
@@ -48,6 +48,7 @@ Every part traces to its book and page.
 **Book 29:** *Mathematics, Class 10* (compulsory) — Nepal, CDC, Sanothimi, no edition line and no year printed. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
 
 **Book 30:** *Primary 6 Mathematics for Rwanda Schools — Learner's Book* — Rwanda, Rwanda Education Board (REB), © 2019. No ISBN printed. Filed in maths/books/rwanda.md (FULLY READ + CITATION CHECK PASSED).
+**Book 31:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: construction is a named unit in both of Nepal's senior compulsory books — Grade 9 Unit 15 and Grade 10 Unit 14, following those books' own triangle and quadrilateral units.
 
@@ -129,7 +130,9 @@ On Nepal in this lesson: construction is a named unit in both of Nepal's senior 
 | Constructing quadrilaterals (§7-4) | Libya, Grade 8 pupil's book, §7-4, printed pp.79–95 |
 | Constructing triangles and quadrilaterals | Nepal, Grade 9 student book, Unit 15, printed p. 284 |
 | Constructing triangles and quadrilaterals | Nepal, Grade 10 student book, Unit 14, printed p. 149 |
-**Acceptance count: taught in 19 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda).** North Macedonia enters from its main set — Grade 7 (2025).
+| Construct a parallelogram | South Sudan, Pupil's Book 7, §3.4, printed p. 46 |
+| Construct a trapezium | South Sudan, Pupil's Book 7, §3.5, printed p. 47 |
+**Acceptance count: taught in 20 countries (Pakistan, Bangladesh, Yemen, Sierra Leone, Syria, Sudan, India, Mongolia, Venezuela, North Macedonia, Afghanistan, Uzbekistan, Ecuador, Tajikistan, Armenia, South Africa, Libya, Nepal, Rwanda, South Sudan).** North Macedonia enters from its main set — Grade 7 (2025).
 
 Libya carries constructing triangles and quadrilaterals in Grade 5 (stocked by the 2026-11-08 re-verification sweep).
 
@@ -153,3 +156,5 @@ Tajikistan enters through its Ministry-approved pupil's textbooks in Tajik (Cyri
 Armenia enters through its Geometry 7. From its books: constructing a triangle from three elements.
 
 Rwanda enters from its Primary 6 Learner's Book: Unit 13 constructs polygons and nets — drawing triangles, squares and rectangles with protractor and ruler, and constructing triangles, rectangles, squares and regular polygons with ruler and compasses (printed pp. 229–260) — cross-cited here from the compass-constructions lesson, where the unit is stocked whole.
+
+South Sudan enters through its Primary 7 pupil's book: constructing a parallelogram (§3.4, printed p. 46) and constructing a trapezium (§3.5, printed p. 47).

@@ -1,6 +1,6 @@
 # Sources — The Unitary Method
 
-countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal
+countries: Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan
 
 Every part traces to its book and page.
 
@@ -24,6 +24,7 @@ Every part traces to its book and page.
 **Book 11:** *Mathematics, Grade 5 pupil's book* (student book) («الأصدقاء! يحبون الرياضيات» — Maths Friends series) — Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research (CERC), school year 1440–1441 AH / 2019–2020 CE; no ISBN printed. Filed in maths/books/libya.md (FULLY READ + CITATION CHECK PASSED).
 **Book 12:** *Toán 4, Tập Hai* (Mathematics 4, Volume 2) — Vietnam, Kết nối tri thức với cuộc sống (NXB Giáo dục Việt Nam), ISBN 978-604-0-35032-9. Held copy is the trial print (Bản in thử); contents and body complete. Filed in maths/books/vietnam.md (FULLY READ + CITATION CHECK PASSED).
 **Book 13:** *My Mathematics, Grades 3, 4 and 5, and Mathematics, Classes 6, 7 and 8, student books* — Nepal, CDC, Sanothimi. Filed in maths/books/nepal.md (FULLY READ + CITATION CHECK PASSED).
+**Book 14:** *Primary Mathematics — Pupil's Book 7* — South Sudan, Ministry of General Education and Instruction (no © line, ISBN or author printed; same 2018 series). Filed in maths/books/south-sudan.md (FULLY READ + CITATION CHECK PASSED).
 
 On Nepal in this lesson: the unitary method is a named lesson in Nepal's books at every level from Grade 3 to Grade 8 — Grade 3 Lesson 24, Grade 4 §4.4, Grade 5 Unit 14, Grade 6 Lesson 8, Grade 7 Unit 19 and Grade 8 Unit 17.
 
@@ -55,8 +56,9 @@ On Nepal in this lesson: the unitary method is a named lesson in Nepal's books a
 | Unitary method | Nepal, Grade 6 student book, Lesson 8, printed p. 98 |
 | Unitary method | Nepal, Grade 7 student book, Unit 19, printed p. 156 |
 | Unitary method | Nepal, Grade 8 student book, Unit 17, printed p. 136 |
+| Ratios and proportions using the unitary method | South Sudan, Pupil's Book 7, §1.4, printed p. 5 |
 
-**Acceptance count: taught in 11 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
+**Acceptance count: taught in 12 countries (Pakistan, Bangladesh, Syria, Rwanda, India, Ecuador, Bolivia, Afghanistan, Libya, Vietnam, Nepal, South Sudan).** Pakistan carries the unitary method as a named, drilled method in Grade 5 — its Unit 6 names the method, defines ratio and both kinds of proportion inside the same unit, and solves direct problems (pp.92–93) and inverse problems (pp.94–95) by the many → one → many road. Bangladesh carries the method twice: in Class 5 as the price of one item, then of many (§3.3, p.17), and again in Class 6 in the chapter that joins the unitary method to percentages and ratio (Ch. 5, pp.103–137).
 
 Vietnam carries the reduce-to-the-unit problem type in Grade 4 (Bài 47). Stocked 2026-11-11 by the Vietnam re-verification sweep merge.
 
@@ -71,3 +73,5 @@ India enters the unitary method from Mathematics Class 6: unitary method: find t
 Bolivia enters through the Área Matemática sections of its Ministerio de Educación (Estado Plurinacional de Bolivia) Textos de Aprendizaje — the student books for Grades 7, 8, 10 and 12, each the maths section of that year's integrated year book, keeping the whole book's printed foliation, with no imprint or ISBN printed in any of them — and through the Compendio para Maestras y Maestros 2023–2024, the ministry's teacher compilation of the official student texts for all six Secundaria years (Grades 7–12), cited as teacher-compilation evidence only, never as or in place of a pupil text; its Secundaria 3 and Secundaria 5 sections are the only in-hand source for Grades 9 and 11, whose student texts are not in the record. From its books: from Grade 7: Regla de tres simple directa; Regla de tres simple inversa; Regla de tres compuesta; from the Compendium's Secundaria 1 section (Grade 7): Razones, proporciones y regla de tres.
 
 Afghanistan enters from its Grade 8 Dari book, where the unitary method is taught inside the financial-calculations chapter, beside percent and discount (printed pp. 57–58).
+
+South Sudan enters through its Primary 7 pupil's book, whose ratios-and-proportions section names the unitary method itself (§1.4, printed p. 5).
